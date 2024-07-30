@@ -1,5 +1,6 @@
 const axios = require('axios');
 const fs = require('fs-extra');
+const { Parser } = require('json2csv');
 require('dotenv').config();
 
 const GITHUB_API_URL = 'https://api.github.com';
@@ -27,8 +28,13 @@ const fetchTrendingRepos = async () => {
 
         const repos = response.data.items;
 
-        saveReposToMarkdown(repos)
-        saveReposToTableInMarkdown(repos);
+        fs.ensureDirSync(dir());
+
+        const today = new Date().toISOString().split('T')[0];
+        saveReposToMarkdown(repos, today)
+        saveReposToTableInMarkdown(repos, today);
+        saveReposToJson(repos, today);
+        saveReposToCsv(repos, today);
     } catch (error) {
         console.error('Error fetching trending repositories:', error);
     }
@@ -46,6 +52,9 @@ const getLastWeekDate = () => {
     return lastWeek.toISOString().split('T')[0];
 };
 
+const dir = () => {
+    return './docs';
+}
 
 /**
  * Save the trending GitHub repositories to a markdown file.
@@ -53,10 +62,8 @@ const getLastWeekDate = () => {
  * @param {Array} repos - The list of repositories to save.
  * @return {void} This function does not return anything explicitly.
  */
-const saveReposToMarkdown = (repos) => {
-    const today = new Date().toISOString().split('T')[0];
-    const dir = './docs';
-    const filePath = `${dir}/${today}.md`;
+const saveReposToMarkdown = (repos, today) => {
+    const filePath = `${dir()}/${today}.md`;
 
     const markdownContent = `# Top 20 Trending GitHub Repositories of the Week (as of ${today})\n\n` +
         repos.map((repo, index) => (
@@ -82,17 +89,14 @@ const saveReposToMarkdown = (repos) => {
             `   - **License**: ${repo.license ? repo.license.name : 'No license'}\n`
         )).join('\n');
 
-    fs.ensureDirSync(dir);
     fs.writeFileSync(filePath, markdownContent, 'utf8');
 
     console.log(`Saved trending repos to ${filePath}`);
 };
 
 
-const saveReposToTableInMarkdown = (repos) => {
-    const today = new Date().toISOString().split('T')[0];
-    const dir = './docs';
-    const filePath = `${dir}/${today}-table.md`;
+const saveReposToTableInMarkdown = (repos, today) => {
+    const filePath = `${dir()}/${today}-table.md`;
 
     const markdownContent = `# Top 20 Trending GitHub Repositories of the Week (as of ${today})\n\n` +
         '| # | Repository | Stars | Owner | Avatar | Description | Topics | URL | Created At | Updated At | Pushed At | Git URL | SSH URL | Clone URL | SVN URL | Homepage | Size | Language | Forks Count | Open Issues Count | Default Branch | License |\n' +
@@ -101,9 +105,63 @@ const saveReposToTableInMarkdown = (repos) => {
             `| ${index + 1} | [${repo.full_name}](https://github.com/${repo.full_name}) | ${repo.stargazers_count} | ${repo.owner.login} | ![${repo.owner.login}'s avatar](${repo.owner.avatar_url}) | ${repo.description || 'No description'} | ${repo.topics.join(', ') || 'No topics'} | [${repo.html_url}](${repo.html_url}) | ${repo.created_at} | ${repo.updated_at} | ${repo.pushed_at} | ${repo.git_url} | ${repo.ssh_url} | ${repo.clone_url} | ${repo.svn_url} | ${repo.homepage || 'No homepage'} | ${repo.size} | ${repo.language || 'No language specified'} | ${repo.forks_count} | ${repo.open_issues_count} | ${repo.default_branch} | ${repo.license ? repo.license.name : 'No license'} |`
         )).join('\n');
 
-    fs.ensureDirSync(dir);
     fs.writeFileSync(filePath, markdownContent, 'utf8');
+    console.log(`Saved trending repos to ${filePath}`);
+};
 
+/**
+ * Saves the trending GitHub repositories to a JSON file.
+ *
+ * @param {Array} repos - The list of repositories to save.
+ * @param {string} today - The current date in the format 'YYYY-MM-DD'.
+ * @return {void} This function does not return anything explicitly.
+ */
+const saveReposToJson = (repos, today) => {
+    const filePath = `${dir()}/${today}.json`;
+    // JSON File with Selected Fields
+    const selectedFields = repos.map(repo => ({
+        id: repo.id,
+        name: repo.name,
+        full_name: repo.full_name,
+        owner: {
+            login: repo.owner.login,
+            avatar_url: repo.owner.avatar_url
+        },
+        description: repo.description,
+        topics: repo.topics,
+        html_url: repo.html_url,
+        stargazers_count: repo.stargazers_count,
+        language: repo.language,
+        forks_count: repo.forks_count,
+        open_issues_count: repo.open_issues_count,
+        created_at: repo.created_at,
+        updated_at: repo.updated_at,
+        pushed_at: repo.pushed_at,
+    }));
+    fs.writeFileSync(filePath, JSON.stringify(selectedFields, null, 2), 'utf8');
+
+    console.log(`Saved trending repos to ${filePath}`);
+};
+
+/**
+ * Saves the trending GitHub repositories to a CSV file.
+ *
+ * @param {Array} repos - The list of repositories to save.
+ * @param {string} today - The current date in the format 'YYYY-MM-DD'.
+ * @return {void} This function does not return anything explicitly.
+ */
+const saveReposToCsv = (repos, today) => {
+    const filePath = `${dir()}/${today}.csv`;
+    const fields = [
+        'full_name', 'stargazers_count', 'owner.login', 'owner.avatar_url',
+        'description', 'topics', 'html_url', 'created_at', 'updated_at', 'pushed_at',
+        'git_url', 'ssh_url', 'clone_url', 'svn_url', 'homepage', 'size', 'language',
+        'forks_count', 'open_issues_count', 'default_branch', 'license.name'
+    ];
+    const parser = new Parser({ fields });
+    const csvFields = parser.parse(repos);
+
+    fs.writeFileSync(filePath, csvFields, 'utf8');
     console.log(`Saved trending repos to ${filePath}`);
 };
 
