@@ -1,0 +1,524 @@
+[
+  {
+    "id": 891365119,
+    "name": "Automated-AI-Web-Researcher-Ollama",
+    "full_name": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
+    "owner": {
+      "login": "TheBlewish",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169735170?v=4"
+    },
+    "description": "A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!",
+    "topics": [],
+    "html_url": "https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama",
+    "stargazers_count": 1557,
+    "language": "Python",
+    "forks_count": 147,
+    "open_issues_count": 13,
+    "created_at": "2024-11-20T07:50:38Z",
+    "updated_at": "2024-11-23T04:20:00Z",
+    "pushed_at": "2024-11-23T01:54:08Z"
+  },
+  {
+    "id": 889750399,
+    "name": "LLaVA-CoT",
+    "full_name": "PKU-YuanGroup/LLaVA-CoT",
+    "owner": {
+      "login": "PKU-YuanGroup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135824553?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/PKU-YuanGroup/LLaVA-CoT",
+    "stargazers_count": 1232,
+    "language": null,
+    "forks_count": 40,
+    "open_issues_count": 5,
+    "created_at": "2024-11-17T06:01:19Z",
+    "updated_at": "2024-11-23T04:12:00Z",
+    "pushed_at": "2024-11-21T14:57:47Z"
+  },
+  {
+    "id": 889915078,
+    "name": "boltz",
+    "full_name": "jwohlwend/boltz",
+    "owner": {
+      "login": "jwohlwend",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7190650?v=4"
+    },
+    "description": "Official repository for the Boltz-1 biomolecular interaction model",
+    "topics": [],
+    "html_url": "https://github.com/jwohlwend/boltz",
+    "stargazers_count": 1113,
+    "language": "Python",
+    "forks_count": 113,
+    "open_issues_count": 25,
+    "created_at": "2024-11-17T15:10:01Z",
+    "updated_at": "2024-11-23T04:04:22Z",
+    "pushed_at": "2024-11-22T12:51:02Z"
+  },
+  {
+    "id": 889684712,
+    "name": "documind",
+    "full_name": "DocumindHQ/documind",
+    "owner": {
+      "login": "DocumindHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187449251?v=4"
+    },
+    "description": "Open-source platform for extracting structured data from documents using AI.",
+    "topics": [
+      "ai",
+      "document-extraction",
+      "document-processing",
+      "llms",
+      "open-source",
+      "pdf-extractor"
+    ],
+    "html_url": "https://github.com/DocumindHQ/documind",
+    "stargazers_count": 953,
+    "language": "TypeScript",
+    "forks_count": 24,
+    "open_issues_count": 3,
+    "created_at": "2024-11-17T00:17:23Z",
+    "updated_at": "2024-11-23T03:56:45Z",
+    "pushed_at": "2024-11-21T18:40:32Z"
+  },
+  {
+    "id": 889371307,
+    "name": "bRAG-langchain",
+    "full_name": "bRAGAI/bRAG-langchain",
+    "owner": {
+      "login": "bRAGAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188657705?v=4"
+    },
+    "description": "Everything you need to know to build your own RAG application",
+    "topics": [
+      "agentic-rag",
+      "chatbot",
+      "llm",
+      "machine-learning",
+      "python",
+      "rag"
+    ],
+    "html_url": "https://github.com/bRAGAI/bRAG-langchain",
+    "stargazers_count": 679,
+    "language": "Jupyter Notebook",
+    "forks_count": 54,
+    "open_issues_count": 4,
+    "created_at": "2024-11-16T07:41:36Z",
+    "updated_at": "2024-11-23T03:57:31Z",
+    "pushed_at": "2024-11-20T00:03:08Z"
+  },
+  {
+    "id": 889673052,
+    "name": "terminal-velocity",
+    "full_name": "Lesterpaintstheworld/terminal-velocity",
+    "owner": {
+      "login": "Lesterpaintstheworld",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5920204?v=4"
+    },
+    "description": "A novel created autonomously by 10 teams of 10 AI agents",
+    "topics": [],
+    "html_url": "https://github.com/Lesterpaintstheworld/terminal-velocity",
+    "stargazers_count": 598,
+    "language": null,
+    "forks_count": 28,
+    "open_issues_count": 2,
+    "created_at": "2024-11-16T23:15:46Z",
+    "updated_at": "2024-11-23T04:07:47Z",
+    "pushed_at": "2024-11-23T03:59:17Z"
+  },
+  {
+    "id": 889637874,
+    "name": "pglite-fusion",
+    "full_name": "frectonz/pglite-fusion",
+    "owner": {
+      "login": "frectonz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53809656?v=4"
+    },
+    "description": "Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.",
+    "topics": [
+      "multitenancy",
+      "postgres-extension",
+      "postgresql",
+      "sqlite",
+      "sqlite-in-postgres"
+    ],
+    "html_url": "https://github.com/frectonz/pglite-fusion",
+    "stargazers_count": 584,
+    "language": "Nix",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2024-11-16T20:43:45Z",
+    "updated_at": "2024-11-23T03:58:21Z",
+    "pushed_at": "2024-11-21T03:40:22Z"
+  },
+  {
+    "id": 891628186,
+    "name": "darkflare",
+    "full_name": "doxx/darkflare",
+    "owner": {
+      "login": "doxx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2159481?v=4"
+    },
+    "description": "DarkFlare Firewall Piercing (TCP over CDN)",
+    "topics": [
+      "censorship-circumvention",
+      "firewall-piercing",
+      "golang",
+      "proxy-server",
+      "security",
+      "security-tools",
+      "tcpocdn",
+      "tunnel-client",
+      "tunnel-server",
+      "tunneling",
+      "vpns"
+    ],
+    "html_url": "https://github.com/doxx/darkflare",
+    "stargazers_count": 498,
+    "language": "Go",
+    "forks_count": 18,
+    "open_issues_count": 4,
+    "created_at": "2024-11-20T17:05:00Z",
+    "updated_at": "2024-11-23T04:13:09Z",
+    "pushed_at": "2024-11-22T21:09:17Z"
+  },
+  {
+    "id": 892179639,
+    "name": "llama3_interpretability_sae",
+    "full_name": "PaulPauls/llama3_interpretability_sae",
+    "owner": {
+      "login": "PaulPauls",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9610922?v=4"
+    },
+    "description": "A complete end-to-end pipeline for LLM interpretability with sparse autoencoders (SAEs) using Llama 3.2, written in pure PyTorch and fully reproducible.",
+    "topics": [
+      "feature-extraction",
+      "feature-steering",
+      "llama3",
+      "llm-interpretability",
+      "open-research",
+      "pytorch",
+      "sparse-autoencoder"
+    ],
+    "html_url": "https://github.com/PaulPauls/llama3_interpretability_sae",
+    "stargazers_count": 475,
+    "language": "Python",
+    "forks_count": 18,
+    "open_issues_count": 0,
+    "created_at": "2024-11-21T16:38:14Z",
+    "updated_at": "2024-11-23T04:08:30Z",
+    "pushed_at": "2024-11-22T19:17:47Z"
+  },
+  {
+    "id": 891383176,
+    "name": "echomimic_v2",
+    "full_name": "antgroup/echomimic_v2",
+    "owner": {
+      "login": "antgroup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37703784?v=4"
+    },
+    "description": "EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation",
+    "topics": [
+      "audio-driven-portrait-animations",
+      "audio-driven-talking-face",
+      "human-animation",
+      "talking-face-generation",
+      "talking-head"
+    ],
+    "html_url": "https://github.com/antgroup/echomimic_v2",
+    "stargazers_count": 294,
+    "language": "Python",
+    "forks_count": 28,
+    "open_issues_count": 11,
+    "created_at": "2024-11-20T08:35:35Z",
+    "updated_at": "2024-11-23T04:10:57Z",
+    "pushed_at": "2024-11-23T03:37:12Z"
+  },
+  {
+    "id": 890279592,
+    "name": "ultra",
+    "full_name": "xoofx/ultra",
+    "owner": {
+      "login": "xoofx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/715038?v=4"
+    },
+    "description": "An advanced profiler for .NET Applications on Windows",
+    "topics": [
+      "dotnet",
+      "etw",
+      "profiler"
+    ],
+    "html_url": "https://github.com/xoofx/ultra",
+    "stargazers_count": 263,
+    "language": "C#",
+    "forks_count": 4,
+    "open_issues_count": 4,
+    "created_at": "2024-11-18T09:56:16Z",
+    "updated_at": "2024-11-23T00:26:29Z",
+    "pushed_at": "2024-11-18T18:27:01Z"
+  },
+  {
+    "id": 891395218,
+    "name": "legend-list",
+    "full_name": "LegendApp/legend-list",
+    "owner": {
+      "login": "LegendApp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60373862?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/LegendApp/legend-list",
+    "stargazers_count": 255,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 3,
+    "created_at": "2024-11-20T09:02:32Z",
+    "updated_at": "2024-11-23T02:29:49Z",
+    "pushed_at": "2024-11-22T22:59:46Z"
+  },
+  {
+    "id": 892076910,
+    "name": "Broadcastarr",
+    "full_name": "Billos/Broadcastarr",
+    "owner": {
+      "login": "Billos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5809662?v=4"
+    },
+    "description": "Stream web content through your Jellyfin instance",
+    "topics": [],
+    "html_url": "https://github.com/Billos/Broadcastarr",
+    "stargazers_count": 216,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 1,
+    "created_at": "2024-11-21T13:21:40Z",
+    "updated_at": "2024-11-23T03:21:11Z",
+    "pushed_at": "2024-11-22T17:22:11Z"
+  },
+  {
+    "id": 889886315,
+    "name": "Sol-Sniper-Bot",
+    "full_name": "earthskyorg/Sol-Sniper-Bot",
+    "owner": {
+      "login": "earthskyorg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1278765?v=4"
+    },
+    "description": "About Sol Sniper Bot with Memecoin and TP/SL, Auto Buy/Sell, RugCheck, Min/Max Liquidity, Fast Buy. The Solana Sniper Bot that listens to new Raydium SOL or USDC pools and buys tokens for a fixed amount in SOL/USDC.",
+    "topics": [
+      "bot",
+      "liquidity-sniper",
+      "memcoin",
+      "memecoin",
+      "raydium",
+      "raydium-bot",
+      "sniper-bot",
+      "sniper-bot-solana-raydium",
+      "sol-snipe",
+      "solana",
+      "solana-sniper",
+      "solana-sniper-bot",
+      "spl-sniper",
+      "spl-token-snipe",
+      "typescript"
+    ],
+    "html_url": "https://github.com/earthskyorg/Sol-Sniper-Bot",
+    "stargazers_count": 215,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2024-11-17T13:51:54Z",
+    "updated_at": "2024-11-23T03:52:56Z",
+    "pushed_at": "2024-11-21T23:51:39Z"
+  },
+  {
+    "id": 891705470,
+    "name": "LTX-Video",
+    "full_name": "Lightricks/LTX-Video",
+    "owner": {
+      "login": "Lightricks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3170348?v=4"
+    },
+    "description": "Official repository for LTX-Video",
+    "topics": [
+      "diffusion-models",
+      "dit",
+      "image-to-video",
+      "image-to-video-generation",
+      "text-to-video",
+      "text-to-video-generation"
+    ],
+    "html_url": "https://github.com/Lightricks/LTX-Video",
+    "stargazers_count": 197,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 6,
+    "created_at": "2024-11-20T20:06:28Z",
+    "updated_at": "2024-11-23T04:09:48Z",
+    "pushed_at": "2024-11-22T14:10:31Z"
+  },
+  {
+    "id": 889873539,
+    "name": ".github",
+    "full_name": "CryptoRig-Optimizer-Maximize-Profits/.github",
+    "owner": {
+      "login": "CryptoRig-Optimizer-Maximize-Profits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188765899?v=4"
+    },
+    "description": "cryptocurrency-mining mining-optimizer hash-rate-booster gpu-mining-tools free-mining-software crypto-profit-maximizer mining-dashboard mining-rig-monitor real-time-mining-tools ethereum-mining monero-mining ravencoin-mining zcash-tools crypto-tools crypto-mining-software mining-rig-setup performance-enhancer mining-efficiency crypto-rig-tuner prof",
+    "topics": [
+      "crypto-mining-software",
+      "crypto-profit-maximizer",
+      "crypto-rig-tuner",
+      "crypto-tools",
+      "cryptocurrency-mining",
+      "ethereum-mining",
+      "free-mining-software",
+      "gpu-mining-tools",
+      "hash-rate-booster",
+      "mining-dashboard",
+      "mining-efficiency",
+      "mining-optimizer",
+      "mining-rig-monitor",
+      "mining-rig-setup",
+      "performance-enhancer",
+      "profit-boostertools",
+      "real-time-mining-tools",
+      "zcash-tools"
+    ],
+    "html_url": "https://github.com/CryptoRig-Optimizer-Maximize-Profits/.github",
+    "stargazers_count": 182,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2024-11-17T13:16:12Z",
+    "updated_at": "2024-11-21T16:28:45Z",
+    "pushed_at": "2024-11-17T13:17:25Z"
+  },
+  {
+    "id": 892791793,
+    "name": "m0dmenu-gta5-free",
+    "full_name": "marcop979/m0dmenu-gta5-free",
+    "owner": {
+      "login": "marcop979",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74033879?v=4"
+    },
+    "description": "From the functions here you can find Aimbot, Visual Effects, PlayerList, Teleport, TriggerBot, Fly, SuperJump, Car customization, Create and save configs, Load scripts and much more. In the future there will be more functions and additional scripts with which you can raise your game rating (LVL) or get a certain amount of game currency.",
+    "topics": [
+      "gta-5-esp-hack",
+      "gta-5-fly",
+      "gta-5-godmode",
+      "gta-5-infinite-ammo-hack",
+      "gta-5-mod-menu-torrent",
+      "gta-5-mod-online",
+      "gta-5-mode-menu",
+      "gta-5-noclip",
+      "gta5-mod-loader",
+      "gta5-modding-community",
+      "gta5-modding-tools",
+      "mod-menu-download",
+      "mod-menu-gta-5-online",
+      "mod-menu-gta-online",
+      "mod-menu-gtav-pc"
+    ],
+    "html_url": "https://github.com/marcop979/m0dmenu-gta5-free",
+    "stargazers_count": 177,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2024-11-22T19:36:45Z",
+    "updated_at": "2024-11-23T00:53:51Z",
+    "pushed_at": "2024-11-22T19:37:51Z"
+  },
+  {
+    "id": 891768973,
+    "name": "Rainbow-S1x-Siege-Cheat",
+    "full_name": "aikolimlang/Rainbow-S1x-Siege-Cheat",
+    "owner": {
+      "login": "aikolimlang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188641461?v=4"
+    },
+    "description": "ainbow-six-siege-hack rainbow-six-siege-esp rainbow-six-siege-cheat r6-cheat r6-hack r6s-cheat rainbow-six-cheat r6s-hack r6s-esp rainbow-six-siege-hack-free free-r6s-hack rainbow-six-hack-free r6s-hack-free rainbow-six-siege-hacks rainbow-six-siege-cheats rainbow-six-hack r6-free-hack rainbow-six-siege-free-hack free-hack-r6s r6s-hacks-free",
+    "topics": [
+      "r6-aim",
+      "r6-esp",
+      "r6-hack",
+      "r6-hack-free",
+      "rainbow-6-siege-aim",
+      "rainbow-6-siege-hack",
+      "rainbow-six-hack",
+      "rainbow-six-siege",
+      "rainbow-six-siege-aimbot-hack"
+    ],
+    "html_url": "https://github.com/aikolimlang/Rainbow-S1x-Siege-Cheat",
+    "stargazers_count": 177,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2024-11-20T23:23:02Z",
+    "updated_at": "2024-11-22T11:53:16Z",
+    "pushed_at": "2024-11-20T23:24:16Z"
+  },
+  {
+    "id": 891769108,
+    "name": "Spotify-Premium-for-free-2024",
+    "full_name": "biidzvcl/Spotify-Premium-for-free-2024",
+    "owner": {
+      "login": "biidzvcl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188672957?v=4"
+    },
+    "description": "This software makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
+    "topics": [
+      "premium-spotify-free",
+      "premium-spotify-pc",
+      "spotify",
+      "spotify-free",
+      "spotify-free-premium",
+      "spotify-no-ads",
+      "spotify-premium",
+      "spotify-premium-features",
+      "spotify-premium-free-activator",
+      "spotify-premium-free-lifetime-v8",
+      "spotify-premium-free-v8",
+      "spotify-premium-mod"
+    ],
+    "html_url": "https://github.com/biidzvcl/Spotify-Premium-for-free-2024",
+    "stargazers_count": 177,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2024-11-20T23:23:34Z",
+    "updated_at": "2024-11-22T11:53:16Z",
+    "pushed_at": "2024-11-20T23:24:43Z"
+  },
+  {
+    "id": 890160581,
+    "name": "Exit1ag-Free-2024",
+    "full_name": "abhijithharia/Exit1ag-Free-2024",
+    "owner": {
+      "login": "abhijithharia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63722901?v=4"
+    },
+    "description": "ExitLag is a software application designed to optimize and enhance the internet connection of gamers, aiming to reduce latency and improve the overall gaming experience. It is particularly useful for those who play online games where stable connections and minimal lag are critical.",
+    "topics": [
+      "exit-lag",
+      "exit-lag-free",
+      "exit-lag-free-2024",
+      "exit-lag-hack",
+      "exitlag-free-download-github",
+      "exitlag-free-github",
+      "exitlag-hack",
+      "free-download-exitlag-github",
+      "free-exit-lag",
+      "free-exitlag-github"
+    ],
+    "html_url": "https://github.com/abhijithharia/Exit1ag-Free-2024",
+    "stargazers_count": 176,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2024-11-18T05:02:50Z",
+    "updated_at": "2024-11-22T11:53:16Z",
+    "pushed_at": "2024-11-18T05:03:58Z"
+  }
+]
