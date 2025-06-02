@@ -1,18 +1,24 @@
 {
-  "name": "github-trending",
+  "name": "github-trending-webtool",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "private": true,
   "dependencies": {
-    "axios": "^1.7.2",
-    "dotenv": "^16.4.5",
-    "fs-extra": "^11.2.0",
-    "json2csv": "^6.0.0-alpha.2"
+    "antd": "^5.13.0",
+    "axios": "^1.6.8",
+    "file-saver": "^2.0.5",
+    "json2csv": "^5.0.7",
+    "papaparse": "^5.5.3",
+    "react": "^18.2.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
 }

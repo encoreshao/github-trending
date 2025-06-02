@@ -1,72 +1,81 @@
-# GitHub - Weekly Trending Repositories (2024 Active)
+# GitHub Trending Toolkit - Weekly Trending Repositories (2025 Active)
 
-This project is a Node.js script that fetches the top 20 trending GitHub repositories created in the last week, and saves the data into a markdown file.
-The markdown file is saved in the `docs` directory with the current date as the filename.
-The script is set up to run daily as a cron job, automatically generating the markdown file, committing the changes to a Git repository, and pushing the updates.
+A toolkit for fetching and displaying GitHub Trending Weekly repositories, featuring both a Node.js CLI script and a modern React web tool.
+
+---
 
 ## Features
+- **Node.js Script**: Fetches top 20 trending GitHub repositories created in the last week, saves data as Markdown, JSON, and CSV. Can be automated via cron.
+- **Web Tool (React + Ant Design)**: Interactive web UI for fetching, viewing, selecting, exporting, and copying trending repositories. Customizable fields and export formats.
 
-- Fetches top 20 trending GitHub repositories created in the last week.
-- Saves repository data into a markdown file in the `docs` directory.
-- Each markdown file includes repository details such as name, stars, owner, avatar, description, topics, URLs, and other relevant details.
-- Automatically runs daily via a cron job, commits the changes, and pushes to a Git repository.
+---
 
-## Prerequisites
+## Quick Start: Web Tool
 
-- Node.js
-- npm (Node Package Manager)
-- Git
-- A GitHub Personal Access Token with `repo` and `read:user` scopes.
-
-## Setup
-
-1. **Clone the repository:**
-
-   ```sh
-   git clone https://github.com/encoreshao/github-trending.git
-   cd github-trending
-   ```
-
-2. **Install dependencies:**
-
-   ```sh
+1. **Install dependencies**
+   ```bash
    npm install
    ```
-
-3. **Set up environment variables:**
-
-   Create a `.env` file in the root directory of the project and add your GitHub Personal Access Token:
-
-   ```env
-   GITHUB_TOKEN=your_github_token
+2. **Start the development server**
+   ```bash
+   npm run dev
    ```
+3. **Open your browser**
+   Visit [http://localhost:5173](http://localhost:5173)
 
-## Usage
+### Build for Production (Web Tool)
+```bash
+npm run build
+```
 
-1. **Run the script manually:**
+---
 
-   You can run the script manually to fetch the trending repositories and save the data into a markdown file:
+## Quick Start: Node.js Script
 
-   ```sh
+1. **Set up your environment**
+   - Create a `.env` file in the project root:
+     ```env
+     GITHUB_TOKEN=your_github_token
+     ```
+2. **Run the script manually**
+   ```bash
    node index.js
    ```
+   - Trending data will be saved in the `docs/` directory as Markdown, JSON, and CSV files.
+3. **(Optional) Automate with cron**
+   - Set up a cron job to run the script daily for automated trending data collection.
 
-2. **Set up the cron job:**
+---
 
-   To automate the process, set up a cron job to run the script daily. Edit your crontab file:
+## Tech Stack
+- Node.js (CLI script)
+- React 18, Ant Design 5, Vite (Web Tool)
+- axios, file-saver, papaparse, react-copy-to-clipboard
 
-   ```sh
-   crontab -e
-   ```
+---
 
-   Add the following line to run the script every day at midnight:
+## Project Structure
+- `index.js` — Node.js trending fetcher script
+- `src/components` — Web tool UI components
+- `src/api` — Web tool API logic
+- `src/utils` — Utility functions (if needed)
+- `src/App.jsx` — Web tool main layout
+- `docs/` — Output directory for trending data (Node.js script)
 
-   ```sh
-   0 0 * * * /path/to/your/project/scripts/run.sh
-   ```
+---
 
-   Replace `/path/to/your/project/scripts/run.sh` with the actual path to your `run.sh` script.
+## Usage Notes
+- **GitHub Token**: Both the script and web tool require a GitHub Personal Access Token to avoid rate limits.
+- **Web Tool**: Use the left panel to input your token and select fields. The right panel displays and exports data.
+- **Node.js Script**: Outputs Markdown, JSON, and CSV files for archival or further processing.
+
+---
+
+## Customization
+- **Web Tool**: Edit `src/components/AttributeSelector.jsx` to change selectable fields. Extend `src/api/github.js` for more API logic.
+- **Node.js Script**: Edit `index.js` to change output formats or fields.
+
+---
 
 ## License
-
 Github-Trending is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
