@@ -8,9 +8,9 @@ import { ATTRIBUTES } from './AttributeSelector';
 async function handleCellCopy(value) {
   try {
     await navigator.clipboard.writeText(value);
-    message.success('Copied!');
+    message.success(texts.copied);
   } catch {
-    message.error('Copy failed');
+    message.error(texts.copyFailed, 1);
   }
 }
 
@@ -18,7 +18,7 @@ const HEADER_HEIGHT = 40;
 const ACTION_HEIGHT = 40;
 const FOOTER_HEIGHT = 40;
 
-const RepoTable = ({ repos, attributes, loading, lang, texts, pageSize = 20 }) => {
+const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
   const [selectedRowKeys, setSelectedRowKeys] = useState([]);
   const tableBodyRef = useRef(null);
   const [bodyHeight, setBodyHeight] = useState(400);
