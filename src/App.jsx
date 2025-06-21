@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { Layout, Select } from 'antd';
-import { GithubOutlined } from '@ant-design/icons';
+import { Layout, Select, Segmented } from 'antd';
+import { GithubOutlined, TableOutlined, IdcardOutlined } from '@ant-design/icons';
 import SettingsPanel from './components/SettingsPanel';
 import RepoTable from './components/RepoTable';
+import RepoCardView from './components/RepoCardView';
 import './App.css';
 import { ATTRIBUTES } from './components/AttributeSelector';
 
@@ -26,6 +27,9 @@ const texts = {
     language: 'Language',
     pageSize: 'Per page',
     category: 'Category/Keyword (optional)',
+    view: 'View',
+    tableView: 'Table',
+    cardView: 'Card',
     footer: <><strong>© RanBOT</strong> | <a href="https://github.com/encoreshao/github-trending" target="_blank" rel="noopener noreferrer" style={{marginLeft: 8, color: '#222'}}><GithubOutlined style={{ fontSize: 20, verticalAlign: 'middle' }} /></a> &nbsp;| &nbsp;<a href="https://github.ranbot.online" target="_blank" rel="noopener noreferrer">Online</a></>,
   },
   zh: {
@@ -45,6 +49,9 @@ const texts = {
     language: '语言',
     pageSize: '每页大小',
     category: '分类/关键词（可选）',
+    view: '视图',
+    tableView: '表格',
+    cardView: '卡片',
     footer: <><strong>© RanBOT</strong> | <a href="https://github.com/encoreshao/github-trending" target="_blank" rel="noopener noreferrer" style={{marginLeft: 8, color: '#222'}}><GithubOutlined style={{ fontSize: 20, verticalAlign: 'middle' }} /></a> &nbsp;| &nbsp;<a href="https://github.ranbot.online" target="_blank" rel="noopener noreferrer">Online</a></>,
   }
 };
@@ -78,6 +85,7 @@ function App() {
   });
   const [repos, setRepos] = useState([]);
   const [loading, setLoading] = useState(false);
+  const [viewMode, setViewMode] = useState('card');
 
   // 每当 settings 变更时，写入 localStorage
   useEffect(() => {
@@ -107,7 +115,15 @@ function App() {
       </Sider>
       <Layout>
         <Content style={{ padding: 24, position: 'relative' }}>
-          <div style={{ position: 'absolute', top: 16, right: 24, zIndex: 10 }}>
+          <div style={{ position: 'absolute', top: 16, right: 24, zIndex: 10, display: 'flex', gap: 16, alignItems: 'center' }}>
+            <Segmented
+              options={[
+                { label: texts[lang].tableView, value: 'table', icon: <TableOutlined /> },
+                { label: texts[lang].cardView, value: 'card', icon: <IdcardOutlined /> },
+              ]}
+              value={viewMode}
+              onChange={setViewMode}
+            />
             <Select
               value={lang}
               onChange={l => setSettings(s => ({ ...s, lang: l }))}
@@ -118,14 +134,25 @@ function App() {
               ]}
             />
           </div>
-          <RepoTable
-            repos={repos}
-            attributes={attributes}
-            loading={loading}
-            lang={lang}
-            texts={texts[lang]}
-            pageSize={pageSize}
-          />
+          {viewMode === 'table' ? (
+            <RepoTable
+              repos={repos}
+              attributes={attributes}
+              loading={loading}
+              lang={lang}
+              texts={texts[lang]}
+              pageSize={pageSize}
+            />
+          ) : (
+            <RepoCardView
+              repos={repos}
+              attributes={attributes}
+              loading={loading}
+              lang={lang}
+              texts={texts[lang]}
+              pageSize={pageSize}
+            />
+          )}
         </Content>
         <Footer style={{ textAlign: 'center', background: '#fff', borderTop: '2px solid #eee' }}>
           {texts[lang].footer}
