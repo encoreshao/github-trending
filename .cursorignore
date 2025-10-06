@@ -1,0 +1,13 @@
+# Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)
+
+dist/
+assets/
+notebooks/
+docs/
+node_modules/
+tmp/
+
+.env
+.cursorignore
+.DS_Store
+.cursorrules

@@ -1,81 +1,241 @@
 # GitHub Trending Toolkit - Weekly Trending Repositories (2025 Active)
 
-A toolkit for fetching and displaying GitHub Trending Weekly repositories, featuring both a Node.js CLI script and a modern React web tool.
+A comprehensive toolkit for fetching and displaying GitHub Trending Weekly repositories, featuring both a Node.js CLI script and a modern React web application with bilingual support.
+
+**Languages / 语言**: [English](README.md) | [中文](README-zh.md)
 
 ---
 
-## Features
-- **Node.js Script**: Fetches top 20 trending GitHub repositories created in the last week, saves data as Markdown, JSON, and CSV. Can be automated via cron.
-- **Web Tool (React + Ant Design)**: Interactive web UI for fetching, viewing, selecting, exporting, and copying trending repositories. Customizable fields and export formats.
+## ✨ Features
+
+### 🌐 Web Application (React + Ant Design)
+- **Interactive UI**: Modern, responsive web interface with bilingual support (English/中文)
+- **Dual View Modes**: Table view for detailed data and Card view for visual browsing
+- **Customizable Fields**: Select from 20+ repository attributes to display
+- **Advanced Filtering**: Filter repositories by category/keywords
+- **Export Options**: Export data as CSV, JSON, or copy to clipboard
+- **Real-time Data**: Fetch trending repositories created in the last week
+- **Persistent Settings**: Settings are saved in browser localStorage
+- **Responsive Design**: Works on desktop and mobile devices
+
+### 📊 Node.js CLI Script
+- **Automated Fetching**: Fetches top 20 trending GitHub repositories created in the last week
+- **Multiple Output Formats**: Saves data as Markdown, JSON, and CSV files
+- **Cron Automation**: Can be automated via cron for daily data collection
+- **Comprehensive Data**: Includes all repository metadata (stars, forks, issues, etc.)
 
 ---
 
-## Quick Start: Web Tool
+## 🚀 Quick Start
+
+### Web Application
 
 1. **Install dependencies**
    ```bash
    npm install
    ```
+
 2. **Start the development server**
    ```bash
    npm run dev
    ```
+
 3. **Open your browser**
    Visit [http://localhost:5173](http://localhost:5173)
 
-### Build for Production (Web Tool)
+4. **Get a GitHub Token**
+   - Go to [GitHub Settings > Developer settings > Personal access tokens](https://github.com/settings/tokens)
+   - Generate a new token with `public_repo` scope
+   - Enter the token in the web application
+
+### Build for Production
 ```bash
 npm run build
 ```
 
----
-
-## Quick Start: Node.js Script
+### Node.js CLI Script
 
 1. **Set up your environment**
    - Create a `.env` file in the project root:
      ```env
      GITHUB_TOKEN=your_github_token
      ```
-2. **Run the script manually**
+
+2. **Run the script**
    ```bash
    node index.js
    ```
-   - Trending data will be saved in the `docs/` directory as Markdown, JSON, and CSV files.
-3. **(Optional) Automate with cron**
-   - Set up a cron job to run the script daily for automated trending data collection.
+   - Trending data will be saved in the `docs/` directory as Markdown, JSON, and CSV files
+
+3. **Automate with cron** (Optional)
+   ```bash
+   # Add to crontab for daily execution at 9 AM
+   0 9 * * * cd /path/to/github-trending && node index.js
+   ```
 
 ---
 
-## Tech Stack
-- Node.js (CLI script)
-- React 18, Ant Design 5, Vite (Web Tool)
-- axios, file-saver, papaparse, react-copy-to-clipboard
+## 🛠 Tech Stack
+
+### Web Application
+- **Frontend**: React 18, Ant Design 5, Vite
+- **Styling**: CSS3 with modern grid layouts and responsive design
+- **Data Processing**: axios, file-saver, papaparse, react-copy-to-clipboard
+- **Build Tool**: Vite for fast development and optimized production builds
+
+### Node.js Script
+- **Runtime**: Node.js
+- **HTTP Client**: axios
+- **File System**: fs-extra
+- **Data Processing**: json2csv
+- **Environment**: dotenv
 
 ---
 
-## Project Structure
-- `index.js` — Node.js trending fetcher script
-- `src/components` — Web tool UI components
-- `src/api` — Web tool API logic
-- `src/utils` — Utility functions (if needed)
-- `src/App.jsx` — Web tool main layout
-- `docs/` — Output directory for trending data (Node.js script)
+## 📁 Project Structure
+
+```
+github-trending/
+├── src/
+│   ├── components/
+│   │   ├── AttributeSelector.jsx    # Field selection component
+│   │   ├── RepoCardView.jsx         # Card view component
+│   │   ├── RepoTable.jsx            # Table view component
+│   │   ├── SettingsPanel.jsx       # Settings panel
+│   │   └── TokenInput.jsx           # Token input component
+│   ├── api/
+│   │   └── github.js               # GitHub API integration
+│   ├── App.jsx                     # Main application component
+│   ├── App.css                     # Application styles
+│   └── main.jsx                    # Application entry point
+├── docs/                           # Output directory for CLI script
+├── index.js                        # Node.js CLI script
+├── package.json                    # Dependencies and scripts
+└── README.md                       # This file
+```
 
 ---
 
-## Usage Notes
-- **GitHub Token**: Both the script and web tool require a GitHub Personal Access Token to avoid rate limits.
-- **Web Tool**: Use the left panel to input your token and select fields. The right panel displays and exports data.
-- **Node.js Script**: Outputs Markdown, JSON, and CSV files for archival or further processing.
+## 🎯 Usage Guide
+
+### Web Application Features
+
+1. **Settings Panel** (Left Sidebar)
+   - **GitHub Token**: Enter your personal access token
+   - **Field Selection**: Choose which repository attributes to display
+   - **Page Size**: Set number of repositories per page (1-100)
+   - **Category Filter**: Filter by specific keywords or categories
+   - **Language**: Switch between English and 中文
+
+2. **Data Display** (Main Area)
+   - **View Modes**: Toggle between Table and Card views
+   - **Table View**: Detailed tabular data with sortable columns
+   - **Card View**: Visual cards with repository information
+   - **Export Options**: CSV, JSON, or copy to clipboard
+
+3. **Available Fields**
+   - Repository name, stars, owner, avatar
+   - Description, topics, URLs (HTML, Git, SSH, Clone, SVN)
+   - Creation/update/push dates
+   - Size, language, forks, issues, license
+   - Default branch and homepage
+
+### Node.js Script Output
+
+The CLI script generates three types of files in the `docs/` directory:
+
+1. **Markdown Files** (`YYYY-MM-DD.md` and `YYYY-MM-DD-table.md`)
+   - Detailed repository information
+   - Table format for easy reading
+   - Includes all metadata
+
+2. **JSON File** (`YYYY-MM-DD.json`)
+   - Structured data for programmatic use
+   - Selected fields only for efficiency
+
+3. **CSV File** (`YYYY-MM-DD.csv`)
+   - Spreadsheet-compatible format
+   - All repository fields included
 
 ---
 
-## Customization
-- **Web Tool**: Edit `src/components/AttributeSelector.jsx` to change selectable fields. Extend `src/api/github.js` for more API logic.
-- **Node.js Script**: Edit `index.js` to change output formats or fields.
+## ⚙️ Configuration
+
+### Web Application
+- Settings are automatically saved in browser localStorage
+- Token is stored securely (not transmitted to external servers)
+- Field selections persist between sessions
+
+### Node.js Script
+- Configure via `.env` file
+- Modify `index.js` to change output formats or fields
+- Adjust date range by modifying `getLastWeekDate()` function
 
 ---
 
-## License
-Github-Trending is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+## 🔧 Customization
+
+### Adding New Fields
+1. **Web Application**: Edit `src/components/AttributeSelector.jsx`
+2. **Node.js Script**: Modify the `fields` array in `saveReposToCsv()`
+
+### Styling Changes
+- **Web Application**: Modify `src/App.css` for custom styling
+- **Card Layout**: Adjust grid settings in `.grid` class
+- **Colors**: Update CSS custom properties
+
+### API Modifications
+- **Web Application**: Extend `src/api/github.js` for additional GitHub API endpoints
+- **Node.js Script**: Modify the search query in `fetchTrendingRepos()`
+
+---
+
+## 📋 Requirements
+
+- **Node.js**: Version 16 or higher
+- **GitHub Token**: Personal Access Token with `public_repo` scope
+- **Browser**: Modern browser with ES6+ support
+
+---
+
+## 🐛 Troubleshooting
+
+### Common Issues
+
+1. **Rate Limit Exceeded**
+   - Ensure you have a valid GitHub token
+   - Check token permissions include `public_repo` scope
+
+2. **No Data Returned**
+   - Verify your token is correct
+   - Check network connectivity
+   - Ensure repositories exist for the date range
+
+3. **Build Errors**
+   - Clear node_modules and reinstall: `rm -rf node_modules && npm install`
+   - Check Node.js version compatibility
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature-name`
+3. Make your changes
+4. Commit your changes: `git commit -m 'Add feature'`
+5. Push to the branch: `git push origin feature-name`
+6. Submit a pull request
+
+---
+
+## 📄 License
+
+This project is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [https://github.com/encoreshao/github-trending](https://github.com/encoreshao/github-trending)
+- **Online Demo**: [https://github.ranbot.online](https://github.ranbot.online)
+- **Issues**: [Report bugs or request features](https://github.com/encoreshao/github-trending/issues)
