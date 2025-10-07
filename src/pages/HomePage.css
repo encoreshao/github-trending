@@ -62,28 +62,27 @@
 }
 
 .nav-cta {
-  background: #007AFF !important;
-  border: none !important;
-  border-radius: 20px !important;
-  padding: 8px 20px !important;
+  background: transparent !important;
+  border: 2px solid #007AFF !important;
+  border-radius: 8px !important;
+  padding: 8px 16px !important;
   font-weight: 500 !important;
-  color: #ffffff !important;
+  color: #007AFF !important;
   transition: all 0.3s ease !important;
   box-shadow: none !important;
 }
 
 .nav-cta:hover {
-  background: #0056CC !important;
-  transform: translateY(-1px) !important;
-  color: #ffffff !important;
-  box-shadow: 0 4px 12px rgba(0, 122, 255, 0.3) !important;
+  background: rgba(0, 122, 255, 0.1) !important;
+  color: #0056CC !important;
+  border-color: #0056CC !important;
 }
 
 .nav-secondary {
   background: transparent !important;
   border: 2px solid #1d1d1f !important;
-  border-radius: 20px !important;
-  padding: 6px 20px !important;
+  border-radius: 8px !important;
+  padding: 8px 16px !important;
   font-weight: 500 !important;
   color: #1d1d1f !important;
   transition: all 0.3s ease !important;
@@ -91,10 +90,9 @@
 }
 
 .nav-secondary:hover {
-  background: #1d1d1f !important;
-  color: #ffffff !important;
-  transform: translateY(-1px) !important;
-  border-color: #1d1d1f !important;
+  background: rgba(29, 29, 31, 0.1) !important;
+  color: #000000 !important;
+  border-color: #000000 !important;
 }
 
 /* Hero Section */
@@ -149,28 +147,27 @@
 }
 
 .hero-cta {
-  background: #007AFF !important;
-  border: none !important;
-  border-radius: 25px !important;
+  background: transparent !important;
+  border: 2px solid #007AFF !important;
+  border-radius: 8px !important;
   padding: 16px 32px !important;
   font-size: 17px !important;
   font-weight: 600 !important;
   height: auto !important;
-  color: #ffffff !important;
+  color: #007AFF !important;
   transition: all 0.3s ease !important;
   box-shadow: none !important;
 }
 
 .hero-cta:hover {
-  background: #0056CC !important;
-  transform: translateY(-2px) !important;
-  color: #ffffff !important;
-  box-shadow: 0 8px 25px rgba(0, 122, 255, 0.3) !important;
+  background: rgba(0, 122, 255, 0.1) !important;
+  color: #0056CC !important;
+  border-color: #0056CC !important;
 }
 
 .hero-secondary {
   border: 2px solid #1d1d1f !important;
-  border-radius: 25px !important;
+  border-radius: 8px !important;
   padding: 14px 32px !important;
   font-size: 17px !important;
   font-weight: 600 !important;
@@ -182,10 +179,9 @@
 }
 
 .hero-secondary:hover {
-  background: #1d1d1f !important;
-  color: #ffffff !important;
-  transform: translateY(-2px) !important;
-  border-color: #1d1d1f !important;
+  background: rgba(29, 29, 31, 0.1) !important;
+  color: #000000 !important;
+  border-color: #000000 !important;
 }
 
 /* Hero Visual */
@@ -376,23 +372,22 @@
 }
 
 .cta-button {
-  background: #007AFF !important;
-  border: none !important;
-  border-radius: 25px !important;
+  background: transparent !important;
+  border: 2px solid #007AFF !important;
+  border-radius: 8px !important;
   padding: 16px 32px !important;
   font-size: 17px !important;
   font-weight: 600 !important;
   height: auto !important;
-  color: #ffffff !important;
+  color: #007AFF !important;
   transition: all 0.3s ease !important;
   box-shadow: none !important;
 }
 
 .cta-button:hover {
-  background: #0056CC !important;
-  transform: translateY(-2px) !important;
-  color: #ffffff !important;
-  box-shadow: 0 8px 25px rgba(0, 122, 255, 0.3) !important;
+  background: rgba(0, 122, 255, 0.1) !important;
+  color: #0056CC !important;
+  border-color: #0056CC !important;
 }
 
 /* Footer */

@@ -27,6 +27,10 @@ const DemoPage = () => {
             <span className="logo-text">GitHub Trending</span>
           </div>
           <div className="demo-nav-actions">
+            <a href="https://github.com/encoreshao/github-trending" target="_blank" rel="noopener noreferrer" className="demo-nav-link">
+              <GithubOutlined style={{ marginRight: 4 }} />
+              GitHub
+            </a>
             <Button
               type="primary"
               className="demo-nav-cta"

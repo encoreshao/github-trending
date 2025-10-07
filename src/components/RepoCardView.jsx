@@ -66,13 +66,30 @@ const RepoCardView = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
       <div style={{ flex: '0 0 auto', padding: '16px 24px', borderBottom: '1px solid #eee' }}>
         <Space>
-          <Button onClick={handleExportCSV} disabled={!repos.length}>{texts.exportCSV}</Button>
-          <Button onClick={handleExportJSON} disabled={!repos.length}>{texts.exportJSON}</Button>
+          <Button
+            onClick={handleExportCSV}
+            disabled={!repos.length}
+            style={{ padding: 8 }}
+          >
+            {texts.exportCSV}
+          </Button>
+          <Button
+            onClick={handleExportJSON}
+            disabled={!repos.length}
+            style={{ padding: 8 }}
+          >
+            {texts.exportJSON}
+          </Button>
           <CopyToClipboard
             text={JSON.stringify(repos, null, 2)}
             onCopy={handleCopy}
           >
-            <Button disabled={!repos.length}>{texts.copy}</Button>
+            <Button
+              disabled={!repos.length}
+              style={{ padding: 8 }}
+            >
+              {texts.copy}
+            </Button>
           </CopyToClipboard>
         </Space>
       </div>

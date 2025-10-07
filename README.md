@@ -1,6 +1,6 @@
-# GitHub Trending Toolkit - Weekly Trending Repositories (2025 Active)
+# GitHub Trending - Discover the Most Popular Repositories
 
-A comprehensive toolkit for fetching and displaying GitHub Trending Weekly repositories, featuring both a Node.js CLI script and a modern React web application with bilingual support.
+A modern, Apple-inspired web application for discovering and analyzing trending GitHub repositories. Features a beautiful homepage, subscription system, and live demo with comprehensive repository analysis tools.
 
 **Languages / 语言**: [English](README.md) | [中文](README-zh.md)
 
@@ -8,27 +8,31 @@ A comprehensive toolkit for fetching and displaying GitHub Trending Weekly repos
 
 ## ✨ Features
 
-### 🌐 Web Application (React + Ant Design)
-- **Interactive UI**: Modern, responsive web interface with bilingual support (English/中文)
-- **Dual View Modes**: Table view for detailed data and Card view for visual browsing
-- **Customizable Fields**: Select from 20+ repository attributes to display
-- **Advanced Filtering**: Filter repositories by category/keywords
-- **Export Options**: Export data as CSV, JSON, or copy to clipboard
-- **Real-time Data**: Fetch trending repositories created in the last week
-- **Persistent Settings**: Settings are saved in browser localStorage
-- **Responsive Design**: Works on desktop and mobile devices
+### 🏠 **Modern Website Experience**
+- **Apple-Style Design**: Clean, professional interface with smooth animations
+- **Homepage**: Compelling landing page with feature highlights and call-to-actions
+- **Subscription System**: Category-based subscription with 18+ technology categories
+- **Live Demo**: Interactive demonstration of the trending repository analysis tool
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 
-### 📊 Node.js CLI Script
-- **Automated Fetching**: Fetches top 20 trending GitHub repositories created in the last week
+### 🔍 **Repository Analysis Tool**
+- **Real-time Data**: Fetch trending repositories with live GitHub API integration
+- **Dual View Modes**: Table view for detailed data and Card view for visual browsing
+- **Smart Filtering**: Advanced filtering by categories, keywords, and attributes
+- **Export Capabilities**: Export data as CSV, JSON, or copy to clipboard
+- **Customizable Fields**: Select from 20+ repository attributes to display
+- **Bilingual Support**: Full English and Chinese language support
+
+### 📊 **CLI Script (Legacy)**
+- **Automated Fetching**: Fetches top 20 trending GitHub repositories
 - **Multiple Output Formats**: Saves data as Markdown, JSON, and CSV files
 - **Cron Automation**: Can be automated via cron for daily data collection
-- **Comprehensive Data**: Includes all repository metadata (stars, forks, issues, etc.)
 
 ---
 
 ## 🚀 Quick Start
 
-### Web Application
+### Modern Web Application
 
 1. **Install dependencies**
    ```bash
@@ -40,13 +44,37 @@ A comprehensive toolkit for fetching and displaying GitHub Trending Weekly repos
    npm run dev
    ```
 
-3. **Open your browser**
-   Visit [http://localhost:5173](http://localhost:5173)
+3. **Explore the website**
+   - **Homepage**: Visit [http://localhost:5173](http://localhost:5173) for the landing page
+   - **Subscribe**: Navigate to `/subscribe` to choose your technology categories
+   - **Live Demo**: Visit `/demo` to try the repository analysis tool
 
-4. **Get a GitHub Token**
+4. **Get a GitHub Token** (for demo functionality)
    - Go to [GitHub Settings > Developer settings > Personal access tokens](https://github.com/settings/tokens)
    - Generate a new token with `public_repo` scope
-   - Enter the token in the web application
+   - Enter the token in the demo application
+
+---
+
+## 🌐 Website Structure
+
+### 📄 **Pages**
+- **`/`** - **Homepage**: Landing page with feature highlights and navigation
+- **`/subscribe`** - **Subscription**: Category selection for personalized updates
+- **`/demo`** - **Live Demo**: Interactive repository analysis tool
+
+### 🎨 **Design System**
+- **Apple-Inspired UI**: Clean typography, subtle animations, and professional color scheme
+- **Consistent Button Style**: Transparent backgrounds with blue borders and hover effects
+- **Responsive Layout**: Optimized for all screen sizes
+- **Modern Icons**: Ant Design icon library with semantic meaning
+
+### 🔧 **Technology Stack**
+- **React 18** with Vite for fast development
+- **React Router** for client-side navigation
+- **Ant Design 5** for UI components
+- **CSS Modules** for scoped styling
+- **GitHub API** for real-time repository data
 
 ### Build for Production
 ```bash

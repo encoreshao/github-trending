@@ -67,6 +67,12 @@ const SubscriptionPage = () => {
             <GithubOutlined className="logo-icon" />
             <span className="logo-text">GitHub Trending</span>
           </div>
+          <div className="nav-links">
+            <a href="https://github.com/encoreshao/github-trending" target="_blank" rel="noopener noreferrer" className="nav-link">
+              <GithubOutlined style={{ marginRight: 4 }} />
+              GitHub
+            </a>
+          </div>
         </div>
       </nav>
 

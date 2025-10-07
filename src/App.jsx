@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Layout, Select, Segmented } from 'antd';
-import { GithubOutlined, TableOutlined, IdcardOutlined } from '@ant-design/icons';
+import { TableOutlined, IdcardOutlined } from '@ant-design/icons';
 import SettingsPanel from './components/SettingsPanel';
 import RepoTable from './components/RepoTable';
 import RepoCardView from './components/RepoCardView';
 import './App.css';
 import { ATTRIBUTES } from './components/AttributeSelector';
 
-const { Sider, Content, Footer } = Layout;
+const { Sider, Content } = Layout;
 
 const texts = {
   en: {
@@ -30,7 +30,6 @@ const texts = {
     view: 'View',
     tableView: 'Table',
     cardView: 'Card',
-    footer: <><strong>© RanBOT</strong> | <a href="https://github.com/encoreshao/github-trending" target="_blank" rel="noopener noreferrer" style={{marginLeft: 8, color: '#222'}}><GithubOutlined style={{ fontSize: 20, verticalAlign: 'middle' }} /></a> &nbsp;| &nbsp;<a href="https://github.ranbot.online" target="_blank" rel="noopener noreferrer">Online</a></>,
   },
   zh: {
     settings: '工具设置',
@@ -52,7 +51,6 @@ const texts = {
     view: '视图',
     tableView: '表格',
     cardView: '卡片',
-    footer: <><strong>© RanBOT</strong> | <a href="https://github.com/encoreshao/github-trending" target="_blank" rel="noopener noreferrer" style={{marginLeft: 8, color: '#222'}}><GithubOutlined style={{ fontSize: 20, verticalAlign: 'middle' }} /></a> &nbsp;| &nbsp;<a href="https://github.ranbot.online" target="_blank" rel="noopener noreferrer">Online</a></>,
   }
 };
 
@@ -154,9 +152,6 @@ function App() {
             />
           )}
         </Content>
-        <Footer style={{ textAlign: 'center', background: '#fff', borderTop: '2px solid #eee' }}>
-          {texts[lang].footer}
-        </Footer>
       </Layout>
     </Layout>
   );

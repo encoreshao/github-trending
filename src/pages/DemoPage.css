@@ -32,7 +32,7 @@
   color: #007AFF !important;
   font-size: 17px !important;
   font-weight: 500 !important;
-  border: none !important;
+  border: 2px solid #007AFF !important;
   background: transparent !important;
   padding: 8px 16px !important;
   border-radius: 8px !important;
@@ -43,6 +43,7 @@
 .back-button:hover {
   background: rgba(0, 122, 255, 0.1) !important;
   color: #0056CC !important;
+  border-color: #0056CC !important;
 }
 
 .demo-nav-logo {
@@ -66,21 +67,37 @@
 }
 
 .demo-nav-cta {
-  background: #007AFF !important;
-  border: none !important;
-  border-radius: 20px !important;
+  background: transparent !important;
+  border: 2px solid #007AFF !important;
+  border-radius: 8px !important;
   padding: 8px 20px !important;
   font-weight: 500 !important;
-  color: #ffffff !important;
+  color: #007AFF !important;
   transition: all 0.3s ease !important;
   box-shadow: none !important;
 }
 
 .demo-nav-cta:hover {
-  background: #0056CC !important;
-  transform: translateY(-1px) !important;
-  color: #ffffff !important;
-  box-shadow: 0 4px 12px rgba(0, 122, 255, 0.3) !important;
+  background: rgba(0, 122, 255, 0.1) !important;
+  color: #0056CC !important;
+  border-color: #0056CC !important;
+}
+
+.demo-nav-link {
+  color: #007AFF !important;
+  text-decoration: none !important;
+  font-size: 17px !important;
+  font-weight: 500 !important;
+  padding: 8px 16px !important;
+  border-radius: 8px !important;
+  transition: all 0.3s ease !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+.demo-nav-link:hover {
+  background: rgba(0, 122, 255, 0.1) !important;
+  color: #0056CC !important;
 }
 
 /* Demo Header */
@@ -221,23 +238,22 @@
 }
 
 .demo-footer-cta {
-  background: #007AFF !important;
-  border: none !important;
-  border-radius: 25px !important;
+  background: transparent !important;
+  border: 2px solid #007AFF !important;
+  border-radius: 8px !important;
   padding: 16px 32px !important;
   font-size: 17px !important;
   font-weight: 600 !important;
   height: auto !important;
-  color: #ffffff !important;
+  color: #007AFF !important;
   transition: all 0.3s ease !important;
   box-shadow: none !important;
 }
 
 .demo-footer-cta:hover {
-  background: #0056CC !important;
-  transform: translateY(-2px) !important;
-  color: #ffffff !important;
-  box-shadow: 0 8px 25px rgba(0, 122, 255, 0.3) !important;
+  background: rgba(0, 122, 255, 0.1) !important;
+  color: #0056CC !important;
+  border-color: #0056CC !important;
 }
 
 /* Responsive Design */
