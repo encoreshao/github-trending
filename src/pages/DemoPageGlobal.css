@@ -1,0 +1,203 @@
+/* Demo Page Global Styles - Override App styles for better integration */
+
+/* Fix export button styles */
+.demo-content .ant-btn {
+  background: #007AFF !important;
+  border: none !important;
+  border-radius: 8px !important;
+  color: #ffffff !important;
+  font-weight: 500 !important;
+  transition: all 0.3s ease !important;
+  box-shadow: none !important;
+}
+
+.demo-content .ant-btn:hover:not(:disabled) {
+  background: #0056CC !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 12px rgba(0, 122, 255, 0.3) !important;
+  color: #ffffff !important;
+}
+
+.demo-content .ant-btn:disabled {
+  background: #e5e5e7 !important;
+  color: #a1a1a6 !important;
+  cursor: not-allowed !important;
+}
+
+/* Fix segmented control styles */
+.demo-content .ant-segmented {
+  background: #f5f5f7 !important;
+  border: 1px solid #e5e5e7 !important;
+  border-radius: 12px !important;
+}
+
+.demo-content .ant-segmented-item {
+  color: #6e6e73 !important;
+  border-radius: 8px !important;
+  transition: all 0.3s ease !important;
+}
+
+.demo-content .ant-segmented-item-selected {
+  background: #007AFF !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 8px rgba(0, 122, 255, 0.2) !important;
+}
+
+/* Fix select dropdown styles */
+.demo-content .ant-select {
+  border-radius: 8px !important;
+}
+
+.demo-content .ant-select-selector {
+  border: 1px solid #e5e5e7 !important;
+  border-radius: 8px !important;
+  transition: all 0.3s ease !important;
+}
+
+.demo-content .ant-select-focused .ant-select-selector {
+  border-color: #007AFF !important;
+  box-shadow: 0 0 0 2px rgba(0, 122, 255, 0.1) !important;
+}
+
+/* Fix input styles */
+.demo-content .ant-input {
+  border: 1px solid #e5e5e7 !important;
+  border-radius: 8px !important;
+  transition: all 0.3s ease !important;
+}
+
+.demo-content .ant-input:focus {
+  border-color: #007AFF !important;
+  box-shadow: 0 0 0 2px rgba(0, 122, 255, 0.1) !important;
+}
+
+/* Fix number input styles */
+.demo-content .ant-input-number {
+  border: 1px solid #e5e5e7 !important;
+  border-radius: 8px !important;
+  transition: all 0.3s ease !important;
+}
+
+.demo-content .ant-input-number:focus {
+  border-color: #007AFF !important;
+  box-shadow: 0 0 0 2px rgba(0, 122, 255, 0.1) !important;
+}
+
+/* Fix checkbox styles */
+.demo-content .ant-checkbox-wrapper {
+  color: #1d1d1f !important;
+}
+
+.demo-content .ant-checkbox-checked .ant-checkbox-inner {
+  background-color: #007AFF !important;
+  border-color: #007AFF !important;
+}
+
+.demo-content .ant-checkbox:hover .ant-checkbox-inner {
+  border-color: #007AFF !important;
+}
+
+/* Fix table styles */
+.demo-content .ant-table {
+  border-radius: 12px !important;
+  overflow: hidden !important;
+}
+
+.demo-content .ant-table-thead > tr > th {
+  background: #f8f9fa !important;
+  color: #1d1d1f !important;
+  font-weight: 600 !important;
+  border-bottom: 2px solid #e5e5e7 !important;
+}
+
+.demo-content .ant-table-tbody > tr > td {
+  border-bottom: 1px solid #f0f0f0 !important;
+}
+
+.demo-content .ant-table-tbody > tr:hover > td {
+  background: #f8f9fa !important;
+}
+
+/* Fix card styles */
+.demo-content .grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(480px, 1fr));
+  gap: 24px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.demo-content .card {
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+  border: 1px solid #f0f0f0;
+}
+
+.demo-content .card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+/* Fix layout spacing */
+.demo-content .ant-layout-sider {
+  background: #ffffff !important;
+  border-right: 1px solid #e5e5e7 !important;
+  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.05) !important;
+  padding: 16px !important;
+}
+
+.demo-content .ant-layout-content {
+  background: #ffffff !important;
+  padding: 16px !important;
+}
+
+/* Make search/filter functionality more prominent */
+.demo-content .ant-layout-sider .ant-form-item {
+  margin-bottom: 16px !important;
+}
+
+.demo-content .ant-layout-sider .ant-form-item-label {
+  font-weight: 600 !important;
+  color: #1d1d1f !important;
+}
+
+.demo-content .ant-layout-sider .ant-divider {
+  margin: 16px 0 !important;
+  border-color: #e5e5e7 !important;
+}
+
+/* Style the fetch button */
+.demo-content .ant-layout-sider .ant-btn-primary {
+  width: 100% !important;
+  height: 40px !important;
+  font-weight: 600 !important;
+  border-radius: 8px !important;
+}
+
+/* Fix message styles */
+.demo-content .ant-message {
+  z-index: 9999 !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .demo-content .grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding: 0 8px;
+  }
+
+  .demo-content .ant-layout-sider {
+    width: 280px !important;
+  }
+
+  .demo-content .ant-layout-content {
+    padding: 12px !important;
+  }
+}
