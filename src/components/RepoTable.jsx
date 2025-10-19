@@ -136,13 +136,13 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
       {/* Action Bar */}
       <div style={{ flex: '0 0 5%', minHeight: ACTION_HEIGHT, display: 'flex', alignItems: 'center' }}>
         <Space>
-          <Button onClick={handleExportCSV} disabled={!repos.length}>{texts.exportCSV}</Button>
-          <Button onClick={handleExportJSON} disabled={!repos.length}>{texts.exportJSON}</Button>
+          <Button onClick={handleExportCSV} disabled={!repos.length} style={{ padding: '0 10px' }}>{texts.exportCSV}</Button>
+          <Button onClick={handleExportJSON} disabled={!repos.length} style={{ padding: '0 10px' }}>{texts.exportJSON}</Button>
           <CopyToClipboard
             text={JSON.stringify(selectedRows.length ? selectedRows : repos, null, 2)}
             onCopy={handleCopy}
           >
-            <Button disabled={!repos.length}>{texts.copy}</Button>
+            <Button disabled={!repos.length} style={{ padding: '0 10px' }}>{texts.copy}</Button>
           </CopyToClipboard>
         </Space>
       </div>
