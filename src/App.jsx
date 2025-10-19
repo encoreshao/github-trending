@@ -6,53 +6,9 @@ import RepoTable from './components/RepoTable';
 import RepoCardView from './components/RepoCardView';
 import './App.css';
 import { ATTRIBUTES } from './components/AttributeSelector';
+import { texts, SUPPORTED_LANGUAGES } from './locales';
 
 const { Sider, Content } = Layout;
-
-const texts = {
-  en: {
-    settings: 'Settings',
-    githubToken: 'GitHub Token',
-    enterToken: 'Enter your GitHub Personal Token',
-    selectFields: 'Select fields to display',
-    fetch: 'Fetch Data',
-    exportCSV: 'Export CSV',
-    exportJSON: 'Export JSON',
-    copy: 'Copy Data',
-    copied: 'Copied to clipboard',
-    copyFailed: 'Copy failed',
-    fetchError: 'Fetch failed, please check your token',
-    exportError: 'Export failed',
-    tableNoData: 'No data',
-    language: 'Language',
-    pageSize: 'Per page',
-    category: 'Category/Keyword (optional)',
-    view: 'View',
-    tableView: 'Table',
-    cardView: 'Card',
-  },
-  zh: {
-    settings: '工具设置',
-    githubToken: 'GitHub 令牌',
-    enterToken: '请输入你的 GitHub 个人令牌',
-    selectFields: '选择展示字段',
-    fetch: '抓取数据',
-    exportCSV: '导出 CSV',
-    exportJSON: '导出 JSON',
-    copy: '复制数据',
-    copied: '已复制',
-    copyFailed: '复制失败',
-    fetchError: '抓取失败，请检查令牌',
-    exportError: '导出失败',
-    tableNoData: '暂无数据',
-    language: '语言',
-    pageSize: '每页大小',
-    category: '分类/关键词（可选）',
-    view: '视图',
-    tableView: '表格',
-    cardView: '卡片',
-  }
-};
 
 const SETTINGS_KEY = 'github_trending_settings';
 
@@ -126,10 +82,7 @@ function App() {
               value={lang}
               onChange={l => setSettings(s => ({ ...s, lang: l }))}
               style={{ width: 120 }}
-              options={[
-                { value: 'en', label: 'English' },
-                { value: 'zh', label: '中文' },
-              ]}
+              options={SUPPORTED_LANGUAGES}
             />
           </div>
           {viewMode === 'table' ? (

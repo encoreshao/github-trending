@@ -54,7 +54,7 @@ const SettingsPanel = ({ token, setToken, attributes, setAttributes, setRepos, s
       <div style={{ marginBottom: 8 }}>
         <div style={{ display: 'flex', alignItems: 'center', marginBottom: 4 }}>
           <span style={{ fontWeight: 500 }}>{texts.selectFields}</span>
-          <Tooltip title={lang === 'zh' ? '重置字段' : 'Reset Fields'}>
+          <Tooltip title={texts.resetFields}>
             <Button
               size="small"
               icon={<ReloadOutlined />}

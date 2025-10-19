@@ -14,7 +14,7 @@ const RepoCard = ({ repo, lang, texts }) => {
         <div className="repo-info">
           <p className="repo-name">{repo.name}</p>
           <span className="repo-owner">{repo['owner.login']}</span>
-          <span className="repo-stars">⭐ {repo.stargazers_count} stars</span>
+          <span className="repo-stars">⭐ {repo.stargazers_count} {texts.stars}</span>
         </div>
       </div>
       <div className="description">
@@ -28,11 +28,11 @@ const RepoCard = ({ repo, lang, texts }) => {
         </div>
       )}
       <a href={repo.html_url} className="link" target="_blank" rel="noopener noreferrer">
-        View on GitHub →
+        {texts.viewOnGitHub}
       </a>
       <div className="dates">
-        <span>Created: {formatDate(repo.created_at)}</span>
-        <span>Last Updated: {formatDate(repo.updated_at)}</span>
+        <span>{texts.created}: {formatDate(repo.created_at)}</span>
+        <span>{texts.lastUpdated}: {formatDate(repo.updated_at)}</span>
       </div>
     </div>
   );
