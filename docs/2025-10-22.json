@@ -1,0 +1,466 @@
+[
+  {
+    "id": 1078049937,
+    "name": "DeepSeek-OCR",
+    "full_name": "deepseek-ai/DeepSeek-OCR",
+    "owner": {
+      "login": "deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "description": "Contexts Optical Compression",
+    "topics": [],
+    "html_url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "stargazers_count": 9789,
+    "language": "Python",
+    "forks_count": 530,
+    "open_issues_count": 68,
+    "created_at": "2025-10-17T06:14:27Z",
+    "updated_at": "2025-10-22T09:29:39Z",
+    "pushed_at": "2025-10-22T02:59:08Z"
+  },
+  {
+    "id": 1077683961,
+    "name": "open-agent-builder",
+    "full_name": "firecrawl/open-agent-builder",
+    "owner": {
+      "login": "firecrawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
+    },
+    "description": "🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution",
+    "topics": [],
+    "html_url": "https://github.com/firecrawl/open-agent-builder",
+    "stargazers_count": 1484,
+    "language": "TypeScript",
+    "forks_count": 232,
+    "open_issues_count": 4,
+    "created_at": "2025-10-16T15:34:46Z",
+    "updated_at": "2025-10-22T09:08:34Z",
+    "pushed_at": "2025-10-20T15:15:47Z"
+  },
+  {
+    "id": 1078319457,
+    "name": "Skill_Seekers",
+    "full_name": "yusufkaraaslan/Skill_Seekers",
+    "owner": {
+      "login": "yusufkaraaslan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11597362?v=4"
+    },
+    "description": "Single powerful tool to convert ANY documentation website into a Claude skill",
+    "topics": [
+      "ai-tools",
+      "automation",
+      "claude-ai",
+      "claude-skills",
+      "documentation",
+      "documentation-generator",
+      "mcp",
+      "mcp-server",
+      "python",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "stargazers_count": 1483,
+    "language": "Python",
+    "forks_count": 134,
+    "open_issues_count": 137,
+    "created_at": "2025-10-17T14:43:48Z",
+    "updated_at": "2025-10-22T09:07:47Z",
+    "pushed_at": "2025-10-21T12:06:27Z"
+  },
+  {
+    "id": 1078332194,
+    "name": "awesome-claude-skills",
+    "full_name": "BehiSecc/awesome-claude-skills",
+    "owner": {
+      "login": "BehiSecc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226653201?v=4"
+    },
+    "description": "A curated list of Claude Skills.",
+    "topics": [],
+    "html_url": "https://github.com/BehiSecc/awesome-claude-skills",
+    "stargazers_count": 1309,
+    "language": null,
+    "forks_count": 92,
+    "open_issues_count": 3,
+    "created_at": "2025-10-17T15:05:35Z",
+    "updated_at": "2025-10-22T09:11:21Z",
+    "pushed_at": "2025-10-22T08:31:06Z"
+  },
+  {
+    "id": 1077850011,
+    "name": "awesome-claude-skills",
+    "full_name": "travisvn/awesome-claude-skills",
+    "owner": {
+      "login": "travisvn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2686415?v=4"
+    },
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
+    "topics": [
+      "agentic-coding",
+      "anthropic",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-desktop",
+      "claude-skills",
+      "claudeskills"
+    ],
+    "html_url": "https://github.com/travisvn/awesome-claude-skills",
+    "stargazers_count": 801,
+    "language": null,
+    "forks_count": 40,
+    "open_issues_count": 0,
+    "created_at": "2025-10-16T20:42:39Z",
+    "updated_at": "2025-10-22T09:25:53Z",
+    "pushed_at": "2025-10-22T07:37:31Z"
+  },
+  {
+    "id": 1079560616,
+    "name": "sandbox-runtime",
+    "full_name": "anthropic-experimental/sandbox-runtime",
+    "owner": {
+      "login": "anthropic-experimental",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167155430?v=4"
+    },
+    "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+    "topics": [],
+    "html_url": "https://github.com/anthropic-experimental/sandbox-runtime",
+    "stargazers_count": 729,
+    "language": "TypeScript",
+    "forks_count": 36,
+    "open_issues_count": 5,
+    "created_at": "2025-10-20T02:52:10Z",
+    "updated_at": "2025-10-22T09:24:40Z",
+    "pushed_at": "2025-10-20T22:50:40Z"
+  },
+  {
+    "id": 1079469057,
+    "name": "playwright-skill",
+    "full_name": "lackeyjb/playwright-skill",
+    "owner": {
+      "login": "lackeyjb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9823496?v=4"
+    },
+    "description": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
+    "topics": [
+      "ai-tools",
+      "automation",
+      "browser-automation",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills",
+      "developer-tools",
+      "e2e-testing",
+      "model-invoked",
+      "nodejs",
+      "playwright",
+      "web-testing"
+    ],
+    "html_url": "https://github.com/lackeyjb/playwright-skill",
+    "stargazers_count": 427,
+    "language": "JavaScript",
+    "forks_count": 13,
+    "open_issues_count": 0,
+    "created_at": "2025-10-19T21:33:51Z",
+    "updated_at": "2025-10-22T09:14:28Z",
+    "pushed_at": "2025-10-21T23:52:39Z"
+  },
+  {
+    "id": 1079398488,
+    "name": "percolator",
+    "full_name": "aeyakovenko/percolator",
+    "owner": {
+      "login": "aeyakovenko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1029046?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/aeyakovenko/percolator",
+    "stargazers_count": 337,
+    "language": "Makefile",
+    "forks_count": 79,
+    "open_issues_count": 4,
+    "created_at": "2025-10-19T18:16:33Z",
+    "updated_at": "2025-10-22T09:08:34Z",
+    "pushed_at": "2025-10-21T16:54:29Z"
+  },
+  {
+    "id": 1079796686,
+    "name": "sora2-watermark-remover",
+    "full_name": "Lsangeles/sora2-watermark-remover",
+    "owner": {
+      "login": "Lsangeles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132306433?v=4"
+    },
+    "description": "Watermark remover for Sora 2 generated videos",
+    "topics": [
+      "sora-ai",
+      "sora2",
+      "sora2-watermark-remover"
+    ],
+    "html_url": "https://github.com/Lsangeles/sora2-watermark-remover",
+    "stargazers_count": 307,
+    "language": "Python",
+    "forks_count": 82,
+    "open_issues_count": 0,
+    "created_at": "2025-10-20T12:00:28Z",
+    "updated_at": "2025-10-22T09:04:05Z",
+    "pushed_at": "2025-10-21T18:58:51Z"
+  },
+  {
+    "id": 1076623849,
+    "name": "TraceAnything",
+    "full_name": "ByteDance-Seed/TraceAnything",
+    "owner": {
+      "login": "ByteDance-Seed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202897071?v=4"
+    },
+    "description": "Trace Anything: Representing Any Video in 4D via Trajectory Fields",
+    "topics": [
+      "3d-reconstruction",
+      "4d-reconstruction",
+      "computer-vision"
+    ],
+    "html_url": "https://github.com/ByteDance-Seed/TraceAnything",
+    "stargazers_count": 274,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 2,
+    "created_at": "2025-10-15T05:59:37Z",
+    "updated_at": "2025-10-22T08:24:49Z",
+    "pushed_at": "2025-10-16T02:05:01Z"
+  },
+  {
+    "id": 1079196239,
+    "name": "k7",
+    "full_name": "Katakate/k7",
+    "owner": {
+      "login": "Katakate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231723801?v=4"
+    },
+    "description": "Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐",
+    "topics": [
+      "agents",
+      "code",
+      "firecracker",
+      "kata",
+      "kubernetes",
+      "sandbox",
+      "security",
+      "self-hosted",
+      "virtual-machine",
+      "virtualization"
+    ],
+    "html_url": "https://github.com/Katakate/k7",
+    "stargazers_count": 258,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2025-10-19T10:14:36Z",
+    "updated_at": "2025-10-22T09:14:22Z",
+    "pushed_at": "2025-10-21T20:16:08Z"
+  },
+  {
+    "id": 1076969585,
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "owner": {
+      "login": "kayba-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238284021?v=4"
+    },
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "topics": [
+      "agent-memory",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "memory",
+      "python"
+    ],
+    "html_url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stargazers_count": 256,
+    "language": "Python",
+    "forks_count": 36,
+    "open_issues_count": 0,
+    "created_at": "2025-10-15T15:36:20Z",
+    "updated_at": "2025-10-22T08:37:42Z",
+    "pushed_at": "2025-10-22T00:12:46Z"
+  },
+  {
+    "id": 1079480902,
+    "name": "gitfetch",
+    "full_name": "Matars/gitfetch",
+    "owner": {
+      "login": "Matars",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47718015?v=4"
+    },
+    "description": "A neofetch alternative for GitHub quick view",
+    "topics": [],
+    "html_url": "https://github.com/Matars/gitfetch",
+    "stargazers_count": 253,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 9,
+    "created_at": "2025-10-19T22:13:38Z",
+    "updated_at": "2025-10-22T08:47:57Z",
+    "pushed_at": "2025-10-21T23:29:32Z"
+  },
+  {
+    "id": 1080660413,
+    "name": "crypto-tax-calculator",
+    "full_name": "s4myot/crypto-tax-calculator",
+    "owner": {
+      "login": "s4myot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102112105?v=4"
+    },
+    "description": "An advanced cryptocurrency & personal income tax calculator.",
+    "topics": [
+      "bitcoin",
+      "crypto",
+      "crypto-tax-reports",
+      "cryptocurrency",
+      "cryptotax",
+      "tax-calculation",
+      "us-tax"
+    ],
+    "html_url": "https://github.com/s4myot/crypto-tax-calculator",
+    "stargazers_count": 250,
+    "language": "Python",
+    "forks_count": 65,
+    "open_issues_count": 0,
+    "created_at": "2025-10-21T17:24:55Z",
+    "updated_at": "2025-10-22T09:28:29Z",
+    "pushed_at": "2025-10-21T18:50:34Z"
+  },
+  {
+    "id": 1078889334,
+    "name": "dosbox-pure-unleashed",
+    "full_name": "schellingb/dosbox-pure-unleashed",
+    "owner": {
+      "login": "schellingb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14200249?v=4"
+    },
+    "description": "DOSBox reimagined, with a friendly interface, ZIP loading and save states",
+    "topics": [],
+    "html_url": "https://github.com/schellingb/dosbox-pure-unleashed",
+    "stargazers_count": 241,
+    "language": "C++",
+    "forks_count": 7,
+    "open_issues_count": 20,
+    "created_at": "2025-10-18T16:33:32Z",
+    "updated_at": "2025-10-22T09:08:01Z",
+    "pushed_at": "2025-10-19T13:54:24Z"
+  },
+  {
+    "id": 1080303945,
+    "name": "lightly-studio",
+    "full_name": "lightly-ai/lightly-studio",
+    "owner": {
+      "login": "lightly-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50146475?v=4"
+    },
+    "description": "Curate, Annotate, and Manage Your Data in LightlyStudio.",
+    "topics": [
+      "computer-vision",
+      "image-labeling",
+      "mlops"
+    ],
+    "html_url": "https://github.com/lightly-ai/lightly-studio",
+    "stargazers_count": 227,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 5,
+    "created_at": "2025-10-21T07:12:36Z",
+    "updated_at": "2025-10-22T09:21:01Z",
+    "pushed_at": "2025-10-22T09:28:47Z"
+  },
+  {
+    "id": 1079659490,
+    "name": "AITradeGame",
+    "full_name": "chadyi/AITradeGame",
+    "owner": {
+      "login": "chadyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87369532?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/chadyi/AITradeGame",
+    "stargazers_count": 220,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 0,
+    "created_at": "2025-10-20T07:23:51Z",
+    "updated_at": "2025-10-22T09:19:59Z",
+    "pushed_at": "2025-10-21T04:14:55Z"
+  },
+  {
+    "id": 1079552474,
+    "name": "SearchPaperByEmbedding",
+    "full_name": "gyj155/SearchPaperByEmbedding",
+    "owner": {
+      "login": "gyj155",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66156334?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/gyj155/SearchPaperByEmbedding",
+    "stargazers_count": 219,
+    "language": "Python",
+    "forks_count": 20,
+    "open_issues_count": 1,
+    "created_at": "2025-10-20T02:28:13Z",
+    "updated_at": "2025-10-22T09:16:14Z",
+    "pushed_at": "2025-10-20T02:33:18Z"
+  },
+  {
+    "id": 1077551721,
+    "name": "Y2JB",
+    "full_name": "Gezine/Y2JB",
+    "owner": {
+      "login": "Gezine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30000519?v=4"
+    },
+    "description": "Y2JB is userland code execution using PS5 Youtube app",
+    "topics": [],
+    "html_url": "https://github.com/Gezine/Y2JB",
+    "stargazers_count": 209,
+    "language": "Python",
+    "forks_count": 30,
+    "open_issues_count": 3,
+    "created_at": "2025-10-16T12:07:52Z",
+    "updated_at": "2025-10-22T08:05:03Z",
+    "pushed_at": "2025-10-16T12:58:13Z"
+  },
+  {
+    "id": 1079543263,
+    "name": "freephdlabor",
+    "full_name": "ltjed/freephdlabor",
+    "owner": {
+      "login": "ltjed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139851596?v=4"
+    },
+    "description": "freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem",
+    "topics": [
+      "ai-agents",
+      "ai4science",
+      "autonomous-agents",
+      "multiagent-systems",
+      "research-automation"
+    ],
+    "html_url": "https://github.com/ltjed/freephdlabor",
+    "stargazers_count": 208,
+    "language": "Python",
+    "forks_count": 37,
+    "open_issues_count": 1,
+    "created_at": "2025-10-20T01:59:07Z",
+    "updated_at": "2025-10-22T08:59:26Z",
+    "pushed_at": "2025-10-22T01:40:45Z"
+  }
+]
