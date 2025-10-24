@@ -10,12 +10,12 @@
     "description": "Contexts Optical Compression",
     "topics": [],
     "html_url": "https://github.com/deepseek-ai/DeepSeek-OCR",
-    "stargazers_count": 15439,
+    "stargazers_count": 16320,
     "language": "Python",
-    "forks_count": 922,
-    "open_issues_count": 112,
+    "forks_count": 982,
+    "open_issues_count": 118,
     "created_at": "2025-10-17T06:14:27Z",
-    "updated_at": "2025-10-24T02:29:34Z",
+    "updated_at": "2025-10-24T09:29:49Z",
     "pushed_at": "2025-10-23T04:54:11Z"
   },
   {
@@ -40,12 +40,12 @@
       "web-scraping"
     ],
     "html_url": "https://github.com/yusufkaraaslan/Skill_Seekers",
-    "stargazers_count": 1616,
+    "stargazers_count": 1631,
     "language": "Python",
-    "forks_count": 147,
+    "forks_count": 148,
     "open_issues_count": 131,
     "created_at": "2025-10-17T14:43:48Z",
-    "updated_at": "2025-10-24T02:17:46Z",
+    "updated_at": "2025-10-24T09:11:33Z",
     "pushed_at": "2025-10-23T19:02:43Z"
   },
   {
@@ -59,13 +59,13 @@
     "description": "A curated list of Claude Skills.",
     "topics": [],
     "html_url": "https://github.com/BehiSecc/awesome-claude-skills",
-    "stargazers_count": 1458,
+    "stargazers_count": 1510,
     "language": null,
-    "forks_count": 99,
-    "open_issues_count": 3,
+    "forks_count": 106,
+    "open_issues_count": 2,
     "created_at": "2025-10-17T15:05:35Z",
-    "updated_at": "2025-10-24T02:18:36Z",
-    "pushed_at": "2025-10-22T08:31:06Z"
+    "updated_at": "2025-10-24T09:11:42Z",
+    "pushed_at": "2025-10-24T08:33:33Z"
   },
   {
     "id": 1079906817,
@@ -93,13 +93,13 @@
       "typescript"
     ],
     "html_url": "https://github.com/deta/surf",
-    "stargazers_count": 1178,
+    "stargazers_count": 1376,
     "language": "TypeScript",
-    "forks_count": 64,
+    "forks_count": 80,
     "open_issues_count": 9,
     "created_at": "2025-10-20T15:09:57Z",
-    "updated_at": "2025-10-24T02:27:25Z",
-    "pushed_at": "2025-10-23T18:24:00Z"
+    "updated_at": "2025-10-24T09:29:49Z",
+    "pushed_at": "2025-10-24T09:00:22Z"
   },
   {
     "id": 1079560616,
@@ -112,13 +112,13 @@
     "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
     "topics": [],
     "html_url": "https://github.com/anthropic-experimental/sandbox-runtime",
-    "stargazers_count": 931,
+    "stargazers_count": 945,
     "language": "TypeScript",
     "forks_count": 44,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "created_at": "2025-10-20T02:52:10Z",
-    "updated_at": "2025-10-24T02:27:50Z",
-    "pushed_at": "2025-10-23T21:31:38Z"
+    "updated_at": "2025-10-24T08:31:09Z",
+    "pushed_at": "2025-10-24T05:32:07Z"
   },
   {
     "id": 1080660413,
@@ -172,36 +172,13 @@
       "web-testing"
     ],
     "html_url": "https://github.com/lackeyjb/playwright-skill",
-    "stargazers_count": 495,
+    "stargazers_count": 502,
     "language": "JavaScript",
-    "forks_count": 15,
-    "open_issues_count": 0,
+    "forks_count": 16,
+    "open_issues_count": 1,
     "created_at": "2025-10-19T21:33:51Z",
-    "updated_at": "2025-10-24T01:59:08Z",
+    "updated_at": "2025-10-24T09:18:55Z",
     "pushed_at": "2025-10-21T23:52:39Z"
-  },
-  {
-    "id": 1080303945,
-    "name": "lightly-studio",
-    "full_name": "lightly-ai/lightly-studio",
-    "owner": {
-      "login": "lightly-ai",
-      "avatar_url": "https://avatars.githubusercontent.com/u/50146475?v=4"
-    },
-    "description": "Curate, Annotate, and Manage Your Data in LightlyStudio.",
-    "topics": [
-      "computer-vision",
-      "image-labeling",
-      "mlops"
-    ],
-    "html_url": "https://github.com/lightly-ai/lightly-studio",
-    "stargazers_count": 467,
-    "language": "Python",
-    "forks_count": 7,
-    "open_issues_count": 6,
-    "created_at": "2025-10-21T07:12:36Z",
-    "updated_at": "2025-10-24T02:11:56Z",
-    "pushed_at": "2025-10-23T15:21:50Z"
   },
   {
     "id": 1079196239,
@@ -225,13 +202,36 @@
       "virtualization"
     ],
     "html_url": "https://github.com/Katakate/k7",
-    "stargazers_count": 457,
+    "stargazers_count": 473,
     "language": "Python",
     "forks_count": 10,
     "open_issues_count": 2,
     "created_at": "2025-10-19T10:14:36Z",
-    "updated_at": "2025-10-24T02:10:49Z",
+    "updated_at": "2025-10-24T09:28:22Z",
     "pushed_at": "2025-10-23T19:47:26Z"
+  },
+  {
+    "id": 1080303945,
+    "name": "lightly-studio",
+    "full_name": "lightly-ai/lightly-studio",
+    "owner": {
+      "login": "lightly-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50146475?v=4"
+    },
+    "description": "Curate, Annotate, and Manage Your Data in LightlyStudio.",
+    "topics": [
+      "computer-vision",
+      "image-labeling",
+      "mlops"
+    ],
+    "html_url": "https://github.com/lightly-ai/lightly-studio",
+    "stargazers_count": 473,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 6,
+    "created_at": "2025-10-21T07:12:36Z",
+    "updated_at": "2025-10-24T09:06:54Z",
+    "pushed_at": "2025-10-24T09:28:30Z"
   },
   {
     "id": 1080153923,
@@ -244,12 +244,12 @@
     "description": "A quick vibe coded app for deepseek OCR",
     "topics": [],
     "html_url": "https://github.com/rdumasia303/deepseek_ocr_app",
-    "stargazers_count": 437,
+    "stargazers_count": 456,
     "language": "JavaScript",
-    "forks_count": 50,
+    "forks_count": 53,
     "open_issues_count": 9,
     "created_at": "2025-10-21T00:26:39Z",
-    "updated_at": "2025-10-24T02:23:55Z",
+    "updated_at": "2025-10-24T09:24:55Z",
     "pushed_at": "2025-10-23T00:14:25Z"
   },
   {
@@ -272,13 +272,32 @@
       "wormgpt"
     ],
     "html_url": "https://github.com/setls/HacxGPT",
-    "stargazers_count": 381,
+    "stargazers_count": 421,
     "language": "Python",
-    "forks_count": 87,
+    "forks_count": 100,
     "open_issues_count": 0,
     "created_at": "2025-10-21T20:25:03Z",
-    "updated_at": "2025-10-24T02:28:32Z",
+    "updated_at": "2025-10-24T04:13:29Z",
     "pushed_at": "2025-10-22T18:11:19Z"
+  },
+  {
+    "id": 1080826481,
+    "name": "DeekSeek-OCR---Dockerized-API",
+    "full_name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "owner": {
+      "login": "Bogdanovich77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20773790?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "stargazers_count": 396,
+    "language": "Python",
+    "forks_count": 48,
+    "open_issues_count": 7,
+    "created_at": "2025-10-21T23:30:09Z",
+    "updated_at": "2025-10-24T09:05:16Z",
+    "pushed_at": "2025-10-22T19:32:31Z"
   },
   {
     "id": 1079398488,
@@ -292,31 +311,31 @@
     "topics": [],
     "html_url": "https://github.com/aeyakovenko/percolator",
     "stargazers_count": 380,
-    "language": "Makefile",
+    "language": "Rust",
     "forks_count": 81,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "created_at": "2025-10-19T18:16:33Z",
-    "updated_at": "2025-10-24T00:48:18Z",
-    "pushed_at": "2025-10-23T16:54:48Z"
+    "updated_at": "2025-10-24T05:22:22Z",
+    "pushed_at": "2025-10-24T05:22:18Z"
   },
   {
-    "id": 1080826481,
-    "name": "DeekSeek-OCR---Dockerized-API",
-    "full_name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "id": 1078079323,
+    "name": "PokeeResearchOSS",
+    "full_name": "Pokee-AI/PokeeResearchOSS",
     "owner": {
-      "login": "Bogdanovich77",
-      "avatar_url": "https://avatars.githubusercontent.com/u/20773790?v=4"
+      "login": "Pokee-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185953825?v=4"
     },
-    "description": null,
+    "description": "Pokee Deep Research Model Open Source Repo",
     "topics": [],
-    "html_url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
-    "stargazers_count": 364,
+    "html_url": "https://github.com/Pokee-AI/PokeeResearchOSS",
+    "stargazers_count": 378,
     "language": "Python",
-    "forks_count": 39,
-    "open_issues_count": 7,
-    "created_at": "2025-10-21T23:30:09Z",
-    "updated_at": "2025-10-24T02:10:32Z",
-    "pushed_at": "2025-10-22T19:32:31Z"
+    "forks_count": 241,
+    "open_issues_count": 4,
+    "created_at": "2025-10-17T07:15:18Z",
+    "updated_at": "2025-10-24T09:25:46Z",
+    "pushed_at": "2025-10-22T06:57:29Z"
   },
   {
     "id": 1078319187,
@@ -329,12 +348,12 @@
     "description": "Scaling Novel View Synthesis for Static and Dynamic Scenes",
     "topics": [],
     "html_url": "https://github.com/tianrun-chen/World-in-Novel-View",
-    "stargazers_count": 337,
+    "stargazers_count": 365,
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0,
     "created_at": "2025-10-17T14:43:19Z",
-    "updated_at": "2025-10-24T02:28:48Z",
+    "updated_at": "2025-10-24T09:14:21Z",
     "pushed_at": "2025-10-22T15:40:50Z"
   },
   {
@@ -352,32 +371,32 @@
       "sora2-watermark-remover"
     ],
     "html_url": "https://github.com/Lsangeles/sora2-watermark-remover",
-    "stargazers_count": 321,
+    "stargazers_count": 323,
     "language": "Python",
     "forks_count": 84,
     "open_issues_count": 1,
     "created_at": "2025-10-20T12:00:28Z",
-    "updated_at": "2025-10-23T21:46:36Z",
+    "updated_at": "2025-10-24T07:13:58Z",
     "pushed_at": "2025-10-21T18:58:51Z"
   },
   {
-    "id": 1078079323,
-    "name": "PokeeResearchOSS",
-    "full_name": "Pokee-AI/PokeeResearchOSS",
+    "id": 1081770999,
+    "name": "workflow",
+    "full_name": "vercel/workflow",
     "owner": {
-      "login": "Pokee-AI",
-      "avatar_url": "https://avatars.githubusercontent.com/u/185953825?v=4"
+      "login": "vercel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4"
     },
-    "description": "Pokee Deep Research Model Open Source Repo",
+    "description": "Workflow DevKit: Build durable, resilient, and observable workflows",
     "topics": [],
-    "html_url": "https://github.com/Pokee-AI/PokeeResearchOSS",
-    "stargazers_count": 314,
-    "language": "Python",
-    "forks_count": 196,
-    "open_issues_count": 1,
-    "created_at": "2025-10-17T07:15:18Z",
-    "updated_at": "2025-10-24T02:20:14Z",
-    "pushed_at": "2025-10-22T06:57:29Z"
+    "html_url": "https://github.com/vercel/workflow",
+    "stargazers_count": 321,
+    "language": "TypeScript",
+    "forks_count": 14,
+    "open_issues_count": 9,
+    "created_at": "2025-10-23T09:07:31Z",
+    "updated_at": "2025-10-24T09:15:09Z",
+    "pushed_at": "2025-10-24T07:23:19Z"
   },
   {
     "id": 1079302078,
@@ -394,51 +413,13 @@
       "video-editing"
     ],
     "html_url": "https://github.com/EzioBy/Ditto",
-    "stargazers_count": 293,
+    "stargazers_count": 308,
     "language": "Python",
-    "forks_count": 26,
+    "forks_count": 27,
     "open_issues_count": 6,
     "created_at": "2025-10-19T14:36:40Z",
-    "updated_at": "2025-10-24T02:26:32Z",
+    "updated_at": "2025-10-24T09:28:31Z",
     "pushed_at": "2025-10-22T07:41:15Z"
-  },
-  {
-    "id": 1078889334,
-    "name": "dosbox-pure-unleashed",
-    "full_name": "schellingb/dosbox-pure-unleashed",
-    "owner": {
-      "login": "schellingb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/14200249?v=4"
-    },
-    "description": "DOSBox reimagined, with a friendly interface, ZIP loading and save states",
-    "topics": [],
-    "html_url": "https://github.com/schellingb/dosbox-pure-unleashed",
-    "stargazers_count": 292,
-    "language": "C++",
-    "forks_count": 10,
-    "open_issues_count": 19,
-    "created_at": "2025-10-18T16:33:32Z",
-    "updated_at": "2025-10-24T02:28:48Z",
-    "pushed_at": "2025-10-22T18:38:01Z"
-  },
-  {
-    "id": 1079480902,
-    "name": "gitfetch",
-    "full_name": "Matars/gitfetch",
-    "owner": {
-      "login": "Matars",
-      "avatar_url": "https://avatars.githubusercontent.com/u/47718015?v=4"
-    },
-    "description": "A neofetch alternative for GitHub quick view",
-    "topics": [],
-    "html_url": "https://github.com/Matars/gitfetch",
-    "stargazers_count": 271,
-    "language": "Python",
-    "forks_count": 13,
-    "open_issues_count": 5,
-    "created_at": "2025-10-19T22:13:38Z",
-    "updated_at": "2025-10-24T02:23:21Z",
-    "pushed_at": "2025-10-24T01:45:05Z"
   },
   {
     "id": 1079659490,
@@ -451,12 +432,31 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/chadyi/AITradeGame",
-    "stargazers_count": 271,
+    "stargazers_count": 300,
     "language": "Python",
-    "forks_count": 91,
+    "forks_count": 97,
     "open_issues_count": 0,
     "created_at": "2025-10-20T07:23:51Z",
-    "updated_at": "2025-10-24T02:26:14Z",
+    "updated_at": "2025-10-24T09:26:37Z",
     "pushed_at": "2025-10-21T04:14:55Z"
+  },
+  {
+    "id": 1078889334,
+    "name": "dosbox-pure-unleashed",
+    "full_name": "schellingb/dosbox-pure-unleashed",
+    "owner": {
+      "login": "schellingb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14200249?v=4"
+    },
+    "description": "DOSBox reimagined, with a friendly interface, ZIP loading and save states",
+    "topics": [],
+    "html_url": "https://github.com/schellingb/dosbox-pure-unleashed",
+    "stargazers_count": 296,
+    "language": "C++",
+    "forks_count": 10,
+    "open_issues_count": 19,
+    "created_at": "2025-10-18T16:33:32Z",
+    "updated_at": "2025-10-24T09:25:24Z",
+    "pushed_at": "2025-10-22T18:38:01Z"
   }
 ]
