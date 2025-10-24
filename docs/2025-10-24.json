@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1078049937,
+    "name": "DeepSeek-OCR",
+    "full_name": "deepseek-ai/DeepSeek-OCR",
+    "owner": {
+      "login": "deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "description": "Contexts Optical Compression",
+    "topics": [],
+    "html_url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "stargazers_count": 15439,
+    "language": "Python",
+    "forks_count": 922,
+    "open_issues_count": 112,
+    "created_at": "2025-10-17T06:14:27Z",
+    "updated_at": "2025-10-24T02:29:34Z",
+    "pushed_at": "2025-10-23T04:54:11Z"
+  },
+  {
+    "id": 1078319457,
+    "name": "Skill_Seekers",
+    "full_name": "yusufkaraaslan/Skill_Seekers",
+    "owner": {
+      "login": "yusufkaraaslan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11597362?v=4"
+    },
+    "description": "Single powerful tool to convert ANY documentation website into a Claude skill",
+    "topics": [
+      "ai-tools",
+      "automation",
+      "claude-ai",
+      "claude-skills",
+      "documentation",
+      "documentation-generator",
+      "mcp",
+      "mcp-server",
+      "python",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "stargazers_count": 1616,
+    "language": "Python",
+    "forks_count": 147,
+    "open_issues_count": 131,
+    "created_at": "2025-10-17T14:43:48Z",
+    "updated_at": "2025-10-24T02:17:46Z",
+    "pushed_at": "2025-10-23T19:02:43Z"
+  },
+  {
+    "id": 1078332194,
+    "name": "awesome-claude-skills",
+    "full_name": "BehiSecc/awesome-claude-skills",
+    "owner": {
+      "login": "BehiSecc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226653201?v=4"
+    },
+    "description": "A curated list of Claude Skills.",
+    "topics": [],
+    "html_url": "https://github.com/BehiSecc/awesome-claude-skills",
+    "stargazers_count": 1458,
+    "language": null,
+    "forks_count": 99,
+    "open_issues_count": 3,
+    "created_at": "2025-10-17T15:05:35Z",
+    "updated_at": "2025-10-24T02:18:36Z",
+    "pushed_at": "2025-10-22T08:31:06Z"
+  },
+  {
+    "id": 1079906817,
+    "name": "surf",
+    "full_name": "deta/surf",
+    "owner": {
+      "login": "deta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47275976?v=4"
+    },
+    "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
+    "topics": [
+      "claude",
+      "deepseek",
+      "gemma",
+      "knowledge-base",
+      "knowledge-management",
+      "llm",
+      "local",
+      "local-llm",
+      "ollama",
+      "openai",
+      "productivity",
+      "rust",
+      "svelte",
+      "typescript"
+    ],
+    "html_url": "https://github.com/deta/surf",
+    "stargazers_count": 1178,
+    "language": "TypeScript",
+    "forks_count": 64,
+    "open_issues_count": 9,
+    "created_at": "2025-10-20T15:09:57Z",
+    "updated_at": "2025-10-24T02:27:25Z",
+    "pushed_at": "2025-10-23T18:24:00Z"
+  },
+  {
+    "id": 1079560616,
+    "name": "sandbox-runtime",
+    "full_name": "anthropic-experimental/sandbox-runtime",
+    "owner": {
+      "login": "anthropic-experimental",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167155430?v=4"
+    },
+    "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+    "topics": [],
+    "html_url": "https://github.com/anthropic-experimental/sandbox-runtime",
+    "stargazers_count": 931,
+    "language": "TypeScript",
+    "forks_count": 44,
+    "open_issues_count": 6,
+    "created_at": "2025-10-20T02:52:10Z",
+    "updated_at": "2025-10-24T02:27:50Z",
+    "pushed_at": "2025-10-23T21:31:38Z"
+  },
+  {
+    "id": 1080660413,
+    "name": "crypto-tax-calculator",
+    "full_name": "s4myot/crypto-tax-calculator",
+    "owner": {
+      "login": "s4myot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102112105?v=4"
+    },
+    "description": "An advanced cryptocurrency & personal income tax calculator.",
+    "topics": [
+      "bitcoin",
+      "crypto",
+      "crypto-tax-reports",
+      "cryptocurrency",
+      "cryptotax",
+      "tax-calculation",
+      "us-tax"
+    ],
+    "html_url": "https://github.com/s4myot/crypto-tax-calculator",
+    "stargazers_count": 569,
+    "language": "Python",
+    "forks_count": 136,
+    "open_issues_count": 0,
+    "created_at": "2025-10-21T17:24:55Z",
+    "updated_at": "2025-10-23T01:39:32Z",
+    "pushed_at": "2025-10-21T18:50:34Z"
+  },
+  {
+    "id": 1079469057,
+    "name": "playwright-skill",
+    "full_name": "lackeyjb/playwright-skill",
+    "owner": {
+      "login": "lackeyjb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9823496?v=4"
+    },
+    "description": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
+    "topics": [
+      "ai-tools",
+      "automation",
+      "browser-automation",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills",
+      "developer-tools",
+      "e2e-testing",
+      "model-invoked",
+      "nodejs",
+      "playwright",
+      "web-testing"
+    ],
+    "html_url": "https://github.com/lackeyjb/playwright-skill",
+    "stargazers_count": 495,
+    "language": "JavaScript",
+    "forks_count": 15,
+    "open_issues_count": 0,
+    "created_at": "2025-10-19T21:33:51Z",
+    "updated_at": "2025-10-24T01:59:08Z",
+    "pushed_at": "2025-10-21T23:52:39Z"
+  },
+  {
+    "id": 1080303945,
+    "name": "lightly-studio",
+    "full_name": "lightly-ai/lightly-studio",
+    "owner": {
+      "login": "lightly-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50146475?v=4"
+    },
+    "description": "Curate, Annotate, and Manage Your Data in LightlyStudio.",
+    "topics": [
+      "computer-vision",
+      "image-labeling",
+      "mlops"
+    ],
+    "html_url": "https://github.com/lightly-ai/lightly-studio",
+    "stargazers_count": 467,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 6,
+    "created_at": "2025-10-21T07:12:36Z",
+    "updated_at": "2025-10-24T02:11:56Z",
+    "pushed_at": "2025-10-23T15:21:50Z"
+  },
+  {
+    "id": 1079196239,
+    "name": "k7",
+    "full_name": "Katakate/k7",
+    "owner": {
+      "login": "Katakate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231723801?v=4"
+    },
+    "description": "Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐",
+    "topics": [
+      "agents",
+      "code",
+      "firecracker",
+      "kata",
+      "kubernetes",
+      "sandbox",
+      "security",
+      "self-hosted",
+      "virtual-machine",
+      "virtualization"
+    ],
+    "html_url": "https://github.com/Katakate/k7",
+    "stargazers_count": 457,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 2,
+    "created_at": "2025-10-19T10:14:36Z",
+    "updated_at": "2025-10-24T02:10:49Z",
+    "pushed_at": "2025-10-23T19:47:26Z"
+  },
+  {
+    "id": 1080153923,
+    "name": "deepseek_ocr_app",
+    "full_name": "rdumasia303/deepseek_ocr_app",
+    "owner": {
+      "login": "rdumasia303",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120988431?v=4"
+    },
+    "description": "A quick vibe coded app for deepseek OCR",
+    "topics": [],
+    "html_url": "https://github.com/rdumasia303/deepseek_ocr_app",
+    "stargazers_count": 437,
+    "language": "JavaScript",
+    "forks_count": 50,
+    "open_issues_count": 9,
+    "created_at": "2025-10-21T00:26:39Z",
+    "updated_at": "2025-10-24T02:23:55Z",
+    "pushed_at": "2025-10-23T00:14:25Z"
+  },
+  {
+    "id": 1080755064,
+    "name": "HacxGPT",
+    "full_name": "setls/HacxGPT",
+    "owner": {
+      "login": "setls",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28115076?v=4"
+    },
+    "description": "HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy.",
+    "topics": [
+      "ai",
+      "chatbot",
+      "gpt",
+      "hackerai",
+      "hacking",
+      "hacx-gpt",
+      "hacxgpt",
+      "wormgpt"
+    ],
+    "html_url": "https://github.com/setls/HacxGPT",
+    "stargazers_count": 381,
+    "language": "Python",
+    "forks_count": 87,
+    "open_issues_count": 0,
+    "created_at": "2025-10-21T20:25:03Z",
+    "updated_at": "2025-10-24T02:28:32Z",
+    "pushed_at": "2025-10-22T18:11:19Z"
+  },
+  {
+    "id": 1079398488,
+    "name": "percolator",
+    "full_name": "aeyakovenko/percolator",
+    "owner": {
+      "login": "aeyakovenko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1029046?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/aeyakovenko/percolator",
+    "stargazers_count": 380,
+    "language": "Makefile",
+    "forks_count": 81,
+    "open_issues_count": 4,
+    "created_at": "2025-10-19T18:16:33Z",
+    "updated_at": "2025-10-24T00:48:18Z",
+    "pushed_at": "2025-10-23T16:54:48Z"
+  },
+  {
+    "id": 1080826481,
+    "name": "DeekSeek-OCR---Dockerized-API",
+    "full_name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "owner": {
+      "login": "Bogdanovich77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20773790?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "stargazers_count": 364,
+    "language": "Python",
+    "forks_count": 39,
+    "open_issues_count": 7,
+    "created_at": "2025-10-21T23:30:09Z",
+    "updated_at": "2025-10-24T02:10:32Z",
+    "pushed_at": "2025-10-22T19:32:31Z"
+  },
+  {
+    "id": 1078319187,
+    "name": "World-in-Novel-View",
+    "full_name": "tianrun-chen/World-in-Novel-View",
+    "owner": {
+      "login": "tianrun-chen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126600557?v=4"
+    },
+    "description": "Scaling Novel View Synthesis for Static and Dynamic Scenes",
+    "topics": [],
+    "html_url": "https://github.com/tianrun-chen/World-in-Novel-View",
+    "stargazers_count": 337,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2025-10-17T14:43:19Z",
+    "updated_at": "2025-10-24T02:28:48Z",
+    "pushed_at": "2025-10-22T15:40:50Z"
+  },
+  {
+    "id": 1079796686,
+    "name": "sora2-watermark-remover",
+    "full_name": "Lsangeles/sora2-watermark-remover",
+    "owner": {
+      "login": "Lsangeles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132306433?v=4"
+    },
+    "description": "Watermark remover for Sora 2 generated videos",
+    "topics": [
+      "sora-ai",
+      "sora2",
+      "sora2-watermark-remover"
+    ],
+    "html_url": "https://github.com/Lsangeles/sora2-watermark-remover",
+    "stargazers_count": 321,
+    "language": "Python",
+    "forks_count": 84,
+    "open_issues_count": 1,
+    "created_at": "2025-10-20T12:00:28Z",
+    "updated_at": "2025-10-23T21:46:36Z",
+    "pushed_at": "2025-10-21T18:58:51Z"
+  },
+  {
+    "id": 1078079323,
+    "name": "PokeeResearchOSS",
+    "full_name": "Pokee-AI/PokeeResearchOSS",
+    "owner": {
+      "login": "Pokee-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185953825?v=4"
+    },
+    "description": "Pokee Deep Research Model Open Source Repo",
+    "topics": [],
+    "html_url": "https://github.com/Pokee-AI/PokeeResearchOSS",
+    "stargazers_count": 314,
+    "language": "Python",
+    "forks_count": 196,
+    "open_issues_count": 1,
+    "created_at": "2025-10-17T07:15:18Z",
+    "updated_at": "2025-10-24T02:20:14Z",
+    "pushed_at": "2025-10-22T06:57:29Z"
+  },
+  {
+    "id": 1079302078,
+    "name": "Ditto",
+    "full_name": "EzioBy/Ditto",
+    "owner": {
+      "login": "EzioBy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29008595?v=4"
+    },
+    "description": "[Preprint 2025] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset",
+    "topics": [
+      "diffusion-models",
+      "synthetic-data",
+      "video-editing"
+    ],
+    "html_url": "https://github.com/EzioBy/Ditto",
+    "stargazers_count": 293,
+    "language": "Python",
+    "forks_count": 26,
+    "open_issues_count": 6,
+    "created_at": "2025-10-19T14:36:40Z",
+    "updated_at": "2025-10-24T02:26:32Z",
+    "pushed_at": "2025-10-22T07:41:15Z"
+  },
+  {
+    "id": 1078889334,
+    "name": "dosbox-pure-unleashed",
+    "full_name": "schellingb/dosbox-pure-unleashed",
+    "owner": {
+      "login": "schellingb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14200249?v=4"
+    },
+    "description": "DOSBox reimagined, with a friendly interface, ZIP loading and save states",
+    "topics": [],
+    "html_url": "https://github.com/schellingb/dosbox-pure-unleashed",
+    "stargazers_count": 292,
+    "language": "C++",
+    "forks_count": 10,
+    "open_issues_count": 19,
+    "created_at": "2025-10-18T16:33:32Z",
+    "updated_at": "2025-10-24T02:28:48Z",
+    "pushed_at": "2025-10-22T18:38:01Z"
+  },
+  {
+    "id": 1079480902,
+    "name": "gitfetch",
+    "full_name": "Matars/gitfetch",
+    "owner": {
+      "login": "Matars",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47718015?v=4"
+    },
+    "description": "A neofetch alternative for GitHub quick view",
+    "topics": [],
+    "html_url": "https://github.com/Matars/gitfetch",
+    "stargazers_count": 271,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 5,
+    "created_at": "2025-10-19T22:13:38Z",
+    "updated_at": "2025-10-24T02:23:21Z",
+    "pushed_at": "2025-10-24T01:45:05Z"
+  },
+  {
+    "id": 1079659490,
+    "name": "AITradeGame",
+    "full_name": "chadyi/AITradeGame",
+    "owner": {
+      "login": "chadyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87369532?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/chadyi/AITradeGame",
+    "stargazers_count": 271,
+    "language": "Python",
+    "forks_count": 91,
+    "open_issues_count": 0,
+    "created_at": "2025-10-20T07:23:51Z",
+    "updated_at": "2025-10-24T02:26:14Z",
+    "pushed_at": "2025-10-21T04:14:55Z"
+  }
+]
