@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
 import { Button, Card, Checkbox, Input } from 'antd';
-import { ArrowLeftOutlined, CheckOutlined, GithubOutlined, RocketOutlined } from '@ant-design/icons';
+import { CheckOutlined, GithubOutlined, RocketOutlined } from '@ant-design/icons';
 import { useNavigate } from 'react-router-dom';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 import './SubscriptionPage.css';
 
 const SubscriptionPage = () => {
@@ -53,28 +55,7 @@ const SubscriptionPage = () => {
   return (
     <div className="subscription-page">
       {/* Navigation */}
-      <nav className="nav">
-        <div className="nav-container">
-          <Button
-            type="text"
-            icon={<ArrowLeftOutlined />}
-            onClick={() => navigate('/')}
-            className="back-button"
-          >
-            Back to Home
-          </Button>
-          <div className="nav-logo">
-            <GithubOutlined className="logo-icon" />
-            <span className="logo-text">GitHub Trending</span>
-          </div>
-          <div className="nav-links">
-            <a href="https://github.com/encoreshao/github-trending" target="_blank" rel="noopener noreferrer" className="nav-link">
-              <GithubOutlined style={{ marginRight: 4 }} />
-              GitHub
-            </a>
-          </div>
-        </div>
-      </nav>
+      <Header />
 
       <div className="subscription-container">
         <div className="subscription-header">
@@ -162,6 +143,9 @@ const SubscriptionPage = () => {
           </p>
         </div>
       </div>
+
+      {/* Footer */}
+      <Footer />
     </div>
   );
 };

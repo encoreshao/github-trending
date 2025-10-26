@@ -1,7 +1,8 @@
 import React from 'react';
-import { Button } from 'antd';
-import { ArrowLeftOutlined, GithubOutlined, SyncOutlined, FilterOutlined, ShareAltOutlined } from '@ant-design/icons';
+import { SyncOutlined, FilterOutlined, ShareAltOutlined } from '@ant-design/icons';
 import { useNavigate } from 'react-router-dom';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 import App from '../App';
 import './DemoPage.css';
 import './DemoPageGlobal.css';
@@ -12,35 +13,7 @@ const DemoPage = () => {
   return (
     <div className="demo-page">
       {/* Navigation */}
-      <nav className="demo-nav">
-        <div className="demo-nav-container">
-          <Button
-            type="text"
-            icon={<ArrowLeftOutlined />}
-            onClick={() => navigate('/')}
-            className="back-button"
-          >
-            Back to Home
-          </Button>
-          <div className="demo-nav-logo">
-            <GithubOutlined className="logo-icon" />
-            <span className="logo-text">GitHub Trending</span>
-          </div>
-          <div className="demo-nav-actions">
-            <a href="https://github.com/encoreshao/github-trending" target="_blank" rel="noopener noreferrer" className="demo-nav-link">
-              <GithubOutlined style={{ marginRight: 4 }} />
-              GitHub
-            </a>
-            <Button
-              type="primary"
-              className="demo-nav-cta"
-              onClick={() => navigate('/subscribe')}
-            >
-              Get Full Access
-            </Button>
-          </div>
-        </div>
-      </nav>
+      <Header />
 
       {/* Demo Header */}
       <div className="demo-header">
@@ -72,25 +45,8 @@ const DemoPage = () => {
         <App />
       </div>
 
-      {/* Demo Footer */}
-      <div className="demo-footer">
-        <div className="demo-footer-container">
-          <div className="demo-footer-content">
-            <h3 className="demo-footer-title">Ready to get started?</h3>
-            <p className="demo-footer-subtitle">
-              Subscribe now to unlock unlimited access to all features and themes.
-            </p>
-            <Button
-              type="primary"
-              size="large"
-              className="demo-footer-cta"
-              onClick={() => navigate('/subscribe')}
-            >
-              Subscribe Now
-            </Button>
-          </div>
-        </div>
-      </div>
+      {/* Footer */}
+      <Footer />
     </div>
   );
 };
