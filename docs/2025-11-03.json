@@ -18,13 +18,13 @@
       "trading"
     ],
     "html_url": "https://github.com/NoFxAiOS/nofx",
-    "stargazers_count": 5222,
+    "stargazers_count": 5686,
     "language": "Go",
-    "forks_count": 1170,
-    "open_issues_count": 135,
+    "forks_count": 1269,
+    "open_issues_count": 139,
     "created_at": "2025-10-28T07:17:53Z",
-    "updated_at": "2025-11-03T02:27:52Z",
-    "pushed_at": "2025-11-03T02:15:32Z"
+    "updated_at": "2025-11-03T08:29:49Z",
+    "pushed_at": "2025-11-03T03:59:35Z"
   },
   {
     "id": 1086161926,
@@ -37,12 +37,12 @@
     "description": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
     "topics": [],
     "html_url": "https://github.com/diet103/claude-code-infrastructure-showcase",
-    "stargazers_count": 2569,
+    "stargazers_count": 2812,
     "language": "Shell",
-    "forks_count": 367,
-    "open_issues_count": 7,
+    "forks_count": 403,
+    "open_issues_count": 6,
     "created_at": "2025-10-30T03:12:16Z",
-    "updated_at": "2025-11-03T02:29:10Z",
+    "updated_at": "2025-11-03T08:29:12Z",
     "pushed_at": "2025-10-31T01:41:31Z"
   },
   {
@@ -56,13 +56,13 @@
     "description": "Native Multimodal Models are World Learners",
     "topics": [],
     "html_url": "https://github.com/baaivision/Emu3.5",
-    "stargazers_count": 946,
+    "stargazers_count": 997,
     "language": "Python",
-    "forks_count": 35,
-    "open_issues_count": 18,
+    "forks_count": 36,
+    "open_issues_count": 13,
     "created_at": "2025-10-29T13:40:19Z",
-    "updated_at": "2025-11-03T02:28:46Z",
-    "pushed_at": "2025-11-02T01:56:18Z"
+    "updated_at": "2025-11-03T08:26:31Z",
+    "pushed_at": "2025-11-03T08:24:39Z"
   },
   {
     "id": 1084662082,
@@ -75,32 +75,13 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
-    "stargazers_count": 908,
+    "stargazers_count": 920,
     "language": "C#",
-    "forks_count": 105,
-    "open_issues_count": 10,
+    "forks_count": 108,
+    "open_issues_count": 12,
     "created_at": "2025-10-28T01:40:36Z",
-    "updated_at": "2025-11-03T02:21:13Z",
-    "pushed_at": "2025-11-02T12:43:24Z"
-  },
-  {
-    "id": 1085946289,
-    "name": "Kimi-Linear",
-    "full_name": "MoonshotAI/Kimi-Linear",
-    "owner": {
-      "login": "MoonshotAI",
-      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
-    },
-    "description": null,
-    "topics": [],
-    "html_url": "https://github.com/MoonshotAI/Kimi-Linear",
-    "stargazers_count": 870,
-    "language": null,
-    "forks_count": 31,
-    "open_issues_count": 1,
-    "created_at": "2025-10-29T18:18:03Z",
-    "updated_at": "2025-11-03T02:26:11Z",
-    "pushed_at": "2025-10-31T15:58:14Z"
+    "updated_at": "2025-11-03T07:35:30Z",
+    "pushed_at": "2025-11-03T04:08:17Z"
   },
   {
     "id": 1087647777,
@@ -119,13 +100,78 @@
       "react-native"
     ],
     "html_url": "https://github.com/borndotcom/react-native-godot",
-    "stargazers_count": 600,
+    "stargazers_count": 917,
     "language": "C++",
-    "forks_count": 19,
-    "open_issues_count": 1,
+    "forks_count": 33,
+    "open_issues_count": 3,
     "created_at": "2025-11-01T10:54:51Z",
-    "updated_at": "2025-11-03T02:29:29Z",
+    "updated_at": "2025-11-03T08:26:02Z",
     "pushed_at": "2025-11-02T18:34:20Z"
+  },
+  {
+    "id": 1085946289,
+    "name": "Kimi-Linear",
+    "full_name": "MoonshotAI/Kimi-Linear",
+    "owner": {
+      "login": "MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/MoonshotAI/Kimi-Linear",
+    "stargazers_count": 905,
+    "language": null,
+    "forks_count": 33,
+    "open_issues_count": 1,
+    "created_at": "2025-10-29T18:18:03Z",
+    "updated_at": "2025-11-03T08:24:42Z",
+    "pushed_at": "2025-10-31T15:58:14Z"
+  },
+  {
+    "id": 1087919806,
+    "name": "compose-stability-analyzer",
+    "full_name": "skydoves/compose-stability-analyzer",
+    "owner": {
+      "login": "skydoves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24237865?v=4"
+    },
+    "description": "🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.",
+    "topics": [
+      "android",
+      "compose",
+      "intellij-plugin",
+      "jetpack-compose",
+      "kotlin-compiler-plugin",
+      "skydoves",
+      "stability"
+    ],
+    "html_url": "https://github.com/skydoves/compose-stability-analyzer",
+    "stargazers_count": 433,
+    "language": "Kotlin",
+    "forks_count": 8,
+    "open_issues_count": 3,
+    "created_at": "2025-11-01T23:05:46Z",
+    "updated_at": "2025-11-03T08:29:15Z",
+    "pushed_at": "2025-11-03T04:59:22Z"
+  },
+  {
+    "id": 1087207313,
+    "name": "Awesome-World-Models",
+    "full_name": "knightnemo/Awesome-World-Models",
+    "owner": {
+      "login": "knightnemo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141439667?v=4"
+    },
+    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
+    "topics": [],
+    "html_url": "https://github.com/knightnemo/Awesome-World-Models",
+    "stargazers_count": 409,
+    "language": null,
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2025-10-31T14:38:53Z",
+    "updated_at": "2025-11-03T08:17:42Z",
+    "pushed_at": "2025-11-02T16:25:04Z"
   },
   {
     "id": 1086599151,
@@ -170,59 +216,13 @@
       "sora2"
     ],
     "html_url": "https://github.com/jun6ry/sora2-api",
-    "stargazers_count": 366,
+    "stargazers_count": 368,
     "language": "Python",
-    "forks_count": 108,
+    "forks_count": 111,
     "open_issues_count": 0,
     "created_at": "2025-10-29T09:29:16Z",
-    "updated_at": "2025-11-02T13:02:57Z",
+    "updated_at": "2025-11-03T08:09:08Z",
     "pushed_at": "2025-10-29T15:42:20Z"
-  },
-  {
-    "id": 1087207313,
-    "name": "Awesome-World-Models",
-    "full_name": "knightnemo/Awesome-World-Models",
-    "owner": {
-      "login": "knightnemo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/141439667?v=4"
-    },
-    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
-    "topics": [],
-    "html_url": "https://github.com/knightnemo/Awesome-World-Models",
-    "stargazers_count": 361,
-    "language": null,
-    "forks_count": 8,
-    "open_issues_count": 0,
-    "created_at": "2025-10-31T14:38:53Z",
-    "updated_at": "2025-11-03T02:29:04Z",
-    "pushed_at": "2025-11-02T16:25:04Z"
-  },
-  {
-    "id": 1087919806,
-    "name": "compose-stability-analyzer",
-    "full_name": "skydoves/compose-stability-analyzer",
-    "owner": {
-      "login": "skydoves",
-      "avatar_url": "https://avatars.githubusercontent.com/u/24237865?v=4"
-    },
-    "description": "🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.",
-    "topics": [
-      "android",
-      "compose",
-      "intellij-plugin",
-      "jetpack-compose",
-      "kotlin-compiler-plugin",
-      "skydoves",
-      "stability"
-    ],
-    "html_url": "https://github.com/skydoves/compose-stability-analyzer",
-    "stargazers_count": 326,
-    "language": "Kotlin",
-    "forks_count": 7,
-    "open_issues_count": 1,
-    "created_at": "2025-11-01T23:05:46Z",
-    "updated_at": "2025-11-03T02:23:12Z",
-    "pushed_at": "2025-11-02T19:50:26Z"
   },
   {
     "id": 1084340567,
@@ -259,13 +259,32 @@
     "description": "My custom cursor shaders for ghostty (trails and ripple/pulse effects)",
     "topics": [],
     "html_url": "https://github.com/sahaj-b/ghostty-cursor-shaders",
-    "stargazers_count": 320,
+    "stargazers_count": 321,
     "language": "GLSL",
     "forks_count": 0,
     "open_issues_count": 0,
     "created_at": "2025-10-27T12:32:20Z",
-    "updated_at": "2025-11-02T20:42:36Z",
+    "updated_at": "2025-11-03T08:10:38Z",
     "pushed_at": "2025-10-30T03:53:55Z"
+  },
+  {
+    "id": 1084048934,
+    "name": "ReCode",
+    "full_name": "FoundationAgents/ReCode",
+    "owner": {
+      "login": "FoundationAgents",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198047230?v=4"
+    },
+    "description": "Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making.",
+    "topics": [],
+    "html_url": "https://github.com/FoundationAgents/ReCode",
+    "stargazers_count": 295,
+    "language": "Python",
+    "forks_count": 30,
+    "open_issues_count": 0,
+    "created_at": "2025-10-27T06:31:01Z",
+    "updated_at": "2025-11-03T07:55:07Z",
+    "pushed_at": "2025-11-01T14:35:49Z"
   },
   {
     "id": 1084315676,
@@ -287,25 +306,6 @@
     "pushed_at": "2025-10-28T12:02:03Z"
   },
   {
-    "id": 1084048934,
-    "name": "ReCode",
-    "full_name": "FoundationAgents/ReCode",
-    "owner": {
-      "login": "FoundationAgents",
-      "avatar_url": "https://avatars.githubusercontent.com/u/198047230?v=4"
-    },
-    "description": "Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making.",
-    "topics": [],
-    "html_url": "https://github.com/FoundationAgents/ReCode",
-    "stargazers_count": 284,
-    "language": "Python",
-    "forks_count": 28,
-    "open_issues_count": 0,
-    "created_at": "2025-10-27T06:31:01Z",
-    "updated_at": "2025-11-03T01:43:02Z",
-    "pushed_at": "2025-11-01T14:35:49Z"
-  },
-  {
     "id": 1086122599,
     "name": "MuMuAINovel",
     "full_name": "xiamuceer-j/MuMuAINovel",
@@ -316,13 +316,13 @@
     "description": "一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事",
     "topics": [],
     "html_url": "https://github.com/xiamuceer-j/MuMuAINovel",
-    "stargazers_count": 239,
+    "stargazers_count": 278,
     "language": "Python",
-    "forks_count": 53,
-    "open_issues_count": 1,
+    "forks_count": 63,
+    "open_issues_count": 0,
     "created_at": "2025-10-30T01:24:24Z",
-    "updated_at": "2025-11-03T02:23:17Z",
-    "pushed_at": "2025-10-31T18:10:42Z"
+    "updated_at": "2025-11-03T08:29:56Z",
+    "pushed_at": "2025-11-03T07:29:02Z"
   },
   {
     "id": 1084010464,
@@ -343,13 +343,13 @@
       "valuecell"
     ],
     "html_url": "https://github.com/195440/nof1.ai",
-    "stargazers_count": 238,
+    "stargazers_count": 245,
     "language": "TypeScript",
-    "forks_count": 76,
-    "open_issues_count": 9,
+    "forks_count": 80,
+    "open_issues_count": 12,
     "created_at": "2025-10-27T04:58:37Z",
-    "updated_at": "2025-11-02T17:32:56Z",
-    "pushed_at": "2025-11-02T13:56:23Z"
+    "updated_at": "2025-11-03T07:55:12Z",
+    "pushed_at": "2025-11-03T07:55:08Z"
   },
   {
     "id": 1085081218,
@@ -362,13 +362,35 @@
     "description": "Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows",
     "topics": [],
     "html_url": "https://github.com/theNetworkChuck/ai-in-the-terminal",
-    "stargazers_count": 221,
+    "stargazers_count": 224,
     "language": null,
     "forks_count": 55,
     "open_issues_count": 7,
     "created_at": "2025-10-28T15:01:32Z",
-    "updated_at": "2025-11-03T00:24:43Z",
+    "updated_at": "2025-11-03T08:27:32Z",
     "pushed_at": "2025-10-28T15:06:31Z"
+  },
+  {
+    "id": 1088193046,
+    "name": "CVE-2025-59287",
+    "full_name": "Sid6Effect/CVE-2025-59287",
+    "owner": {
+      "login": "Sid6Effect",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48803705?v=4"
+    },
+    "description": "WSUS vulnerability PoC",
+    "topics": [
+      "cve-2025-59287",
+      "wsus-vulnerability"
+    ],
+    "html_url": "https://github.com/Sid6Effect/CVE-2025-59287",
+    "stargazers_count": 220,
+    "language": "Python",
+    "forks_count": 69,
+    "open_issues_count": 0,
+    "created_at": "2025-11-02T13:56:17Z",
+    "updated_at": "2025-11-03T06:15:34Z",
+    "pushed_at": "2025-11-02T17:03:18Z"
   },
   {
     "id": 1084765815,
@@ -400,51 +422,12 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/samrolken/nokode",
-    "stargazers_count": 201,
+    "stargazers_count": 216,
     "language": "JavaScript",
-    "forks_count": 13,
+    "forks_count": 14,
     "open_issues_count": 2,
     "created_at": "2025-10-31T01:54:39Z",
-    "updated_at": "2025-11-03T02:12:20Z",
+    "updated_at": "2025-11-03T07:58:30Z",
     "pushed_at": "2025-10-31T02:30:00Z"
-  },
-  {
-    "id": 1087130889,
-    "name": "BTC-Wallet-Finder",
-    "full_name": "abdullahalhwyji/BTC-Wallet-Finder",
-    "owner": {
-      "login": "abdullahalhwyji",
-      "avatar_url": "https://avatars.githubusercontent.com/u/126437118?v=4"
-    },
-    "description": null,
-    "topics": [
-      "address-finder",
-      "address-scanner",
-      "bitcoin-address",
-      "bitcoin-analysis",
-      "bitcoin-tools",
-      "bitcoin-tracking",
-      "bitcoin-wallet",
-      "blockchain-explorer",
-      "btc-address-scanner",
-      "btc-explorer",
-      "btc-tracker",
-      "wallet-analyzer",
-      "wallet-balance-checker",
-      "wallet-database",
-      "wallet-finder",
-      "wallet-finder-crypto-checker",
-      "wallet-lookup",
-      "wallet-monitor",
-      "wallet-tracker"
-    ],
-    "html_url": "https://github.com/abdullahalhwyji/BTC-Wallet-Finder",
-    "stargazers_count": 199,
-    "language": null,
-    "forks_count": 5,
-    "open_issues_count": 0,
-    "created_at": "2025-10-31T12:29:47Z",
-    "updated_at": "2025-11-03T01:54:59Z",
-    "pushed_at": "2025-10-31T12:44:37Z"
   }
 ]
