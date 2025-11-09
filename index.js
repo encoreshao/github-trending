@@ -31,8 +31,8 @@ const fetchTrendingRepos = async () => {
         fs.ensureDirSync(dir());
 
         const today = new Date().toISOString().split('T')[0];
-        saveReposToMarkdown(repos, today)
-        saveReposToTableInMarkdown(repos, today);
+        // saveReposToMarkdown(repos, today)
+        // saveReposToTableInMarkdown(repos, today);
         saveReposToJson(repos, today);
         saveReposToCsv(repos, today);
     } catch (error) {
