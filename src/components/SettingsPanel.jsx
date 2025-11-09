@@ -48,12 +48,12 @@ const SettingsPanel = ({ token, setToken, attributes, setAttributes, setRepos, s
 
   return (
     <div style={{ padding: 24 }}>
-      <h2>{texts.settings}</h2>
+      <h2 style={{ color: '#000' }}>{texts.settings}</h2>
       <TokenInput token={token} setToken={setToken} texts={texts} />
       <Divider />
       <div style={{ marginBottom: 8 }}>
         <div style={{ display: 'flex', alignItems: 'center', marginBottom: 4 }}>
-          <span style={{ fontWeight: 500 }}>{texts.selectFields}</span>
+          <span style={{ fontWeight: 500, color: '#000' }}>{texts.selectFields}</span>
           <Tooltip title={texts.resetFields}>
             <Button
               size="small"
@@ -67,7 +67,7 @@ const SettingsPanel = ({ token, setToken, attributes, setAttributes, setRepos, s
       </div>
       <Divider />
       <div style={{ marginBottom: 16 }}>
-        <span style={{ fontWeight: 500 }}>{texts.pageSize}:</span>
+        <span style={{ fontWeight: 500, color: '#000' }}>{texts.pageSize}:</span>
         <InputNumber
           min={1}
           max={100}
@@ -77,7 +77,7 @@ const SettingsPanel = ({ token, setToken, attributes, setAttributes, setRepos, s
         />
       </div>
       <div style={{ marginBottom: 16 }}>
-        <span style={{ fontWeight: 500 }}>{texts.category}:</span>
+        <span style={{ fontWeight: 500, color: '#000' }}>{texts.category}:</span>
         <Input
           value={category}
           onChange={e => setCategory(e.target.value)}
