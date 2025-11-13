@@ -93,7 +93,8 @@ npm run build
    ```bash
    node index.js
    ```
-   - 热门数据将保存在 `docs/` 目录中，格式为 Markdown、JSON 和 CSV 文件
+   - 热门数据将保存在 `docs/YYYY/MM/` 目录结构中（例如 `docs/2024/01/`），格式为 Markdown、JSON 和 CSV 文件
+   - 如果年份和月份文件夹不存在，将自动创建
 
 3. **使用 cron 自动化**（可选）
    ```bash
@@ -170,18 +171,25 @@ github-trending/
 
 ### Node.js 脚本输出
 
-CLI 脚本在 `docs/` 目录中生成三种类型的文件：
+CLI 脚本在 `docs/YYYY/MM/` 目录结构中生成三种类型的文件，按年份和月份组织：
 
-1. **Markdown 文件**（`YYYY-MM-DD.md` 和 `YYYY-MM-DD-table.md`）
+**文件组织：**
+- 文件自动按年份/月份文件夹组织（例如 `docs/2024/01/`）
+- 如果年份和月份文件夹不存在，将自动创建
+- 这样可以保持数据有序，并便于按日期查找文件
+
+**输出文件：**
+
+1. **Markdown 文件**（`docs/YYYY/MM/YYYY-MM-DD.md` 和 `docs/YYYY/MM/YYYY-MM-DD-table.md`）
    - 详细的仓库信息
    - 表格格式，便于阅读
    - 包含所有元数据
 
-2. **JSON 文件**（`YYYY-MM-DD.json`）
+2. **JSON 文件**（`docs/YYYY/MM/YYYY-MM-DD.json`）
    - 结构化数据，用于程序化使用
    - 仅包含选定字段，提高效率
 
-3. **CSV 文件**（`YYYY-MM-DD.csv`）
+3. **CSV 文件**（`docs/YYYY/MM/YYYY-MM-DD.csv`）
    - 电子表格兼容格式
    - 包含所有仓库字段
 

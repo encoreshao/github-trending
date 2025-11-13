@@ -93,7 +93,8 @@ npm run build
    ```bash
    node index.js
    ```
-   - Trending data will be saved in the `docs/` directory as Markdown, JSON, and CSV files
+   - Trending data will be saved in the `docs/YYYY/MM/` directory structure (e.g., `docs/2024/01/`) as Markdown, JSON, and CSV files
+   - Year and month folders are automatically created if they don't exist
 
 3. **Automate with cron** (Optional)
    ```bash
@@ -170,18 +171,25 @@ github-trending/
 
 ### Node.js Script Output
 
-The CLI script generates three types of files in the `docs/` directory:
+The CLI script generates three types of files organized by year and month in the `docs/YYYY/MM/` directory structure:
 
-1. **Markdown Files** (`YYYY-MM-DD.md` and `YYYY-MM-DD-table.md`)
+**File Organization:**
+- Files are automatically organized into year/month folders (e.g., `docs/2024/01/`)
+- Year and month folders are created automatically if they don't exist
+- This keeps your data organized and makes it easier to find files by date
+
+**Output Files:**
+
+1. **Markdown Files** (`docs/YYYY/MM/YYYY-MM-DD.md` and `docs/YYYY/MM/YYYY-MM-DD-table.md`)
    - Detailed repository information
    - Table format for easy reading
    - Includes all metadata
 
-2. **JSON File** (`YYYY-MM-DD.json`)
+2. **JSON File** (`docs/YYYY/MM/YYYY-MM-DD.json`)
    - Structured data for programmatic use
    - Selected fields only for efficiency
 
-3. **CSV File** (`YYYY-MM-DD.csv`)
+3. **CSV File** (`docs/YYYY/MM/YYYY-MM-DD.csv`)
    - Spreadsheet-compatible format
    - All repository fields included
 

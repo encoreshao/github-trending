@@ -28,13 +28,17 @@ const fetchTrendingRepos = async () => {
 
         const repos = response.data.items;
 
-        fs.ensureDirSync(dir());
-
         const today = new Date().toISOString().split('T')[0];
-        // saveReposToMarkdown(repos, today)
-        // saveReposToTableInMarkdown(repos, today);
-        saveReposToJson(repos, today);
-        saveReposToCsv(repos, today);
+        const year = today.split('-')[0];
+        const month = today.split('-')[1];
+        const dateDir = `${dir()}/${year}/${month}`;
+
+        fs.ensureDirSync(dateDir);
+
+        // saveReposToMarkdown(repos, today, dateDir)
+        // saveReposToTableInMarkdown(repos, today, dateDir);
+        saveReposToJson(repos, today, dateDir);
+        saveReposToCsv(repos, today, dateDir);
     } catch (error) {
         console.error('Error fetching trending repositories:', error);
     }
@@ -62,8 +66,8 @@ const dir = () => {
  * @param {Array} repos - The list of repositories to save.
  * @return {void} This function does not return anything explicitly.
  */
-const saveReposToMarkdown = (repos, today) => {
-    const filePath = `${dir()}/${today}.md`;
+const saveReposToMarkdown = (repos, today, dateDir) => {
+    const filePath = `${dateDir}/${today}.md`;
 
     const markdownContent = `# Top 20 Trending GitHub Repositories of the Week (as of ${today})\n\n` +
         repos.map((repo, index) => (
@@ -95,8 +99,8 @@ const saveReposToMarkdown = (repos, today) => {
 };
 
 
-const saveReposToTableInMarkdown = (repos, today) => {
-    const filePath = `${dir()}/${today}-table.md`;
+const saveReposToTableInMarkdown = (repos, today, dateDir) => {
+    const filePath = `${dateDir}/${today}-table.md`;
 
     const markdownContent = `# Top 20 Trending GitHub Repositories of the Week (as of ${today})\n\n` +
         '| # | Repository | Stars | Owner | Avatar | Description | Topics | URL | Created At | Updated At | Pushed At | Git URL | SSH URL | Clone URL | SVN URL | Homepage | Size | Language | Forks Count | Open Issues Count | Default Branch | License |\n' +
@@ -116,8 +120,8 @@ const saveReposToTableInMarkdown = (repos, today) => {
  * @param {string} today - The current date in the format 'YYYY-MM-DD'.
  * @return {void} This function does not return anything explicitly.
  */
-const saveReposToJson = (repos, today) => {
-    const filePath = `${dir()}/${today}.json`;
+const saveReposToJson = (repos, today, dateDir) => {
+    const filePath = `${dateDir}/${today}.json`;
     // JSON File with Selected Fields
     const selectedFields = repos.map(repo => ({
         id: repo.id,
@@ -150,8 +154,8 @@ const saveReposToJson = (repos, today) => {
  * @param {string} today - The current date in the format 'YYYY-MM-DD'.
  * @return {void} This function does not return anything explicitly.
  */
-const saveReposToCsv = (repos, today) => {
-    const filePath = `${dir()}/${today}.csv`;
+const saveReposToCsv = (repos, today, dateDir) => {
+    const filePath = `${dateDir}/${today}.csv`;
     const fields = [
         'full_name', 'stargazers_count', 'owner.login', 'owner.avatar_url',
         'description', 'topics', 'html_url', 'created_at', 'updated_at', 'pushed_at',
