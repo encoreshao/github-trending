@@ -20,13 +20,17 @@ export const loadLatestCSV = async () => {
     // Try to load the first available CSV from GitHub
     for (const dateStr of dates) {
       try {
-        const csvUrl = `${GITHUB_RAW_URL}/${dateStr}.csv`;
+        // Extract year and month from date string (YYYY-MM-DD)
+        const year = dateStr.split('-')[0];
+        const month = dateStr.split('-')[1];
+        // Build path with year/month folder structure: docs/YYYY/MM/YYYY-MM-DD.csv
+        const csvUrl = `${GITHUB_RAW_URL}/${year}/${month}/${dateStr}.csv`;
         const csvResponse = await fetch(csvUrl);
         if (csvResponse.ok) {
           const csvText = await csvResponse.text();
           const parsedData = parseCSV(csvText);
           if (parsedData.length > 0) {
-            console.log(`✅ Loaded data from ${dateStr}.csv (${parsedData.length} repos)`);
+            console.log(`✅ Loaded data from ${year}/${month}/${dateStr}.csv (${parsedData.length} repos)`);
             return parsedData;
           }
         }
