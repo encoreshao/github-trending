@@ -3,6 +3,9 @@
 
 /node_modules
 
+# ignore chromadb database
+/notebooks/github-trending-repositories/
+
 dist/
 tmp/
 
