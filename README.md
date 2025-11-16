@@ -124,23 +124,50 @@ npm run build
 ## 📁 Project Structure
 
 ```
-github-trending/
-├── src/
-│   ├── components/
-│   │   ├── AttributeSelector.jsx    # Field selection component
-│   │   ├── RepoCardView.jsx         # Card view component
-│   │   ├── RepoTable.jsx            # Table view component
-│   │   ├── SettingsPanel.jsx       # Settings panel
-│   │   └── TokenInput.jsx           # Token input component
-│   ├── api/
-│   │   └── github.js               # GitHub API integration
-│   ├── App.jsx                     # Main application component
-│   ├── App.css                     # Application styles
-│   └── main.jsx                    # Application entry point
-├── docs/                           # Output directory for CLI script
-├── index.js                        # Node.js CLI script
-├── package.json                    # Dependencies and scripts
-└── README.md                       # This file
+.
+├── favicon.ico
+├── index.html
+├── index.js
+├── NOTEBOOK-README.md
+├── notebooks
+│   ├── chromadb.ipynb
+│   └── repos.ipynb
+├── package-lock.json
+├── package.json
+├── README-zh.md
+├── README.md
+├── scripts
+│   └── run.sh
+└── src
+    ├── api
+    │   └── github.js
+    ├── App.css
+    ├── App.jsx
+    ├── components
+    │   ├── AttributeSelector.jsx
+    │   ├── Footer.css
+    │   ├── Footer.jsx
+    │   ├── Header.css
+    │   ├── Header.jsx
+    │   ├── RepoCardView.jsx
+    │   ├── RepoTable.jsx
+    │   ├── SettingsPanel.jsx
+    │   └── TokenInput.jsx
+    ├── locales
+    │   └── index.js
+    ├── main.jsx
+    ├── NewApp.css
+    ├── NewApp.jsx
+    ├── pages
+    │   ├── DemoPage.css
+    │   ├── DemoPage.jsx
+    │   ├── DemoPageGlobal.css
+    │   ├── HomePage.css
+    │   ├── HomePage.jsx
+    │   ├── SubscriptionPage.css
+    │   └── SubscriptionPage.jsx
+    └── utils
+        └── csvLoader.js
 ```
 
 ---

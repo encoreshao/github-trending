@@ -124,23 +124,50 @@ npm run build
 ## 📁 项目结构
 
 ```
-github-trending/
-├── src/
-│   ├── components/
-│   │   ├── AttributeSelector.jsx    # 字段选择组件
-│   │   ├── RepoCardView.jsx         # 卡片视图组件
-│   │   ├── RepoTable.jsx            # 表格视图组件
-│   │   ├── SettingsPanel.jsx       # 设置面板
-│   │   └── TokenInput.jsx           # 令牌输入组件
-│   ├── api/
-│   │   └── github.js               # GitHub API 集成
-│   ├── App.jsx                     # 主应用程序组件
-│   ├── App.css                     # 应用程序样式
-│   └── main.jsx                    # 应用程序入口点
-├── docs/                           # CLI 脚本输出目录
-├── index.js                        # Node.js CLI 脚本
-├── package.json                    # 依赖和脚本
-└── README.md                       # 此文件
+.
+├── favicon.ico
+├── index.html
+├── index.js
+├── NOTEBOOK-README.md
+├── notebooks
+│   ├── chromadb.ipynb
+│   └── repos.ipynb
+├── package-lock.json
+├── package.json
+├── README-zh.md
+├── README.md
+├── scripts
+│   └── run.sh
+└── src
+    ├── api
+    │   └── github.js
+    ├── App.css
+    ├── App.jsx
+    ├── components
+    │   ├── AttributeSelector.jsx
+    │   ├── Footer.css
+    │   ├── Footer.jsx
+    │   ├── Header.css
+    │   ├── Header.jsx
+    │   ├── RepoCardView.jsx
+    │   ├── RepoTable.jsx
+    │   ├── SettingsPanel.jsx
+    │   └── TokenInput.jsx
+    ├── locales
+    │   └── index.js
+    ├── main.jsx
+    ├── NewApp.css
+    ├── NewApp.jsx
+    ├── pages
+    │   ├── DemoPage.css
+    │   ├── DemoPage.jsx
+    │   ├── DemoPageGlobal.css
+    │   ├── HomePage.css
+    │   ├── HomePage.jsx
+    │   ├── SubscriptionPage.css
+    │   └── SubscriptionPage.jsx
+    └── utils
+        └── csvLoader.js
 ```
 
 ---
