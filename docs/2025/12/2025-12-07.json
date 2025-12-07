@@ -10,13 +10,13 @@
     "description": "High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)",
     "topics": [],
     "html_url": "https://github.com/assetnote/react2shell-scanner",
-    "stargazers_count": 798,
+    "stargazers_count": 918,
     "language": "Python",
-    "forks_count": 89,
-    "open_issues_count": 6,
+    "forks_count": 100,
+    "open_issues_count": 3,
     "created_at": "2025-12-04T06:55:04Z",
-    "updated_at": "2025-12-07T02:28:57Z",
-    "pushed_at": "2025-12-05T22:31:06Z"
+    "updated_at": "2025-12-07T08:26:49Z",
+    "pushed_at": "2025-12-07T04:16:46Z"
   },
   {
     "id": 1107124999,
@@ -33,12 +33,12 @@
       "static-site-generator"
     ],
     "html_url": "https://github.com/antonmedv/gitmal",
-    "stargazers_count": 726,
+    "stargazers_count": 738,
     "language": "Go",
-    "forks_count": 19,
+    "forks_count": 20,
     "open_issues_count": 16,
     "created_at": "2025-11-30T16:18:24Z",
-    "updated_at": "2025-12-07T02:20:07Z",
+    "updated_at": "2025-12-07T08:01:10Z",
     "pushed_at": "2025-12-06T21:47:10Z"
   },
   {
@@ -50,14 +50,34 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/246974152?v=4"
     },
     "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-    "topics": [],
+    "topics": [
+      "ai-skills",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "command-line",
+      "command-line-tool",
+      "copilot",
+      "cursor-ai",
+      "dashboard-templates",
+      "html5",
+      "kiro",
+      "kiro-dev",
+      "landing-page",
+      "mobile-ui",
+      "react",
+      "tailwindcss",
+      "ui-design",
+      "uikit",
+      "windsurf-ai"
+    ],
     "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "stargazers_count": 687,
+    "stargazers_count": 721,
     "language": "Python",
-    "forks_count": 228,
+    "forks_count": 237,
     "open_issues_count": 1,
     "created_at": "2025-11-30T11:36:31Z",
-    "updated_at": "2025-12-07T02:29:50Z",
+    "updated_at": "2025-12-07T08:05:38Z",
     "pushed_at": "2025-12-06T07:03:28Z"
   },
   {
@@ -71,12 +91,12 @@
     "description": "CVE-2025-55182 POC",
     "topics": [],
     "html_url": "https://github.com/ejpir/CVE-2025-55182-research",
-    "stargazers_count": 672,
+    "stargazers_count": 679,
     "language": "JavaScript",
-    "forks_count": 189,
+    "forks_count": 188,
     "open_issues_count": 3,
     "created_at": "2025-12-03T21:16:22Z",
-    "updated_at": "2025-12-07T00:45:27Z",
+    "updated_at": "2025-12-07T07:46:01Z",
     "pushed_at": "2025-12-05T23:11:28Z"
   },
   {
@@ -90,12 +110,12 @@
     "description": "Explanation and full RCE PoC for CVE-2025-55182",
     "topics": [],
     "html_url": "https://github.com/msanft/CVE-2025-55182",
-    "stargazers_count": 572,
+    "stargazers_count": 588,
     "language": "Python",
-    "forks_count": 92,
+    "forks_count": 96,
     "open_issues_count": 1,
     "created_at": "2025-12-04T11:49:55Z",
-    "updated_at": "2025-12-07T02:26:32Z",
+    "updated_at": "2025-12-07T07:35:35Z",
     "pushed_at": "2025-12-05T19:10:14Z"
   },
   {
@@ -109,13 +129,35 @@
     "description": "cocoon",
     "topics": [],
     "html_url": "https://github.com/TelegramMessenger/cocoon",
-    "stargazers_count": 520,
+    "stargazers_count": 522,
     "language": "C++",
     "forks_count": 40,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "created_at": "2025-11-30T00:36:03Z",
-    "updated_at": "2025-12-06T17:00:12Z",
+    "updated_at": "2025-12-07T06:47:50Z",
     "pushed_at": "2025-12-05T10:04:29Z"
+  },
+  {
+    "id": 1110450305,
+    "name": "React2Shell-CVE-2025-55182-original-poc",
+    "full_name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+    "owner": {
+      "login": "lachlan2k",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4683714?v=4"
+    },
+    "description": "Original Proof-of-Concept's for React2Shell CVE-2025-55182",
+    "topics": [
+      "cve-2025-55182",
+      "react2shell"
+    ],
+    "html_url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+    "stargazers_count": 421,
+    "language": "JavaScript",
+    "forks_count": 30,
+    "open_issues_count": 0,
+    "created_at": "2025-12-05T08:00:07Z",
+    "updated_at": "2025-12-07T08:22:54Z",
+    "pushed_at": "2025-12-05T08:56:15Z"
   },
   {
     "id": 1109901849,
@@ -128,32 +170,13 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/guhcostan/mac-cleaner-cli",
-    "stargazers_count": 399,
+    "stargazers_count": 404,
     "language": "TypeScript",
     "forks_count": 36,
     "open_issues_count": 3,
     "created_at": "2025-12-04T12:49:07Z",
-    "updated_at": "2025-12-07T02:27:31Z",
+    "updated_at": "2025-12-07T08:22:45Z",
     "pushed_at": "2025-12-05T15:26:52Z"
-  },
-  {
-    "id": 1110450305,
-    "name": "React2Shell-CVE-2025-55182-original-poc",
-    "full_name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
-    "owner": {
-      "login": "lachlan2k",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4683714?v=4"
-    },
-    "description": "Original Proof-of-Concept's for React2Shell CVE-2025-55182",
-    "topics": [],
-    "html_url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
-    "stargazers_count": 389,
-    "language": "JavaScript",
-    "forks_count": 27,
-    "open_issues_count": 0,
-    "created_at": "2025-12-05T08:00:07Z",
-    "updated_at": "2025-12-07T02:26:45Z",
-    "pushed_at": "2025-12-05T08:56:15Z"
   },
   {
     "id": 1107212497,
@@ -169,12 +192,12 @@
       "rss-reader"
     ],
     "html_url": "https://github.com/LeslieLeung/glean",
-    "stargazers_count": 353,
+    "stargazers_count": 360,
     "language": "TypeScript",
     "forks_count": 20,
     "open_issues_count": 7,
     "created_at": "2025-11-30T19:39:05Z",
-    "updated_at": "2025-12-07T00:02:36Z",
+    "updated_at": "2025-12-07T07:28:56Z",
     "pushed_at": "2025-12-04T06:58:40Z"
   },
   {
@@ -188,12 +211,12 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/crowmd/GoogleMapAIagent",
-    "stargazers_count": 299,
+    "stargazers_count": 309,
     "language": null,
-    "forks_count": 90,
+    "forks_count": 92,
     "open_issues_count": 0,
     "created_at": "2025-12-05T16:26:38Z",
-    "updated_at": "2025-12-07T01:51:30Z",
+    "updated_at": "2025-12-07T07:45:24Z",
     "pushed_at": "2025-12-05T16:34:38Z"
   },
   {
@@ -212,13 +235,32 @@
       "self-hosted"
     ],
     "html_url": "https://github.com/norish-recipes/norish",
-    "stargazers_count": 287,
+    "stargazers_count": 293,
     "language": "TypeScript",
     "forks_count": 15,
     "open_issues_count": 16,
     "created_at": "2025-12-03T09:15:43Z",
-    "updated_at": "2025-12-07T02:06:56Z",
+    "updated_at": "2025-12-07T07:04:00Z",
     "pushed_at": "2025-12-06T10:02:45Z"
+  },
+  {
+    "id": 1109843084,
+    "name": "LiveAvatar",
+    "full_name": "Alibaba-Quark/LiveAvatar",
+    "owner": {
+      "login": "Alibaba-Quark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234896613?v=4"
+    },
+    "description": "Implementation of \"Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length\"",
+    "topics": [],
+    "html_url": "https://github.com/Alibaba-Quark/LiveAvatar",
+    "stargazers_count": 283,
+    "language": null,
+    "forks_count": 23,
+    "open_issues_count": 1,
+    "created_at": "2025-12-04T11:06:10Z",
+    "updated_at": "2025-12-07T08:28:21Z",
+    "pushed_at": "2025-12-05T04:06:33Z"
   },
   {
     "id": 1110389869,
@@ -231,12 +273,12 @@
     "description": "Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.",
     "topics": [],
     "html_url": "https://github.com/mrknow001/RSC_Detector",
-    "stargazers_count": 256,
+    "stargazers_count": 276,
     "language": "JavaScript",
-    "forks_count": 33,
-    "open_issues_count": 1,
+    "forks_count": 37,
+    "open_issues_count": 2,
     "created_at": "2025-12-05T05:53:25Z",
-    "updated_at": "2025-12-07T02:11:13Z",
+    "updated_at": "2025-12-07T08:22:50Z",
     "pushed_at": "2025-12-05T08:11:16Z"
   },
   {
@@ -250,32 +292,60 @@
     "description": "Versatile command-line toolkit for downloading audio, video, podcasts, pdf and more 多功能命令行下载工具，支持音频、视频、播客、 pdf等各种内容",
     "topics": [],
     "html_url": "https://github.com/guiyumin/vget",
-    "stargazers_count": 256,
+    "stargazers_count": 258,
     "language": "Go",
-    "forks_count": 19,
+    "forks_count": 20,
     "open_issues_count": 0,
     "created_at": "2025-11-30T03:13:09Z",
-    "updated_at": "2025-12-06T21:08:07Z",
-    "pushed_at": "2025-12-06T21:08:04Z"
+    "updated_at": "2025-12-07T07:17:36Z",
+    "pushed_at": "2025-12-07T07:17:33Z"
   },
   {
-    "id": 1109843084,
-    "name": "LiveAvatar",
-    "full_name": "Alibaba-Quark/LiveAvatar",
+    "id": 1110688372,
+    "name": "HMLR-Agentic-AI-Memory-System",
+    "full_name": "Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
     "owner": {
-      "login": "Alibaba-Quark",
-      "avatar_url": "https://avatars.githubusercontent.com/u/234896613?v=4"
+      "login": "Sean-V-Dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220429339?v=4"
     },
-    "description": "Implementation of \"Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length\"",
+    "description": "Living memory for AI",
     "topics": [],
-    "html_url": "https://github.com/Alibaba-Quark/LiveAvatar",
-    "stargazers_count": 248,
-    "language": null,
-    "forks_count": 20,
+    "html_url": "https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
+    "stargazers_count": 244,
+    "language": "Python",
+    "forks_count": 34,
     "open_issues_count": 1,
-    "created_at": "2025-12-04T11:06:10Z",
-    "updated_at": "2025-12-07T02:21:01Z",
-    "pushed_at": "2025-12-05T04:06:33Z"
+    "created_at": "2025-12-05T15:13:32Z",
+    "updated_at": "2025-12-07T08:26:38Z",
+    "pushed_at": "2025-12-06T06:09:26Z"
+  },
+  {
+    "id": 1110427194,
+    "name": "Prediction-market",
+    "full_name": "BlackSky-Jose/Prediction-market",
+    "owner": {
+      "login": "BlackSky-Jose",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45954860?v=4"
+    },
+    "description": "Prediction, market, solana .A fully decentralized prediction market platform on Solana enabling users to create custom markets, add liquidity, place token-based bets, and automatically resolve outcomes using Switchboard oracles and Anchor smart contracts.",
+    "topics": [
+      "betting",
+      "decentrapredict",
+      "maket-data",
+      "market",
+      "prediction",
+      "real-time",
+      "referral",
+      "solana"
+    ],
+    "html_url": "https://github.com/BlackSky-Jose/Prediction-market",
+    "stargazers_count": 235,
+    "language": "TypeScript",
+    "forks_count": 242,
+    "open_issues_count": 0,
+    "created_at": "2025-12-05T07:13:26Z",
+    "updated_at": "2025-12-07T07:53:33Z",
+    "pushed_at": "2025-12-05T07:31:03Z"
   },
   {
     "id": 1107953453,
@@ -310,55 +380,8 @@
     "forks_count": 135,
     "open_issues_count": 0,
     "created_at": "2025-12-01T20:38:42Z",
-    "updated_at": "2025-12-07T02:29:32Z",
-    "pushed_at": "2025-12-07T02:29:29Z"
-  },
-  {
-    "id": 1110688372,
-    "name": "HMLR-Agentic-AI-Memory-System",
-    "full_name": "Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
-    "owner": {
-      "login": "Sean-V-Dev",
-      "avatar_url": "https://avatars.githubusercontent.com/u/220429339?v=4"
-    },
-    "description": "Living memory for AI",
-    "topics": [],
-    "html_url": "https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
-    "stargazers_count": 225,
-    "language": "Python",
-    "forks_count": 29,
-    "open_issues_count": 1,
-    "created_at": "2025-12-05T15:13:32Z",
-    "updated_at": "2025-12-07T01:43:46Z",
-    "pushed_at": "2025-12-06T06:09:26Z"
-  },
-  {
-    "id": 1110427194,
-    "name": "Prediction-market-SOLANA",
-    "full_name": "BlackSky-Jose/Prediction-market-SOLANA",
-    "owner": {
-      "login": "BlackSky-Jose",
-      "avatar_url": "https://avatars.githubusercontent.com/u/45954860?v=4"
-    },
-    "description": "Prediction, market, solana .A fully decentralized prediction market platform on Solana enabling users to create custom markets, add liquidity, place token-based bets, and automatically resolve outcomes using Switchboard oracles and Anchor smart contracts.",
-    "topics": [
-      "betting",
-      "decentrapredict",
-      "maket-data",
-      "market",
-      "prediction",
-      "real-time",
-      "referral",
-      "solana"
-    ],
-    "html_url": "https://github.com/BlackSky-Jose/Prediction-market-SOLANA",
-    "stargazers_count": 221,
-    "language": "TypeScript",
-    "forks_count": 229,
-    "open_issues_count": 0,
-    "created_at": "2025-12-05T07:13:26Z",
-    "updated_at": "2025-12-07T02:09:52Z",
-    "pushed_at": "2025-12-05T07:31:03Z"
+    "updated_at": "2025-12-07T08:29:33Z",
+    "pushed_at": "2025-12-07T08:29:30Z"
   },
   {
     "id": 1109416346,
@@ -378,12 +401,12 @@
       "soalan"
     ],
     "html_url": "https://github.com/devcarron/casino-game-smartContract",
-    "stargazers_count": 196,
+    "stargazers_count": 211,
     "language": "TypeScript",
-    "forks_count": 212,
+    "forks_count": 229,
     "open_issues_count": 0,
     "created_at": "2025-12-03T19:19:15Z",
-    "updated_at": "2025-12-07T02:29:07Z",
+    "updated_at": "2025-12-07T07:52:41Z",
     "pushed_at": "2025-12-04T01:17:48Z"
   },
   {
@@ -397,31 +420,40 @@
     "description": "Comprehensive backend interview questions covering general concepts, .NET Core, Node.js, and PHP Laravel - 169 questions total",
     "topics": [],
     "html_url": "https://github.com/mostafaaElsherbiny/backend-interview-questions",
-    "stargazers_count": 190,
+    "stargazers_count": 192,
     "language": null,
     "forks_count": 16,
     "open_issues_count": 1,
     "created_at": "2025-12-04T10:28:58Z",
-    "updated_at": "2025-12-07T00:11:04Z",
+    "updated_at": "2025-12-07T06:32:57Z",
     "pushed_at": "2025-12-04T10:29:14Z"
   },
   {
-    "id": 1107340766,
-    "name": "fabricate",
-    "full_name": "dabit3/fabricate",
+    "id": 1109692427,
+    "name": "prediction-market",
+    "full_name": "CryptomSol/prediction-market",
     "owner": {
-      "login": "dabit3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1857282?v=4"
+      "login": "CryptomSol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17170870?v=4"
     },
-    "description": "An experimental research tool for fabricating GitHub personas with AI-generated repositories",
-    "topics": [],
-    "html_url": "https://github.com/dabit3/fabricate",
-    "stargazers_count": 182,
-    "language": "Python",
-    "forks_count": 17,
+    "description": "prediction market platform built on solana with microservices architecture. This platform enables users to create, trade, and settle prediction markets with real-time order matching, price updates, and comprehensive market analytics.",
+    "topics": [
+      "market",
+      "polymarket",
+      "polymarket-clone",
+      "polymarket-fork",
+      "prediction",
+      "predicton-market",
+      "rust",
+      "solana"
+    ],
+    "html_url": "https://github.com/CryptomSol/prediction-market",
+    "stargazers_count": 186,
+    "language": "Rust",
+    "forks_count": 189,
     "open_issues_count": 0,
-    "created_at": "2025-12-01T02:06:32Z",
-    "updated_at": "2025-12-06T18:33:05Z",
-    "pushed_at": "2025-12-01T15:34:28Z"
+    "created_at": "2025-12-04T06:39:15Z",
+    "updated_at": "2025-12-07T07:54:21Z",
+    "pushed_at": "2025-12-04T07:03:36Z"
   }
 ]
