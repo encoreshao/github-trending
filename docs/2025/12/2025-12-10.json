@@ -10,13 +10,13 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/zai-org/Open-AutoGLM",
-    "stargazers_count": 2490,
+    "stargazers_count": 3888,
     "language": "Python",
-    "forks_count": 380,
-    "open_issues_count": 14,
+    "forks_count": 630,
+    "open_issues_count": 29,
     "created_at": "2025-12-08T09:23:44Z",
-    "updated_at": "2025-12-10T02:29:06Z",
-    "pushed_at": "2025-12-09T15:30:43Z"
+    "updated_at": "2025-12-10T08:29:52Z",
+    "pushed_at": "2025-12-10T05:52:10Z"
   },
   {
     "id": 1109700440,
@@ -29,12 +29,12 @@
     "description": "High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)",
     "topics": [],
     "html_url": "https://github.com/assetnote/react2shell-scanner",
-    "stargazers_count": 1947,
+    "stargazers_count": 1972,
     "language": "Python",
-    "forks_count": 187,
+    "forks_count": 191,
     "open_issues_count": 8,
     "created_at": "2025-12-04T06:55:04Z",
-    "updated_at": "2025-12-10T01:54:40Z",
+    "updated_at": "2025-12-10T08:05:39Z",
     "pushed_at": "2025-12-07T04:16:46Z"
   },
   {
@@ -48,111 +48,13 @@
     "description": "Explanation and full RCE PoC for CVE-2025-55182",
     "topics": [],
     "html_url": "https://github.com/msanft/CVE-2025-55182",
-    "stargazers_count": 1003,
+    "stargazers_count": 1043,
     "language": "Python",
-    "forks_count": 151,
+    "forks_count": 157,
     "open_issues_count": 0,
     "created_at": "2025-12-04T11:49:55Z",
-    "updated_at": "2025-12-10T02:07:40Z",
+    "updated_at": "2025-12-10T08:24:11Z",
     "pushed_at": "2025-12-08T13:51:04Z"
-  },
-  {
-    "id": 1109472359,
-    "name": "CVE-2025-55182-research",
-    "full_name": "ejpir/CVE-2025-55182-research",
-    "owner": {
-      "login": "ejpir",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16493171?v=4"
-    },
-    "description": "CVE-2025-55182 POC",
-    "topics": [],
-    "html_url": "https://github.com/ejpir/CVE-2025-55182-research",
-    "stargazers_count": 740,
-    "language": "JavaScript",
-    "forks_count": 199,
-    "open_issues_count": 3,
-    "created_at": "2025-12-03T21:16:22Z",
-    "updated_at": "2025-12-10T01:37:15Z",
-    "pushed_at": "2025-12-08T21:21:26Z"
-  },
-  {
-    "id": 1110450305,
-    "name": "React2Shell-CVE-2025-55182-original-poc",
-    "full_name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
-    "owner": {
-      "login": "lachlan2k",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4683714?v=4"
-    },
-    "description": "Original Proof-of-Concepts for React2Shell CVE-2025-55182",
-    "topics": [
-      "cve-2025-55182",
-      "react2shell"
-    ],
-    "html_url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
-    "stargazers_count": 724,
-    "language": "JavaScript",
-    "forks_count": 58,
-    "open_issues_count": 0,
-    "created_at": "2025-12-05T08:00:07Z",
-    "updated_at": "2025-12-10T02:24:50Z",
-    "pushed_at": "2025-12-05T08:56:15Z"
-  },
-  {
-    "id": 1109843084,
-    "name": "LiveAvatar",
-    "full_name": "Alibaba-Quark/LiveAvatar",
-    "owner": {
-      "login": "Alibaba-Quark",
-      "avatar_url": "https://avatars.githubusercontent.com/u/234896613?v=4"
-    },
-    "description": "Implementation of \"Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length\"",
-    "topics": [],
-    "html_url": "https://github.com/Alibaba-Quark/LiveAvatar",
-    "stargazers_count": 721,
-    "language": "Python",
-    "forks_count": 56,
-    "open_issues_count": 1,
-    "created_at": "2025-12-04T11:06:10Z",
-    "updated_at": "2025-12-10T02:26:27Z",
-    "pushed_at": "2025-12-09T03:04:56Z"
-  },
-  {
-    "id": 1109901849,
-    "name": "mac-cleaner-cli",
-    "full_name": "guhcostan/mac-cleaner-cli",
-    "owner": {
-      "login": "guhcostan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22989468?v=4"
-    },
-    "description": null,
-    "topics": [],
-    "html_url": "https://github.com/guhcostan/mac-cleaner-cli",
-    "stargazers_count": 696,
-    "language": "TypeScript",
-    "forks_count": 58,
-    "open_issues_count": 1,
-    "created_at": "2025-12-04T12:49:07Z",
-    "updated_at": "2025-12-10T02:09:20Z",
-    "pushed_at": "2025-12-09T14:22:55Z"
-  },
-  {
-    "id": 1111541748,
-    "name": "tgbot-verify",
-    "full_name": "PastKing/tgbot-verify",
-    "owner": {
-      "login": "PastKing",
-      "avatar_url": "https://avatars.githubusercontent.com/u/92582084?v=4"
-    },
-    "description": "一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。",
-    "topics": [],
-    "html_url": "https://github.com/PastKing/tgbot-verify",
-    "stargazers_count": 670,
-    "language": "Python",
-    "forks_count": 322,
-    "open_issues_count": 0,
-    "created_at": "2025-12-07T06:27:57Z",
-    "updated_at": "2025-12-10T02:26:58Z",
-    "pushed_at": "2025-12-07T22:47:37Z"
   },
   {
     "id": 1111537966,
@@ -170,13 +72,111 @@
       "paper2slides"
     ],
     "html_url": "https://github.com/HKUDS/Paper2Slides",
-    "stargazers_count": 644,
+    "stargazers_count": 785,
     "language": "Python",
-    "forks_count": 83,
+    "forks_count": 98,
     "open_issues_count": 1,
     "created_at": "2025-12-07T06:15:43Z",
-    "updated_at": "2025-12-10T02:28:32Z",
-    "pushed_at": "2025-12-09T09:38:44Z"
+    "updated_at": "2025-12-10T08:29:03Z",
+    "pushed_at": "2025-12-10T05:21:57Z"
+  },
+  {
+    "id": 1109843084,
+    "name": "LiveAvatar",
+    "full_name": "Alibaba-Quark/LiveAvatar",
+    "owner": {
+      "login": "Alibaba-Quark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234896613?v=4"
+    },
+    "description": "Implementation of \"Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length\"",
+    "topics": [],
+    "html_url": "https://github.com/Alibaba-Quark/LiveAvatar",
+    "stargazers_count": 760,
+    "language": "Python",
+    "forks_count": 60,
+    "open_issues_count": 2,
+    "created_at": "2025-12-04T11:06:10Z",
+    "updated_at": "2025-12-10T08:20:45Z",
+    "pushed_at": "2025-12-09T03:04:56Z"
+  },
+  {
+    "id": 1109472359,
+    "name": "CVE-2025-55182-research",
+    "full_name": "ejpir/CVE-2025-55182-research",
+    "owner": {
+      "login": "ejpir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16493171?v=4"
+    },
+    "description": "CVE-2025-55182 POC",
+    "topics": [],
+    "html_url": "https://github.com/ejpir/CVE-2025-55182-research",
+    "stargazers_count": 745,
+    "language": "JavaScript",
+    "forks_count": 200,
+    "open_issues_count": 3,
+    "created_at": "2025-12-03T21:16:22Z",
+    "updated_at": "2025-12-10T07:56:44Z",
+    "pushed_at": "2025-12-08T21:21:26Z"
+  },
+  {
+    "id": 1110450305,
+    "name": "React2Shell-CVE-2025-55182-original-poc",
+    "full_name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+    "owner": {
+      "login": "lachlan2k",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4683714?v=4"
+    },
+    "description": "Original Proof-of-Concepts for React2Shell CVE-2025-55182",
+    "topics": [
+      "cve-2025-55182",
+      "react2shell"
+    ],
+    "html_url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+    "stargazers_count": 738,
+    "language": "JavaScript",
+    "forks_count": 60,
+    "open_issues_count": 0,
+    "created_at": "2025-12-05T08:00:07Z",
+    "updated_at": "2025-12-10T07:55:02Z",
+    "pushed_at": "2025-12-05T08:56:15Z"
+  },
+  {
+    "id": 1111541748,
+    "name": "tgbot-verify",
+    "full_name": "PastKing/tgbot-verify",
+    "owner": {
+      "login": "PastKing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92582084?v=4"
+    },
+    "description": "一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。",
+    "topics": [],
+    "html_url": "https://github.com/PastKing/tgbot-verify",
+    "stargazers_count": 726,
+    "language": "Python",
+    "forks_count": 333,
+    "open_issues_count": 1,
+    "created_at": "2025-12-07T06:27:57Z",
+    "updated_at": "2025-12-10T08:20:52Z",
+    "pushed_at": "2025-12-10T06:30:07Z"
+  },
+  {
+    "id": 1109901849,
+    "name": "mac-cleaner-cli",
+    "full_name": "guhcostan/mac-cleaner-cli",
+    "owner": {
+      "login": "guhcostan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22989468?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/guhcostan/mac-cleaner-cli",
+    "stargazers_count": 707,
+    "language": "TypeScript",
+    "forks_count": 58,
+    "open_issues_count": 1,
+    "created_at": "2025-12-04T12:49:07Z",
+    "updated_at": "2025-12-10T08:26:25Z",
+    "pushed_at": "2025-12-09T14:22:55Z"
   },
   {
     "id": 1109953887,
@@ -207,13 +207,13 @@
       "wireless"
     ],
     "html_url": "https://github.com/Nerds489/NETREAPER",
-    "stargazers_count": 592,
+    "stargazers_count": 628,
     "language": "Shell",
-    "forks_count": 79,
-    "open_issues_count": 1,
+    "forks_count": 85,
+    "open_issues_count": 0,
     "created_at": "2025-12-04T14:10:16Z",
-    "updated_at": "2025-12-10T02:28:43Z",
-    "pushed_at": "2025-12-09T13:26:48Z"
+    "updated_at": "2025-12-10T08:29:43Z",
+    "pushed_at": "2025-12-10T08:24:37Z"
   },
   {
     "id": 1111058071,
@@ -226,13 +226,13 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/byJoey/ech-wk",
-    "stargazers_count": 530,
+    "stargazers_count": 565,
     "language": "Python",
-    "forks_count": 320,
-    "open_issues_count": 6,
+    "forks_count": 350,
+    "open_issues_count": 8,
     "created_at": "2025-12-06T07:20:27Z",
-    "updated_at": "2025-12-10T02:27:29Z",
-    "pushed_at": "2025-12-09T16:13:42Z"
+    "updated_at": "2025-12-10T08:29:20Z",
+    "pushed_at": "2025-12-10T08:05:23Z"
   },
   {
     "id": 1111230328,
@@ -245,13 +245,32 @@
     "description": "一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。",
     "topics": [],
     "html_url": "https://github.com/TanShilongMario/PromptFill",
-    "stargazers_count": 467,
+    "stargazers_count": 519,
     "language": "JavaScript",
-    "forks_count": 69,
-    "open_issues_count": 2,
+    "forks_count": 79,
+    "open_issues_count": 4,
     "created_at": "2025-12-06T14:33:31Z",
-    "updated_at": "2025-12-10T02:27:43Z",
+    "updated_at": "2025-12-10T08:15:28Z",
     "pushed_at": "2025-12-09T03:34:53Z"
+  },
+  {
+    "id": 1112533539,
+    "name": "mistral-vibe",
+    "full_name": "mistralai/mistral-vibe",
+    "owner": {
+      "login": "mistralai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132372032?v=4"
+    },
+    "description": "Minimal CLI coding agent by Mistral",
+    "topics": [],
+    "html_url": "https://github.com/mistralai/mistral-vibe",
+    "stargazers_count": 502,
+    "language": "Python",
+    "forks_count": 38,
+    "open_issues_count": 23,
+    "created_at": "2025-12-08T18:56:59Z",
+    "updated_at": "2025-12-10T08:28:33Z",
+    "pushed_at": "2025-12-09T18:54:54Z"
   },
   {
     "id": 1112365301,
@@ -264,12 +283,12 @@
     "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
     "topics": [],
     "html_url": "https://github.com/tobi/qmd",
-    "stargazers_count": 458,
+    "stargazers_count": 480,
     "language": "TypeScript",
-    "forks_count": 9,
+    "forks_count": 10,
     "open_issues_count": 2,
     "created_at": "2025-12-08T14:22:57Z",
-    "updated_at": "2025-12-10T02:13:01Z",
+    "updated_at": "2025-12-10T08:29:57Z",
     "pushed_at": "2025-12-08T20:00:21Z"
   },
   {
@@ -283,32 +302,37 @@
     "description": "Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.",
     "topics": [],
     "html_url": "https://github.com/mrknow001/RSC_Detector",
-    "stargazers_count": 402,
+    "stargazers_count": 416,
     "language": "JavaScript",
-    "forks_count": 58,
+    "forks_count": 59,
     "open_issues_count": 2,
     "created_at": "2025-12-05T05:53:25Z",
-    "updated_at": "2025-12-10T02:07:41Z",
+    "updated_at": "2025-12-10T08:16:32Z",
     "pushed_at": "2025-12-05T08:11:16Z"
   },
   {
-    "id": 1112533539,
-    "name": "mistral-vibe",
-    "full_name": "mistralai/mistral-vibe",
+    "id": 1113152049,
+    "name": "API-mega-list",
+    "full_name": "cporter202/API-mega-list",
     "owner": {
-      "login": "mistralai",
-      "avatar_url": "https://avatars.githubusercontent.com/u/132372032?v=4"
+      "login": "cporter202",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163957687?v=4"
     },
-    "description": "Minimal CLI coding agent by Mistral",
-    "topics": [],
-    "html_url": "https://github.com/mistralai/mistral-vibe",
-    "stargazers_count": 380,
-    "language": "Python",
-    "forks_count": 25,
-    "open_issues_count": 21,
-    "created_at": "2025-12-08T18:56:59Z",
-    "updated_at": "2025-12-10T02:29:31Z",
-    "pushed_at": "2025-12-09T18:54:54Z"
+    "description": "This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪",
+    "topics": [
+      "api",
+      "api-library",
+      "api-list",
+      "apis"
+    ],
+    "html_url": "https://github.com/cporter202/API-mega-list",
+    "stargazers_count": 387,
+    "language": "JavaScript",
+    "forks_count": 90,
+    "open_issues_count": 0,
+    "created_at": "2025-12-09T15:36:20Z",
+    "updated_at": "2025-12-10T08:29:13Z",
+    "pushed_at": "2025-12-09T18:00:15Z"
   },
   {
     "id": 1109050469,
@@ -326,13 +350,13 @@
       "self-hosted"
     ],
     "html_url": "https://github.com/norish-recipes/norish",
-    "stargazers_count": 343,
+    "stargazers_count": 345,
     "language": "TypeScript",
     "forks_count": 20,
     "open_issues_count": 19,
     "created_at": "2025-12-03T09:15:43Z",
-    "updated_at": "2025-12-09T22:36:45Z",
-    "pushed_at": "2025-12-07T15:22:35Z"
+    "updated_at": "2025-12-10T07:13:22Z",
+    "pushed_at": "2025-12-10T07:46:22Z"
   },
   {
     "id": 1110731765,
@@ -354,25 +378,6 @@
     "pushed_at": "2025-12-05T16:34:38Z"
   },
   {
-    "id": 1111842373,
-    "name": "Ai-Arastirma-Okumalarim-TR",
-    "full_name": "alicankiraz1/Ai-Arastirma-Okumalarim-TR",
-    "owner": {
-      "login": "alicankiraz1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/167613664?v=4"
-    },
-    "description": "Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz.",
-    "topics": [],
-    "html_url": "https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR",
-    "stargazers_count": 319,
-    "language": null,
-    "forks_count": 20,
-    "open_issues_count": 0,
-    "created_at": "2025-12-07T18:26:31Z",
-    "updated_at": "2025-12-10T00:36:26Z",
-    "pushed_at": "2025-12-07T19:33:32Z"
-  },
-  {
     "id": 1108956207,
     "name": "LongCat-Image",
     "full_name": "meituan-longcat/LongCat-Image",
@@ -383,31 +388,31 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/meituan-longcat/LongCat-Image",
-    "stargazers_count": 314,
+    "stargazers_count": 337,
     "language": "Python",
-    "forks_count": 16,
-    "open_issues_count": 15,
+    "forks_count": 17,
+    "open_issues_count": 16,
     "created_at": "2025-12-03T06:26:54Z",
-    "updated_at": "2025-12-10T02:25:12Z",
+    "updated_at": "2025-12-10T08:26:37Z",
     "pushed_at": "2025-12-09T15:32:07Z"
   },
   {
-    "id": 1111315111,
-    "name": "SwiftAgents",
-    "full_name": "twostraws/SwiftAgents",
+    "id": 1111842373,
+    "name": "Ai-Arastirma-Okumalarim-TR",
+    "full_name": "alicankiraz1/Ai-Arastirma-Okumalarim-TR",
     "owner": {
-      "login": "twostraws",
-      "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
+      "login": "alicankiraz1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167613664?v=4"
     },
-    "description": "An AGENTS.md file for Swift and SwiftUI projects.",
+    "description": "Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz.",
     "topics": [],
-    "html_url": "https://github.com/twostraws/SwiftAgents",
-    "stargazers_count": 310,
+    "html_url": "https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR",
+    "stargazers_count": 323,
     "language": null,
-    "forks_count": 16,
-    "open_issues_count": 2,
-    "created_at": "2025-12-06T17:36:46Z",
-    "updated_at": "2025-12-10T00:10:12Z",
-    "pushed_at": "2025-12-06T17:37:12Z"
+    "forks_count": 20,
+    "open_issues_count": 0,
+    "created_at": "2025-12-07T18:26:31Z",
+    "updated_at": "2025-12-10T08:18:58Z",
+    "pushed_at": "2025-12-07T19:33:32Z"
   }
 ]
