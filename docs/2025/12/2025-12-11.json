@@ -13,13 +13,13 @@
       "phone-use-agent"
     ],
     "html_url": "https://github.com/zai-org/Open-AutoGLM",
-    "stargazers_count": 5747,
+    "stargazers_count": 7013,
     "language": "Python",
-    "forks_count": 966,
-    "open_issues_count": 45,
+    "forks_count": 1186,
+    "open_issues_count": 47,
     "created_at": "2025-12-08T09:23:44Z",
-    "updated_at": "2025-12-11T02:29:57Z",
-    "pushed_at": "2025-12-11T01:55:47Z"
+    "updated_at": "2025-12-11T08:29:44Z",
+    "pushed_at": "2025-12-11T07:50:11Z"
   },
   {
     "id": 1109700440,
@@ -32,12 +32,12 @@
     "description": "High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)",
     "topics": [],
     "html_url": "https://github.com/assetnote/react2shell-scanner",
-    "stargazers_count": 2030,
+    "stargazers_count": 2041,
     "language": "Python",
-    "forks_count": 197,
+    "forks_count": 199,
     "open_issues_count": 7,
     "created_at": "2025-12-04T06:55:04Z",
-    "updated_at": "2025-12-11T01:46:50Z",
+    "updated_at": "2025-12-11T08:27:40Z",
     "pushed_at": "2025-12-07T04:16:46Z"
   },
   {
@@ -56,12 +56,12 @@
       "paper2slides"
     ],
     "html_url": "https://github.com/HKUDS/Paper2Slides",
-    "stargazers_count": 1142,
+    "stargazers_count": 1249,
     "language": "Python",
-    "forks_count": 155,
-    "open_issues_count": 3,
+    "forks_count": 163,
+    "open_issues_count": 1,
     "created_at": "2025-12-07T06:15:43Z",
-    "updated_at": "2025-12-11T02:27:03Z",
+    "updated_at": "2025-12-11T08:27:34Z",
     "pushed_at": "2025-12-10T05:21:57Z"
   },
   {
@@ -75,13 +75,51 @@
     "description": "Explanation and full RCE PoC for CVE-2025-55182",
     "topics": [],
     "html_url": "https://github.com/msanft/CVE-2025-55182",
-    "stargazers_count": 1106,
+    "stargazers_count": 1121,
     "language": "Python",
-    "forks_count": 162,
+    "forks_count": 163,
     "open_issues_count": 0,
     "created_at": "2025-12-04T11:49:55Z",
-    "updated_at": "2025-12-11T02:11:42Z",
+    "updated_at": "2025-12-11T08:30:01Z",
     "pushed_at": "2025-12-08T13:51:04Z"
+  },
+  {
+    "id": 1111058071,
+    "name": "ech-wk",
+    "full_name": "byJoey/ech-wk",
+    "owner": {
+      "login": "byJoey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36790372?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/byJoey/ech-wk",
+    "stargazers_count": 887,
+    "language": "Python",
+    "forks_count": 535,
+    "open_issues_count": 16,
+    "created_at": "2025-12-06T07:20:27Z",
+    "updated_at": "2025-12-11T08:25:12Z",
+    "pushed_at": "2025-12-10T15:05:04Z"
+  },
+  {
+    "id": 1112533539,
+    "name": "mistral-vibe",
+    "full_name": "mistralai/mistral-vibe",
+    "owner": {
+      "login": "mistralai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132372032?v=4"
+    },
+    "description": "Minimal CLI coding agent by Mistral",
+    "topics": [],
+    "html_url": "https://github.com/mistralai/mistral-vibe",
+    "stargazers_count": 848,
+    "language": "Python",
+    "forks_count": 68,
+    "open_issues_count": 34,
+    "created_at": "2025-12-08T18:56:59Z",
+    "updated_at": "2025-12-11T08:27:22Z",
+    "pushed_at": "2025-12-10T18:44:00Z"
   },
   {
     "id": 1109843084,
@@ -94,12 +132,12 @@
     "description": "Implementation of \"Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length\"",
     "topics": [],
     "html_url": "https://github.com/Alibaba-Quark/LiveAvatar",
-    "stargazers_count": 816,
+    "stargazers_count": 847,
     "language": "Python",
-    "forks_count": 65,
-    "open_issues_count": 2,
+    "forks_count": 68,
+    "open_issues_count": 3,
     "created_at": "2025-12-04T11:06:10Z",
-    "updated_at": "2025-12-11T02:25:15Z",
+    "updated_at": "2025-12-11T08:11:40Z",
     "pushed_at": "2025-12-09T03:04:56Z"
   },
   {
@@ -113,51 +151,13 @@
     "description": "一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。",
     "topics": [],
     "html_url": "https://github.com/PastKing/tgbot-verify",
-    "stargazers_count": 800,
+    "stargazers_count": 828,
     "language": "Python",
-    "forks_count": 358,
+    "forks_count": 367,
     "open_issues_count": 1,
     "created_at": "2025-12-07T06:27:57Z",
-    "updated_at": "2025-12-11T02:13:48Z",
-    "pushed_at": "2025-12-10T06:30:07Z"
-  },
-  {
-    "id": 1112533539,
-    "name": "mistral-vibe",
-    "full_name": "mistralai/mistral-vibe",
-    "owner": {
-      "login": "mistralai",
-      "avatar_url": "https://avatars.githubusercontent.com/u/132372032?v=4"
-    },
-    "description": "Minimal CLI coding agent by Mistral",
-    "topics": [],
-    "html_url": "https://github.com/mistralai/mistral-vibe",
-    "stargazers_count": 788,
-    "language": "Python",
-    "forks_count": 63,
-    "open_issues_count": 33,
-    "created_at": "2025-12-08T18:56:59Z",
-    "updated_at": "2025-12-11T02:28:17Z",
-    "pushed_at": "2025-12-10T18:44:00Z"
-  },
-  {
-    "id": 1111058071,
-    "name": "ech-wk",
-    "full_name": "byJoey/ech-wk",
-    "owner": {
-      "login": "byJoey",
-      "avatar_url": "https://avatars.githubusercontent.com/u/36790372?v=4"
-    },
-    "description": null,
-    "topics": [],
-    "html_url": "https://github.com/byJoey/ech-wk",
-    "stargazers_count": 787,
-    "language": "Python",
-    "forks_count": 475,
-    "open_issues_count": 12,
-    "created_at": "2025-12-06T07:20:27Z",
-    "updated_at": "2025-12-11T02:29:51Z",
-    "pushed_at": "2025-12-10T15:05:04Z"
+    "updated_at": "2025-12-11T08:17:15Z",
+    "pushed_at": "2025-12-11T05:51:26Z"
   },
   {
     "id": 1110450305,
@@ -173,32 +173,13 @@
       "react2shell"
     ],
     "html_url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
-    "stargazers_count": 780,
+    "stargazers_count": 787,
     "language": "JavaScript",
-    "forks_count": 65,
+    "forks_count": 66,
     "open_issues_count": 0,
     "created_at": "2025-12-05T08:00:07Z",
-    "updated_at": "2025-12-11T01:33:12Z",
+    "updated_at": "2025-12-11T08:10:02Z",
     "pushed_at": "2025-12-05T08:56:15Z"
-  },
-  {
-    "id": 1109901849,
-    "name": "mac-cleaner-cli",
-    "full_name": "guhcostan/mac-cleaner-cli",
-    "owner": {
-      "login": "guhcostan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22989468?v=4"
-    },
-    "description": null,
-    "topics": [],
-    "html_url": "https://github.com/guhcostan/mac-cleaner-cli",
-    "stargazers_count": 771,
-    "language": "TypeScript",
-    "forks_count": 60,
-    "open_issues_count": 2,
-    "created_at": "2025-12-04T12:49:07Z",
-    "updated_at": "2025-12-11T02:26:39Z",
-    "pushed_at": "2025-12-10T13:31:47Z"
   },
   {
     "id": 1113152049,
@@ -216,13 +197,32 @@
       "apis"
     ],
     "html_url": "https://github.com/cporter202/API-mega-list",
-    "stargazers_count": 735,
+    "stargazers_count": 781,
     "language": "JavaScript",
-    "forks_count": 160,
+    "forks_count": 176,
     "open_issues_count": 1,
     "created_at": "2025-12-09T15:36:20Z",
-    "updated_at": "2025-12-11T02:26:20Z",
+    "updated_at": "2025-12-11T08:27:28Z",
     "pushed_at": "2025-12-09T18:00:15Z"
+  },
+  {
+    "id": 1109901849,
+    "name": "mac-cleaner-cli",
+    "full_name": "guhcostan/mac-cleaner-cli",
+    "owner": {
+      "login": "guhcostan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22989468?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/guhcostan/mac-cleaner-cli",
+    "stargazers_count": 775,
+    "language": "TypeScript",
+    "forks_count": 61,
+    "open_issues_count": 2,
+    "created_at": "2025-12-04T12:49:07Z",
+    "updated_at": "2025-12-11T06:08:08Z",
+    "pushed_at": "2025-12-10T13:31:47Z"
   },
   {
     "id": 1109953887,
@@ -253,12 +253,12 @@
       "wireless"
     ],
     "html_url": "https://github.com/Nerds489/NETREAPER",
-    "stargazers_count": 678,
+    "stargazers_count": 687,
     "language": "Shell",
-    "forks_count": 93,
+    "forks_count": 95,
     "open_issues_count": 0,
     "created_at": "2025-12-04T14:10:16Z",
-    "updated_at": "2025-12-11T01:18:48Z",
+    "updated_at": "2025-12-11T08:21:58Z",
     "pushed_at": "2025-12-10T13:46:24Z"
   },
   {
@@ -272,12 +272,12 @@
     "description": "一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。",
     "topics": [],
     "html_url": "https://github.com/TanShilongMario/PromptFill",
-    "stargazers_count": 576,
+    "stargazers_count": 598,
     "language": "JavaScript",
-    "forks_count": 83,
-    "open_issues_count": 4,
+    "forks_count": 87,
+    "open_issues_count": 5,
     "created_at": "2025-12-06T14:33:31Z",
-    "updated_at": "2025-12-11T02:21:24Z",
+    "updated_at": "2025-12-11T08:28:44Z",
     "pushed_at": "2025-12-11T02:03:33Z"
   },
   {
@@ -291,12 +291,12 @@
     "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
     "topics": [],
     "html_url": "https://github.com/tobi/qmd",
-    "stargazers_count": 508,
+    "stargazers_count": 514,
     "language": "TypeScript",
-    "forks_count": 11,
+    "forks_count": 12,
     "open_issues_count": 2,
     "created_at": "2025-12-08T14:22:57Z",
-    "updated_at": "2025-12-10T23:36:24Z",
+    "updated_at": "2025-12-11T06:04:08Z",
     "pushed_at": "2025-12-08T20:00:21Z"
   },
   {
@@ -310,12 +310,12 @@
     "description": "Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.",
     "topics": [],
     "html_url": "https://github.com/mrknow001/RSC_Detector",
-    "stargazers_count": 431,
+    "stargazers_count": 439,
     "language": "JavaScript",
-    "forks_count": 63,
+    "forks_count": 64,
     "open_issues_count": 2,
     "created_at": "2025-12-05T05:53:25Z",
-    "updated_at": "2025-12-11T02:29:27Z",
+    "updated_at": "2025-12-11T08:19:29Z",
     "pushed_at": "2025-12-05T08:11:16Z"
   },
   {
@@ -338,6 +338,25 @@
     "pushed_at": "2025-12-05T16:34:38Z"
   },
   {
+    "id": 1110248948,
+    "name": "durable-streams",
+    "full_name": "durable-streams/durable-streams",
+    "owner": {
+      "login": "durable-streams",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247893940?v=4"
+    },
+    "description": "The open protocol for real-time sync to client applications",
+    "topics": [],
+    "html_url": "https://github.com/durable-streams/durable-streams",
+    "stargazers_count": 340,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 10,
+    "created_at": "2025-12-04T23:22:32Z",
+    "updated_at": "2025-12-11T08:27:29Z",
+    "pushed_at": "2025-12-10T23:46:41Z"
+  },
+  {
     "id": 1111842373,
     "name": "Ai-Arastirma-Okumalarim-TR",
     "full_name": "alicankiraz1/Ai-Arastirma-Okumalarim-TR",
@@ -348,32 +367,13 @@
     "description": "Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz.",
     "topics": [],
     "html_url": "https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR",
-    "stargazers_count": 332,
+    "stargazers_count": 334,
     "language": null,
     "forks_count": 20,
     "open_issues_count": 0,
     "created_at": "2025-12-07T18:26:31Z",
-    "updated_at": "2025-12-10T20:52:45Z",
+    "updated_at": "2025-12-11T07:35:43Z",
     "pushed_at": "2025-12-07T19:33:32Z"
-  },
-  {
-    "id": 1111315111,
-    "name": "SwiftAgents",
-    "full_name": "twostraws/SwiftAgents",
-    "owner": {
-      "login": "twostraws",
-      "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
-    },
-    "description": "An AGENTS.md file for Swift and SwiftUI projects.",
-    "topics": [],
-    "html_url": "https://github.com/twostraws/SwiftAgents",
-    "stargazers_count": 326,
-    "language": null,
-    "forks_count": 16,
-    "open_issues_count": 2,
-    "created_at": "2025-12-06T17:36:46Z",
-    "updated_at": "2025-12-11T01:26:36Z",
-    "pushed_at": "2025-12-06T17:37:12Z"
   },
   {
     "id": 1109917013,
@@ -391,31 +391,31 @@
       "nextjs"
     ],
     "html_url": "https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478",
-    "stargazers_count": 323,
+    "stargazers_count": 329,
     "language": "Go",
-    "forks_count": 68,
+    "forks_count": 69,
     "open_issues_count": 0,
     "created_at": "2025-12-04T13:13:33Z",
-    "updated_at": "2025-12-11T02:22:14Z",
+    "updated_at": "2025-12-11T07:05:50Z",
     "pushed_at": "2025-12-06T11:42:39Z"
   },
   {
-    "id": 1110688372,
-    "name": "HMLR-Agentic-AI-Memory-System",
-    "full_name": "Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
+    "id": 1111315111,
+    "name": "SwiftAgents",
+    "full_name": "twostraws/SwiftAgents",
     "owner": {
-      "login": "Sean-V-Dev",
-      "avatar_url": "https://avatars.githubusercontent.com/u/220429339?v=4"
+      "login": "twostraws",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
     },
-    "description": "Living memory for AI",
+    "description": "An AGENTS.md file for Swift and SwiftUI projects.",
     "topics": [],
-    "html_url": "https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
-    "stargazers_count": 308,
-    "language": "Python",
-    "forks_count": 41,
-    "open_issues_count": 1,
-    "created_at": "2025-12-05T15:13:32Z",
-    "updated_at": "2025-12-11T01:06:08Z",
-    "pushed_at": "2025-12-09T19:03:09Z"
+    "html_url": "https://github.com/twostraws/SwiftAgents",
+    "stargazers_count": 327,
+    "language": null,
+    "forks_count": 16,
+    "open_issues_count": 2,
+    "created_at": "2025-12-06T17:36:46Z",
+    "updated_at": "2025-12-11T05:34:10Z",
+    "pushed_at": "2025-12-06T17:37:12Z"
   }
 ]
