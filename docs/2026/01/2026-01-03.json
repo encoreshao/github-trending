@@ -10,12 +10,12 @@
     "description": "Beautiful map components. 100% Free, Zero config, one command setup.",
     "topics": [],
     "html_url": "https://github.com/AnmolSaini16/mapcn",
-    "stargazers_count": 2559,
+    "stargazers_count": 2675,
     "language": "TypeScript",
-    "forks_count": 122,
-    "open_issues_count": 8,
+    "forks_count": 130,
+    "open_issues_count": 13,
     "created_at": "2025-12-28T10:57:22Z",
-    "updated_at": "2026-01-03T02:27:36Z",
+    "updated_at": "2026-01-03T08:24:57Z",
     "pushed_at": "2026-01-02T14:21:26Z"
   },
   {
@@ -39,13 +39,13 @@
       "rag"
     ],
     "html_url": "https://github.com/HKUDS/DeepTutor",
-    "stargazers_count": 1427,
+    "stargazers_count": 1437,
     "language": "Python",
-    "forks_count": 207,
+    "forks_count": 208,
     "open_issues_count": 0,
     "created_at": "2025-12-28T15:35:54Z",
-    "updated_at": "2026-01-03T02:07:19Z",
-    "pushed_at": "2026-01-02T20:13:58Z"
+    "updated_at": "2026-01-03T08:20:25Z",
+    "pushed_at": "2026-01-03T08:20:22Z"
   },
   {
     "id": 1124641891,
@@ -58,12 +58,12 @@
     "description": "HY-Motion model for 3D character animation generation. ",
     "topics": [],
     "html_url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
-    "stargazers_count": 1289,
+    "stargazers_count": 1297,
     "language": "Python",
-    "forks_count": 76,
-    "open_issues_count": 8,
+    "forks_count": 78,
+    "open_issues_count": 9,
     "created_at": "2025-12-29T11:09:18Z",
-    "updated_at": "2026-01-03T01:44:10Z",
+    "updated_at": "2026-01-03T07:06:58Z",
     "pushed_at": "2026-01-02T02:49:14Z"
   },
   {
@@ -77,12 +77,12 @@
     "description": "Illegal rust",
     "topics": [],
     "html_url": "https://github.com/buyukakyuz/corroded",
-    "stargazers_count": 1070,
+    "stargazers_count": 1083,
     "language": "Rust",
     "forks_count": 28,
     "open_issues_count": 12,
     "created_at": "2025-12-29T22:24:33Z",
-    "updated_at": "2026-01-03T00:33:08Z",
+    "updated_at": "2026-01-03T07:55:42Z",
     "pushed_at": "2026-01-02T13:45:55Z"
   },
   {
@@ -113,12 +113,12 @@
       "vscode"
     ],
     "html_url": "https://github.com/heilcheng/awesome-agent-skills",
-    "stargazers_count": 819,
+    "stargazers_count": 822,
     "language": null,
     "forks_count": 57,
     "open_issues_count": 1,
     "created_at": "2025-12-29T21:13:40Z",
-    "updated_at": "2026-01-03T02:19:40Z",
+    "updated_at": "2026-01-03T06:27:48Z",
     "pushed_at": "2025-12-29T22:12:29Z"
   },
   {
@@ -132,13 +132,32 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/IQuestLab/IQuest-Coder-V1",
-    "stargazers_count": 696,
+    "stargazers_count": 750,
     "language": "Python",
-    "forks_count": 39,
+    "forks_count": 43,
     "open_issues_count": 10,
     "created_at": "2025-12-31T06:42:57Z",
-    "updated_at": "2026-01-03T02:12:28Z",
+    "updated_at": "2026-01-03T08:29:37Z",
     "pushed_at": "2026-01-02T17:27:29Z"
+  },
+  {
+    "id": 1126064944,
+    "name": "claude-workflow",
+    "full_name": "CloudAI-X/claude-workflow",
+    "owner": {
+      "login": "CloudAI-X",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83179771?v=4"
+    },
+    "description": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands",
+    "topics": [],
+    "html_url": "https://github.com/CloudAI-X/claude-workflow",
+    "stargazers_count": 726,
+    "language": "Python",
+    "forks_count": 116,
+    "open_issues_count": 1,
+    "created_at": "2026-01-01T02:20:41Z",
+    "updated_at": "2026-01-03T08:24:58Z",
+    "pushed_at": "2026-01-03T07:25:04Z"
   },
   {
     "id": 1125434941,
@@ -160,51 +179,13 @@
       "zig"
     ],
     "html_url": "https://github.com/Lulzx/zpdf",
-    "stargazers_count": 663,
+    "stargazers_count": 667,
     "language": "Zig",
     "forks_count": 20,
     "open_issues_count": 0,
     "created_at": "2025-12-30T18:09:29Z",
-    "updated_at": "2026-01-03T01:13:06Z",
+    "updated_at": "2026-01-03T08:26:22Z",
     "pushed_at": "2026-01-02T05:38:00Z"
-  },
-  {
-    "id": 1126064944,
-    "name": "claude-workflow",
-    "full_name": "CloudAI-X/claude-workflow",
-    "owner": {
-      "login": "CloudAI-X",
-      "avatar_url": "https://avatars.githubusercontent.com/u/83179771?v=4"
-    },
-    "description": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands",
-    "topics": [],
-    "html_url": "https://github.com/CloudAI-X/claude-workflow",
-    "stargazers_count": 654,
-    "language": "Python",
-    "forks_count": 107,
-    "open_issues_count": 0,
-    "created_at": "2026-01-01T02:20:41Z",
-    "updated_at": "2026-01-03T02:29:10Z",
-    "pushed_at": "2026-01-02T23:22:47Z"
-  },
-  {
-    "id": 1124452481,
-    "name": "guizang-s-prompt",
-    "full_name": "op7418/guizang-s-prompt",
-    "owner": {
-      "login": "op7418",
-      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
-    },
-    "description": "这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.）",
-    "topics": [],
-    "html_url": "https://github.com/op7418/guizang-s-prompt",
-    "stargazers_count": 616,
-    "language": null,
-    "forks_count": 62,
-    "open_issues_count": 1,
-    "created_at": "2025-12-29T03:41:15Z",
-    "updated_at": "2026-01-03T00:46:44Z",
-    "pushed_at": "2025-12-30T08:04:35Z"
   },
   {
     "id": 1123956658,
@@ -221,32 +202,32 @@
       "opencode"
     ],
     "html_url": "https://github.com/backnotprop/plannotator",
-    "stargazers_count": 561,
+    "stargazers_count": 652,
     "language": "TypeScript",
-    "forks_count": 27,
-    "open_issues_count": 2,
+    "forks_count": 30,
+    "open_issues_count": 3,
     "created_at": "2025-12-28T02:09:40Z",
-    "updated_at": "2026-01-03T02:29:32Z",
+    "updated_at": "2026-01-03T08:29:47Z",
     "pushed_at": "2026-01-02T19:11:58Z"
   },
   {
-    "id": 1123906665,
-    "name": "nodecast-tv",
-    "full_name": "technomancer702/nodecast-tv",
+    "id": 1124452481,
+    "name": "guizang-s-prompt",
+    "full_name": "op7418/guizang-s-prompt",
     "owner": {
-      "login": "technomancer702",
-      "avatar_url": "https://avatars.githubusercontent.com/u/20826180?v=4"
+      "login": "op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
     },
-    "description": "A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly.",
+    "description": "这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.）",
     "topics": [],
-    "html_url": "https://github.com/technomancer702/nodecast-tv",
-    "stargazers_count": 559,
-    "language": "JavaScript",
-    "forks_count": 43,
-    "open_issues_count": 6,
-    "created_at": "2025-12-27T22:16:10Z",
-    "updated_at": "2026-01-03T02:27:40Z",
-    "pushed_at": "2026-01-02T23:52:25Z"
+    "html_url": "https://github.com/op7418/guizang-s-prompt",
+    "stargazers_count": 618,
+    "language": null,
+    "forks_count": 62,
+    "open_issues_count": 1,
+    "created_at": "2025-12-29T03:41:15Z",
+    "updated_at": "2026-01-03T08:17:09Z",
+    "pushed_at": "2025-12-30T08:04:35Z"
   },
   {
     "id": 1124362832,
@@ -264,13 +245,32 @@
       "wrangler"
     ],
     "html_url": "https://github.com/rohanprasadofficial/localflare",
-    "stargazers_count": 530,
+    "stargazers_count": 585,
     "language": "TypeScript",
-    "forks_count": 19,
+    "forks_count": 21,
     "open_issues_count": 6,
     "created_at": "2025-12-28T22:13:35Z",
-    "updated_at": "2026-01-03T02:27:15Z",
+    "updated_at": "2026-01-03T08:29:49Z",
     "pushed_at": "2026-01-02T19:45:51Z"
+  },
+  {
+    "id": 1123906665,
+    "name": "nodecast-tv",
+    "full_name": "technomancer702/nodecast-tv",
+    "owner": {
+      "login": "technomancer702",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20826180?v=4"
+    },
+    "description": "A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly.",
+    "topics": [],
+    "html_url": "https://github.com/technomancer702/nodecast-tv",
+    "stargazers_count": 559,
+    "language": "JavaScript",
+    "forks_count": 43,
+    "open_issues_count": 7,
+    "created_at": "2025-12-27T22:16:10Z",
+    "updated_at": "2026-01-03T02:27:40Z",
+    "pushed_at": "2026-01-02T23:52:25Z"
   },
   {
     "id": 1123772213,
@@ -283,32 +283,13 @@
     "description": "A native macOS menu bar app for managing audio device priorities",
     "topics": [],
     "html_url": "https://github.com/tobi/AudioPriorityBar",
-    "stargazers_count": 490,
+    "stargazers_count": 492,
     "language": "Swift",
     "forks_count": 15,
     "open_issues_count": 9,
     "created_at": "2025-12-27T15:34:42Z",
-    "updated_at": "2026-01-03T01:29:34Z",
+    "updated_at": "2026-01-03T06:25:55Z",
     "pushed_at": "2025-12-29T20:50:36Z"
-  },
-  {
-    "id": 1124361008,
-    "name": "datashield-lightweight-labs",
-    "full_name": "liuxiaomingskm/datashield-lightweight-labs",
-    "owner": {
-      "login": "liuxiaomingskm",
-      "avatar_url": "https://avatars.githubusercontent.com/u/47198925?v=4"
-    },
-    "description": "a lightweight tool to protect privacy/user data in Internet",
-    "topics": [],
-    "html_url": "https://github.com/liuxiaomingskm/datashield-lightweight-labs",
-    "stargazers_count": 437,
-    "language": "MDX",
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2025-12-28T22:07:11Z",
-    "updated_at": "2026-01-01T22:52:24Z",
-    "pushed_at": "2025-12-28T22:48:31Z"
   },
   {
     "id": 1125610083,
@@ -321,13 +302,32 @@
     "description": "A free, modern engine for visual novels | 自由，现代化的视觉小说引擎",
     "topics": [],
     "html_url": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine",
-    "stargazers_count": 414,
+    "stargazers_count": 455,
     "language": null,
-    "forks_count": 36,
+    "forks_count": 42,
     "open_issues_count": 2,
     "created_at": "2025-12-31T03:19:29Z",
-    "updated_at": "2026-01-03T01:46:19Z",
+    "updated_at": "2026-01-03T08:15:12Z",
     "pushed_at": "2025-12-31T15:18:17Z"
+  },
+  {
+    "id": 1124361008,
+    "name": "datashield-lightweight-labs",
+    "full_name": "liuxiaomingskm/datashield-lightweight-labs",
+    "owner": {
+      "login": "liuxiaomingskm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47198925?v=4"
+    },
+    "description": "a lightweight tool to protect privacy/user data in Internet",
+    "topics": [],
+    "html_url": "https://github.com/liuxiaomingskm/datashield-lightweight-labs",
+    "stargazers_count": 438,
+    "language": "MDX",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2025-12-28T22:07:11Z",
+    "updated_at": "2026-01-03T04:16:47Z",
+    "pushed_at": "2025-12-28T22:48:31Z"
   },
   {
     "id": 1124249918,
@@ -344,12 +344,12 @@
       "vibe-coding"
     ],
     "html_url": "https://github.com/datawhalechina/easy-vibe",
-    "stargazers_count": 371,
+    "stargazers_count": 409,
     "language": null,
-    "forks_count": 22,
+    "forks_count": 24,
     "open_issues_count": 0,
     "created_at": "2025-12-28T16:45:28Z",
-    "updated_at": "2026-01-03T02:18:51Z",
+    "updated_at": "2026-01-03T08:24:29Z",
     "pushed_at": "2026-01-03T00:41:54Z"
   },
   {
@@ -363,12 +363,12 @@
     "description": "My Codex Skills",
     "topics": [],
     "html_url": "https://github.com/Dimillian/Skills",
-    "stargazers_count": 346,
+    "stargazers_count": 353,
     "language": "Python",
     "forks_count": 13,
     "open_issues_count": 0,
     "created_at": "2025-12-30T14:36:32Z",
-    "updated_at": "2026-01-03T01:10:34Z",
+    "updated_at": "2026-01-03T08:28:30Z",
     "pushed_at": "2025-12-31T07:51:12Z"
   },
   {
@@ -382,12 +382,12 @@
     "description": "Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug collects the valuable things you bookmark.",
     "topics": [],
     "html_url": "https://github.com/alexknowshtml/smaug",
-    "stargazers_count": 303,
+    "stargazers_count": 332,
     "language": "JavaScript",
     "forks_count": 31,
     "open_issues_count": 0,
     "created_at": "2026-01-02T02:55:25Z",
-    "updated_at": "2026-01-03T02:19:11Z",
+    "updated_at": "2026-01-03T08:15:21Z",
     "pushed_at": "2026-01-02T23:09:44Z"
   },
   {
@@ -401,31 +401,38 @@
     "description": "Open Source TypeForm Clone",
     "topics": [],
     "html_url": "https://github.com/dabit3/openform",
-    "stargazers_count": 284,
+    "stargazers_count": 288,
     "language": "TypeScript",
     "forks_count": 70,
     "open_issues_count": 0,
     "created_at": "2025-12-30T19:23:21Z",
-    "updated_at": "2026-01-03T01:55:13Z",
+    "updated_at": "2026-01-03T08:25:55Z",
     "pushed_at": "2026-01-01T22:10:50Z"
   },
   {
-    "id": 1123769463,
-    "name": "PowerTrader_AI",
-    "full_name": "garagesteve1155/PowerTrader_AI",
+    "id": 1124513619,
+    "name": "itshover",
+    "full_name": "itshover/itshover",
     "owner": {
-      "login": "garagesteve1155",
-      "avatar_url": "https://avatars.githubusercontent.com/u/63130426?v=4"
+      "login": "itshover",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251727837?v=4"
     },
-    "description": "Fully automated crypto trading powered by a custom price prediction AI and a structured/tiered DCA system.",
-    "topics": [],
-    "html_url": "https://github.com/garagesteve1155/PowerTrader_AI",
-    "stargazers_count": 281,
-    "language": "Python",
-    "forks_count": 121,
-    "open_issues_count": 1,
-    "created_at": "2025-12-27T15:27:54Z",
-    "updated_at": "2026-01-03T01:35:56Z",
-    "pushed_at": "2025-12-31T21:13:15Z"
+    "description": "Icons that move with intent",
+    "topics": [
+      "animation",
+      "icons",
+      "motion",
+      "shadcn",
+      "shadcn-ui",
+      "svg"
+    ],
+    "html_url": "https://github.com/itshover/itshover",
+    "stargazers_count": 288,
+    "language": "TypeScript",
+    "forks_count": 15,
+    "open_issues_count": 3,
+    "created_at": "2025-12-29T06:34:14Z",
+    "updated_at": "2026-01-03T08:28:36Z",
+    "pushed_at": "2026-01-03T03:27:12Z"
   }
 ]
