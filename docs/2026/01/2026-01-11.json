@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1129202884,
+    "name": "claude-code-showcase",
+    "full_name": "ChrisWiles/claude-code-showcase",
+    "owner": {
+      "login": "ChrisWiles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9455409?v=4"
+    },
+    "description": "Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows",
+    "topics": [],
+    "html_url": "https://github.com/ChrisWiles/claude-code-showcase",
+    "stargazers_count": 3785,
+    "language": "JavaScript",
+    "forks_count": 342,
+    "open_issues_count": 4,
+    "created_at": "2026-01-06T18:51:02Z",
+    "updated_at": "2026-01-11T02:29:55Z",
+    "pushed_at": "2026-01-06T19:05:18Z"
+  },
+  {
+    "id": 1129759677,
+    "name": "ralph",
+    "full_name": "snarktank/ralph",
+    "owner": {
+      "login": "snarktank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152063952?v=4"
+    },
+    "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
+    "topics": [],
+    "html_url": "https://github.com/snarktank/ralph",
+    "stargazers_count": 1817,
+    "language": "TypeScript",
+    "forks_count": 280,
+    "open_issues_count": 6,
+    "created_at": "2026-01-07T14:45:10Z",
+    "updated_at": "2026-01-11T02:29:28Z",
+    "pushed_at": "2026-01-07T20:55:21Z"
+  },
+  {
+    "id": 1127637581,
+    "name": "taws",
+    "full_name": "huseyinbabal/taws",
+    "owner": {
+      "login": "huseyinbabal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1237982?v=4"
+    },
+    "description": "Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager",
+    "topics": [],
+    "html_url": "https://github.com/huseyinbabal/taws",
+    "stargazers_count": 1704,
+    "language": "Rust",
+    "forks_count": 47,
+    "open_issues_count": 6,
+    "created_at": "2026-01-04T09:50:22Z",
+    "updated_at": "2026-01-11T02:21:46Z",
+    "pushed_at": "2026-01-10T00:06:02Z"
+  },
+  {
+    "id": 1129017991,
+    "name": "fnnas",
+    "full_name": "ophub/fnnas",
+    "owner": {
+      "login": "ophub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68696949?v=4"
+    },
+    "description": "Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+    "topics": [
+      "a311d",
+      "allwinner",
+      "amlogic",
+      "arm64",
+      "debian",
+      "fnnas",
+      "fnos",
+      "nas",
+      "rk3399",
+      "rk3528",
+      "rk3566",
+      "rk3568",
+      "rk3588",
+      "rockchip",
+      "s905d",
+      "s905x3",
+      "s912",
+      "s922x"
+    ],
+    "html_url": "https://github.com/ophub/fnnas",
+    "stargazers_count": 1365,
+    "language": "Shell",
+    "forks_count": 239,
+    "open_issues_count": 103,
+    "created_at": "2026-01-06T13:44:30Z",
+    "updated_at": "2026-01-11T02:25:42Z",
+    "pushed_at": "2026-01-10T13:08:50Z"
+  },
+  {
+    "id": 1129317491,
+    "name": "claude-canvas",
+    "full_name": "dvdsgl/claude-canvas",
+    "owner": {
+      "login": "dvdsgl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108197?v=4"
+    },
+    "description": "Give Claude Code an external monitor",
+    "topics": [],
+    "html_url": "https://github.com/dvdsgl/claude-canvas",
+    "stargazers_count": 1030,
+    "language": "TypeScript",
+    "forks_count": 97,
+    "open_issues_count": 4,
+    "created_at": "2026-01-06T23:24:00Z",
+    "updated_at": "2026-01-11T02:29:24Z",
+    "pushed_at": "2026-01-08T02:19:55Z"
+  },
+  {
+    "id": 1127793756,
+    "name": "ccg-workflow",
+    "full_name": "fengshao1227/ccg-workflow",
+    "owner": {
+      "login": "fengshao1227",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177014058?v=4"
+    },
+    "description": "多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令",
+    "topics": [],
+    "html_url": "https://github.com/fengshao1227/ccg-workflow",
+    "stargazers_count": 865,
+    "language": "Go",
+    "forks_count": 67,
+    "open_issues_count": 1,
+    "created_at": "2026-01-04T15:56:26Z",
+    "updated_at": "2026-01-11T02:22:31Z",
+    "pushed_at": "2026-01-10T06:16:35Z"
+  },
+  {
+    "id": 1127982345,
+    "name": "claude-design-skill",
+    "full_name": "Dammyjay93/claude-design-skill",
+    "owner": {
+      "login": "Dammyjay93",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86404480?v=4"
+    },
+    "description": "A Claude Code skill for crafted, enterprise-grade UI design",
+    "topics": [],
+    "html_url": "https://github.com/Dammyjay93/claude-design-skill",
+    "stargazers_count": 837,
+    "language": "Shell",
+    "forks_count": 72,
+    "open_issues_count": 3,
+    "created_at": "2026-01-05T00:41:45Z",
+    "updated_at": "2026-01-11T02:21:46Z",
+    "pushed_at": "2026-01-05T00:42:43Z"
+  },
+  {
+    "id": 1129225913,
+    "name": "smtp-tunnel-proxy",
+    "full_name": "x011/smtp-tunnel-proxy",
+    "owner": {
+      "login": "x011",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4313821?v=4"
+    },
+    "description": "A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.",
+    "topics": [
+      "censorship-circumvention",
+      "censorship-resistance",
+      "covert-tunnel",
+      "deep-packet-inspection",
+      "encryption",
+      "evasion",
+      "network-security",
+      "proxy",
+      "python",
+      "smtp",
+      "socks5",
+      "socks5-proxy",
+      "socks5-server",
+      "tls",
+      "tunnel"
+    ],
+    "html_url": "https://github.com/x011/smtp-tunnel-proxy",
+    "stargazers_count": 758,
+    "language": "Python",
+    "forks_count": 61,
+    "open_issues_count": 1,
+    "created_at": "2026-01-06T19:38:32Z",
+    "updated_at": "2026-01-11T02:18:03Z",
+    "pushed_at": "2026-01-07T08:24:27Z"
+  },
+  {
+    "id": 1130182160,
+    "name": "claude-code-config",
+    "full_name": "jarrodwatts/claude-code-config",
+    "owner": {
+      "login": "jarrodwatts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+    },
+    "description": "My personal Claude Code configuration - rules, hooks, agents, skills, and commands",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "dotfiles"
+    ],
+    "html_url": "https://github.com/jarrodwatts/claude-code-config",
+    "stargazers_count": 712,
+    "language": "Python",
+    "forks_count": 87,
+    "open_issues_count": 3,
+    "created_at": "2026-01-08T06:30:49Z",
+    "updated_at": "2026-01-11T01:52:19Z",
+    "pushed_at": "2026-01-09T23:45:43Z"
+  },
+  {
+    "id": 1129652418,
+    "name": "CodexSkillManager",
+    "full_name": "Dimillian/CodexSkillManager",
+    "owner": {
+      "login": "Dimillian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/535509?v=4"
+    },
+    "description": "macOS app to manage your Codex skills",
+    "topics": [],
+    "html_url": "https://github.com/Dimillian/CodexSkillManager",
+    "stargazers_count": 527,
+    "language": "Swift",
+    "forks_count": 33,
+    "open_issues_count": 6,
+    "created_at": "2026-01-07T11:45:21Z",
+    "updated_at": "2026-01-11T00:04:10Z",
+    "pushed_at": "2026-01-09T16:10:01Z"
+  },
+  {
+    "id": 1127889323,
+    "name": "go-kata",
+    "full_name": "MedUnes/go-kata",
+    "owner": {
+      "login": "MedUnes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8580094?v=4"
+    },
+    "description": "A collection of daily coding challenges designed to help you master idiomatic Go through deliberate, repetitive practice.",
+    "topics": [
+      "go",
+      "golang",
+      "golang-examples"
+    ],
+    "html_url": "https://github.com/MedUnes/go-kata",
+    "stargazers_count": 509,
+    "language": null,
+    "forks_count": 31,
+    "open_issues_count": 0,
+    "created_at": "2026-01-04T19:39:35Z",
+    "updated_at": "2026-01-11T01:39:35Z",
+    "pushed_at": "2026-01-05T21:07:31Z"
+  },
+  {
+    "id": 1130112342,
+    "name": "Qwen3-VL-Embedding",
+    "full_name": "QwenLM/Qwen3-VL-Embedding",
+    "owner": {
+      "login": "QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/QwenLM/Qwen3-VL-Embedding",
+    "stargazers_count": 484,
+    "language": "Python",
+    "forks_count": 35,
+    "open_issues_count": 13,
+    "created_at": "2026-01-08T03:42:57Z",
+    "updated_at": "2026-01-11T02:09:38Z",
+    "pushed_at": "2026-01-10T12:50:13Z"
+  },
+  {
+    "id": 1130786764,
+    "name": "AudioNoise",
+    "full_name": "torvalds/AudioNoise",
+    "owner": {
+      "login": "torvalds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4"
+    },
+    "description": "Random digital audio effects",
+    "topics": [],
+    "html_url": "https://github.com/torvalds/AudioNoise",
+    "stargazers_count": 464,
+    "language": "C",
+    "forks_count": 11,
+    "open_issues_count": 3,
+    "created_at": "2026-01-09T02:33:29Z",
+    "updated_at": "2026-01-11T02:28:26Z",
+    "pushed_at": "2026-01-09T02:35:22Z"
+  },
+  {
+    "id": 1130809465,
+    "name": "oh-my-claude-sisyphus",
+    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "owner": {
+      "login": "Yeachan-Heo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54757707?v=4"
+    },
+    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "oh-my-opencode",
+      "opencode",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "stargazers_count": 456,
+    "language": "TypeScript",
+    "forks_count": 47,
+    "open_issues_count": 4,
+    "created_at": "2026-01-09T03:36:29Z",
+    "updated_at": "2026-01-11T02:25:50Z",
+    "pushed_at": "2026-01-10T12:40:09Z"
+  },
+  {
+    "id": 1127844060,
+    "name": "Mantic.sh",
+    "full_name": "marcoaapfortes/Mantic.sh",
+    "owner": {
+      "login": "marcoaapfortes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209351238?v=4"
+    },
+    "description": "A structural code search engine for Al agents.",
+    "topics": [
+      "ai-agent",
+      "claude",
+      "code-search",
+      "context-retrieval",
+      "cursor",
+      "developer-tools",
+      "mcp",
+      "mcp-server",
+      "rag",
+      "typescript"
+    ],
+    "html_url": "https://github.com/marcoaapfortes/Mantic.sh",
+    "stargazers_count": 409,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 3,
+    "created_at": "2026-01-04T17:47:19Z",
+    "updated_at": "2026-01-10T19:44:00Z",
+    "pushed_at": "2026-01-09T16:26:05Z"
+  },
+  {
+    "id": 1128063451,
+    "name": "skill-prompt-generator",
+    "full_name": "huangserva/skill-prompt-generator",
+    "owner": {
+      "login": "huangserva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201197786?v=4"
+    },
+    "description": "这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制",
+    "topics": [],
+    "html_url": "https://github.com/huangserva/skill-prompt-generator",
+    "stargazers_count": 393,
+    "language": "Python",
+    "forks_count": 93,
+    "open_issues_count": 1,
+    "created_at": "2026-01-05T04:49:44Z",
+    "updated_at": "2026-01-11T01:55:18Z",
+    "pushed_at": "2026-01-07T01:18:07Z"
+  },
+  {
+    "id": 1130731589,
+    "name": "ComfyUI-qwenmultiangle",
+    "full_name": "jtydhr88/ComfyUI-qwenmultiangle",
+    "owner": {
+      "login": "jtydhr88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/860985?v=4"
+    },
+    "description": "A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.",
+    "topics": [],
+    "html_url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle",
+    "stargazers_count": 387,
+    "language": "JavaScript",
+    "forks_count": 19,
+    "open_issues_count": 2,
+    "created_at": "2026-01-08T23:39:38Z",
+    "updated_at": "2026-01-11T01:44:17Z",
+    "pushed_at": "2026-01-10T17:09:35Z"
+  },
+  {
+    "id": 1128016292,
+    "name": "director_ai",
+    "full_name": "freestylefly/director_ai",
+    "owner": {
+      "login": "freestylefly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
+    },
+    "description": "AI 漫剧制作 APP，能一键生成剧本、分镜及合成视频，让你在手机上也能快速制作漫剧。",
+    "topics": [],
+    "html_url": "https://github.com/freestylefly/director_ai",
+    "stargazers_count": 376,
+    "language": "Dart",
+    "forks_count": 103,
+    "open_issues_count": 3,
+    "created_at": "2026-01-05T02:30:52Z",
+    "updated_at": "2026-01-11T02:19:43Z",
+    "pushed_at": "2026-01-05T06:20:09Z"
+  },
+  {
+    "id": 1127898610,
+    "name": "unifideck",
+    "full_name": "mubaraknumann/unifideck",
+    "owner": {
+      "login": "mubaraknumann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184048091?v=4"
+    },
+    "description": "A Decky Loader plugin that brings together games from Steam, Epic Games Store, GOG and Amazon into a single, unified library experience on your Steam Deck.",
+    "topics": [],
+    "html_url": "https://github.com/mubaraknumann/unifideck",
+    "stargazers_count": 365,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 32,
+    "created_at": "2026-01-04T20:05:36Z",
+    "updated_at": "2026-01-11T02:26:02Z",
+    "pushed_at": "2026-01-10T22:03:43Z"
+  },
+  {
+    "id": 1128403569,
+    "name": "InfiniDepth",
+    "full_name": "zju3dv/InfiniDepth",
+    "owner": {
+      "login": "zju3dv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48914724?v=4"
+    },
+    "description": " Code for \"InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields\"",
+    "topics": [],
+    "html_url": "https://github.com/zju3dv/InfiniDepth",
+    "stargazers_count": 355,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 2,
+    "created_at": "2026-01-05T15:31:26Z",
+    "updated_at": "2026-01-11T01:41:49Z",
+    "pushed_at": "2026-01-07T16:20:52Z"
+  }
+]
