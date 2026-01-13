@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1129202884,
+    "name": "claude-code-showcase",
+    "full_name": "ChrisWiles/claude-code-showcase",
+    "owner": {
+      "login": "ChrisWiles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9455409?v=4"
+    },
+    "description": "Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows",
+    "topics": [],
+    "html_url": "https://github.com/ChrisWiles/claude-code-showcase",
+    "stargazers_count": 4161,
+    "language": "JavaScript",
+    "forks_count": 369,
+    "open_issues_count": 5,
+    "created_at": "2026-01-06T18:51:02Z",
+    "updated_at": "2026-01-13T02:29:13Z",
+    "pushed_at": "2026-01-06T19:05:18Z"
+  },
+  {
+    "id": 1129759677,
+    "name": "ralph",
+    "full_name": "snarktank/ralph",
+    "owner": {
+      "login": "snarktank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152063952?v=4"
+    },
+    "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
+    "topics": [],
+    "html_url": "https://github.com/snarktank/ralph",
+    "stargazers_count": 3368,
+    "language": "TypeScript",
+    "forks_count": 444,
+    "open_issues_count": 8,
+    "created_at": "2026-01-07T14:45:10Z",
+    "updated_at": "2026-01-13T02:23:07Z",
+    "pushed_at": "2026-01-07T20:55:21Z"
+  },
+  {
+    "id": 1130786764,
+    "name": "AudioNoise",
+    "full_name": "torvalds/AudioNoise",
+    "owner": {
+      "login": "torvalds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4"
+    },
+    "description": "Random digital audio effects",
+    "topics": [],
+    "html_url": "https://github.com/torvalds/AudioNoise",
+    "stargazers_count": 2573,
+    "language": "C",
+    "forks_count": 103,
+    "open_issues_count": 11,
+    "created_at": "2026-01-09T02:33:29Z",
+    "updated_at": "2026-01-13T02:29:46Z",
+    "pushed_at": "2026-01-13T01:57:06Z"
+  },
+  {
+    "id": 1132001614,
+    "name": "agent-browser",
+    "full_name": "vercel-labs/agent-browser",
+    "owner": {
+      "login": "vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "description": "Browser automation CLI for AI agents",
+    "topics": [],
+    "html_url": "https://github.com/vercel-labs/agent-browser",
+    "stargazers_count": 2125,
+    "language": "TypeScript",
+    "forks_count": 75,
+    "open_issues_count": 15,
+    "created_at": "2026-01-11T05:38:15Z",
+    "updated_at": "2026-01-13T02:29:08Z",
+    "pushed_at": "2026-01-12T18:12:16Z"
+  },
+  {
+    "id": 1129017991,
+    "name": "fnnas",
+    "full_name": "ophub/fnnas",
+    "owner": {
+      "login": "ophub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68696949?v=4"
+    },
+    "description": "Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+    "topics": [
+      "a311d",
+      "allwinner",
+      "amlogic",
+      "arm64",
+      "debian",
+      "fnnas",
+      "fnos",
+      "nas",
+      "rk3399",
+      "rk3528",
+      "rk3566",
+      "rk3568",
+      "rk3588",
+      "rockchip",
+      "s905d",
+      "s905x3",
+      "s912",
+      "s922x"
+    ],
+    "html_url": "https://github.com/ophub/fnnas",
+    "stargazers_count": 1626,
+    "language": "Shell",
+    "forks_count": 272,
+    "open_issues_count": 130,
+    "created_at": "2026-01-06T13:44:30Z",
+    "updated_at": "2026-01-13T02:29:54Z",
+    "pushed_at": "2026-01-11T04:02:58Z"
+  },
+  {
+    "id": 1129317491,
+    "name": "claude-canvas",
+    "full_name": "dvdsgl/claude-canvas",
+    "owner": {
+      "login": "dvdsgl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108197?v=4"
+    },
+    "description": "Give Claude Code an external monitor",
+    "topics": [],
+    "html_url": "https://github.com/dvdsgl/claude-canvas",
+    "stargazers_count": 1192,
+    "language": "TypeScript",
+    "forks_count": 121,
+    "open_issues_count": 6,
+    "created_at": "2026-01-06T23:24:00Z",
+    "updated_at": "2026-01-13T02:28:56Z",
+    "pushed_at": "2026-01-08T02:19:55Z"
+  },
+  {
+    "id": 1129225913,
+    "name": "smtp-tunnel-proxy",
+    "full_name": "x011/smtp-tunnel-proxy",
+    "owner": {
+      "login": "x011",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4313821?v=4"
+    },
+    "description": "A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.",
+    "topics": [
+      "censorship-circumvention",
+      "censorship-resistance",
+      "covert-tunnel",
+      "deep-packet-inspection",
+      "encryption",
+      "evasion",
+      "network-security",
+      "proxy",
+      "python",
+      "smtp",
+      "socks5",
+      "socks5-proxy",
+      "socks5-server",
+      "tls",
+      "tunnel"
+    ],
+    "html_url": "https://github.com/x011/smtp-tunnel-proxy",
+    "stargazers_count": 952,
+    "language": "Python",
+    "forks_count": 84,
+    "open_issues_count": 0,
+    "created_at": "2026-01-06T19:38:32Z",
+    "updated_at": "2026-01-13T02:26:24Z",
+    "pushed_at": "2026-01-07T08:24:27Z"
+  },
+  {
+    "id": 1132223692,
+    "name": "Zen-C",
+    "full_name": "z-libs/Zen-C",
+    "owner": {
+      "login": "z-libs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245714965?v=4"
+    },
+    "description": "Write like a high-level language, run like C.",
+    "topics": [],
+    "html_url": "https://github.com/z-libs/Zen-C",
+    "stargazers_count": 907,
+    "language": "C",
+    "forks_count": 43,
+    "open_issues_count": 11,
+    "created_at": "2026-01-11T15:08:19Z",
+    "updated_at": "2026-01-13T02:29:50Z",
+    "pushed_at": "2026-01-13T01:01:47Z"
+  },
+  {
+    "id": 1130809465,
+    "name": "oh-my-claude-sisyphus",
+    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "owner": {
+      "login": "Yeachan-Heo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54757707?v=4"
+    },
+    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "oh-my-opencode",
+      "opencode",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "stargazers_count": 900,
+    "language": "TypeScript",
+    "forks_count": 89,
+    "open_issues_count": 1,
+    "created_at": "2026-01-09T03:36:29Z",
+    "updated_at": "2026-01-13T02:27:58Z",
+    "pushed_at": "2026-01-13T02:19:29Z"
+  },
+  {
+    "id": 1131513930,
+    "name": "daily_stock_analysis",
+    "full_name": "ZhuLinsen/daily_stock_analysis",
+    "owner": {
+      "login": "ZhuLinsen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42829555?v=4"
+    },
+    "description": "LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行",
+    "topics": [
+      "agent",
+      "ai",
+      "aigc",
+      "gemini",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "rag",
+      "stock"
+    ],
+    "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "stargazers_count": 788,
+    "language": "Python",
+    "forks_count": 500,
+    "open_issues_count": 2,
+    "created_at": "2026-01-10T06:43:20Z",
+    "updated_at": "2026-01-13T02:24:04Z",
+    "pushed_at": "2026-01-12T09:10:18Z"
+  },
+  {
+    "id": 1130182160,
+    "name": "claude-code-config",
+    "full_name": "jarrodwatts/claude-code-config",
+    "owner": {
+      "login": "jarrodwatts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+    },
+    "description": "My personal Claude Code configuration - rules, hooks, agents, skills, and commands",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "dotfiles"
+    ],
+    "html_url": "https://github.com/jarrodwatts/claude-code-config",
+    "stargazers_count": 741,
+    "language": "Python",
+    "forks_count": 93,
+    "open_issues_count": 2,
+    "created_at": "2026-01-08T06:30:49Z",
+    "updated_at": "2026-01-12T23:25:26Z",
+    "pushed_at": "2026-01-11T04:13:21Z"
+  },
+  {
+    "id": 1130112342,
+    "name": "Qwen3-VL-Embedding",
+    "full_name": "QwenLM/Qwen3-VL-Embedding",
+    "owner": {
+      "login": "QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/QwenLM/Qwen3-VL-Embedding",
+    "stargazers_count": 631,
+    "language": "Python",
+    "forks_count": 47,
+    "open_issues_count": 13,
+    "created_at": "2026-01-08T03:42:57Z",
+    "updated_at": "2026-01-13T02:27:57Z",
+    "pushed_at": "2026-01-12T02:43:07Z"
+  },
+  {
+    "id": 1130731589,
+    "name": "ComfyUI-qwenmultiangle",
+    "full_name": "jtydhr88/ComfyUI-qwenmultiangle",
+    "owner": {
+      "login": "jtydhr88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/860985?v=4"
+    },
+    "description": "A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.",
+    "topics": [],
+    "html_url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle",
+    "stargazers_count": 591,
+    "language": "JavaScript",
+    "forks_count": 26,
+    "open_issues_count": 5,
+    "created_at": "2026-01-08T23:39:38Z",
+    "updated_at": "2026-01-13T02:19:44Z",
+    "pushed_at": "2026-01-11T23:07:13Z"
+  },
+  {
+    "id": 1129652418,
+    "name": "CodexSkillManager",
+    "full_name": "Dimillian/CodexSkillManager",
+    "owner": {
+      "login": "Dimillian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/535509?v=4"
+    },
+    "description": "macOS app to manage your Codex skills",
+    "topics": [],
+    "html_url": "https://github.com/Dimillian/CodexSkillManager",
+    "stargazers_count": 583,
+    "language": "Swift",
+    "forks_count": 38,
+    "open_issues_count": 6,
+    "created_at": "2026-01-07T11:45:21Z",
+    "updated_at": "2026-01-13T02:20:27Z",
+    "pushed_at": "2026-01-09T16:10:01Z"
+  },
+  {
+    "id": 1131946571,
+    "name": "nanocode",
+    "full_name": "1rgs/nanocode",
+    "owner": {
+      "login": "1rgs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20087438?v=4"
+    },
+    "description": "Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.",
+    "topics": [],
+    "html_url": "https://github.com/1rgs/nanocode",
+    "stargazers_count": 578,
+    "language": "Python",
+    "forks_count": 47,
+    "open_issues_count": 3,
+    "created_at": "2026-01-11T02:12:27Z",
+    "updated_at": "2026-01-13T02:29:16Z",
+    "pushed_at": "2026-01-11T02:26:26Z"
+  },
+  {
+    "id": 1132541200,
+    "name": "Engram",
+    "full_name": "deepseek-ai/Engram",
+    "owner": {
+      "login": "deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "description": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models",
+    "topics": [],
+    "html_url": "https://github.com/deepseek-ai/Engram",
+    "stargazers_count": 575,
+    "language": "Python",
+    "forks_count": 26,
+    "open_issues_count": 0,
+    "created_at": "2026-01-12T05:26:50Z",
+    "updated_at": "2026-01-13T02:29:38Z",
+    "pushed_at": "2026-01-12T15:47:35Z"
+  },
+  {
+    "id": 1131593725,
+    "name": "makepad-skills",
+    "full_name": "ZhangHanDong/makepad-skills",
+    "owner": {
+      "login": "ZhangHanDong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27893?v=4"
+    },
+    "description": "Build App with Makepad and AI skills",
+    "topics": [
+      "app",
+      "claude",
+      "claude-code",
+      "cross-platform",
+      "makepad",
+      "rust",
+      "skills"
+    ],
+    "html_url": "https://github.com/ZhangHanDong/makepad-skills",
+    "stargazers_count": 541,
+    "language": "Shell",
+    "forks_count": 60,
+    "open_issues_count": 1,
+    "created_at": "2026-01-10T10:20:19Z",
+    "updated_at": "2026-01-13T02:22:17Z",
+    "pushed_at": "2026-01-11T18:04:04Z"
+  },
+  {
+    "id": 1130550144,
+    "name": "mcp-cli",
+    "full_name": "philschmid/mcp-cli",
+    "owner": {
+      "login": "philschmid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32632186?v=4"
+    },
+    "description": "Lighweight CLI to interact with MCP servers",
+    "topics": [],
+    "html_url": "https://github.com/philschmid/mcp-cli",
+    "stargazers_count": 479,
+    "language": "TypeScript",
+    "forks_count": 49,
+    "open_issues_count": 6,
+    "created_at": "2026-01-08T17:01:44Z",
+    "updated_at": "2026-01-13T02:22:19Z",
+    "pushed_at": "2026-01-12T19:48:33Z"
+  },
+  {
+    "id": 1130040122,
+    "name": "claude-delegator",
+    "full_name": "jarrodwatts/claude-delegator",
+    "owner": {
+      "login": "jarrodwatts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+    },
+    "description": "Delegate tasks to Codex GPT 5.2 directly from within Claude Code.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "gpt",
+      "mcp",
+      "plugin"
+    ],
+    "html_url": "https://github.com/jarrodwatts/claude-delegator",
+    "stargazers_count": 421,
+    "language": null,
+    "forks_count": 22,
+    "open_issues_count": 0,
+    "created_at": "2026-01-08T00:14:22Z",
+    "updated_at": "2026-01-13T02:16:48Z",
+    "pushed_at": "2026-01-10T12:03:15Z"
+  },
+  {
+    "id": 1129518328,
+    "name": "ralph-wiggum-marketer",
+    "full_name": "muratcankoylan/ralph-wiggum-marketer",
+    "owner": {
+      "login": "muratcankoylan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132029956?v=4"
+    },
+    "description": "A Claude Code Plugin that provides an autonomous AI copywriter.",
+    "topics": [],
+    "html_url": "https://github.com/muratcankoylan/ralph-wiggum-marketer",
+    "stargazers_count": 407,
+    "language": "JavaScript",
+    "forks_count": 46,
+    "open_issues_count": 1,
+    "created_at": "2026-01-07T07:48:17Z",
+    "updated_at": "2026-01-13T01:46:34Z",
+    "pushed_at": "2026-01-08T19:21:27Z"
+  }
+]
