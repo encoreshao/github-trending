@@ -10,12 +10,12 @@
     "description": "Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows",
     "topics": [],
     "html_url": "https://github.com/ChrisWiles/claude-code-showcase",
-    "stargazers_count": 4161,
+    "stargazers_count": 4192,
     "language": "JavaScript",
-    "forks_count": 369,
+    "forks_count": 371,
     "open_issues_count": 5,
     "created_at": "2026-01-06T18:51:02Z",
-    "updated_at": "2026-01-13T02:29:13Z",
+    "updated_at": "2026-01-13T08:23:15Z",
     "pushed_at": "2026-01-06T19:05:18Z"
   },
   {
@@ -29,12 +29,12 @@
     "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
     "topics": [],
     "html_url": "https://github.com/snarktank/ralph",
-    "stargazers_count": 3368,
+    "stargazers_count": 3461,
     "language": "TypeScript",
-    "forks_count": 444,
-    "open_issues_count": 8,
+    "forks_count": 457,
+    "open_issues_count": 10,
     "created_at": "2026-01-07T14:45:10Z",
-    "updated_at": "2026-01-13T02:23:07Z",
+    "updated_at": "2026-01-13T08:24:52Z",
     "pushed_at": "2026-01-07T20:55:21Z"
   },
   {
@@ -48,13 +48,13 @@
     "description": "Random digital audio effects",
     "topics": [],
     "html_url": "https://github.com/torvalds/AudioNoise",
-    "stargazers_count": 2573,
+    "stargazers_count": 2838,
     "language": "C",
-    "forks_count": 103,
+    "forks_count": 119,
     "open_issues_count": 11,
     "created_at": "2026-01-09T02:33:29Z",
-    "updated_at": "2026-01-13T02:29:46Z",
-    "pushed_at": "2026-01-13T01:57:06Z"
+    "updated_at": "2026-01-13T08:29:50Z",
+    "pushed_at": "2026-01-13T03:12:15Z"
   },
   {
     "id": 1132001614,
@@ -67,13 +67,13 @@
     "description": "Browser automation CLI for AI agents",
     "topics": [],
     "html_url": "https://github.com/vercel-labs/agent-browser",
-    "stargazers_count": 2125,
+    "stargazers_count": 2579,
     "language": "TypeScript",
-    "forks_count": 75,
-    "open_issues_count": 15,
+    "forks_count": 92,
+    "open_issues_count": 20,
     "created_at": "2026-01-11T05:38:15Z",
-    "updated_at": "2026-01-13T02:29:08Z",
-    "pushed_at": "2026-01-12T18:12:16Z"
+    "updated_at": "2026-01-13T08:28:20Z",
+    "pushed_at": "2026-01-13T08:21:26Z"
   },
   {
     "id": 1129017991,
@@ -105,13 +105,32 @@
       "s922x"
     ],
     "html_url": "https://github.com/ophub/fnnas",
-    "stargazers_count": 1626,
+    "stargazers_count": 1661,
     "language": "Shell",
-    "forks_count": 272,
-    "open_issues_count": 130,
+    "forks_count": 275,
+    "open_issues_count": 135,
     "created_at": "2026-01-06T13:44:30Z",
-    "updated_at": "2026-01-13T02:29:54Z",
-    "pushed_at": "2026-01-11T04:02:58Z"
+    "updated_at": "2026-01-13T08:27:13Z",
+    "pushed_at": "2026-01-13T08:23:57Z"
+  },
+  {
+    "id": 1132541200,
+    "name": "Engram",
+    "full_name": "deepseek-ai/Engram",
+    "owner": {
+      "login": "deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "description": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models",
+    "topics": [],
+    "html_url": "https://github.com/deepseek-ai/Engram",
+    "stargazers_count": 1214,
+    "language": "Python",
+    "forks_count": 52,
+    "open_issues_count": 4,
+    "created_at": "2026-01-12T05:26:50Z",
+    "updated_at": "2026-01-13T08:29:05Z",
+    "pushed_at": "2026-01-12T15:47:35Z"
   },
   {
     "id": 1129317491,
@@ -124,13 +143,32 @@
     "description": "Give Claude Code an external monitor",
     "topics": [],
     "html_url": "https://github.com/dvdsgl/claude-canvas",
-    "stargazers_count": 1192,
+    "stargazers_count": 1207,
     "language": "TypeScript",
-    "forks_count": 121,
+    "forks_count": 122,
     "open_issues_count": 6,
     "created_at": "2026-01-06T23:24:00Z",
-    "updated_at": "2026-01-13T02:28:56Z",
+    "updated_at": "2026-01-13T08:10:26Z",
     "pushed_at": "2026-01-08T02:19:55Z"
+  },
+  {
+    "id": 1132223692,
+    "name": "Zen-C",
+    "full_name": "z-libs/Zen-C",
+    "owner": {
+      "login": "z-libs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245714965?v=4"
+    },
+    "description": "Write like a high-level language, run like C.",
+    "topics": [],
+    "html_url": "https://github.com/z-libs/Zen-C",
+    "stargazers_count": 1081,
+    "language": "C",
+    "forks_count": 48,
+    "open_issues_count": 12,
+    "created_at": "2026-01-11T15:08:19Z",
+    "updated_at": "2026-01-13T08:29:53Z",
+    "pushed_at": "2026-01-13T01:01:47Z"
   },
   {
     "id": 1129225913,
@@ -159,32 +197,13 @@
       "tunnel"
     ],
     "html_url": "https://github.com/x011/smtp-tunnel-proxy",
-    "stargazers_count": 952,
+    "stargazers_count": 962,
     "language": "Python",
-    "forks_count": 84,
+    "forks_count": 87,
     "open_issues_count": 0,
     "created_at": "2026-01-06T19:38:32Z",
-    "updated_at": "2026-01-13T02:26:24Z",
+    "updated_at": "2026-01-13T08:00:12Z",
     "pushed_at": "2026-01-07T08:24:27Z"
-  },
-  {
-    "id": 1132223692,
-    "name": "Zen-C",
-    "full_name": "z-libs/Zen-C",
-    "owner": {
-      "login": "z-libs",
-      "avatar_url": "https://avatars.githubusercontent.com/u/245714965?v=4"
-    },
-    "description": "Write like a high-level language, run like C.",
-    "topics": [],
-    "html_url": "https://github.com/z-libs/Zen-C",
-    "stargazers_count": 907,
-    "language": "C",
-    "forks_count": 43,
-    "open_issues_count": 11,
-    "created_at": "2026-01-11T15:08:19Z",
-    "updated_at": "2026-01-13T02:29:50Z",
-    "pushed_at": "2026-01-13T01:01:47Z"
   },
   {
     "id": 1130809465,
@@ -205,13 +224,13 @@
       "vibe-coding"
     ],
     "html_url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stargazers_count": 900,
+    "stargazers_count": 932,
     "language": "TypeScript",
-    "forks_count": 89,
-    "open_issues_count": 1,
+    "forks_count": 92,
+    "open_issues_count": 5,
     "created_at": "2026-01-09T03:36:29Z",
-    "updated_at": "2026-01-13T02:27:58Z",
-    "pushed_at": "2026-01-13T02:19:29Z"
+    "updated_at": "2026-01-13T08:09:22Z",
+    "pushed_at": "2026-01-13T08:29:28Z"
   },
   {
     "id": 1131513930,
@@ -234,12 +253,12 @@
       "stock"
     ],
     "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "stargazers_count": 788,
+    "stargazers_count": 844,
     "language": "Python",
-    "forks_count": 500,
-    "open_issues_count": 2,
+    "forks_count": 551,
+    "open_issues_count": 3,
     "created_at": "2026-01-10T06:43:20Z",
-    "updated_at": "2026-01-13T02:24:04Z",
+    "updated_at": "2026-01-13T08:29:13Z",
     "pushed_at": "2026-01-12T09:10:18Z"
   },
   {
@@ -259,13 +278,32 @@
       "dotfiles"
     ],
     "html_url": "https://github.com/jarrodwatts/claude-code-config",
-    "stargazers_count": 741,
+    "stargazers_count": 746,
     "language": "Python",
     "forks_count": 93,
     "open_issues_count": 2,
     "created_at": "2026-01-08T06:30:49Z",
-    "updated_at": "2026-01-12T23:25:26Z",
+    "updated_at": "2026-01-13T06:45:49Z",
     "pushed_at": "2026-01-11T04:13:21Z"
+  },
+  {
+    "id": 1131946571,
+    "name": "nanocode",
+    "full_name": "1rgs/nanocode",
+    "owner": {
+      "login": "1rgs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20087438?v=4"
+    },
+    "description": "Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.",
+    "topics": [],
+    "html_url": "https://github.com/1rgs/nanocode",
+    "stargazers_count": 701,
+    "language": "Python",
+    "forks_count": 54,
+    "open_issues_count": 5,
+    "created_at": "2026-01-11T02:12:27Z",
+    "updated_at": "2026-01-13T08:29:16Z",
+    "pushed_at": "2026-01-11T02:26:26Z"
   },
   {
     "id": 1130112342,
@@ -278,12 +316,12 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/QwenLM/Qwen3-VL-Embedding",
-    "stargazers_count": 631,
+    "stargazers_count": 653,
     "language": "Python",
     "forks_count": 47,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "created_at": "2026-01-08T03:42:57Z",
-    "updated_at": "2026-01-13T02:27:57Z",
+    "updated_at": "2026-01-13T08:29:11Z",
     "pushed_at": "2026-01-12T02:43:07Z"
   },
   {
@@ -297,12 +335,12 @@
     "description": "A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.",
     "topics": [],
     "html_url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle",
-    "stargazers_count": 591,
+    "stargazers_count": 612,
     "language": "JavaScript",
-    "forks_count": 26,
+    "forks_count": 27,
     "open_issues_count": 5,
     "created_at": "2026-01-08T23:39:38Z",
-    "updated_at": "2026-01-13T02:19:44Z",
+    "updated_at": "2026-01-13T08:22:57Z",
     "pushed_at": "2026-01-11T23:07:13Z"
   },
   {
@@ -316,51 +354,13 @@
     "description": "macOS app to manage your Codex skills",
     "topics": [],
     "html_url": "https://github.com/Dimillian/CodexSkillManager",
-    "stargazers_count": 583,
+    "stargazers_count": 590,
     "language": "Swift",
     "forks_count": 38,
     "open_issues_count": 6,
     "created_at": "2026-01-07T11:45:21Z",
-    "updated_at": "2026-01-13T02:20:27Z",
+    "updated_at": "2026-01-13T06:52:10Z",
     "pushed_at": "2026-01-09T16:10:01Z"
-  },
-  {
-    "id": 1131946571,
-    "name": "nanocode",
-    "full_name": "1rgs/nanocode",
-    "owner": {
-      "login": "1rgs",
-      "avatar_url": "https://avatars.githubusercontent.com/u/20087438?v=4"
-    },
-    "description": "Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.",
-    "topics": [],
-    "html_url": "https://github.com/1rgs/nanocode",
-    "stargazers_count": 578,
-    "language": "Python",
-    "forks_count": 47,
-    "open_issues_count": 3,
-    "created_at": "2026-01-11T02:12:27Z",
-    "updated_at": "2026-01-13T02:29:16Z",
-    "pushed_at": "2026-01-11T02:26:26Z"
-  },
-  {
-    "id": 1132541200,
-    "name": "Engram",
-    "full_name": "deepseek-ai/Engram",
-    "owner": {
-      "login": "deepseek-ai",
-      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
-    },
-    "description": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models",
-    "topics": [],
-    "html_url": "https://github.com/deepseek-ai/Engram",
-    "stargazers_count": 575,
-    "language": "Python",
-    "forks_count": 26,
-    "open_issues_count": 0,
-    "created_at": "2026-01-12T05:26:50Z",
-    "updated_at": "2026-01-13T02:29:38Z",
-    "pushed_at": "2026-01-12T15:47:35Z"
   },
   {
     "id": 1131593725,
@@ -381,12 +381,12 @@
       "skills"
     ],
     "html_url": "https://github.com/ZhangHanDong/makepad-skills",
-    "stargazers_count": 541,
+    "stargazers_count": 553,
     "language": "Shell",
-    "forks_count": 60,
-    "open_issues_count": 1,
+    "forks_count": 62,
+    "open_issues_count": 3,
     "created_at": "2026-01-10T10:20:19Z",
-    "updated_at": "2026-01-13T02:22:17Z",
+    "updated_at": "2026-01-13T08:19:36Z",
     "pushed_at": "2026-01-11T18:04:04Z"
   },
   {
@@ -400,12 +400,12 @@
     "description": "Lighweight CLI to interact with MCP servers",
     "topics": [],
     "html_url": "https://github.com/philschmid/mcp-cli",
-    "stargazers_count": 479,
+    "stargazers_count": 499,
     "language": "TypeScript",
     "forks_count": 49,
     "open_issues_count": 6,
     "created_at": "2026-01-08T17:01:44Z",
-    "updated_at": "2026-01-13T02:22:19Z",
+    "updated_at": "2026-01-13T08:23:38Z",
     "pushed_at": "2026-01-12T19:48:33Z"
   },
   {
@@ -427,12 +427,12 @@
       "plugin"
     ],
     "html_url": "https://github.com/jarrodwatts/claude-delegator",
-    "stargazers_count": 421,
+    "stargazers_count": 462,
     "language": null,
-    "forks_count": 22,
+    "forks_count": 23,
     "open_issues_count": 0,
     "created_at": "2026-01-08T00:14:22Z",
-    "updated_at": "2026-01-13T02:16:48Z",
+    "updated_at": "2026-01-13T08:04:33Z",
     "pushed_at": "2026-01-10T12:03:15Z"
   },
   {
@@ -446,12 +446,12 @@
     "description": "A Claude Code Plugin that provides an autonomous AI copywriter.",
     "topics": [],
     "html_url": "https://github.com/muratcankoylan/ralph-wiggum-marketer",
-    "stargazers_count": 407,
+    "stargazers_count": 417,
     "language": "JavaScript",
-    "forks_count": 46,
+    "forks_count": 50,
     "open_issues_count": 1,
     "created_at": "2026-01-07T07:48:17Z",
-    "updated_at": "2026-01-13T01:46:34Z",
+    "updated_at": "2026-01-13T07:48:05Z",
     "pushed_at": "2026-01-08T19:21:27Z"
   }
 ]
