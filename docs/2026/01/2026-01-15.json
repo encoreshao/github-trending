@@ -1,0 +1,430 @@
+[
+  {
+    "id": 1132001614,
+    "name": "agent-browser",
+    "full_name": "vercel-labs/agent-browser",
+    "owner": {
+      "login": "vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "description": "Browser automation CLI for AI agents",
+    "topics": [],
+    "html_url": "https://github.com/vercel-labs/agent-browser",
+    "stargazers_count": 5033,
+    "language": "TypeScript",
+    "forks_count": 206,
+    "open_issues_count": 60,
+    "created_at": "2026-01-11T05:38:15Z",
+    "updated_at": "2026-01-15T02:29:03Z",
+    "pushed_at": "2026-01-14T03:54:20Z"
+  },
+  {
+    "id": 1130786764,
+    "name": "AudioNoise",
+    "full_name": "torvalds/AudioNoise",
+    "owner": {
+      "login": "torvalds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4"
+    },
+    "description": "Random digital audio effects",
+    "topics": [],
+    "html_url": "https://github.com/torvalds/AudioNoise",
+    "stargazers_count": 3770,
+    "language": "C",
+    "forks_count": 168,
+    "open_issues_count": 20,
+    "created_at": "2026-01-09T02:33:29Z",
+    "updated_at": "2026-01-15T02:25:10Z",
+    "pushed_at": "2026-01-15T01:22:57Z"
+  },
+  {
+    "id": 1132541200,
+    "name": "Engram",
+    "full_name": "deepseek-ai/Engram",
+    "owner": {
+      "login": "deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "description": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models",
+    "topics": [],
+    "html_url": "https://github.com/deepseek-ai/Engram",
+    "stargazers_count": 2228,
+    "language": "Python",
+    "forks_count": 116,
+    "open_issues_count": 5,
+    "created_at": "2026-01-12T05:26:50Z",
+    "updated_at": "2026-01-15T02:27:29Z",
+    "pushed_at": "2026-01-14T01:13:02Z"
+  },
+  {
+    "id": 1132223692,
+    "name": "Zen-C",
+    "full_name": "z-libs/Zen-C",
+    "owner": {
+      "login": "z-libs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245714965?v=4"
+    },
+    "description": "Write like a high-level language, run like C.",
+    "topics": [],
+    "html_url": "https://github.com/z-libs/Zen-C",
+    "stargazers_count": 2102,
+    "language": "C",
+    "forks_count": 93,
+    "open_issues_count": 13,
+    "created_at": "2026-01-11T15:08:19Z",
+    "updated_at": "2026-01-15T02:29:34Z",
+    "pushed_at": "2026-01-15T01:51:50Z"
+  },
+  {
+    "id": 1131513930,
+    "name": "daily_stock_analysis",
+    "full_name": "ZhuLinsen/daily_stock_analysis",
+    "owner": {
+      "login": "ZhuLinsen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42829555?v=4"
+    },
+    "description": "LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行",
+    "topics": [
+      "agent",
+      "ai",
+      "aigc",
+      "gemini",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "rag",
+      "stock"
+    ],
+    "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "stargazers_count": 1486,
+    "language": "Python",
+    "forks_count": 1200,
+    "open_issues_count": 13,
+    "created_at": "2026-01-10T06:43:20Z",
+    "updated_at": "2026-01-15T02:30:02Z",
+    "pushed_at": "2026-01-14T14:12:19Z"
+  },
+  {
+    "id": 1130809465,
+    "name": "oh-my-claude-sisyphus",
+    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "owner": {
+      "login": "Yeachan-Heo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54757707?v=4"
+    },
+    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "oh-my-opencode",
+      "opencode",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "stargazers_count": 1139,
+    "language": "TypeScript",
+    "forks_count": 107,
+    "open_issues_count": 1,
+    "created_at": "2026-01-09T03:36:29Z",
+    "updated_at": "2026-01-15T02:24:58Z",
+    "pushed_at": "2026-01-15T01:41:01Z"
+  },
+  {
+    "id": 1131946571,
+    "name": "nanocode",
+    "full_name": "1rgs/nanocode",
+    "owner": {
+      "login": "1rgs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20087438?v=4"
+    },
+    "description": "Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.",
+    "topics": [],
+    "html_url": "https://github.com/1rgs/nanocode",
+    "stargazers_count": 1072,
+    "language": "Python",
+    "forks_count": 84,
+    "open_issues_count": 2,
+    "created_at": "2026-01-11T02:12:27Z",
+    "updated_at": "2026-01-15T02:25:16Z",
+    "pushed_at": "2026-01-14T05:59:51Z"
+  },
+  {
+    "id": 1133393292,
+    "name": "Claude-Cowork",
+    "full_name": "DevAgentForge/Claude-Cowork",
+    "owner": {
+      "login": "DevAgentForge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253069662?v=4"
+    },
+    "description": "OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.",
+    "topics": [],
+    "html_url": "https://github.com/DevAgentForge/Claude-Cowork",
+    "stargazers_count": 986,
+    "language": "TypeScript",
+    "forks_count": 149,
+    "open_issues_count": 13,
+    "created_at": "2026-01-13T09:34:40Z",
+    "updated_at": "2026-01-15T02:28:41Z",
+    "pushed_at": "2026-01-14T13:51:02Z"
+  },
+  {
+    "id": 1130182160,
+    "name": "claude-code-config",
+    "full_name": "jarrodwatts/claude-code-config",
+    "owner": {
+      "login": "jarrodwatts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+    },
+    "description": "My personal Claude Code configuration - rules, hooks, agents, skills, and commands",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "dotfiles"
+    ],
+    "html_url": "https://github.com/jarrodwatts/claude-code-config",
+    "stargazers_count": 776,
+    "language": "JavaScript",
+    "forks_count": 93,
+    "open_issues_count": 2,
+    "created_at": "2026-01-08T06:30:49Z",
+    "updated_at": "2026-01-15T01:53:14Z",
+    "pushed_at": "2026-01-15T00:44:09Z"
+  },
+  {
+    "id": 1130112342,
+    "name": "Qwen3-VL-Embedding",
+    "full_name": "QwenLM/Qwen3-VL-Embedding",
+    "owner": {
+      "login": "QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/QwenLM/Qwen3-VL-Embedding",
+    "stargazers_count": 719,
+    "language": "Python",
+    "forks_count": 51,
+    "open_issues_count": 20,
+    "created_at": "2026-01-08T03:42:57Z",
+    "updated_at": "2026-01-15T02:18:33Z",
+    "pushed_at": "2026-01-13T09:35:19Z"
+  },
+  {
+    "id": 1132082476,
+    "name": "better-shot",
+    "full_name": "KartikLabhshetwar/better-shot",
+    "owner": {
+      "login": "KartikLabhshetwar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141413343?v=4"
+    },
+    "description": "An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.",
+    "topics": [
+      "desktop-application",
+      "macos-app",
+      "macos-application",
+      "tauri",
+      "vitejs"
+    ],
+    "html_url": "https://github.com/KartikLabhshetwar/better-shot",
+    "stargazers_count": 686,
+    "language": "TypeScript",
+    "forks_count": 41,
+    "open_issues_count": 11,
+    "created_at": "2026-01-11T09:39:37Z",
+    "updated_at": "2026-01-15T02:17:36Z",
+    "pushed_at": "2026-01-14T16:38:33Z"
+  },
+  {
+    "id": 1130731589,
+    "name": "ComfyUI-qwenmultiangle",
+    "full_name": "jtydhr88/ComfyUI-qwenmultiangle",
+    "owner": {
+      "login": "jtydhr88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/860985?v=4"
+    },
+    "description": "A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.",
+    "topics": [],
+    "html_url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle",
+    "stargazers_count": 684,
+    "language": "JavaScript",
+    "forks_count": 27,
+    "open_issues_count": 6,
+    "created_at": "2026-01-08T23:39:38Z",
+    "updated_at": "2026-01-15T01:28:48Z",
+    "pushed_at": "2026-01-11T23:07:13Z"
+  },
+  {
+    "id": 1132100727,
+    "name": "ralph-tui",
+    "full_name": "subsy/ralph-tui",
+    "owner": {
+      "login": "subsy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7700461?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/subsy/ralph-tui",
+    "stargazers_count": 649,
+    "language": "TypeScript",
+    "forks_count": 60,
+    "open_issues_count": 11,
+    "created_at": "2026-01-11T10:29:12Z",
+    "updated_at": "2026-01-15T02:29:51Z",
+    "pushed_at": "2026-01-14T23:54:52Z"
+  },
+  {
+    "id": 1130550144,
+    "name": "mcp-cli",
+    "full_name": "philschmid/mcp-cli",
+    "owner": {
+      "login": "philschmid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32632186?v=4"
+    },
+    "description": "Lighweight CLI to interact with MCP servers",
+    "topics": [],
+    "html_url": "https://github.com/philschmid/mcp-cli",
+    "stargazers_count": 621,
+    "language": "TypeScript",
+    "forks_count": 57,
+    "open_issues_count": 8,
+    "created_at": "2026-01-08T17:01:44Z",
+    "updated_at": "2026-01-15T01:06:18Z",
+    "pushed_at": "2026-01-12T19:48:33Z"
+  },
+  {
+    "id": 1131593725,
+    "name": "makepad-skills",
+    "full_name": "ZhangHanDong/makepad-skills",
+    "owner": {
+      "login": "ZhangHanDong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27893?v=4"
+    },
+    "description": "Build App with Makepad and AI skills",
+    "topics": [
+      "app",
+      "claude",
+      "claude-code",
+      "cross-platform",
+      "makepad",
+      "rust",
+      "skills"
+    ],
+    "html_url": "https://github.com/ZhangHanDong/makepad-skills",
+    "stargazers_count": 599,
+    "language": "Shell",
+    "forks_count": 67,
+    "open_issues_count": 0,
+    "created_at": "2026-01-10T10:20:19Z",
+    "updated_at": "2026-01-14T20:19:53Z",
+    "pushed_at": "2026-01-14T09:12:47Z"
+  },
+  {
+    "id": 1130040122,
+    "name": "claude-delegator",
+    "full_name": "jarrodwatts/claude-delegator",
+    "owner": {
+      "login": "jarrodwatts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+    },
+    "description": "Delegate tasks to Codex GPT 5.2 directly from within Claude Code.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "gpt",
+      "mcp",
+      "plugin"
+    ],
+    "html_url": "https://github.com/jarrodwatts/claude-delegator",
+    "stargazers_count": 591,
+    "language": null,
+    "forks_count": 26,
+    "open_issues_count": 0,
+    "created_at": "2026-01-08T00:14:22Z",
+    "updated_at": "2026-01-15T01:53:17Z",
+    "pushed_at": "2026-01-10T12:03:15Z"
+  },
+  {
+    "id": 1131797886,
+    "name": "axton-obsidian-visual-skills",
+    "full_name": "axtonliu/axton-obsidian-visual-skills",
+    "owner": {
+      "login": "axtonliu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34881731?v=4"
+    },
+    "description": "Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code",
+    "topics": [],
+    "html_url": "https://github.com/axtonliu/axton-obsidian-visual-skills",
+    "stargazers_count": 505,
+    "language": null,
+    "forks_count": 45,
+    "open_issues_count": 0,
+    "created_at": "2026-01-10T18:01:37Z",
+    "updated_at": "2026-01-15T02:12:38Z",
+    "pushed_at": "2026-01-12T20:31:21Z"
+  },
+  {
+    "id": 1130260802,
+    "name": "Winslop",
+    "full_name": "builtbybel/Winslop",
+    "owner": {
+      "login": "builtbybel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48735732?v=4"
+    },
+    "description": "De-slop Windows.",
+    "topics": [
+      "winslop"
+    ],
+    "html_url": "https://github.com/builtbybel/Winslop",
+    "stargazers_count": 488,
+    "language": "C#",
+    "forks_count": 18,
+    "open_issues_count": 2,
+    "created_at": "2026-01-08T08:57:41Z",
+    "updated_at": "2026-01-15T02:07:53Z",
+    "pushed_at": "2026-01-13T12:22:31Z"
+  },
+  {
+    "id": 1130841791,
+    "name": "NanoBanana-PPT-Skills",
+    "full_name": "op7418/NanoBanana-PPT-Skills",
+    "owner": {
+      "login": "op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "description": "NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放",
+    "topics": [],
+    "html_url": "https://github.com/op7418/NanoBanana-PPT-Skills",
+    "stargazers_count": 487,
+    "language": "Python",
+    "forks_count": 70,
+    "open_issues_count": 1,
+    "created_at": "2026-01-09T05:02:44Z",
+    "updated_at": "2026-01-15T02:29:42Z",
+    "pushed_at": "2026-01-12T10:46:52Z"
+  },
+  {
+    "id": 1130952278,
+    "name": "llm-tldr",
+    "full_name": "parcadei/llm-tldr",
+    "owner": {
+      "login": "parcadei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227596144?v=4"
+    },
+    "description": "95% token savings. 155x faster queries. 16 languages.  LLMs can't read your entire codebase. TLDR extracts structure, traces dependencies, and gives them exactly what they need.",
+    "topics": [],
+    "html_url": "https://github.com/parcadei/llm-tldr",
+    "stargazers_count": 480,
+    "language": "Python",
+    "forks_count": 44,
+    "open_issues_count": 5,
+    "created_at": "2026-01-09T08:55:54Z",
+    "updated_at": "2026-01-15T01:57:43Z",
+    "pushed_at": "2026-01-14T11:49:21Z"
+  }
+]
