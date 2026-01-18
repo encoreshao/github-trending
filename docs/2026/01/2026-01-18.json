@@ -1,0 +1,396 @@
+[
+  {
+    "id": 1132001614,
+    "name": "agent-browser",
+    "full_name": "vercel-labs/agent-browser",
+    "owner": {
+      "login": "vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "description": "Browser automation CLI for AI agents",
+    "topics": [],
+    "html_url": "https://github.com/vercel-labs/agent-browser",
+    "stargazers_count": 7204,
+    "language": "TypeScript",
+    "forks_count": 342,
+    "open_issues_count": 76,
+    "created_at": "2026-01-11T05:38:15Z",
+    "updated_at": "2026-01-18T02:29:12Z",
+    "pushed_at": "2026-01-18T02:25:20Z"
+  },
+  {
+    "id": 1134411737,
+    "name": "json-render",
+    "full_name": "vercel-labs/json-render",
+    "owner": {
+      "login": "vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "description": "AI → JSON → UI",
+    "topics": [],
+    "html_url": "https://github.com/vercel-labs/json-render",
+    "stargazers_count": 5862,
+    "language": "TypeScript",
+    "forks_count": 268,
+    "open_issues_count": 9,
+    "created_at": "2026-01-14T17:22:39Z",
+    "updated_at": "2026-01-18T02:27:20Z",
+    "pushed_at": "2026-01-17T04:45:16Z"
+  },
+  {
+    "id": 1132223692,
+    "name": "Zen-C",
+    "full_name": "z-libs/Zen-C",
+    "owner": {
+      "login": "z-libs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245714965?v=4"
+    },
+    "description": "Write like a high-level language, run like C.",
+    "topics": [],
+    "html_url": "https://github.com/z-libs/Zen-C",
+    "stargazers_count": 2774,
+    "language": "C",
+    "forks_count": 124,
+    "open_issues_count": 15,
+    "created_at": "2026-01-11T15:08:19Z",
+    "updated_at": "2026-01-18T02:01:16Z",
+    "pushed_at": "2026-01-18T01:54:54Z"
+  },
+  {
+    "id": 1132541200,
+    "name": "Engram",
+    "full_name": "deepseek-ai/Engram",
+    "owner": {
+      "login": "deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "description": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models",
+    "topics": [],
+    "html_url": "https://github.com/deepseek-ai/Engram",
+    "stargazers_count": 2731,
+    "language": "Python",
+    "forks_count": 153,
+    "open_issues_count": 8,
+    "created_at": "2026-01-12T05:26:50Z",
+    "updated_at": "2026-01-18T02:11:48Z",
+    "pushed_at": "2026-01-14T01:13:02Z"
+  },
+  {
+    "id": 1133393292,
+    "name": "Claude-Cowork",
+    "full_name": "DevAgentForge/Claude-Cowork",
+    "owner": {
+      "login": "DevAgentForge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253069662?v=4"
+    },
+    "description": "OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.",
+    "topics": [],
+    "html_url": "https://github.com/DevAgentForge/Claude-Cowork",
+    "stargazers_count": 1650,
+    "language": "TypeScript",
+    "forks_count": 250,
+    "open_issues_count": 21,
+    "created_at": "2026-01-13T09:34:40Z",
+    "updated_at": "2026-01-18T01:57:56Z",
+    "pushed_at": "2026-01-16T10:49:33Z"
+  },
+  {
+    "id": 1131946571,
+    "name": "nanocode",
+    "full_name": "1rgs/nanocode",
+    "owner": {
+      "login": "1rgs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20087438?v=4"
+    },
+    "description": "Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.",
+    "topics": [],
+    "html_url": "https://github.com/1rgs/nanocode",
+    "stargazers_count": 1441,
+    "language": "Python",
+    "forks_count": 114,
+    "open_issues_count": 5,
+    "created_at": "2026-01-11T02:12:27Z",
+    "updated_at": "2026-01-18T02:25:57Z",
+    "pushed_at": "2026-01-14T05:59:51Z"
+  },
+  {
+    "id": 1134447175,
+    "name": "skills",
+    "full_name": "trailofbits/skills",
+    "owner": {
+      "login": "trailofbits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2314423?v=4"
+    },
+    "description": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows",
+    "topics": [
+      "agent-skills"
+    ],
+    "html_url": "https://github.com/trailofbits/skills",
+    "stargazers_count": 1261,
+    "language": "Python",
+    "forks_count": 96,
+    "open_issues_count": 3,
+    "created_at": "2026-01-14T18:23:21Z",
+    "updated_at": "2026-01-18T01:56:07Z",
+    "pushed_at": "2026-01-16T20:43:39Z"
+  },
+  {
+    "id": 1133911335,
+    "name": "openwork",
+    "full_name": "different-ai/openwork",
+    "owner": {
+      "login": "different-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118544361?v=4"
+    },
+    "description": "An open-source alternative to Claude Cowork, powered by OpenCode",
+    "topics": [],
+    "html_url": "https://github.com/different-ai/openwork",
+    "stargazers_count": 1199,
+    "language": "TypeScript",
+    "forks_count": 71,
+    "open_issues_count": 9,
+    "created_at": "2026-01-14T01:39:31Z",
+    "updated_at": "2026-01-18T02:29:19Z",
+    "pushed_at": "2026-01-18T02:20:06Z"
+  },
+  {
+    "id": 1134220362,
+    "name": "openwork",
+    "full_name": "accomplish-ai/openwork",
+    "owner": {
+      "login": "accomplish-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244819219?v=4"
+    },
+    "description": "Openwork™ is the open source Al coworker that lives on your desktop",
+    "topics": [],
+    "html_url": "https://github.com/accomplish-ai/openwork",
+    "stargazers_count": 1137,
+    "language": "TypeScript",
+    "forks_count": 192,
+    "open_issues_count": 29,
+    "created_at": "2026-01-14T12:22:38Z",
+    "updated_at": "2026-01-18T02:17:53Z",
+    "pushed_at": "2026-01-18T01:41:04Z"
+  },
+  {
+    "id": 1134543109,
+    "name": "add-skill",
+    "full_name": "vercel-labs/add-skill",
+    "owner": {
+      "login": "vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/vercel-labs/add-skill",
+    "stargazers_count": 998,
+    "language": "TypeScript",
+    "forks_count": 48,
+    "open_issues_count": 16,
+    "created_at": "2026-01-14T21:31:18Z",
+    "updated_at": "2026-01-18T02:24:06Z",
+    "pushed_at": "2026-01-17T01:24:34Z"
+  },
+  {
+    "id": 1132100727,
+    "name": "ralph-tui",
+    "full_name": "subsy/ralph-tui",
+    "owner": {
+      "login": "subsy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7700461?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/subsy/ralph-tui",
+    "stargazers_count": 964,
+    "language": "TypeScript",
+    "forks_count": 104,
+    "open_issues_count": 20,
+    "created_at": "2026-01-11T10:29:12Z",
+    "updated_at": "2026-01-18T02:19:28Z",
+    "pushed_at": "2026-01-17T20:00:23Z"
+  },
+  {
+    "id": 1132082476,
+    "name": "better-shot",
+    "full_name": "KartikLabhshetwar/better-shot",
+    "owner": {
+      "login": "KartikLabhshetwar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141413343?v=4"
+    },
+    "description": "An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.",
+    "topics": [
+      "desktop-application",
+      "macos-app",
+      "macos-application",
+      "tauri",
+      "vitejs"
+    ],
+    "html_url": "https://github.com/KartikLabhshetwar/better-shot",
+    "stargazers_count": 961,
+    "language": "TypeScript",
+    "forks_count": 54,
+    "open_issues_count": 10,
+    "created_at": "2026-01-11T09:39:37Z",
+    "updated_at": "2026-01-18T02:06:54Z",
+    "pushed_at": "2026-01-17T18:58:03Z"
+  },
+  {
+    "id": 1133924528,
+    "name": "1code",
+    "full_name": "21st-dev/1code",
+    "owner": {
+      "login": "21st-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199367026?v=4"
+    },
+    "description": "Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)",
+    "topics": [],
+    "html_url": "https://github.com/21st-dev/1code",
+    "stargazers_count": 889,
+    "language": "TypeScript",
+    "forks_count": 99,
+    "open_issues_count": 16,
+    "created_at": "2026-01-14T02:12:40Z",
+    "updated_at": "2026-01-18T02:28:58Z",
+    "pushed_at": "2026-01-17T21:10:49Z"
+  },
+  {
+    "id": 1133235090,
+    "name": "nginxpulse",
+    "full_name": "likaia/nginxpulse",
+    "owner": {
+      "login": "likaia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35120858?v=4"
+    },
+    "description": "轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。",
+    "topics": [],
+    "html_url": "https://github.com/likaia/nginxpulse",
+    "stargazers_count": 841,
+    "language": "Go",
+    "forks_count": 68,
+    "open_issues_count": 5,
+    "created_at": "2026-01-13T04:19:14Z",
+    "updated_at": "2026-01-18T02:12:29Z",
+    "pushed_at": "2026-01-17T15:29:54Z"
+  },
+  {
+    "id": 1134109950,
+    "name": "antigravity-kit",
+    "full_name": "vudovn/antigravity-kit",
+    "owner": {
+      "login": "vudovn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116963762?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/vudovn/antigravity-kit",
+    "stargazers_count": 754,
+    "language": "Python",
+    "forks_count": 160,
+    "open_issues_count": 4,
+    "created_at": "2026-01-14T09:06:28Z",
+    "updated_at": "2026-01-18T02:28:23Z",
+    "pushed_at": "2026-01-17T13:41:01Z"
+  },
+  {
+    "id": 1132046564,
+    "name": "CodexMonitor",
+    "full_name": "Dimillian/CodexMonitor",
+    "owner": {
+      "login": "Dimillian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/535509?v=4"
+    },
+    "description": "An app to monitor the (Codex) situation",
+    "topics": [
+      "ai",
+      "codex",
+      "linux",
+      "macos",
+      "tauri-app"
+    ],
+    "html_url": "https://github.com/Dimillian/CodexMonitor",
+    "stargazers_count": 712,
+    "language": "TypeScript",
+    "forks_count": 70,
+    "open_issues_count": 11,
+    "created_at": "2026-01-11T07:56:35Z",
+    "updated_at": "2026-01-18T02:01:49Z",
+    "pushed_at": "2026-01-17T21:12:48Z"
+  },
+  {
+    "id": 1133883850,
+    "name": "copilot-sdk",
+    "full_name": "github/copilot-sdk",
+    "owner": {
+      "login": "github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+    },
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "topics": [],
+    "html_url": "https://github.com/github/copilot-sdk",
+    "stargazers_count": 611,
+    "language": "TypeScript",
+    "forks_count": 38,
+    "open_issues_count": 20,
+    "created_at": "2026-01-14T00:23:22Z",
+    "updated_at": "2026-01-18T01:52:25Z",
+    "pushed_at": "2026-01-16T20:48:42Z"
+  },
+  {
+    "id": 1135454024,
+    "name": "stfu",
+    "full_name": "Pankajtanwarbanna/stfu",
+    "owner": {
+      "login": "Pankajtanwarbanna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25531072?v=4"
+    },
+    "description": "stfu",
+    "topics": [],
+    "html_url": "https://github.com/Pankajtanwarbanna/stfu",
+    "stargazers_count": 583,
+    "language": "HTML",
+    "forks_count": 35,
+    "open_issues_count": 3,
+    "created_at": "2026-01-16T05:48:40Z",
+    "updated_at": "2026-01-18T02:22:12Z",
+    "pushed_at": "2026-01-17T04:09:17Z"
+  },
+  {
+    "id": 1133793135,
+    "name": "openwork",
+    "full_name": "langchain-ai/openwork",
+    "owner": {
+      "login": "langchain-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/langchain-ai/openwork",
+    "stargazers_count": 577,
+    "language": "TypeScript",
+    "forks_count": 66,
+    "open_issues_count": 13,
+    "created_at": "2026-01-13T20:34:04Z",
+    "updated_at": "2026-01-18T02:27:43Z",
+    "pushed_at": "2026-01-18T01:41:13Z"
+  },
+  {
+    "id": 1133950583,
+    "name": "lennys-podcast-transcripts",
+    "full_name": "ChatPRD/lennys-podcast-transcripts",
+    "owner": {
+      "login": "ChatPRD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174969366?v=4"
+    },
+    "description": "Transcripts from Lenny's Podcast",
+    "topics": [],
+    "html_url": "https://github.com/ChatPRD/lennys-podcast-transcripts",
+    "stargazers_count": 568,
+    "language": "Shell",
+    "forks_count": 176,
+    "open_issues_count": 3,
+    "created_at": "2026-01-14T03:16:58Z",
+    "updated_at": "2026-01-18T02:03:28Z",
+    "pushed_at": "2026-01-18T01:25:00Z"
+  }
+]
