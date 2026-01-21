@@ -1,24 +1,5 @@
 [
   {
-    "id": 1134411737,
-    "name": "json-render",
-    "full_name": "vercel-labs/json-render",
-    "owner": {
-      "login": "vercel-labs",
-      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
-    },
-    "description": "AI → JSON → UI",
-    "topics": [],
-    "html_url": "https://github.com/vercel-labs/json-render",
-    "stargazers_count": 7640,
-    "language": "TypeScript",
-    "forks_count": 371,
-    "open_issues_count": 23,
-    "created_at": "2026-01-14T17:22:39Z",
-    "updated_at": "2026-01-21T02:29:02Z",
-    "pushed_at": "2026-01-20T22:28:00Z"
-  },
-  {
     "id": 1137846174,
     "name": "x-algorithm",
     "full_name": "xai-org/x-algorithm",
@@ -29,12 +10,12 @@
     "description": "Algorithm powering the For You feed on X",
     "topics": [],
     "html_url": "https://github.com/xai-org/x-algorithm",
-    "stargazers_count": 7618,
+    "stargazers_count": 8889,
     "language": "Rust",
-    "forks_count": 1336,
+    "forks_count": 1555,
     "open_issues_count": 0,
     "created_at": "2026-01-19T23:12:35Z",
-    "updated_at": "2026-01-21T02:29:56Z",
+    "updated_at": "2026-01-21T08:29:43Z",
     "pushed_at": "2026-01-20T02:31:49Z"
   },
   {
@@ -48,13 +29,32 @@
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "topics": [],
     "html_url": "https://github.com/affaan-m/everything-claude-code",
-    "stargazers_count": 6701,
+    "stargazers_count": 8021,
     "language": "Shell",
-    "forks_count": 890,
+    "forks_count": 1077,
     "open_issues_count": 4,
     "created_at": "2026-01-18T00:51:51Z",
-    "updated_at": "2026-01-21T02:29:30Z",
-    "pushed_at": "2026-01-21T02:27:56Z"
+    "updated_at": "2026-01-21T08:29:28Z",
+    "pushed_at": "2026-01-21T03:57:06Z"
+  },
+  {
+    "id": 1134411737,
+    "name": "json-render",
+    "full_name": "vercel-labs/json-render",
+    "owner": {
+      "login": "vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "description": "AI → JSON → UI",
+    "topics": [],
+    "html_url": "https://github.com/vercel-labs/json-render",
+    "stargazers_count": 7804,
+    "language": "TypeScript",
+    "forks_count": 383,
+    "open_issues_count": 25,
+    "created_at": "2026-01-14T17:22:39Z",
+    "updated_at": "2026-01-21T08:24:29Z",
+    "pushed_at": "2026-01-20T22:28:00Z"
   },
   {
     "id": 1133911335,
@@ -67,13 +67,13 @@
     "description": "An open-source alternative to Claude Cowork, powered by OpenCode",
     "topics": [],
     "html_url": "https://github.com/different-ai/openwork",
-    "stargazers_count": 4779,
+    "stargazers_count": 5126,
     "language": "TypeScript",
-    "forks_count": 334,
-    "open_issues_count": 28,
+    "forks_count": 352,
+    "open_issues_count": 31,
     "created_at": "2026-01-14T01:39:31Z",
-    "updated_at": "2026-01-21T02:28:34Z",
-    "pushed_at": "2026-01-21T01:52:13Z"
+    "updated_at": "2026-01-21T08:29:47Z",
+    "pushed_at": "2026-01-21T08:24:13Z"
   },
   {
     "id": 1133924528,
@@ -86,13 +86,13 @@
     "description": "Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)",
     "topics": [],
     "html_url": "https://github.com/21st-dev/1code",
-    "stargazers_count": 3856,
+    "stargazers_count": 3896,
     "language": "TypeScript",
-    "forks_count": 328,
-    "open_issues_count": 28,
+    "forks_count": 333,
+    "open_issues_count": 30,
     "created_at": "2026-01-14T02:12:40Z",
-    "updated_at": "2026-01-21T02:20:04Z",
-    "pushed_at": "2026-01-20T22:47:36Z"
+    "updated_at": "2026-01-21T08:27:54Z",
+    "pushed_at": "2026-01-21T07:03:36Z"
   },
   {
     "id": 1134220362,
@@ -105,13 +105,13 @@
     "description": "Openwork™ is the open source Al coworker that lives on your desktop",
     "topics": [],
     "html_url": "https://github.com/accomplish-ai/openwork",
-    "stargazers_count": 2212,
+    "stargazers_count": 2271,
     "language": "TypeScript",
-    "forks_count": 333,
-    "open_issues_count": 46,
+    "forks_count": 340,
+    "open_issues_count": 41,
     "created_at": "2026-01-14T12:22:38Z",
-    "updated_at": "2026-01-21T02:24:46Z",
-    "pushed_at": "2026-01-20T16:40:20Z"
+    "updated_at": "2026-01-21T08:23:43Z",
+    "pushed_at": "2026-01-21T08:21:37Z"
   },
   {
     "id": 1134109950,
@@ -124,12 +124,12 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/vudovn/antigravity-kit",
-    "stargazers_count": 1754,
+    "stargazers_count": 1836,
     "language": "TypeScript",
-    "forks_count": 349,
+    "forks_count": 361,
     "open_issues_count": 7,
     "created_at": "2026-01-14T09:06:28Z",
-    "updated_at": "2026-01-21T02:13:19Z",
+    "updated_at": "2026-01-21T08:21:03Z",
     "pushed_at": "2026-01-20T18:01:27Z"
   },
   {
@@ -143,12 +143,12 @@
     "description": "Claude Code skill that removes signs of AI-generated writing from text",
     "topics": [],
     "html_url": "https://github.com/blader/humanizer",
-    "stargazers_count": 1703,
+    "stargazers_count": 1746,
     "language": null,
-    "forks_count": 130,
+    "forks_count": 131,
     "open_issues_count": 5,
     "created_at": "2026-01-18T05:30:15Z",
-    "updated_at": "2026-01-21T02:29:05Z",
+    "updated_at": "2026-01-21T08:27:12Z",
     "pushed_at": "2026-01-19T07:57:39Z"
   },
   {
@@ -164,12 +164,12 @@
       "agent-skills"
     ],
     "html_url": "https://github.com/trailofbits/skills",
-    "stargazers_count": 1601,
+    "stargazers_count": 1630,
     "language": "Python",
-    "forks_count": 124,
+    "forks_count": 128,
     "open_issues_count": 8,
     "created_at": "2026-01-14T18:23:21Z",
-    "updated_at": "2026-01-21T02:27:13Z",
+    "updated_at": "2026-01-21T08:21:36Z",
     "pushed_at": "2026-01-20T23:15:19Z"
   },
   {
@@ -183,13 +183,13 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/vercel-labs/add-skill",
-    "stargazers_count": 1555,
+    "stargazers_count": 1594,
     "language": "TypeScript",
-    "forks_count": 83,
-    "open_issues_count": 15,
+    "forks_count": 89,
+    "open_issues_count": 21,
     "created_at": "2026-01-14T21:31:18Z",
-    "updated_at": "2026-01-21T02:23:53Z",
-    "pushed_at": "2026-01-20T21:56:35Z"
+    "updated_at": "2026-01-21T08:21:09Z",
+    "pushed_at": "2026-01-21T03:38:51Z"
   },
   {
     "id": 1135212071,
@@ -206,32 +206,13 @@
       "marketing"
     ],
     "html_url": "https://github.com/coreyhaines31/marketingskills",
-    "stargazers_count": 1307,
+    "stargazers_count": 1574,
     "language": null,
-    "forks_count": 163,
-    "open_issues_count": 1,
+    "forks_count": 193,
+    "open_issues_count": 2,
     "created_at": "2026-01-15T19:45:23Z",
-    "updated_at": "2026-01-21T02:29:51Z",
+    "updated_at": "2026-01-21T08:29:53Z",
     "pushed_at": "2026-01-16T20:36:11Z"
-  },
-  {
-    "id": 1136478079,
-    "name": "Claudeception",
-    "full_name": "blader/Claudeception",
-    "owner": {
-      "login": "blader",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1672?v=4"
-    },
-    "description": "A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.",
-    "topics": [],
-    "html_url": "https://github.com/blader/Claudeception",
-    "stargazers_count": 1129,
-    "language": "Shell",
-    "forks_count": 104,
-    "open_issues_count": 6,
-    "created_at": "2026-01-17T19:03:02Z",
-    "updated_at": "2026-01-21T02:24:11Z",
-    "pushed_at": "2026-01-18T23:20:45Z"
   },
   {
     "id": 1135260262,
@@ -250,13 +231,32 @@
       "ralphy"
     ],
     "html_url": "https://github.com/michaelshimeles/ralphy",
-    "stargazers_count": 1126,
+    "stargazers_count": 1207,
     "language": "TypeScript",
-    "forks_count": 127,
-    "open_issues_count": 12,
+    "forks_count": 134,
+    "open_issues_count": 19,
     "created_at": "2026-01-15T21:23:21Z",
-    "updated_at": "2026-01-21T02:27:04Z",
+    "updated_at": "2026-01-21T08:26:21Z",
     "pushed_at": "2026-01-20T21:58:23Z"
+  },
+  {
+    "id": 1136478079,
+    "name": "Claudeception",
+    "full_name": "blader/Claudeception",
+    "owner": {
+      "login": "blader",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1672?v=4"
+    },
+    "description": "A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.",
+    "topics": [],
+    "html_url": "https://github.com/blader/Claudeception",
+    "stargazers_count": 1167,
+    "language": "Shell",
+    "forks_count": 108,
+    "open_issues_count": 7,
+    "created_at": "2026-01-17T19:03:02Z",
+    "updated_at": "2026-01-21T08:22:41Z",
+    "pushed_at": "2026-01-18T23:20:45Z"
   },
   {
     "id": 1134789517,
@@ -269,32 +269,13 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/HeartMuLa/heartlib",
-    "stargazers_count": 1075,
+    "stargazers_count": 1153,
     "language": "Python",
-    "forks_count": 121,
-    "open_issues_count": 33,
+    "forks_count": 131,
+    "open_issues_count": 34,
     "created_at": "2026-01-15T07:53:15Z",
-    "updated_at": "2026-01-21T02:29:17Z",
-    "pushed_at": "2026-01-20T14:40:21Z"
-  },
-  {
-    "id": 1136984342,
-    "name": "flux2.c",
-    "full_name": "antirez/flux2.c",
-    "owner": {
-      "login": "antirez",
-      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
-    },
-    "description": "Flux 2 image generation model pure C inference",
-    "topics": [],
-    "html_url": "https://github.com/antirez/flux2.c",
-    "stargazers_count": 995,
-    "language": "C",
-    "forks_count": 55,
-    "open_issues_count": 5,
-    "created_at": "2026-01-18T17:55:48Z",
-    "updated_at": "2026-01-21T02:24:26Z",
-    "pushed_at": "2026-01-20T10:35:02Z"
+    "updated_at": "2026-01-21T08:24:18Z",
+    "pushed_at": "2026-01-21T08:14:58Z"
   },
   {
     "id": 1133885329,
@@ -307,13 +288,58 @@
     "description": "一键将 Z-Library 书籍自动下载并上传到 Google NotebookLM",
     "topics": [],
     "html_url": "https://github.com/zstmfhy/zlibrary-to-notebooklm",
-    "stargazers_count": 971,
+    "stargazers_count": 1020,
     "language": "Python",
-    "forks_count": 128,
+    "forks_count": 131,
     "open_issues_count": 4,
     "created_at": "2026-01-14T00:27:42Z",
-    "updated_at": "2026-01-21T02:29:20Z",
+    "updated_at": "2026-01-21T08:25:43Z",
     "pushed_at": "2026-01-17T09:13:05Z"
+  },
+  {
+    "id": 1135473927,
+    "name": "ralph-claude-code",
+    "full_name": "DmitrySolana/ralph-claude-code",
+    "owner": {
+      "login": "DmitrySolana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14211560?v=4"
+    },
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "claude-code",
+      "claude-code-cli",
+      "development-tools",
+      "development-workflow"
+    ],
+    "html_url": "https://github.com/DmitrySolana/ralph-claude-code",
+    "stargazers_count": 1008,
+    "language": "Shell",
+    "forks_count": 84,
+    "open_issues_count": 0,
+    "created_at": "2026-01-16T06:32:50Z",
+    "updated_at": "2026-01-21T08:29:19Z",
+    "pushed_at": "2026-01-16T06:39:01Z"
+  },
+  {
+    "id": 1136984342,
+    "name": "flux2.c",
+    "full_name": "antirez/flux2.c",
+    "owner": {
+      "login": "antirez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
+    },
+    "description": "Flux 2 image generation model pure C inference",
+    "topics": [],
+    "html_url": "https://github.com/antirez/flux2.c",
+    "stargazers_count": 1008,
+    "language": "C",
+    "forks_count": 55,
+    "open_issues_count": 5,
+    "created_at": "2026-01-18T17:55:48Z",
+    "updated_at": "2026-01-21T07:51:41Z",
+    "pushed_at": "2026-01-20T10:35:02Z"
   },
   {
     "id": 1134426800,
@@ -335,39 +361,13 @@
       "security-auditing"
     ],
     "html_url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stargazers_count": 928,
+    "stargazers_count": 984,
     "language": "Python",
-    "forks_count": 174,
+    "forks_count": 187,
     "open_issues_count": 0,
     "created_at": "2026-01-14T17:48:09Z",
-    "updated_at": "2026-01-21T02:23:00Z",
+    "updated_at": "2026-01-21T08:23:47Z",
     "pushed_at": "2026-01-20T15:11:58Z"
-  },
-  {
-    "id": 1135473927,
-    "name": "ralph-claude-code",
-    "full_name": "DmitrySolana/ralph-claude-code",
-    "owner": {
-      "login": "DmitrySolana",
-      "avatar_url": "https://avatars.githubusercontent.com/u/14211560?v=4"
-    },
-    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
-    "topics": [
-      "ai-agent",
-      "ai-agents",
-      "claude-code",
-      "claude-code-cli",
-      "development-tools",
-      "development-workflow"
-    ],
-    "html_url": "https://github.com/DmitrySolana/ralph-claude-code",
-    "stargazers_count": 927,
-    "language": "Shell",
-    "forks_count": 74,
-    "open_issues_count": 0,
-    "created_at": "2026-01-16T06:32:50Z",
-    "updated_at": "2026-01-21T02:24:13Z",
-    "pushed_at": "2026-01-16T06:39:01Z"
   },
   {
     "id": 1135787891,
@@ -396,31 +396,31 @@
       "tradingbot"
     ],
     "html_url": "https://github.com/devWorld335/polymarket-copy-trading-bot",
-    "stargazers_count": 880,
+    "stargazers_count": 915,
     "language": "TypeScript",
-    "forks_count": 844,
+    "forks_count": 872,
     "open_issues_count": 1,
     "created_at": "2026-01-16T15:39:06Z",
-    "updated_at": "2026-01-21T02:29:12Z",
+    "updated_at": "2026-01-21T08:18:12Z",
     "pushed_at": "2026-01-20T20:30:37Z"
   },
   {
-    "id": 1135454024,
-    "name": "stfu",
-    "full_name": "Pankajtanwarbanna/stfu",
+    "id": 1137212306,
+    "name": "Humanizer-zh",
+    "full_name": "op7418/Humanizer-zh",
     "owner": {
-      "login": "Pankajtanwarbanna",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25531072?v=4"
+      "login": "op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
     },
-    "description": "stfu",
+    "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
     "topics": [],
-    "html_url": "https://github.com/Pankajtanwarbanna/stfu",
-    "stargazers_count": 798,
-    "language": "HTML",
-    "forks_count": 48,
-    "open_issues_count": 3,
-    "created_at": "2026-01-16T05:48:40Z",
-    "updated_at": "2026-01-21T02:09:55Z",
-    "pushed_at": "2026-01-17T04:09:17Z"
+    "html_url": "https://github.com/op7418/Humanizer-zh",
+    "stargazers_count": 861,
+    "language": null,
+    "forks_count": 102,
+    "open_issues_count": 0,
+    "created_at": "2026-01-19T04:23:44Z",
+    "updated_at": "2026-01-21T08:25:39Z",
+    "pushed_at": "2026-01-19T07:46:35Z"
   }
 ]
