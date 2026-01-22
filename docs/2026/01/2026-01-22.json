@@ -10,12 +10,12 @@
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "topics": [],
     "html_url": "https://github.com/affaan-m/everything-claude-code",
-    "stargazers_count": 12106,
+    "stargazers_count": 13718,
     "language": "Shell",
-    "forks_count": 1530,
-    "open_issues_count": 5,
+    "forks_count": 1724,
+    "open_issues_count": 7,
     "created_at": "2026-01-18T00:51:51Z",
-    "updated_at": "2026-01-22T02:29:50Z",
+    "updated_at": "2026-01-22T08:29:38Z",
     "pushed_at": "2026-01-21T20:23:50Z"
   },
   {
@@ -29,12 +29,12 @@
     "description": "Algorithm powering the For You feed on X",
     "topics": [],
     "html_url": "https://github.com/xai-org/x-algorithm",
-    "stargazers_count": 10392,
+    "stargazers_count": 10758,
     "language": "Rust",
-    "forks_count": 1843,
+    "forks_count": 1910,
     "open_issues_count": 0,
     "created_at": "2026-01-19T23:12:35Z",
-    "updated_at": "2026-01-22T02:28:08Z",
+    "updated_at": "2026-01-22T08:28:40Z",
     "pushed_at": "2026-01-20T02:31:49Z"
   },
   {
@@ -52,12 +52,12 @@
       "marketing"
     ],
     "html_url": "https://github.com/coreyhaines31/marketingskills",
-    "stargazers_count": 2953,
+    "stargazers_count": 3338,
     "language": null,
-    "forks_count": 307,
-    "open_issues_count": 4,
+    "forks_count": 340,
+    "open_issues_count": 5,
     "created_at": "2026-01-15T19:45:23Z",
-    "updated_at": "2026-01-22T02:29:11Z",
+    "updated_at": "2026-01-22T08:28:56Z",
     "pushed_at": "2026-01-21T21:50:40Z"
   },
   {
@@ -71,13 +71,32 @@
     "description": "Claude Code skill that removes signs of AI-generated writing from text",
     "topics": [],
     "html_url": "https://github.com/blader/humanizer",
-    "stargazers_count": 1960,
+    "stargazers_count": 2022,
     "language": null,
-    "forks_count": 149,
+    "forks_count": 151,
     "open_issues_count": 5,
     "created_at": "2026-01-18T05:30:15Z",
-    "updated_at": "2026-01-22T02:24:20Z",
+    "updated_at": "2026-01-22T08:22:44Z",
     "pushed_at": "2026-01-19T07:57:39Z"
+  },
+  {
+    "id": 1137741043,
+    "name": "original_performance_takehome",
+    "full_name": "anthropics/original_performance_takehome",
+    "owner": {
+      "login": "anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "description": "Anthropic's original performance take-home, now open for you to try!",
+    "topics": [],
+    "html_url": "https://github.com/anthropics/original_performance_takehome",
+    "stargazers_count": 1682,
+    "language": "Python",
+    "forks_count": 290,
+    "open_issues_count": 6,
+    "created_at": "2026-01-19T19:16:04Z",
+    "updated_at": "2026-01-22T08:27:36Z",
+    "pushed_at": "2026-01-22T01:11:08Z"
   },
   {
     "id": 1135260262,
@@ -96,32 +115,13 @@
       "ralphy"
     ],
     "html_url": "https://github.com/michaelshimeles/ralphy",
-    "stargazers_count": 1433,
+    "stargazers_count": 1482,
     "language": "TypeScript",
-    "forks_count": 174,
-    "open_issues_count": 20,
+    "forks_count": 182,
+    "open_issues_count": 24,
     "created_at": "2026-01-15T21:23:21Z",
-    "updated_at": "2026-01-22T02:22:15Z",
+    "updated_at": "2026-01-22T08:13:22Z",
     "pushed_at": "2026-01-22T01:52:22Z"
-  },
-  {
-    "id": 1137741043,
-    "name": "original_performance_takehome",
-    "full_name": "anthropics/original_performance_takehome",
-    "owner": {
-      "login": "anthropics",
-      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
-    },
-    "description": "Anthropic's original performance take-home, now open for you to try!",
-    "topics": [],
-    "html_url": "https://github.com/anthropics/original_performance_takehome",
-    "stargazers_count": 1371,
-    "language": "Python",
-    "forks_count": 234,
-    "open_issues_count": 4,
-    "created_at": "2026-01-19T19:16:04Z",
-    "updated_at": "2026-01-22T02:24:54Z",
-    "pushed_at": "2026-01-22T01:11:08Z"
   },
   {
     "id": 1134789517,
@@ -134,12 +134,12 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/HeartMuLa/heartlib",
-    "stargazers_count": 1294,
+    "stargazers_count": 1362,
     "language": "Python",
-    "forks_count": 156,
-    "open_issues_count": 37,
+    "forks_count": 164,
+    "open_issues_count": 40,
     "created_at": "2026-01-15T07:53:15Z",
-    "updated_at": "2026-01-22T02:22:33Z",
+    "updated_at": "2026-01-22T08:29:46Z",
     "pushed_at": "2026-01-21T15:08:38Z"
   },
   {
@@ -153,126 +153,13 @@
     "description": "A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.",
     "topics": [],
     "html_url": "https://github.com/blader/Claudeception",
-    "stargazers_count": 1240,
+    "stargazers_count": 1267,
     "language": "Shell",
-    "forks_count": 116,
-    "open_issues_count": 9,
-    "created_at": "2026-01-17T19:03:02Z",
-    "updated_at": "2026-01-22T02:26:41Z",
-    "pushed_at": "2026-01-18T23:20:45Z"
-  },
-  {
-    "id": 1135473927,
-    "name": "ralph-claude-code",
-    "full_name": "DmitrySolana/ralph-claude-code",
-    "owner": {
-      "login": "DmitrySolana",
-      "avatar_url": "https://avatars.githubusercontent.com/u/14211560?v=4"
-    },
-    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
-    "topics": [
-      "ai-agent",
-      "ai-agents",
-      "claude-code",
-      "claude-code-cli",
-      "development-tools",
-      "development-workflow"
-    ],
-    "html_url": "https://github.com/DmitrySolana/ralph-claude-code",
-    "stargazers_count": 1146,
-    "language": "Shell",
-    "forks_count": 94,
-    "open_issues_count": 0,
-    "created_at": "2026-01-16T06:32:50Z",
-    "updated_at": "2026-01-22T02:17:13Z",
-    "pushed_at": "2026-01-16T06:39:01Z"
-  },
-  {
-    "id": 1136984342,
-    "name": "flux2.c",
-    "full_name": "antirez/flux2.c",
-    "owner": {
-      "login": "antirez",
-      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
-    },
-    "description": "Flux 2 image generation model pure C inference",
-    "topics": [],
-    "html_url": "https://github.com/antirez/flux2.c",
-    "stargazers_count": 1038,
-    "language": "C",
-    "forks_count": 56,
-    "open_issues_count": 5,
-    "created_at": "2026-01-18T17:55:48Z",
-    "updated_at": "2026-01-22T02:17:06Z",
-    "pushed_at": "2026-01-21T23:41:25Z"
-  },
-  {
-    "id": 1137212306,
-    "name": "Humanizer-zh",
-    "full_name": "op7418/Humanizer-zh",
-    "owner": {
-      "login": "op7418",
-      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
-    },
-    "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
-    "topics": [],
-    "html_url": "https://github.com/op7418/Humanizer-zh",
-    "stargazers_count": 978,
-    "language": null,
-    "forks_count": 114,
-    "open_issues_count": 1,
-    "created_at": "2026-01-19T04:23:44Z",
-    "updated_at": "2026-01-22T02:23:54Z",
-    "pushed_at": "2026-01-19T07:46:35Z"
-  },
-  {
-    "id": 1137026567,
-    "name": "FineTune",
-    "full_name": "ronitsingh10/FineTune",
-    "owner": {
-      "login": "ronitsingh10",
-      "avatar_url": "https://avatars.githubusercontent.com/u/70445944?v=4"
-    },
-    "description": "FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ",
-    "topics": [
-      "audio",
-      "audio-utility",
-      "macos",
-      "macos-app",
-      "menu-bar",
-      "menubar",
-      "menubar-app",
-      "swift",
-      "swiftui",
-      "utility"
-    ],
-    "html_url": "https://github.com/ronitsingh10/FineTune",
-    "stargazers_count": 941,
-    "language": "Swift",
-    "forks_count": 41,
-    "open_issues_count": 27,
-    "created_at": "2026-01-18T19:29:15Z",
-    "updated_at": "2026-01-22T02:27:02Z",
-    "pushed_at": "2026-01-22T01:46:17Z"
-  },
-  {
-    "id": 1137411798,
-    "name": "craft-agents-oss",
-    "full_name": "lukilabs/craft-agents-oss",
-    "owner": {
-      "login": "lukilabs",
-      "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
-    },
-    "description": null,
-    "topics": [],
-    "html_url": "https://github.com/lukilabs/craft-agents-oss",
-    "stargazers_count": 929,
-    "language": "TypeScript",
     "forks_count": 119,
-    "open_issues_count": 16,
-    "created_at": "2026-01-19T10:35:59Z",
-    "updated_at": "2026-01-22T02:28:45Z",
-    "pushed_at": "2026-01-21T20:07:21Z"
+    "open_issues_count": 10,
+    "created_at": "2026-01-17T19:03:02Z",
+    "updated_at": "2026-01-22T07:42:28Z",
+    "pushed_at": "2026-01-18T23:20:45Z"
   },
   {
     "id": 1136039994,
@@ -303,13 +190,126 @@
       "webgpu-shaders"
     ],
     "html_url": "https://github.com/ChartGPU/ChartGPU",
-    "stargazers_count": 929,
+    "stargazers_count": 1209,
     "language": "TypeScript",
-    "forks_count": 20,
-    "open_issues_count": 1,
+    "forks_count": 30,
+    "open_issues_count": 2,
     "created_at": "2026-01-17T00:52:00Z",
-    "updated_at": "2026-01-22T02:29:39Z",
-    "pushed_at": "2026-01-21T22:24:00Z"
+    "updated_at": "2026-01-22T08:28:15Z",
+    "pushed_at": "2026-01-22T03:57:16Z"
+  },
+  {
+    "id": 1135473927,
+    "name": "ralph-claude-code",
+    "full_name": "DmitrySolana/ralph-claude-code",
+    "owner": {
+      "login": "DmitrySolana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14211560?v=4"
+    },
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "claude-code",
+      "claude-code-cli",
+      "development-tools",
+      "development-workflow"
+    ],
+    "html_url": "https://github.com/DmitrySolana/ralph-claude-code",
+    "stargazers_count": 1150,
+    "language": "Shell",
+    "forks_count": 94,
+    "open_issues_count": 0,
+    "created_at": "2026-01-16T06:32:50Z",
+    "updated_at": "2026-01-22T06:42:48Z",
+    "pushed_at": "2026-01-16T06:39:01Z"
+  },
+  {
+    "id": 1136984342,
+    "name": "flux2.c",
+    "full_name": "antirez/flux2.c",
+    "owner": {
+      "login": "antirez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
+    },
+    "description": "Flux 2 image generation model pure C inference",
+    "topics": [],
+    "html_url": "https://github.com/antirez/flux2.c",
+    "stargazers_count": 1047,
+    "language": "C",
+    "forks_count": 57,
+    "open_issues_count": 5,
+    "created_at": "2026-01-18T17:55:48Z",
+    "updated_at": "2026-01-22T06:47:42Z",
+    "pushed_at": "2026-01-22T02:33:49Z"
+  },
+  {
+    "id": 1137212306,
+    "name": "Humanizer-zh",
+    "full_name": "op7418/Humanizer-zh",
+    "owner": {
+      "login": "op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
+    "topics": [],
+    "html_url": "https://github.com/op7418/Humanizer-zh",
+    "stargazers_count": 1019,
+    "language": null,
+    "forks_count": 116,
+    "open_issues_count": 1,
+    "created_at": "2026-01-19T04:23:44Z",
+    "updated_at": "2026-01-22T08:27:09Z",
+    "pushed_at": "2026-01-19T07:46:35Z"
+  },
+  {
+    "id": 1137026567,
+    "name": "FineTune",
+    "full_name": "ronitsingh10/FineTune",
+    "owner": {
+      "login": "ronitsingh10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70445944?v=4"
+    },
+    "description": "FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ",
+    "topics": [
+      "audio",
+      "audio-utility",
+      "macos",
+      "macos-app",
+      "menu-bar",
+      "menubar",
+      "menubar-app",
+      "swift",
+      "swiftui",
+      "utility"
+    ],
+    "html_url": "https://github.com/ronitsingh10/FineTune",
+    "stargazers_count": 965,
+    "language": "Swift",
+    "forks_count": 43,
+    "open_issues_count": 28,
+    "created_at": "2026-01-18T19:29:15Z",
+    "updated_at": "2026-01-22T07:59:50Z",
+    "pushed_at": "2026-01-22T01:46:17Z"
+  },
+  {
+    "id": 1137411798,
+    "name": "craft-agents-oss",
+    "full_name": "lukilabs/craft-agents-oss",
+    "owner": {
+      "login": "lukilabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/lukilabs/craft-agents-oss",
+    "stargazers_count": 956,
+    "language": "TypeScript",
+    "forks_count": 124,
+    "open_issues_count": 19,
+    "created_at": "2026-01-19T10:35:59Z",
+    "updated_at": "2026-01-22T08:25:42Z",
+    "pushed_at": "2026-01-21T20:07:21Z"
   },
   {
     "id": 1135179558,
@@ -329,13 +329,13 @@
       "orchestration"
     ],
     "html_url": "https://github.com/alvinunreal/oh-my-opencode-slim",
-    "stargazers_count": 863,
+    "stargazers_count": 872,
     "language": "TypeScript",
-    "forks_count": 56,
-    "open_issues_count": 26,
+    "forks_count": 59,
+    "open_issues_count": 27,
     "created_at": "2026-01-15T18:45:08Z",
-    "updated_at": "2026-01-22T01:22:32Z",
-    "pushed_at": "2026-01-21T23:37:45Z"
+    "updated_at": "2026-01-22T07:51:15Z",
+    "pushed_at": "2026-01-22T08:29:23Z"
   },
   {
     "id": 1135454024,
@@ -348,12 +348,12 @@
     "description": "stfu",
     "topics": [],
     "html_url": "https://github.com/Pankajtanwarbanna/stfu",
-    "stargazers_count": 822,
+    "stargazers_count": 832,
     "language": "HTML",
     "forks_count": 49,
     "open_issues_count": 3,
     "created_at": "2026-01-16T05:48:40Z",
-    "updated_at": "2026-01-22T02:09:01Z",
+    "updated_at": "2026-01-22T07:33:10Z",
     "pushed_at": "2026-01-17T04:09:17Z"
   },
   {
@@ -383,12 +383,12 @@
       "tradingbot"
     ],
     "html_url": "https://github.com/devWorld335/polymarket-copy-trading-bot",
-    "stargazers_count": 776,
+    "stargazers_count": 764,
     "language": "TypeScript",
-    "forks_count": 731,
+    "forks_count": 743,
     "open_issues_count": 1,
     "created_at": "2026-01-16T15:39:06Z",
-    "updated_at": "2026-01-22T02:28:23Z",
+    "updated_at": "2026-01-22T08:30:01Z",
     "pushed_at": "2026-01-20T20:30:37Z"
   },
   {
@@ -402,12 +402,12 @@
     "description": "It's Vibecraft!",
     "topics": [],
     "html_url": "https://github.com/Nearcyan/vibecraft",
-    "stargazers_count": 683,
+    "stargazers_count": 688,
     "language": "TypeScript",
-    "forks_count": 119,
-    "open_issues_count": 23,
+    "forks_count": 120,
+    "open_issues_count": 24,
     "created_at": "2026-01-18T17:38:15Z",
-    "updated_at": "2026-01-22T02:20:51Z",
+    "updated_at": "2026-01-22T08:18:48Z",
     "pushed_at": "2026-01-18T17:57:19Z"
   },
   {
@@ -421,12 +421,12 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/openresponses/openresponses",
-    "stargazers_count": 628,
+    "stargazers_count": 634,
     "language": "TypeScript",
     "forks_count": 41,
-    "open_issues_count": 19,
+    "open_issues_count": 22,
     "created_at": "2026-01-15T01:53:57Z",
-    "updated_at": "2026-01-22T01:34:15Z",
+    "updated_at": "2026-01-22T07:57:06Z",
     "pushed_at": "2026-01-20T23:47:36Z"
   },
   {
@@ -458,12 +458,12 @@
       "tradingbot"
     ],
     "html_url": "https://github.com/dexorynlabs/polymarket-trading-bot-ts",
-    "stargazers_count": 571,
+    "stargazers_count": 577,
     "language": "TypeScript",
-    "forks_count": 570,
+    "forks_count": 592,
     "open_issues_count": 0,
     "created_at": "2026-01-19T14:26:13Z",
-    "updated_at": "2026-01-22T02:25:01Z",
+    "updated_at": "2026-01-22T08:29:49Z",
     "pushed_at": "2026-01-21T18:28:25Z"
   }
 ]
