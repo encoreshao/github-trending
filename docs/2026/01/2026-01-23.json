@@ -19,13 +19,13 @@
       "productivity"
     ],
     "html_url": "https://github.com/affaan-m/everything-claude-code",
-    "stargazers_count": 17606,
-    "language": "Shell",
-    "forks_count": 2130,
-    "open_issues_count": 2,
+    "stargazers_count": 19375,
+    "language": "JavaScript",
+    "forks_count": 2354,
+    "open_issues_count": 1,
     "created_at": "2026-01-18T00:51:51Z",
-    "updated_at": "2026-01-23T02:29:54Z",
-    "pushed_at": "2026-01-23T00:45:14Z"
+    "updated_at": "2026-01-23T08:29:48Z",
+    "pushed_at": "2026-01-23T07:14:23Z"
   },
   {
     "id": 1137846174,
@@ -38,12 +38,12 @@
     "description": "Algorithm powering the For You feed on X",
     "topics": [],
     "html_url": "https://github.com/xai-org/x-algorithm",
-    "stargazers_count": 12015,
+    "stargazers_count": 12478,
     "language": "Rust",
-    "forks_count": 2061,
+    "forks_count": 2126,
     "open_issues_count": 0,
     "created_at": "2026-01-19T23:12:35Z",
-    "updated_at": "2026-01-23T02:29:16Z",
+    "updated_at": "2026-01-23T08:29:04Z",
     "pushed_at": "2026-01-20T02:31:49Z"
   },
   {
@@ -57,12 +57,12 @@
     "description": "Anthropic's original performance take-home, now open for you to try!",
     "topics": [],
     "html_url": "https://github.com/anthropics/original_performance_takehome",
-    "stargazers_count": 2351,
+    "stargazers_count": 2465,
     "language": "Python",
-    "forks_count": 434,
+    "forks_count": 465,
     "open_issues_count": 6,
     "created_at": "2026-01-19T19:16:04Z",
-    "updated_at": "2026-01-23T02:29:28Z",
+    "updated_at": "2026-01-23T08:24:37Z",
     "pushed_at": "2026-01-22T01:11:08Z"
   },
   {
@@ -76,13 +76,13 @@
     "description": "Claude Code skill that removes signs of AI-generated writing from text",
     "topics": [],
     "html_url": "https://github.com/blader/humanizer",
-    "stargazers_count": 2292,
+    "stargazers_count": 2428,
     "language": null,
-    "forks_count": 180,
+    "forks_count": 191,
     "open_issues_count": 7,
     "created_at": "2026-01-18T05:30:15Z",
-    "updated_at": "2026-01-23T02:24:42Z",
-    "pushed_at": "2026-01-19T07:57:39Z"
+    "updated_at": "2026-01-23T08:27:50Z",
+    "pushed_at": "2026-01-23T02:46:43Z"
   },
   {
     "id": 1136039994,
@@ -113,12 +113,12 @@
       "webgpu-shaders"
     ],
     "html_url": "https://github.com/ChartGPU/ChartGPU",
-    "stargazers_count": 1760,
+    "stargazers_count": 1834,
     "language": "TypeScript",
-    "forks_count": 38,
+    "forks_count": 39,
     "open_issues_count": 2,
     "created_at": "2026-01-17T00:52:00Z",
-    "updated_at": "2026-01-23T02:19:22Z",
+    "updated_at": "2026-01-23T08:27:59Z",
     "pushed_at": "2026-01-22T03:57:16Z"
   },
   {
@@ -132,13 +132,70 @@
     "description": "A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.",
     "topics": [],
     "html_url": "https://github.com/blader/Claudeception",
-    "stargazers_count": 1327,
+    "stargazers_count": 1342,
     "language": "Shell",
-    "forks_count": 126,
+    "forks_count": 128,
     "open_issues_count": 10,
     "created_at": "2026-01-17T19:03:02Z",
-    "updated_at": "2026-01-23T02:15:33Z",
+    "updated_at": "2026-01-23T08:27:45Z",
     "pushed_at": "2026-01-22T13:19:40Z"
+  },
+  {
+    "id": 1138817132,
+    "name": "Qwen3-TTS",
+    "full_name": "QwenLM/Qwen3-TTS",
+    "owner": {
+      "login": "QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "description": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.",
+    "topics": [],
+    "html_url": "https://github.com/QwenLM/Qwen3-TTS",
+    "stargazers_count": 1218,
+    "language": "Python",
+    "forks_count": 95,
+    "open_issues_count": 8,
+    "created_at": "2026-01-21T06:41:32Z",
+    "updated_at": "2026-01-23T08:29:40Z",
+    "pushed_at": "2026-01-23T06:08:34Z"
+  },
+  {
+    "id": 1136984342,
+    "name": "flux2.c",
+    "full_name": "antirez/flux2.c",
+    "owner": {
+      "login": "antirez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
+    },
+    "description": "Flux 2 image generation model pure C inference",
+    "topics": [],
+    "html_url": "https://github.com/antirez/flux2.c",
+    "stargazers_count": 1178,
+    "language": "C",
+    "forks_count": 62,
+    "open_issues_count": 4,
+    "created_at": "2026-01-18T17:55:48Z",
+    "updated_at": "2026-01-23T08:27:24Z",
+    "pushed_at": "2026-01-22T22:26:10Z"
+  },
+  {
+    "id": 1137212306,
+    "name": "Humanizer-zh",
+    "full_name": "op7418/Humanizer-zh",
+    "owner": {
+      "login": "op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
+    "topics": [],
+    "html_url": "https://github.com/op7418/Humanizer-zh",
+    "stargazers_count": 1174,
+    "language": null,
+    "forks_count": 128,
+    "open_issues_count": 1,
+    "created_at": "2026-01-19T04:23:44Z",
+    "updated_at": "2026-01-23T08:28:59Z",
+    "pushed_at": "2026-01-19T07:46:35Z"
   },
   {
     "id": 1135473927,
@@ -167,44 +224,6 @@
     "pushed_at": "2026-01-16T06:39:01Z"
   },
   {
-    "id": 1136984342,
-    "name": "flux2.c",
-    "full_name": "antirez/flux2.c",
-    "owner": {
-      "login": "antirez",
-      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
-    },
-    "description": "Flux 2 image generation model pure C inference",
-    "topics": [],
-    "html_url": "https://github.com/antirez/flux2.c",
-    "stargazers_count": 1140,
-    "language": "C",
-    "forks_count": 60,
-    "open_issues_count": 4,
-    "created_at": "2026-01-18T17:55:48Z",
-    "updated_at": "2026-01-23T02:12:29Z",
-    "pushed_at": "2026-01-22T22:26:10Z"
-  },
-  {
-    "id": 1137212306,
-    "name": "Humanizer-zh",
-    "full_name": "op7418/Humanizer-zh",
-    "owner": {
-      "login": "op7418",
-      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
-    },
-    "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
-    "topics": [],
-    "html_url": "https://github.com/op7418/Humanizer-zh",
-    "stargazers_count": 1096,
-    "language": null,
-    "forks_count": 123,
-    "open_issues_count": 1,
-    "created_at": "2026-01-19T04:23:44Z",
-    "updated_at": "2026-01-23T02:24:21Z",
-    "pushed_at": "2026-01-19T07:46:35Z"
-  },
-  {
     "id": 1137026567,
     "name": "FineTune",
     "full_name": "ronitsingh10/FineTune",
@@ -226,12 +245,12 @@
       "utility"
     ],
     "html_url": "https://github.com/ronitsingh10/FineTune",
-    "stargazers_count": 1076,
+    "stargazers_count": 1103,
     "language": "Swift",
-    "forks_count": 47,
-    "open_issues_count": 29,
+    "forks_count": 48,
+    "open_issues_count": 30,
     "created_at": "2026-01-18T19:29:15Z",
-    "updated_at": "2026-01-23T02:22:02Z",
+    "updated_at": "2026-01-23T08:28:52Z",
     "pushed_at": "2026-01-22T18:16:55Z"
   },
   {
@@ -245,12 +264,12 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/lukilabs/craft-agents-oss",
-    "stargazers_count": 1003,
+    "stargazers_count": 1009,
     "language": "TypeScript",
-    "forks_count": 133,
-    "open_issues_count": 22,
+    "forks_count": 136,
+    "open_issues_count": 23,
     "created_at": "2026-01-19T10:35:59Z",
-    "updated_at": "2026-01-23T02:11:00Z",
+    "updated_at": "2026-01-23T05:51:59Z",
     "pushed_at": "2026-01-22T10:02:57Z"
   },
   {
@@ -264,51 +283,13 @@
     "description": "stfu",
     "topics": [],
     "html_url": "https://github.com/Pankajtanwarbanna/stfu",
-    "stargazers_count": 850,
+    "stargazers_count": 861,
     "language": "HTML",
     "forks_count": 50,
     "open_issues_count": 3,
     "created_at": "2026-01-16T05:48:40Z",
-    "updated_at": "2026-01-23T02:28:39Z",
+    "updated_at": "2026-01-23T08:20:22Z",
     "pushed_at": "2026-01-17T04:09:17Z"
-  },
-  {
-    "id": 1138817132,
-    "name": "Qwen3-TTS",
-    "full_name": "QwenLM/Qwen3-TTS",
-    "owner": {
-      "login": "QwenLM",
-      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
-    },
-    "description": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.",
-    "topics": [],
-    "html_url": "https://github.com/QwenLM/Qwen3-TTS",
-    "stargazers_count": 750,
-    "language": "Python",
-    "forks_count": 56,
-    "open_issues_count": 6,
-    "created_at": "2026-01-21T06:41:32Z",
-    "updated_at": "2026-01-23T02:28:43Z",
-    "pushed_at": "2026-01-22T15:34:41Z"
-  },
-  {
-    "id": 1136975697,
-    "name": "vibecraft",
-    "full_name": "Nearcyan/vibecraft",
-    "owner": {
-      "login": "Nearcyan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/69277934?v=4"
-    },
-    "description": "It's Vibecraft!",
-    "topics": [],
-    "html_url": "https://github.com/Nearcyan/vibecraft",
-    "stargazers_count": 712,
-    "language": "TypeScript",
-    "forks_count": 129,
-    "open_issues_count": 24,
-    "created_at": "2026-01-18T17:38:15Z",
-    "updated_at": "2026-01-23T02:20:11Z",
-    "pushed_at": "2026-01-18T17:57:19Z"
   },
   {
     "id": 1137798986,
@@ -321,13 +302,51 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/CloudAI-X/threejs-skills",
-    "stargazers_count": 670,
+    "stargazers_count": 737,
     "language": null,
-    "forks_count": 93,
+    "forks_count": 96,
     "open_issues_count": 1,
     "created_at": "2026-01-19T21:15:21Z",
-    "updated_at": "2026-01-23T02:28:32Z",
+    "updated_at": "2026-01-23T08:13:27Z",
     "pushed_at": "2026-01-19T21:15:32Z"
+  },
+  {
+    "id": 1136975697,
+    "name": "vibecraft",
+    "full_name": "Nearcyan/vibecraft",
+    "owner": {
+      "login": "Nearcyan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69277934?v=4"
+    },
+    "description": "It's Vibecraft!",
+    "topics": [],
+    "html_url": "https://github.com/Nearcyan/vibecraft",
+    "stargazers_count": 721,
+    "language": "TypeScript",
+    "forks_count": 131,
+    "open_issues_count": 25,
+    "created_at": "2026-01-18T17:38:15Z",
+    "updated_at": "2026-01-23T07:58:46Z",
+    "pushed_at": "2026-01-18T17:57:19Z"
+  },
+  {
+    "id": 1136608164,
+    "name": "agentation",
+    "full_name": "benjitaylor/agentation",
+    "owner": {
+      "login": "benjitaylor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30378142?v=4"
+    },
+    "description": "The visual feedback tool for agents.",
+    "topics": [],
+    "html_url": "https://github.com/benjitaylor/agentation",
+    "stargazers_count": 708,
+    "language": "TypeScript",
+    "forks_count": 47,
+    "open_issues_count": 8,
+    "created_at": "2026-01-18T02:01:24Z",
+    "updated_at": "2026-01-23T08:24:57Z",
+    "pushed_at": "2026-01-23T07:12:00Z"
   },
   {
     "id": 1136799205,
@@ -346,12 +365,12 @@
       "wails"
     ],
     "html_url": "https://github.com/spotiverse/SpotiFLAC-Next",
-    "stargazers_count": 646,
+    "stargazers_count": 657,
     "language": null,
     "forks_count": 11,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "created_at": "2026-01-18T11:34:00Z",
-    "updated_at": "2026-01-23T02:14:51Z",
+    "updated_at": "2026-01-23T08:07:24Z",
     "pushed_at": "2026-01-22T13:54:45Z"
   },
   {
@@ -365,12 +384,12 @@
     "description": "DN_SuperBook_PDF_Converter - スキャン書籍 PDF をデジタル書籍並みに大変クリアに読みやすくする AI PDF 高品質化・各種調整ツール",
     "topics": [],
     "html_url": "https://github.com/dnobori/DN_SuperBook_PDF_Converter",
-    "stargazers_count": 612,
+    "stargazers_count": 633,
     "language": "C#",
-    "forks_count": 20,
+    "forks_count": 22,
     "open_issues_count": 1,
     "created_at": "2026-01-18T02:48:31Z",
-    "updated_at": "2026-01-23T02:28:57Z",
+    "updated_at": "2026-01-23T08:17:24Z",
     "pushed_at": "2026-01-22T10:20:51Z"
   },
   {
@@ -384,12 +403,12 @@
     "description": null,
     "topics": [],
     "html_url": "https://github.com/browser-use/agent-sdk",
-    "stargazers_count": 546,
+    "stargazers_count": 549,
     "language": "Python",
     "forks_count": 38,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "created_at": "2026-01-16T06:25:43Z",
-    "updated_at": "2026-01-23T01:14:11Z",
+    "updated_at": "2026-01-23T07:57:20Z",
     "pushed_at": "2026-01-16T06:27:22Z"
   },
   {
@@ -418,31 +437,12 @@
       "websocket"
     ],
     "html_url": "https://github.com/majcheradam/ocrbase",
-    "stargazers_count": 514,
+    "stargazers_count": 525,
     "language": "TypeScript",
     "forks_count": 31,
     "open_issues_count": 8,
     "created_at": "2026-01-20T00:42:56Z",
-    "updated_at": "2026-01-23T01:38:14Z",
+    "updated_at": "2026-01-23T08:25:06Z",
     "pushed_at": "2026-01-22T03:10:57Z"
-  },
-  {
-    "id": 1136608164,
-    "name": "agentation",
-    "full_name": "benjitaylor/agentation",
-    "owner": {
-      "login": "benjitaylor",
-      "avatar_url": "https://avatars.githubusercontent.com/u/30378142?v=4"
-    },
-    "description": "The visual feedback tool for agents.",
-    "topics": [],
-    "html_url": "https://github.com/benjitaylor/agentation",
-    "stargazers_count": 509,
-    "language": "TypeScript",
-    "forks_count": 39,
-    "open_issues_count": 8,
-    "created_at": "2026-01-18T02:01:24Z",
-    "updated_at": "2026-01-23T02:29:04Z",
-    "pushed_at": "2026-01-23T01:39:06Z"
   }
 ]
