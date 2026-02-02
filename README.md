@@ -1,304 +1,181 @@
-# GitHub Trending - Discover the Most Popular Repositories
+# GitHub Trending
 
-A modern, Apple-inspired web application for discovering and analyzing trending GitHub repositories. Features a beautiful homepage, subscription system, and live demo with comprehensive repository analysis tools.
+> Discover and analyze trending GitHub repositories with a beautiful, modern interface.
 
-**Languages / 语言**: [English](README.md) | [中文](README-zh.md)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-18-61dafb.svg)](https://reactjs.org/)
 
----
+**[Live Demo](https://github.ranbot.online)** · **[Report Bug](https://github.com/encoreshao/github-trending/issues)** · **[Request Feature](https://github.com/encoreshao/github-trending/issues)**
 
-## ✨ Features
-
-### 🏠 **Modern Website Experience**
-- **Apple-Style Design**: Clean, professional interface with smooth animations
-- **Homepage**: Compelling landing page with feature highlights and call-to-actions
-- **Subscription System**: Category-based subscription with 18+ technology categories
-- **Live Demo**: Interactive demonstration of the trending repository analysis tool
-- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
-
-### 🔍 **Repository Analysis Tool**
-- **Real-time Data**: Fetch trending repositories with live GitHub API integration
-- **Dual View Modes**: Table view for detailed data and Card view for visual browsing
-- **Smart Filtering**: Advanced filtering by categories, keywords, and attributes
-- **Export Capabilities**: Export data as CSV, JSON, or copy to clipboard
-- **Customizable Fields**: Select from 20+ repository attributes to display
-- **Bilingual Support**: Full English and Chinese language support
-
-### 📊 **CLI Script (Legacy)**
-- **Automated Fetching**: Fetches top 20 trending GitHub repositories
-- **Multiple Output Formats**: Saves data as Markdown, JSON, and CSV files
-- **Cron Automation**: Can be automated via cron for daily data collection
+[English](README.md) | [中文](README-zh.md)
 
 ---
 
-## 🚀 Quick Start
+## Overview
 
-### Modern Web Application
+A modern web application for discovering trending GitHub repositories. Features real-time data fetching, multiple view modes, export capabilities, and a sleek dark theme interface.
 
-1. **Install dependencies**
-   ```bash
-   npm install
-   ```
+### Key Features
 
-2. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-3. **Explore the website**
-   - **Homepage**: Visit [http://localhost:5173](http://localhost:5173) for the landing page
-   - **Subscribe**: Navigate to `/subscribe` to choose your technology categories
-   - **Live Demo**: Visit `/demo` to try the repository analysis tool
-
-4. **Get a GitHub Token** (for demo functionality)
-   - Go to [GitHub Settings > Developer settings > Personal access tokens](https://github.com/settings/tokens)
-   - Generate a new token with `public_repo` scope
-   - Enter the token in the demo application
+| Feature | Description |
+|---------|-------------|
+| **Real-time Data** | Live GitHub API integration for trending repositories |
+| **Dual View Modes** | Table view for data analysis, Card view for visual browsing |
+| **Smart Filtering** | Filter by categories, keywords, and 20+ attributes |
+| **Export Options** | Download as CSV, JSON, or copy to clipboard |
+| **Dark Theme** | Modern glassmorphism design with smooth animations |
+| **Bilingual** | Full English and Chinese language support |
 
 ---
 
-## 🌐 Website Structure
+## Quick Start
 
-### 📄 **Pages**
-- **`/`** - **Homepage**: Landing page with feature highlights and navigation
-- **`/subscribe`** - **Subscription**: Category selection for personalized updates
-- **`/demo`** - **Live Demo**: Interactive repository analysis tool
+### Prerequisites
 
-### 🎨 **Design System**
-- **Apple-Inspired UI**: Clean typography, subtle animations, and professional color scheme
-- **Consistent Button Style**: Transparent backgrounds with blue borders and hover effects
-- **Responsive Layout**: Optimized for all screen sizes
-- **Modern Icons**: Ant Design icon library with semantic meaning
+- Node.js 16+
+- GitHub Personal Access Token ([Get one here](https://github.com/settings/tokens))
 
-### 🔧 **Technology Stack**
-- **React 18** with Vite for fast development
-- **React Router** for client-side navigation
-- **Ant Design 5** for UI components
-- **CSS Modules** for scoped styling
-- **GitHub API** for real-time repository data
+### Installation
 
-### Build for Production
 ```bash
-npm run build
+# Clone the repository
+git clone https://github.com/encoreshao/github-trending.git
+cd github-trending
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
 ```
 
-### Node.js CLI Script
+Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-1. **Set up your environment**
-   - Create a `.env` file in the project root:
-     ```env
-     GITHUB_TOKEN=your_github_token
-     ```
+### Using the App
 
-2. **Run the script**
-   ```bash
-   node index.js
-   ```
-   - Trending data will be saved in the `docs/YYYY/MM/` directory structure (e.g., `docs/2024/01/`) as Markdown, JSON, and CSV files
-   - Year and month folders are automatically created if they don't exist
-
-3. **Automate with cron** (Optional)
-   ```bash
-   # Add to crontab for daily execution at 9 AM
-   0 9 * * * cd /path/to/github-trending && node index.js
-   ```
+1. Navigate to **Live Demo** (`/demo`)
+2. Enter your GitHub token in the Settings panel
+3. Select the fields you want to display
+4. Click **Fetch Data** to load trending repositories
+5. Switch between Table and Card views
+6. Export your data as needed
 
 ---
 
-## 🛠 Tech Stack
+## Pages
 
-### Web Application
-- **Frontend**: React 18, Ant Design 5, Vite
-- **Styling**: CSS3 with modern grid layouts and responsive design
-- **Data Processing**: axios, file-saver, papaparse, react-copy-to-clipboard
-- **Build Tool**: Vite for fast development and optimized production builds
-
-### Node.js Script
-- **Runtime**: Node.js
-- **HTTP Client**: axios
-- **File System**: fs-extra
-- **Data Processing**: json2csv
-- **Environment**: dotenv
+| Route | Description |
+|-------|-------------|
+| `/` | Homepage with feature highlights |
+| `/demo` | Interactive repository analysis tool |
+| `/subscribe` | Category-based subscription setup |
 
 ---
 
-## 📁 Project Structure
+## Tech Stack
+
+- **Frontend:** React 18, Vite, Ant Design 5
+- **Styling:** CSS3 with glassmorphism effects
+- **API:** GitHub REST API
+- **Data:** axios, papaparse, file-saver
+
+---
+
+## Project Structure
 
 ```
-.
-├── favicon.ico
-├── index.html
-├── index.js
-├── NOTEBOOK-README.md
-├── notebooks
-│   ├── chromadb.ipynb
-│   └── repos.ipynb
-├── package-lock.json
-├── package.json
-├── README-zh.md
-├── README.md
-├── scripts
-│   └── run.sh
-└── src
-    ├── api
-    │   └── github.js
-    ├── App.css
-    ├── App.jsx
-    ├── components
-    │   ├── AttributeSelector.jsx
-    │   ├── Footer.css
-    │   ├── Footer.jsx
-    │   ├── Header.css
-    │   ├── Header.jsx
-    │   ├── RepoCardView.jsx
-    │   ├── RepoTable.jsx
-    │   ├── SettingsPanel.jsx
-    │   └── TokenInput.jsx
-    ├── locales
-    │   └── index.js
-    ├── main.jsx
-    ├── NewApp.css
-    ├── NewApp.jsx
-    ├── pages
-    │   ├── DemoPage.css
-    │   ├── DemoPage.jsx
-    │   ├── DemoPageGlobal.css
-    │   ├── HomePage.css
-    │   ├── HomePage.jsx
-    │   ├── SubscriptionPage.css
-    │   └── SubscriptionPage.jsx
-    └── utils
-        └── csvLoader.js
+src/
+├── api/           # GitHub API integration
+├── components/    # Reusable UI components
+│   ├── Header     # Navigation bar
+│   ├── Footer     # Site footer
+│   ├── RepoTable  # Table view component
+│   ├── RepoCard   # Card view component
+│   └── Settings   # Configuration panel
+├── pages/         # Route pages
+│   ├── HomePage
+│   ├── DemoPage
+│   └── SubscriptionPage
+├── locales/       # i18n translations
+└── utils/         # Helper functions
 ```
 
 ---
 
-## 🎯 Usage Guide
+## CLI Script (Optional)
 
-### Web Application Features
+For automated data collection:
 
-1. **Settings Panel** (Left Sidebar)
-   - **GitHub Token**: Enter your personal access token
-   - **Field Selection**: Choose which repository attributes to display
-   - **Page Size**: Set number of repositories per page (1-100)
-   - **Category Filter**: Filter by specific keywords or categories
-   - **Language**: Switch between English and 中文
+```bash
+# Set up environment
+echo "GITHUB_TOKEN=your_token" > .env
 
-2. **Data Display** (Main Area)
-   - **View Modes**: Toggle between Table and Card views
-   - **Table View**: Detailed tabular data with sortable columns
-   - **Card View**: Visual cards with repository information
-   - **Export Options**: CSV, JSON, or copy to clipboard
+# Run the script
+node index.js
+```
 
-3. **Available Fields**
-   - Repository name, stars, owner, avatar
-   - Description, topics, URLs (HTML, Git, SSH, Clone, SVN)
-   - Creation/update/push dates
-   - Size, language, forks, issues, license
-   - Default branch and homepage
+Output files are saved to `docs/YYYY/MM/` as Markdown, JSON, and CSV.
 
-### Node.js Script Output
+### Automate with Cron
 
-The CLI script generates three types of files organized by year and month in the `docs/YYYY/MM/` directory structure:
-
-**File Organization:**
-- Files are automatically organized into year/month folders (e.g., `docs/2024/01/`)
-- Year and month folders are created automatically if they don't exist
-- This keeps your data organized and makes it easier to find files by date
-
-**Output Files:**
-
-1. **Markdown Files** (`docs/YYYY/MM/YYYY-MM-DD.md` and `docs/YYYY/MM/YYYY-MM-DD-table.md`)
-   - Detailed repository information
-   - Table format for easy reading
-   - Includes all metadata
-
-2. **JSON File** (`docs/YYYY/MM/YYYY-MM-DD.json`)
-   - Structured data for programmatic use
-   - Selected fields only for efficiency
-
-3. **CSV File** (`docs/YYYY/MM/YYYY-MM-DD.csv`)
-   - Spreadsheet-compatible format
-   - All repository fields included
+```bash
+# Daily at 9 AM
+0 9 * * * cd /path/to/github-trending && node index.js
+```
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
-### Web Application
-- Settings are automatically saved in browser localStorage
-- Token is stored securely (not transmitted to external servers)
-- Field selections persist between sessions
+### Web App Settings
 
-### Node.js Script
-- Configure via `.env` file
-- Modify `index.js` to change output formats or fields
-- Adjust date range by modifying `getLastWeekDate()` function
+Settings are automatically saved in localStorage:
 
----
+- **GitHub Token** - Your personal access token (stored locally)
+- **Display Fields** - Choose from 20+ repository attributes
+- **Page Size** - Number of repos per page (1-100)
+- **Language** - English or Chinese
 
-## 🔧 Customization
+### Available Fields
 
-### Adding New Fields
-1. **Web Application**: Edit `src/components/AttributeSelector.jsx`
-2. **Node.js Script**: Modify the `fields` array in `saveReposToCsv()`
-
-### Styling Changes
-- **Web Application**: Modify `src/App.css` for custom styling
-- **Card Layout**: Adjust grid settings in `.grid` class
-- **Colors**: Update CSS custom properties
-
-### API Modifications
-- **Web Application**: Extend `src/api/github.js` for additional GitHub API endpoints
-- **Node.js Script**: Modify the search query in `fetchTrendingRepos()`
+| Basic | URLs | Dates | Stats |
+|-------|------|-------|-------|
+| Name | HTML URL | Created | Stars |
+| Owner | Git URL | Updated | Forks |
+| Avatar | SSH URL | Pushed | Issues |
+| Description | Clone URL | | Size |
+| Topics | SVN URL | | Language |
+| License | Homepage | | |
 
 ---
 
-## 📋 Requirements
+## Troubleshooting
 
-- **Node.js**: Version 16 or higher
-- **GitHub Token**: Personal Access Token with `public_repo` scope
-- **Browser**: Modern browser with ES6+ support
-
----
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-1. **Rate Limit Exceeded**
-   - Ensure you have a valid GitHub token
-   - Check token permissions include `public_repo` scope
-
-2. **No Data Returned**
-   - Verify your token is correct
-   - Check network connectivity
-   - Ensure repositories exist for the date range
-
-3. **Build Errors**
-   - Clear node_modules and reinstall: `rm -rf node_modules && npm install`
-   - Check Node.js version compatibility
+| Issue | Solution |
+|-------|----------|
+| **Rate limit exceeded** | Ensure valid GitHub token with `public_repo` scope |
+| **No data returned** | Verify token and network connectivity |
+| **Build errors** | Run `rm -rf node_modules && npm install` |
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Make your changes
-4. Commit your changes: `git commit -m 'Add feature'`
-5. Push to the branch: `git push origin feature-name`
-6. Submit a pull request
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
 ---
 
-## 📄 License
+## License
 
-This project is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-## 🔗 Links
-
-- **GitHub Repository**: [https://github.com/encoreshao/github-trending](https://github.com/encoreshao/github-trending)
-- **Online Demo**: [https://github.ranbot.online](https://github.ranbot.online)
-- **Issues**: [Report bugs or request features](https://github.com/encoreshao/github-trending/issues)
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/encoreshao">RanBOT Labs</a>
+</p>
