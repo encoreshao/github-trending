@@ -1,7 +1,26 @@
 {
   "name": "github-trending-webtool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
+  "author": "Encore Shao",
+  "description": "A Web application for discovering and analyzing trending GitHub repositories. Features a beautiful homepage, subscription system, and live demo with comprehensive repository analysis tools.",
+  "license": "MIT",
+  "homepage": "https://github.com/encoreshao/github-trending",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/encoreshao/github-trending.git"
+  },
+  "bugs": {
+    "url": "https://github.com/encoreshao/github-trending/issues"
+  },
+  "keywords": [
+    "github",
+    "trending",
+    "webtool",
+    "encore"
+  ],
+  "main": "index.js",
+  "type": "module",
   "dependencies": {
     "antd": "^5.13.0",
     "axios": "^1.6.8",

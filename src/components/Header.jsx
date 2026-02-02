@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
-import { GithubOutlined } from '@ant-design/icons';
+import { GithubOutlined, StarOutlined } from '@ant-design/icons';
 import './Header.css';
 
 const Header = () => {
@@ -41,13 +41,13 @@ const Header = () => {
             <span>Subscribe</span>
           </a>
           <a
-            className="nav-link"
+            className="github-star-btn"
             href="https://github.com/encoreshao/github-trending"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fab fa-github"></i>
-            <span>GitHub</span>
+            <StarOutlined className="star-icon" />
+            <span>Star on GitHub</span>
           </a>
         </div>
       </nav>
