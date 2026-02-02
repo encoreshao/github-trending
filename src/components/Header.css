@@ -1,12 +1,19 @@
-/* Header Component Styles */
+/* Header Component Styles - Modern Dark Theme */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
 .header {
-  position: sticky;
-  top: 0;
+  position: fixed;
+  top: 16px;
+  left: 16px;
+  right: 16px;
   z-index: 100;
-  background: #0f172a;
+  background: rgba(15, 23, 42, 0.85);
   backdrop-filter: blur(20px);
-  border-bottom: 1px solid rgba(148, 163, 184, 0.1);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(51, 65, 85, 0.5);
+  border-radius: 16px;
+  box-shadow: 
+    0 4px 24px rgba(0, 0, 0, 0.3),
+    0 0 0 1px rgba(255, 255, 255, 0.05) inset;
 }
 
 .nav {
@@ -16,7 +23,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 70px;
+  height: 60px;
 }
 
 .nav-brand {
@@ -29,60 +36,82 @@
   align-items: center;
   gap: 12px;
   text-decoration: none;
-  color: #e5e7eb;
-  font-size: 20px;
+  color: #F1F5F9;
+  font-size: 18px;
   font-weight: 600;
-  transition: color 0.3s ease;
+  font-family: 'Space Grotesk', sans-serif;
+  transition: all 0.3s ease;
   cursor: pointer;
 }
 
 .brand-link:hover {
-  color: #60a5fa;
+  color: #60A5FA;
 }
 
 .brand-icon {
-  font-size: 28px;
-  color: #60a5fa;
+  font-size: 26px;
+  background: linear-gradient(135deg, #3B82F6 0%, #22D3EE 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 .brand-text {
   font-weight: 600;
+  letter-spacing: -0.02em;
 }
 
 .nav-links {
   display: flex;
   align-items: center;
-  gap: 32px;
+  gap: 8px;
 }
 
 .nav-link {
   display: flex;
   align-items: center;
   gap: 8px;
-  color: #94a3b8;
+  color: #94A3B8;
   text-decoration: none;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
-  transition: all 0.3s ease;
+  transition: all 0.25s ease;
   cursor: pointer;
-  padding: 8px 12px;
-  border-radius: 6px;
+  padding: 10px 16px;
+  border-radius: 10px;
+  border: 1px solid transparent;
 }
 
-.nav-link:hover,
+.nav-link:hover {
+  color: #F1F5F9;
+  background: rgba(59, 130, 246, 0.1);
+  border-color: rgba(59, 130, 246, 0.2);
+}
+
 .nav-link.active {
-  color: #60a5fa;
-  background: rgba(96, 165, 250, 0.1);
+  color: #60A5FA;
+  background: rgba(59, 130, 246, 0.15);
+  border-color: rgba(59, 130, 246, 0.3);
 }
 
 .nav-link i {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 /* Responsive */
 @media (max-width: 968px) {
+  .header {
+    top: 12px;
+    left: 12px;
+    right: 12px;
+  }
+
   .nav-links {
-    gap: 16px;
+    gap: 4px;
+  }
+
+  .nav-link {
+    padding: 8px 12px;
   }
 
   .nav-link span {
@@ -91,12 +120,27 @@
 }
 
 @media (max-width: 640px) {
+  .header {
+    top: 8px;
+    left: 8px;
+    right: 8px;
+    border-radius: 12px;
+  }
+
   .nav {
     padding: 0 16px;
+    height: 54px;
+  }
+
+  .brand-text {
+    display: none;
   }
 
   .nav-links {
-    gap: 8px;
+    gap: 2px;
+  }
+
+  .nav-link {
+    padding: 8px 10px;
   }
 }
-

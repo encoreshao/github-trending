@@ -1,105 +1,208 @@
-/* Demo Page CSS - Dark Theme */
-.demo-page {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  background: #0f172a;
-  min-height: 100vh;
-  color: #e5e7eb;
+/* Demo Page CSS - Modern Dark Theme with Glassmorphism */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+/* CSS Variables for consistent theming */
+:root {
+  --demo-primary: #3B82F6;
+  --demo-primary-light: #60A5FA;
+  --demo-primary-dark: #2563EB;
+  --demo-secondary: #1E293B;
+  --demo-background: #0F172A;
+  --demo-background-light: #1E293B;
+  --demo-text: #F1F5F9;
+  --demo-text-muted: #94A3B8;
+  --demo-border: #334155;
+  --demo-accent: #22D3EE;
+  --demo-success: #10B981;
+  --demo-warning: #F59E0B;
+  --demo-gradient-start: #3B82F6;
+  --demo-gradient-end: #22D3EE;
+  --demo-glass-bg: rgba(30, 41, 59, 0.6);
+  --demo-glass-border: rgba(148, 163, 184, 0.1);
 }
 
-/* Demo Header */
+.demo-page {
+  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: var(--demo-background);
+  min-height: 100vh;
+  color: var(--demo-text);
+}
+
+/* Demo Header - Hero Section */
 .demo-header {
-  background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
-  padding: 100px 0 60px;
-  border-bottom: 1px solid rgba(148, 163, 184, 0.1);
+  position: relative;
+  padding: 140px 0 80px;
+  overflow: hidden;
+}
+
+/* Animated background gradient */
+.demo-header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    radial-gradient(ellipse 80% 50% at 50% -20%, rgba(59, 130, 246, 0.3) 0%, transparent 50%),
+    radial-gradient(ellipse 60% 40% at 80% 50%, rgba(34, 211, 238, 0.15) 0%, transparent 50%),
+    radial-gradient(ellipse 60% 40% at 20% 80%, rgba(139, 92, 246, 0.1) 0%, transparent 50%);
+  animation: pulseGradient 8s ease-in-out infinite;
+}
+
+@keyframes pulseGradient {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+/* Grid pattern overlay */
+.demo-header::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    linear-gradient(rgba(148, 163, 184, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(148, 163, 184, 0.03) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
 }
 
 .demo-header-container {
+  position: relative;
+  z-index: 1;
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 24px;
   text-align: center;
 }
 
+/* Badge above title */
+.demo-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background: var(--demo-glass-bg);
+  border: 1px solid var(--demo-glass-border);
+  border-radius: 100px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--demo-accent);
+  margin-bottom: 24px;
+  backdrop-filter: blur(12px);
+}
+
+.demo-badge-dot {
+  width: 8px;
+  height: 8px;
+  background: var(--demo-success);
+  border-radius: 50%;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(1.2); }
+}
+
 .demo-title {
-  font-size: 48px;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 64px;
   font-weight: 700;
-  margin: 0 0 16px 0;
-  background: linear-gradient(135deg, #60a5fa 0%, #3b82f6 50%, #2563eb 100%);
+  margin: 0 0 20px 0;
+  background: linear-gradient(135deg, #FFFFFF 0%, #60A5FA 50%, #22D3EE 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
 }
 
 .demo-subtitle {
-  font-size: 21px;
-  color: #94a3b8;
-  margin: 0 0 40px 0;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
+  font-size: 20px;
+  color: var(--demo-text-muted);
+  margin: 0 auto 48px;
+  max-width: 640px;
+  line-height: 1.6;
 }
 
+/* Feature pills */
 .demo-features {
   display: flex;
   justify-content: center;
-  gap: 40px;
+  gap: 16px;
   flex-wrap: wrap;
 }
 
 .demo-feature {
   display: flex;
   align-items: center;
-  gap: 8px;
-  font-size: 16px;
-  color: #e5e7eb;
+  gap: 10px;
+  padding: 14px 24px;
+  background: var(--demo-glass-bg);
+  border: 1px solid var(--demo-glass-border);
+  border-radius: 12px;
+  backdrop-filter: blur(12px);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.demo-feature:hover {
+  background: rgba(59, 130, 246, 0.15);
+  border-color: rgba(59, 130, 246, 0.3);
+  transform: translateY(-2px);
+}
+
+.demo-feature span {
+  font-size: 15px;
   font-weight: 500;
-  padding: 12px 20px;
-  background: rgba(51, 65, 85, 0.3);
-  border-radius: 8px;
-  border: 1px solid rgba(148, 163, 184, 0.1);
+  color: var(--demo-text);
 }
 
 .feature-icon {
-  color: #60a5fa;
-  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: linear-gradient(135deg, var(--demo-primary) 0%, var(--demo-accent) 100%);
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
 }
 
 .feature-icon svg {
-  width: 18px;
-  height: 18px;
+  width: 16px;
+  height: 16px;
   fill: currentColor;
-  display: block;
 }
 
 .feature-icon .anticon {
-  font-size: 18px;
-  color: #60a5fa;
+  font-size: 16px;
+  color: white;
 }
 
-/* Demo Content */
+/* Demo Content Area */
 .demo-content {
-  background: #0f172a;
+  background: var(--demo-background);
   min-height: calc(100vh - 300px);
   position: relative;
 }
 
+/* Layout overrides */
 .demo-content .ant-layout {
   min-height: calc(100vh - 300px);
-  background: #0f172a;
+  background: var(--demo-background) !important;
 }
 
 .demo-content .ant-layout-sider {
-  background: #1e293b;
-  border-right: 1px solid rgba(148, 163, 184, 0.1);
-  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.2);
+  background: var(--demo-background-light) !important;
+  border-right: 1px solid var(--demo-border) !important;
 }
 
-.demo-content .ant-layout-content {
-  background: #0f172a;
-  padding: 16px;
-}
-
-/* Ensure the sidebar is visible and properly styled */
 .demo-content .ant-layout-sider-collapsed {
   width: 0 !important;
   min-width: 0 !important;
@@ -107,27 +210,55 @@
 }
 
 .demo-content .ant-layout-sider {
-  width: 320px !important;
-  min-width: 320px !important;
-  max-width: 320px !important;
+  width: 340px !important;
+  min-width: 340px !important;
+  max-width: 340px !important;
+}
+
+.demo-content .ant-layout-content {
+  background: var(--demo-background) !important;
+  padding: 24px !important;
 }
 
 /* Responsive Design */
 @media (max-width: 768px) {
+  .demo-header {
+    padding: 100px 0 60px;
+  }
+
   .demo-title {
-    font-size: 36px;
+    font-size: 40px;
   }
 
   .demo-subtitle {
-    font-size: 18px;
+    font-size: 17px;
+    padding: 0 16px;
   }
 
   .demo-features {
     flex-direction: column;
-    gap: 16px;
+    align-items: center;
+    gap: 12px;
   }
 
-  .demo-header {
-    padding: 80px 0 40px;
+  .demo-feature {
+    width: 100%;
+    max-width: 280px;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .demo-title {
+    font-size: 32px;
+  }
+
+  .demo-subtitle {
+    font-size: 15px;
+  }
+
+  .demo-badge {
+    font-size: 12px;
+    padding: 6px 12px;
   }
 }

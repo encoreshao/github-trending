@@ -1,5 +1,5 @@
 import React from 'react';
-import { SyncOutlined, FilterOutlined, ShareAltOutlined } from '@ant-design/icons';
+import { SyncOutlined, FilterOutlined, ExportOutlined } from '@ant-design/icons';
 import { useNavigate } from 'react-router-dom';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
@@ -18,23 +18,36 @@ const DemoPage = () => {
       {/* Demo Header */}
       <div className="demo-header">
         <div className="demo-header-container">
-          <h1 className="demo-title">Live Demo</h1>
+          {/* Live badge */}
+          <div className="demo-badge">
+            <span className="demo-badge-dot"></span>
+            <span>Live Demo</span>
+          </div>
+          
+          <h1 className="demo-title">Explore GitHub Trending</h1>
           <p className="demo-subtitle">
-            Experience the full power of GitHub Trending. This is a live demonstration
-            of our trending repository analysis tool.
+            Discover trending repositories in real-time. Filter by language, time period, 
+            and export your curated list with a single click.
           </p>
+          
           <div className="demo-features">
             <div className="demo-feature">
-              <SyncOutlined className="feature-icon" />
-              <span>Real-time GitHub data</span>
+              <div className="feature-icon">
+                <SyncOutlined />
+              </div>
+              <span>Real-time Data</span>
             </div>
             <div className="demo-feature">
-              <FilterOutlined className="feature-icon" />
-              <span>Advanced filtering</span>
+              <div className="feature-icon">
+                <FilterOutlined />
+              </div>
+              <span>Smart Filtering</span>
             </div>
             <div className="demo-feature">
-              <ShareAltOutlined className="feature-icon" />
-              <span>Export capabilities</span>
+              <div className="feature-icon">
+                <ExportOutlined />
+              </div>
+              <span>Export & Share</span>
             </div>
           </div>
         </div>

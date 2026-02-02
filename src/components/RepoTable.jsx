@@ -48,7 +48,7 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
           // owner 显示文本，双击复制
           return (
             <span
-              style={{ cursor: 'pointer' }}
+              style={{ cursor: 'pointer', color: '#94A3B8', fontWeight: 500 }}
               onDoubleClick={e => { e.preventDefault(); handleCellCopy(value); }}
               title={value}
             >
@@ -64,15 +64,23 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
           return (
             <a
               style={{
-                cursor: 'pointer', color: '#007bff',
-                textWrap: 'nowrap', overflow: 'hidden',
-                textOverflow: 'ellipsis', whiteSpace: 'nowrap',
-                wordBreak: 'break-all', display: 'block',
+                cursor: 'pointer', 
+                color: '#60A5FA',
+                textWrap: 'nowrap', 
+                overflow: 'hidden',
+                textOverflow: 'ellipsis', 
+                whiteSpace: 'nowrap',
+                wordBreak: 'break-all', 
+                display: 'block',
+                textDecoration: 'none',
+                transition: 'color 0.2s ease'
               }}
               href={value}
               target="_blank"
               rel="noopener noreferrer"
               title={value}
+              onMouseEnter={(e) => e.currentTarget.style.color = '#93C5FD'}
+              onMouseLeave={(e) => e.currentTarget.style.color = '#60A5FA'}
             >
               {value.replace(/(http|https):\/\/github\.com\//gi, '')}
             </a>
@@ -81,7 +89,7 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
         return (
           <span
             onDoubleClick={e => { e.preventDefault(); handleCellCopy(value); }}
-            style={{ cursor: 'pointer' }}
+            style={{ cursor: 'pointer', color: '#E2E8F0' }}
             title={value}
           >
             {value}
@@ -134,7 +142,14 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
   return (
     <div style={{ height: '90vh', display: 'flex', flexDirection: 'column' }}>
       {/* Action Bar */}
-      <div style={{ flex: '0 0 5%', minHeight: ACTION_HEIGHT, display: 'flex', alignItems: 'center' }}>
+      <div style={{ 
+        flex: '0 0 auto', 
+        minHeight: ACTION_HEIGHT, 
+        display: 'flex', 
+        alignItems: 'center',
+        padding: '16px 0',
+        borderBottom: '1px solid rgba(51, 65, 85, 0.5)'
+      }}>
         <Space>
           <Button onClick={handleExportCSV} disabled={!repos.length} style={{ padding: '0 10px' }}>{texts.exportCSV}</Button>
           <Button onClick={handleExportJSON} disabled={!repos.length} style={{ padding: '0 10px' }}>{texts.exportJSON}</Button>
@@ -147,22 +162,51 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
         </Space>
       </div>
       {/* Table (header + body) */}
-      <div style={{ flex: '1 1 90%', display: 'flex', flexDirection: 'column', minHeight: 0 }}>
+      <div style={{ 
+        flex: '1 1 90%', 
+        display: 'flex', 
+        flexDirection: 'column', 
+        minHeight: 0,
+        borderRadius: '12px',
+        overflow: 'hidden',
+        border: '1px solid rgba(51, 65, 85, 0.5)',
+        marginTop: '16px'
+      }}>
         <table style={{ width: '100%', borderCollapse: 'collapse', tableLayout: 'fixed' }}>
           <colgroup>
             {columns.map(col => (
               <col key={col.key} style={{ minWidth: 10 }} />
             ))}
           </colgroup>
-          <thead style={{ background: '#fafafa', borderBottom: '1px solid #eee', height: HEADER_HEIGHT }}>
+          <thead style={{ 
+            background: 'rgba(30, 41, 59, 0.8)', 
+            borderBottom: '1px solid rgba(51, 65, 85, 0.5)', 
+            height: HEADER_HEIGHT 
+          }}>
             <tr>
               {columns.map(col => (
-                <th key={col.key} style={{ minWidth: 10, fontWeight: 500, padding: '0 8px', textAlign: 'left', height: HEADER_HEIGHT }}>{col.title}</th>
+                <th key={col.key} style={{ 
+                  minWidth: 10, 
+                  fontWeight: 600, 
+                  padding: '12px 12px', 
+                  textAlign: 'left', 
+                  color: '#F1F5F9',
+                  fontFamily: "'Space Grotesk', sans-serif",
+                  fontSize: '13px',
+                  textTransform: 'uppercase',
+                  letterSpacing: '0.05em'
+                }}>{col.title}</th>
               ))}
             </tr>
           </thead>
         </table>
-        <div style={{ flex: 1, overflow: 'auto', minHeight: 0, maxHeight: bodyHeight }} ref={tableBodyRef}>
+        <div style={{ 
+          flex: 1, 
+          overflow: 'auto', 
+          minHeight: 0, 
+          maxHeight: bodyHeight,
+          background: 'rgba(15, 23, 42, 0.6)'
+        }} ref={tableBodyRef}>
           <table style={{ width: '100%', borderCollapse: 'collapse', tableLayout: 'fixed' }}>
             <colgroup>
               {columns.map(col => (
@@ -172,13 +216,33 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
             <tbody>
               {repos.length === 0 ? (
                 <tr>
-                  <td colSpan={columns.length} style={{ textAlign: 'center', color: '#888', padding: 32 }}>{texts.tableNoData}</td>
+                  <td colSpan={columns.length} style={{ 
+                    textAlign: 'center', 
+                    color: '#64748B', 
+                    padding: '64px 32px',
+                    fontSize: '16px'
+                  }}>{texts.tableNoData}</td>
                 </tr>
               ) : (
                 repos.slice(0, pageSize).map((row, rowIdx) => (
-                  <tr key={rowIdx} style={{ borderBottom: '1px solid #f0f0f0' }}>
+                  <tr 
+                    key={rowIdx} 
+                    style={{ 
+                      borderBottom: '1px solid rgba(51, 65, 85, 0.3)',
+                      transition: 'background 0.2s ease'
+                    }}
+                    onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(59, 130, 246, 0.08)'}
+                    onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
+                  >
                     {columns.map(col => (
-                      <td key={col.key} style={{ minWidth: 10, padding: '8px 8px', verticalAlign: 'top' }}>
+                      <td key={col.key} style={{ 
+                        minWidth: 10, 
+                        padding: '14px 12px', 
+                        verticalAlign: 'top',
+                        color: '#E2E8F0',
+                        fontSize: '14px',
+                        lineHeight: '1.5'
+                      }}>
                         {col.render(null, row)}
                       </td>
                     ))}
