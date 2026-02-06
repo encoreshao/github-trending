@@ -1,7 +1,9 @@
-const axios = require('axios');
-const fs = require('fs-extra');
-const { Parser } = require('json2csv');
-require('dotenv').config();
+import axios from 'axios';
+import fs from 'fs-extra';
+import { Parser } from 'json2csv';
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 const GITHUB_API_URL = 'https://api.github.com';
 const GITHUB_SEARCH_URI = '/search/repositories';
