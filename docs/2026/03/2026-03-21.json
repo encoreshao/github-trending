@@ -1,0 +1,480 @@
+[
+  {
+    "id": 1182547092,
+    "name": "NemoClaw",
+    "full_name": "NVIDIA/NemoClaw",
+    "owner": {
+      "login": "NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "description": "Run OpenClaw securely inside NVIDIA OpenShell with managed inference",
+    "topics": [],
+    "html_url": "https://github.com/NVIDIA/NemoClaw",
+    "stargazers_count": 14360,
+    "language": "JavaScript",
+    "forks_count": 1384,
+    "open_issues_count": 308,
+    "created_at": "2026-03-15T17:04:09Z",
+    "updated_at": "2026-03-21T02:29:45Z",
+    "pushed_at": "2026-03-21T01:38:06Z"
+  },
+  {
+    "id": 1182108611,
+    "name": "AutoResearchClaw",
+    "full_name": "aiming-lab/AutoResearchClaw",
+    "owner": {
+      "login": "aiming-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
+    },
+    "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+    "topics": [
+      "autonomous-research",
+      "citation-verification",
+      "llm-agents",
+      "metaclaw",
+      "multi-agent-debate",
+      "openclaw",
+      "paper-generation",
+      "scientific-discovery",
+      "self-evolving"
+    ],
+    "html_url": "https://github.com/aiming-lab/AutoResearchClaw",
+    "stargazers_count": 7139,
+    "language": "Python",
+    "forks_count": 738,
+    "open_issues_count": 6,
+    "created_at": "2026-03-15T03:38:49Z",
+    "updated_at": "2026-03-21T02:29:19Z",
+    "pushed_at": "2026-03-20T15:07:47Z"
+  },
+  {
+    "id": 1181479848,
+    "name": "Crucix",
+    "full_name": "calesthio/Crucix",
+    "owner": {
+      "login": "calesthio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
+    },
+    "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+    "topics": [
+      "ai",
+      "intelligence",
+      "osint"
+    ],
+    "html_url": "https://github.com/calesthio/Crucix",
+    "stargazers_count": 5750,
+    "language": "JavaScript",
+    "forks_count": 852,
+    "open_issues_count": 29,
+    "created_at": "2026-03-14T07:33:06Z",
+    "updated_at": "2026-03-21T02:19:18Z",
+    "pushed_at": "2026-03-20T22:12:58Z"
+  },
+  {
+    "id": 1181982220,
+    "name": "opencli",
+    "full_name": "jackwener/opencli",
+    "owner": {
+      "login": "jackwener",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
+    },
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "cli"
+    ],
+    "html_url": "https://github.com/jackwener/opencli",
+    "stargazers_count": 3131,
+    "language": "TypeScript",
+    "forks_count": 278,
+    "open_issues_count": 35,
+    "created_at": "2026-03-14T22:10:23Z",
+    "updated_at": "2026-03-21T02:29:13Z",
+    "pushed_at": "2026-03-21T02:27:40Z"
+  },
+  {
+    "id": 1182403562,
+    "name": "Attention-Residuals",
+    "full_name": "MoonshotAI/Attention-Residuals",
+    "owner": {
+      "login": "MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/MoonshotAI/Attention-Residuals",
+    "stargazers_count": 2254,
+    "language": null,
+    "forks_count": 98,
+    "open_issues_count": 7,
+    "created_at": "2026-03-15T13:29:15Z",
+    "updated_at": "2026-03-21T02:27:29Z",
+    "pushed_at": "2026-03-17T06:23:11Z"
+  },
+  {
+    "id": 1184391618,
+    "name": "ClawTeam",
+    "full_name": "HKUDS/ClawTeam",
+    "owner": {
+      "login": "HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
+    "topics": [],
+    "html_url": "https://github.com/HKUDS/ClawTeam",
+    "stargazers_count": 2113,
+    "language": "Python",
+    "forks_count": 265,
+    "open_issues_count": 14,
+    "created_at": "2026-03-17T14:42:46Z",
+    "updated_at": "2026-03-21T02:27:05Z",
+    "pushed_at": "2026-03-20T14:03:21Z"
+  },
+  {
+    "id": 1184268220,
+    "name": "awesome-codex-subagents",
+    "full_name": "VoltAgent/awesome-codex-subagents",
+    "owner": {
+      "login": "VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
+    "topics": [
+      "ai-agents",
+      "awesome-list",
+      "chatgpt",
+      "codex",
+      "codex-skills",
+      "codex-subagents",
+      "subagents"
+    ],
+    "html_url": "https://github.com/VoltAgent/awesome-codex-subagents",
+    "stargazers_count": 1848,
+    "language": null,
+    "forks_count": 151,
+    "open_issues_count": 0,
+    "created_at": "2026-03-17T12:26:20Z",
+    "updated_at": "2026-03-21T02:28:51Z",
+    "pushed_at": "2026-03-20T06:43:41Z"
+  },
+  {
+    "id": 1182081931,
+    "name": "Understand-Anything",
+    "full_name": "Lum1104/Understand-Anything",
+    "owner": {
+      "login": "Lum1104",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
+    },
+    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
+    "topics": [
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "knowledge-graph",
+      "understandcode"
+    ],
+    "html_url": "https://github.com/Lum1104/Understand-Anything",
+    "stargazers_count": 1439,
+    "language": "TypeScript",
+    "forks_count": 126,
+    "open_issues_count": 4,
+    "created_at": "2026-03-15T02:30:51Z",
+    "updated_at": "2026-03-21T02:29:43Z",
+    "pushed_at": "2026-03-20T11:16:55Z"
+  },
+  {
+    "id": 1182712729,
+    "name": "zeroboot",
+    "full_name": "zerobootdev/zeroboot",
+    "owner": {
+      "login": "zerobootdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
+    },
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
+    "topics": [
+      "ai-agents",
+      "code-execution",
+      "copy-on-write",
+      "firecracker",
+      "kvm",
+      "rust",
+      "sandbox",
+      "virtual-machine",
+      "vm"
+    ],
+    "html_url": "https://github.com/zerobootdev/zeroboot",
+    "stargazers_count": 1430,
+    "language": "Rust",
+    "forks_count": 63,
+    "open_issues_count": 2,
+    "created_at": "2026-03-15T21:49:32Z",
+    "updated_at": "2026-03-21T02:29:05Z",
+    "pushed_at": "2026-03-19T09:15:00Z"
+  },
+  {
+    "id": 1181380420,
+    "name": "tavily-key-generator",
+    "full_name": "skernelx/tavily-key-generator",
+    "owner": {
+      "login": "skernelx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/250769487?v=4"
+    },
+    "description": "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools.",
+    "topics": [
+      "api-key-generator",
+      "browser-automation",
+      "camoufox",
+      "cloudflare",
+      "duckmail",
+      "email-automation",
+      "fastapi",
+      "firecrawl",
+      "mcp",
+      "playwright",
+      "proxy-server",
+      "tavily"
+    ],
+    "html_url": "https://github.com/skernelx/tavily-key-generator",
+    "stargazers_count": 1341,
+    "language": "Python",
+    "forks_count": 823,
+    "open_issues_count": 1,
+    "created_at": "2026-03-14T04:12:22Z",
+    "updated_at": "2026-03-21T01:41:45Z",
+    "pushed_at": "2026-03-17T15:43:54Z"
+  },
+  {
+    "id": 1182385218,
+    "name": "codex-manager",
+    "full_name": "cnlimiter/codex-manager",
+    "owner": {
+      "login": "cnlimiter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67866187?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/cnlimiter/codex-manager",
+    "stargazers_count": 1244,
+    "language": "Python",
+    "forks_count": 527,
+    "open_issues_count": 19,
+    "created_at": "2026-03-15T12:59:27Z",
+    "updated_at": "2026-03-21T01:50:55Z",
+    "pushed_at": "2026-03-20T16:55:26Z"
+  },
+  {
+    "id": 1182715089,
+    "name": "OpenSquirrel",
+    "full_name": "Infatoshi/OpenSquirrel",
+    "owner": {
+      "login": "Infatoshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
+    },
+    "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
+    "topics": [],
+    "html_url": "https://github.com/Infatoshi/OpenSquirrel",
+    "stargazers_count": 1187,
+    "language": "Rust",
+    "forks_count": 75,
+    "open_issues_count": 4,
+    "created_at": "2026-03-15T21:54:35Z",
+    "updated_at": "2026-03-21T02:16:53Z",
+    "pushed_at": "2026-03-18T22:26:14Z"
+  },
+  {
+    "id": 1181942854,
+    "name": "jobs",
+    "full_name": "karpathy/jobs",
+    "owner": {
+      "login": "karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually.",
+    "topics": [],
+    "html_url": "https://github.com/karpathy/jobs",
+    "stargazers_count": 963,
+    "language": "HTML",
+    "forks_count": 209,
+    "open_issues_count": 9,
+    "created_at": "2026-03-14T20:45:40Z",
+    "updated_at": "2026-03-21T00:22:46Z",
+    "pushed_at": "2026-03-16T04:05:24Z"
+  },
+  {
+    "id": 1182000750,
+    "name": "MiroFish-Offline",
+    "full_name": "nikmcfly/MiroFish-Offline",
+    "owner": {
+      "login": "nikmcfly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70242477?v=4"
+    },
+    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+    "topics": [
+      "ai",
+      "multi-agent",
+      "neo4j",
+      "offline",
+      "ollama",
+      "open-source",
+      "prediction",
+      "simulation",
+      "swarm-intelligence",
+      "vue"
+    ],
+    "html_url": "https://github.com/nikmcfly/MiroFish-Offline",
+    "stargazers_count": 950,
+    "language": "Python",
+    "forks_count": 212,
+    "open_issues_count": 7,
+    "created_at": "2026-03-14T22:54:19Z",
+    "updated_at": "2026-03-21T02:29:48Z",
+    "pushed_at": "2026-03-18T19:40:08Z"
+  },
+  {
+    "id": 1182790403,
+    "name": "clui-cc",
+    "full_name": "lcoutodemos/clui-cc",
+    "owner": {
+      "login": "lcoutodemos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
+    },
+    "description": "Clui CC — Command Line User Interface for Claude Code",
+    "topics": [],
+    "html_url": "https://github.com/lcoutodemos/clui-cc",
+    "stargazers_count": 923,
+    "language": "TypeScript",
+    "forks_count": 121,
+    "open_issues_count": 20,
+    "created_at": "2026-03-16T00:42:18Z",
+    "updated_at": "2026-03-21T02:28:45Z",
+    "pushed_at": "2026-03-20T22:32:14Z"
+  },
+  {
+    "id": 1182741097,
+    "name": "llm-architecture-gallery",
+    "full_name": "rasbt/llm-architecture-gallery",
+    "owner": {
+      "login": "rasbt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5618407?v=4"
+    },
+    "description": "LLM Architecture Gallery source data",
+    "topics": [
+      "ai",
+      "llms"
+    ],
+    "html_url": "https://github.com/rasbt/llm-architecture-gallery",
+    "stargazers_count": 802,
+    "language": null,
+    "forks_count": 62,
+    "open_issues_count": 0,
+    "created_at": "2026-03-15T22:50:46Z",
+    "updated_at": "2026-03-21T01:51:21Z",
+    "pushed_at": "2026-03-15T23:00:22Z"
+  },
+  {
+    "id": 1185560597,
+    "name": "autoresearch-genealogy",
+    "full_name": "mattprusak/autoresearch-genealogy",
+    "owner": {
+      "login": "mattprusak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
+    },
+    "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
+    "topics": [],
+    "html_url": "https://github.com/mattprusak/autoresearch-genealogy",
+    "stargazers_count": 782,
+    "language": null,
+    "forks_count": 62,
+    "open_issues_count": 1,
+    "created_at": "2026-03-18T17:57:50Z",
+    "updated_at": "2026-03-21T02:22:47Z",
+    "pushed_at": "2026-03-18T17:57:52Z"
+  },
+  {
+    "id": 1182454913,
+    "name": "nightingale",
+    "full_name": "rzru/nightingale",
+    "owner": {
+      "login": "rzru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91018799?v=4"
+    },
+    "description": "Machine learning powered Karaoke app (with scores!) ",
+    "topics": [
+      "ai",
+      "bevy",
+      "bevy-engine",
+      "demucs",
+      "karaoke",
+      "karaoke-application",
+      "karaoke-game",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "ml",
+      "party",
+      "rust",
+      "whisper",
+      "whisper-ai",
+      "whisperx"
+    ],
+    "html_url": "https://github.com/rzru/nightingale",
+    "stargazers_count": 709,
+    "language": "Rust",
+    "forks_count": 35,
+    "open_issues_count": 14,
+    "created_at": "2026-03-15T14:48:09Z",
+    "updated_at": "2026-03-21T00:51:34Z",
+    "pushed_at": "2026-03-20T08:10:34Z"
+  },
+  {
+    "id": 1184063789,
+    "name": "taiwan-md",
+    "full_name": "frank890417/taiwan-md",
+    "owner": {
+      "login": "frank890417",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
+    },
+    "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
+    "topics": [],
+    "html_url": "https://github.com/frank890417/taiwan-md",
+    "stargazers_count": 675,
+    "language": "Astro",
+    "forks_count": 74,
+    "open_issues_count": 21,
+    "created_at": "2026-03-17T08:05:33Z",
+    "updated_at": "2026-03-21T01:19:59Z",
+    "pushed_at": "2026-03-20T22:02:55Z"
+  },
+  {
+    "id": 1182098521,
+    "name": "trump-code",
+    "full_name": "sstklen/trump-code",
+    "owner": {
+      "login": "sstklen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90471971?v=4"
+    },
+    "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+    "topics": [
+      "ai",
+      "brute-force",
+      "machine-learning",
+      "open-data",
+      "polymarket",
+      "prediction",
+      "signal-analysis",
+      "stock-market",
+      "trump",
+      "truth-social"
+    ],
+    "html_url": "https://github.com/sstklen/trump-code",
+    "stargazers_count": 600,
+    "language": "Python",
+    "forks_count": 71,
+    "open_issues_count": 0,
+    "created_at": "2026-03-15T03:13:51Z",
+    "updated_at": "2026-03-21T02:12:29Z",
+    "pushed_at": "2026-03-20T14:43:14Z"
+  }
+]
