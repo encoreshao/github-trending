@@ -1,0 +1,447 @@
+[
+  {
+    "id": 1182547092,
+    "name": "NemoClaw",
+    "full_name": "NVIDIA/NemoClaw",
+    "owner": {
+      "login": "NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+    "topics": [],
+    "html_url": "https://github.com/NVIDIA/NemoClaw",
+    "stargazers_count": 14898,
+    "language": "JavaScript",
+    "forks_count": 1486,
+    "open_issues_count": 330,
+    "created_at": "2026-03-15T17:04:09Z",
+    "updated_at": "2026-03-22T02:29:59Z",
+    "pushed_at": "2026-03-22T02:22:00Z"
+  },
+  {
+    "id": 1182108611,
+    "name": "AutoResearchClaw",
+    "full_name": "aiming-lab/AutoResearchClaw",
+    "owner": {
+      "login": "aiming-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
+    },
+    "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+    "topics": [
+      "autonomous-research",
+      "citation-verification",
+      "llm-agents",
+      "metaclaw",
+      "multi-agent-debate",
+      "openclaw",
+      "paper-generation",
+      "scientific-discovery",
+      "self-evolving"
+    ],
+    "html_url": "https://github.com/aiming-lab/AutoResearchClaw",
+    "stargazers_count": 7393,
+    "language": "Python",
+    "forks_count": 775,
+    "open_issues_count": 7,
+    "created_at": "2026-03-15T03:38:49Z",
+    "updated_at": "2026-03-22T02:26:06Z",
+    "pushed_at": "2026-03-20T15:07:47Z"
+  },
+  {
+    "id": 1182081931,
+    "name": "Understand-Anything",
+    "full_name": "Lum1104/Understand-Anything",
+    "owner": {
+      "login": "Lum1104",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
+    },
+    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
+    "topics": [
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "knowledge-graph",
+      "understandcode"
+    ],
+    "html_url": "https://github.com/Lum1104/Understand-Anything",
+    "stargazers_count": 2632,
+    "language": "TypeScript",
+    "forks_count": 252,
+    "open_issues_count": 4,
+    "created_at": "2026-03-15T02:30:51Z",
+    "updated_at": "2026-03-22T02:29:10Z",
+    "pushed_at": "2026-03-21T15:38:47Z"
+  },
+  {
+    "id": 1184391618,
+    "name": "ClawTeam",
+    "full_name": "HKUDS/ClawTeam",
+    "owner": {
+      "login": "HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
+    "topics": [],
+    "html_url": "https://github.com/HKUDS/ClawTeam",
+    "stargazers_count": 2497,
+    "language": "Python",
+    "forks_count": 311,
+    "open_issues_count": 23,
+    "created_at": "2026-03-17T14:42:46Z",
+    "updated_at": "2026-03-22T02:25:01Z",
+    "pushed_at": "2026-03-21T07:15:13Z"
+  },
+  {
+    "id": 1182403562,
+    "name": "Attention-Residuals",
+    "full_name": "MoonshotAI/Attention-Residuals",
+    "owner": {
+      "login": "MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/MoonshotAI/Attention-Residuals",
+    "stargazers_count": 2421,
+    "language": null,
+    "forks_count": 107,
+    "open_issues_count": 7,
+    "created_at": "2026-03-15T13:29:15Z",
+    "updated_at": "2026-03-22T01:55:31Z",
+    "pushed_at": "2026-03-17T06:23:11Z"
+  },
+  {
+    "id": 1184268220,
+    "name": "awesome-codex-subagents",
+    "full_name": "VoltAgent/awesome-codex-subagents",
+    "owner": {
+      "login": "VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
+    "topics": [
+      "ai-agents",
+      "awesome-list",
+      "chatgpt",
+      "codex",
+      "codex-skills",
+      "codex-subagents",
+      "subagents"
+    ],
+    "html_url": "https://github.com/VoltAgent/awesome-codex-subagents",
+    "stargazers_count": 1983,
+    "language": null,
+    "forks_count": 162,
+    "open_issues_count": 1,
+    "created_at": "2026-03-17T12:26:20Z",
+    "updated_at": "2026-03-22T02:05:35Z",
+    "pushed_at": "2026-03-20T06:43:41Z"
+  },
+  {
+    "id": 1182712729,
+    "name": "zeroboot",
+    "full_name": "zerobootdev/zeroboot",
+    "owner": {
+      "login": "zerobootdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
+    },
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
+    "topics": [
+      "ai-agents",
+      "code-execution",
+      "copy-on-write",
+      "firecracker",
+      "kvm",
+      "rust",
+      "sandbox",
+      "virtual-machine",
+      "vm"
+    ],
+    "html_url": "https://github.com/zerobootdev/zeroboot",
+    "stargazers_count": 1688,
+    "language": "Rust",
+    "forks_count": 76,
+    "open_issues_count": 6,
+    "created_at": "2026-03-15T21:49:32Z",
+    "updated_at": "2026-03-22T02:21:32Z",
+    "pushed_at": "2026-03-21T22:53:51Z"
+  },
+  {
+    "id": 1182385218,
+    "name": "codex-manager",
+    "full_name": "cnlimiter/codex-manager",
+    "owner": {
+      "login": "cnlimiter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67866187?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/cnlimiter/codex-manager",
+    "stargazers_count": 1348,
+    "language": "Python",
+    "forks_count": 576,
+    "open_issues_count": 24,
+    "created_at": "2026-03-15T12:59:27Z",
+    "updated_at": "2026-03-22T02:23:31Z",
+    "pushed_at": "2026-03-21T08:42:39Z"
+  },
+  {
+    "id": 1182715089,
+    "name": "OpenSquirrel",
+    "full_name": "Infatoshi/OpenSquirrel",
+    "owner": {
+      "login": "Infatoshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
+    },
+    "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
+    "topics": [],
+    "html_url": "https://github.com/Infatoshi/OpenSquirrel",
+    "stargazers_count": 1237,
+    "language": "Rust",
+    "forks_count": 74,
+    "open_issues_count": 4,
+    "created_at": "2026-03-15T21:54:35Z",
+    "updated_at": "2026-03-22T01:48:07Z",
+    "pushed_at": "2026-03-18T22:26:14Z"
+  },
+  {
+    "id": 1182790403,
+    "name": "clui-cc",
+    "full_name": "lcoutodemos/clui-cc",
+    "owner": {
+      "login": "lcoutodemos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
+    },
+    "description": "Clui CC — Command Line User Interface for Claude Code",
+    "topics": [],
+    "html_url": "https://github.com/lcoutodemos/clui-cc",
+    "stargazers_count": 968,
+    "language": "TypeScript",
+    "forks_count": 129,
+    "open_issues_count": 24,
+    "created_at": "2026-03-16T00:42:18Z",
+    "updated_at": "2026-03-22T01:29:20Z",
+    "pushed_at": "2026-03-20T22:32:14Z"
+  },
+  {
+    "id": 1185560597,
+    "name": "autoresearch-genealogy",
+    "full_name": "mattprusak/autoresearch-genealogy",
+    "owner": {
+      "login": "mattprusak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
+    },
+    "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
+    "topics": [],
+    "html_url": "https://github.com/mattprusak/autoresearch-genealogy",
+    "stargazers_count": 841,
+    "language": null,
+    "forks_count": 68,
+    "open_issues_count": 4,
+    "created_at": "2026-03-18T17:57:50Z",
+    "updated_at": "2026-03-22T00:37:58Z",
+    "pushed_at": "2026-03-18T17:57:52Z"
+  },
+  {
+    "id": 1182741097,
+    "name": "llm-architecture-gallery",
+    "full_name": "rasbt/llm-architecture-gallery",
+    "owner": {
+      "login": "rasbt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5618407?v=4"
+    },
+    "description": "LLM Architecture Gallery source data",
+    "topics": [
+      "ai",
+      "llms"
+    ],
+    "html_url": "https://github.com/rasbt/llm-architecture-gallery",
+    "stargazers_count": 822,
+    "language": null,
+    "forks_count": 62,
+    "open_issues_count": 0,
+    "created_at": "2026-03-15T22:50:46Z",
+    "updated_at": "2026-03-22T00:33:14Z",
+    "pushed_at": "2026-03-15T23:00:22Z"
+  },
+  {
+    "id": 1185330299,
+    "name": "any-auto-register",
+    "full_name": "lxf746/any-auto-register",
+    "owner": {
+      "login": "lxf746",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/lxf746/any-auto-register",
+    "stargazers_count": 818,
+    "language": "Python",
+    "forks_count": 417,
+    "open_issues_count": 11,
+    "created_at": "2026-03-18T13:26:05Z",
+    "updated_at": "2026-03-22T02:19:05Z",
+    "pushed_at": "2026-03-20T07:41:21Z"
+  },
+  {
+    "id": 1186410486,
+    "name": "OpenGauss",
+    "full_name": "math-inc/OpenGauss",
+    "owner": {
+      "login": "math-inc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/math-inc/OpenGauss",
+    "stargazers_count": 797,
+    "language": "Python",
+    "forks_count": 65,
+    "open_issues_count": 421,
+    "created_at": "2026-03-19T15:42:02Z",
+    "updated_at": "2026-03-22T02:29:36Z",
+    "pushed_at": "2026-03-22T02:20:54Z"
+  },
+  {
+    "id": 1182454913,
+    "name": "nightingale",
+    "full_name": "rzru/nightingale",
+    "owner": {
+      "login": "rzru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91018799?v=4"
+    },
+    "description": "Machine learning powered Karaoke app (with scores!) ",
+    "topics": [
+      "ai",
+      "bevy",
+      "bevy-engine",
+      "demucs",
+      "karaoke",
+      "karaoke-application",
+      "karaoke-game",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "ml",
+      "party",
+      "rust",
+      "whisper",
+      "whisper-ai",
+      "whisperx"
+    ],
+    "html_url": "https://github.com/rzru/nightingale",
+    "stargazers_count": 738,
+    "language": "Rust",
+    "forks_count": 37,
+    "open_issues_count": 16,
+    "created_at": "2026-03-15T14:48:09Z",
+    "updated_at": "2026-03-21T23:31:01Z",
+    "pushed_at": "2026-03-20T08:10:34Z"
+  },
+  {
+    "id": 1184063789,
+    "name": "taiwan-md",
+    "full_name": "frank890417/taiwan-md",
+    "owner": {
+      "login": "frank890417",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
+    },
+    "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
+    "topics": [],
+    "html_url": "https://github.com/frank890417/taiwan-md",
+    "stargazers_count": 698,
+    "language": "Astro",
+    "forks_count": 76,
+    "open_issues_count": 33,
+    "created_at": "2026-03-17T08:05:33Z",
+    "updated_at": "2026-03-22T02:16:15Z",
+    "pushed_at": "2026-03-22T02:16:12Z"
+  },
+  {
+    "id": 1182216394,
+    "name": "collab-public",
+    "full_name": "collaborator-ai/collab-public",
+    "owner": {
+      "login": "collaborator-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260235329?v=4"
+    },
+    "description": "Collaborator is a place to create with agents.",
+    "topics": [],
+    "html_url": "https://github.com/collaborator-ai/collab-public",
+    "stargazers_count": 630,
+    "language": "Shell",
+    "forks_count": 26,
+    "open_issues_count": 24,
+    "created_at": "2026-03-15T07:46:32Z",
+    "updated_at": "2026-03-22T02:21:48Z",
+    "pushed_at": "2026-03-21T22:18:21Z"
+  },
+  {
+    "id": 1185740798,
+    "name": "DoesItAgeVerify",
+    "full_name": "BryanLunduke/DoesItAgeVerify",
+    "owner": {
+      "login": "BryanLunduke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
+    },
+    "description": "The age verification status of Open Source Operating Systems",
+    "topics": [],
+    "html_url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+    "stargazers_count": 626,
+    "language": null,
+    "forks_count": 18,
+    "open_issues_count": 17,
+    "created_at": "2026-03-18T22:36:55Z",
+    "updated_at": "2026-03-22T02:22:44Z",
+    "pushed_at": "2026-03-21T21:53:41Z"
+  },
+  {
+    "id": 1185958882,
+    "name": "app-store-preflight-skills",
+    "full_name": "truongduy2611/app-store-preflight-skills",
+    "owner": {
+      "login": "truongduy2611",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
+    },
+    "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
+    "topics": [],
+    "html_url": "https://github.com/truongduy2611/app-store-preflight-skills",
+    "stargazers_count": 623,
+    "language": null,
+    "forks_count": 31,
+    "open_issues_count": 0,
+    "created_at": "2026-03-19T05:39:43Z",
+    "updated_at": "2026-03-22T02:25:27Z",
+    "pushed_at": "2026-03-20T02:30:40Z"
+  },
+  {
+    "id": 1182098521,
+    "name": "trump-code",
+    "full_name": "sstklen/trump-code",
+    "owner": {
+      "login": "sstklen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90471971?v=4"
+    },
+    "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+    "topics": [
+      "ai",
+      "brute-force",
+      "machine-learning",
+      "open-data",
+      "polymarket",
+      "prediction",
+      "signal-analysis",
+      "stock-market",
+      "trump",
+      "truth-social"
+    ],
+    "html_url": "https://github.com/sstklen/trump-code",
+    "stargazers_count": 617,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 1,
+    "created_at": "2026-03-15T03:13:51Z",
+    "updated_at": "2026-03-21T21:01:16Z",
+    "pushed_at": "2026-03-21T15:45:59Z"
+  }
+]
