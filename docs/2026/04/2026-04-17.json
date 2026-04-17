@@ -1,0 +1,487 @@
+[
+  {
+    "id": 1207091162,
+    "name": "fireworks-tech-graph",
+    "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
+    "owner": {
+      "login": "yizhiyanhua-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
+    },
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+    "topics": [],
+    "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+    "stargazers_count": 3393,
+    "language": "Python",
+    "forks_count": 287,
+    "open_issues_count": 5,
+    "created_at": "2026-04-10T15:07:10Z",
+    "updated_at": "2026-04-17T02:29:04Z",
+    "pushed_at": "2026-04-16T07:54:33Z"
+  },
+  {
+    "id": 1209889782,
+    "name": "codeburn",
+    "full_name": "AgentSeal/codeburn",
+    "owner": {
+      "login": "AgentSeal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265224789?v=4"
+    },
+    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+    "topics": [
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "codex",
+      "cost-tracking",
+      "cursor-ide",
+      "developer-tools",
+      "observability",
+      "terminal-ui",
+      "token-usage"
+    ],
+    "html_url": "https://github.com/AgentSeal/codeburn",
+    "stargazers_count": 2296,
+    "language": "TypeScript",
+    "forks_count": 156,
+    "open_issues_count": 10,
+    "created_at": "2026-04-13T22:11:53Z",
+    "updated_at": "2026-04-17T02:29:49Z",
+    "pushed_at": "2026-04-16T23:33:37Z"
+  },
+  {
+    "id": 1207153645,
+    "name": "MOSS-TTS-Nano",
+    "full_name": "OpenMOSS/MOSS-TTS-Nano",
+    "owner": {
+      "login": "OpenMOSS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156300419?v=4"
+    },
+    "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
+    "topics": [
+      "audio-tokenizer",
+      "chinese",
+      "english",
+      "multi-modality",
+      "multilingual",
+      "realtime",
+      "streaming-audio",
+      "tts",
+      "voice-clone"
+    ],
+    "html_url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+    "stargazers_count": 1250,
+    "language": "Python",
+    "forks_count": 140,
+    "open_issues_count": 20,
+    "created_at": "2026-04-10T16:25:07Z",
+    "updated_at": "2026-04-17T02:26:25Z",
+    "pushed_at": "2026-04-16T08:05:16Z"
+  },
+  {
+    "id": 1210579186,
+    "name": "wterm",
+    "full_name": "vercel-labs/wterm",
+    "owner": {
+      "login": "vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "description": "A terminal emulator for the web",
+    "topics": [],
+    "html_url": "https://github.com/vercel-labs/wterm",
+    "stargazers_count": 1070,
+    "language": "TypeScript",
+    "forks_count": 35,
+    "open_issues_count": 2,
+    "created_at": "2026-04-14T14:52:44Z",
+    "updated_at": "2026-04-17T02:20:34Z",
+    "pushed_at": "2026-04-16T05:03:12Z"
+  },
+  {
+    "id": 1208430144,
+    "name": "anything-analyzer",
+    "full_name": "Mouseww/anything-analyzer",
+    "owner": {
+      "login": "Mouseww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
+    },
+    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档",
+    "topics": [],
+    "html_url": "https://github.com/Mouseww/anything-analyzer",
+    "stargazers_count": 1056,
+    "language": "TypeScript",
+    "forks_count": 259,
+    "open_issues_count": 9,
+    "created_at": "2026-04-12T09:12:57Z",
+    "updated_at": "2026-04-17T02:29:14Z",
+    "pushed_at": "2026-04-17T02:29:39Z"
+  },
+  {
+    "id": 1209268581,
+    "name": "darwin-skill",
+    "full_name": "alchaincyf/darwin-skill",
+    "owner": {
+      "login": "alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
+    "topics": [],
+    "html_url": "https://github.com/alchaincyf/darwin-skill",
+    "stargazers_count": 977,
+    "language": "HTML",
+    "forks_count": 112,
+    "open_issues_count": 2,
+    "created_at": "2026-04-13T08:57:49Z",
+    "updated_at": "2026-04-17T02:19:58Z",
+    "pushed_at": "2026-04-14T15:37:16Z"
+  },
+  {
+    "id": 1207421443,
+    "name": "rattles",
+    "full_name": "vyfor/rattles",
+    "owner": {
+      "login": "vyfor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92883017?v=4"
+    },
+    "description": "🪇 Minimal terminal spinners for Rust",
+    "topics": [
+      "animation",
+      "cli",
+      "no-std",
+      "ratatui",
+      "rattles",
+      "rust",
+      "spinner",
+      "spinners",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/vyfor/rattles",
+    "stargazers_count": 880,
+    "language": "Rust",
+    "forks_count": 17,
+    "open_issues_count": 0,
+    "created_at": "2026-04-10T23:31:10Z",
+    "updated_at": "2026-04-17T02:00:56Z",
+    "pushed_at": "2026-04-14T10:03:10Z"
+  },
+  {
+    "id": 1211901711,
+    "name": "RedSun",
+    "full_name": "Nightmare-Eclipse/RedSun",
+    "owner": {
+      "login": "Nightmare-Eclipse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
+    },
+    "description": "The Red Sun vulnerability repository",
+    "topics": [],
+    "html_url": "https://github.com/Nightmare-Eclipse/RedSun",
+    "stargazers_count": 823,
+    "language": "C++",
+    "forks_count": 159,
+    "open_issues_count": 4,
+    "created_at": "2026-04-15T21:37:07Z",
+    "updated_at": "2026-04-17T02:29:54Z",
+    "pushed_at": "2026-04-15T22:53:04Z"
+  },
+  {
+    "id": 1206704534,
+    "name": "HY-World-2.0",
+    "full_name": "Tencent-Hunyuan/HY-World-2.0",
+    "owner": {
+      "login": "Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+    "topics": [
+      "3d",
+      "ai",
+      "worldmodel"
+    ],
+    "html_url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+    "stargazers_count": 801,
+    "language": "Python",
+    "forks_count": 48,
+    "open_issues_count": 4,
+    "created_at": "2026-04-10T07:09:43Z",
+    "updated_at": "2026-04-17T02:23:36Z",
+    "pushed_at": "2026-04-16T08:40:54Z"
+  },
+  {
+    "id": 1208779485,
+    "name": "nothing-ever-happens",
+    "full_name": "sterlingcrispin/nothing-ever-happens",
+    "owner": {
+      "login": "sterlingcrispin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2976761?v=4"
+    },
+    "description": "Polymarket bot that buys \"No\" on all non-sports markets",
+    "topics": [
+      "meme",
+      "not-financial-advice",
+      "nothing-ever-happens",
+      "polymarket"
+    ],
+    "html_url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "stargazers_count": 801,
+    "language": "Python",
+    "forks_count": 83,
+    "open_issues_count": 0,
+    "created_at": "2026-04-12T18:26:00Z",
+    "updated_at": "2026-04-17T01:56:36Z",
+    "pushed_at": "2026-04-13T17:18:51Z"
+  },
+  {
+    "id": 1209054090,
+    "name": "anubis",
+    "full_name": "sogonov/anubis",
+    "owner": {
+      "login": "sogonov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111385605?v=4"
+    },
+    "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
+    "topics": [],
+    "html_url": "https://github.com/sogonov/anubis",
+    "stargazers_count": 786,
+    "language": "Kotlin",
+    "forks_count": 22,
+    "open_issues_count": 35,
+    "created_at": "2026-04-13T03:41:38Z",
+    "updated_at": "2026-04-17T02:19:23Z",
+    "pushed_at": "2026-04-17T00:54:43Z"
+  },
+  {
+    "id": 1209396858,
+    "name": "GEOFlow",
+    "full_name": "yaojingang/GEOFlow",
+    "owner": {
+      "login": "yaojingang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
+    },
+    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+    "topics": [
+      "ai",
+      "cms",
+      "content-automation",
+      "geo",
+      "openai-compatible",
+      "php",
+      "postgresql",
+      "seo"
+    ],
+    "html_url": "https://github.com/yaojingang/GEOFlow",
+    "stargazers_count": 764,
+    "language": "PHP",
+    "forks_count": 169,
+    "open_issues_count": 6,
+    "created_at": "2026-04-13T11:42:03Z",
+    "updated_at": "2026-04-17T02:06:24Z",
+    "pushed_at": "2026-04-16T13:36:23Z"
+  },
+  {
+    "id": 1210412315,
+    "name": "BuilderPulse",
+    "full_name": "BuilderPulse/BuilderPulse",
+    "owner": {
+      "login": "BuilderPulse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
+    },
+    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+    "topics": [
+      "ai",
+      "builders",
+      "indiehackers"
+    ],
+    "html_url": "https://github.com/BuilderPulse/BuilderPulse",
+    "stargazers_count": 755,
+    "language": null,
+    "forks_count": 56,
+    "open_issues_count": 2,
+    "created_at": "2026-04-14T11:48:05Z",
+    "updated_at": "2026-04-17T02:29:10Z",
+    "pushed_at": "2026-04-16T03:13:23Z"
+  },
+  {
+    "id": 1211361116,
+    "name": "design-extract",
+    "full_name": "Manavarya09/design-extract",
+    "owner": {
+      "login": "Manavarya09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
+    },
+    "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai",
+      "claude-code-plugin",
+      "cli",
+      "colors",
+      "css",
+      "design-system",
+      "design-tokens",
+      "npx",
+      "playwright",
+      "skills-sh",
+      "tailwind",
+      "typography",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/Manavarya09/design-extract",
+    "stargazers_count": 687,
+    "language": "JavaScript",
+    "forks_count": 57,
+    "open_issues_count": 11,
+    "created_at": "2026-04-15T10:11:22Z",
+    "updated_at": "2026-04-17T02:21:17Z",
+    "pushed_at": "2026-04-16T08:15:33Z"
+  },
+  {
+    "id": 1206566990,
+    "name": "SkillClaw",
+    "full_name": "AMAP-ML/SkillClaw",
+    "owner": {
+      "login": "AMAP-ML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
+    },
+    "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai-agent",
+      "collective-intelligence",
+      "continual-learning",
+      "hermes",
+      "llm",
+      "llms",
+      "openclaw",
+      "self-evolving",
+      "skill-evolution",
+      "skill-learning",
+      "skills"
+    ],
+    "html_url": "https://github.com/AMAP-ML/SkillClaw",
+    "stargazers_count": 684,
+    "language": "Python",
+    "forks_count": 72,
+    "open_issues_count": 6,
+    "created_at": "2026-04-10T03:25:47Z",
+    "updated_at": "2026-04-17T02:10:56Z",
+    "pushed_at": "2026-04-16T17:12:16Z"
+  },
+  {
+    "id": 1208481838,
+    "name": "SNI-Spoofing",
+    "full_name": "patterniha/SNI-Spoofing",
+    "owner": {
+      "login": "patterniha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
+    },
+    "description": "Bypass DPI with IP/TCP-Header manipulation",
+    "topics": [],
+    "html_url": "https://github.com/patterniha/SNI-Spoofing",
+    "stargazers_count": 668,
+    "language": "Python",
+    "forks_count": 70,
+    "open_issues_count": 6,
+    "created_at": "2026-04-12T10:47:30Z",
+    "updated_at": "2026-04-17T02:24:33Z",
+    "pushed_at": "2026-04-14T01:02:25Z"
+  },
+  {
+    "id": 1211096376,
+    "name": "weft",
+    "full_name": "WeaveMindAI/weft",
+    "owner": {
+      "login": "WeaveMindAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234981286?v=4"
+    },
+    "description": "A programming language for AI systems",
+    "topics": [],
+    "html_url": "https://github.com/WeaveMindAI/weft",
+    "stargazers_count": 667,
+    "language": "Rust",
+    "forks_count": 86,
+    "open_issues_count": 5,
+    "created_at": "2026-04-15T04:09:40Z",
+    "updated_at": "2026-04-17T02:26:13Z",
+    "pushed_at": "2026-04-16T19:03:25Z"
+  },
+  {
+    "id": 1207854573,
+    "name": "obsidian-ai-orange-book",
+    "full_name": "alchaincyf/obsidian-ai-orange-book",
+    "owner": {
+      "login": "alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
+    "topics": [],
+    "html_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+    "stargazers_count": 645,
+    "language": null,
+    "forks_count": 65,
+    "open_issues_count": 0,
+    "created_at": "2026-04-11T13:50:24Z",
+    "updated_at": "2026-04-17T02:02:19Z",
+    "pushed_at": "2026-04-11T15:26:51Z"
+  },
+  {
+    "id": 1211235520,
+    "name": "html-ppt-skill",
+    "full_name": "lewislulu/html-ppt-skill",
+    "owner": {
+      "login": "lewislulu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
+    },
+    "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
+    "topics": [],
+    "html_url": "https://github.com/lewislulu/html-ppt-skill",
+    "stargazers_count": 619,
+    "language": "HTML",
+    "forks_count": 68,
+    "open_issues_count": 2,
+    "created_at": "2026-04-15T07:36:22Z",
+    "updated_at": "2026-04-17T02:29:45Z",
+    "pushed_at": "2026-04-16T03:27:33Z"
+  },
+  {
+    "id": 1206549574,
+    "name": "quien",
+    "full_name": "retlehs/quien",
+    "owner": {
+      "login": "retlehs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115911?v=4"
+    },
+    "description": "A better whois and domain intelligence toolkit",
+    "topics": [
+      "asn",
+      "bgp",
+      "bimi",
+      "cli",
+      "core-web-vitals",
+      "cwv",
+      "dkim",
+      "dmarc",
+      "dns",
+      "domain",
+      "golang",
+      "ip-lookup",
+      "nameservers",
+      "peeringdb",
+      "quien",
+      "rdap",
+      "seo",
+      "spf",
+      "tls",
+      "whois"
+    ],
+    "html_url": "https://github.com/retlehs/quien",
+    "stargazers_count": 570,
+    "language": "Go",
+    "forks_count": 13,
+    "open_issues_count": 1,
+    "created_at": "2026-04-10T02:53:42Z",
+    "updated_at": "2026-04-17T01:48:52Z",
+    "pushed_at": "2026-04-16T04:42:54Z"
+  }
+]
