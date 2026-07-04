@@ -43,15 +43,12 @@ const fetchTrendingRepos = async (period) => {
 
         const repos = response.data.items;
 
-        const today = new Date().toISOString().split('T')[0];
-        const year = today.split('-')[0];
-        const month = today.split('-')[1];
-        const dateDir = `${dir(config.subdir)}/${year}/${month}`;
+        const { fileBase, dateDir } = getPeriodFileInfo(period, config.subdir);
 
         fs.ensureDirSync(dateDir);
 
-        saveReposToJson(repos, today, dateDir);
-        saveReposToCsv(repos, today, dateDir);
+        saveReposToJson(repos, fileBase, dateDir);
+        saveReposToCsv(repos, fileBase, dateDir);
     } catch (error) {
         console.error('Error fetching trending repositories:', error);
     }
@@ -68,6 +65,50 @@ const getCutoffDate = (daysBack) => {
     const cutoff = new Date(today);
     cutoff.setDate(today.getDate() - daysBack);
     return cutoff.toISOString().split('T')[0];
+};
+
+/**
+ * Gets the Monday on or before the given date (ISO week start).
+ *
+ * @param {Date} date - The reference date.
+ * @return {Date} The Monday of that week.
+ */
+const getWeekStart = (date) => {
+    const d = new Date(date);
+    const day = d.getDay();
+    const diff = day === 0 ? 6 : day - 1;
+    d.setDate(d.getDate() - diff);
+    return d;
+};
+
+/**
+ * Computes the filename base and output directory for a period, as of now.
+ *
+ * @param {string} period - One of 'daily', 'weekly', 'monthly'.
+ * @param {string} subdir - The period's output subdirectory (from PERIODS).
+ * @return {{ fileBase: string, dateDir: string }}
+ */
+const getPeriodFileInfo = (period, subdir) => {
+    const now = new Date();
+
+    if (period === 'monthly') {
+        const year = String(now.getFullYear());
+        const month = String(now.getMonth() + 1).padStart(2, '0');
+        return { fileBase: `${year}-${month}`, dateDir: `${dir(subdir)}/${year}` };
+    }
+
+    if (period === 'weekly') {
+        const weekStart = getWeekStart(now);
+        const fileBase = weekStart.toISOString().split('T')[0];
+        const year = fileBase.split('-')[0];
+        const month = fileBase.split('-')[1];
+        return { fileBase, dateDir: `${dir(subdir)}/${year}/${month}` };
+    }
+
+    const fileBase = now.toISOString().split('T')[0];
+    const year = fileBase.split('-')[0];
+    const month = fileBase.split('-')[1];
+    return { fileBase, dateDir: `${dir(subdir)}/${year}/${month}` };
 };
 
 /**
@@ -88,12 +129,12 @@ const dir = (subdir) => {
  * Saves the trending GitHub repositories to a JSON file.
  *
  * @param {Array} repos - The list of repositories to save.
- * @param {string} today - The current date in the format 'YYYY-MM-DD'.
+ * @param {string} fileBase - The filename base (no extension) to save under.
  * @param {string} dateDir - The directory to save the file in.
  * @return {void} This function does not return anything explicitly.
  */
-const saveReposToJson = (repos, today, dateDir) => {
-    const filePath = `${dateDir}/${today}.json`;
+const saveReposToJson = (repos, fileBase, dateDir) => {
+    const filePath = `${dateDir}/${fileBase}.json`;
     // JSON File with Selected Fields
     const selectedFields = repos.map(repo => ({
         id: repo.id,
@@ -123,12 +164,12 @@ const saveReposToJson = (repos, today, dateDir) => {
  * Saves the trending GitHub repositories to a CSV file.
  *
  * @param {Array} repos - The list of repositories to save.
- * @param {string} today - The current date in the format 'YYYY-MM-DD'.
+ * @param {string} fileBase - The filename base (no extension) to save under.
  * @param {string} dateDir - The directory to save the file in.
  * @return {void} This function does not return anything explicitly.
  */
-const saveReposToCsv = (repos, today, dateDir) => {
-    const filePath = `${dateDir}/${today}.csv`;
+const saveReposToCsv = (repos, fileBase, dateDir) => {
+    const filePath = `${dateDir}/${fileBase}.csv`;
     const fields = [
         'full_name', 'stargazers_count', 'owner.login', 'owner.avatar_url',
         'description', 'topics', 'html_url', 'created_at', 'updated_at', 'pushed_at',
