@@ -5,6 +5,7 @@ import SubscriptionPage from './pages/SubscriptionPage';
 import DemoPage from './pages/DemoPage';
 import WeeklyPage from './pages/WeeklyPage';
 import MonthlyPage from './pages/MonthlyPage';
+import NotFoundPage from './pages/NotFoundPage';
 import './NewApp.css';
 
 const NewApp = () => {
@@ -17,6 +18,7 @@ const NewApp = () => {
           <Route path="/demo" element={<DemoPage />} />
           <Route path="/weekly" element={<WeeklyPage />} />
           <Route path="/monthly" element={<MonthlyPage />} />
+          <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </div>
     </Router>
