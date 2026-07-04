@@ -27,7 +27,7 @@ const HomePage = () => {
     try {
       setLoading(true);
       // Load from CSV files
-      const csvData = await loadLatestCSV();
+      const { data: csvData } = await loadLatestCSV();
       const transformedData = transformCSVData(csvData);
 
       // Take first 12 repos for homepage

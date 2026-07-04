@@ -3,19 +3,20 @@ const GITHUB_REPO = 'encoreshao/github-trending';
 const GITHUB_DOCS_PATH = 'docs';
 const GITHUB_RAW_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/main/${GITHUB_DOCS_PATH}`;
 
-export const loadLatestCSV = async () => {
+export const loadLatestCSV = async (subdir = '', maxDaysBack = 30) => {
   try {
     // Try to load the most recent date
     const today = new Date();
     const dates = [];
 
-    // Try last 30 days
-    for (let i = 0; i < 30; i++) {
+    for (let i = 0; i < maxDaysBack; i++) {
       const date = new Date(today);
       date.setDate(date.getDate() - i);
       const dateStr = date.toISOString().split('T')[0];
       dates.push(dateStr);
     }
+
+    const subdirPath = subdir ? `${subdir}/` : '';
 
     // Try to load the first available CSV from GitHub
     for (const dateStr of dates) {
@@ -23,15 +24,15 @@ export const loadLatestCSV = async () => {
         // Extract year and month from date string (YYYY-MM-DD)
         const year = dateStr.split('-')[0];
         const month = dateStr.split('-')[1];
-        // Build path with year/month folder structure: docs/YYYY/MM/YYYY-MM-DD.csv
-        const csvUrl = `${GITHUB_RAW_URL}/${year}/${month}/${dateStr}.csv`;
+        // Build path with folder structure: docs/[subdir/]YYYY/MM/YYYY-MM-DD.csv
+        const csvUrl = `${GITHUB_RAW_URL}/${subdirPath}${year}/${month}/${dateStr}.csv`;
         const csvResponse = await fetch(csvUrl);
         if (csvResponse.ok) {
           const csvText = await csvResponse.text();
           const parsedData = parseCSV(csvText);
           if (parsedData.length > 0) {
-            console.log(`✅ Loaded data from ${year}/${month}/${dateStr}.csv (${parsedData.length} repos)`);
-            return parsedData;
+            console.log(`✅ Loaded data from ${subdirPath}${year}/${month}/${dateStr}.csv (${parsedData.length} repos)`);
+            return { data: parsedData, date: dateStr };
           }
         }
       } catch (err) {
@@ -40,10 +41,10 @@ export const loadLatestCSV = async () => {
       }
     }
 
-    throw new Error('No CSV files found in the last 30 days');
+    throw new Error(`No CSV files found in the last ${maxDaysBack} days`);
   } catch (error) {
     console.error('Error loading CSV from GitHub:', error);
-    return [];
+    return { data: [], date: null };
   }
 };
 
