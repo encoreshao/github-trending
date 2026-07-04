@@ -22,6 +22,7 @@ const getCandidateFileBases = (subdir, startDate, maxDaysBack) => {
     const maxMonthsBack = Math.max(1, Math.ceil(maxDaysBack / 30));
     for (let i = 0; i < maxMonthsBack; i++) {
       const d = new Date(startDate);
+      d.setDate(1);
       d.setMonth(d.getMonth() - i);
       const year = String(d.getFullYear());
       const month = String(d.getMonth() + 1).padStart(2, '0');
