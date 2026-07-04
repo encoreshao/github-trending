@@ -96,6 +96,24 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
           </div>
           <h1 className="period-title">{title}</h1>
           <p className="period-description">{windowDescription}</p>
+
+          {!loading && repos.length >= 3 && (
+            <div className="top3-row">
+              {repos.slice(0, 3).map((repo, index) => (
+                <a
+                  key={repo.id}
+                  className="top3-item"
+                  href={repo.html_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <span className="top3-medal">{['🥇', '🥈', '🥉'][index]}</span>
+                  <span className="top3-name">{repo.name}</span>
+                  <span className="top3-stars">⭐ {formatNumber(repo.stargazers_count)}</span>
+                </a>
+              ))}
+            </div>
+          )}
         </section>
 
         {!loading && repos.length > 0 && (
