@@ -59,11 +59,31 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
 
   const formatDate = (dateStr) => {
     if (!dateStr) return '';
+    if (dateStr.length === 7) {
+      return new Date(`${dateStr}-01`).toLocaleDateString('en-US', {
+        month: 'long',
+        year: 'numeric',
+        timeZone: 'UTC'
+      });
+    }
     return new Date(dateStr).toLocaleDateString('en-US', {
       month: 'short',
       day: 'numeric',
       year: 'numeric'
     });
+  };
+
+  const getISOWeekInfo = (dateStr) => {
+    const date = new Date(dateStr);
+    const target = new Date(date.valueOf());
+    const dayNr = (date.getUTCDay() + 6) % 7;
+    target.setUTCDate(target.getUTCDate() - dayNr + 3);
+    const firstThursday = new Date(Date.UTC(target.getUTCFullYear(), 0, 4));
+    const firstThursdayDayNr = (firstThursday.getUTCDay() + 6) % 7;
+    firstThursday.setUTCDate(firstThursday.getUTCDate() - firstThursdayDayNr + 3);
+    const week = 1 + Math.round((target - firstThursday) / (7 * 24 * 3600 * 1000));
+    const month = date.toLocaleDateString('en-US', { month: 'long', timeZone: 'UTC' });
+    return { week, year: target.getUTCFullYear(), month };
   };
 
   const totalStars = repos.reduce((sum, repo) => sum + (repo.stargazers_count || 0), 0);
@@ -92,8 +112,18 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
       <main className="period-main">
         <section className="period-hero">
           <div className="period-hero-main">
-            <div className="period-badge">
-              {lastUpdated ? `Last updated: ${formatDate(lastUpdated)}` : 'No data yet'}
+            <div className="period-badges">
+              <div className="period-badge">
+                {lastUpdated ? `Last updated: ${formatDate(lastUpdated)}` : 'No data yet'}
+              </div>
+              {csvSubdir === 'weekly' && lastUpdated && (() => {
+                const { week, year, month } = getISOWeekInfo(lastUpdated);
+                return (
+                  <div className="period-badge">
+                    {`Week ${week}, ${year} · ${month}`}
+                  </div>
+                );
+              })()}
             </div>
             <h1 className="period-title">{title}</h1>
             <p className="period-description">{windowDescription}</p>

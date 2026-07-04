@@ -24,6 +24,13 @@
   flex: 1 1 420px;
 }
 
+.period-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
 .period-badge {
   display: inline-flex;
   align-items: center;
@@ -34,7 +41,6 @@
   font-weight: 700;
   padding: 6px 14px;
   border-radius: 20px;
-  margin-bottom: 16px;
 }
 
 .period-title {
