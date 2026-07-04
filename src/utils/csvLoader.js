@@ -3,47 +3,69 @@ const GITHUB_REPO = 'encoreshao/github-trending';
 const GITHUB_DOCS_PATH = 'docs';
 const GITHUB_RAW_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/main/${GITHUB_DOCS_PATH}`;
 
+// Walks backward from startDate for maxDaysBack days looking for the first non-empty CSV.
+const tryLoadCSVFrom = async (subdir, startDate, maxDaysBack) => {
+  const dates = [];
+
+  for (let i = 0; i < maxDaysBack; i++) {
+    const date = new Date(startDate);
+    date.setDate(date.getDate() - i);
+    dates.push(date.toISOString().split('T')[0]);
+  }
+
+  const subdirPath = subdir ? `${subdir}/` : '';
+
+  for (const dateStr of dates) {
+    try {
+      // Extract year and month from date string (YYYY-MM-DD)
+      const year = dateStr.split('-')[0];
+      const month = dateStr.split('-')[1];
+      // Build path with folder structure: docs/[subdir/]YYYY/MM/YYYY-MM-DD.csv
+      const csvUrl = `${GITHUB_RAW_URL}/${subdirPath}${year}/${month}/${dateStr}.csv`;
+      const csvResponse = await fetch(csvUrl);
+      if (csvResponse.ok) {
+        const csvText = await csvResponse.text();
+        const parsedData = parseCSV(csvText);
+        if (parsedData.length > 0) {
+          console.log(`✅ Loaded data from ${subdirPath}${year}/${month}/${dateStr}.csv (${parsedData.length} repos)`);
+          return { data: parsedData, date: dateStr };
+        }
+      }
+    } catch (err) {
+      // Continue to next date
+      continue;
+    }
+  }
+
+  return { data: [], date: null };
+};
+
 export const loadLatestCSV = async (subdir = '', maxDaysBack = 30) => {
   try {
-    // Try to load the most recent date
-    const today = new Date();
-    const dates = [];
-
-    for (let i = 0; i < maxDaysBack; i++) {
-      const date = new Date(today);
-      date.setDate(date.getDate() - i);
-      const dateStr = date.toISOString().split('T')[0];
-      dates.push(dateStr);
+    const result = await tryLoadCSVFrom(subdir, new Date(), maxDaysBack);
+    if (!result.date) {
+      throw new Error(`No CSV files found in the last ${maxDaysBack} days`);
     }
-
-    const subdirPath = subdir ? `${subdir}/` : '';
-
-    // Try to load the first available CSV from GitHub
-    for (const dateStr of dates) {
-      try {
-        // Extract year and month from date string (YYYY-MM-DD)
-        const year = dateStr.split('-')[0];
-        const month = dateStr.split('-')[1];
-        // Build path with folder structure: docs/[subdir/]YYYY/MM/YYYY-MM-DD.csv
-        const csvUrl = `${GITHUB_RAW_URL}/${subdirPath}${year}/${month}/${dateStr}.csv`;
-        const csvResponse = await fetch(csvUrl);
-        if (csvResponse.ok) {
-          const csvText = await csvResponse.text();
-          const parsedData = parseCSV(csvText);
-          if (parsedData.length > 0) {
-            console.log(`✅ Loaded data from ${subdirPath}${year}/${month}/${dateStr}.csv (${parsedData.length} repos)`);
-            return { data: parsedData, date: dateStr };
-          }
-        }
-      } catch (err) {
-        // Continue to next date
-        continue;
-      }
-    }
-
-    throw new Error(`No CSV files found in the last ${maxDaysBack} days`);
+    return result;
   } catch (error) {
     console.error('Error loading CSV from GitHub:', error);
+    return { data: [], date: null };
+  }
+};
+
+// Finds the snapshot immediately preceding beforeDateStr, for period-over-period comparisons.
+// Returns { data: [], date: null } if there's no prior snapshot to compare against — this is
+// an expected outcome (e.g. a period job's first-ever run), not an error.
+export const loadPreviousCSV = async (subdir = '', beforeDateStr, maxDaysBack = 30) => {
+  if (!beforeDateStr) {
+    return { data: [], date: null };
+  }
+  try {
+    const beforeDate = new Date(beforeDateStr);
+    beforeDate.setDate(beforeDate.getDate() - 1);
+    return await tryLoadCSVFrom(subdir, beforeDate, maxDaysBack);
+  } catch (error) {
+    console.error('Error loading previous CSV from GitHub:', error);
     return { data: [], date: null };
   }
 };
