@@ -55,7 +55,7 @@ const Footer = () => {
               <i className="fab fa-twitter"></i>
             </a>
             <a
-              href="https://linkedin.com/companies/ranbot-ai"
+              href="https://www.linkedin.com/company/ranbot-ai/"
               target="_blank"
               rel="noopener noreferrer"
               className="social-link"
