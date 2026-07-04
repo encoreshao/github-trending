@@ -86,6 +86,10 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
     return { week, year: target.getUTCFullYear(), month };
   };
 
+  const titleWords = title.split(' ');
+  const titleHighlight = titleWords.slice(0, -1).join(' ');
+  const titleRest = titleWords[titleWords.length - 1];
+
   const totalStars = repos.reduce((sum, repo) => sum + (repo.stargazers_count || 0), 0);
   const languageCount = new Set(repos.map(repo => repo.language).filter(Boolean)).size;
 
@@ -125,7 +129,9 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
                 );
               })()}
             </div>
-            <h1 className="period-title">{title}</h1>
+            <h1 className="period-title">
+              <span className="period-title-highlight">{titleHighlight}</span> {titleRest}
+            </h1>
             <p className="period-description">{windowDescription}</p>
           </div>
 
