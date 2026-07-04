@@ -56,6 +56,7 @@
   flex-direction: column;
   gap: 10px;
   flex: 0 0 auto;
+  margin-right: 24px;
 }
 
 .top3-item {
@@ -71,8 +72,6 @@
 }
 
 .top3-item:hover {
-  border-color: rgba(96, 165, 250, 0.4);
-  background: rgba(51, 65, 85, 0.55);
   transform: translateY(-2px);
 }
 
@@ -88,8 +87,58 @@
 
 .top3-stars {
   font-size: 13px;
-  color: #fbbf24;
   font-weight: 600;
+}
+
+.top3-item-gold {
+  padding: 12px 18px;
+  background: linear-gradient(135deg, rgba(250, 204, 21, 0.18), rgba(217, 119, 6, 0.1));
+  border-color: rgba(250, 204, 21, 0.4);
+}
+
+.top3-item-gold .top3-medal {
+  font-size: 20px;
+}
+
+.top3-item-gold .top3-name {
+  font-size: 15px;
+}
+
+.top3-item-gold .top3-stars {
+  color: #facc15;
+}
+
+.top3-item-gold:hover {
+  border-color: rgba(250, 204, 21, 0.7);
+  background: linear-gradient(135deg, rgba(250, 204, 21, 0.26), rgba(217, 119, 6, 0.16));
+}
+
+.top3-item-silver {
+  background: linear-gradient(135deg, rgba(203, 213, 225, 0.16), rgba(100, 116, 139, 0.1));
+  border-color: rgba(203, 213, 225, 0.3);
+}
+
+.top3-item-silver .top3-stars {
+  color: #cbd5e1;
+}
+
+.top3-item-silver:hover {
+  border-color: rgba(203, 213, 225, 0.55);
+  background: rgba(148, 163, 184, 0.22);
+}
+
+.top3-item-bronze {
+  background: linear-gradient(135deg, rgba(217, 119, 6, 0.14), rgba(120, 53, 15, 0.1));
+  border-color: rgba(217, 119, 6, 0.3);
+}
+
+.top3-item-bronze .top3-stars {
+  color: #fb923c;
+}
+
+.top3-item-bronze:hover {
+  border-color: rgba(217, 119, 6, 0.55);
+  background: rgba(217, 119, 6, 0.2);
 }
 
 .period-insights {
@@ -336,11 +385,16 @@
 
   .top3-row {
     width: 100%;
+    margin-right: 0;
   }
 
   .top3-item {
     padding: 8px 12px;
     justify-content: space-between;
+  }
+
+  .top3-item-gold {
+    padding: 10px 12px;
   }
 
   .top3-name {

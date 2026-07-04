@@ -104,7 +104,7 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
               {repos.slice(0, 3).map((repo, index) => (
                 <a
                   key={repo.id}
-                  className="top3-item"
+                  className={`top3-item top3-item-${['gold', 'silver', 'bronze'][index]}`}
                   href={repo.html_url}
                   target="_blank"
                   rel="noopener noreferrer"
