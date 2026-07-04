@@ -8,23 +8,6 @@ const NotFoundPage = () => {
     <div className="notfound-page">
       <Header />
       <main className="notfound-main">
-        <div className="notfound-window">
-          <div className="notfound-window-header">
-            <div className="notfound-window-controls">
-              <span className="notfound-control notfound-control-close"></span>
-              <span className="notfound-control notfound-control-minimize"></span>
-              <span className="notfound-control notfound-control-maximize"></span>
-            </div>
-          </div>
-          <div className="notfound-window-content">
-            <pre><code>{`{
-  "message": "Not Found",
-  "documentation_url": "https://github.ranbot.online/",
-  "status": "404"
-}`}</code></pre>
-          </div>
-        </div>
-
         <div className="notfound-content">
           <svg
             className="notfound-icon"

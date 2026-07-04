@@ -15,61 +15,9 @@
   text-align: center;
 }
 
-.notfound-window {
-  background: rgba(30, 41, 59, 0.8);
-  border: 1px solid rgba(148, 163, 184, 0.2);
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
-  width: 100%;
-  margin-bottom: 40px;
-}
-
-.notfound-window-header {
-  background: rgba(15, 23, 42, 0.9);
-  padding: 12px 16px;
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  border-bottom: 1px solid rgba(148, 163, 184, 0.1);
-}
-
-.notfound-window-controls {
-  display: flex;
-  gap: 8px;
-}
-
-.notfound-control {
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-}
-
-.notfound-control-close { background: #ef4444; }
-.notfound-control-minimize { background: #f59e0b; }
-.notfound-control-maximize { background: #10b981; }
-
-.notfound-window-content {
-  padding: 24px;
-  overflow-x: auto;
-  text-align: left;
-}
-
-.notfound-window-content pre {
-  margin: 0;
-  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
-  font-size: 13px;
-  line-height: 1.6;
-  white-space: pre;
-}
-
-.notfound-window-content code {
-  color: #94a3b8;
-}
-
 .notfound-icon {
-  width: 120px;
-  height: 120px;
+  width: 220px;
+  height: 220px;
   margin-bottom: 8px;
   filter: drop-shadow(0 8px 20px rgba(59, 130, 246, 0.25));
 }
@@ -97,8 +45,8 @@
   }
 
   .notfound-icon {
-    width: 100px;
-    height: 100px;
+    width: 170px;
+    height: 170px;
   }
 
   .notfound-number {
@@ -112,8 +60,8 @@
   }
 
   .notfound-icon {
-    width: 84px;
-    height: 84px;
+    width: 130px;
+    height: 130px;
   }
 
   .notfound-number {
