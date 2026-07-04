@@ -1,16 +1,20 @@
 import React, { useState } from 'react';
-import { Button, Card, Checkbox, Input } from 'antd';
-import { CheckOutlined, GithubOutlined, RocketOutlined } from '@ant-design/icons';
+import { Button, Card, Checkbox, Input, message } from 'antd';
+import { CheckOutlined, GithubOutlined, RocketOutlined, UserOutlined, BankOutlined, MailOutlined } from '@ant-design/icons';
 import { useNavigate } from 'react-router-dom';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import { submitSubscription } from '../api/subscribe';
 import './SubscriptionPage.css';
 
 const SubscriptionPage = () => {
   const navigate = useNavigate();
   const [selectedCategories, setSelectedCategories] = useState([]);
+  const [userName, setUserName] = useState('');
   const [email, setEmail] = useState('');
   const [githubUsername, setGithubUsername] = useState('');
+  const [companyName, setCompanyName] = useState('');
+  const [submitting, setSubmitting] = useState(false);
 
   const categories = [
     { id: 'javascript', name: 'JavaScript', description: 'Web development and frameworks', icon: '⚡' },
@@ -41,15 +45,24 @@ const SubscriptionPage = () => {
     }
   };
 
-  const handleSubscribe = () => {
-    // Here you would typically integrate with a payment processor
-    console.log('Subscription details:', {
-      categories: selectedCategories,
-      email,
-      githubUsername
-    });
-    // For demo purposes, navigate to demo page
-    navigate('/demo');
+  const handleSubscribe = async () => {
+    setSubmitting(true);
+    try {
+      await submitSubscription({
+        userName,
+        email,
+        githubUsername,
+        companyName,
+        categories: selectedCategories
+      });
+      message.success("You're subscribed! Redirecting...");
+      navigate('/demo');
+    } catch (error) {
+      console.error('Error submitting subscription:', error);
+      message.error('Something went wrong submitting your subscription. Please try again.');
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   return (
@@ -103,6 +116,17 @@ const SubscriptionPage = () => {
           <h2 className="section-title">Your Information</h2>
           <div className="user-form">
             <div className="form-group">
+              <label className="form-label">Your Name</label>
+              <Input
+                size="large"
+                placeholder="Jane Doe"
+                value={userName}
+                onChange={(e) => setUserName(e.target.value)}
+                className="form-input"
+                prefix={<UserOutlined />}
+              />
+            </div>
+            <div className="form-group">
               <label className="form-label">Email Address</label>
               <Input
                 size="large"
@@ -110,6 +134,7 @@ const SubscriptionPage = () => {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 className="form-input"
+                prefix={<MailOutlined />}
               />
             </div>
             <div className="form-group">
@@ -123,6 +148,17 @@ const SubscriptionPage = () => {
                 prefix={<GithubOutlined />}
               />
             </div>
+            <div className="form-group">
+              <label className="form-label">Company Name (Optional)</label>
+              <Input
+                size="large"
+                placeholder="Acme Inc."
+                value={companyName}
+                onChange={(e) => setCompanyName(e.target.value)}
+                className="form-input"
+                prefix={<BankOutlined />}
+              />
+            </div>
           </div>
         </div>
 
@@ -134,7 +170,8 @@ const SubscriptionPage = () => {
             className="subscribe-button"
             onClick={handleSubscribe}
             icon={<RocketOutlined />}
-            disabled={!email || selectedCategories.length === 0}
+            disabled={!userName || !email || selectedCategories.length === 0}
+            loading={submitting}
           >
             Subscribe Now
           </Button>
