@@ -16,6 +16,8 @@ const Footer = () => {
           <h4>Quick Links</h4>
           <div className="footer-links">
             <a className="footer-link" onClick={() => navigate('/')}>Home</a>
+            <a className="footer-link" onClick={() => navigate('/weekly')}>Weekly</a>
+            <a className="footer-link" onClick={() => navigate('/monthly')}>Monthly</a>
             <a className="footer-link" onClick={() => navigate('/demo')}>Live Demo</a>
             <a className="footer-link" onClick={() => navigate('/subscribe')}>Subscribe</a>
           </div>

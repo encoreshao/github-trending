@@ -43,19 +43,33 @@
 }
 
 .period-stats {
-  display: flex;
-  gap: 40px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 160px));
+  gap: 16px;
 }
 
 .period-stat {
+  text-align: center;
+  padding: 16px;
+  background: rgba(51, 65, 85, 0.3);
+  border-radius: 12px;
+  border: 1px solid rgba(148, 163, 184, 0.1);
+  transition: all 0.3s ease;
   display: flex;
   flex-direction: column;
 }
 
+.period-stat:hover {
+  background: rgba(51, 65, 85, 0.5);
+  border-color: rgba(96, 165, 250, 0.3);
+  transform: translateY(-4px);
+}
+
 .period-stat-number {
   font-size: 24px;
-  font-weight: 700;
-  color: #f1f5f9;
+  font-weight: 800;
+  color: #60a5fa;
+  margin-bottom: 4px;
 }
 
 .period-stat-label {
@@ -88,12 +102,20 @@
   to { transform: rotate(360deg); }
 }
 
+.period-scroll-wrapper {
+  position: relative;
+}
+
 .period-scroll-row {
   display: flex;
   gap: 24px;
   overflow-x: auto;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
   padding: 8px 24px 16px;
   scroll-snap-type: x proximity;
+  mask-image: linear-gradient(90deg, transparent, #000 24px, #000 calc(100% - 24px), transparent);
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 24px, #000 calc(100% - 24px), transparent);
 }
 
 .period-scroll-row::-webkit-scrollbar {
@@ -110,6 +132,46 @@
   scroll-snap-align: start;
 }
 
+.period-scroll-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid rgba(148, 163, 184, 0.2);
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(10px);
+  color: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 2;
+  transition: all 0.25s ease;
+}
+
+.period-scroll-arrow:hover {
+  background: #3b82f6;
+  border-color: #3b82f6;
+  color: #ffffff;
+}
+
+.period-scroll-arrow-left {
+  left: 0;
+}
+
+.period-scroll-arrow-right {
+  right: 0;
+}
+
+/* Scroll arrows are a mouse/trackpad affordance; touch devices rely on native swipe */
+@media not all and (hover: hover) and (pointer: fine) {
+  .period-scroll-arrow {
+    display: none;
+  }
+}
+
 .period-empty {
   text-align: center;
   padding: 80px 24px;
@@ -117,16 +179,63 @@
   font-size: 15px;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 1200px) {
+  .period-scroll-row .project-card {
+    flex-basis: 300px;
+  }
+}
+
+@media (max-width: 968px) {
   .period-hero {
-    padding: 120px 16px 32px;
+    padding: 120px 20px 32px;
   }
 
   .period-title {
-    font-size: 28px;
+    font-size: 30px;
+  }
+
+  .period-scroll-row .project-card {
+    flex-basis: 280px;
+  }
+}
+
+@media (max-width: 640px) {
+  .period-hero {
+    padding: 104px 16px 28px;
+  }
+
+  .period-title {
+    font-size: 26px;
+  }
+
+  .period-description {
+    font-size: 14px;
   }
 
   .period-stats {
-    gap: 24px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+  }
+
+  .period-stat {
+    padding: 12px 8px;
+  }
+
+  .period-stat-number {
+    font-size: 19px;
+  }
+
+  .period-stat-label {
+    font-size: 10px;
+  }
+
+  .period-scroll-row {
+    gap: 16px;
+    padding: 8px 16px 16px;
+  }
+
+  .period-scroll-row .project-card {
+    flex-basis: 78vw;
+    max-width: 320px;
   }
 }

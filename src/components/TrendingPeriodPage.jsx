@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
+import { LeftOutlined, RightOutlined } from '@ant-design/icons';
 import { loadLatestCSV, transformCSVData } from '../utils/csvLoader';
 import { formatNumber } from '../utils/formatNumber';
 import Header from './Header';
@@ -10,6 +11,13 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
   const [repos, setRepos] = useState([]);
   const [loading, setLoading] = useState(true);
   const [lastUpdated, setLastUpdated] = useState(null);
+  const scrollRowRef = useRef(null);
+
+  const scrollByCards = (direction) => {
+    const row = scrollRowRef.current;
+    if (!row) return;
+    row.scrollBy({ left: direction * Math.round(row.clientWidth * 0.8), behavior: 'smooth' });
+  };
 
   useEffect(() => {
     loadRepos();
@@ -83,10 +91,28 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
               <p>No snapshot has been generated for this period yet. Check back soon.</p>
             </div>
           ) : (
-            <div className="period-scroll-row">
-              {repos.map((repo, index) => (
-                <TrendingCard key={repo.id} repo={repo} index={index} rank={index + 1} />
-              ))}
+            <div className="period-scroll-wrapper">
+              <button
+                type="button"
+                className="period-scroll-arrow period-scroll-arrow-left"
+                onClick={() => scrollByCards(-1)}
+                aria-label="Scroll left"
+              >
+                <LeftOutlined />
+              </button>
+              <div className="period-scroll-row" ref={scrollRowRef}>
+                {repos.map((repo, index) => (
+                  <TrendingCard key={repo.id} repo={repo} index={index} rank={index + 1} />
+                ))}
+              </div>
+              <button
+                type="button"
+                className="period-scroll-arrow period-scroll-arrow-right"
+                onClick={() => scrollByCards(1)}
+                aria-label="Scroll right"
+              >
+                <RightOutlined />
+              </button>
             </div>
           )}
         </section>
