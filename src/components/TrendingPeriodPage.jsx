@@ -162,8 +162,8 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
                   <LeftOutlined />
                 </button>
                 <div className="period-scroll-row" ref={scrollRowRef}>
-                  {repos.map((repo, index) => (
-                    <TrendingCard key={repo.id} repo={repo} index={index} rank={index + 1} />
+                  {repos.slice(1).map((repo, index) => (
+                    <TrendingCard key={repo.id} repo={repo} index={index} rank={index + 2} />
                   ))}
                 </div>
                 <button

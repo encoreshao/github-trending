@@ -42,49 +42,46 @@
   margin: 0 0 28px;
 }
 
+.period-insights {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 24px 32px;
+  background: rgba(30, 41, 59, 0.35);
+  border: 1px solid rgba(148, 163, 184, 0.12);
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.period-insights > div {
+  padding: 20px 28px;
+}
+
+.period-insights > div:not(:last-child) {
+  border-right: 1px solid rgba(148, 163, 184, 0.15);
+}
+
 .period-stats {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 160px));
-  gap: 16px;
+  display: flex;
+  gap: 28px;
 }
 
 .period-stat {
   text-align: center;
-  padding: 16px;
-  background: rgba(51, 65, 85, 0.3);
-  border-radius: 12px;
-  border: 1px solid rgba(148, 163, 184, 0.1);
-  transition: all 0.3s ease;
-  display: flex;
-  flex-direction: column;
-}
-
-.period-stat:hover {
-  background: rgba(51, 65, 85, 0.5);
-  border-color: rgba(96, 165, 250, 0.3);
-  transform: translateY(-4px);
 }
 
 .period-stat-number {
-  font-size: 24px;
+  display: block;
+  font-size: 22px;
   font-weight: 800;
   color: #60a5fa;
   margin-bottom: 4px;
 }
 
 .period-stat-label {
-  font-size: 12px;
+  font-size: 11px;
   color: #94a3b8;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-}
-
-.period-insights {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  gap: 32px;
-  padding: 0 24px 28px;
 }
 
 .insights-label {
@@ -98,6 +95,9 @@
 
 .language-breakdown {
   min-width: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .language-chips {
@@ -124,6 +124,7 @@
 .comparison-badge {
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .comparison-value {
@@ -247,6 +248,10 @@
     font-size: 30px;
   }
 
+  .period-insights > div {
+    padding: 18px 20px;
+  }
+
   .period-scroll-row .project-card {
     flex-basis: 280px;
   }
@@ -258,8 +263,17 @@
   }
 
   .period-insights {
-    padding: 0 16px 24px;
-    gap: 20px;
+    flex-direction: column;
+    margin: 0 16px 24px;
+  }
+
+  .period-insights > div {
+    padding: 14px 16px;
+  }
+
+  .period-insights > div:not(:last-child) {
+    border-right: none;
+    border-bottom: 1px solid rgba(148, 163, 184, 0.15);
   }
 
   .period-title {
@@ -271,12 +285,8 @@
   }
 
   .period-stats {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 10px;
-  }
-
-  .period-stat {
-    padding: 12px 8px;
+    justify-content: space-between;
+    gap: 12px;
   }
 
   .period-stat-number {
