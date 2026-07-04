@@ -27,6 +27,20 @@ const Header = () => {
             <span>Home</span>
           </a>
           <a
+            className={`nav-link ${isActive('/weekly') ? 'active' : ''}`}
+            onClick={() => navigate('/weekly')}
+          >
+            <i className="fas fa-calendar-week"></i>
+            <span>Weekly</span>
+          </a>
+          <a
+            className={`nav-link ${isActive('/monthly') ? 'active' : ''}`}
+            onClick={() => navigate('/monthly')}
+          >
+            <i className="fas fa-calendar-alt"></i>
+            <span>Monthly</span>
+          </a>
+          <a
             className={`nav-link ${isActive('/demo') ? 'active' : ''}`}
             onClick={() => navigate('/demo')}
           >
