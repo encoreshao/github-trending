@@ -49,14 +49,6 @@
 .notfound-control-minimize { background: #f59e0b; }
 .notfound-control-maximize { background: #10b981; }
 
-.notfound-window-title {
-  flex: 1;
-  text-align: center;
-  font-size: 13px;
-  color: #94a3b8;
-  font-weight: 500;
-}
-
 .notfound-window-content {
   padding: 24px;
   overflow-x: auto;
@@ -75,6 +67,13 @@
   color: #94a3b8;
 }
 
+.notfound-icon {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 8px;
+  filter: drop-shadow(0 8px 20px rgba(59, 130, 246, 0.25));
+}
+
 .notfound-number {
   font-size: 96px;
   font-weight: 800;
@@ -89,50 +88,17 @@
 .notfound-tagline {
   font-size: 17px;
   color: #94a3b8;
-  margin: 0 0 28px;
-}
-
-.notfound-home-btn {
-  padding: 14px 28px;
-  background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
-  color: #ffffff;
-  border: none;
-  border-radius: 8px;
-  font-size: 15px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);
-  margin-bottom: 24px;
-}
-
-.notfound-home-btn:hover {
-  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
-  transform: translateY(-2px);
-  box-shadow: 0 8px 20px rgba(59, 130, 246, 0.4);
-}
-
-.notfound-links {
-  display: flex;
-  gap: 24px;
-}
-
-.notfound-links a {
-  color: #60a5fa;
-  font-size: 14px;
-  font-weight: 500;
-  text-decoration: none;
-  cursor: pointer;
-  transition: color 0.25s ease;
-}
-
-.notfound-links a:hover {
-  color: #93c5fd;
+  margin: 0;
 }
 
 @media (max-width: 968px) {
   .notfound-main {
     padding: 130px 20px 80px;
+  }
+
+  .notfound-icon {
+    width: 100px;
+    height: 100px;
   }
 
   .notfound-number {
@@ -145,16 +111,16 @@
     padding: 110px 16px 60px;
   }
 
+  .notfound-icon {
+    width: 84px;
+    height: 84px;
+  }
+
   .notfound-number {
     font-size: 60px;
   }
 
   .notfound-tagline {
     font-size: 15px;
-  }
-
-  .notfound-links {
-    flex-direction: column;
-    gap: 12px;
   }
 }
