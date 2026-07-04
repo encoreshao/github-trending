@@ -3,36 +3,79 @@ const GITHUB_REPO = 'encoreshao/github-trending';
 const GITHUB_DOCS_PATH = 'docs';
 const GITHUB_RAW_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/main/${GITHUB_DOCS_PATH}`;
 
-// Walks backward from startDate for maxDaysBack days looking for the first non-empty CSV.
-const tryLoadCSVFrom = async (subdir, startDate, maxDaysBack) => {
-  const dates = [];
+// Gets the Monday on or before the given date (ISO week start), matching the backend's convention.
+const getWeekStart = (date) => {
+  const d = new Date(date);
+  const day = d.getDay();
+  const diff = day === 0 ? 6 : day - 1;
+  d.setDate(d.getDate() - diff);
+  return d;
+};
 
-  for (let i = 0; i < maxDaysBack; i++) {
-    const date = new Date(startDate);
-    date.setDate(date.getDate() - i);
-    dates.push(date.toISOString().split('T')[0]);
+// Builds the ordered list of { fileBase, urlPath } candidates to try, walking backward from
+// startDate in period-sized steps: days for daily, weeks (Monday-dated) for weekly, months
+// (YYYY-MM) for monthly.
+const getCandidateFileBases = (subdir, startDate, maxDaysBack) => {
+  const candidates = [];
+
+  if (subdir === 'monthly') {
+    const maxMonthsBack = Math.max(1, Math.ceil(maxDaysBack / 30));
+    for (let i = 0; i < maxMonthsBack; i++) {
+      const d = new Date(startDate);
+      d.setMonth(d.getMonth() - i);
+      const year = String(d.getFullYear());
+      const month = String(d.getMonth() + 1).padStart(2, '0');
+      const fileBase = `${year}-${month}`;
+      candidates.push({ fileBase, urlPath: `monthly/${year}/${fileBase}.csv` });
+    }
+    return candidates;
   }
 
-  const subdirPath = subdir ? `${subdir}/` : '';
+  if (subdir === 'weekly') {
+    const maxWeeksBack = Math.max(1, Math.ceil(maxDaysBack / 7));
+    const weekStart = getWeekStart(startDate);
+    for (let i = 0; i < maxWeeksBack; i++) {
+      const d = new Date(weekStart);
+      d.setDate(d.getDate() - i * 7);
+      const fileBase = d.toISOString().split('T')[0];
+      const year = fileBase.split('-')[0];
+      const month = fileBase.split('-')[1];
+      candidates.push({ fileBase, urlPath: `weekly/${year}/${month}/${fileBase}.csv` });
+    }
+    return candidates;
+  }
 
-  for (const dateStr of dates) {
+  // daily (subdir === '')
+  for (let i = 0; i < maxDaysBack; i++) {
+    const d = new Date(startDate);
+    d.setDate(d.getDate() - i);
+    const fileBase = d.toISOString().split('T')[0];
+    const year = fileBase.split('-')[0];
+    const month = fileBase.split('-')[1];
+    candidates.push({ fileBase, urlPath: `${year}/${month}/${fileBase}.csv` });
+  }
+  return candidates;
+};
+
+// Walks backward from startDate looking for the first non-empty CSV, using the period-appropriate
+// candidate list (see getCandidateFileBases).
+const tryLoadCSVFrom = async (subdir, startDate, maxDaysBack) => {
+  const candidates = getCandidateFileBases(subdir, startDate, maxDaysBack);
+
+  for (const { fileBase, urlPath } of candidates) {
     try {
-      // Extract year and month from date string (YYYY-MM-DD)
-      const year = dateStr.split('-')[0];
-      const month = dateStr.split('-')[1];
-      // Build path with folder structure: docs/[subdir/]YYYY/MM/YYYY-MM-DD.csv
-      const csvUrl = `${GITHUB_RAW_URL}/${subdirPath}${year}/${month}/${dateStr}.csv`;
+      const csvUrl = `${GITHUB_RAW_URL}/${urlPath}`;
       const csvResponse = await fetch(csvUrl);
       if (csvResponse.ok) {
         const csvText = await csvResponse.text();
         const parsedData = parseCSV(csvText);
         if (parsedData.length > 0) {
-          console.log(`✅ Loaded data from ${subdirPath}${year}/${month}/${dateStr}.csv (${parsedData.length} repos)`);
-          return { data: parsedData, date: dateStr };
+          console.log(`✅ Loaded data from ${urlPath} (${parsedData.length} repos)`);
+          return { data: parsedData, date: fileBase };
         }
       }
     } catch (err) {
-      // Continue to next date
+      // Continue to next candidate
       continue;
     }
   }
