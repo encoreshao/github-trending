@@ -29,7 +29,6 @@ const Footer = () => {
             <a className="footer-link" href="https://ppt.ranbot.online/" target="_blank" rel="noopener noreferrer">PPT</a>
             <a className="footer-link" href="https://rss.ranbot.online/" target="_blank" rel="noopener noreferrer">RSS</a>
             <a className="footer-link" href="https://video.ranbot.online/" target="_blank" rel="noopener noreferrer">Video</a>
-            <a className="footer-link" href="https://bookmark.linktr.cn/" target="_blank" rel="noopener noreferrer">Bookmark</a>
             <a className="footer-link" href="https://data-graph.ranbot.online/" target="_blank" rel="noopener noreferrer">Data Graph</a>
           </div>
         </div>
