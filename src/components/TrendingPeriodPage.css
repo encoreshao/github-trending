@@ -45,7 +45,7 @@
 .period-insights {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 24px 32px;
+  margin: 16px 24px 32px;
   background: rgba(30, 41, 59, 0.35);
   border: 1px solid rgba(148, 163, 184, 0.12);
   border-radius: 16px;
@@ -264,7 +264,7 @@
 
   .period-insights {
     flex-direction: column;
-    margin: 0 16px 24px;
+    margin: 12px 16px 24px;
   }
 
   .period-insights > div {
