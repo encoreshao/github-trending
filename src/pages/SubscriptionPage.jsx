@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Button, Card, Checkbox, Input, message } from 'antd';
-import { CheckOutlined, GithubOutlined, RocketOutlined, UserOutlined, BankOutlined } from '@ant-design/icons';
+import { CheckOutlined, GithubOutlined, RocketOutlined, UserOutlined, BankOutlined, MailOutlined } from '@ant-design/icons';
 import { useNavigate } from 'react-router-dom';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
@@ -134,6 +134,7 @@ const SubscriptionPage = () => {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 className="form-input"
+                prefix={<MailOutlined />}
               />
             </div>
             <div className="form-group">
