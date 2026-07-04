@@ -11,8 +11,17 @@
 }
 
 .period-hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 24px;
   padding: 140px 24px 20px;
   background: radial-gradient(circle at 15% 0%, rgba(59, 130, 246, 0.18), transparent 55%);
+}
+
+.period-hero-main {
+  flex: 1 1 420px;
 }
 
 .period-badge {
@@ -44,8 +53,9 @@
 
 .top3-row {
   display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
+  flex-direction: column;
+  gap: 10px;
+  flex: 0 0 auto;
 }
 
 .top3-item {
@@ -324,8 +334,13 @@
     font-size: 14px;
   }
 
+  .top3-row {
+    width: 100%;
+  }
+
   .top3-item {
     padding: 8px 12px;
+    justify-content: space-between;
   }
 
   .top3-name {

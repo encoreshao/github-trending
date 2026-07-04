@@ -91,11 +91,13 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
       <Header />
       <main className="period-main">
         <section className="period-hero">
-          <div className="period-badge">
-            {lastUpdated ? `Last updated: ${formatDate(lastUpdated)}` : 'No data yet'}
+          <div className="period-hero-main">
+            <div className="period-badge">
+              {lastUpdated ? `Last updated: ${formatDate(lastUpdated)}` : 'No data yet'}
+            </div>
+            <h1 className="period-title">{title}</h1>
+            <p className="period-description">{windowDescription}</p>
           </div>
-          <h1 className="period-title">{title}</h1>
-          <p className="period-description">{windowDescription}</p>
 
           {!loading && repos.length >= 3 && (
             <div className="top3-row">
