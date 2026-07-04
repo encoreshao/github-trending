@@ -11,7 +11,7 @@
 }
 
 .period-hero {
-  padding: 140px 24px 40px;
+  padding: 140px 24px 20px;
   background: radial-gradient(circle at 15% 0%, rgba(59, 130, 246, 0.18), transparent 55%);
 }
 
@@ -77,6 +77,59 @@
   color: #94a3b8;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+
+.period-insights {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 32px;
+  padding: 0 24px 28px;
+}
+
+.insights-label {
+  display: block;
+  font-size: 11px;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 8px;
+}
+
+.language-breakdown {
+  min-width: 220px;
+}
+
+.language-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.language-chip {
+  background: rgba(51, 65, 85, 0.4);
+  border: 1px solid rgba(148, 163, 184, 0.15);
+  color: #cbd5e1;
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 20px;
+}
+
+.language-chip b {
+  color: #60a5fa;
+  font-weight: 700;
+  margin-left: 4px;
+}
+
+.comparison-badge {
+  display: flex;
+  flex-direction: column;
+}
+
+.comparison-value {
+  font-size: 18px;
+  font-weight: 700;
+  color: #4ade80;
 }
 
 .period-content {
@@ -187,7 +240,7 @@
 
 @media (max-width: 968px) {
   .period-hero {
-    padding: 120px 20px 32px;
+    padding: 120px 20px 16px;
   }
 
   .period-title {
@@ -201,7 +254,12 @@
 
 @media (max-width: 640px) {
   .period-hero {
-    padding: 104px 16px 28px;
+    padding: 104px 16px 12px;
+  }
+
+  .period-insights {
+    padding: 0 16px 24px;
+    gap: 20px;
   }
 
   .period-title {

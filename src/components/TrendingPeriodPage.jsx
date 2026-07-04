@@ -1,16 +1,18 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { LeftOutlined, RightOutlined } from '@ant-design/icons';
-import { loadLatestCSV, transformCSVData } from '../utils/csvLoader';
+import { loadLatestCSV, loadPreviousCSV, transformCSVData } from '../utils/csvLoader';
 import { formatNumber } from '../utils/formatNumber';
 import Header from './Header';
 import Footer from './Footer';
 import TrendingCard from './TrendingCard';
+import SpotlightBanner from './SpotlightBanner';
 import './TrendingPeriodPage.css';
 
 const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }) => {
   const [repos, setRepos] = useState([]);
   const [loading, setLoading] = useState(true);
   const [lastUpdated, setLastUpdated] = useState(null);
+  const [newEntriesCount, setNewEntriesCount] = useState(null);
   const scrollRowRef = useRef(null);
 
   const scrollByCards = (direction) => {
@@ -29,12 +31,27 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
       setLoading(true);
       const { data: csvData, date } = await loadLatestCSV(csvSubdir, maxDaysBack);
       const transformedData = transformCSVData(csvData);
-      setRepos(transformedData.slice(0, 20));
+      const currentRepos = transformedData.slice(0, 20);
+      setRepos(currentRepos);
       setLastUpdated(date);
+
+      if (date) {
+        const { data: previousCsvData } = await loadPreviousCSV(csvSubdir, date, maxDaysBack);
+        const previousRepos = transformCSVData(previousCsvData).slice(0, 20);
+        if (previousRepos.length > 0) {
+          const previousNames = new Set(previousRepos.map(repo => repo.full_name));
+          setNewEntriesCount(currentRepos.filter(repo => !previousNames.has(repo.full_name)).length);
+        } else {
+          setNewEntriesCount(null);
+        }
+      } else {
+        setNewEntriesCount(null);
+      }
     } catch (error) {
       console.error(`Error loading ${csvSubdir} trending repos:`, error);
       setRepos([]);
       setLastUpdated(null);
+      setNewEntriesCount(null);
     } finally {
       setLoading(false);
     }
@@ -52,6 +69,23 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
   const totalStars = repos.reduce((sum, repo) => sum + (repo.stargazers_count || 0), 0);
   const languageCount = new Set(repos.map(repo => repo.language).filter(Boolean)).size;
 
+  const languageBreakdown = (() => {
+    const counts = {};
+    repos.forEach(repo => {
+      if (repo.language) {
+        counts[repo.language] = (counts[repo.language] || 0) + 1;
+      }
+    });
+    const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+    const top = sorted.slice(0, 4).map(([language, count]) => ({ language, count }));
+    const otherCount = sorted.slice(4).reduce((sum, [, count]) => sum + count, 0);
+    const entries = otherCount > 0 ? [...top, { language: 'Other', count: otherCount }] : top;
+    return entries.map(entry => ({
+      ...entry,
+      percent: repos.length > 0 ? Math.round((entry.count / repos.length) * 100) : 0
+    }));
+  })();
+
   return (
     <div className="trending-period-page">
       <Header />
@@ -62,7 +96,10 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
           </div>
           <h1 className="period-title">{title}</h1>
           <p className="period-description">{windowDescription}</p>
-          {!loading && repos.length > 0 && (
+        </section>
+
+        {!loading && repos.length > 0 && (
+          <section className="period-insights">
             <div className="period-stats">
               <div className="period-stat">
                 <span className="period-stat-number">{repos.length}</span>
@@ -77,8 +114,30 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
                 <span className="period-stat-label">Languages</span>
               </div>
             </div>
-          )}
-        </section>
+
+            {languageBreakdown.length > 0 && (
+              <div className="language-breakdown">
+                <span className="insights-label">Language mix</span>
+                <div className="language-chips">
+                  {languageBreakdown.map(({ language, percent }) => (
+                    <span key={language} className="language-chip">
+                      {language} <b>{percent}%</b>
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {newEntriesCount !== null && (
+              <div className="comparison-badge">
+                <span className="insights-label">Since last snapshot</span>
+                <span className="comparison-value">
+                  {newEntriesCount} new {newEntriesCount === 1 ? 'entry' : 'entries'}
+                </span>
+              </div>
+            )}
+          </section>
+        )}
 
         <section className="period-content">
           {loading ? (
@@ -91,29 +150,32 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
               <p>No snapshot has been generated for this period yet. Check back soon.</p>
             </div>
           ) : (
-            <div className="period-scroll-wrapper">
-              <button
-                type="button"
-                className="period-scroll-arrow period-scroll-arrow-left"
-                onClick={() => scrollByCards(-1)}
-                aria-label="Scroll left"
-              >
-                <LeftOutlined />
-              </button>
-              <div className="period-scroll-row" ref={scrollRowRef}>
-                {repos.map((repo, index) => (
-                  <TrendingCard key={repo.id} repo={repo} index={index} rank={index + 1} />
-                ))}
+            <>
+              <SpotlightBanner repo={repos[0]} />
+              <div className="period-scroll-wrapper">
+                <button
+                  type="button"
+                  className="period-scroll-arrow period-scroll-arrow-left"
+                  onClick={() => scrollByCards(-1)}
+                  aria-label="Scroll left"
+                >
+                  <LeftOutlined />
+                </button>
+                <div className="period-scroll-row" ref={scrollRowRef}>
+                  {repos.map((repo, index) => (
+                    <TrendingCard key={repo.id} repo={repo} index={index} rank={index + 1} />
+                  ))}
+                </div>
+                <button
+                  type="button"
+                  className="period-scroll-arrow period-scroll-arrow-right"
+                  onClick={() => scrollByCards(1)}
+                  aria-label="Scroll right"
+                >
+                  <RightOutlined />
+                </button>
               </div>
-              <button
-                type="button"
-                className="period-scroll-arrow period-scroll-arrow-right"
-                onClick={() => scrollByCards(1)}
-                aria-label="Scroll right"
-              >
-                <RightOutlined />
-              </button>
-            </div>
+            </>
           )}
         </section>
       </main>
