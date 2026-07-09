@@ -23,6 +23,8 @@
 | **实时数据** | 通过 GitHub API 实时获取热门仓库 |
 | **双视图模式** | 表格视图用于数据分析，卡片视图用于可视化浏览 |
 | **智能筛选** | 按分类、关键词和 20+ 属性进行筛选 |
+| **周报 & 月报** | 按滚动周期刷新的精选 Top 20 页面，并展示周/月环比变化 |
+| **个性化订阅** | 选择感兴趣的主题，直接提交到 Google 表格 |
 | **导出选项** | 下载为 CSV、JSON 或复制到剪贴板 |
 | **深色主题** | 现代毛玻璃设计，流畅动画效果 |
 | **双语支持** | 完整的英文和中文语言支持 |
@@ -69,7 +71,10 @@ npm run dev
 |------|------|
 | `/` | 主页，展示功能亮点 |
 | `/demo` | 交互式仓库分析工具 |
-| `/subscribe` | 基于分类的订阅设置 |
+| `/weekly` | 最近 30 天内创建的 Top 20 仓库，每周一刷新 |
+| `/monthly` | 最近 90 天内创建的 Top 20 仓库，每月 1 日刷新 |
+| `/subscribe` | 基于分类的订阅设置，提交至 Google 表格 |
+| `*` | 未匹配或被显式屏蔽的路由的自定义 404 页面（见 `src/blockedRoutes.js`） |
 
 ---
 
@@ -86,19 +91,24 @@ npm run dev
 
 ```
 src/
-├── api/           # GitHub API 集成
-├── components/    # 可复用 UI 组件
-│   ├── Header     # 导航栏
-│   ├── Footer     # 页脚
-│   ├── RepoTable  # 表格视图组件
-│   ├── RepoCard   # 卡片视图组件
-│   └── Settings   # 配置面板
-├── pages/         # 路由页面
+├── api/                 # GitHub API + Google 表格集成
+├── components/          # 可复用 UI 组件
+│   ├── Header           # 导航栏
+│   ├── Footer           # 页脚
+│   ├── RepoTable        # 表格视图组件
+│   ├── RepoCard         # 卡片视图组件
+│   ├── TrendingPeriodPage # 周报/月报页面共用外壳
+│   └── Settings         # 配置面板
+├── pages/               # 路由页面
 │   ├── HomePage
 │   ├── DemoPage
-│   └── SubscriptionPage
-├── locales/       # 国际化翻译
-└── utils/         # 工具函数
+│   ├── WeeklyPage
+│   ├── MonthlyPage
+│   ├── SubscriptionPage
+│   └── NotFoundPage
+├── blockedRoutes.js     # 需强制走 404 页面的路径
+├── locales/             # 国际化翻译
+└── utils/               # 工具函数
 ```
 
 ---
@@ -111,18 +121,39 @@ src/
 # 设置环境变量
 echo "GITHUB_TOKEN=your_token" > .env
 
-# 运行脚本
-node index.js
+# 按周期运行脚本（默认 daily）
+node index.js --period=daily
+node index.js --period=weekly
+node index.js --period=monthly
+
+# 或使用 npm
+npm run trending:daily
+npm run trending:weekly
+npm run trending:monthly
 ```
 
-输出文件保存到 `docs/YYYY/MM/`，格式为 Markdown、JSON 和 CSV。
+每个周期都会以该周期起始日期命名，保存一份 JSON + CSV 快照：
+
+| 周期 | 输出路径 | 文件名 |
+|------|----------|--------|
+| `daily` | `docs/YYYY/MM/` | `YYYY-MM-DD`（今天） |
+| `weekly` | `docs/weekly/YYYY/MM/` | `YYYY-MM-DD`（当前 ISO 周的周一） |
+| `monthly` | `docs/monthly/YYYY/` | `YYYY-MM`（当前月） |
 
 ### 使用 Cron 自动化
 
 ```bash
 # 每天上午 9 点执行
-0 9 * * * cd /path/to/github-trending && node index.js
+0 9 * * * cd /path/to/github-trending && npm run trending:daily
+
+# 每周一上午 9 点执行
+0 9 * * 1 cd /path/to/github-trending && npm run trending:weekly
+
+# 每月 1 日上午 9 点执行
+0 9 1 * * cd /path/to/github-trending && npm run trending:monthly
 ```
+
+`scripts/` 目录下也提供了对应周期的现成脚本（`run.sh`、`run-weekly.sh`、`run-monthly.sh`）。
 
 ---
 
@@ -136,6 +167,16 @@ node index.js
 - **显示字段** - 从 20+ 个仓库属性中选择
 - **每页数量** - 每页仓库数（1-100）
 - **语言** - 英文或中文
+
+### 订阅 → Google 表格
+
+`/subscribe` 表单会将提交内容 POST 到 Google Apps Script Web App，并追加写入 Google 表格。请在 `.env` 中设置该 Webhook 地址：
+
+```bash
+VITE_GOOGLE_SHEETS_WEBHOOK_URL=https://script.google.com/macros/s/.../exec
+```
+
+Apps Script 的部署步骤见 `docs/subscribe-google-sheets-setup.md`（仅本地保留，未纳入 git 版本控制）。未设置该变量时，提交会明确报错，而不是静默失败。
 
 ### 可用字段
 

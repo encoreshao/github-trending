@@ -23,6 +23,8 @@ A modern web application for discovering trending GitHub repositories. Features 
 | **Real-time Data** | Live GitHub API integration for trending repositories |
 | **Dual View Modes** | Table view for data analysis, Card view for visual browsing |
 | **Smart Filtering** | Filter by categories, keywords, and 20+ attributes |
+| **Weekly & Monthly Snapshots** | Curated top-20 pages refreshed on a rolling schedule, with week-over-week/month-over-month comparisons |
+| **Personalized Subscriptions** | Pick topics of interest and submit them straight to a Google Sheet |
 | **Export Options** | Download as CSV, JSON, or copy to clipboard |
 | **Dark Theme** | Modern glassmorphism design with smooth animations |
 | **Bilingual** | Full English and Chinese language support |
@@ -69,7 +71,10 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 |-------|-------------|
 | `/` | Homepage with feature highlights |
 | `/demo` | Interactive repository analysis tool |
-| `/subscribe` | Category-based subscription setup |
+| `/weekly` | Top 20 repos created in the last 30 days, refreshed every Monday |
+| `/monthly` | Top 20 repos created in the last 90 days, refreshed on the 1st of each month |
+| `/subscribe` | Category-based subscription setup, submits to Google Sheets |
+| `*` | Custom 404 page for unmatched or explicitly blocked routes (see `src/blockedRoutes.js`) |
 
 ---
 
@@ -86,19 +91,24 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ```
 src/
-├── api/           # GitHub API integration
-├── components/    # Reusable UI components
-│   ├── Header     # Navigation bar
-│   ├── Footer     # Site footer
-│   ├── RepoTable  # Table view component
-│   ├── RepoCard   # Card view component
-│   └── Settings   # Configuration panel
-├── pages/         # Route pages
+├── api/                 # GitHub API + Google Sheets integration
+├── components/          # Reusable UI components
+│   ├── Header           # Navigation bar
+│   ├── Footer           # Site footer
+│   ├── RepoTable        # Table view component
+│   ├── RepoCard         # Card view component
+│   ├── TrendingPeriodPage # Shared shell for Weekly/Monthly pages
+│   └── Settings         # Configuration panel
+├── pages/               # Route pages
 │   ├── HomePage
 │   ├── DemoPage
-│   └── SubscriptionPage
-├── locales/       # i18n translations
-└── utils/         # Helper functions
+│   ├── WeeklyPage
+│   ├── MonthlyPage
+│   ├── SubscriptionPage
+│   └── NotFoundPage
+├── blockedRoutes.js     # Paths to force through the 404 page
+├── locales/             # i18n translations
+└── utils/               # Helper functions
 ```
 
 ---
@@ -111,18 +121,39 @@ For automated data collection:
 # Set up environment
 echo "GITHUB_TOKEN=your_token" > .env
 
-# Run the script
-node index.js
+# Run the script for a given period (defaults to daily)
+node index.js --period=daily
+node index.js --period=weekly
+node index.js --period=monthly
+
+# or via npm
+npm run trending:daily
+npm run trending:weekly
+npm run trending:monthly
 ```
 
-Output files are saved to `docs/YYYY/MM/` as Markdown, JSON, and CSV.
+Each period saves a JSON + CSV snapshot named by the period's start date:
+
+| Period | Output path | Filename |
+|--------|-------------|----------|
+| `daily` | `docs/YYYY/MM/` | `YYYY-MM-DD` (today) |
+| `weekly` | `docs/weekly/YYYY/MM/` | `YYYY-MM-DD` (Monday of the current ISO week) |
+| `monthly` | `docs/monthly/YYYY/` | `YYYY-MM` (current month) |
 
 ### Automate with Cron
 
 ```bash
 # Daily at 9 AM
-0 9 * * * cd /path/to/github-trending && node index.js
+0 9 * * * cd /path/to/github-trending && npm run trending:daily
+
+# Weekly, Monday at 9 AM
+0 9 * * 1 cd /path/to/github-trending && npm run trending:weekly
+
+# Monthly, 1st of the month at 9 AM
+0 9 1 * * cd /path/to/github-trending && npm run trending:monthly
 ```
+
+Ready-made wrappers for each cadence also live in `scripts/` (`run.sh`, `run-weekly.sh`, `run-monthly.sh`).
 
 ---
 
@@ -136,6 +167,16 @@ Settings are automatically saved in localStorage:
 - **Display Fields** - Choose from 20+ repository attributes
 - **Page Size** - Number of repos per page (1-100)
 - **Language** - English or Chinese
+
+### Subscribe → Google Sheets
+
+The `/subscribe` form posts submissions to a Google Apps Script Web App, which appends them to a Google Sheet. Set the webhook URL in `.env`:
+
+```bash
+VITE_GOOGLE_SHEETS_WEBHOOK_URL=https://script.google.com/macros/s/.../exec
+```
+
+See `docs/subscribe-google-sheets-setup.md` (local-only, not tracked in git) for the Apps Script deployment steps. Without this variable set, submissions fail with a clear error instead of silently doing nothing.
 
 ### Available Fields
 
