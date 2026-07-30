@@ -1,24 +1,5 @@
 [
   {
-    "id": 1255180606,
-    "name": "odysseus",
-    "full_name": "pewdiepie-archdaemon/odysseus",
-    "owner": {
-      "login": "pewdiepie-archdaemon",
-      "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
-    },
-    "description": "Self-hosted AI workspace. ",
-    "topics": [],
-    "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "stargazers_count": 81849,
-    "language": "Python",
-    "forks_count": 10741,
-    "open_issues_count": 1624,
-    "created_at": "2026-05-31T14:05:51Z",
-    "updated_at": "2026-07-09T09:50:07Z",
-    "pushed_at": "2026-07-08T22:56:33Z"
-  },
-  {
     "id": 1266797999,
     "name": "ponytail",
     "full_name": "DietrichGebert/ponytail",
@@ -40,131 +21,32 @@
       "yagni"
     ],
     "html_url": "https://github.com/DietrichGebert/ponytail",
-    "stargazers_count": 78520,
+    "stargazers_count": 90966,
     "language": "JavaScript",
-    "forks_count": 4200,
-    "open_issues_count": 83,
+    "forks_count": 5015,
+    "open_issues_count": 107,
     "created_at": "2026-06-12T00:52:37Z",
-    "updated_at": "2026-07-09T09:53:29Z",
-    "pushed_at": "2026-07-09T09:52:05Z"
+    "updated_at": "2026-07-29T02:01:39Z",
+    "pushed_at": "2026-07-15T21:32:15Z"
   },
   {
-    "id": 1223170290,
-    "name": "open-design",
-    "full_name": "nexu-io/open-design",
+    "id": 1255180606,
+    "name": "odysseus",
+    "full_name": "odysseus-dev/odysseus",
     "owner": {
-      "login": "nexu-io",
-      "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+      "login": "odysseus-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/305418735?v=4"
     },
-    "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-design",
-      "byok",
-      "claude-code-for-design",
-      "claude-design",
-      "codex-design",
-      "coding-agents",
-      "cursor-design",
-      "design-systems",
-      "design-tools",
-      "desktop-app",
-      "figma-alternative",
-      "generative-ai",
-      "hermes-agent",
-      "local-first",
-      "no-code",
-      "prototyping",
-      "ui-generator",
-      "vibe-coding"
-    ],
-    "html_url": "https://github.com/nexu-io/open-design",
-    "stargazers_count": 76520,
-    "language": "TypeScript",
-    "forks_count": 8734,
-    "open_issues_count": 516,
-    "created_at": "2026-04-28T04:25:20Z",
-    "updated_at": "2026-07-09T09:50:57Z",
-    "pushed_at": "2026-07-09T09:51:10Z"
-  },
-  {
-    "id": 1219596233,
-    "name": "nature-skills",
-    "full_name": "Yuan1z0825/nature-skills",
-    "owner": {
-      "login": "Yuan1z0825",
-      "avatar_url": "https://avatars.githubusercontent.com/u/140061814?v=4"
-    },
-    "description": "符合nature论文学术表达和科研绘图的Skill",
-    "topics": [
-      "codex-skills",
-      "nature",
-      "nature-skills"
-    ],
-    "html_url": "https://github.com/Yuan1z0825/nature-skills",
-    "stargazers_count": 27321,
-    "language": "Python",
-    "forks_count": 1654,
-    "open_issues_count": 0,
-    "created_at": "2026-04-24T03:11:46Z",
-    "updated_at": "2026-07-09T09:50:31Z",
-    "pushed_at": "2026-07-09T07:36:12Z"
-  },
-  {
-    "id": 1216785679,
-    "name": "DeepSeek-Reasonix",
-    "full_name": "esengine/DeepSeek-Reasonix",
-    "owner": {
-      "login": "esengine",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18465053?v=4"
-    },
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-    "topics": [
-      "agent",
-      "agent-framework",
-      "ai-agent",
-      "ai-coding",
-      "cli",
-      "coding-agent",
-      "deepseek",
-      "developer-tools",
-      "ink",
-      "llm",
-      "prompt-caching",
-      "r1",
-      "terminal",
-      "tool-use",
-      "tui",
-      "typescript"
-    ],
-    "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-    "stargazers_count": 26498,
-    "language": "Go",
-    "forks_count": 1655,
-    "open_issues_count": 1081,
-    "created_at": "2026-04-21T08:27:02Z",
-    "updated_at": "2026-07-09T09:51:43Z",
-    "pushed_at": "2026-07-09T07:37:33Z"
-  },
-  {
-    "id": 1207222725,
-    "name": "design.md",
-    "full_name": "google-labs-code/design.md",
-    "owner": {
-      "login": "google-labs-code",
-      "avatar_url": "https://avatars.githubusercontent.com/u/161364575?v=4"
-    },
-    "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "description": "Self-hosted AI workspace. ",
     "topics": [],
-    "html_url": "https://github.com/google-labs-code/design.md",
-    "stargazers_count": 25439,
-    "language": "TypeScript",
-    "forks_count": 1976,
-    "open_issues_count": 43,
-    "created_at": "2026-04-10T17:54:59Z",
-    "updated_at": "2026-07-09T09:50:56Z",
-    "pushed_at": "2026-07-01T19:47:04Z"
+    "html_url": "https://github.com/odysseus-dev/odysseus",
+    "stargazers_count": 84117,
+    "language": "Python",
+    "forks_count": 148,
+    "open_issues_count": 993,
+    "created_at": "2026-05-31T14:05:51Z",
+    "updated_at": "2026-07-29T01:51:08Z",
+    "pushed_at": "2026-07-28T22:02:41Z"
   },
   {
     "id": 1230751102,
@@ -177,221 +59,51 @@
     "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
     "topics": [],
     "html_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
-    "stargazers_count": 24054,
+    "stargazers_count": 26968,
     "language": "Rust",
-    "forks_count": 1529,
-    "open_issues_count": 858,
+    "forks_count": 1725,
+    "open_issues_count": 1032,
     "created_at": "2026-05-06T09:32:49Z",
-    "updated_at": "2026-07-09T09:48:56Z",
-    "pushed_at": "2026-07-09T09:14:07Z"
+    "updated_at": "2026-07-29T02:04:06Z",
+    "pushed_at": "2026-07-28T05:07:31Z"
   },
   {
-    "id": 1215145625,
-    "name": "huashu-design",
-    "full_name": "alchaincyf/huashu-design",
+    "id": 1300902838,
+    "name": "grok-build",
+    "full_name": "xai-org/grok-build",
     "owner": {
-      "login": "alchaincyf",
-      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+      "login": "xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
     },
-    "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
+    "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
     "topics": [],
-    "html_url": "https://github.com/alchaincyf/huashu-design",
-    "stargazers_count": 21146,
-    "language": "HTML",
-    "forks_count": 2525,
-    "open_issues_count": 8,
-    "created_at": "2026-04-19T14:42:06Z",
-    "updated_at": "2026-07-09T09:53:48Z",
-    "pushed_at": "2026-07-02T03:49:28Z"
-  },
-  {
-    "id": 1219042200,
-    "name": "guizang-ppt-skill",
-    "full_name": "op7418/guizang-ppt-skill",
-    "owner": {
-      "login": "op7418",
-      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
-    },
-    "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
-    "topics": [
-      "ai-agent",
-      "claude-code",
-      "codex",
-      "html-deck",
-      "image-generation",
-      "ppt",
-      "presentation",
-      "skill",
-      "skills",
-      "swiss-design",
-      "web-ppt"
-    ],
-    "html_url": "https://github.com/op7418/guizang-ppt-skill",
-    "stargazers_count": 20751,
-    "language": "HTML",
-    "forks_count": 1486,
-    "open_issues_count": 27,
-    "created_at": "2026-04-23T13:23:07Z",
-    "updated_at": "2026-07-09T09:42:35Z",
-    "pushed_at": "2026-06-02T09:53:57Z"
-  },
-  {
-    "id": 1231148626,
-    "name": "ds4",
-    "full_name": "antirez/ds4",
-    "owner": {
-      "login": "antirez",
-      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
-    },
-    "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-    "topics": [],
-    "html_url": "https://github.com/antirez/ds4",
-    "stargazers_count": 18032,
-    "language": "C",
-    "forks_count": 1545,
-    "open_issues_count": 271,
-    "created_at": "2026-05-06T17:17:05Z",
-    "updated_at": "2026-07-09T09:30:42Z",
-    "pushed_at": "2026-07-03T17:30:19Z"
-  },
-  {
-    "id": 1209343409,
-    "name": "obscura",
-    "full_name": "h4ckf0r0day/obscura",
-    "owner": {
-      "login": "h4ckf0r0day",
-      "avatar_url": "https://avatars.githubusercontent.com/u/271927676?v=4"
-    },
-    "description": "The headless browser for AI agents and web scraping",
-    "topics": [
-      "antidetect",
-      "antidetect-browser",
-      "browser",
-      "browser-automation",
-      "cdp",
-      "headless",
-      "playwright",
-      "puppeteer",
-      "rust"
-    ],
-    "html_url": "https://github.com/h4ckf0r0day/obscura",
-    "stargazers_count": 18025,
+    "html_url": "https://github.com/xai-org/grok-build",
+    "stargazers_count": 23258,
     "language": "Rust",
-    "forks_count": 1244,
-    "open_issues_count": 3,
-    "created_at": "2026-04-13T10:31:41Z",
-    "updated_at": "2026-07-09T09:53:13Z",
-    "pushed_at": "2026-07-09T09:07:34Z"
+    "forks_count": 4404,
+    "open_issues_count": 0,
+    "created_at": "2026-07-14T20:04:23Z",
+    "updated_at": "2026-07-29T02:02:42Z",
+    "pushed_at": "2026-07-28T22:50:24Z"
   },
   {
-    "id": 1208221543,
-    "name": "video-use",
-    "full_name": "browser-use/video-use",
+    "id": 1286080397,
+    "name": "colibri",
+    "full_name": "JustVugg/colibri",
     "owner": {
-      "login": "browser-use",
-      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+      "login": "JustVugg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13022503?v=4"
     },
-    "description": "Edit videos with coding agents",
+    "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
     "topics": [],
-    "html_url": "https://github.com/browser-use/video-use",
-    "stargazers_count": 16152,
-    "language": "Python",
-    "forks_count": 1869,
-    "open_issues_count": 52,
-    "created_at": "2026-04-12T01:34:42Z",
-    "updated_at": "2026-07-09T09:50:15Z",
-    "pushed_at": "2026-07-01T00:33:52Z"
-  },
-  {
-    "id": 1213049020,
-    "name": "browser-harness",
-    "full_name": "browser-use/browser-harness",
-    "owner": {
-      "login": "browser-use",
-      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
-    },
-    "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-    "topics": [
-      "ai-agent",
-      "browser-agent",
-      "browser-automation",
-      "browser-use",
-      "browser-use-box",
-      "browser-use-cloud",
-      "cdp",
-      "cloud-browser",
-      "llm",
-      "persistent-browser",
-      "playwright",
-      "telegram-agent",
-      "vps-agent",
-      "web-automation"
-    ],
-    "html_url": "https://github.com/browser-use/browser-harness",
-    "stargazers_count": 15838,
-    "language": "Python",
-    "forks_count": 1473,
-    "open_issues_count": 172,
-    "created_at": "2026-04-17T01:56:15Z",
-    "updated_at": "2026-07-09T09:37:08Z",
-    "pushed_at": "2026-07-08T19:07:30Z"
-  },
-  {
-    "id": 1217040185,
-    "name": "freellmapi",
-    "full_name": "tashfeenahmed/freellmapi",
-    "owner": {
-      "login": "tashfeenahmed",
-      "avatar_url": "https://avatars.githubusercontent.com/u/9307356?v=4"
-    },
-    "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-    "topics": [],
-    "html_url": "https://github.com/tashfeenahmed/freellmapi",
-    "stargazers_count": 15621,
-    "language": "TypeScript",
-    "forks_count": 2272,
-    "open_issues_count": 44,
-    "created_at": "2026-04-21T13:38:59Z",
-    "updated_at": "2026-07-09T09:50:55Z",
-    "pushed_at": "2026-07-07T13:44:20Z"
-  },
-  {
-    "id": 1214346700,
-    "name": "OpenMythos",
-    "full_name": "kyegomez/OpenMythos",
-    "owner": {
-      "login": "kyegomez",
-      "avatar_url": "https://avatars.githubusercontent.com/u/98760976?v=4"
-    },
-    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-    "topics": [
-      "ai",
-      "anthropic",
-      "attention",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-mythos",
-      "claude-sonnet",
-      "deepmind",
-      "gpt-5",
-      "gpt-7",
-      "jax",
-      "looped-transformers",
-      "ml",
-      "pytorch",
-      "sonnet",
-      "torch"
-    ],
-    "html_url": "https://github.com/kyegomez/OpenMythos",
-    "stargazers_count": 14659,
-    "language": "Python",
-    "forks_count": 3297,
-    "open_issues_count": 59,
-    "created_at": "2026-04-18T12:57:52Z",
-    "updated_at": "2026-07-09T09:06:13Z",
-    "pushed_at": "2026-05-23T11:58:48Z"
+    "html_url": "https://github.com/JustVugg/colibri",
+    "stargazers_count": 20625,
+    "language": "C",
+    "forks_count": 2090,
+    "open_issues_count": 84,
+    "created_at": "2026-07-01T12:27:49Z",
+    "updated_at": "2026-07-29T02:01:10Z",
+    "pushed_at": "2026-07-28T22:17:05Z"
   },
   {
     "id": 1273138090,
@@ -404,79 +116,32 @@
     "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
     "topics": [],
     "html_url": "https://github.com/baidu/Unlimited-OCR",
-    "stargazers_count": 13762,
+    "stargazers_count": 19916,
     "language": "Python",
-    "forks_count": 1139,
-    "open_issues_count": 51,
+    "forks_count": 1952,
+    "open_issues_count": 69,
     "created_at": "2026-06-18T08:40:15Z",
-    "updated_at": "2026-07-09T09:51:33Z",
-    "pushed_at": "2026-07-03T05:14:30Z"
+    "updated_at": "2026-07-29T02:04:56Z",
+    "pushed_at": "2026-07-27T07:45:34Z"
   },
   {
-    "id": 1232669890,
-    "name": "SkillOpt",
-    "full_name": "microsoft/SkillOpt",
+    "id": 1231148626,
+    "name": "ds4",
+    "full_name": "antirez/ds4",
     "owner": {
-      "login": "microsoft",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+      "login": "antirez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
     },
-    "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
-    "topics": [
-      "agent-skills",
-      "self-evolving-agents"
-    ],
-    "html_url": "https://github.com/microsoft/SkillOpt",
-    "stargazers_count": 11832,
-    "language": "Python",
-    "forks_count": 1090,
-    "open_issues_count": 27,
-    "created_at": "2026-05-08T06:41:01Z",
-    "updated_at": "2026-07-09T09:48:36Z",
-    "pushed_at": "2026-07-02T14:11:34Z"
-  },
-  {
-    "id": 1265025028,
-    "name": "MiMo-Code",
-    "full_name": "XiaomiMiMo/MiMo-Code",
-    "owner": {
-      "login": "XiaomiMiMo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
-    },
-    "description": "MiMo Code: Where Models and Agents Co-Evolve",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "cli",
-      "mimo",
-      "mimo-code"
-    ],
-    "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "stargazers_count": 11677,
-    "language": "TypeScript",
-    "forks_count": 1147,
-    "open_issues_count": 722,
-    "created_at": "2026-06-10T11:52:41Z",
-    "updated_at": "2026-07-09T09:44:20Z",
-    "pushed_at": "2026-07-09T09:44:10Z"
-  },
-  {
-    "id": 1211752857,
-    "name": "lingbot-map",
-    "full_name": "Robbyant/lingbot-map",
-    "owner": {
-      "login": "Robbyant",
-      "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
-    },
-    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
     "topics": [],
-    "html_url": "https://github.com/Robbyant/lingbot-map",
-    "stargazers_count": 10313,
-    "language": "Python",
-    "forks_count": 1033,
-    "open_issues_count": 60,
-    "created_at": "2026-04-15T17:59:48Z",
-    "updated_at": "2026-07-09T09:06:41Z",
-    "pushed_at": "2026-07-06T07:43:08Z"
+    "html_url": "https://github.com/antirez/ds4",
+    "stargazers_count": 19370,
+    "language": "C",
+    "forks_count": 1719,
+    "open_issues_count": 350,
+    "created_at": "2026-05-06T17:17:05Z",
+    "updated_at": "2026-07-29T01:01:23Z",
+    "pushed_at": "2026-07-28T12:04:52Z"
   },
   {
     "id": 1241960226,
@@ -496,12 +161,282 @@
       "repository-level-context"
     ],
     "html_url": "https://github.com/alibaba/open-code-review",
-    "stargazers_count": 10238,
+    "stargazers_count": 15526,
     "language": "Go",
-    "forks_count": 678,
-    "open_issues_count": 47,
+    "forks_count": 1051,
+    "open_issues_count": 67,
     "created_at": "2026-05-18T02:16:36Z",
-    "updated_at": "2026-07-09T09:45:14Z",
-    "pushed_at": "2026-07-09T09:32:27Z"
+    "updated_at": "2026-07-29T02:03:23Z",
+    "pushed_at": "2026-07-28T13:56:47Z"
+  },
+  {
+    "id": 1232669890,
+    "name": "SkillOpt",
+    "full_name": "microsoft/SkillOpt",
+    "owner": {
+      "login": "microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+    "topics": [
+      "agent-skills",
+      "self-evolving-agents"
+    ],
+    "html_url": "https://github.com/microsoft/SkillOpt",
+    "stargazers_count": 15260,
+    "language": "Python",
+    "forks_count": 1407,
+    "open_issues_count": 26,
+    "created_at": "2026-05-08T06:41:01Z",
+    "updated_at": "2026-07-29T00:11:06Z",
+    "pushed_at": "2026-07-28T09:35:38Z"
+  },
+  {
+    "id": 1277477208,
+    "name": "openwiki",
+    "full_name": "langchain-ai/openwiki",
+    "owner": {
+      "login": "langchain-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4"
+    },
+    "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+    "topics": [],
+    "html_url": "https://github.com/langchain-ai/openwiki",
+    "stargazers_count": 13491,
+    "language": "TypeScript",
+    "forks_count": 945,
+    "open_issues_count": 126,
+    "created_at": "2026-06-22T23:48:26Z",
+    "updated_at": "2026-07-29T02:02:10Z",
+    "pushed_at": "2026-07-29T00:43:49Z"
+  },
+  {
+    "id": 1238120057,
+    "name": "i-have-adhd",
+    "full_name": "ayghri/i-have-adhd",
+    "owner": {
+      "login": "ayghri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32200675?v=4"
+    },
+    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "topics": [
+      "adhd",
+      "claude-",
+      "claude-code-plugin",
+      "claude-skills",
+      "developer-tools",
+      "productivity"
+    ],
+    "html_url": "https://github.com/ayghri/i-have-adhd",
+    "stargazers_count": 12831,
+    "language": "Python",
+    "forks_count": 667,
+    "open_issues_count": 13,
+    "created_at": "2026-05-13T20:42:06Z",
+    "updated_at": "2026-07-29T02:03:37Z",
+    "pushed_at": "2026-07-28T17:41:32Z"
+  },
+  {
+    "id": 1301597356,
+    "name": "Codex-Dream-Skin",
+    "full_name": "Fei-Away/Codex-Dream-Skin",
+    "owner": {
+      "login": "Fei-Away",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100042407?v=4"
+    },
+    "description": "Codex Dream Skin",
+    "topics": [],
+    "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "stargazers_count": 12579,
+    "language": "JavaScript",
+    "forks_count": 1255,
+    "open_issues_count": 71,
+    "created_at": "2026-07-15T12:34:51Z",
+    "updated_at": "2026-07-29T01:57:38Z",
+    "pushed_at": "2026-07-26T16:03:55Z"
+  },
+  {
+    "id": 1265025028,
+    "name": "MiMo-Code",
+    "full_name": "XiaomiMiMo/MiMo-Code",
+    "owner": {
+      "login": "XiaomiMiMo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
+    },
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "mimo",
+      "mimo-code"
+    ],
+    "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "stargazers_count": 12526,
+    "language": "TypeScript",
+    "forks_count": 1278,
+    "open_issues_count": 840,
+    "created_at": "2026-06-10T11:52:41Z",
+    "updated_at": "2026-07-29T01:28:27Z",
+    "pushed_at": "2026-07-28T15:19:41Z"
+  },
+  {
+    "id": 1226123343,
+    "name": "book-to-skill",
+    "full_name": "virgiliojr94/book-to-skill",
+    "owner": {
+      "login": "virgiliojr94",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23645449?v=4"
+    },
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "topics": [],
+    "html_url": "https://github.com/virgiliojr94/book-to-skill",
+    "stargazers_count": 11485,
+    "language": "Python",
+    "forks_count": 1344,
+    "open_issues_count": 14,
+    "created_at": "2026-05-01T02:09:39Z",
+    "updated_at": "2026-07-29T02:04:46Z",
+    "pushed_at": "2026-07-27T22:42:43Z"
+  },
+  {
+    "id": 1306128367,
+    "name": "openworker",
+    "full_name": "andrewyng/openworker",
+    "owner": {
+      "login": "andrewyng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3710007?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/andrewyng/openworker",
+    "stargazers_count": 10055,
+    "language": "Python",
+    "forks_count": 1317,
+    "open_issues_count": 275,
+    "created_at": "2026-07-20T01:52:32Z",
+    "updated_at": "2026-07-29T02:04:06Z",
+    "pushed_at": "2026-07-28T19:34:17Z"
+  },
+  {
+    "id": 1263648864,
+    "name": "loop-engineering",
+    "full_name": "cobusgreyling/loop-engineering",
+    "owner": {
+      "login": "cobusgreyling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7868717?v=4"
+    },
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-coding",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "devops-automation",
+      "devtools",
+      "github-actions",
+      "grok",
+      "llm",
+      "loop-engineering",
+      "mcp",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/cobusgreyling/loop-engineering",
+    "stargazers_count": 9551,
+    "language": "JavaScript",
+    "forks_count": 1307,
+    "open_issues_count": 25,
+    "created_at": "2026-06-09T06:28:20Z",
+    "updated_at": "2026-07-29T01:53:56Z",
+    "pushed_at": "2026-07-28T19:53:58Z"
+  },
+  {
+    "id": 1257186289,
+    "name": "Mineradio",
+    "full_name": "XxHuberrr/Mineradio",
+    "owner": {
+      "login": "XxHuberrr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281847693?v=4"
+    },
+    "description": "一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。",
+    "topics": [],
+    "html_url": "https://github.com/XxHuberrr/Mineradio",
+    "stargazers_count": 9150,
+    "language": "JavaScript",
+    "forks_count": 711,
+    "open_issues_count": 317,
+    "created_at": "2026-06-02T12:50:48Z",
+    "updated_at": "2026-07-29T02:02:31Z",
+    "pushed_at": "2026-07-28T15:31:43Z"
+  },
+  {
+    "id": 1237819660,
+    "name": "reverse-skill",
+    "full_name": "zhaoxuya520/reverse-skill",
+    "owner": {
+      "login": "zhaoxuya520",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147215175?v=4"
+    },
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "topics": [],
+    "html_url": "https://github.com/zhaoxuya520/reverse-skill",
+    "stargazers_count": 9084,
+    "language": "PowerShell",
+    "forks_count": 1402,
+    "open_issues_count": 6,
+    "created_at": "2026-05-13T14:37:57Z",
+    "updated_at": "2026-07-29T01:43:42Z",
+    "pushed_at": "2026-07-25T16:21:42Z"
+  },
+  {
+    "id": 1251775733,
+    "name": "ian-xiaohei-illustrations",
+    "full_name": "helloianneo/ian-xiaohei-illustrations",
+    "owner": {
+      "login": "helloianneo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89686060?v=4"
+    },
+    "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+    "topics": [
+      "ai-agent",
+      "chinese",
+      "codex-skill",
+      "handdrawn",
+      "illustration",
+      "image-generation",
+      "xiaohei"
+    ],
+    "html_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "stargazers_count": 8692,
+    "language": null,
+    "forks_count": 1070,
+    "open_issues_count": 15,
+    "created_at": "2026-05-27T22:47:56Z",
+    "updated_at": "2026-07-29T00:58:05Z",
+    "pushed_at": "2026-06-03T11:35:43Z"
+  },
+  {
+    "id": 1264986626,
+    "name": "improve",
+    "full_name": "shadcn/improve",
+    "owner": {
+      "login": "shadcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
+    },
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "topics": [],
+    "html_url": "https://github.com/shadcn/improve",
+    "stargazers_count": 8685,
+    "language": null,
+    "forks_count": 382,
+    "open_issues_count": 11,
+    "created_at": "2026-06-10T11:06:58Z",
+    "updated_at": "2026-07-29T02:01:03Z",
+    "pushed_at": "2026-06-15T06:18:39Z"
   }
 ]
