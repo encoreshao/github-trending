@@ -8,7 +8,7 @@
   overflow: hidden;
   text-decoration: none;
   color: inherit;
-  border: 1px solid rgba(148, 163, 184, 0.12);
+  border: 1px solid rgb(var(--c-border) / 0.12);
 }
 
 .spotlight-bg {
@@ -32,7 +32,7 @@
   font-size: 16px;
   font-weight: 700;
   color: #ffffff;
-  background: rgba(15, 23, 42, 0.6);
+  background: rgb(var(--c-bg) / 0.6);
   padding: 6px 14px;
   border-radius: 20px;
   backdrop-filter: blur(6px);
@@ -54,7 +54,7 @@
 
 .spotlight-owner {
   font-size: 13px;
-  color: #cbd5e1;
+  color: rgb(var(--c-text-secondary));
   margin: 0 0 10px;
 }
 

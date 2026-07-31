@@ -1,0 +1,20 @@
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid rgb(var(--c-border) / 0.2);
+  background: rgb(var(--c-surface) / 0.5);
+  color: rgb(var(--c-text-secondary));
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.theme-toggle:hover {
+  border-color: rgb(var(--c-accent-light) / 0.5);
+  color: rgb(var(--c-accent-light));
+  background: rgb(var(--c-surface) / 0.8);
+}

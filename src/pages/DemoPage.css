@@ -6,19 +6,19 @@
   --demo-primary: #3B82F6;
   --demo-primary-light: #60A5FA;
   --demo-primary-dark: #2563EB;
-  --demo-secondary: #1E293B;
-  --demo-background: #0F172A;
-  --demo-background-light: #1E293B;
-  --demo-text: #F1F5F9;
-  --demo-text-muted: #94A3B8;
-  --demo-border: #334155;
+  --demo-secondary: rgb(var(--c-surface));
+  --demo-background: rgb(var(--c-bg));
+  --demo-background-light: rgb(var(--c-surface));
+  --demo-text: rgb(var(--c-text-heading));
+  --demo-text-muted: rgb(var(--c-text-secondary));
+  --demo-border: rgb(var(--c-surface-alt));
   --demo-accent: #22D3EE;
   --demo-success: #10B981;
   --demo-warning: #F59E0B;
   --demo-gradient-start: #3B82F6;
   --demo-gradient-end: #22D3EE;
-  --demo-glass-bg: rgba(30, 41, 59, 0.6);
-  --demo-glass-border: rgba(148, 163, 184, 0.1);
+  --demo-glass-bg: rgb(var(--c-surface) / 0.6);
+  --demo-glass-border: rgb(var(--c-border) / 0.1);
 }
 
 .demo-page {
@@ -64,8 +64,8 @@
   right: 0;
   bottom: 0;
   background-image: 
-    linear-gradient(rgba(148, 163, 184, 0.03) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(148, 163, 184, 0.03) 1px, transparent 1px);
+    linear-gradient(rgb(var(--c-border) / 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(var(--c-border) / 0.03) 1px, transparent 1px);
   background-size: 60px 60px;
   pointer-events: none;
 }

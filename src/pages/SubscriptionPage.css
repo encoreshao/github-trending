@@ -3,9 +3,9 @@
 
 .subscription-page {
   font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  background: #0f172a;
+  background: rgb(var(--c-bg));
   min-height: 100vh;
-  color: #e5e7eb;
+  color: rgb(var(--c-text-body));
   padding-bottom: 40px;
 }
 
@@ -36,7 +36,7 @@
 
 .subscription-subtitle {
   font-size: 21px;
-  color: #94a3b8;
+  color: rgb(var(--c-text-secondary));
   margin: 0;
 }
 
@@ -48,7 +48,7 @@
 .section-title {
   font-size: 32px;
   font-weight: 700;
-  color: #f1f5f9;
+  color: rgb(var(--c-text-heading));
   margin: 0;
   text-align: center;
 }
@@ -73,7 +73,7 @@
 
 .section-subtitle {
   font-size: 16px;
-  color: #94a3b8;
+  color: rgb(var(--c-text-secondary));
   margin: 0 0 40px 0;
   text-align: center;
 }
@@ -89,11 +89,11 @@
   display: inline-flex;
   align-items: center;
   gap: 12px;
-  background: rgba(30, 41, 59, 0.5);
-  border: 1px solid rgba(148, 163, 184, 0.18);
+  background: rgb(var(--c-surface) / 0.5);
+  border: 1px solid rgb(var(--c-border) / 0.18);
   border-radius: 999px;
   padding: 16px 28px;
-  color: #cbd5e1;
+  color: rgb(var(--c-text-secondary));
   font-size: 17px;
   font-weight: 600;
   font-family: inherit;
@@ -103,7 +103,7 @@
 
 .category-chip:hover {
   border-color: rgba(96, 165, 250, 0.4);
-  background: rgba(51, 65, 85, 0.6);
+  background: rgb(var(--c-surface-alt) / 0.6);
   transform: translateY(-2px);
 }
 
@@ -131,8 +131,8 @@
 .user-form-panel {
   max-width: 720px;
   margin: 0 auto;
-  background: rgba(30, 41, 59, 0.35);
-  border: 1px solid rgba(148, 163, 184, 0.12);
+  background: rgb(var(--c-surface) / 0.35);
+  border: 1px solid rgb(var(--c-border) / 0.12);
   border-radius: 16px;
   padding: 32px;
 }
@@ -158,7 +158,7 @@
   display: block;
   font-size: 11px;
   font-weight: 700;
-  color: #94a3b8;
+  color: rgb(var(--c-text-secondary));
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -178,14 +178,14 @@
 }
 
 .field-tag.optional {
-  color: #64748b;
+  color: rgb(var(--c-text-muted));
   background: rgba(100, 116, 139, 0.12);
 }
 
 .form-input {
-  background: rgba(30, 41, 59, 0.5) !important;
-  border: 1px solid rgba(148, 163, 184, 0.2) !important;
-  color: #e5e7eb !important;
+  background: rgb(var(--c-surface) / 0.5) !important;
+  border: 1px solid rgb(var(--c-border) / 0.2) !important;
+  color: rgb(var(--c-text-body)) !important;
   font-size: 16px !important;
   border-radius: 8px !important;
   padding: 12px 16px !important;
@@ -194,13 +194,13 @@
 
 .form-input:hover {
   border-color: #60a5fa !important;
-  background: rgba(30, 41, 59, 0.7) !important;
+  background: rgb(var(--c-surface) / 0.7) !important;
 }
 
 .form-input.ant-input-affix-wrapper-focused,
 .form-input:focus-within {
   border-color: #3b82f6 !important;
-  background: rgba(30, 41, 59, 0.7) !important;
+  background: rgb(var(--c-surface) / 0.7) !important;
   box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15) !important;
 }
 
@@ -216,15 +216,15 @@
 
 .form-input input {
   background: transparent !important;
-  color: #e5e7eb !important;
+  color: rgb(var(--c-text-body)) !important;
 }
 
 .form-input input::placeholder {
-  color: #64748b !important;
+  color: rgb(var(--c-text-muted)) !important;
 }
 
 .form-input .ant-input-prefix {
-  color: #94a3b8 !important;
+  color: rgb(var(--c-text-secondary)) !important;
   margin-right: 10px !important;
 }
 
@@ -263,15 +263,15 @@
 }
 
 .subscribe-button:disabled {
-  background: rgba(51, 65, 85, 0.5) !important;
-  color: #64748b !important;
+  background: rgb(var(--c-surface-alt) / 0.5) !important;
+  color: rgb(var(--c-text-muted)) !important;
   cursor: not-allowed;
 }
 
 .subscribe-note {
   margin-top: 16px;
   font-size: 14px;
-  color: #94a3b8;
+  color: rgb(var(--c-text-secondary));
 }
 
 /* Responsive Design */

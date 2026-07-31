@@ -1,0 +1,47 @@
+/* Theme tokens — RGB triplets so component CSS can apply its own alpha via
+   rgb(var(--c-token) / 0.5). Dark is the default (matches the site's original
+   look); the [data-theme="light"] block below is the only thing that changes
+   when the user toggles themes. */
+:root {
+  color-scheme: dark;
+
+  --c-bg: 15 23 42;
+  --c-surface: 30 41 59;
+  --c-surface-alt: 51 65 85;
+  --c-border: 148 163 184;
+
+  --c-text-heading: 241 245 249;
+  --c-text-body: 229 231 235;
+  --c-text-secondary: 148 163 184;
+  --c-text-muted: 100 116 139;
+
+  --c-accent: 59 130 246;
+  --c-accent-light: 96 165 250;
+  --c-accent-strong: 37 99 235;
+  --c-cyan: 34 211 238;
+
+  --c-success: 74 222 128;
+  --c-success-strong: 16 185 129;
+  --c-warning: 245 158 11;
+  --c-warning-strong: 217 119 6;
+  --c-danger: 239 68 68;
+  --c-gold: 250 204 21;
+  --c-silver: 203 213 225;
+
+  --c-white: 255 255 255;
+  --c-black: 0 0 0;
+}
+
+:root[data-theme='light'] {
+  color-scheme: light;
+
+  --c-bg: 248 250 252;
+  --c-surface: 255 255 255;
+  --c-surface-alt: 241 245 249;
+  --c-border: 203 213 225;
+
+  --c-text-heading: 15 23 42;
+  --c-text-body: 30 41 59;
+  --c-text-secondary: 71 85 105;
+  --c-text-muted: 100 116 139;
+}

@@ -1,7 +1,7 @@
 .notfound-page {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  color: #e5e7eb;
-  background: #0f172a;
+  color: rgb(var(--c-text-body));
+  background: rgb(var(--c-bg));
   min-height: 100vh;
 }
 
@@ -35,7 +35,7 @@
 
 .notfound-tagline {
   font-size: 17px;
-  color: #94a3b8;
+  color: rgb(var(--c-text-secondary));
   margin: 0;
 }
 

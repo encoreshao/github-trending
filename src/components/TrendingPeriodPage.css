@@ -1,7 +1,7 @@
 .trending-period-page {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  color: #e5e7eb;
-  background: #0f172a;
+  color: rgb(var(--c-text-body));
+  background: rgb(var(--c-bg));
   min-height: 100vh;
 }
 
@@ -46,7 +46,7 @@
 .period-title {
   font-size: 36px;
   font-weight: 800;
-  color: #f1f5f9;
+  color: rgb(var(--c-text-heading));
   margin: 0 0 12px;
 }
 
@@ -58,7 +58,7 @@
 }
 
 .period-description {
-  color: #94a3b8;
+  color: rgb(var(--c-text-secondary));
   font-size: 15px;
   max-width: 640px;
   margin: 0 0 24px;
@@ -76,8 +76,8 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  background: rgba(51, 65, 85, 0.35);
-  border: 1px solid rgba(148, 163, 184, 0.15);
+  background: rgb(var(--c-surface-alt) / 0.35);
+  border: 1px solid rgb(var(--c-border) / 0.15);
   border-radius: 12px;
   padding: 10px 16px;
   text-decoration: none;
@@ -95,7 +95,7 @@
 .top3-name {
   font-weight: 600;
   font-size: 14px;
-  color: #f1f5f9;
+  color: rgb(var(--c-text-heading));
 }
 
 .top3-stars {
@@ -132,12 +132,12 @@
 }
 
 .top3-item-silver .top3-stars {
-  color: #cbd5e1;
+  color: rgb(var(--c-text-secondary));
 }
 
 .top3-item-silver:hover {
   border-color: rgba(203, 213, 225, 0.55);
-  background: rgba(148, 163, 184, 0.22);
+  background: rgb(var(--c-border) / 0.22);
 }
 
 .top3-item-bronze {
@@ -158,8 +158,8 @@
   display: flex;
   flex-wrap: wrap;
   margin: 16px 24px 32px;
-  background: rgba(30, 41, 59, 0.35);
-  border: 1px solid rgba(148, 163, 184, 0.12);
+  background: rgb(var(--c-surface) / 0.35);
+  border: 1px solid rgb(var(--c-border) / 0.12);
   border-radius: 16px;
   overflow: hidden;
 }
@@ -169,7 +169,7 @@
 }
 
 .period-insights > div:not(:last-child) {
-  border-right: 1px solid rgba(148, 163, 184, 0.15);
+  border-right: 1px solid rgb(var(--c-border) / 0.15);
 }
 
 .period-stats {
@@ -191,7 +191,7 @@
 
 .period-stat-label {
   font-size: 11px;
-  color: #94a3b8;
+  color: rgb(var(--c-text-secondary));
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -199,7 +199,7 @@
 .insights-label {
   display: block;
   font-size: 11px;
-  color: #64748b;
+  color: rgb(var(--c-text-muted));
   text-transform: uppercase;
   letter-spacing: 0.06em;
   margin-bottom: 8px;
@@ -219,9 +219,9 @@
 }
 
 .language-chip {
-  background: rgba(51, 65, 85, 0.4);
-  border: 1px solid rgba(148, 163, 184, 0.15);
-  color: #cbd5e1;
+  background: rgb(var(--c-surface-alt) / 0.4);
+  border: 1px solid rgb(var(--c-border) / 0.15);
+  color: rgb(var(--c-text-secondary));
   font-size: 12px;
   padding: 6px 10px;
   border-radius: 20px;
@@ -257,7 +257,7 @@
 .loading-spinner {
   width: 48px;
   height: 48px;
-  border: 4px solid rgba(148, 163, 184, 0.2);
+  border: 4px solid rgb(var(--c-border) / 0.2);
   border-top-color: #60a5fa;
   border-radius: 50%;
   animation: spin 0.8s linear infinite;
@@ -278,7 +278,7 @@
 .period-empty {
   text-align: center;
   padding: 80px 24px;
-  color: #94a3b8;
+  color: rgb(var(--c-text-secondary));
   font-size: 15px;
 }
 
@@ -316,7 +316,7 @@
 
   .period-insights > div:not(:last-child) {
     border-right: none;
-    border-bottom: 1px solid rgba(148, 163, 184, 0.15);
+    border-bottom: 1px solid rgb(var(--c-border) / 0.15);
   }
 
   .period-title {

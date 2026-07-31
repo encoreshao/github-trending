@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 .footer {
-  background: linear-gradient(180deg, #0F172A 0%, #0A0F1C 100%);
-  border-top: 1px solid rgba(51, 65, 85, 0.5);
+  background: linear-gradient(180deg, rgb(var(--c-bg)) 0%, #0A0F1C 100%);
+  border-top: 1px solid rgb(var(--c-surface-alt) / 0.5);
   padding: 80px 24px 32px;
   margin-top: 0;
   position: relative;
@@ -34,7 +34,7 @@
   font-family: 'Space Grotesk', sans-serif;
   font-size: 22px;
   font-weight: 700;
-  color: #F1F5F9;
+  color: rgb(var(--c-text-heading));
   margin: 0 0 16px 0;
   letter-spacing: -0.02em;
 }
@@ -43,14 +43,14 @@
   font-family: 'Space Grotesk', sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #F1F5F9;
+  color: rgb(var(--c-text-heading));
   margin: 0 0 20px 0;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
 
 .footer-section p {
-  color: #64748B;
+  color: rgb(var(--c-text-muted));
   line-height: 1.7;
   margin: 0;
   font-size: 15px;
@@ -63,7 +63,7 @@
 }
 
 .footer-link {
-  color: #94A3B8;
+  color: rgb(var(--c-text-secondary));
   text-decoration: none;
   font-size: 15px;
   font-weight: 500;
@@ -88,13 +88,13 @@
 .social-link {
   width: 44px;
   height: 44px;
-  background: rgba(30, 41, 59, 0.6);
-  border: 1px solid rgba(51, 65, 85, 0.5);
+  background: rgb(var(--c-surface) / 0.6);
+  border: 1px solid rgb(var(--c-surface-alt) / 0.5);
   border-radius: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #94A3B8;
+  color: rgb(var(--c-text-secondary));
   text-decoration: none;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   font-size: 18px;
@@ -112,7 +112,7 @@
   max-width: 1400px;
   margin: 0 auto;
   padding-top: 32px;
-  border-top: 1px solid rgba(51, 65, 85, 0.3);
+  border-top: 1px solid rgb(var(--c-surface-alt) / 0.3);
   text-align: center;
 }
 

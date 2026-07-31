@@ -6,11 +6,11 @@
   --app-primary: #3B82F6;
   --app-primary-light: #60A5FA;
   --app-primary-dark: #2563EB;
-  --app-background: #0F172A;
-  --app-background-light: #1E293B;
-  --app-text: #F1F5F9;
-  --app-text-muted: #94A3B8;
-  --app-border: #334155;
+  --app-background: rgb(var(--c-bg));
+  --app-background-light: rgb(var(--c-surface));
+  --app-text: rgb(var(--c-text-heading));
+  --app-text-muted: rgb(var(--c-text-secondary));
+  --app-border: rgb(var(--c-surface-alt));
   --app-accent: #22D3EE;
   --app-success: #10B981;
   --app-warning: #F59E0B;
@@ -51,8 +51,8 @@ body {
 }
 
 .card {
-  background: linear-gradient(145deg, rgba(30, 41, 59, 0.8) 0%, rgba(15, 23, 42, 0.9) 100%);
-  border: 1px solid rgba(51, 65, 85, 0.5);
+  background: linear-gradient(145deg, rgb(var(--c-surface) / 0.8) 0%, rgb(var(--c-bg) / 0.9) 100%);
+  border: 1px solid rgb(var(--c-surface-alt) / 0.5);
   border-radius: 20px;
   padding: 28px;
   display: flex;
@@ -118,7 +118,7 @@ body {
   font-family: 'Space Grotesk', sans-serif;
   font-size: 20px;
   font-weight: 600;
-  color: #F1F5F9;
+  color: rgb(var(--c-text-heading));
   margin: 0;
   transition: color 0.3s ease;
 }
@@ -129,7 +129,7 @@ body {
 
 .repo-owner {
   font-size: 14px;
-  color: #64748B;
+  color: rgb(var(--c-text-muted));
 }
 
 .repo-stars {
@@ -142,7 +142,7 @@ body {
 }
 
 .description {
-  color: #94A3B8;
+  color: rgb(var(--c-text-secondary));
   font-size: 15px;
   line-height: 1.65;
   margin: 16px 0;
@@ -193,8 +193,8 @@ body {
   display: flex;
   justify-content: space-between;
   font-size: 13px;
-  color: #64748B;
-  border-top: 1px solid rgba(51, 65, 85, 0.5);
+  color: rgb(var(--c-text-muted));
+  border-top: 1px solid rgb(var(--c-surface-alt) / 0.5);
   padding-top: 16px;
   margin-top: auto;
 }

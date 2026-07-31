@@ -1,6 +1,7 @@
 import React from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { GithubOutlined, StarOutlined } from '@ant-design/icons';
+import ThemeToggle from './ThemeToggle';
 import './Header.css';
 
 const Header = () => {
@@ -63,6 +64,7 @@ const Header = () => {
             <StarOutlined className="star-icon" />
             <span>Star on GitHub</span>
           </a>
+          <ThemeToggle />
         </div>
       </nav>
     </header>

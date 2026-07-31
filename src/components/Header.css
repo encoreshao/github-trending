@@ -7,9 +7,9 @@
   left: 16px;
   right: 16px;
   z-index: 100;
-  background: rgba(15, 23, 42, 0.85);
+  background: rgb(var(--c-bg) / 0.85);
   backdrop-filter: blur(20px);
-  border: 1px solid rgba(51, 65, 85, 0.5);
+  border: 1px solid rgb(var(--c-surface-alt) / 0.5);
   border-radius: 16px;
   box-shadow:
     0 4px 24px rgba(0, 0, 0, 0.3),
@@ -36,7 +36,7 @@
   align-items: center;
   gap: 12px;
   text-decoration: none;
-  color: #F1F5F9;
+  color: rgb(var(--c-text-heading));
   font-size: 18px;
   font-weight: 600;
   font-family: 'Space Grotesk', sans-serif;
@@ -71,7 +71,7 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  color: #94A3B8;
+  color: rgb(var(--c-text-secondary));
   text-decoration: none;
   font-size: 14px;
   font-weight: 500;
@@ -83,7 +83,7 @@
 }
 
 .nav-link:hover {
-  color: #F1F5F9;
+  color: rgb(var(--c-text-heading));
   background: rgba(59, 130, 246, 0.1);
   border-color: rgba(59, 130, 246, 0.2);
 }
