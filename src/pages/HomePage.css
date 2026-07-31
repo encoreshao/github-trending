@@ -31,7 +31,7 @@
 
 .hero {
   position: relative;
-  padding: 140px 24px 60px;
+  padding: 200px 24px 60px;
   max-width: 900px;
   margin: 0 auto;
 }
@@ -53,14 +53,10 @@
   flex-wrap: wrap;
 }
 
-.hero-badge-img {
-  height: 20px;
-  border-radius: 4px;
-}
-
 .hero-badge-pill {
   display: inline-flex;
   align-items: center;
+  gap: 6px;
   background: rgb(var(--c-surface-alt) / 0.5);
   border: 1px solid rgb(var(--c-border) / 0.15);
   color: rgb(var(--c-text-secondary));
@@ -68,6 +64,11 @@
   font-weight: 600;
   padding: 4px 12px;
   border-radius: 20px;
+}
+
+.hero-badge-icon {
+  color: #f59e0b;
+  font-size: 12px;
 }
 
 .hero-title {
@@ -196,10 +197,13 @@
   color: rgb(var(--c-text-secondary));
 }
 
-/* Orbiting language bubbles */
+/* Orbiting language bubbles - contained to the visible content area, clear of the fixed header */
 .hero-bubbles {
   position: absolute;
-  inset: 0;
+  top: 200px;
+  bottom: 60px;
+  left: 0;
+  right: 0;
   pointer-events: none;
   z-index: 1;
 }
@@ -224,12 +228,12 @@
   50% { transform: translateY(-14px); }
 }
 
-.hero-bubble-0 { top: 6%; left: 4%; }
-.hero-bubble-1 { top: 40%; left: -2%; }
-.hero-bubble-2 { top: 75%; left: 8%; }
-.hero-bubble-3 { top: 10%; right: 4%; }
-.hero-bubble-4 { top: 42%; right: -2%; }
-.hero-bubble-5 { top: 76%; right: 8%; }
+.hero-bubble-0 { top: 4%; left: 10%; }
+.hero-bubble-1 { top: 38%; left: 2%; }
+.hero-bubble-2 { top: 72%; left: 12%; }
+.hero-bubble-3 { top: 6%; right: 10%; }
+.hero-bubble-4 { top: 40%; right: 2%; }
+.hero-bubble-5 { top: 74%; right: 12%; }
 
 @media (max-width: 968px) {
   .hero-bubbles {

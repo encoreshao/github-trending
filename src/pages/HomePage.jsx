@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { StarFilled } from '@ant-design/icons';
 import { loadLatestCSV, transformCSVData } from '../utils/csvLoader';
 import { formatNumber } from '../utils/formatNumber';
 import Header from '../components/Header';
@@ -22,10 +23,23 @@ const HomePage = () => {
   const [repos, setRepos] = useState([]);
   const [loading, setLoading] = useState(true);
   const [stats, setStats] = useState({ totalRepos: 0 });
+  const [githubStars, setGithubStars] = useState(null);
 
   useEffect(() => {
     loadTrendingRepos();
+    loadGithubStars();
   }, []);
+
+  const loadGithubStars = async () => {
+    try {
+      const response = await fetch(`https://api.github.com/repos/${GITHUB_REPO}`);
+      if (!response.ok) return;
+      const data = await response.json();
+      setGithubStars(data.stargazers_count);
+    } catch (error) {
+      console.error('Error loading GitHub star count:', error);
+    }
+  };
 
   const loadTrendingRepos = async () => {
     try {
@@ -85,11 +99,12 @@ const HomePage = () => {
 
           <div className="hero-content-centered">
             <div className="hero-badges">
-              <img
-                className="hero-badge-img"
-                src={`https://img.shields.io/github/stars/${GITHUB_REPO}?style=flat&label=GitHub%20Stars&color=3b82f6`}
-                alt="GitHub stars"
-              />
+              {githubStars !== null && (
+                <span className="hero-badge-pill">
+                  <StarFilled className="hero-badge-icon" />
+                  {formatNumber(githubStars)} GitHub stars
+                </span>
+              )}
               {!loading && (
                 <span className="hero-badge-pill">{stats.totalRepos}+ repos tracked daily</span>
               )}
