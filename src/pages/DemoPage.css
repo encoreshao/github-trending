@@ -113,7 +113,7 @@
   font-size: 64px;
   font-weight: 700;
   margin: 0 0 20px 0;
-  background: linear-gradient(135deg, #FFFFFF 0%, #60A5FA 50%, #22D3EE 100%);
+  background: linear-gradient(135deg, rgb(var(--c-text-heading)) 0%, #60A5FA 50%, #22D3EE 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;

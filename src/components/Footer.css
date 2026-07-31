@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 .footer {
-  background: linear-gradient(180deg, rgb(var(--c-bg)) 0%, #0A0F1C 100%);
+  background: rgb(var(--c-bg));
   border-top: 1px solid rgb(var(--c-surface-alt) / 0.5);
   padding: 80px 24px 32px;
   margin-top: 0;

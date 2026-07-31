@@ -64,7 +64,7 @@ const RepoCardView = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
-      <div style={{ flex: '0 0 auto', padding: '16px 24px', borderBottom: '1px solid #eee' }}>
+      <div style={{ flex: '0 0 auto', padding: '16px 24px', borderBottom: '1px solid rgb(var(--c-surface-alt) / 0.5)' }}>
         <Space>
           <Button
             onClick={handleExportCSV}
@@ -115,21 +115,21 @@ const RepoCardView = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
               justifyContent: 'center',
               marginBottom: '8px'
             }}>
-              <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#64748B" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+              <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="rgb(var(--c-text-muted))" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M21 12a9 9 0 0 0-9-9 9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9z"/>
                 <path d="M9 9h.01M15 9h.01M8 13a4 4 0 0 0 8 0"/>
               </svg>
             </div>
-            <div style={{ 
-              color: '#94A3B8', 
-              fontSize: '18px', 
+            <div style={{
+              color: 'rgb(var(--c-text-secondary))',
+              fontSize: '18px',
               fontWeight: '600',
               fontFamily: "'Space Grotesk', sans-serif"
             }}>
               {texts.tableNoData}
             </div>
-            <div style={{ 
-              color: '#64748B', 
+            <div style={{
+              color: 'rgb(var(--c-text-muted))',
               fontSize: '14px',
               maxWidth: '300px',
               lineHeight: '1.6'

@@ -1,5 +1,4 @@
 import React from 'react';
-import { BulbOutlined, BulbFilled } from '@ant-design/icons';
 import { useTheme } from '../theme/ThemeContext';
 import './ThemeToggle.css';
 
@@ -15,7 +14,7 @@ const ThemeToggle = () => {
       aria-label={isLight ? 'Switch to dark theme' : 'Switch to light theme'}
       title={isLight ? 'Switch to dark theme' : 'Switch to light theme'}
     >
-      {isLight ? <BulbFilled /> : <BulbOutlined />}
+      <i className={isLight ? 'fas fa-moon' : 'fas fa-sun'}></i>
     </button>
   );
 };
