@@ -1,5 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
-import { LeftOutlined, RightOutlined } from '@ant-design/icons';
+import React, { useState, useEffect } from 'react';
 import { loadLatestCSV, loadPreviousCSV, transformCSVData } from '../utils/csvLoader';
 import { formatNumber } from '../utils/formatNumber';
 import Header from './Header';
@@ -13,13 +12,6 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
   const [loading, setLoading] = useState(true);
   const [lastUpdated, setLastUpdated] = useState(null);
   const [newEntriesCount, setNewEntriesCount] = useState(null);
-  const scrollRowRef = useRef(null);
-
-  const scrollByCards = (direction) => {
-    const row = scrollRowRef.current;
-    if (!row) return;
-    row.scrollBy({ left: direction * Math.round(row.clientWidth * 0.8), behavior: 'smooth' });
-  };
 
   useEffect(() => {
     loadRepos();
@@ -208,28 +200,10 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
           ) : (
             <>
               <SpotlightBanner repo={repos[0]} />
-              <div className="period-scroll-wrapper">
-                <button
-                  type="button"
-                  className="period-scroll-arrow period-scroll-arrow-left"
-                  onClick={() => scrollByCards(-1)}
-                  aria-label="Scroll left"
-                >
-                  <LeftOutlined />
-                </button>
-                <div className="period-scroll-row" ref={scrollRowRef}>
-                  {repos.slice(1).map((repo, index) => (
-                    <TrendingCard key={repo.id} repo={repo} index={index} rank={index + 2} />
-                  ))}
-                </div>
-                <button
-                  type="button"
-                  className="period-scroll-arrow period-scroll-arrow-right"
-                  onClick={() => scrollByCards(1)}
-                  aria-label="Scroll right"
-                >
-                  <RightOutlined />
-                </button>
+              <div className="period-grid">
+                {repos.slice(1).map((repo, index) => (
+                  <TrendingCard key={repo.id} repo={repo} index={index} rank={index + 2} />
+                ))}
               </div>
             </>
           )}

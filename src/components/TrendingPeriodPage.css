@@ -268,74 +268,11 @@
   to { transform: rotate(360deg); }
 }
 
-.period-scroll-wrapper {
-  position: relative;
-}
-
-.period-scroll-row {
-  display: flex;
+.period-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 24px;
-  overflow-x: auto;
-  scroll-behavior: smooth;
-  -webkit-overflow-scrolling: touch;
   padding: 8px 24px 16px;
-  scroll-snap-type: x proximity;
-  mask-image: linear-gradient(90deg, transparent, #000 24px, #000 calc(100% - 24px), transparent);
-  -webkit-mask-image: linear-gradient(90deg, transparent, #000 24px, #000 calc(100% - 24px), transparent);
-}
-
-.period-scroll-row::-webkit-scrollbar {
-  height: 6px;
-}
-
-.period-scroll-row::-webkit-scrollbar-thumb {
-  background: #334155;
-  border-radius: 3px;
-}
-
-.period-scroll-row .project-card {
-  flex: 0 0 340px;
-  scroll-snap-align: start;
-}
-
-.period-scroll-arrow {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  border: 1px solid rgba(148, 163, 184, 0.2);
-  background: rgba(15, 23, 42, 0.85);
-  backdrop-filter: blur(10px);
-  color: #e5e7eb;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  z-index: 2;
-  transition: all 0.25s ease;
-}
-
-.period-scroll-arrow:hover {
-  background: #3b82f6;
-  border-color: #3b82f6;
-  color: #ffffff;
-}
-
-.period-scroll-arrow-left {
-  left: 0;
-}
-
-.period-scroll-arrow-right {
-  right: 0;
-}
-
-/* Scroll arrows are a mouse/trackpad affordance; touch devices rely on native swipe */
-@media not all and (hover: hover) and (pointer: fine) {
-  .period-scroll-arrow {
-    display: none;
-  }
 }
 
 .period-empty {
@@ -343,12 +280,6 @@
   padding: 80px 24px;
   color: #94a3b8;
   font-size: 15px;
-}
-
-@media (max-width: 1200px) {
-  .period-scroll-row .project-card {
-    flex-basis: 300px;
-  }
 }
 
 @media (max-width: 968px) {
@@ -364,8 +295,8 @@
     padding: 18px 20px;
   }
 
-  .period-scroll-row .project-card {
-    flex-basis: 280px;
+  .period-grid {
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   }
 }
 
@@ -431,13 +362,9 @@
     font-size: 10px;
   }
 
-  .period-scroll-row {
+  .period-grid {
+    grid-template-columns: 1fr;
     gap: 16px;
     padding: 8px 16px 16px;
-  }
-
-  .period-scroll-row .project-card {
-    flex-basis: 78vw;
-    max-width: 320px;
   }
 }
