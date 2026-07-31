@@ -35,19 +35,15 @@
   color: #0056CC;
 }
 
-/* Button styles */
-.new-app button {
-  font-family: inherit;
-}
-
 /* Focus styles for accessibility */
 .new-app *:focus {
   outline: 2px solid #007AFF;
   outline-offset: 2px;
 }
 
-/* Remove default button styles */
-.new-app button {
+/* Remove default button chrome. Wrapped in :where() so this reset carries
+   zero specificity and never overrides a component's own button styles. */
+:where(.new-app button) {
   background: none;
   border: none;
   padding: 0 20px;

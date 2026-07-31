@@ -9,15 +9,19 @@ import './HomePage.css';
 
 const GITHUB_REPO = 'encoreshao/github-trending';
 
+const LANGUAGE_ICONS = {
+  JavaScript: '⚡', TypeScript: '🔷', Python: '🐍', Java: '☕', Go: '🐹', Rust: '🦀',
+  Vue: '💚', 'C++': '⚙️', C: '⚙️', 'C#': '🔵', Ruby: '💎', PHP: '🐘', Swift: '🕊️',
+  Kotlin: '🎯', Shell: '🐚', HTML: '🌐', CSS: '🎨', Dart: '🎯', Scala: '🔴',
+};
+const getLanguageIcon = (lang) => LANGUAGE_ICONS[lang] || '💻';
+const ACTIVITY_ICONS = ['🔥', '🚀', '⭐'];
+
 const HomePage = () => {
   const navigate = useNavigate();
   const [repos, setRepos] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [stats, setStats] = useState({
-    totalRepos: 0,
-    totalStars: 0,
-    languages: 0
-  });
+  const [stats, setStats] = useState({ totalRepos: 0 });
 
   useEffect(() => {
     loadTrendingRepos();
@@ -33,16 +37,7 @@ const HomePage = () => {
       // Take first 12 repos for homepage
       const displayRepos = transformedData.slice(0, 12);
       setRepos(displayRepos);
-
-      // Calculate stats
-      const totalStars = displayRepos.reduce((sum, repo) => sum + (repo.stargazers_count || 0), 0);
-      const uniqueLanguages = new Set(displayRepos.map(repo => repo.language).filter(Boolean));
-
-      setStats({
-        totalRepos: displayRepos.length,
-        totalStars: totalStars,
-        languages: uniqueLanguages.size
-      });
+      setStats({ totalRepos: displayRepos.length });
     } catch (error) {
       console.error('Error loading trending repos:', error);
       setRepos([]);
@@ -50,6 +45,18 @@ const HomePage = () => {
       setLoading(false);
     }
   };
+
+  const languageBreakdown = (() => {
+    const counts = {};
+    repos.forEach((repo) => {
+      if (repo.language) counts[repo.language] = (counts[repo.language] || 0) + 1;
+    });
+    return Object.entries(counts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 8)
+      .map(([name]) => ({ name, icon: getLanguageIcon(name) }));
+  })();
+  const orbitLanguages = languageBreakdown.slice(0, 6);
 
   return (
     <div className="homepage-new">
@@ -61,7 +68,33 @@ const HomePage = () => {
       {/* Hero Section */}
       <main className="main">
         <section className="hero">
-          <div className="hero-content">
+          {orbitLanguages.length > 0 && (
+            <div className="hero-bubbles" aria-hidden="true">
+              {orbitLanguages.map((lang, index) => (
+                <span
+                  key={lang.name}
+                  className={`hero-bubble hero-bubble-${index}`}
+                  style={{ animationDelay: `${index * 0.4}s` }}
+                  title={lang.name}
+                >
+                  {lang.icon}
+                </span>
+              ))}
+            </div>
+          )}
+
+          <div className="hero-content-centered">
+            <div className="hero-badges">
+              <img
+                className="hero-badge-img"
+                src={`https://img.shields.io/github/stars/${GITHUB_REPO}?style=flat&label=GitHub%20Stars&color=3b82f6`}
+                alt="GitHub stars"
+              />
+              {!loading && (
+                <span className="hero-badge-pill">{stats.totalRepos}+ repos tracked daily</span>
+              )}
+            </div>
+
             <h1 className="hero-title">
               Discover Amazing
               <span className="gradient-text">&nbsp;Trending Repositories</span>
@@ -70,81 +103,51 @@ const HomePage = () => {
               Curating the best trending GitHub repositories, hidden gems, and innovative tools that are shaping the future of development.
             </p>
 
-            <div className="hero-stats">
-              <div className="stat">
-                <span className="stat-number">{stats.totalRepos}+</span>
-                <span className="stat-label">Trending Repos</span>
-              </div>
-              <div className="stat">
-                <span className="stat-number">{formatNumber(stats.totalStars)}</span>
-                <span className="stat-label">Total Stars</span>
-              </div>
-              <div className="stat">
-                <span className="stat-number">100%</span>
-                <span className="stat-label">Open Source</span>
-              </div>
+            <div className="hero-cta-row">
+              <button type="button" className="cta-primary" onClick={() => navigate('/demo')}>
+                Explore Trending Repos
+              </button>
+              <button type="button" className="cta-secondary" onClick={() => navigate('/subscribe')}>
+                Get Weekly Updates
+              </button>
             </div>
 
-            <div className="newsletter-container">
-              <div className="newsletter-form">
-                <h4>Join our weekly newsletter</h4>
-                <p>Subscribe to our newsletter to get the latest updates on trending repositories.</p>
-                <form className="form" onSubmit={(e) => { e.preventDefault(); navigate('/subscribe'); }}>
-                  <input
-                    placeholder="Your email address"
-                    className="input"
-                    required
-                    type="email"
-                  />
-                  <button type="submit" className="button">Subscribe</button>
-                </form>
+            {!loading && repos.length >= 3 && (
+              <div className="activity-card">
+                {repos.slice(0, 3).map((repo, index) => (
+                  <a
+                    key={repo.id}
+                    className="activity-row"
+                    href={repo.html_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <span className="activity-icon">{ACTIVITY_ICONS[index]}</span>
+                    <div className="activity-text">
+                      <span className="activity-repo">{repo.full_name}</span>
+                      <span className="activity-meta">
+                        {formatNumber(repo.stargazers_count)} stars{index === 0 ? ' · trending now' : ''}
+                      </span>
+                    </div>
+                  </a>
+                ))}
               </div>
-            </div>
-          </div>
-
-          <div className="hero-visual">
-            <div className="code-window">
-              <div className="window-header">
-                <div className="window-controls">
-                  <span className="control close"></span>
-                  <span className="control minimize"></span>
-                  <span className="control maximize"></span>
-                </div>
-                <span className="window-title">trending-repos.json</span>
-              </div>
-              <div className="code-content">
-                <pre><code>{`{
-  "trending": [
-    {
-      "repo": "deta/surf",
-      "stars": 1725,
-      "language": "TypeScript",
-      "desc": "Personal AI Notebooks. Organize files & webpages...",
-      "url": "https://github.com/deta/surf"
-    },
-    {
-      "repo": "anthropic-experimental/sandbox-runtime",
-      "stars": 1076,
-      "language": "TypeScript",
-      "desc": "A lightweight sandboxing tool for enforcing restrictions",
-      "url": "https://github.com/anthropic-experimental/sandbox-runtime"
-    },
-    {
-      "repo": "vercel/workflow",
-      "stars": 595,
-      "language": "TypeScript",
-      "desc": "Workflow DevKit: Build durable, resilient workflows",
-      "url": "https://github.com/vercel/workflow"
-    }
-  ],
-  "total": ${repos.length},
-  "updated": "${new Date().toISOString().split('T')[0]}",
-  "source": "https://github.com/${GITHUB_REPO}"
-}`}</code></pre>
-              </div>
-            </div>
+            )}
           </div>
         </section>
+
+        {languageBreakdown.length > 0 && (
+          <section className="languages-strip">
+            <span className="languages-strip-label">Languages we're tracking</span>
+            <div className="languages-strip-row">
+              {languageBreakdown.map((lang) => (
+                <span key={lang.name} className="language-badge">
+                  <span className="language-badge-icon">{lang.icon}</span> {lang.name}
+                </span>
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* Featured Projects Section */}
         <section className="projects-section">
