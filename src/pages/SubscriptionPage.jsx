@@ -4,6 +4,8 @@ import { CheckOutlined, CheckCircleFilled, GithubOutlined, RocketOutlined, UserO
 import { useNavigate } from 'react-router-dom';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import RanbotPromoSection from '../components/RanbotPromoSection';
+import SectionDivider from '../components/SectionDivider';
 import { submitSubscription } from '../api/subscribe';
 import './SubscriptionPage.css';
 
@@ -211,6 +213,10 @@ const SubscriptionPage = () => {
           </p>
         </div>
       </div>
+
+      <SectionDivider from="rgb(var(--c-accent) / 0.5)" to="rgb(20 184 166 / 0.5)" spaced />
+
+      <RanbotPromoSection />
 
       {/* Footer */}
       <Footer />

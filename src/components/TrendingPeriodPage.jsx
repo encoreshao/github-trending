@@ -5,9 +5,19 @@ import Header from './Header';
 import Footer from './Footer';
 import TrendingCard from './TrendingCard';
 import SpotlightBanner from './SpotlightBanner';
+import PeriodOverviewSection from './PeriodOverviewSection';
+import DailyOverviewSection from './DailyOverviewSection';
+import RanbotPromoSection from './RanbotPromoSection';
+import SubscribeCtaBanner from './SubscribeCtaBanner';
+import SectionDivider from './SectionDivider';
 import './TrendingPeriodPage.css';
 
-const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }) => {
+const ACCENT_COLOR = 'rgb(var(--c-accent) / 0.5)';
+const AMBER_COLOR = 'rgb(245 158 11 / 0.5)';
+const VIOLET_COLOR = 'rgb(139 92 246 / 0.5)';
+const TEAL_COLOR = 'rgb(20 184 166 / 0.5)';
+
+const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack, crossPeriod, bottomSection, showDaily }) => {
   const [repos, setRepos] = useState([]);
   const [loading, setLoading] = useState(true);
   const [lastUpdated, setLastUpdated] = useState(null);
@@ -208,6 +218,49 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack }
             </>
           )}
         </section>
+
+        {crossPeriod && (
+          <>
+            <SectionDivider
+              from={ACCENT_COLOR}
+              to={crossPeriod.variant === 'weekly' ? AMBER_COLOR : VIOLET_COLOR}
+              spaced
+            />
+            <PeriodOverviewSection
+              title={crossPeriod.title}
+              badgeLabel={crossPeriod.badgeLabel}
+              subdir={crossPeriod.subdir}
+              maxDaysBack={crossPeriod.maxDaysBack}
+              path={crossPeriod.path}
+              variant={crossPeriod.variant}
+            />
+          </>
+        )}
+
+        {showDaily && (
+          <>
+            <SectionDivider
+              from={crossPeriod?.variant === 'weekly' ? AMBER_COLOR : VIOLET_COLOR}
+              to={ACCENT_COLOR}
+              spaced
+            />
+            <DailyOverviewSection />
+          </>
+        )}
+
+        {bottomSection === 'promo' && (
+          <>
+            <SectionDivider from={VIOLET_COLOR} to={TEAL_COLOR} spaced />
+            <RanbotPromoSection />
+          </>
+        )}
+
+        {bottomSection === 'subscribe' && (
+          <>
+            <SectionDivider from={AMBER_COLOR} to={ACCENT_COLOR} spaced />
+            <SubscribeCtaBanner />
+          </>
+        )}
       </main>
       <Footer />
     </div>

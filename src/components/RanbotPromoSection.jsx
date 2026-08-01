@@ -46,6 +46,36 @@ const RANBOT_PRODUCTS = [
     blurb: 'Visualize and explore connected data',
     features: ['Graph queries', 'Live layouts', 'Export to CSV/JSON'],
     gradient: 'linear-gradient(135deg, #0ea5e9, #6366f1)'
+  },
+  {
+    name: 'TikTok Scraper',
+    url: 'https://github.com/ranbot-ai/tiktok-scraper',
+    icon: '🎵',
+    category: 'Scraping',
+    blurb: 'Pull trending TikTok videos and creator data on demand',
+    features: ['Video metadata extraction', 'Creator analytics', 'Bulk export'],
+    gradient: 'linear-gradient(135deg, #25f4ee, #fe2c55)',
+    cta: 'View on GitHub →'
+  },
+  {
+    name: 'X Scraper',
+    url: 'https://github.com/ranbot-ai/x-scraper',
+    icon: '🐦',
+    category: 'Scraping',
+    blurb: 'Collect tweets, threads, and profile data from X',
+    features: ['Tweet search & export', 'Profile scraping', 'Rate-limit handling'],
+    gradient: 'linear-gradient(135deg, #1d9bf0, #000000)',
+    cta: 'View on GitHub →'
+  },
+  {
+    name: 'Product Hunt',
+    url: 'https://github.com/ranbot-ai/product-hunt',
+    icon: '📈',
+    category: 'Discovery',
+    blurb: 'Track daily-launching products before they trend',
+    features: ['Daily launch feed', 'Upvote tracking', 'Maker insights'],
+    gradient: 'linear-gradient(135deg, #da552f, #ff6154)',
+    cta: 'View on GitHub →'
   }
 ];
 
@@ -79,7 +109,7 @@ const RanbotPromoSection = () => (
               <li key={feature}>{feature}</li>
             ))}
           </ul>
-          <span className="ranbot-promo-cta">Visit site →</span>
+          <span className="ranbot-promo-cta">{product.cta || 'Visit site →'}</span>
         </a>
       ))}
     </div>
