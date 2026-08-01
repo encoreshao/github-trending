@@ -67,7 +67,7 @@
 
 .period-overview-spotlight:hover {
   transform: translateY(-2px);
-  border-color: rgba(59, 130, 246, 0.4);
+  border-color: rgb(var(--c-accent) / 0.4);
 }
 
 .period-overview-avatar {
@@ -88,7 +88,7 @@
 .period-overview-spotlight-label {
   font-size: 12px;
   font-weight: 700;
-  color: #f59e0b;
+  color: rgb(var(--c-warning));
 }
 
 .period-overview-spotlight-name {
@@ -110,7 +110,7 @@
 .period-overview-spotlight-stars {
   font-size: 13px;
   font-weight: 700;
-  color: #f59e0b;
+  color: rgb(var(--c-warning));
 }
 
 .period-overview-stats {
@@ -133,7 +133,7 @@
   display: block;
   font-size: 22px;
   font-weight: 800;
-  color: #60a5fa;
+  color: rgb(var(--c-accent-light));
   margin-bottom: 4px;
 }
 
@@ -149,22 +149,24 @@
 }
 
 .period-overview-cta {
+  display: inline-block;
   padding: 14px 28px;
-  background: rgba(59, 130, 246, 0.1);
-  border: 2px solid #3b82f6;
+  background: rgb(var(--c-accent) / 0.1);
+  border: 2px solid rgb(var(--c-accent));
   border-radius: 12px;
-  color: #60a5fa;
+  color: rgb(var(--c-accent-light));
   font-size: 15px;
   font-weight: 600;
+  text-decoration: none;
   cursor: pointer;
   transition: all 0.3s ease;
 }
 
 .period-overview-cta:hover {
-  background: #3b82f6;
-  color: #ffffff;
+  background: rgb(var(--c-accent));
+  color: rgb(var(--c-white));
   transform: translateY(-2px);
-  box-shadow: 0 8px 20px rgba(59, 130, 246, 0.3);
+  box-shadow: 0 8px 20px rgb(var(--c-accent) / 0.3);
 }
 
 @media (max-width: 968px) {

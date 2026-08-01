@@ -25,7 +25,7 @@
 
 .ranbot-promo-card:hover {
   transform: translateY(-4px);
-  border-color: rgba(59, 130, 246, 0.4);
+  border-color: rgb(var(--c-accent) / 0.4);
 }
 
 .ranbot-promo-icon {

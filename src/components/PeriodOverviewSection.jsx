@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { loadLatestCSV, transformCSVData } from '../utils/csvLoader';
 import { formatNumber } from '../utils/formatNumber';
 import './PeriodOverviewSection.css';
@@ -16,12 +16,12 @@ const formatSnapshotDate = (dateStr) => {
   return new Date(dateStr).toLocaleDateString('en-US', {
     month: 'short',
     day: 'numeric',
-    year: 'numeric'
+    year: 'numeric',
+    timeZone: 'UTC'
   });
 };
 
 const PeriodOverviewSection = ({ title, badgeLabel, subdir, maxDaysBack, path, accentIcon }) => {
-  const navigate = useNavigate();
   const [repos, setRepos] = useState([]);
   const [snapshotDate, setSnapshotDate] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -112,9 +112,9 @@ const PeriodOverviewSection = ({ title, badgeLabel, subdir, maxDaysBack, path, a
       )}
 
       <div className="period-overview-cta-row">
-        <button type="button" className="period-overview-cta" onClick={() => navigate(path)}>
+        <Link to={path} className="period-overview-cta">
           View full {title} rankings →
-        </button>
+        </Link>
       </div>
     </section>
   );
