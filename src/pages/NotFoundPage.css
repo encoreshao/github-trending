@@ -3,15 +3,19 @@
   color: rgb(var(--c-text-body));
   background: rgb(var(--c-bg));
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .notfound-main {
+  flex: 1;
   max-width: 700px;
   margin: 0 auto;
   padding: 160px 24px 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   text-align: center;
 }
 

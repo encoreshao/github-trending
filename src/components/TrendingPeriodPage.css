@@ -16,7 +16,7 @@
   align-items: flex-start;
   flex-wrap: wrap;
   gap: 24px;
-  padding: 140px 24px 20px;
+  padding: 170px 24px 20px;
   background: radial-gradient(circle at 15% 0%, rgba(59, 130, 246, 0.18), transparent 55%);
 }
 
@@ -285,7 +285,7 @@
 
 @media (max-width: 968px) {
   .period-hero {
-    padding: 120px 20px 16px;
+    padding: 150px 20px 16px;
   }
 
   .period-title {
@@ -303,7 +303,7 @@
 
 @media (max-width: 640px) {
   .period-hero {
-    padding: 104px 16px 12px;
+    padding: 130px 16px 12px;
   }
 
   .period-insights {
