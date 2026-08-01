@@ -44,7 +44,8 @@
 }
 
 .period-title {
-  font-size: 36px;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 64px;
   font-weight: 800;
   color: rgb(var(--c-text-heading));
   margin: 0 0 12px;
@@ -288,7 +289,7 @@
   }
 
   .period-title {
-    font-size: 30px;
+    font-size: 40px;
   }
 
   .period-insights > div {
@@ -320,7 +321,7 @@
   }
 
   .period-title {
-    font-size: 26px;
+    font-size: 32px;
   }
 
   .period-description {

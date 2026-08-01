@@ -72,7 +72,8 @@
 }
 
 .hero-title {
-  font-size: 56px;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 64px;
   font-weight: 800;
   line-height: 1.1;
   margin: 0 0 24px 0;
@@ -436,7 +437,7 @@
   }
 
   .hero-title {
-    font-size: 42px;
+    font-size: 40px;
   }
 
   .projects-grid {

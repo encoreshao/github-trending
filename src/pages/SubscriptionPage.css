@@ -19,12 +19,13 @@
 /* Header */
 .subscription-header {
   text-align: center;
+  margin-top: 40px;
   margin-bottom: 60px;
 }
 
 .subscription-title {
   font-family: 'Space Grotesk', sans-serif;
-  font-size: 48px;
+  font-size: 64px;
   font-weight: 700;
   margin: 0 0 16px 0;
   background: linear-gradient(135deg, rgb(var(--c-text-heading)) 0%, #60a5fa 50%, #22D3EE 100%);
@@ -277,7 +278,7 @@
 /* Responsive Design */
 @media (max-width: 768px) {
   .subscription-title {
-    font-size: 36px;
+    font-size: 40px;
   }
 
   .section-title {
@@ -304,5 +305,11 @@
 
   .subscription-container {
     padding: 40px 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .subscription-title {
+    font-size: 32px;
   }
 }
