@@ -25,6 +25,8 @@ A modern web application for discovering trending GitHub repositories. Features 
 | **Smart Filtering** | Filter by categories, keywords, and 20+ attributes |
 | **Weekly & Monthly Snapshots** | Curated top-20 pages refreshed on a rolling schedule, with week-over-week/month-over-month comparisons |
 | **Personalized Subscriptions** | Pick topics of interest and submit them straight to a Google Sheet |
+| **Cross-Page Discovery** | Homepage, Weekly, Monthly, Subscribe, and Demo pages link to each other through themed teaser sections, joined by short gradient dividers |
+| **RanBOT Family** | Cross-promo grid linking out to 8 sibling RanBOT products, from hosted apps to open-source scrapers |
 | **Export Options** | Download as CSV, JSON, or copy to clipboard |
 | **Dark Theme** | Modern glassmorphism design with smooth animations |
 | **Bilingual** | Full English and Chinese language support |
@@ -69,12 +71,33 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 | Route | Description |
 |-------|-------------|
-| `/` | Homepage with feature highlights |
-| `/demo` | Interactive repository analysis tool |
-| `/weekly` | Top 20 repos created in the last 30 days, refreshed every Monday |
-| `/monthly` | Top 20 repos created in the last 90 days, refreshed on the 1st of each month |
-| `/subscribe` | Category-based subscription setup, submits to Google Sheets |
+| `/` | Homepage: daily trending grid, Weekly/Monthly teasers, and the RanBOT family promo |
+| `/demo` | Interactive repository analysis tool, followed by Daily Trending, Weekly, and Monthly teasers |
+| `/weekly` | Top 20 repos created in the last 30 days, refreshed every Monday — cross-links to Monthly Highlights and Daily Trending |
+| `/monthly` | Top 20 repos created in the last 90 days, refreshed on the 1st of each month — cross-links to Weekly Highlights and a Subscribe CTA |
+| `/subscribe` | Category-based subscription setup, submits to Google Sheets, followed by the RanBOT family promo |
 | `*` | Custom 404 page for unmatched or explicitly blocked routes (see `src/blockedRoutes.js`) |
+
+Each page mixes 3-5 sections rather than repeating the same ones everywhere — see [RanBOT Family](#ranbot-family) below for the full cross-promo list.
+
+---
+
+## RanBOT Family
+
+The homepage, Subscribe, and Demo pages cross-promote the wider RanBOT product family:
+
+| Product | Category | Description |
+|---------|----------|--------------|
+| [Skills](https://skills.ranbot.online/) | Productivity | Curated skill playbooks to level up how you work with AI |
+| [PPT](https://ppt.ranbot.online/) | Content | Turn ideas into polished presentations in minutes |
+| [RSS](https://rss.ranbot.online/) | Content | Follow the sources that matter, all in one feed |
+| [Video](https://video.ranbot.online/) | Content | AI-assisted video creation and editing |
+| [Data Graph](https://data-graph.ranbot.online/) | Data | Visualize and explore connected data |
+| [TikTok Scraper](https://github.com/ranbot-ai/tiktok-scraper) | Scraping | Pull trending TikTok videos and creator data on demand |
+| [X Scraper](https://github.com/ranbot-ai/x-scraper) | Scraping | Collect tweets, threads, and profile data from X |
+| [Product Hunt](https://github.com/ranbot-ai/product-hunt) | Discovery | Track daily-launching products before they trend |
+
+The list is defined in `src/components/RanbotPromoSection.jsx` — add an entry there (name, url, icon, category, blurb, features, gradient) to promote a new product.
 
 ---
 
@@ -98,6 +121,11 @@ src/
 │   ├── RepoTable        # Table view component
 │   ├── RepoCard         # Card view component
 │   ├── TrendingPeriodPage # Shared shell for Weekly/Monthly pages
+│   ├── PeriodOverviewSection # Weekly/Monthly teaser card (themed variant per period)
+│   ├── DailyOverviewSection  # Daily trending ticker, links back to the homepage
+│   ├── RanbotPromoSection    # "Part of the RanBOT family" cross-promo grid
+│   ├── SubscribeCtaBanner    # Compact subscribe call-to-action banner
+│   ├── SectionDivider        # Short gradient divider between homepage-style sections
 │   └── Settings         # Configuration panel
 ├── pages/               # Route pages
 │   ├── HomePage
