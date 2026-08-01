@@ -88,6 +88,10 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack, 
     return { week, year: target.getUTCFullYear(), month };
   };
 
+  const crossColor = crossPeriod ? (crossPeriod.variant === 'weekly' ? AMBER_COLOR : VIOLET_COLOR) : null;
+  const afterCrossColor = crossColor || ACCENT_COLOR;
+  const afterDailyColor = showDaily ? ACCENT_COLOR : afterCrossColor;
+
   const titleWords = title.split(' ');
   const titleHighlight = titleWords.slice(0, -1).join(' ');
   const titleRest = titleWords[titleWords.length - 1];
@@ -221,11 +225,7 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack, 
 
         {crossPeriod && (
           <>
-            <SectionDivider
-              from={ACCENT_COLOR}
-              to={crossPeriod.variant === 'weekly' ? AMBER_COLOR : VIOLET_COLOR}
-              spaced
-            />
+            <SectionDivider from={ACCENT_COLOR} to={crossColor} spaced />
             <PeriodOverviewSection
               title={crossPeriod.title}
               badgeLabel={crossPeriod.badgeLabel}
@@ -239,25 +239,21 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack, 
 
         {showDaily && (
           <>
-            <SectionDivider
-              from={crossPeriod?.variant === 'weekly' ? AMBER_COLOR : VIOLET_COLOR}
-              to={ACCENT_COLOR}
-              spaced
-            />
+            <SectionDivider from={afterCrossColor} to={ACCENT_COLOR} spaced />
             <DailyOverviewSection />
           </>
         )}
 
         {bottomSection === 'promo' && (
           <>
-            <SectionDivider from={VIOLET_COLOR} to={TEAL_COLOR} spaced />
+            <SectionDivider from={afterDailyColor} to={TEAL_COLOR} spaced />
             <RanbotPromoSection />
           </>
         )}
 
         {bottomSection === 'subscribe' && (
           <>
-            <SectionDivider from={AMBER_COLOR} to={ACCENT_COLOR} spaced />
+            <SectionDivider from={afterDailyColor} to={ACCENT_COLOR} spaced />
             <SubscribeCtaBanner />
           </>
         )}

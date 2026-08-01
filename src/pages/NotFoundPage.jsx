@@ -1,6 +1,9 @@
 import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import DailyOverviewSection from '../components/DailyOverviewSection';
+import PeriodOverviewSection from '../components/PeriodOverviewSection';
+import SectionDivider from '../components/SectionDivider';
 import './NotFoundPage.css';
 
 const NotFoundPage = () => {
@@ -34,6 +37,33 @@ const NotFoundPage = () => {
           <p className="notfound-tagline">Looks like this page got lost in a merge conflict.</p>
         </div>
       </main>
+
+      <SectionDivider from="rgb(var(--c-border) / 0.5)" to="rgb(var(--c-accent) / 0.5)" spaced />
+
+      <DailyOverviewSection />
+
+      <SectionDivider from="rgb(var(--c-accent) / 0.5)" to="rgb(245 158 11 / 0.5)" spaced />
+
+      <PeriodOverviewSection
+        title="Weekly Highlights"
+        badgeLabel="This week"
+        subdir="weekly"
+        maxDaysBack={60}
+        path="/weekly"
+        variant="weekly"
+      />
+
+      <SectionDivider from="rgb(245 158 11 / 0.5)" to="rgb(139 92 246 / 0.5)" spaced />
+
+      <PeriodOverviewSection
+        title="Monthly Highlights"
+        badgeLabel="This month"
+        subdir="monthly"
+        maxDaysBack={180}
+        path="/monthly"
+        variant="monthly"
+      />
+
       <Footer />
     </div>
   );

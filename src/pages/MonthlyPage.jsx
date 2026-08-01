@@ -15,6 +15,7 @@ const MonthlyPage = () => (
       path: '/weekly',
       variant: 'weekly'
     }}
+    showDaily
     bottomSection="subscribe"
   />
 );
