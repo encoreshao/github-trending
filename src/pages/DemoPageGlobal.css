@@ -21,7 +21,6 @@
 
 /* Section headings */
 .demo-content .ant-layout-sider h2 {
-  font-family: 'Space Grotesk', sans-serif !important;
   font-size: 24px !important;
   font-weight: 600 !important;
   color: rgb(var(--c-text-heading)) !important;
@@ -294,7 +293,6 @@
   color: rgb(var(--c-text-heading)) !important;
   font-weight: 600 !important;
   border-bottom: 1px solid rgb(var(--c-surface-alt) / 0.5) !important;
-  font-family: 'Space Grotesk', sans-serif !important;
 }
 
 .demo-content .ant-table-tbody > tr > td {
@@ -408,7 +406,6 @@
 }
 
 .demo-content .repo-name {
-  font-family: 'Space Grotesk', sans-serif !important;
   font-size: 20px !important;
   font-weight: 600 !important;
   color: rgb(var(--c-text-heading)) !important;

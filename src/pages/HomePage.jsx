@@ -125,7 +125,7 @@ const HomePage = () => {
               <button type="button" className="cta-primary" onClick={() => navigate('/demo')}>
                 Explore Trending Repos
               </button>
-              <button type="button" className="cta-secondary" onClick={() => navigate('/subscribe')}>
+              <button type="button" className="cta-secondary btn-surface" onClick={() => navigate('/subscribe')}>
                 Get Weekly Updates
               </button>
             </div>
@@ -183,7 +183,7 @@ const HomePage = () => {
               <div className="search-wrapper">
                 <button
                   type="button"
-                  className="search-btn"
+                  className="search-btn btn-surface"
                   onClick={() => navigate('/demo')}
                 >
                   <i className="fas fa-search"></i>

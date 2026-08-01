@@ -1,5 +1,4 @@
 /* App.css - Dark Theme Base Styles */
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 /* CSS Variables */
 :root {
@@ -18,7 +17,6 @@
 
 body {
   margin: 0;
-  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   background: var(--app-background);
   color: var(--app-text);
 }
@@ -36,6 +34,41 @@ body {
 .ant-layout-content {
   background: var(--app-background) !important;
   min-height: 90vh;
+}
+
+/* ===============================================
+   SIDEBAR COLLAPSE TOGGLE
+   =============================================== */
+
+.sidebar-toggle-btn {
+  appearance: none;
+  box-sizing: border-box;
+  position: absolute;
+  top: 96px;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  margin: 0;
+  line-height: 1;
+  font-size: 14px;
+  border-radius: 50%;
+  border: 1px solid rgb(var(--c-accent) / 0.35);
+  background: rgb(var(--c-surface) / 0.8);
+  color: rgb(var(--c-accent));
+  cursor: pointer;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+  transition: left 0.2s ease, background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.sidebar-toggle-btn:hover {
+  background: rgb(var(--c-accent) / 0.15);
+  border-color: rgb(var(--c-accent) / 0.7);
+  box-shadow: 0 4px 20px rgb(var(--c-accent) / 0.35);
 }
 
 /* ===============================================
@@ -115,7 +148,6 @@ body {
 }
 
 .repo-name {
-  font-family: 'Space Grotesk', sans-serif;
   font-size: 20px;
   font-weight: 600;
   color: rgb(var(--c-text-heading));

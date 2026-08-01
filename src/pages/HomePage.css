@@ -1,6 +1,5 @@
 /* Homepage with opensourceprojects.dev inspired design */
 .homepage-new {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   line-height: 1.6;
   color: rgb(var(--c-text-body));
   background: rgb(var(--c-bg));
@@ -72,7 +71,6 @@
 }
 
 .hero-title {
-  font-family: 'Space Grotesk', sans-serif;
   font-size: 64px;
   font-weight: 800;
   line-height: 1.1;
@@ -128,15 +126,7 @@
   box-shadow: 0 8px 20px rgba(59, 130, 246, 0.4);
 }
 
-.cta-secondary {
-  background: transparent;
-  color: rgb(var(--c-text-secondary));
-  border: 1px solid rgb(var(--c-border) / 0.3);
-}
-
 .cta-secondary:hover {
-  border-color: #60a5fa;
-  color: #60a5fa;
   transform: translateY(-2px);
 }
 
@@ -329,23 +319,12 @@
 
 .search-btn {
   padding: 12px 24px;
-  background: rgb(var(--c-surface-alt) / 0.5);
-  border: 1px solid rgb(var(--c-border) / 0.2);
   border-radius: 8px;
-  color: rgb(var(--c-text-body));
   font-size: 15px;
   font-weight: 500;
-  cursor: pointer;
-  transition: all 0.3s ease;
   display: flex;
   align-items: center;
   gap: 8px;
-}
-
-.search-btn:hover {
-  background: rgb(var(--c-surface-alt) / 0.7);
-  border-color: #60a5fa;
-  color: #60a5fa;
 }
 
 .sort-wrapper {

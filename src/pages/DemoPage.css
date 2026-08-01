@@ -1,5 +1,4 @@
 /* Demo Page CSS - Modern Dark Theme with Glassmorphism */
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 /* CSS Variables for consistent theming */
 :root {
@@ -22,7 +21,6 @@
 }
 
 .demo-page {
-  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   background: var(--demo-background);
   min-height: 100vh;
   color: var(--demo-text);
@@ -109,7 +107,6 @@
 }
 
 .demo-title {
-  font-family: 'Space Grotesk', sans-serif;
   font-size: 64px;
   font-weight: 700;
   margin: 0 0 20px 0;
@@ -203,16 +200,17 @@
   border-right: 1px solid var(--demo-border) !important;
 }
 
-.demo-content .ant-layout-sider-collapsed {
-  width: 0 !important;
-  min-width: 0 !important;
-  max-width: 0 !important;
-}
-
 .demo-content .ant-layout-sider {
   width: 340px !important;
   min-width: 340px !important;
   max-width: 340px !important;
+  transition: all 0.2s !important;
+}
+
+.demo-content .ant-layout-sider-collapsed {
+  width: 0 !important;
+  min-width: 0 !important;
+  max-width: 0 !important;
 }
 
 .demo-content .ant-layout-content {

@@ -1,5 +1,4 @@
 /* Header Component Styles - Modern Dark Theme */
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 .header {
   position: fixed;
@@ -39,7 +38,6 @@
   color: rgb(var(--c-text-heading));
   font-size: 18px;
   font-weight: 600;
-  font-family: 'Space Grotesk', sans-serif;
   transition: all 0.3s ease;
   cursor: pointer;
 }

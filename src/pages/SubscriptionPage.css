@@ -1,8 +1,6 @@
 /* Subscription Page CSS - Dark Theme */
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 .subscription-page {
-  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   background: rgb(var(--c-bg));
   min-height: 100vh;
   color: rgb(var(--c-text-body));
@@ -24,7 +22,6 @@
 }
 
 .subscription-title {
-  font-family: 'Space Grotesk', sans-serif;
   font-size: 64px;
   font-weight: 700;
   margin: 0 0 16px 0;
@@ -90,21 +87,14 @@
   display: inline-flex;
   align-items: center;
   gap: 12px;
-  background: rgb(var(--c-surface) / 0.5);
-  border: 1px solid rgb(var(--c-border) / 0.18);
   border-radius: 999px;
   padding: 16px 28px;
-  color: rgb(var(--c-text-secondary));
   font-size: 17px;
   font-weight: 600;
   font-family: inherit;
-  cursor: pointer;
-  transition: all 0.2s ease;
 }
 
 .category-chip:hover {
-  border-color: rgba(96, 165, 250, 0.4);
-  background: rgb(var(--c-surface-alt) / 0.6);
   transform: translateY(-2px);
 }
 

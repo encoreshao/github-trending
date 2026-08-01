@@ -1,5 +1,4 @@
 /* Footer Component Styles - Modern Dark Theme */
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 .footer {
   background: rgb(var(--c-bg));
@@ -31,7 +30,6 @@
 }
 
 .footer-section h3 {
-  font-family: 'Space Grotesk', sans-serif;
   font-size: 22px;
   font-weight: 700;
   color: rgb(var(--c-text-heading));
@@ -40,7 +38,6 @@
 }
 
 .footer-section h4 {
-  font-family: 'Space Grotesk', sans-serif;
   font-size: 15px;
   font-weight: 600;
   color: rgb(var(--c-text-heading));

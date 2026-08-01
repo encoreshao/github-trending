@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Layout, Select, Segmented } from 'antd';
-import { TableOutlined, IdcardOutlined } from '@ant-design/icons';
+import { TableOutlined, IdcardOutlined, MenuFoldOutlined, MenuUnfoldOutlined } from '@ant-design/icons';
 import SettingsPanel from './components/SettingsPanel';
 import RepoTable from './components/RepoTable';
 import RepoCardView from './components/RepoCardView';
@@ -11,6 +11,9 @@ import { texts, SUPPORTED_LANGUAGES } from './locales';
 const { Sider, Content } = Layout;
 
 const SETTINGS_KEY = 'github_trending_settings';
+const SIDEBAR_COLLAPSED_KEY = 'github_trending_sidebar_collapsed';
+// Matches the 340px override in DemoPage.css (the only place App is rendered)
+const SIDER_WIDTH = 340;
 
 function getDefaultSettings() {
   return {
@@ -40,18 +43,32 @@ function App() {
   const [repos, setRepos] = useState([]);
   const [loading, setLoading] = useState(false);
   const [viewMode, setViewMode] = useState('card');
+  const [sidebarCollapsed, setSidebarCollapsed] = useState(
+    () => localStorage.getItem(SIDEBAR_COLLAPSED_KEY) === 'true'
+  );
 
   // 每当 settings 变更时，写入 localStorage
   useEffect(() => {
     localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings));
   }, [settings]);
 
+  useEffect(() => {
+    localStorage.setItem(SIDEBAR_COLLAPSED_KEY, String(sidebarCollapsed));
+  }, [sidebarCollapsed]);
+
   // 拆分 settings 传递给子组件
   const { token, attributes, pageSize, category, lang } = settings;
 
   return (
-    <Layout style={{ minHeight: '100vh' }}>
-      <Sider width={320} style={{ background: '#fff', borderRight: '1px solid #eee' }}>
+    <Layout style={{ minHeight: '100vh', position: 'relative' }}>
+      <Sider
+        width={SIDER_WIDTH}
+        collapsible
+        collapsed={sidebarCollapsed}
+        collapsedWidth={0}
+        trigger={null}
+        style={{ background: '#fff', borderRight: '1px solid #eee', transition: 'all 0.2s' }}
+      >
         <SettingsPanel
           token={token}
           setToken={t => setSettings(s => ({ ...s, token: t }))}
@@ -67,6 +84,16 @@ function App() {
           setCategory={c => setSettings(s => ({ ...s, category: c }))}
         />
       </Sider>
+      <button
+        type="button"
+        className="sidebar-toggle-btn"
+        style={{ left: sidebarCollapsed ? 12 : SIDER_WIDTH - 14 }}
+        onClick={() => setSidebarCollapsed(c => !c)}
+        aria-label={sidebarCollapsed ? 'Expand settings panel' : 'Collapse settings panel'}
+        title={sidebarCollapsed ? 'Expand settings panel' : 'Collapse settings panel'}
+      >
+        {sidebarCollapsed ? <MenuUnfoldOutlined /> : <MenuFoldOutlined />}
+      </button>
       <Layout>
         <Content style={{ padding: 24, position: 'relative' }}>
           <div style={{ position: 'absolute', top: 16, right: 24, zIndex: 10, display: 'flex', gap: 16, alignItems: 'center' }}>

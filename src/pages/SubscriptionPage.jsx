@@ -101,7 +101,7 @@ const SubscriptionPage = () => {
                 <button
                   key={category.id}
                   type="button"
-                  className={`category-chip ${isSelected ? 'selected' : ''}`}
+                  className={`category-chip btn-surface ${isSelected ? 'selected' : ''}`}
                   title={category.description}
                   onClick={() => {
                     if (isSelected) {

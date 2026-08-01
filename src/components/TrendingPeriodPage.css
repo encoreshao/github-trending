@@ -1,5 +1,4 @@
 .trending-period-page {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   color: rgb(var(--c-text-body));
   background: rgb(var(--c-bg));
   min-height: 100vh;
@@ -44,7 +43,6 @@
 }
 
 .period-title {
-  font-family: 'Space Grotesk', sans-serif;
   font-size: 64px;
   font-weight: 800;
   color: rgb(var(--c-text-heading));
