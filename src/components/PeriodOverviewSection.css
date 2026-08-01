@@ -1,7 +1,26 @@
 .period-overview {
+  position: relative;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 40px 24px 60px;
+  padding: 72px 24px 96px;
+  overflow: hidden;
+}
+
+.period-overview::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  border-radius: 32px;
+}
+
+.period-overview--weekly::before {
+  background: radial-gradient(ellipse 60% 50% at 15% 10%, rgb(245 158 11 / 0.08), transparent 70%);
+}
+
+.period-overview--monthly::before {
+  background: radial-gradient(ellipse 60% 50% at 85% 10%, rgb(139 92 246 / 0.08), transparent 70%);
 }
 
 .period-overview-header {
@@ -14,17 +33,10 @@
 }
 
 .period-overview-title {
-  display: flex;
-  align-items: center;
-  gap: 10px;
   font-size: 32px;
   font-weight: 800;
   color: rgb(var(--c-text-heading));
   margin: 0;
-}
-
-.period-overview-icon {
-  font-size: 28px;
 }
 
 .period-overview-badge {
@@ -52,6 +64,14 @@
   margin-bottom: 28px;
 }
 
+.period-overview-body--reverse .period-overview-spotlight {
+  order: 2;
+}
+
+.period-overview-body--reverse .period-overview-stats {
+  order: 1;
+}
+
 .period-overview-spotlight {
   flex: 1 1 60%;
   display: flex;
@@ -59,7 +79,7 @@
   background: rgb(var(--c-surface-alt) / 0.5);
   border: 1px solid rgb(var(--c-border) / 0.15);
   border-radius: 16px;
-  padding: 20px;
+  padding: 28px;
   text-decoration: none;
   color: inherit;
   transition: transform 0.2s ease, border-color 0.2s ease;
@@ -71,8 +91,8 @@
 }
 
 .period-overview-avatar {
-  width: 56px;
-  height: 56px;
+  width: 64px;
+  height: 64px;
   border-radius: 12px;
   flex: 0 0 auto;
   object-fit: cover;
@@ -122,7 +142,7 @@
   background: rgb(var(--c-surface) / 0.35);
   border: 1px solid rgb(var(--c-border) / 0.12);
   border-radius: 16px;
-  padding: 20px;
+  padding: 28px;
 }
 
 .period-overview-stat {
@@ -174,12 +194,30 @@
     flex-direction: column;
   }
 
+  .period-overview-body--reverse .period-overview-spotlight,
+  .period-overview-body--reverse .period-overview-stats {
+    order: initial;
+  }
+
   .period-overview-title {
     font-size: 26px;
+  }
+
+  .period-overview {
+    padding: 56px 20px 72px;
   }
 }
 
 @media (max-width: 640px) {
+  .period-overview {
+    padding: 48px 16px 64px;
+  }
+
+  .period-overview-spotlight,
+  .period-overview-stats {
+    padding: 20px;
+  }
+
   .period-overview-spotlight {
     flex-direction: column;
   }

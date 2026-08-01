@@ -1,0 +1,22 @@
+.section-divider {
+  width: 360px;
+  height: 3px;
+  margin: 0 auto;
+  border-radius: 999px;
+}
+
+.section-divider--spaced {
+  margin-bottom: 32px;
+}
+
+@media (max-width: 968px) {
+  .section-divider {
+    width: 260px;
+  }
+}
+
+@media (max-width: 640px) {
+  .section-divider {
+    width: 120px;
+  }
+}

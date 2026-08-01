@@ -1,23 +1,38 @@
 .ranbot-promo {
+  position: relative;
   max-width: 1200px;
-  margin: 0 auto;
-  padding: 40px 24px 80px;
+  margin: 0 auto 56px;
+  padding: 72px 24px 104px;
+  overflow: hidden;
+}
+
+.ranbot-promo::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  border-radius: 32px;
+  background: linear-gradient(135deg, rgb(20 184 166 / 0.06), rgb(99 102 241 / 0.06));
 }
 
 .ranbot-promo-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
 }
 
 .ranbot-promo-card {
+  flex: 1 1 300px;
+  max-width: 340px;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 10px;
   background: rgb(var(--c-surface-alt) / 0.5);
   border: 1px solid rgb(var(--c-border) / 0.15);
   border-radius: 16px;
-  padding: 24px;
+  padding: 28px;
   text-decoration: none;
   color: inherit;
   transition: transform 0.2s ease, border-color 0.2s ease;
@@ -29,23 +44,91 @@
 }
 
 .ranbot-promo-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
   font-size: 28px;
+  filter: drop-shadow(0 1px 2px rgb(0 0 0 / 0.35));
+  box-shadow:
+    inset 0 0 0 1px rgb(255 255 255 / 0.15),
+    0 4px 12px rgb(0 0 0 / 0.15);
+}
+
+.ranbot-promo-heading {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
 }
 
 .ranbot-promo-name {
-  font-size: 17px;
+  font-size: 19px;
   font-weight: 700;
   color: rgb(var(--c-text-heading));
 }
 
+.ranbot-promo-category {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: rgb(var(--c-text-secondary));
+  background: rgb(var(--c-surface) / 0.6);
+  border: 1px solid rgb(var(--c-border) / 0.15);
+  border-radius: 20px;
+  padding: 3px 10px;
+}
+
 .ranbot-promo-blurb {
-  font-size: 13px;
+  font-size: 15px;
   color: rgb(var(--c-text-secondary));
   margin: 0;
 }
 
+.ranbot-promo-features {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.ranbot-promo-features li {
+  position: relative;
+  padding-left: 18px;
+  font-size: 13px;
+  color: rgb(var(--c-text-secondary));
+}
+
+.ranbot-promo-features li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: rgb(var(--c-accent-light));
+  font-weight: 700;
+}
+
+.ranbot-promo-cta {
+  margin-top: auto;
+  padding-top: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  color: rgb(var(--c-accent-light));
+}
+
 @media (max-width: 640px) {
-  .ranbot-promo-grid {
-    grid-template-columns: 1fr;
+  .ranbot-promo {
+    margin-bottom: 32px;
+    padding: 56px 16px 72px;
+  }
+
+  .ranbot-promo-card {
+    flex-basis: 100%;
+    max-width: none;
+    padding: 20px;
   }
 }

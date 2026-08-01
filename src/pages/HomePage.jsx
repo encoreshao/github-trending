@@ -8,6 +8,7 @@ import Footer from '../components/Footer';
 import TrendingCard from '../components/TrendingCard';
 import PeriodOverviewSection from '../components/PeriodOverviewSection';
 import RanbotPromoSection from '../components/RanbotPromoSection';
+import SectionDivider from '../components/SectionDivider';
 import './HomePage.css';
 
 const GITHUB_REPO = 'encoreshao/github-trending';
@@ -166,6 +167,8 @@ const HomePage = () => {
           </section>
         )}
 
+        <SectionDivider from="rgb(var(--c-border) / 0.5)" to="rgb(var(--c-accent) / 0.5)" />
+
         {/* Featured Projects Section */}
         <section className="projects-section">
           <div className="section-header">
@@ -220,14 +223,18 @@ const HomePage = () => {
           </div>
         </section>
 
+        <SectionDivider from="rgb(var(--c-accent) / 0.5)" to="rgb(245 158 11 / 0.5)" spaced />
+
         <PeriodOverviewSection
           title="Weekly Highlights"
           badgeLabel="This week"
           subdir="weekly"
           maxDaysBack={60}
           path="/weekly"
-          accentIcon="🔥"
+          variant="weekly"
         />
+
+        <SectionDivider from="rgb(245 158 11 / 0.5)" to="rgb(139 92 246 / 0.5)" spaced />
 
         <PeriodOverviewSection
           title="Monthly Highlights"
@@ -235,8 +242,10 @@ const HomePage = () => {
           subdir="monthly"
           maxDaysBack={180}
           path="/monthly"
-          accentIcon="🚀"
+          variant="monthly"
         />
+
+        <SectionDivider from="rgb(139 92 246 / 0.5)" to="rgb(20 184 166 / 0.5)" spaced />
 
         <RanbotPromoSection />
       </main>

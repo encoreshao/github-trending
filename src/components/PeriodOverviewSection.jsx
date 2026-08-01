@@ -21,7 +21,7 @@ const formatSnapshotDate = (dateStr) => {
   });
 };
 
-const PeriodOverviewSection = ({ title, badgeLabel, subdir, maxDaysBack, path, accentIcon }) => {
+const PeriodOverviewSection = ({ title, badgeLabel, subdir, maxDaysBack, path, variant }) => {
   const [repos, setRepos] = useState([]);
   const [snapshotDate, setSnapshotDate] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -55,11 +55,9 @@ const PeriodOverviewSection = ({ title, badgeLabel, subdir, maxDaysBack, path, a
   const periodWord = subdir === 'weekly' ? 'week' : 'month';
 
   return (
-    <section className="period-overview">
+    <section className={`period-overview period-overview--${variant}`}>
       <div className="period-overview-header">
-        <h2 className="period-overview-title">
-          <span className="period-overview-icon">{accentIcon}</span> {title}
-        </h2>
+        <h2 className="period-overview-title">{title}</h2>
         {snapshotDate && (
           <span className="period-overview-badge">{badgeLabel} · {formatSnapshotDate(snapshotDate)}</span>
         )}
@@ -73,7 +71,7 @@ const PeriodOverviewSection = ({ title, badgeLabel, subdir, maxDaysBack, path, a
       ) : !topPick ? (
         <p className="period-overview-empty">No {title.toLowerCase()} snapshot yet — check back soon.</p>
       ) : (
-        <div className="period-overview-body">
+        <div className={`period-overview-body${variant === 'monthly' ? ' period-overview-body--reverse' : ''}`}>
           <a
             className="period-overview-spotlight"
             href={topPick.html_url}
