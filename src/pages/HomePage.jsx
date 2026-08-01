@@ -6,6 +6,8 @@ import { formatNumber } from '../utils/formatNumber';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import TrendingCard from '../components/TrendingCard';
+import PeriodOverviewSection from '../components/PeriodOverviewSection';
+import RanbotPromoSection from '../components/RanbotPromoSection';
 import './HomePage.css';
 
 const GITHUB_REPO = 'encoreshao/github-trending';
@@ -217,6 +219,26 @@ const HomePage = () => {
             </button>
           </div>
         </section>
+
+        <PeriodOverviewSection
+          title="Weekly Highlights"
+          badgeLabel="This week"
+          subdir="weekly"
+          maxDaysBack={60}
+          path="/weekly"
+          accentIcon="🔥"
+        />
+
+        <PeriodOverviewSection
+          title="Monthly Highlights"
+          badgeLabel="This month"
+          subdir="monthly"
+          maxDaysBack={180}
+          path="/monthly"
+          accentIcon="🚀"
+        />
+
+        <RanbotPromoSection />
       </main>
 
       {/* Footer */}

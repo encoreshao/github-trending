@@ -1,0 +1,51 @@
+.ranbot-promo {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+}
+
+.ranbot-promo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.ranbot-promo-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  background: rgb(var(--c-surface-alt) / 0.5);
+  border: 1px solid rgb(var(--c-border) / 0.15);
+  border-radius: 16px;
+  padding: 24px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.ranbot-promo-card:hover {
+  transform: translateY(-4px);
+  border-color: rgb(var(--c-accent) / 0.4);
+}
+
+.ranbot-promo-icon {
+  font-size: 28px;
+}
+
+.ranbot-promo-name {
+  font-size: 17px;
+  font-weight: 700;
+  color: rgb(var(--c-text-heading));
+}
+
+.ranbot-promo-blurb {
+  font-size: 13px;
+  color: rgb(var(--c-text-secondary));
+  margin: 0;
+}
+
+@media (max-width: 640px) {
+  .ranbot-promo-grid {
+    grid-template-columns: 1fr;
+  }
+}

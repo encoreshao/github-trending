@@ -1,0 +1,191 @@
+.period-overview {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 24px 60px;
+}
+
+.period-overview-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.period-overview-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 32px;
+  font-weight: 800;
+  color: rgb(var(--c-text-heading));
+  margin: 0;
+}
+
+.period-overview-icon {
+  font-size: 28px;
+}
+
+.period-overview-badge {
+  display: inline-flex;
+  align-items: center;
+  background: rgb(var(--c-surface-alt) / 0.5);
+  border: 1px solid rgb(var(--c-border) / 0.15);
+  color: rgb(var(--c-text-secondary));
+  font-size: 13px;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 20px;
+}
+
+.period-overview-empty {
+  color: rgb(var(--c-text-secondary));
+  font-size: 15px;
+  padding: 24px 0;
+}
+
+.period-overview-body {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin-bottom: 28px;
+}
+
+.period-overview-spotlight {
+  flex: 1 1 60%;
+  display: flex;
+  gap: 16px;
+  background: rgb(var(--c-surface-alt) / 0.5);
+  border: 1px solid rgb(var(--c-border) / 0.15);
+  border-radius: 16px;
+  padding: 20px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.period-overview-spotlight:hover {
+  transform: translateY(-2px);
+  border-color: rgb(var(--c-accent) / 0.4);
+}
+
+.period-overview-avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 12px;
+  flex: 0 0 auto;
+  object-fit: cover;
+}
+
+.period-overview-spotlight-text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+
+.period-overview-spotlight-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: rgb(var(--c-warning));
+}
+
+.period-overview-spotlight-name {
+  font-size: 18px;
+  font-weight: 800;
+  color: rgb(var(--c-text-heading));
+}
+
+.period-overview-spotlight-desc {
+  font-size: 14px;
+  color: rgb(var(--c-text-secondary));
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.period-overview-spotlight-stars {
+  font-size: 13px;
+  font-weight: 700;
+  color: rgb(var(--c-warning));
+}
+
+.period-overview-stats {
+  flex: 1 1 30%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 16px;
+  background: rgb(var(--c-surface) / 0.35);
+  border: 1px solid rgb(var(--c-border) / 0.12);
+  border-radius: 16px;
+  padding: 20px;
+}
+
+.period-overview-stat {
+  text-align: center;
+}
+
+.period-overview-stat-number {
+  display: block;
+  font-size: 22px;
+  font-weight: 800;
+  color: rgb(var(--c-accent-light));
+  margin-bottom: 4px;
+}
+
+.period-overview-stat-label {
+  font-size: 11px;
+  color: rgb(var(--c-text-secondary));
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.period-overview-cta-row {
+  text-align: center;
+}
+
+.period-overview-cta {
+  display: inline-block;
+  padding: 14px 28px;
+  background: rgb(var(--c-accent) / 0.1);
+  border: 2px solid rgb(var(--c-accent));
+  border-radius: 12px;
+  color: rgb(var(--c-accent-light));
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.period-overview-cta:hover {
+  background: rgb(var(--c-accent));
+  color: rgb(var(--c-white));
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgb(var(--c-accent) / 0.3);
+}
+
+@media (max-width: 968px) {
+  .period-overview-body {
+    flex-direction: column;
+  }
+
+  .period-overview-title {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 640px) {
+  .period-overview-spotlight {
+    flex-direction: column;
+  }
+
+  .period-overview-stats {
+    flex-direction: column;
+    gap: 12px;
+  }
+}
