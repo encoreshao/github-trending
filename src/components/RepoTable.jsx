@@ -1,8 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Button, Space, message } from 'antd';
-import { CopyToClipboard } from 'react-copy-to-clipboard';
-import { saveAs } from 'file-saver';
-import { unparse } from 'papaparse';
+import { message } from 'antd';
 import { ATTRIBUTES } from './AttributeSelector';
 
 async function handleCellCopy(value) {
@@ -15,11 +12,11 @@ async function handleCellCopy(value) {
 }
 
 const HEADER_HEIGHT = 40;
-const ACTION_HEIGHT = 40;
+// Reserved space above the table for the shared DataToolbar rendered by App.jsx
+const TOOLBAR_HEIGHT = 96;
 const FOOTER_HEIGHT = 40;
 
 const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
-  const [selectedRowKeys, setSelectedRowKeys] = useState([]);
   const tableBodyRef = useRef(null);
   const [bodyHeight, setBodyHeight] = useState(400);
 
@@ -57,7 +54,7 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
           );
         }
         if (Array.isArray(value)) {
-          value = value.join(', ');
+          value = attrKey === 'topics' ? value.slice(0, 2).join(', ') : value.join(', ');
         }
         if (value === undefined || value === null) value = '';
         if (typeof value === 'string' && value.includes('github.com')) {
@@ -86,6 +83,42 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
             </a>
           );
         }
+        if (attrKey === 'full_name') {
+          return (
+            <span
+              onDoubleClick={e => { e.preventDefault(); handleCellCopy(value); }}
+              style={{
+                cursor: 'pointer',
+                color: 'rgb(var(--c-text-body))',
+                display: 'block',
+                whiteSpace: 'normal',
+                overflowWrap: 'anywhere',
+                wordBreak: 'break-word',
+              }}
+              title={value}
+            >
+              {value}
+            </span>
+          );
+        }
+        if (attrKey === 'description') {
+          return (
+            <span
+              onDoubleClick={e => { e.preventDefault(); handleCellCopy(value); }}
+              style={{
+                cursor: 'pointer',
+                color: 'rgb(var(--c-text-body))',
+                display: '-webkit-box',
+                WebkitLineClamp: 2,
+                WebkitBoxOrient: 'vertical',
+                overflow: 'hidden',
+              }}
+              title={value}
+            >
+              {value}
+            </span>
+          );
+        }
         return (
           <span
             onDoubleClick={e => { e.preventDefault(); handleCellCopy(value); }}
@@ -99,39 +132,11 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
     };
   });
 
-  // 选中行数据
-  const selectedRows = repos.filter((_, idx) => selectedRowKeys.includes(idx));
-
-  // 导出 CSV
-  const handleExportCSV = () => {
-    try {
-      const data = selectedRows.length ? selectedRows : repos;
-      const csv = unparse(data, { columns: attributes });
-      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
-      saveAs(blob, 'github-trending.csv');
-    } catch (e) {
-      message.error(texts.exportError);
-    }
-  };
-
-  // 导出 JSON
-  const handleExportJSON = () => {
-    const data = selectedRows.length ? selectedRows : repos;
-    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-    saveAs(blob, 'github-trending.json');
-  };
-
-  // 复制
-  const handleCopy = () => {
-    message.success(texts.copied);
-  };
-
   // 动态设置表格内容区高度
   useEffect(() => {
     function updateBodyHeight() {
       const winH = window.innerHeight;
-      // 5% action + 5% header + 5% footer, 85% content
-      const h = winH - ACTION_HEIGHT - HEADER_HEIGHT - FOOTER_HEIGHT;
+      const h = winH - TOOLBAR_HEIGHT - HEADER_HEIGHT - FOOTER_HEIGHT;
       setBodyHeight(h > 100 ? h : 100);
     }
     updateBodyHeight();
@@ -140,38 +145,14 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
   }, []);
 
   return (
-    <div style={{ height: '90vh', display: 'flex', flexDirection: 'column' }}>
-      {/* Action Bar */}
-      <div style={{ 
-        flex: '0 0 auto', 
-        minHeight: ACTION_HEIGHT, 
-        display: 'flex', 
-        alignItems: 'center',
-        padding: '16px 0',
-        borderBottom: '1px solid rgb(var(--c-surface-alt) / 0.5)'
-      }}>
-        <Space>
-          <Button onClick={handleExportCSV} disabled={!repos.length} style={{ padding: '0 10px' }}>{texts.exportCSV}</Button>
-          <Button onClick={handleExportJSON} disabled={!repos.length} style={{ padding: '0 10px' }}>{texts.exportJSON}</Button>
-          <CopyToClipboard
-            text={JSON.stringify(selectedRows.length ? selectedRows : repos, null, 2)}
-            onCopy={handleCopy}
-          >
-            <Button disabled={!repos.length} style={{ padding: '0 10px' }}>{texts.copy}</Button>
-          </CopyToClipboard>
-        </Space>
-      </div>
-      {/* Table (header + body) */}
-      <div style={{ 
-        flex: '1 1 90%', 
-        display: 'flex', 
-        flexDirection: 'column', 
-        minHeight: 0,
-        borderRadius: '12px',
-        overflow: 'hidden',
-        border: '1px solid rgb(var(--c-surface-alt) / 0.5)',
-        marginTop: '16px'
-      }}>
+    <div style={{
+      display: 'flex',
+      flexDirection: 'column',
+      minHeight: 0,
+      borderRadius: '12px',
+      overflow: 'hidden',
+      border: '1px solid rgb(var(--c-surface-alt) / 0.5)'
+    }}>
         <table style={{ width: '100%', borderCollapse: 'collapse', tableLayout: 'fixed' }}>
           <colgroup>
             {columns.map(col => (
@@ -253,7 +234,6 @@ const RepoTable = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
           </table>
         </div>
       </div>
-    </div>
   );
 };
 

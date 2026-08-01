@@ -72,184 +72,258 @@ body {
 }
 
 /* ===============================================
-   CARD GRID STYLES
+   DATA TOOLBAR (search + export/copy + view/language)
    =============================================== */
 
+.data-toolbar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid rgb(var(--c-surface-alt) / 0.5);
+}
+
+/* Every control on this row (search box + button, export/copy buttons,
+   view switch, language select) shares this height so they line up. */
+.data-toolbar {
+  --toolbar-control-height: 44px;
+}
+
+.data-toolbar-search {
+  flex: 0 1 220px;
+}
+
+/* The input group (input + addon button) renders as one flush flex row —
+   no gap between the two, so they read as a single block. Without
+   allowClear/prefix/suffix, antd doesn't wrap the input in an
+   affix-wrapper, so these rules target the plain input directly; the
+   affix-wrapper versions are kept too in case that ever changes. */
+.data-toolbar-search .ant-input-wrapper {
+  display: flex;
+}
+
+.data-toolbar-search .ant-input-group-addon {
+  background: transparent;
+  padding: 0;
+  height: var(--toolbar-control-height);
+}
+
+.data-toolbar-search .ant-input,
+.data-toolbar-search .ant-input-affix-wrapper {
+  display: flex;
+  align-items: center;
+  flex: 1 1 auto;
+  width: 100%;
+  height: var(--toolbar-control-height);
+  padding: 0 16px;
+  font-size: 15px;
+  background: rgb(var(--c-surface) / 0.6);
+  border: 1px solid rgb(var(--c-surface-alt) / 0.8);
+  border-right: none;
+  border-radius: 10px 0 0 10px;
+  color: rgb(var(--c-text-body));
+  box-shadow: none;
+}
+
+.data-toolbar-search .ant-input-affix-wrapper .ant-input {
+  border: none;
+  border-radius: 0;
+  padding: 0;
+}
+
+.data-toolbar-search .ant-input::placeholder,
+.data-toolbar-search .ant-input-affix-wrapper::placeholder {
+  color: rgb(var(--c-text-muted));
+}
+
+.data-toolbar-search .ant-input:hover,
+.data-toolbar-search .ant-input-affix-wrapper:hover {
+  border-color: rgb(var(--c-accent) / 0.6);
+}
+
+.data-toolbar-search .ant-input:focus,
+.data-toolbar-search .ant-input-affix-wrapper-focused,
+.data-toolbar-search .ant-input-affix-wrapper:focus-within {
+  border-color: rgb(var(--c-accent));
+  box-shadow: 0 0 0 2px rgb(var(--c-accent) / 0.15);
+}
+
+.data-toolbar-search .ant-input-search-button {
+  background: rgb(var(--c-accent)) !important;
+  border: 1px solid rgb(var(--c-accent)) !important;
+  border-left: none !important;
+  border-radius: 0 10px 10px 0 !important;
+  color: #fff !important;
+  font-weight: 600;
+  font-size: 15px;
+  height: var(--toolbar-control-height) !important;
+  min-width: 120px;
+  padding: 0 32px;
+  box-shadow: none !important;
+}
+
+.data-toolbar-search .ant-input-search-button:hover,
+.data-toolbar-search .ant-input-search-button:focus {
+  background: rgb(var(--c-accent-light)) !important;
+  border-color: rgb(var(--c-accent-light)) !important;
+}
+
+.data-toolbar-search .ant-input-search-button:disabled {
+  background: rgb(var(--c-surface-alt) / 0.6) !important;
+  border-color: rgb(var(--c-surface-alt) / 0.6) !important;
+  color: rgb(var(--c-text-muted)) !important;
+}
+
+.data-toolbar-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-left: auto;
+}
+
+.data-toolbar-actions .ant-btn,
+.data-toolbar-actions .ant-segmented,
+.data-toolbar-actions .ant-select .ant-select-selector {
+  height: var(--toolbar-control-height) !important;
+  display: flex;
+  align-items: center;
+}
+
+.data-toolbar-actions .ant-select .ant-select-selection-item {
+  line-height: var(--toolbar-control-height) !important;
+}
+
+.data-toolbar-actions .ant-segmented .ant-segmented-group,
+.data-toolbar-actions .ant-segmented .ant-segmented-item {
+  height: 100%;
+}
+
+.data-toolbar-actions .ant-segmented .ant-segmented-item-label {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+@media (max-width: 640px) {
+  .data-toolbar-search {
+    max-width: none;
+    flex-basis: 100%;
+  }
+
+  .data-toolbar-actions {
+    margin-left: 0;
+  }
+}
+
+/* ===============================================
+   CARD GRID STYLES
+   Sized to match the Daily Trending fan card's compact,
+   glassy look, adapted to a static grid with fuller content.
+   =============================================== */
+
+/* Flex-wrap (not grid) so each fixed-size card just flows onto the next
+   line as space runs out, instead of being stretched by a grid track. */
 .grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
-  gap: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
   max-width: 100%;
   margin: 0 auto;
 }
 
+/* Single-face card modeled on the Daily Trending fan card: centered avatar,
+   bold "owner/repo" name, a short clamped description, and a stars line.
+   The whole card is a link to the repo. Fixed 220x180.
+
+   No backdrop-filter here: combined with this element's own transform
+   (hover/entrance animation) and the border-radius clip, backdrop-filter
+   blur made Chromium/WebKit blur the card's own text, not just what's
+   behind it, leaving the name/description unreadable. */
+
 .card {
-  background: linear-gradient(145deg, rgb(var(--c-surface) / 0.8) 0%, rgb(var(--c-bg) / 0.9) 100%);
-  border: 1px solid rgb(var(--c-surface-alt) / 0.5);
-  border-radius: 20px;
-  padding: 28px;
   display: flex;
   flex-direction: column;
-  backdrop-filter: blur(12px);
-  transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
-  cursor: pointer;
-  position: relative;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 8px;
+  flex: 0 0 220px;
+  width: 220px;
+  height: 180px;
+  padding: 16px 18px;
+  border-radius: 18px;
+  border: 1px solid rgb(var(--c-accent) / 0.35);
+  background: rgb(var(--c-surface-alt) / 0.85);
+  text-decoration: none;
   overflow: hidden;
-}
-
-.card::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 2px;
-  background: linear-gradient(90deg, transparent, #3B82F6, #22D3EE, transparent);
-  opacity: 0;
-  transition: opacity 0.35s ease;
+  box-shadow: 0 14px 30px rgb(var(--c-accent) / 0.12), 0 0 0 1px rgb(var(--c-accent) / 0.06);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease, border-color 0.3s ease;
+  cursor: pointer;
 }
 
 .card:hover {
-  transform: translateY(-4px);
-  border-color: rgba(59, 130, 246, 0.4);
-  box-shadow: 
-    0 20px 40px rgba(0, 0, 0, 0.3),
-    0 0 60px rgba(59, 130, 246, 0.1);
-}
-
-.card:hover::before {
-  opacity: 1;
-}
-
-.card-header {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-  margin-bottom: 20px;
+  transform: translateY(-5px) scale(1.04);
+  border-color: rgb(var(--c-accent));
+  box-shadow: 0 20px 40px rgb(var(--c-accent) / 0.25), 0 0 0 2px rgb(var(--c-accent) / 0.15);
+  text-decoration: none;
 }
 
 .avatar {
-  width: 56px;
-  height: 56px;
+  width: 52px;
+  height: 52px;
   border-radius: 14px;
-  border: 2px solid rgba(59, 130, 246, 0.3);
+  border: 2px solid rgb(var(--c-accent) / 0.4);
   object-fit: cover;
   transition: border-color 0.3s ease;
 }
 
 .card:hover .avatar {
-  border-color: rgba(59, 130, 246, 0.6);
-}
-
-.repo-info {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
+  border-color: rgb(var(--c-accent));
 }
 
 .repo-name {
-  font-size: 20px;
-  font-weight: 600;
+  font-size: 14px;
+  font-weight: 800;
   color: rgb(var(--c-text-heading));
   margin: 0;
-  transition: color 0.3s ease;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.card:hover .repo-name {
-  color: #60A5FA;
-}
-
-.repo-owner {
-  font-size: 14px;
-  color: rgb(var(--c-text-muted));
+.description {
+  color: rgb(var(--c-text-secondary));
+  font-size: 11px;
+  line-height: 1.4;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .repo-stars {
   display: inline-flex;
   align-items: center;
   gap: 4px;
-  font-size: 14px;
-  color: #F59E0B;
-  font-weight: 500;
-}
-
-.description {
-  color: rgb(var(--c-text-secondary));
-  font-size: 15px;
-  line-height: 1.65;
-  margin: 16px 0;
-  flex-grow: 1;
-}
-
-.topics {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 20px;
-}
-
-.topic {
-  background: rgba(59, 130, 246, 0.15);
-  color: #60A5FA;
-  padding: 6px 12px;
-  border-radius: 100px;
   font-size: 12px;
-  font-weight: 500;
-  border: 1px solid rgba(59, 130, 246, 0.2);
-  transition: all 0.25s ease;
-}
-
-.topic:hover {
-  background: rgba(59, 130, 246, 0.25);
-  border-color: rgba(59, 130, 246, 0.4);
-}
-
-.link {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 14px;
-  color: #3B82F6;
-  text-decoration: none;
-  font-weight: 500;
-  margin-bottom: 16px;
-  transition: color 0.25s ease;
-}
-
-.link:hover {
-  color: #60A5FA;
-  text-decoration: none;
-}
-
-.dates {
-  display: flex;
-  justify-content: space-between;
-  font-size: 13px;
-  color: rgb(var(--c-text-muted));
-  border-top: 1px solid rgb(var(--c-surface-alt) / 0.5);
-  padding-top: 16px;
-  margin-top: auto;
+  color: rgb(var(--c-warning));
+  font-weight: 700;
 }
 
 /* ===============================================
    RESPONSIVE DESIGN
    =============================================== */
 
-@media (max-width: 1024px) {
+/* Fixed-size cards wrap on their own via flex-wrap; just tighten the gap
+   a little on very narrow screens. */
+@media (max-width: 480px) {
   .grid {
-    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-    gap: 20px;
-  }
-}
-
-@media (max-width: 768px) {
-  .grid {
-    grid-template-columns: 1fr;
-    gap: 16px;
-  }
-
-  .card {
-    padding: 20px;
+    gap: 8px;
   }
 }
 
@@ -268,8 +342,16 @@ body {
   }
 }
 
+/* Opacity-only (no lingering transform once finished) so this element
+   never keeps a non-none computed transform at rest — see the note on
+   .card above about that combination blurring the card's own text. */
+@keyframes cardFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
 .card {
-  animation: fadeInUp 0.5s ease forwards;
+  animation: cardFadeIn 0.5s ease forwards;
 }
 
 .grid .card:nth-child(1) { animation-delay: 0.05s; }

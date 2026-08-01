@@ -329,168 +329,12 @@
   color: #FFFFFF !important;
 }
 
-/* ===============================================
-   CARD GRID STYLES
-   =============================================== */
-
-.demo-content .grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
-  gap: 24px;
-  max-width: 100%;
-  margin: 0 auto;
-}
-
-.demo-content .card {
-  background: linear-gradient(145deg, rgb(var(--c-surface) / 0.8) 0%, rgb(var(--c-bg) / 0.9) 100%) !important;
-  border: 1px solid rgb(var(--c-surface-alt) / 0.5) !important;
-  border-radius: 20px !important;
-  padding: 28px !important;
-  backdrop-filter: blur(12px) !important;
-  transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1) !important;
-  cursor: pointer;
-  position: relative;
-  overflow: hidden;
-}
-
-/* Subtle gradient glow on hover */
-.demo-content .card::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 2px;
-  background: linear-gradient(90deg, transparent, #3B82F6, #22D3EE, transparent);
-  opacity: 0;
-  transition: opacity 0.35s ease;
-}
-
-.demo-content .card:hover {
-  transform: translateY(-4px) !important;
-  border-color: rgba(59, 130, 246, 0.4) !important;
-  box-shadow: 
-    0 20px 40px rgba(0, 0, 0, 0.3),
-    0 0 60px rgba(59, 130, 246, 0.1) !important;
-}
-
-.demo-content .card:hover::before {
-  opacity: 1;
-}
-
-/* Card header */
-.demo-content .card-header {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-  margin-bottom: 20px;
-}
-
-.demo-content .avatar {
-  width: 56px !important;
-  height: 56px !important;
-  border-radius: 14px !important;
-  border: 2px solid rgba(59, 130, 246, 0.3) !important;
-  object-fit: cover;
-  transition: border-color 0.3s ease !important;
-}
-
-.demo-content .card:hover .avatar {
-  border-color: rgba(59, 130, 246, 0.6) !important;
-}
-
-.demo-content .repo-info {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-}
-
-.demo-content .repo-name {
-  font-size: 20px !important;
-  font-weight: 600 !important;
-  color: rgb(var(--c-text-heading)) !important;
-  margin: 0 !important;
-  transition: color 0.3s ease !important;
-}
-
-.demo-content .card:hover .repo-name {
-  color: #60A5FA !important;
-}
-
-.demo-content .repo-owner {
-  font-size: 14px !important;
-  color: rgb(var(--c-text-muted)) !important;
-}
-
-.demo-content .repo-stars {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  font-size: 14px !important;
-  color: #F59E0B !important;
-  font-weight: 500 !important;
-}
-
-/* Description */
-.demo-content .description {
-  color: rgb(var(--c-text-secondary)) !important;
-  font-size: 15px !important;
-  line-height: 1.65 !important;
-  margin: 16px 0 !important;
-}
-
-/* Topics */
-.demo-content .topics {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 20px;
-}
-
-.demo-content .topic {
-  background: rgba(59, 130, 246, 0.15) !important;
-  color: #60A5FA !important;
-  padding: 6px 12px !important;
-  border-radius: 100px !important;
-  font-size: 12px !important;
-  font-weight: 500 !important;
-  border: 1px solid rgba(59, 130, 246, 0.2) !important;
-  transition: all 0.25s ease !important;
-}
-
-.demo-content .topic:hover {
-  background: rgba(59, 130, 246, 0.25) !important;
-  border-color: rgba(59, 130, 246, 0.4) !important;
-}
-
-/* Link */
-.demo-content .link {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 14px !important;
-  color: #3B82F6 !important;
-  text-decoration: none !important;
-  font-weight: 500 !important;
-  margin-bottom: 16px !important;
-  transition: color 0.25s ease !important;
-}
-
-.demo-content .link:hover {
-  color: #60A5FA !important;
-  text-decoration: none !important;
-}
-
-/* Dates footer */
-.demo-content .dates {
-  display: flex;
-  justify-content: space-between;
-  font-size: 13px !important;
-  color: rgb(var(--c-text-muted)) !important;
-  border-top: 1px solid rgb(var(--c-surface-alt) / 0.5) !important;
-  padding-top: 16px !important;
-  margin-top: auto;
-}
+/* Card/grid appearance (.grid, .card, .avatar, .repo-name, .description,
+   .repo-stars) lives solely in App.css now — this file used to carry its
+   own !important-laden duplicate of those rules, which (via higher
+   specificity from the .demo-content prefix) silently overrode every
+   card redesign made in App.css, including reintroducing the
+   backdrop-filter-blurs-its-own-text bug after it was fixed there. */
 
 /* ===============================================
    EXPORT TOOLBAR
@@ -575,52 +419,10 @@
    RESPONSIVE DESIGN
    =============================================== */
 
-@media (max-width: 1024px) {
-  .demo-content .grid {
-    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-    gap: 20px;
-  }
-}
-
 @media (max-width: 768px) {
-  .demo-content .grid {
-    grid-template-columns: 1fr;
-    gap: 16px;
-  }
-
   .demo-content .ant-layout-sider {
     width: 100% !important;
     max-width: 100% !important;
     min-width: 100% !important;
   }
-
-  .demo-content .card {
-    padding: 20px !important;
-  }
 }
-
-/* ===============================================
-   ANIMATIONS
-   =============================================== */
-
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.demo-content .card {
-  animation: fadeInUp 0.5s ease forwards;
-}
-
-.demo-content .grid .card:nth-child(1) { animation-delay: 0.05s; }
-.demo-content .grid .card:nth-child(2) { animation-delay: 0.1s; }
-.demo-content .grid .card:nth-child(3) { animation-delay: 0.15s; }
-.demo-content .grid .card:nth-child(4) { animation-delay: 0.2s; }
-.demo-content .grid .card:nth-child(5) { animation-delay: 0.25s; }
-.demo-content .grid .card:nth-child(6) { animation-delay: 0.3s; }

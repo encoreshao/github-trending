@@ -1,150 +1,73 @@
-import React, { useState, useRef } from 'react';
-import { Button, Space, message, Avatar, Tooltip } from 'antd';
-import { CopyToClipboard } from 'react-copy-to-clipboard';
-import { saveAs } from 'file-saver';
-import { unparse } from 'papaparse';
+import React from 'react';
+import { formatNumber } from '../utils/formatNumber';
 
-const RepoCard = ({ repo, lang, texts }) => {
-  const formatDate = (dateString) => new Date(dateString).toLocaleDateString();
+const RepoCard = ({ repo, texts }) => {
+  // repo.name is never fetched (only the combined full_name field is a
+  // selectable attribute) — using it directly left the name blank/"undefined".
+  const displayName = repo.full_name || repo['owner.login'] || '';
 
   return (
-    <div className="card">
-      <div className="card-header">
-        <Avatar src={repo['owner.avatar_url']} alt={repo['owner.login']} className="avatar" />
-        <div className="repo-info">
-          <p className="repo-name">{repo.name}</p>
-          <span className="repo-owner">{repo['owner.login']}</span>
-          <span className="repo-stars">⭐ {repo.stargazers_count} {texts.stars}</span>
-        </div>
-      </div>
-      <div className="description">
-        {repo.description}
-      </div>
-      {repo.topics && repo.topics.length > 0 && (
-        <div className="topics">
-          {repo.topics.slice(0, 5).map(topic => (
-            <span key={topic} className="topic">{topic}</span>
-          ))}
-        </div>
-      )}
-      <a href={repo.html_url} className="link" target="_blank" rel="noopener noreferrer">
-        {texts.viewOnGitHub}
-      </a>
-      <div className="dates">
-        <span>{texts.created}: {formatDate(repo.created_at)}</span>
-        <span>{texts.lastUpdated}: {formatDate(repo.updated_at)}</span>
-      </div>
-    </div>
+    <a className="card" href={repo.html_url} target="_blank" rel="noopener noreferrer">
+      <img className="avatar" src={repo['owner.avatar_url']} alt={repo['owner.login']} loading="lazy" />
+      <p className="repo-name">{displayName}</p>
+      <div className="description">{repo.description || texts.tableNoData}</div>
+      <span className="repo-stars">⭐ {formatNumber(repo.stargazers_count)} {texts.stars}</span>
+    </a>
   );
 };
 
-const RepoCardView = ({ repos, attributes, lang, texts, pageSize = 20 }) => {
-  const viewRef = useRef(null);
-
-  const handleExportCSV = () => {
-    try {
-      const data = repos;
-      const csv = unparse(data, { columns: attributes });
-      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
-      saveAs(blob, 'github-trending.csv');
-    } catch (e) {
-      message.error(texts.exportError);
-    }
-  };
-
-  const handleExportJSON = () => {
-    const data = repos;
-    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-    saveAs(blob, 'github-trending.json');
-  };
-
-  const handleCopy = () => {
-    message.success(texts.copied);
-  };
-
+const RepoCardView = ({ repos, texts, pageSize = 20 }) => {
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
-      <div style={{ flex: '0 0 auto', padding: '16px 24px', borderBottom: '1px solid rgb(var(--c-surface-alt) / 0.5)' }}>
-        <Space>
-          <Button
-            onClick={handleExportCSV}
-            disabled={!repos.length}
-            style={{ padding: 8 }}
-          >
-            {texts.exportCSV}
-          </Button>
-          <Button
-            onClick={handleExportJSON}
-            disabled={!repos.length}
-            style={{ padding: 8 }}
-          >
-            {texts.exportJSON}
-          </Button>
-          <CopyToClipboard
-            text={JSON.stringify(repos, null, 2)}
-            onCopy={handleCopy}
-          >
-            <Button
-              disabled={!repos.length}
-              style={{ padding: 8 }}
-            >
-              {texts.copy}
-            </Button>
-          </CopyToClipboard>
-        </Space>
-      </div>
-
-      <div style={{ flex: '1 1 auto', overflowY: 'auto', padding: '24px' }} ref={viewRef}>
-        {repos.length === 0 ? (
-          <div style={{ 
-            textAlign: 'center', 
-            padding: '80px 32px',
+    <div>
+      {repos.length === 0 ? (
+        <div style={{
+          textAlign: 'center',
+          padding: '80px 32px',
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          gap: '16px'
+        }}>
+          <div style={{
+            width: '80px',
+            height: '80px',
+            borderRadius: '20px',
+            background: 'linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(34, 211, 238, 0.1) 100%)',
+            border: '1px solid rgba(59, 130, 246, 0.2)',
             display: 'flex',
-            flexDirection: 'column',
             alignItems: 'center',
-            gap: '16px'
+            justifyContent: 'center',
+            marginBottom: '8px'
           }}>
-            <div style={{
-              width: '80px',
-              height: '80px',
-              borderRadius: '20px',
-              background: 'linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(34, 211, 238, 0.1) 100%)',
-              border: '1px solid rgba(59, 130, 246, 0.2)',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              marginBottom: '8px'
-            }}>
-              <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="rgb(var(--c-text-muted))" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M21 12a9 9 0 0 0-9-9 9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9z"/>
-                <path d="M9 9h.01M15 9h.01M8 13a4 4 0 0 0 8 0"/>
-              </svg>
-            </div>
-            <div style={{
-              color: 'rgb(var(--c-text-secondary))',
-              fontSize: '18px',
-              fontWeight: '600',
-              fontFamily: "'Space Grotesk', sans-serif"
-            }}>
-              {texts.tableNoData}
-            </div>
-            <div style={{
-              color: 'rgb(var(--c-text-muted))',
-              fontSize: '14px',
-              maxWidth: '300px',
-              lineHeight: '1.6'
-            }}>
-              Enter your GitHub token and click Fetch to discover trending repositories
-            </div>
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="rgb(var(--c-text-muted))" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M21 12a9 9 0 0 0-9-9 9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9z"/>
+              <path d="M9 9h.01M15 9h.01M8 13a4 4 0 0 0 8 0"/>
+            </svg>
           </div>
-        ) : (
-          <div className="grid">
-            {repos.slice(0, pageSize).map((repo, idx) => (
-              <RepoCard key={repo.id || idx} repo={repo} lang={lang} texts={texts} />
-            ))}
+          <div style={{
+            color: 'rgb(var(--c-text-secondary))',
+            fontSize: '18px',
+            fontWeight: '600',
+            fontFamily: "'Space Grotesk', sans-serif"
+          }}>
+            {texts.tableNoData}
           </div>
-        )}
-      </div>
+          <div style={{
+            color: 'rgb(var(--c-text-muted))',
+            fontSize: '14px',
+            maxWidth: '300px',
+            lineHeight: '1.6'
+          }}>
+            Enter your GitHub token and click Fetch to discover trending repositories
+          </div>
+        </div>
+      ) : (
+        <div className="grid">
+          {repos.slice(0, pageSize).map((repo, idx) => (
+            <RepoCard key={repo.id || idx} repo={repo} texts={texts} />
+          ))}
+        </div>
+      )}
     </div>
   );
 };

@@ -1,46 +1,10 @@
 import React from 'react';
-import { Button, Divider, message, InputNumber, Input, Tooltip } from 'antd';
+import { Button, Divider, InputNumber, Tooltip } from 'antd';
 import { ReloadOutlined } from '@ant-design/icons';
 import TokenInput from './TokenInput';
 import AttributeSelector, { ATTRIBUTES } from './AttributeSelector';
-import { fetchTrendingRepos } from '../api/github';
 
-const SettingsPanel = ({ token, setToken, attributes, setAttributes, setRepos, setLoading, lang, texts, pageSize, setPageSize, category, setCategory }) => {
-  // 触发抓取数据
-  const handleFetch = async () => {
-    setLoading(true);
-    try {
-      const repos = await fetchTrendingRepos(token, pageSize, category);
-      // 只保留选中的字段，嵌套字段健壮处理
-      const filtered = repos.map(repo => {
-        const obj = {};
-        attributes.forEach(attr => {
-          if (attr.includes('.')) {
-            const keys = attr.split('.');
-            let value = repo;
-            for (const k of keys) {
-              if (value && typeof value === 'object' && k in value) {
-                value = value[k];
-              } else {
-                value = '';
-                break;
-              }
-            }
-            obj[attr] = value;
-          } else {
-            obj[attr] = repo[attr];
-          }
-        });
-        return obj;
-      });
-      setRepos(filtered);
-    } catch (e) {
-      message.error(texts.fetchError);
-      setRepos([]);
-    }
-    setLoading(false);
-  };
-
+const SettingsPanel = ({ token, setToken, attributes, setAttributes, lang, texts, pageSize, setPageSize }) => {
   // 重置字段为默认
   const handleResetFields = () => {
     setAttributes(ATTRIBUTES.slice(0, 9).map(a => a.key));
@@ -76,18 +40,6 @@ const SettingsPanel = ({ token, setToken, attributes, setAttributes, setRepos, s
           style={{ width: 80, marginLeft: 8 }}
         />
       </div>
-      <div style={{ marginBottom: 16 }}>
-        <span style={{ fontWeight: 500, color: 'var(--demo-text)', display: 'block', marginBottom: 8 }}>{texts.category}:</span>
-        <Input
-          value={category}
-          onChange={e => setCategory(e.target.value)}
-          placeholder={texts.categoryPlaceholder}
-          style={{ width: '100%' }}
-        />
-      </div>
-      <Button type="primary" block onClick={handleFetch} disabled={!token || !attributes.length}>
-        {texts.fetch}
-      </Button>
     </div>
   );
 };

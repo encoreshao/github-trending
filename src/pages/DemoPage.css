@@ -260,3 +260,33 @@
     padding: 6px 12px;
   }
 }
+
+/* Small/mobile viewports: stack settings above the data view instead of
+   squeezing a fixed 340px sidebar next to it. Settings first, data second. */
+@media (max-width: 768px) {
+  .demo-content .ant-layout-has-sider {
+    flex-direction: column !important;
+  }
+
+  .demo-content .ant-layout-sider {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 auto !important;
+    border-right: none !important;
+    border-bottom: 1px solid var(--demo-border) !important;
+  }
+
+  .demo-content .ant-layout-sider-collapsed {
+    height: 0 !important;
+    min-height: 0 !important;
+    overflow: hidden !important;
+    border-bottom: none !important;
+  }
+
+  .demo-content .sidebar-toggle-btn {
+    top: 12px !important;
+    left: auto !important;
+    right: 12px !important;
+  }
+}
