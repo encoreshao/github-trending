@@ -1,0 +1,484 @@
+[
+  {
+    "id": 1316527318,
+    "name": "qm",
+    "full_name": "yc-software/qm",
+    "owner": {
+      "login": "yc-software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
+    },
+    "description": "Multiplayer agent harness for work",
+    "topics": [],
+    "html_url": "https://github.com/yc-software/qm",
+    "stargazers_count": 10247,
+    "language": "TypeScript",
+    "forks_count": 1091,
+    "open_issues_count": 109,
+    "created_at": "2026-07-29T20:03:08Z",
+    "updated_at": "2026-08-04T06:35:57Z",
+    "pushed_at": "2026-08-04T00:34:16Z"
+  },
+  {
+    "id": 1317563975,
+    "name": "decimen-optical-transfer",
+    "full_name": "bashalarmistalt/decimen-optical-transfer",
+    "owner": {
+      "login": "bashalarmistalt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311128416?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+    "stargazers_count": 4329,
+    "language": "TypeScript",
+    "forks_count": 523,
+    "open_issues_count": 8,
+    "created_at": "2026-07-30T18:17:54Z",
+    "updated_at": "2026-08-04T06:31:04Z",
+    "pushed_at": "2026-08-04T03:17:55Z"
+  },
+  {
+    "id": 1318768894,
+    "name": "crm",
+    "full_name": "trycompai/crm",
+    "owner": {
+      "login": "trycompai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195194844?v=4"
+    },
+    "description": "An open-source, agentic-first CRM.",
+    "topics": [],
+    "html_url": "https://github.com/trycompai/crm",
+    "stargazers_count": 3584,
+    "language": "TypeScript",
+    "forks_count": 387,
+    "open_issues_count": 3,
+    "created_at": "2026-07-31T21:38:51Z",
+    "updated_at": "2026-08-04T06:35:32Z",
+    "pushed_at": "2026-08-03T22:58:57Z"
+  },
+  {
+    "id": 1316875788,
+    "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "owner": {
+      "login": "xdash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1618833?v=4"
+    },
+    "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+    "topics": [],
+    "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "stargazers_count": 2363,
+    "language": null,
+    "forks_count": 296,
+    "open_issues_count": 8,
+    "created_at": "2026-07-30T05:39:38Z",
+    "updated_at": "2026-08-04T06:35:22Z",
+    "pushed_at": "2026-07-31T13:44:39Z"
+  },
+  {
+    "id": 1315424242,
+    "name": "waste",
+    "full_name": "sqliteai/waste",
+    "owner": {
+      "login": "sqliteai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206516623?v=4"
+    },
+    "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+    "topics": [],
+    "html_url": "https://github.com/sqliteai/waste",
+    "stargazers_count": 1575,
+    "language": "C",
+    "forks_count": 118,
+    "open_issues_count": 1,
+    "created_at": "2026-07-28T20:56:00Z",
+    "updated_at": "2026-08-04T06:21:11Z",
+    "pushed_at": "2026-08-03T21:01:57Z"
+  },
+  {
+    "id": 1316443307,
+    "name": "skill-recorder",
+    "full_name": "microsoft/skill-recorder",
+    "owner": {
+      "login": "microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "copilot",
+      "copilot-cli",
+      "copilot-cowork",
+      "copilot-studio",
+      "electron",
+      "microsoft-scout",
+      "screen-recording"
+    ],
+    "html_url": "https://github.com/microsoft/skill-recorder",
+    "stargazers_count": 1527,
+    "language": "TypeScript",
+    "forks_count": 162,
+    "open_issues_count": 28,
+    "created_at": "2026-07-29T18:16:14Z",
+    "updated_at": "2026-08-04T06:35:17Z",
+    "pushed_at": "2026-08-04T05:35:14Z"
+  },
+  {
+    "id": 1319154759,
+    "name": "kimi-k3-in-c",
+    "full_name": "FareedKhan-dev/kimi-k3-in-c",
+    "owner": {
+      "login": "FareedKhan-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63067900?v=4"
+    },
+    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "topics": [
+      "avx2",
+      "c99",
+      "cpu-inference",
+      "deep-learning",
+      "from-scratch",
+      "inference-engine",
+      "kimi-k3",
+      "linear-attention",
+      "llm",
+      "llm-inference",
+      "machine-learning",
+      "memory-efficient",
+      "mixture-of-experts",
+      "moe",
+      "mxfp4",
+      "quantization",
+      "simd",
+      "systems-programming",
+      "transformer",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "stargazers_count": 1387,
+    "language": "C",
+    "forks_count": 216,
+    "open_issues_count": 5,
+    "created_at": "2026-08-01T09:29:38Z",
+    "updated_at": "2026-08-04T06:36:05Z",
+    "pushed_at": "2026-08-01T11:41:49Z"
+  },
+  {
+    "id": 1319336961,
+    "name": "sol-advisor",
+    "full_name": "DannyMac180/sol-advisor",
+    "owner": {
+      "login": "DannyMac180",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24324638?v=4"
+    },
+    "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+    "topics": [],
+    "html_url": "https://github.com/DannyMac180/sol-advisor",
+    "stargazers_count": 1134,
+    "language": "Shell",
+    "forks_count": 82,
+    "open_issues_count": 5,
+    "created_at": "2026-08-01T13:56:43Z",
+    "updated_at": "2026-08-04T06:33:24Z",
+    "pushed_at": "2026-08-03T13:35:11Z"
+  },
+  {
+    "id": 1319484586,
+    "name": "zhuzhiliao",
+    "full_name": "imsai-sh/zhuzhiliao",
+    "owner": {
+      "login": "imsai-sh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14907300?v=4"
+    },
+    "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+    "topics": [],
+    "html_url": "https://github.com/imsai-sh/zhuzhiliao",
+    "stargazers_count": 1062,
+    "language": "HTML",
+    "forks_count": 134,
+    "open_issues_count": 48,
+    "created_at": "2026-08-01T17:20:54Z",
+    "updated_at": "2026-08-04T06:35:08Z",
+    "pushed_at": "2026-08-03T05:06:21Z"
+  },
+  {
+    "id": 1318094168,
+    "name": "WilonityLoader",
+    "full_name": "WilonityDev/WilonityLoader",
+    "owner": {
+      "login": "WilonityDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311323366?v=4"
+    },
+    "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
+    "topics": [
+      "arc-raiders",
+      "counter-strike-2",
+      "game",
+      "hack",
+      "meccha-chameleon-tools",
+      "minecraft"
+    ],
+    "html_url": "https://github.com/WilonityDev/WilonityLoader",
+    "stargazers_count": 899,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-31T07:53:54Z",
+    "updated_at": "2026-08-04T03:13:02Z",
+    "pushed_at": "2026-08-01T11:03:09Z"
+  },
+  {
+    "id": 1320101490,
+    "name": "anatomy",
+    "full_name": "thebuggeddev/anatomy",
+    "owner": {
+      "login": "thebuggeddev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228721029?v=4"
+    },
+    "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+    "topics": [],
+    "html_url": "https://github.com/thebuggeddev/anatomy",
+    "stargazers_count": 873,
+    "language": "TypeScript",
+    "forks_count": 248,
+    "open_issues_count": 4,
+    "created_at": "2026-08-02T11:15:16Z",
+    "updated_at": "2026-08-04T06:29:46Z",
+    "pushed_at": "2026-08-02T11:29:29Z"
+  },
+  {
+    "id": 1318187016,
+    "name": "genoffice",
+    "full_name": "genspark-ai/genoffice",
+    "owner": {
+      "login": "genspark-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242390443?v=4"
+    },
+    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+    "topics": [
+      "ai",
+      "docx",
+      "electron",
+      "office-suite",
+      "pdf",
+      "pptx",
+      "xlsx"
+    ],
+    "html_url": "https://github.com/genspark-ai/genoffice",
+    "stargazers_count": 848,
+    "language": "TypeScript",
+    "forks_count": 114,
+    "open_issues_count": 8,
+    "created_at": "2026-07-31T09:40:58Z",
+    "updated_at": "2026-08-04T06:34:39Z",
+    "pushed_at": "2026-08-03T14:02:24Z"
+  },
+  {
+    "id": 1314908790,
+    "name": "persona",
+    "full_name": "xikhar/persona",
+    "owner": {
+      "login": "xikhar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215908419?v=4"
+    },
+    "description": "Bringing real-time voice to life.",
+    "topics": [],
+    "html_url": "https://github.com/xikhar/persona",
+    "stargazers_count": 825,
+    "language": "JavaScript",
+    "forks_count": 77,
+    "open_issues_count": 3,
+    "created_at": "2026-07-28T11:40:19Z",
+    "updated_at": "2026-08-04T06:23:03Z",
+    "pushed_at": "2026-08-04T06:21:46Z"
+  },
+  {
+    "id": 1315854686,
+    "name": "talivia",
+    "full_name": "talivia-group/talivia",
+    "owner": {
+      "login": "talivia-group",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309602203?v=4"
+    },
+    "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+    "topics": [
+      "analytics",
+      "bing",
+      "datafast",
+      "dodopayments",
+      "google-search",
+      "lemonsqueezy",
+      "polar",
+      "product-analytics",
+      "revenue-analytics",
+      "revenue-attribution",
+      "session-replay",
+      "stripe",
+      "web-analytics"
+    ],
+    "html_url": "https://github.com/talivia-group/talivia",
+    "stargazers_count": 681,
+    "language": "TypeScript",
+    "forks_count": 69,
+    "open_issues_count": 1,
+    "created_at": "2026-07-29T07:56:49Z",
+    "updated_at": "2026-08-04T03:42:00Z",
+    "pushed_at": "2026-08-02T16:14:49Z"
+  },
+  {
+    "id": 1314404827,
+    "name": "deltafin",
+    "full_name": "gavamedia/deltafin",
+    "owner": {
+      "login": "gavamedia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1783489?v=4"
+    },
+    "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+    "topics": [
+      "kimi",
+      "kimi-k3",
+      "local-ai",
+      "local-llm"
+    ],
+    "html_url": "https://github.com/gavamedia/deltafin",
+    "stargazers_count": 663,
+    "language": "Rust",
+    "forks_count": 76,
+    "open_issues_count": 2,
+    "created_at": "2026-07-28T01:01:23Z",
+    "updated_at": "2026-08-04T03:53:30Z",
+    "pushed_at": "2026-08-03T23:55:20Z"
+  },
+  {
+    "id": 1315061605,
+    "name": "ponytail-improved",
+    "full_name": "0xwilliamortiz/ponytail-improved",
+    "owner": {
+      "login": "0xwilliamortiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
+    },
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "claude-skills",
+      "cursor-rules",
+      "ponytail",
+      "prompt-engineering",
+      "prompt-optimization",
+      "yagni"
+    ],
+    "html_url": "https://github.com/0xwilliamortiz/ponytail-improved",
+    "stargazers_count": 586,
+    "language": "JavaScript",
+    "forks_count": 130,
+    "open_issues_count": 3,
+    "created_at": "2026-07-28T14:16:19Z",
+    "updated_at": "2026-08-04T03:42:06Z",
+    "pushed_at": "2026-08-01T22:10:48Z"
+  },
+  {
+    "id": 1319280427,
+    "name": "3x-ui-multi",
+    "full_name": "x4gKing/3x-ui-multi",
+    "owner": {
+      "login": "x4gKing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/x4gKing/3x-ui-multi",
+    "stargazers_count": 572,
+    "language": "JavaScript",
+    "forks_count": 1316,
+    "open_issues_count": 10,
+    "created_at": "2026-08-01T12:34:51Z",
+    "updated_at": "2026-08-04T06:27:51Z",
+    "pushed_at": "2026-08-01T12:40:28Z"
+  },
+  {
+    "id": 1319609477,
+    "name": "humanizer-cli",
+    "full_name": "0xwilliamortiz/humanizer-cli",
+    "owner": {
+      "login": "0xwilliamortiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
+    },
+    "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+    "topics": [
+      "ai-slop",
+      "ai-slop-detection",
+      "ai-slop-detector",
+      "ai-slop-fixer",
+      "ai-slop-remover",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-cli",
+      "codex-plugin",
+      "codex-skill",
+      "human",
+      "humanization",
+      "humanize",
+      "humanize-ai",
+      "humanize-ai-text",
+      "humanize-text",
+      "humanized",
+      "humanizer"
+    ],
+    "html_url": "https://github.com/0xwilliamortiz/humanizer-cli",
+    "stargazers_count": 561,
+    "language": "JavaScript",
+    "forks_count": 72,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T20:36:27Z",
+    "updated_at": "2026-08-04T06:10:45Z",
+    "pushed_at": "2026-08-01T21:41:13Z"
+  },
+  {
+    "id": 1315342480,
+    "name": "snowflow_demo",
+    "full_name": "Noniv/snowflow_demo",
+    "owner": {
+      "login": "Noniv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80125277?v=4"
+    },
+    "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+    "topics": [],
+    "html_url": "https://github.com/Noniv/snowflow_demo",
+    "stargazers_count": 484,
+    "language": "JavaScript",
+    "forks_count": 119,
+    "open_issues_count": 2,
+    "created_at": "2026-07-28T19:01:58Z",
+    "updated_at": "2026-08-04T06:24:38Z",
+    "pushed_at": "2026-07-28T19:02:02Z"
+  },
+  {
+    "id": 1318382587,
+    "name": "animated-voiceover",
+    "full_name": "s1dashu/animated-voiceover",
+    "owner": {
+      "login": "s1dashu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129982137?v=4"
+    },
+    "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+    "topics": [
+      "ai-video",
+      "animated-video",
+      "codex-skill",
+      "voiceover"
+    ],
+    "html_url": "https://github.com/s1dashu/animated-voiceover",
+    "stargazers_count": 478,
+    "language": null,
+    "forks_count": 61,
+    "open_issues_count": 0,
+    "created_at": "2026-07-31T13:32:12Z",
+    "updated_at": "2026-08-04T06:28:15Z",
+    "pushed_at": "2026-08-02T16:01:17Z"
+  }
+]
