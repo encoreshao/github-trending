@@ -17,7 +17,7 @@ const AMBER_COLOR = 'rgb(245 158 11 / 0.5)';
 const VIOLET_COLOR = 'rgb(139 92 246 / 0.5)';
 const TEAL_COLOR = 'rgb(20 184 166 / 0.5)';
 
-const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack, crossPeriod, bottomSection, showDaily }) => {
+const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack, crossPeriod, bottomSection, showDaily, showWeekly, showMonthly, topSlot }) => {
   const [repos, setRepos] = useState([]);
   const [loading, setLoading] = useState(true);
   const [lastUpdated, setLastUpdated] = useState(null);
@@ -91,6 +91,8 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack, 
   const crossColor = crossPeriod ? (crossPeriod.variant === 'weekly' ? AMBER_COLOR : VIOLET_COLOR) : null;
   const afterCrossColor = crossColor || ACCENT_COLOR;
   const afterDailyColor = showDaily ? ACCENT_COLOR : afterCrossColor;
+  const afterWeeklyColor = showWeekly ? AMBER_COLOR : afterDailyColor;
+  const afterMonthlyColor = showMonthly ? VIOLET_COLOR : afterWeeklyColor;
 
   const titleWords = title.split(' ');
   const titleHighlight = titleWords.slice(0, -1).join(' ');
@@ -119,8 +121,9 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack, 
   return (
     <div className="trending-period-page">
       <Header />
+      {topSlot}
       <main className="period-main">
-        <section className="period-hero">
+        <section className={`period-hero${topSlot ? ' period-hero-compact' : ''}`}>
           <div className="period-hero-main">
             <div className="period-badges">
               <div className="period-badge">
@@ -244,16 +247,44 @@ const TrendingPeriodPage = ({ title, windowDescription, csvSubdir, maxDaysBack, 
           </>
         )}
 
+        {showWeekly && (
+          <>
+            <SectionDivider from={afterDailyColor} to={AMBER_COLOR} spaced />
+            <PeriodOverviewSection
+              title="Weekly Highlights"
+              badgeLabel="This week"
+              subdir="weekly"
+              maxDaysBack={60}
+              path="/weekly"
+              variant="weekly"
+            />
+          </>
+        )}
+
+        {showMonthly && (
+          <>
+            <SectionDivider from={afterWeeklyColor} to={VIOLET_COLOR} spaced />
+            <PeriodOverviewSection
+              title="Monthly Highlights"
+              badgeLabel="This month"
+              subdir="monthly"
+              maxDaysBack={180}
+              path="/monthly"
+              variant="monthly"
+            />
+          </>
+        )}
+
         {bottomSection === 'promo' && (
           <>
-            <SectionDivider from={afterDailyColor} to={TEAL_COLOR} spaced />
+            <SectionDivider from={afterMonthlyColor} to={TEAL_COLOR} spaced />
             <RanbotPromoSection />
           </>
         )}
 
         {bottomSection === 'subscribe' && (
           <>
-            <SectionDivider from={afterDailyColor} to={ACCENT_COLOR} spaced />
+            <SectionDivider from={afterMonthlyColor} to={ACCENT_COLOR} spaced />
             <SubscribeCtaBanner />
           </>
         )}

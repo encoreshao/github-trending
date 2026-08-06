@@ -19,6 +19,12 @@
   background: radial-gradient(circle at 15% 0%, rgba(59, 130, 246, 0.18), transparent 55%);
 }
 
+/* When a topSlot (e.g. TopicSwitcher) already clears the fixed header above,
+   the hero doesn't need its own header-clearance padding. */
+.period-hero.period-hero-compact {
+  padding-top: 32px;
+}
+
 .period-hero-main {
   flex: 1 1 420px;
 }

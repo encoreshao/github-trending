@@ -42,6 +42,13 @@ const Header = () => {
             <span>Monthly</span>
           </a>
           <a
+            className={`nav-link ${location.pathname.startsWith('/topics') ? 'active' : ''}`}
+            onClick={() => navigate('/topics')}
+          >
+            <i className="fas fa-tags"></i>
+            <span>Topics</span>
+          </a>
+          <a
             className={`nav-link ${isActive('/demo') ? 'active' : ''}`}
             onClick={() => navigate('/demo')}
           >

@@ -1,5 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import { TOPICS } from '../data/topics';
 import './Footer.css';
 
 const Footer = () => {
@@ -8,6 +9,20 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
+        <div className="footer-section footer-section-topics">
+          <h4>Topics</h4>
+          <div className="footer-topic-links">
+            {TOPICS.map((topic) => (
+              <a
+                key={topic.id}
+                className="footer-topic-link"
+                onClick={() => navigate(`/topics/${topic.id}`)}
+              >
+                {topic.name}
+              </a>
+            ))}
+          </div>
+        </div>
         <div className="footer-section">
           <h3>GitHub Trending</h3>
           <p>Discovering and showcasing the best trending GitHub repositories and hidden gems in the developer community.</p>
@@ -20,7 +35,6 @@ const Footer = () => {
             <a className="footer-link" onClick={() => navigate('/monthly')}>Monthly</a>
             <a className="footer-link" onClick={() => navigate('/demo')}>Live Demo</a>
             <a className="footer-link" onClick={() => navigate('/subscribe')}>Subscribe</a>
-            <a className="footer-link" onClick={() => navigate('/topics')}>Topics</a>
           </div>
         </div>
         <div className="footer-section">
