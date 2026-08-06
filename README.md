@@ -12,6 +12,10 @@
 
 ---
 
+<p align="center">
+  <img src="assets/index-light.png" alt="GitHub Trending homepage screenshot" width="800">
+</p>
+
 ## Overview
 
 A modern web application for discovering trending GitHub repositories. Features real-time data fetching, multiple view modes, export capabilities, and a sleek dark theme interface.

@@ -12,6 +12,10 @@
 
 ---
 
+<p align="center">
+  <img src="assets/index-light.png" alt="GitHub Trending 主页截图" width="800">
+</p>
+
 ## 概述
 
 一个现代化的 Web 应用程序，用于发现 GitHub 热门仓库。支持实时数据获取、多视图模式、导出功能，以及精美的深色主题界面。
