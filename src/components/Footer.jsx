@@ -20,6 +20,7 @@ const Footer = () => {
             <a className="footer-link" onClick={() => navigate('/monthly')}>Monthly</a>
             <a className="footer-link" onClick={() => navigate('/demo')}>Live Demo</a>
             <a className="footer-link" onClick={() => navigate('/subscribe')}>Subscribe</a>
+            <a className="footer-link" onClick={() => navigate('/topics')}>Topics</a>
           </div>
         </div>
         <div className="footer-section">
