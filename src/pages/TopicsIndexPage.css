@@ -1,0 +1,84 @@
+/* src/pages/TopicsIndexPage.css */
+.topics-index-page {
+  background: rgb(var(--c-bg));
+  min-height: 100vh;
+  color: rgb(var(--c-text-body));
+  padding-bottom: 40px;
+}
+
+.topics-index-main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 120px 24px 60px;
+}
+
+.topics-index-header {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.topics-index-title {
+  font-size: 48px;
+  font-weight: 700;
+  margin: 0 0 16px 0;
+  color: rgb(var(--c-text-heading));
+  letter-spacing: -0.02em;
+}
+
+.topics-index-subtitle {
+  font-size: 18px;
+  color: rgb(var(--c-text-secondary));
+  margin: 0;
+}
+
+.topics-index-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.topic-index-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  text-align: left;
+  background: rgb(var(--c-surface-alt) / 0.5);
+  border: 1px solid rgb(var(--c-border) / 0.15);
+  border-radius: 16px;
+  padding: 24px;
+  font-family: inherit;
+  cursor: pointer;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.topic-index-card:hover {
+  transform: translateY(-4px);
+  border-color: rgb(var(--c-accent) / 0.4);
+}
+
+.topic-index-icon {
+  font-size: 28px;
+  line-height: 1;
+}
+
+.topic-index-name {
+  font-size: 17px;
+  font-weight: 700;
+  color: rgb(var(--c-text-heading));
+}
+
+.topic-index-description {
+  font-size: 14px;
+  color: rgb(var(--c-text-secondary));
+}
+
+@media (max-width: 640px) {
+  .topics-index-title {
+    font-size: 34px;
+  }
+
+  .topics-index-main {
+    padding: 60px 16px 40px;
+  }
+}
