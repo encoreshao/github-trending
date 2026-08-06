@@ -8,11 +8,12 @@ import RanbotPromoSection from '../components/RanbotPromoSection';
 import DailyOverviewSection from '../components/DailyOverviewSection';
 import SectionDivider from '../components/SectionDivider';
 import { submitSubscription } from '../api/subscribe';
+import { TOPICS } from '../data/topics';
 import './SubscriptionPage.css';
 
 const SubscriptionPage = () => {
   const navigate = useNavigate();
-  const [selectedCategories, setSelectedCategories] = useState([]);
+  const [selectedTopics, setSelectedTopics] = useState([]);
   const [userName, setUserName] = useState('');
   const [email, setEmail] = useState('');
   const [githubUsername, setGithubUsername] = useState('');
@@ -28,28 +29,6 @@ const SubscriptionPage = () => {
     : '';
   const markTouched = (field) => setTouched((t) => ({ ...t, [field]: true }));
 
-  const categories = [
-    { id: 'javascript', name: 'JavaScript', description: 'Web development and frameworks', icon: '⚡' },
-    { id: 'python', name: 'Python', description: 'Data science and automation', icon: '🐍' },
-    { id: 'react', name: 'React', description: 'Frontend frameworks and libraries', icon: '⚛️' },
-    { id: 'vue', name: 'Vue.js', description: 'Progressive JavaScript framework', icon: '💚' },
-    { id: 'nodejs', name: 'Node.js', description: 'Server-side JavaScript', icon: '🟢' },
-    { id: 'typescript', name: 'TypeScript', description: 'Typed JavaScript superset', icon: '🔷' },
-    { id: 'ai', name: 'AI & Machine Learning', description: 'Artificial intelligence and ML', icon: '🤖' },
-    { id: 'ai-agents', name: 'AI Agents', description: 'Autonomous AI agents and assistants', icon: '🤖' },
-    { id: 'llm', name: 'Large Language Models', description: 'LLMs, GPT, and language AI', icon: '🧠' },
-    { id: 'computer-vision', name: 'Computer Vision', description: 'Image and video processing', icon: '👁️' },
-    { id: 'nlp', name: 'Natural Language Processing', description: 'Text analysis and language AI', icon: '💬' },
-    { id: 'deep-learning', name: 'Deep Learning', description: 'Neural networks and deep learning', icon: '🧠' },
-    { id: 'generative-ai', name: 'Generative AI', description: 'Text, image, and video generation', icon: '🎨' },
-    { id: 'blockchain', name: 'Blockchain', description: 'Cryptocurrency and Web3', icon: '⛓️' },
-    { id: 'mobile', name: 'Mobile Development', description: 'iOS and Android apps', icon: '📱' },
-    { id: 'devops', name: 'DevOps', description: 'Infrastructure and deployment', icon: '🔧' },
-    { id: 'security', name: 'Security', description: 'Cybersecurity and privacy', icon: '🔒' },
-    { id: 'design', name: 'Design', description: 'UI/UX and graphics', icon: '🎨' },
-    { id: 'gitlab', name: 'GitLab', description: 'GitLab tooling, CI/CD, and self-hosted Git', icon: '🦊' }
-  ];
-
   const handleSubscribe = async () => {
     setSubmitting(true);
     try {
@@ -58,7 +37,7 @@ const SubscriptionPage = () => {
         email,
         githubUsername,
         companyName,
-        categories: selectedCategories
+        categories: selectedTopics
       });
       message.success("You're subscribed! Redirecting...");
       navigate('/demo');
@@ -83,36 +62,36 @@ const SubscriptionPage = () => {
           </p>
         </div>
 
-        {/* Category Selection */}
+        {/* Topic Selection */}
         <div className="category-section">
           <div className="section-heading-row">
-            <h2 className="section-title">Choose Your Interests</h2>
-            {selectedCategories.length > 0 && (
-              <span className="category-count">{selectedCategories.length} selected</span>
+            <h2 className="section-title">Choose Your Topics</h2>
+            {selectedTopics.length > 0 && (
+              <span className="category-count">{selectedTopics.length} selected</span>
             )}
           </div>
           <p className="section-subtitle">
-            Select the categories you're interested in to get personalized trending repositories
+            Select the topics you're interested in to get personalized trending repositories
           </p>
           <div className="category-chip-grid">
-            {categories.map((category) => {
-              const isSelected = selectedCategories.includes(category.id);
+            {TOPICS.map((topic) => {
+              const isSelected = selectedTopics.includes(topic.id);
               return (
                 <button
-                  key={category.id}
+                  key={topic.id}
                   type="button"
                   className={`category-chip btn-surface ${isSelected ? 'selected' : ''}`}
-                  title={category.description}
+                  title={topic.description}
                   onClick={() => {
                     if (isSelected) {
-                      setSelectedCategories(selectedCategories.filter(id => id !== category.id));
+                      setSelectedTopics(selectedTopics.filter(id => id !== topic.id));
                     } else {
-                      setSelectedCategories([...selectedCategories, category.id]);
+                      setSelectedTopics([...selectedTopics, topic.id]);
                     }
                   }}
                 >
-                  <span className="chip-icon">{category.icon}</span>
-                  <span className="chip-name">{category.name}</span>
+                  <span className="chip-icon">{topic.icon}</span>
+                  <span className="chip-name">{topic.name}</span>
                   {isSelected && <CheckOutlined className="chip-check" />}
                 </button>
               );
@@ -204,7 +183,7 @@ const SubscriptionPage = () => {
             className="subscribe-button"
             onClick={handleSubscribe}
             icon={<RocketOutlined />}
-            disabled={!userName.trim() || !isEmailValid || selectedCategories.length === 0}
+            disabled={!userName.trim() || !isEmailValid || selectedTopics.length === 0}
             loading={submitting}
           >
             Subscribe Now
