@@ -1,0 +1,23 @@
+export const TOPICS = [
+  { id: 'javascript', name: 'JavaScript', description: 'Web development and frameworks', icon: '⚡' },
+  { id: 'python', name: 'Python', description: 'Data science and automation', icon: '🐍' },
+  { id: 'react', name: 'React', description: 'Frontend frameworks and libraries', icon: '⚛️' },
+  { id: 'vue', name: 'Vue.js', description: 'Progressive JavaScript framework', icon: '💚' },
+  { id: 'nodejs', name: 'Node.js', description: 'Server-side JavaScript', icon: '🟢' },
+  { id: 'typescript', name: 'TypeScript', description: 'Typed JavaScript superset', icon: '🔷' },
+  { id: 'ai', name: 'AI & Machine Learning', description: 'Artificial intelligence and ML', icon: '🤖', topicSlug: 'artificial-intelligence' },
+  { id: 'ai-agents', name: 'AI Agents', description: 'Autonomous AI agents and assistants', icon: '🤖' },
+  { id: 'llm', name: 'Large Language Models', description: 'LLMs, GPT, and language AI', icon: '🧠' },
+  { id: 'computer-vision', name: 'Computer Vision', description: 'Image and video processing', icon: '👁️' },
+  { id: 'nlp', name: 'Natural Language Processing', description: 'Text analysis and language AI', icon: '💬' },
+  { id: 'deep-learning', name: 'Deep Learning', description: 'Neural networks and deep learning', icon: '🧠' },
+  { id: 'generative-ai', name: 'Generative AI', description: 'Text, image, and video generation', icon: '🎨' },
+  { id: 'blockchain', name: 'Blockchain', description: 'Cryptocurrency and Web3', icon: '⛓️' },
+  { id: 'mobile', name: 'Mobile Development', description: 'iOS and Android apps', icon: '📱' },
+  { id: 'devops', name: 'DevOps', description: 'Infrastructure and deployment', icon: '🔧' },
+  { id: 'security', name: 'Security', description: 'Cybersecurity and privacy', icon: '🔒' },
+  { id: 'design', name: 'Design', description: 'UI/UX and graphics', icon: '🎨' },
+  { id: 'gitlab', name: 'GitLab', description: 'GitLab tooling, CI/CD, and self-hosted Git', icon: '🦊' },
+];
+
+export const getTopicSlug = (topic) => topic.topicSlug || topic.id;
