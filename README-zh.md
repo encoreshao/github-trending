@@ -24,6 +24,7 @@
 | **双视图模式** | 表格视图用于数据分析，卡片视图用于可视化浏览 |
 | **智能筛选** | 按分类、关键词和 20+ 属性进行筛选 |
 | **周报 & 月报** | 按滚动周期刷新的精选 Top 20 页面，并展示周/月环比变化 |
+| **主题页面** | 19 个精选主题（AI、React、DevOps、安全等），每个主题都有每日刷新的独立趋势页面和快速主题切换器 |
 | **个性化订阅** | 选择感兴趣的主题，直接提交到 Google 表格 |
 | **导出选项** | 下载为 CSV、JSON 或复制到剪贴板 |
 | **深色主题** | 现代毛玻璃设计，流畅动画效果 |
@@ -73,7 +74,9 @@ npm run dev
 | `/demo` | 交互式仓库分析工具 |
 | `/weekly` | 最近 30 天内创建的 Top 20 仓库，每周一刷新 |
 | `/monthly` | 最近 90 天内创建的 Top 20 仓库，每月 1 日刷新 |
-| `/subscribe` | 基于分类的订阅设置，提交至 Google 表格 |
+| `/topics` | 全部 19 个主题的索引页，每个主题链接到其专属页面 |
+| `/topics/:slug` | 单个主题最近 7 天内创建的 Top 20 仓库，页面顶部带主题切换器，并附带每日/每周/每月概览 |
+| `/subscribe` | 基于主题的订阅设置，提交至 Google 表格 |
 | `*` | 未匹配或被显式屏蔽的路由的自定义 404 页面（见 `src/blockedRoutes.js`） |
 
 ---
@@ -92,18 +95,23 @@ npm run dev
 ```
 src/
 ├── api/                 # GitHub API + Google 表格集成
+├── data/
+│   └── topics.js        # 19 个主题的唯一数据源（id/name/description/icon）
 ├── components/          # 可复用 UI 组件
 │   ├── Header           # 导航栏
-│   ├── Footer           # 页脚
+│   ├── Footer           # 页脚（含完整主题链接列表）
 │   ├── RepoTable        # 表格视图组件
 │   ├── RepoCard         # 卡片视图组件
-│   ├── TrendingPeriodPage # 周报/月报页面共用外壳
+│   ├── TrendingPeriodPage # 周报/月报/主题页面共用外壳
+│   ├── TopicSwitcher    # 主题页面顶部的可滚动主题切换器
 │   └── Settings         # 配置面板
 ├── pages/               # 路由页面
 │   ├── HomePage
 │   ├── DemoPage
 │   ├── WeeklyPage
 │   ├── MonthlyPage
+│   ├── TopicsIndexPage  # /topics —— 全部 19 个主题的网格索引
+│   ├── TopicPage        # /topics/:slug —— 单个主题的趋势页面
 │   ├── SubscriptionPage
 │   └── NotFoundPage
 ├── blockedRoutes.js     # 需强制走 404 页面的路径
@@ -139,6 +147,8 @@ npm run trending:monthly
 | `daily` | `docs/YYYY/MM/` | `YYYY-MM-DD`（今天） |
 | `weekly` | `docs/weekly/YYYY/MM/` | `YYYY-MM-DD`（当前 ISO 周的周一） |
 | `monthly` | `docs/monthly/YYYY/` | `YYYY-MM`（当前月） |
+
+`daily` 任务还会为 `src/data/topics.js` 中的每个主题额外抓取一份快照（使用 GitHub 的 `topic:<slug>` 查询语法，最近 7 天内创建，按星标排序），保存至 `docs/topics/<slug>/YYYY/MM/YYYY-MM-DD.{json,csv}` —— 这正是 `/topics/:slug` 页面的数据来源。
 
 ### 使用 Cron 自动化
 

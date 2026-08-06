@@ -24,8 +24,9 @@ A modern web application for discovering trending GitHub repositories. Features 
 | **Dual View Modes** | Table view for data analysis, Card view for visual browsing |
 | **Smart Filtering** | Filter by categories, keywords, and 20+ attributes |
 | **Weekly & Monthly Snapshots** | Curated top-20 pages refreshed on a rolling schedule, with week-over-week/month-over-month comparisons |
+| **Topic Pages** | 19 curated topics (AI, React, DevOps, Security, ...), each with its own daily-refreshed trending page and a quick topic switcher |
 | **Personalized Subscriptions** | Pick topics of interest and submit them straight to a Google Sheet |
-| **Cross-Page Discovery** | Homepage, Weekly, Monthly, Subscribe, and Demo pages link to each other through themed teaser sections, joined by short gradient dividers |
+| **Cross-Page Discovery** | Homepage, Weekly, Monthly, Topics, Subscribe, and Demo pages link to each other through themed teaser sections, joined by short gradient dividers |
 | **RanBOT Family** | Cross-promo grid linking out to 8 sibling RanBOT products, from hosted apps to open-source scrapers |
 | **Export Options** | Download as CSV, JSON, or copy to clipboard |
 | **Dark Theme** | Modern glassmorphism design with smooth animations |
@@ -75,7 +76,9 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 | `/demo` | Interactive repository analysis tool, followed by Daily Trending, Weekly, and Monthly teasers |
 | `/weekly` | Top 20 repos created in the last 30 days, refreshed every Monday — cross-links to Monthly Highlights and Daily Trending |
 | `/monthly` | Top 20 repos created in the last 90 days, refreshed on the 1st of each month — cross-links to Weekly Highlights and a Subscribe CTA |
-| `/subscribe` | Category-based subscription setup, submits to Google Sheets, followed by the RanBOT family promo |
+| `/topics` | Index of all 19 topics, each linking to its own topic page |
+| `/topics/:slug` | Top 20 repos for one topic, created in the last 7 days — includes a topic switcher up top and Daily/Weekly/Monthly overview sections |
+| `/subscribe` | Topic-based subscription setup, submits to Google Sheets, followed by the RanBOT family promo |
 | `*` | Custom 404 page for unmatched or explicitly blocked routes (see `src/blockedRoutes.js`) |
 
 Each page mixes 3-5 sections rather than repeating the same ones everywhere — see [RanBOT Family](#ranbot-family) below for the full cross-promo list.
@@ -115,12 +118,15 @@ The list is defined in `src/components/RanbotPromoSection.jsx` — add an entry 
 ```
 src/
 ├── api/                 # GitHub API + Google Sheets integration
+├── data/
+│   └── topics.js        # Single source of truth for the 19 topics (id/name/description/icon)
 ├── components/          # Reusable UI components
 │   ├── Header           # Navigation bar
-│   ├── Footer           # Site footer
+│   ├── Footer           # Site footer, incl. the full topics link list
 │   ├── RepoTable        # Table view component
 │   ├── RepoCard         # Card view component
-│   ├── TrendingPeriodPage # Shared shell for Weekly/Monthly pages
+│   ├── TrendingPeriodPage # Shared shell for Weekly/Monthly/Topic pages
+│   ├── TopicSwitcher         # Scrollable topic-pill switcher shown on topic pages
 │   ├── PeriodOverviewSection # Weekly/Monthly teaser card (themed variant per period)
 │   ├── DailyOverviewSection  # Daily trending ticker, links back to the homepage
 │   ├── RanbotPromoSection    # "Part of the RanBOT family" cross-promo grid
@@ -132,6 +138,8 @@ src/
 │   ├── DemoPage
 │   ├── WeeklyPage
 │   ├── MonthlyPage
+│   ├── TopicsIndexPage  # /topics — grid of all 19 topics
+│   ├── TopicPage        # /topics/:slug — one topic's trending page
 │   ├── SubscriptionPage
 │   └── NotFoundPage
 ├── blockedRoutes.js     # Paths to force through the 404 page
@@ -167,6 +175,8 @@ Each period saves a JSON + CSV snapshot named by the period's start date:
 | `daily` | `docs/YYYY/MM/` | `YYYY-MM-DD` (today) |
 | `weekly` | `docs/weekly/YYYY/MM/` | `YYYY-MM-DD` (Monday of the current ISO week) |
 | `monthly` | `docs/monthly/YYYY/` | `YYYY-MM` (current month) |
+
+The `daily` run additionally fetches one snapshot per topic (searching GitHub's `topic:<slug>` qualifier, last 7 days, sorted by stars) for every entry in `src/data/topics.js`, saved to `docs/topics/<slug>/YYYY/MM/YYYY-MM-DD.{json,csv}` — this is what powers the `/topics/:slug` pages.
 
 ### Automate with Cron
 
