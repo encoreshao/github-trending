@@ -2,6 +2,7 @@ import axios from 'axios';
 import fs from 'fs-extra';
 import { Parser } from 'json2csv';
 import dotenv from 'dotenv';
+import { TOPICS, getTopicSlug } from './src/data/topics.js';
 
 dotenv.config();
 
@@ -82,6 +83,21 @@ const getWeekStart = (date) => {
 };
 
 /**
+ * Computes the filename base and output directory for "one file per day" outputs
+ * (the daily period, and each topic's daily snapshot), as of now.
+ *
+ * @param {string} subdir - The output subdirectory (e.g. '' for daily, 'topics/react' for a topic).
+ * @return {{ fileBase: string, dateDir: string }}
+ */
+const getDailyFileInfo = (subdir) => {
+    const now = new Date();
+    const fileBase = now.toISOString().split('T')[0];
+    const year = fileBase.split('-')[0];
+    const month = fileBase.split('-')[1];
+    return { fileBase, dateDir: `${dir(subdir)}/${year}/${month}` };
+};
+
+/**
  * Computes the filename base and output directory for a period, as of now.
  *
  * @param {string} period - One of 'daily', 'weekly', 'monthly'.
@@ -105,10 +121,7 @@ const getPeriodFileInfo = (period, subdir) => {
         return { fileBase, dateDir: `${dir(subdir)}/${year}/${month}` };
     }
 
-    const fileBase = now.toISOString().split('T')[0];
-    const year = fileBase.split('-')[0];
-    const month = fileBase.split('-')[1];
-    return { fileBase, dateDir: `${dir(subdir)}/${year}/${month}` };
+    return getDailyFileInfo(subdir);
 };
 
 /**
@@ -183,4 +196,57 @@ const saveReposToCsv = (repos, fileBase, dateDir) => {
     console.log(`Saved trending repos to ${filePath}`);
 };
 
-fetchTrendingRepos(parsePeriod());
+/**
+ * Pauses execution for the given number of milliseconds.
+ *
+ * @param {number} ms - How long to sleep.
+ * @return {Promise<void>}
+ */
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+/**
+ * Fetches trending repos for every topic in TOPICS and saves each to its own
+ * JSON/CSV under docs/topics/<slug>/<year>/<month>/<date>.*. Runs once per day,
+ * alongside (not instead of) the main daily fetch. Each topic is isolated in
+ * its own try/catch so one bad slug or transient API error doesn't abort the rest.
+ *
+ * @return {Promise<void>}
+ */
+const fetchTopicRepos = async () => {
+    for (const topic of TOPICS) {
+        const slug = getTopicSlug(topic);
+
+        try {
+            const response = await axios.get(`${GITHUB_API_URL}${GITHUB_SEARCH_URI}`, {
+                headers: {
+                    Authorization: `token ${GITHUB_TOKEN}`,
+                },
+                params: {
+                    q: `topic:${slug} created:>=${getCutoffDate(7)}`,
+                    sort: 'stars',
+                    order: 'desc',
+                    per_page: 20,
+                },
+            });
+
+            const repos = response.data.items;
+            const { fileBase, dateDir } = getDailyFileInfo(`topics/${slug}`);
+
+            fs.ensureDirSync(dateDir);
+
+            saveReposToJson(repos, fileBase, dateDir);
+            saveReposToCsv(repos, fileBase, dateDir);
+        } catch (error) {
+            console.error(`Error fetching trending repos for topic "${slug}":`, error.message);
+        }
+
+        await sleep(400);
+    }
+};
+
+const period = parsePeriod();
+fetchTrendingRepos(period).then(async () => {
+    if (period === 'daily') {
+        await fetchTopicRepos();
+    }
+});

@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1317036455,
+    "name": "Overseer",
+    "full_name": "Audi-dask/Overseer",
+    "owner": {
+      "login": "Audi-dask",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49541315?v=4"
+    },
+    "description": "面向企业内部研发团队的 Agent 代码审查平台，自动分析 GitLab MR 与 Push，并回填总评和行内 Discussion。",
+    "topics": [
+      "ai-code-review",
+      "code-review",
+      "devops",
+      "discussion",
+      "gitlab",
+      "golang",
+      "llm",
+      "self-hosted",
+      "static-analysis"
+    ],
+    "html_url": "https://github.com/Audi-dask/Overseer",
+    "stargazers_count": 9,
+    "language": "Go",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-07-30T08:36:22Z",
+    "updated_at": "2026-08-03T02:38:08Z",
+    "pushed_at": "2026-07-31T08:18:02Z"
+  },
+  {
+    "id": 1320373528,
+    "name": "mr-notify",
+    "full_name": "rodolfoviolac/mr-notify",
+    "owner": {
+      "login": "rodolfoviolac",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19847842?v=4"
+    },
+    "description": "Every open pull request and merge request from GitHub and GitLab, in one triage inbox, in your tray. Local-only: no account, no backend, no telemetry.",
+    "topics": [
+      "code-review",
+      "cross-platform",
+      "developer-tools",
+      "electron",
+      "github",
+      "gitlab",
+      "menubar",
+      "merge-requests",
+      "pull-requests",
+      "react",
+      "tray",
+      "typescript"
+    ],
+    "html_url": "https://github.com/rodolfoviolac/mr-notify",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T16:23:29Z",
+    "updated_at": "2026-08-03T11:49:28Z",
+    "pushed_at": "2026-08-02T16:38:29Z"
+  },
+  {
+    "id": 1317318242,
+    "name": "ai-code-review",
+    "full_name": "miguchn/ai-code-review",
+    "owner": {
+      "login": "miguchn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266890977?v=4"
+    },
+    "description": "Enterprise AI code review governance platform with unified GitHub/GitLab/Gitee/Gitea integration and a full closed loop from webhook review to summary writeback, IM notification and issue handling. 企业级 AI 代码审查治理平台：四平台统一接入，审查、回写、通知、问题处置全闭环。",
+    "topics": [
+      "ai-code-review",
+      "alibaba",
+      "code-quality",
+      "code-review",
+      "devops",
+      "element-plus",
+      "gitea",
+      "gitee",
+      "github",
+      "gitlab",
+      "java",
+      "llm",
+      "mybatis",
+      "open-code-review",
+      "spring-boot",
+      "static-analysis",
+      "vue3"
+    ],
+    "html_url": "https://github.com/miguchn/ai-code-review",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-30T13:47:32Z",
+    "updated_at": "2026-08-06T09:41:22Z",
+    "pushed_at": "2026-08-06T09:40:29Z"
+  },
+  {
+    "id": 1322746236,
+    "name": "storymap-gitlab",
+    "full_name": "Zet-Cher/storymap-gitlab",
+    "owner": {
+      "login": "Zet-Cher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45843031?v=4"
+    },
+    "description": "A user story map that lives entirely inside GitLab — issues, labels and milestones are the only source of truth.",
+    "topics": [
+      "agile",
+      "gitlab",
+      "product-management",
+      "react",
+      "story-map",
+      "typescript",
+      "user-story-mapping",
+      "vite"
+    ],
+    "html_url": "https://github.com/Zet-Cher/storymap-gitlab",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T09:10:56Z",
+    "updated_at": "2026-08-04T09:43:14Z",
+    "pushed_at": "2026-08-04T09:24:20Z"
+  },
+  {
+    "id": 1321680177,
+    "name": "scrumabanana",
+    "full_name": "NSDmitry/scrumabanana",
+    "owner": {
+      "login": "NSDmitry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13855741?v=4"
+    },
+    "description": "Sprint analytics skills for Claude Code on top of Jira/GitLab MCP: sprint review, daily digest, retro, dev profiles. Read-only.",
+    "topics": [
+      "agile",
+      "gitlab",
+      "jira",
+      "mcp",
+      "scrum",
+      "sprint-analytics"
+    ],
+    "html_url": "https://github.com/NSDmitry/scrumabanana",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T11:27:02Z",
+    "updated_at": "2026-08-04T14:21:39Z",
+    "pushed_at": "2026-08-04T14:19:48Z"
+  },
+  {
+    "id": 1318317144,
+    "name": "CICD-Goat-Vapt-Writeup",
+    "full_name": "dheeraj-jayaswal/CICD-Goat-Vapt-Writeup",
+    "owner": {
+      "login": "dheeraj-jayaswal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279798738?v=4"
+    },
+    "description": "Full VAPT writeup of OWASP CICD-Goat — 9 CTFd flags captured, 4 critical + 5 high findings (incl. CVE-2024-23897) mapped to the OWASP Top 10 CI/CD Security Risks, with PoCs, remediation, and interview-ready summaries.",
+    "topics": [
+      "appsec",
+      "cicd",
+      "cicd-goat",
+      "cicd-security",
+      "ctf-writeups",
+      "cve-2024-23897",
+      "devsecop",
+      "gitea",
+      "gitlab",
+      "jenkins",
+      "owasp",
+      "penetration-testing",
+      "red-team",
+      "security-research",
+      "vapt"
+    ],
+    "html_url": "https://github.com/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-31T12:16:24Z",
+    "updated_at": "2026-08-05T17:16:58Z",
+    "pushed_at": "2026-08-05T17:15:42Z"
+  },
+  {
+    "id": 1320231886,
+    "name": "env",
+    "full_name": "omount/env",
+    "owner": {
+      "login": "omount",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102145683?v=4"
+    },
+    "description": "EasyEnv 让天下没有难配置的环境 一键部署常用环境 无侵入性 即用即取",
+    "topics": [
+      "aws-s3",
+      "bun",
+      "consul",
+      "docker",
+      "elk",
+      "gitlab",
+      "grafana",
+      "minio",
+      "mysql",
+      "nacos",
+      "nodejs",
+      "openwebui",
+      "pgsql",
+      "postgresql",
+      "redis"
+    ],
+    "html_url": "https://github.com/omount/env",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T13:51:43Z",
+    "updated_at": "2026-08-06T02:13:46Z",
+    "pushed_at": "2026-08-06T02:13:00Z"
+  },
+  {
+    "id": 1324549057,
+    "name": "opf-tools",
+    "full_name": "cairnsec/opf-tools",
+    "owner": {
+      "login": "cairnsec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313617712?v=4"
+    },
+    "description": "Converters between the Open Pentest Format (OPF) and SARIF, DefectDojo, GitLab, Markdown, HTML and CSV",
+    "topics": [
+      "cli",
+      "code-scanning",
+      "converter",
+      "defectdojo",
+      "gitlab",
+      "opf",
+      "penetration-testing",
+      "pentest",
+      "sarif",
+      "security",
+      "vulnerability"
+    ],
+    "html_url": "https://github.com/cairnsec/opf-tools",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T23:08:24Z",
+    "updated_at": "2026-08-06T01:14:25Z",
+    "pushed_at": "2026-08-06T01:14:23Z"
+  },
+  {
+    "id": 1317409039,
+    "name": "jenkins-three-tier-lab",
+    "full_name": "PrabalPiya/jenkins-three-tier-lab",
+    "owner": {
+      "login": "PrabalPiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102851427?v=4"
+    },
+    "description": "A simple three-tier application deployed using Jenkins and Docker Compose.",
+    "topics": [
+      "docker",
+      "docker-compose",
+      "gitlab",
+      "jenkins",
+      "nginx"
+    ],
+    "html_url": "https://github.com/PrabalPiya/jenkins-three-tier-lab",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-30T15:20:09Z",
+    "updated_at": "2026-08-02T03:28:32Z",
+    "pushed_at": "2026-08-02T03:28:25Z"
+  },
+  {
+    "id": 1322953376,
+    "name": "ci-status-snapshot",
+    "full_name": "Wisdoverse/ci-status-snapshot",
+    "owner": {
+      "login": "Wisdoverse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169057036?v=4"
+    },
+    "description": "Token-efficient GitHub/GitLab CI + PR/MR status snapshots, silent state watcher, and auto-merge delegation for AI coding agents",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ci",
+      "claude-code",
+      "codex",
+      "github-cli",
+      "gitlab",
+      "glab"
+    ],
+    "html_url": "https://github.com/Wisdoverse/ci-status-snapshot",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T12:57:47Z",
+    "updated_at": "2026-08-04T17:24:55Z",
+    "pushed_at": "2026-08-04T17:24:44Z"
+  },
+  {
+    "id": 1320731543,
+    "name": "dochub-architect-tool",
+    "full_name": "john7ross/dochub-architect-tool",
+    "owner": {
+      "login": "john7ross",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50072237?v=4"
+    },
+    "description": "MCP-сервер, переносящий C4-диаграммы из DrawIO и PlantUML в репозиторий архитектуры DocHub — с возможностью просмотра в режиме разделенного экрана и последующим созданием merge request'а.",
+    "topics": [
+      "architecture-as-code",
+      "c4-model",
+      "diagrams-as-code",
+      "dochub",
+      "drawio",
+      "gitlab",
+      "jsonata",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "plantuml",
+      "python",
+      "software-architecture"
+    ],
+    "html_url": "https://github.com/john7ross/dochub-architect-tool",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T21:08:18Z",
+    "updated_at": "2026-08-03T18:06:19Z",
+    "pushed_at": "2026-08-03T18:05:26Z"
+  },
+  {
+    "id": 1321701251,
+    "name": "sift",
+    "full_name": "imfemambocus/sift",
+    "owner": {
+      "login": "imfemambocus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34164901?v=4"
+    },
+    "description": "A quiet notification hub. Surfaces only the GitLab activity that actually needs you, ranked and properly searchable.",
+    "topics": [
+      "developer-tools",
+      "gitlab",
+      "gitlab-api",
+      "java",
+      "notifications",
+      "postgresql",
+      "react",
+      "self-hosted",
+      "spring-boot",
+      "tailwindcss",
+      "typescript",
+      "vite"
+    ],
+    "html_url": "https://github.com/imfemambocus/sift",
+    "stargazers_count": 0,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T11:51:06Z",
+    "updated_at": "2026-08-06T09:59:58Z",
+    "pushed_at": "2026-08-06T09:58:34Z"
+  },
+  {
+    "id": 1323605805,
+    "name": "git-closeout",
+    "full_name": "daxiong888/git-closeout",
+    "owner": {
+      "login": "daxiong888",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20814367?v=4"
+    },
+    "description": "Safe Git closeout for coding agents: sync, scope, validate, commit, and push—without sweeping unrelated work into the commit. | 面向编码 Agent 的安全 Git 收尾流程：同步、识别范围、验证、提交和推送，同时避免混入无关改动。",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "codex",
+      "developer-tools",
+      "git",
+      "github",
+      "gitlab",
+      "shell"
+    ],
+    "html_url": "https://github.com/daxiong888/git-closeout",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-05T03:56:42Z",
+    "updated_at": "2026-08-05T04:06:07Z",
+    "pushed_at": "2026-08-05T09:42:40Z"
+  },
+  {
+    "id": 1318769221,
+    "name": "ansible-role-gitlab",
+    "full_name": "srkn0/ansible-role-gitlab",
+    "owner": {
+      "login": "srkn0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128194533?v=4"
+    },
+    "description": "Ansible role for managing a self-hosted GitLab instance.",
+    "topics": [
+      "ansible",
+      "ansible-role",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/srkn0/ansible-role-gitlab",
+    "stargazers_count": 0,
+    "language": "Jinja",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-31T21:39:27Z",
+    "updated_at": "2026-08-04T10:39:20Z",
+    "pushed_at": "2026-08-04T10:37:33Z"
+  },
+  {
+    "id": 1318283368,
+    "name": "prepare-gitlab-feature",
+    "full_name": "iljailjic/prepare-gitlab-feature",
+    "owner": {
+      "login": "iljailjic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7829401?v=4"
+    },
+    "description": "Turn feature requests into complete, implementation-ready GitLab issues and tasks",
+    "topics": [
+      "agent-skills",
+      "codex",
+      "gitlab",
+      "gitlab-mcp",
+      "skills-sh"
+    ],
+    "html_url": "https://github.com/iljailjic/prepare-gitlab-feature",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-31T11:37:12Z",
+    "updated_at": "2026-07-31T11:48:53Z",
+    "pushed_at": "2026-07-31T11:48:08Z"
+  },
+  {
+    "id": 1320501378,
+    "name": "terraform-ansible-gitlab-integration",
+    "full_name": "nsanjula/terraform-ansible-gitlab-integration",
+    "owner": {
+      "login": "nsanjula",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155603261?v=4"
+    },
+    "description": "AWS infrastructure automation project using Terraform, Ansible, and GitLab CI/CD.",
+    "topics": [
+      "ansible",
+      "gitlab",
+      "terraform"
+    ],
+    "html_url": "https://github.com/nsanjula/terraform-ansible-gitlab-integration",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T18:57:57Z",
+    "updated_at": "2026-08-03T02:12:14Z",
+    "pushed_at": "2026-08-03T02:12:10Z"
+  },
+  {
+    "id": 1317675207,
+    "name": "helm-charts",
+    "full_name": "vespersio/helm-charts",
+    "owner": {
+      "login": "vespersio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5022435?v=4"
+    },
+    "description": null,
+    "topics": [
+      "external-dns",
+      "gitlab",
+      "grafana",
+      "harbor",
+      "hashicorp",
+      "helm",
+      "helm-charts",
+      "kubernetes",
+      "mirror",
+      "oci",
+      "sentry",
+      "unleash",
+      "vault"
+    ],
+    "html_url": "https://github.com/vespersio/helm-charts",
+    "stargazers_count": 0,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-30T20:53:53Z",
+    "updated_at": "2026-08-06T06:08:11Z",
+    "pushed_at": "2026-08-06T06:06:51Z"
+  },
+  {
+    "id": 1317339249,
+    "name": "backup",
+    "full_name": "SpaceShaman/backup",
+    "owner": {
+      "login": "SpaceShaman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1573423?v=4"
+    },
+    "description": "Mirrors GitHub repositories to GitLab with Gickup and GitLab CI.",
+    "topics": [
+      "backup",
+      "gickup",
+      "github",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/SpaceShaman/backup",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-30T14:09:10Z",
+    "updated_at": "2026-07-31T06:23:30Z",
+    "pushed_at": "2026-07-30T14:23:38Z"
+  },
+  {
+    "id": 1319176007,
+    "name": "cds-agent",
+    "full_name": "Impre-visible/cds-agent",
+    "owner": {
+      "login": "Impre-visible",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69050895?v=4"
+    },
+    "description": "Daemon GitLab qui delegue la revue de merge request et l'ecriture de tests a un agent LLM execute en sandbox Docker",
+    "topics": [
+      "ai-agent",
+      "code-review",
+      "docker",
+      "gitlab",
+      "llm",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Impre-visible/cds-agent",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T10:02:15Z",
+    "updated_at": "2026-08-01T18:52:53Z",
+    "pushed_at": "2026-08-05T04:55:34Z"
+  },
+  {
+    "id": 1323381342,
+    "name": "ci-cd-pipeline.gitlab",
+    "full_name": "qFioofa/ci-cd-pipeline.gitlab",
+    "owner": {
+      "login": "qFioofa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145976586?v=4"
+    },
+    "description": "CI-CD pipline реализованный в GitLab для проверки качества кода.",
+    "topics": [
+      "automation",
+      "bash",
+      "bash-script",
+      "ci-cd",
+      "devops",
+      "github",
+      "gitlab",
+      "gitlab-ci",
+      "gitlab-ci-pipeline",
+      "gitlab-ci-runner",
+      "notification",
+      "python3",
+      "shell",
+      "shell-scripting",
+      "telegram",
+      "test",
+      "test-automation",
+      "testing",
+      "workflow",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/qFioofa/ci-cd-pipeline.gitlab",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T21:08:10Z",
+    "updated_at": "2026-08-05T11:55:55Z",
+    "pushed_at": "2026-08-05T11:56:36Z"
+  }
+]

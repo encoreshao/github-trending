@@ -1,0 +1,620 @@
+[
+  {
+    "id": 1322400160,
+    "name": "coldcard-poc",
+    "full_name": "domaup/coldcard-poc",
+    "owner": {
+      "login": "domaup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290573644?v=4"
+    },
+    "description": "Coldcard Mk3 RNG vulnerability PoC — BIP39 seed reconstruction tool for the Block security disclosure (July 2026)",
+    "topics": [
+      "bip32",
+      "bip39",
+      "bitcoin",
+      "coinkite",
+      "coldcard",
+      "coldcard-mk2",
+      "coldcard-mk3",
+      "coldcard-mk4",
+      "cryptography",
+      "embedded",
+      "firmware",
+      "hardware-wallet",
+      "proof-of-concept",
+      "python",
+      "research",
+      "rng",
+      "security",
+      "seed-recovery",
+      "stm32",
+      "vulnerability"
+    ],
+    "html_url": "https://github.com/domaup/coldcard-poc",
+    "stargazers_count": 145,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-08-04T02:03:17Z",
+    "updated_at": "2026-08-06T13:01:21Z",
+    "pushed_at": "2026-08-06T12:34:48Z"
+  },
+  {
+    "id": 1319600255,
+    "name": "wraith",
+    "full_name": "Arcanum-Sec/wraith",
+    "owner": {
+      "login": "Arcanum-Sec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171357548?v=4"
+    },
+    "description": "WRAITH — a modern browser-hooking framework (BeEF + blind-XSS successor) for red teams, researchers, and educators. For authorized security testing, research & education only.",
+    "topics": [
+      "beef",
+      "blind-xss",
+      "browser-exploitation",
+      "man-in-the-browser",
+      "offensive-security",
+      "penetration-testing",
+      "phishing",
+      "red-team",
+      "security",
+      "security-education",
+      "security-tools",
+      "xss"
+    ],
+    "html_url": "https://github.com/Arcanum-Sec/wraith",
+    "stargazers_count": 85,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T20:18:50Z",
+    "updated_at": "2026-08-06T13:17:22Z",
+    "pushed_at": "2026-08-01T20:36:48Z"
+  },
+  {
+    "id": 1321905386,
+    "name": "nfc_canary",
+    "full_name": "antitree/nfc_canary",
+    "owner": {
+      "login": "antitree",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1119175?v=4"
+    },
+    "description": "Flipper Zero app: a canary for your pocket — detects when someone scans you over NFC and alerts you by vibration",
+    "topics": [
+      "embedded",
+      "fap",
+      "flipper-zero",
+      "flipperzero",
+      "nfc",
+      "privacy",
+      "rfid",
+      "security"
+    ],
+    "html_url": "https://github.com/antitree/nfc_canary",
+    "stargazers_count": 62,
+    "language": "C",
+    "forks_count": 6,
+    "open_issues_count": 1,
+    "created_at": "2026-08-03T14:54:26Z",
+    "updated_at": "2026-08-05T21:52:59Z",
+    "pushed_at": "2026-08-03T18:42:51Z"
+  },
+  {
+    "id": 1323957541,
+    "name": "SentryLLM",
+    "full_name": "Sentry-LLM/SentryLLM",
+    "owner": {
+      "login": "Sentry-LLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313371590?v=4"
+    },
+    "description": "AI Security Monitor — Real-time threat detection, prompt injection defense, and behavioral analysis for LLM-powered systems",
+    "topics": [
+      "ai-security",
+      "jailbreak-detection",
+      "llm",
+      "llm-security",
+      "monitoring",
+      "openai",
+      "owasp",
+      "prompt-injection",
+      "security",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Sentry-LLM/SentryLLM",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T11:13:46Z",
+    "updated_at": "2026-08-05T12:13:15Z",
+    "pushed_at": "2026-08-05T11:51:04Z"
+  },
+  {
+    "id": 1323490949,
+    "name": "internetcondom",
+    "full_name": "orlyjamie/internetcondom",
+    "owner": {
+      "login": "orlyjamie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6668807?v=4"
+    },
+    "description": "Protection against npm supply-chain attacks. One command: Socket Firewall on every package manager, minimum release age, ignore-scripts.",
+    "topics": [
+      "ai-agents",
+      "devsecops",
+      "npm",
+      "pnpm",
+      "security",
+      "supply-chain-security"
+    ],
+    "html_url": "https://github.com/orlyjamie/internetcondom",
+    "stargazers_count": 11,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T00:40:38Z",
+    "updated_at": "2026-08-06T03:01:16Z",
+    "pushed_at": "2026-08-05T07:38:52Z"
+  },
+  {
+    "id": 1321841047,
+    "name": "securitycards",
+    "full_name": "Reware-Labs/securitycards",
+    "owner": {
+      "login": "Reware-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281433014?v=4"
+    },
+    "description": "Security guidance based on library and version for developers and agents.",
+    "topics": [
+      "ai-skills",
+      "application-security",
+      "coding-agent-skills",
+      "open-source",
+      "secure-coding",
+      "security",
+      "security-guidance",
+      "security-tools"
+    ],
+    "html_url": "https://github.com/Reware-Labs/securitycards",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T13:53:59Z",
+    "updated_at": "2026-08-06T08:28:17Z",
+    "pushed_at": "2026-08-05T09:33:09Z"
+  },
+  {
+    "id": 1321097781,
+    "name": "kernel-security-check-bsod-fix",
+    "full_name": "LinkEmuBewitch/kernel-security-check-bsod-fix",
+    "owner": {
+      "login": "LinkEmuBewitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307273849?v=4"
+    },
+    "description": "Kernel Security Check BSOD Fix — Kernel Security Check BSOD Fix Windows setup — Windows fix landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.",
+    "topics": [
+      "check",
+      "kernel",
+      "kernel-security-check-bsod-fix",
+      "repair-tool",
+      "security",
+      "windows",
+      "windows-fix"
+    ],
+    "html_url": "https://github.com/LinkEmuBewitch/kernel-security-check-bsod-fix",
+    "stargazers_count": 7,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T02:14:12Z",
+    "updated_at": "2026-08-03T20:17:54Z",
+    "pushed_at": "2026-08-03T20:17:37Z"
+  },
+  {
+    "id": 1318683469,
+    "name": "coldcard-mk3-rng-disclosure",
+    "full_name": "3z/coldcard-mk3-rng-disclosure",
+    "owner": {
+      "login": "3z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75167613?v=4"
+    },
+    "description": "Binary-verified reverse engineering of the COLDCARD Mk3 weak-RNG vulnerability (4.0.1-4.1.9): root cause at the linker boundary, bounded PoC, and seed-to-xpub pipeline",
+    "topics": [
+      "bitcoin",
+      "coldcard",
+      "hardware-wallet",
+      "reverse-engineering",
+      "rng",
+      "security",
+      "vulnerability"
+    ],
+    "html_url": "https://github.com/3z/coldcard-mk3-rng-disclosure",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-31T19:21:59Z",
+    "updated_at": "2026-08-05T14:06:42Z",
+    "pushed_at": "2026-07-31T19:29:57Z"
+  },
+  {
+    "id": 1316887358,
+    "name": "rust-crypto",
+    "full_name": "jeresoftx/rust-crypto",
+    "owner": {
+      "login": "jeresoftx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139817810?v=4"
+    },
+    "description": "Curso de Jeresoft Academy sobre criptografía en Rust: primitivas, protocolos, límites y uso responsable.",
+    "topics": [
+      "cryptography",
+      "jeresoft-academy",
+      "rust",
+      "security",
+      "systems-programming"
+    ],
+    "html_url": "https://github.com/jeresoftx/rust-crypto",
+    "stargazers_count": 6,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-30T05:54:08Z",
+    "updated_at": "2026-07-31T23:15:51Z",
+    "pushed_at": "2026-07-30T06:13:48Z"
+  },
+  {
+    "id": 1318434920,
+    "name": "lattice",
+    "full_name": "moulwyse/lattice",
+    "owner": {
+      "login": "moulwyse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296574594?v=4"
+    },
+    "description": "Bounded, auditable repository context and verified patch execution for coding agents.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "auditable-ai",
+      "codex",
+      "coding-agents",
+      "context-engineering",
+      "context-management",
+      "developer-tools",
+      "git",
+      "llm-tools",
+      "mcp",
+      "open-source",
+      "patch-verification",
+      "repository-context",
+      "sandbox",
+      "security",
+      "typescript"
+    ],
+    "html_url": "https://github.com/moulwyse/lattice",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 5,
+    "created_at": "2026-07-31T14:29:24Z",
+    "updated_at": "2026-08-04T05:12:50Z",
+    "pushed_at": "2026-08-04T05:12:24Z"
+  },
+  {
+    "id": 1322906687,
+    "name": "CkSKILLS",
+    "full_name": "zhaji2333/CkSKILLS",
+    "owner": {
+      "login": "zhaji2333",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70321071?v=4"
+    },
+    "description": "基于 Claude Code / Codex 的 SRC 漏洞挖掘 Agent 技能体系 —— 系统级提示词 + 13 个专项安全测试 Skill 知识库",
+    "topics": [
+      "agent",
+      "claude-code",
+      "pentesting",
+      "recon",
+      "security",
+      "skills",
+      "src",
+      "vulnerability"
+    ],
+    "html_url": "https://github.com/zhaji2333/CkSKILLS",
+    "stargazers_count": 6,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T12:08:59Z",
+    "updated_at": "2026-08-05T09:14:20Z",
+    "pushed_at": "2026-08-04T12:14:10Z"
+  },
+  {
+    "id": 1318845961,
+    "name": "LANtern-Control",
+    "full_name": "humane125/LANtern-Control",
+    "owner": {
+      "login": "humane125",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165959471?v=4"
+    },
+    "description": "Open-source SelfishNet alternative for Windows. Monitor devices, limit bandwidth, pause internet access, and block domains without router access.",
+    "topics": [
+      "arp-spoofing",
+      "bandwidth-limiter",
+      "evillimiter-alternative",
+      "lan-control",
+      "local-network",
+      "netcut-alternative",
+      "network-management",
+      "network-monitor",
+      "networking",
+      "npcap",
+      "pentesting",
+      "security",
+      "security-tools",
+      "selfishnet",
+      "selfishnet-alternative",
+      "traffic-shaping",
+      "wifi-control",
+      "windows"
+    ],
+    "html_url": "https://github.com/humane125/LANtern-Control",
+    "stargazers_count": 6,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T00:23:38Z",
+    "updated_at": "2026-08-04T10:47:02Z",
+    "pushed_at": "2026-08-06T12:26:56Z"
+  },
+  {
+    "id": 1323878328,
+    "name": "happ-android-full-decompiled",
+    "full_name": "ded648238/happ-android-full-decompiled",
+    "owner": {
+      "login": "ded648238",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127438943?v=4"
+    },
+    "description": "Full decompiled source of Happ Android proxy client (v4.0.1) — 2,252 Java + 11,583 Smali files, 100% complete. Includes DNSTT protocol, anti-filter, Xray config, JNI bridge.",
+    "topics": [
+      "android",
+      "android-security",
+      "decompiled",
+      "educational",
+      "mobile",
+      "open-source",
+      "proxy",
+      "research",
+      "reverse-engineering",
+      "security",
+      "vpn",
+      "xray"
+    ],
+    "html_url": "https://github.com/ded648238/happ-android-full-decompiled",
+    "stargazers_count": 6,
+    "language": "Smali",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T09:39:54Z",
+    "updated_at": "2026-08-06T03:02:47Z",
+    "pushed_at": "2026-08-05T22:25:23Z"
+  },
+  {
+    "id": 1318027001,
+    "name": "n8n-ai-agent-security-lab",
+    "full_name": "0xCD4/n8n-ai-agent-security-lab",
+    "owner": {
+      "login": "0xCD4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116346668?v=4"
+    },
+    "description": "CSINT Research side project for static and staging-safe security regression checks of n8n AI workflows.",
+    "topics": [
+      "ai-agents",
+      "ci-cd",
+      "csint-research",
+      "dynamic-analysis",
+      "n8n",
+      "owasp",
+      "security",
+      "security-testing",
+      "static-analysis",
+      "workflow-security"
+    ],
+    "html_url": "https://github.com/0xCD4/n8n-ai-agent-security-lab",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-07-31T06:42:28Z",
+    "updated_at": "2026-08-05T17:27:20Z",
+    "pushed_at": "2026-08-05T17:26:40Z"
+  },
+  {
+    "id": 1321917631,
+    "name": "spotlight",
+    "full_name": "CMUL8/spotlight",
+    "owner": {
+      "login": "CMUL8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312573327?v=4"
+    },
+    "description": "Autonomous AI security engineer — multi-agent swarm that scans, exploits, fixes, verifies, and attests. Open source (Apache 2.0).",
+    "topics": [
+      "ai",
+      "devsecops",
+      "llm-security",
+      "multi-agent",
+      "open-source",
+      "sast",
+      "security",
+      "static-analysis",
+      "vulnerability-scanner"
+    ],
+    "html_url": "https://github.com/CMUL8/spotlight",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T15:06:25Z",
+    "updated_at": "2026-08-04T05:38:24Z",
+    "pushed_at": "2026-08-03T18:02:38Z"
+  },
+  {
+    "id": 1317179263,
+    "name": "Enkripta",
+    "full_name": "filonux/Enkripta",
+    "owner": {
+      "login": "filonux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309076231?v=4"
+    },
+    "description": "Enkripta cifra carpetas y archivos en Linux Mint (Cinnamon/Nemo) con AES-256, y lo hace sentir parte del propio sistema: doble clic en el escritorio, botón derecho en Nemo, icono propio para los archivos cifrados. Todo se instala con un único script, sin dependencias raras y sin tocar nada fuera de tu carpeta personal",
+    "topics": [
+      "aes-256",
+      "bash",
+      "cifrado",
+      "cinnamon",
+      "criptografia",
+      "desktop-integration",
+      "encryption",
+      "file-encryption",
+      "gnupg",
+      "gpg",
+      "linux",
+      "linux-mint",
+      "linux-mint-22",
+      "nemo",
+      "opensource",
+      "privacy-tools",
+      "security",
+      "shell-script",
+      "ubuntu",
+      "vault"
+    ],
+    "html_url": "https://github.com/filonux/Enkripta",
+    "stargazers_count": 4,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-30T11:12:27Z",
+    "updated_at": "2026-08-03T23:44:13Z",
+    "pushed_at": "2026-08-02T20:03:06Z"
+  },
+  {
+    "id": 1319644040,
+    "name": "dontrust",
+    "full_name": "HodleHub/dontrust",
+    "owner": {
+      "login": "HodleHub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184030595?v=4"
+    },
+    "description": "Don't trust. Verify. — a source auditor for cryptocurrency wallets. Rule pack + agent skills, built from real incidents.",
+    "topics": [
+      "audit",
+      "bitcoin",
+      "cryptography",
+      "entropy",
+      "hardware-wallet",
+      "security",
+      "self-custody",
+      "static-analysis",
+      "wallet"
+    ],
+    "html_url": "https://github.com/HodleHub/dontrust",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T21:48:29Z",
+    "updated_at": "2026-08-02T14:54:57Z",
+    "pushed_at": "2026-08-01T21:48:32Z"
+  },
+  {
+    "id": 1319843405,
+    "name": "catcard",
+    "full_name": "TibaneLabs/catcard",
+    "owner": {
+      "login": "TibaneLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1772457?v=4"
+    },
+    "description": "Clean-room open-source Rust firmware for Coldcard hardware wallets. MIT licensed, no-std, Cortex-M4F.",
+    "topics": [
+      "bitcoin",
+      "bitcoin-wallet",
+      "clean-room",
+      "coldcard",
+      "cortex-m",
+      "embedded",
+      "firmware",
+      "hardware-wallet",
+      "no-std",
+      "rust",
+      "security",
+      "stm32"
+    ],
+    "html_url": "https://github.com/TibaneLabs/catcard",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T05:20:59Z",
+    "updated_at": "2026-08-03T02:29:25Z",
+    "pushed_at": "2026-08-03T02:29:19Z"
+  },
+  {
+    "id": 1323287160,
+    "name": "Bastion-FlipperZero",
+    "full_name": "at0m-b0mb/Bastion-FlipperZero",
+    "owner": {
+      "login": "at0m-b0mb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99875896?v=4"
+    },
+    "description": "125 kHz badge grader for Flipper Zero. Hold an EM4100, HID Prox, Indala, AWID, ioProx, Gallagher or Nexwatch badge to the back and get a plain-English security grade with a full report. Read-only.",
+    "topics": [
+      "125khz",
+      "access-control",
+      "em4100",
+      "embedded-c",
+      "fap",
+      "flipper-zero",
+      "flipperzero",
+      "hid-prox",
+      "lfrfid",
+      "pentesting",
+      "physical-security",
+      "red-team",
+      "rfid",
+      "security"
+    ],
+    "html_url": "https://github.com/at0m-b0mb/Bastion-FlipperZero",
+    "stargazers_count": 3,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T19:00:14Z",
+    "updated_at": "2026-08-05T09:16:20Z",
+    "pushed_at": "2026-08-04T19:06:15Z"
+  },
+  {
+    "id": 1319128226,
+    "name": "tripwire",
+    "full_name": "neomatrix369/tripwire",
+    "owner": {
+      "login": "neomatrix369",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1570917?v=4"
+    },
+    "description": "Sandboxed security scanning for AI skills and MCP servers — precise findings, heatmap posture, fail-closed agent guard. Multi-scanner security platform for AI skills and MCP servers, scan what the agents install!",
+    "topics": [
+      "ai-agents",
+      "mcp",
+      "modal",
+      "sandbox",
+      "security",
+      "snyk"
+    ],
+    "html_url": "https://github.com/neomatrix369/tripwire",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T08:52:05Z",
+    "updated_at": "2026-08-05T13:23:37Z",
+    "pushed_at": "2026-08-05T13:21:32Z"
+  }
+]
