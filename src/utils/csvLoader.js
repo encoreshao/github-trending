@@ -46,14 +46,15 @@ const getCandidateFileBases = (subdir, startDate, maxDaysBack) => {
     return candidates;
   }
 
-  // daily (subdir === '')
+  // daily (subdir === '' for the main site, or 'topics/<slug>' for a topic page)
   for (let i = 0; i < maxDaysBack; i++) {
     const d = new Date(startDate);
     d.setDate(d.getDate() - i);
     const fileBase = d.toISOString().split('T')[0];
     const year = fileBase.split('-')[0];
     const month = fileBase.split('-')[1];
-    candidates.push({ fileBase, urlPath: `${year}/${month}/${fileBase}.csv` });
+    const prefix = subdir ? `${subdir}/` : '';
+    candidates.push({ fileBase, urlPath: `${prefix}${year}/${month}/${fileBase}.csv` });
   }
   return candidates;
 };
