@@ -229,6 +229,7 @@ body {
 .grid {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 14px;
   max-width: 100%;
   margin: 0 auto;
