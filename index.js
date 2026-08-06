@@ -230,6 +230,12 @@ const fetchTopicRepos = async () => {
             });
 
             const repos = response.data.items;
+
+            if (!repos || repos.length === 0) {
+                console.error(`No repos found for topic "${slug}" — check the slug is still a valid GitHub topic.`);
+                continue;
+            }
+
             const { fileBase, dateDir } = getDailyFileInfo(`topics/${slug}`);
 
             fs.ensureDirSync(dateDir);
@@ -240,6 +246,8 @@ const fetchTopicRepos = async () => {
             console.error(`Error fetching trending repos for topic "${slug}":`, error.message);
         }
 
+        // Safety margin here comes from TOPICS.length staying small, not from this delay enforcing
+        // the rate limit directly — revisit if TOPICS grows much past ~20 entries.
         await sleep(400);
     }
 };
