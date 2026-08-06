@@ -17,12 +17,12 @@
       "typescript"
     ],
     "html_url": "https://github.com/guillermolg00/morphicons",
-    "stargazers_count": 782,
+    "stargazers_count": 788,
     "language": "TypeScript",
     "forks_count": 14,
     "open_issues_count": 3,
     "created_at": "2026-08-01T08:15:09Z",
-    "updated_at": "2026-08-06T13:07:29Z",
+    "updated_at": "2026-08-06T14:16:56Z",
     "pushed_at": "2026-08-04T19:21:58Z"
   },
   {
@@ -57,12 +57,12 @@
       "wikilinks"
     ],
     "html_url": "https://github.com/shuaiplus/inkstone",
-    "stargazers_count": 233,
+    "stargazers_count": 236,
     "language": "TypeScript",
     "forks_count": 138,
     "open_issues_count": 6,
     "created_at": "2026-07-30T13:27:48Z",
-    "updated_at": "2026-08-06T12:47:51Z",
+    "updated_at": "2026-08-06T13:44:49Z",
     "pushed_at": "2026-08-06T12:33:45Z"
   },
   {
@@ -223,12 +223,12 @@
       "vue"
     ],
     "html_url": "https://github.com/eticmedya/vibecodingex",
-    "stargazers_count": 42,
+    "stargazers_count": 44,
     "language": "Vue",
-    "forks_count": 11,
+    "forks_count": 12,
     "open_issues_count": 2,
     "created_at": "2026-08-05T16:04:32Z",
-    "updated_at": "2026-08-06T13:03:23Z",
+    "updated_at": "2026-08-06T14:19:08Z",
     "pushed_at": "2026-08-05T16:07:43Z"
   },
   {
@@ -413,12 +413,12 @@
       "typescript"
     ],
     "html_url": "https://github.com/abluva/mcp-remote",
-    "stargazers_count": 27,
+    "stargazers_count": 29,
     "language": "TypeScript",
     "forks_count": 5,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "created_at": "2026-07-30T12:47:59Z",
-    "updated_at": "2026-08-06T13:17:37Z",
+    "updated_at": "2026-08-06T13:56:03Z",
     "pushed_at": "2026-08-06T12:02:15Z"
   },
   {
@@ -521,6 +521,38 @@
     "pushed_at": "2026-08-03T12:42:39Z"
   },
   {
+    "id": 1316944679,
+    "name": "AIEV",
+    "full_name": "notivn/AIEV",
+    "owner": {
+      "login": "notivn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312647700?v=4"
+    },
+    "description": "Automatic AI video editing. Claude directs HyperFrames (HTML + GSAP motion graphics) and Remotion (timeline assembly) to turn raw footage into a finished MP4 - transcript, kinetic typography, karaoke subtitles, sound effects. Self-hosted, supervised from a web dashboard on port 6868.",
+    "topics": [
+      "ai-video",
+      "anthropic",
+      "claude",
+      "ffmpeg",
+      "motion-graphics",
+      "nextjs",
+      "remotion",
+      "self-hosted",
+      "text-to-speech",
+      "typescript",
+      "video-editing",
+      "vietnamese"
+    ],
+    "html_url": "https://github.com/notivn/AIEV",
+    "stargazers_count": 19,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-07-30T06:59:04Z",
+    "updated_at": "2026-08-06T14:29:35Z",
+    "pushed_at": "2026-08-06T13:05:41Z"
+  },
+  {
     "id": 1319988048,
     "name": "movie-app-expo",
     "full_name": "astralvoidd/movie-app-expo",
@@ -548,6 +580,35 @@
     "created_at": "2026-08-02T09:14:00Z",
     "updated_at": "2026-08-05T15:04:07Z",
     "pushed_at": "2026-08-02T09:58:25Z"
+  },
+  {
+    "id": 1318242396,
+    "name": "yotsuba-gantt",
+    "full_name": "isla4ever/yotsuba-gantt",
+    "owner": {
+      "login": "isla4ever",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144573387?v=4"
+    },
+    "description": "跨框架甘特图组件：TypeScript Core、Vue 3、多图联动、六档时间视图与自动聚焦",
+    "topics": [
+      "flutter",
+      "gantt",
+      "open-source",
+      "project-management",
+      "react",
+      "timeline",
+      "typescript",
+      "virtualization",
+      "vue"
+    ],
+    "html_url": "https://github.com/isla4ever/yotsuba-gantt",
+    "stargazers_count": 18,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-07-31T10:46:23Z",
+    "updated_at": "2026-08-06T14:27:32Z",
+    "pushed_at": "2026-08-03T11:50:32Z"
   },
   {
     "id": 1318760998,
@@ -588,70 +649,5 @@
     "created_at": "2026-07-31T21:24:02Z",
     "updated_at": "2026-08-06T08:28:21Z",
     "pushed_at": "2026-08-06T08:27:47Z"
-  },
-  {
-    "id": 1316774022,
-    "name": "opendraft",
-    "full_name": "jorgeflmendes/opendraft",
-    "owner": {
-      "login": "jorgeflmendes",
-      "avatar_url": "https://avatars.githubusercontent.com/u/124299088?v=4"
-    },
-    "description": "Local-first LaTeX workspace for writing, compiling, and reviewing scientific documents in the browser.",
-    "topics": [
-      "academic-writing",
-      "codemirror",
-      "indexeddb",
-      "latex",
-      "latex-editor",
-      "local-first",
-      "pdfjs",
-      "privacy",
-      "react",
-      "research-tools",
-      "scientific-writing",
-      "technical-writing",
-      "tex",
-      "typescript",
-      "wasm",
-      "webassembly"
-    ],
-    "html_url": "https://github.com/jorgeflmendes/opendraft",
-    "stargazers_count": 17,
-    "language": "TypeScript",
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-07-30T03:15:15Z",
-    "updated_at": "2026-08-06T02:28:39Z",
-    "pushed_at": "2026-08-06T02:28:32Z"
-  },
-  {
-    "id": 1318242396,
-    "name": "yotsuba-gantt",
-    "full_name": "isla4ever/yotsuba-gantt",
-    "owner": {
-      "login": "isla4ever",
-      "avatar_url": "https://avatars.githubusercontent.com/u/144573387?v=4"
-    },
-    "description": "跨框架甘特图组件：TypeScript Core、Vue 3、多图联动、六档时间视图与自动聚焦",
-    "topics": [
-      "flutter",
-      "gantt",
-      "open-source",
-      "project-management",
-      "react",
-      "timeline",
-      "typescript",
-      "virtualization",
-      "vue"
-    ],
-    "html_url": "https://github.com/isla4ever/yotsuba-gantt",
-    "stargazers_count": 17,
-    "language": "Vue",
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-07-31T10:46:23Z",
-    "updated_at": "2026-08-06T13:16:55Z",
-    "pushed_at": "2026-08-03T11:50:32Z"
   }
 ]

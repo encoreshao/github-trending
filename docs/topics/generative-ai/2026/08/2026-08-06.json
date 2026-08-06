@@ -18,12 +18,12 @@
       "image-to-video"
     ],
     "html_url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
-    "stargazers_count": 178,
+    "stargazers_count": 179,
     "language": "Shell",
     "forks_count": 27,
     "open_issues_count": 0,
     "created_at": "2026-08-03T01:04:46Z",
-    "updated_at": "2026-08-06T11:30:37Z",
+    "updated_at": "2026-08-06T13:52:26Z",
     "pushed_at": "2026-08-03T01:07:34Z"
   },
   {
@@ -213,12 +213,12 @@
       "text-to-image"
     ],
     "html_url": "https://github.com/astropuzzo/ComfyUI-MiniMax-H3-Image-Studio",
-    "stargazers_count": 14,
+    "stargazers_count": 16,
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 1,
     "created_at": "2026-08-03T14:28:46Z",
-    "updated_at": "2026-08-06T08:09:42Z",
+    "updated_at": "2026-08-06T13:46:34Z",
     "pushed_at": "2026-08-05T06:21:37Z"
   },
   {
@@ -399,6 +399,34 @@
     "created_at": "2026-08-03T11:17:44Z",
     "updated_at": "2026-08-04T09:32:48Z",
     "pushed_at": "2026-08-03T11:25:27Z"
+  },
+  {
+    "id": 1321397116,
+    "name": "AI-Knowledge-Management-Platform",
+    "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
+    "owner": {
+      "login": "TOPDEV99999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296813120?v=4"
+    },
+    "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "generative-ai",
+      "large-language-models",
+      "llm",
+      "llm-agents"
+    ],
+    "html_url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T07:36:22Z",
+    "updated_at": "2026-08-06T14:30:07Z",
+    "pushed_at": "2026-08-03T07:42:30Z"
   },
   {
     "id": 1321645680,
@@ -646,33 +674,5 @@
     "created_at": "2026-07-31T15:36:22Z",
     "updated_at": "2026-08-03T08:43:11Z",
     "pushed_at": "2026-08-01T10:53:24Z"
-  },
-  {
-    "id": 1323419458,
-    "name": "mlx-h3",
-    "full_name": "appautomaton/mlx-h3",
-    "owner": {
-      "login": "appautomaton",
-      "avatar_url": "https://avatars.githubusercontent.com/u/229419921?v=4"
-    },
-    "description": "Pure MLX MiniMax-H3 text-to-video-and-audio inference for Apple Silicon.",
-    "topics": [
-      "apple-silicon",
-      "audio-generation",
-      "generative-ai",
-      "macos",
-      "minimax-h3",
-      "mlx",
-      "text-to-video",
-      "video-generation"
-    ],
-    "html_url": "https://github.com/appautomaton/mlx-h3",
-    "stargazers_count": 2,
-    "language": "Python",
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-04T22:15:04Z",
-    "updated_at": "2026-08-06T08:53:59Z",
-    "pushed_at": "2026-08-06T01:02:22Z"
   }
 ]

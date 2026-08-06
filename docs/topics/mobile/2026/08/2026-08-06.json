@@ -260,6 +260,31 @@
     "pushed_at": "2026-08-03T02:12:58Z"
   },
   {
+    "id": 1322680280,
+    "name": "cloudinary",
+    "full_name": "phpnitro/cloudinary",
+    "owner": {
+      "login": "phpnitro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/305936306?v=4"
+    },
+    "description": "PhpNitro's Cloudinary package — image upload/transform/delete via REST, no SDK dependency (Engine\\Cloudinary\\*).",
+    "topics": [
+      "android",
+      "composer-package",
+      "mobile",
+      "php",
+      "phpnitro"
+    ],
+    "html_url": "https://github.com/phpnitro/cloudinary",
+    "stargazers_count": 1,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T08:02:41Z",
+    "updated_at": "2026-08-06T13:39:24Z",
+    "pushed_at": "2026-08-06T13:37:47Z"
+  },
+  {
     "id": 1317538109,
     "name": "codex-mobile-mail-bridge",
     "full_name": "Candela-jiang/codex-mobile-mail-bridge",
@@ -311,6 +336,54 @@
     "created_at": "2026-07-30T03:54:33Z",
     "updated_at": "2026-07-31T14:50:33Z",
     "pushed_at": "2026-07-30T04:07:21Z"
+  },
+  {
+    "id": 1322680324,
+    "name": "socialauth",
+    "full_name": "phpnitro/socialauth",
+    "owner": {
+      "login": "phpnitro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/305936306?v=4"
+    },
+    "description": "PhpNitro's social auth package — OAuth2 sign-in for GitHub/Facebook/Microsoft/Apple (Engine\\SocialAuth\\*).",
+    "topics": [
+      "android",
+      "composer-package",
+      "mobile",
+      "php",
+      "phpnitro"
+    ],
+    "html_url": "https://github.com/phpnitro/socialauth",
+    "stargazers_count": 1,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T08:02:44Z",
+    "updated_at": "2026-08-06T13:40:33Z",
+    "pushed_at": "2026-08-06T13:37:26Z"
+  },
+  {
+    "id": 1318930277,
+    "name": "pam-native-realtime",
+    "full_name": "push-in/pam-native-realtime",
+    "owner": {
+      "login": "push-in",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51447269?v=4"
+    },
+    "description": "Persistent native WebSocket connections with bounded event queues for PAM Native.",
+    "topics": [
+      "mobile",
+      "pam-native",
+      "php"
+    ],
+    "html_url": "https://github.com/push-in/pam-native-realtime",
+    "stargazers_count": 1,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T03:28:57Z",
+    "updated_at": "2026-08-06T14:06:12Z",
+    "pushed_at": "2026-08-06T13:45:16Z"
   },
   {
     "id": 1320324962,
@@ -512,87 +585,5 @@
     "created_at": "2026-08-01T13:00:28Z",
     "updated_at": "2026-08-04T01:33:37Z",
     "pushed_at": "2026-08-04T01:33:26Z"
-  },
-  {
-    "id": 1319036053,
-    "name": "pura-mente",
-    "full_name": "api-evangelist/pura-mente",
-    "owner": {
-      "login": "api-evangelist",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3026872?v=4"
-    },
-    "description": "Pura Mente is the most-downloaded meditation and sleep app in the Spanish-speaking world, offering guided meditations, sleep stories, breathing exercises, and mindfulness programs designed to reduce stress, improve focus, and help people rest deeply.",
-    "topics": [
-      "apis-json",
-      "company",
-      "consumer-app",
-      "meditation",
-      "mental-health",
-      "mindfulness",
-      "mobile",
-      "sleep",
-      "wellness"
-    ],
-    "html_url": "https://github.com/api-evangelist/pura-mente",
-    "stargazers_count": 0,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-01T06:36:15Z",
-    "updated_at": "2026-08-04T01:28:22Z",
-    "pushed_at": "2026-08-04T01:28:18Z"
-  },
-  {
-    "id": 1319172000,
-    "name": "rex",
-    "full_name": "api-evangelist/rex",
-    "owner": {
-      "login": "api-evangelist",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3026872?v=4"
-    },
-    "description": "Rex is a company surfaced as a portfolio company of accel and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.",
-    "topics": [
-      "apis-json",
-      "company",
-      "consumer",
-      "consumer-app",
-      "mobile",
-      "startup"
-    ],
-    "html_url": "https://github.com/api-evangelist/rex",
-    "stargazers_count": 0,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-01T09:56:00Z",
-    "updated_at": "2026-08-04T01:31:17Z",
-    "pushed_at": "2026-08-04T01:31:05Z"
-  },
-  {
-    "id": 1319928451,
-    "name": "umbala",
-    "full_name": "api-evangelist/umbala",
-    "owner": {
-      "login": "api-evangelist",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3026872?v=4"
-    },
-    "description": "Umbala (Umbala Labs, formerly Umbala Technologies / UmbalaTv) is a Vietnamese consumer video and camera technology startup backed by 500 Global. It built the UmbalaTv short-video and livestream mobile app and later the Umbala Network blockchain platform, including StreamX decentralized live video streaming and the CameraX camera AI/AR engine.",
-    "topics": [
-      "apis-json",
-      "blockchain",
-      "camera",
-      "company",
-      "mobile",
-      "streaming",
-      "video"
-    ],
-    "html_url": "https://github.com/api-evangelist/umbala",
-    "stargazers_count": 0,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-02T07:41:48Z",
-    "updated_at": "2026-08-04T01:43:42Z",
-    "pushed_at": "2026-08-04T01:43:35Z"
   }
 ]

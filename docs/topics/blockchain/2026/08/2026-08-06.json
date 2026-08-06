@@ -188,7 +188,7 @@
     "open_issues_count": 28,
     "created_at": "2026-08-01T01:23:50Z",
     "updated_at": "2026-08-05T21:20:31Z",
-    "pushed_at": "2026-08-06T12:49:31Z"
+    "pushed_at": "2026-08-06T13:27:10Z"
   },
   {
     "id": 1320144994,
@@ -391,6 +391,60 @@
     "pushed_at": "2026-07-31T20:07:53Z"
   },
   {
+    "id": 1325279303,
+    "name": "HYCCollectionofBlockchainSmartContracts",
+    "full_name": "hongyingit/HYCCollectionofBlockchainSmartContracts",
+    "owner": {
+      "login": "hongyingit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45164951?v=4"
+    },
+    "description": "区块链智能合约模板合集，涵盖 EVM (Solidity) 及非EVM链 (Solana/Sui/TON/Tron) 的代币、NFT、质押挖矿、多签钱包、空投等开箱即用的合约模板与部署指南。",
+    "topics": [
+      "blockchain",
+      "smart-contracts",
+      "solana",
+      "solidity",
+      "sui",
+      "ton"
+    ],
+    "html_url": "https://github.com/hongyingit/HYCCollectionofBlockchainSmartContracts",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T13:30:01Z",
+    "updated_at": "2026-08-06T13:44:00Z",
+    "pushed_at": "2026-08-06T13:42:17Z"
+  },
+  {
+    "id": 1324463036,
+    "name": "stake-SPD",
+    "full_name": "arshamhaq/stake-SPD",
+    "owner": {
+      "login": "arshamhaq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85936129?v=4"
+    },
+    "description": "A  fully operational staking protocol designed for the ERC20 token, specifically for the SPD token : https://github.com/arshamhaq/ERC20-SPD",
+    "topics": [
+      "blockchain",
+      "erc20",
+      "foundry",
+      "sepolia",
+      "smart-contracts",
+      "solidity",
+      "stake",
+      "staking-crypto"
+    ],
+    "html_url": "https://github.com/arshamhaq/stake-SPD",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-05T20:36:48Z",
+    "updated_at": "2026-08-06T12:46:15Z",
+    "pushed_at": "2026-08-06T12:35:57Z"
+  },
+  {
     "id": 1320534448,
     "name": "NEV369",
     "full_name": "Paulio88/NEV369",
@@ -447,34 +501,6 @@
     "created_at": "2026-07-30T16:35:22Z",
     "updated_at": "2026-08-04T20:17:59Z",
     "pushed_at": "2026-08-04T20:14:51Z"
-  },
-  {
-    "id": 1324463036,
-    "name": "stake-SPD",
-    "full_name": "arshamhaq/stake-SPD",
-    "owner": {
-      "login": "arshamhaq",
-      "avatar_url": "https://avatars.githubusercontent.com/u/85936129?v=4"
-    },
-    "description": "A  fully operational staking protocol designed for the ERC20 token, specifically for the SPD token : https://github.com/arshamhaq/ERC20-SPD",
-    "topics": [
-      "blockchain",
-      "erc20",
-      "foundry",
-      "sepolia",
-      "smart-contracts",
-      "solidity",
-      "stake",
-      "staking-crypto"
-    ],
-    "html_url": "https://github.com/arshamhaq/stake-SPD",
-    "stargazers_count": 1,
-    "language": "Solidity",
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-05T20:36:48Z",
-    "updated_at": "2026-08-06T12:46:15Z",
-    "pushed_at": "2026-08-06T12:35:57Z"
   },
   {
     "id": 1319619186,
@@ -586,45 +612,5 @@
     "created_at": "2026-07-30T10:41:40Z",
     "updated_at": "2026-07-30T13:26:34Z",
     "pushed_at": "2026-07-30T10:59:07Z"
-  },
-  {
-    "id": 1321944950,
-    "name": "Adaptive-Risk-Bridge",
-    "full_name": "ShaheerHabib12/Adaptive-Risk-Bridge",
-    "owner": {
-      "login": "ShaheerHabib12",
-      "avatar_url": "https://avatars.githubusercontent.com/u/220114295?v=4"
-    },
-    "description": "Adaptive Risk-Aware Trust-Minimized Cross-Chain Bridge using Dynamic Validator Selection and Zero-Knowledge Verification on Ethereum Sepolia.",
-    "topics": [
-      "academic",
-      "academic-research",
-      "blockchain",
-      "bridge",
-      "cross-chain",
-      "cross-chain-bridge",
-      "cryptography",
-      "cryptography-algorithms",
-      "distributed-systems",
-      "ethereum",
-      "ethereum-blockchain",
-      "ethereum-contract",
-      "ethereum-sepolia",
-      "hardhat",
-      "research",
-      "security",
-      "smart-contracts",
-      "solidity",
-      "zero-knowledge",
-      "zk-proof"
-    ],
-    "html_url": "https://github.com/ShaheerHabib12/Adaptive-Risk-Bridge",
-    "stargazers_count": 0,
-    "language": "JavaScript",
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-03T15:33:37Z",
-    "updated_at": "2026-08-03T19:30:22Z",
-    "pushed_at": "2026-08-03T19:08:37Z"
   }
 ]

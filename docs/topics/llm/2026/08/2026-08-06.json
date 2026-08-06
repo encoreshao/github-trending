@@ -31,12 +31,12 @@
       "zero-dependencies"
     ],
     "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stargazers_count": 2729,
+    "stargazers_count": 2748,
     "language": "C",
-    "forks_count": 456,
-    "open_issues_count": 1,
+    "forks_count": 457,
+    "open_issues_count": 2,
     "created_at": "2026-08-01T09:29:38Z",
-    "updated_at": "2026-08-06T13:20:00Z",
+    "updated_at": "2026-08-06T14:24:03Z",
     "pushed_at": "2026-08-06T11:59:54Z"
   },
   {
@@ -125,12 +125,12 @@
       "vision-language-model"
     ],
     "html_url": "https://github.com/Anionex/agent-vision-toolkit",
-    "stargazers_count": 321,
+    "stargazers_count": 323,
     "language": "Python",
     "forks_count": 14,
     "open_issues_count": 2,
     "created_at": "2026-08-01T10:00:13Z",
-    "updated_at": "2026-08-06T13:05:12Z",
+    "updated_at": "2026-08-06T13:41:29Z",
     "pushed_at": "2026-08-06T13:00:50Z"
   },
   {
@@ -160,8 +160,8 @@
     "forks_count": 27,
     "open_issues_count": 2,
     "created_at": "2026-08-02T07:40:51Z",
-    "updated_at": "2026-08-06T11:23:48Z",
-    "pushed_at": "2026-08-06T11:25:03Z"
+    "updated_at": "2026-08-06T13:48:12Z",
+    "pushed_at": "2026-08-06T13:46:19Z"
   },
   {
     "id": 1319290417,
@@ -248,8 +248,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "created_at": "2026-07-31T15:43:16Z",
-    "updated_at": "2026-08-06T12:49:53Z",
-    "pushed_at": "2026-08-06T12:49:24Z"
+    "updated_at": "2026-08-06T13:49:52Z",
+    "pushed_at": "2026-08-06T13:46:23Z"
   },
   {
     "id": 1317086026,
@@ -273,12 +273,12 @@
       "web-research"
     ],
     "html_url": "https://github.com/h4444433333/net-deep-research",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0,
     "created_at": "2026-07-30T09:26:20Z",
-    "updated_at": "2026-08-06T06:49:53Z",
+    "updated_at": "2026-08-06T13:52:43Z",
     "pushed_at": "2026-08-05T01:46:03Z"
   },
   {
@@ -548,6 +548,43 @@
     "pushed_at": "2026-08-05T11:51:04Z"
   },
   {
+    "id": 1317262284,
+    "name": "mcp-remote",
+    "full_name": "abluva/mcp-remote",
+    "owner": {
+      "login": "abluva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121275274?v=4"
+    },
+    "description": "The bridge for remote MCP — seamless OAuth, resilient auth recovery, production-grade reliability",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai-tools",
+      "bridge",
+      "developer-tools",
+      "http",
+      "llm",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "model-context-protocol",
+      "oauth",
+      "oauth2",
+      "proxy",
+      "remote-mcp",
+      "sse",
+      "typescript"
+    ],
+    "html_url": "https://github.com/abluva/mcp-remote",
+    "stargazers_count": 29,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 17,
+    "created_at": "2026-07-30T12:47:59Z",
+    "updated_at": "2026-08-06T13:56:03Z",
+    "pushed_at": "2026-08-06T12:02:15Z"
+  },
+  {
     "id": 1318164526,
     "name": "Cairn",
     "full_name": "xcosmosbox/Cairn",
@@ -578,70 +615,33 @@
     "pushed_at": "2026-08-05T07:35:18Z"
   },
   {
-    "id": 1317262284,
-    "name": "mcp-remote",
-    "full_name": "abluva/mcp-remote",
+    "id": 1325322542,
+    "name": "agent-skills-collection",
+    "full_name": "oliverb-io1902e8/agent-skills-collection",
     "owner": {
-      "login": "abluva",
-      "avatar_url": "https://avatars.githubusercontent.com/u/121275274?v=4"
+      "login": "oliverb-io1902e8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278994798?v=4"
     },
-    "description": "The bridge for remote MCP — seamless OAuth, resilient auth recovery, production-grade reliability",
+    "description": "Curated collection of modular agent skills for LLM-based agents",
     "topics": [
-      "agent",
-      "agentic-ai",
-      "ai-tools",
-      "bridge",
+      "agent-skills",
+      "agentic-workflow",
+      "ai-agents",
+      "automation",
+      "chatgpt",
+      "claude",
       "developer-tools",
-      "http",
       "llm",
-      "mcp",
-      "mcp-client",
-      "mcp-server",
-      "model-context-protocol",
-      "oauth",
-      "oauth2",
-      "proxy",
-      "remote-mcp",
-      "sse",
-      "typescript"
+      "open-source",
+      "python"
     ],
-    "html_url": "https://github.com/abluva/mcp-remote",
-    "stargazers_count": 27,
-    "language": "TypeScript",
-    "forks_count": 5,
-    "open_issues_count": 16,
-    "created_at": "2026-07-30T12:47:59Z",
-    "updated_at": "2026-08-06T13:17:37Z",
-    "pushed_at": "2026-08-06T12:02:15Z"
-  },
-  {
-    "id": 1318092877,
-    "name": "Forma",
-    "full_name": "Unieggy/Forma",
-    "owner": {
-      "login": "Unieggy",
-      "avatar_url": "https://avatars.githubusercontent.com/u/188819469?v=4"
-    },
-    "description": "Local-first reading workspace for technical papers — select an equation, figure, or passage and get grounded, step-by-step walkthroughs (with tensor-shape tracing for ML).",
-    "topics": [
-      "katex",
-      "llm",
-      "local-first",
-      "machine-learning",
-      "nextjs",
-      "paper-reader",
-      "pdf",
-      "react",
-      "robotics",
-      "typescript"
-    ],
-    "html_url": "https://github.com/Unieggy/Forma",
-    "stargazers_count": 25,
-    "language": "TypeScript",
+    "html_url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+    "stargazers_count": 28,
+    "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0,
-    "created_at": "2026-07-31T07:52:22Z",
-    "updated_at": "2026-08-06T11:35:58Z",
-    "pushed_at": "2026-08-04T14:21:13Z"
+    "created_at": "2026-08-06T14:07:02Z",
+    "updated_at": "2026-08-06T14:30:15Z",
+    "pushed_at": "2026-08-06T14:13:00Z"
   }
 ]

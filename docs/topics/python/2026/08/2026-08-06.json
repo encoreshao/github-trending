@@ -66,8 +66,8 @@
     "forks_count": 27,
     "open_issues_count": 2,
     "created_at": "2026-08-02T07:40:51Z",
-    "updated_at": "2026-08-06T11:23:48Z",
-    "pushed_at": "2026-08-06T11:25:03Z"
+    "updated_at": "2026-08-06T13:48:12Z",
+    "pushed_at": "2026-08-06T13:46:19Z"
   },
   {
     "id": 1322400160,
@@ -101,12 +101,12 @@
       "vulnerability"
     ],
     "html_url": "https://github.com/domaup/coldcard-poc",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 1,
     "created_at": "2026-08-04T02:03:17Z",
-    "updated_at": "2026-08-06T13:01:21Z",
+    "updated_at": "2026-08-06T14:11:59Z",
     "pushed_at": "2026-08-06T12:34:48Z"
   },
   {
@@ -126,12 +126,12 @@
       "python"
     ],
     "html_url": "https://github.com/waiterve/wai-play",
-    "stargazers_count": 98,
+    "stargazers_count": 100,
     "language": "Python",
-    "forks_count": 3,
+    "forks_count": 4,
     "open_issues_count": 0,
     "created_at": "2026-08-04T07:20:22Z",
-    "updated_at": "2026-08-06T13:08:23Z",
+    "updated_at": "2026-08-06T13:52:17Z",
     "pushed_at": "2026-08-04T09:03:05Z"
   },
   {
@@ -184,13 +184,13 @@
       "python"
     ],
     "html_url": "https://github.com/xbsheng/atguigu-note",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "language": "Jupyter Notebook",
     "forks_count": 39,
     "open_issues_count": 0,
     "created_at": "2026-07-31T22:44:26Z",
-    "updated_at": "2026-08-06T12:17:51Z",
-    "pushed_at": "2026-08-06T12:17:19Z"
+    "updated_at": "2026-08-06T14:18:32Z",
+    "pushed_at": "2026-08-06T14:12:25Z"
   },
   {
     "id": 1322307430,
@@ -469,6 +469,36 @@
     "pushed_at": "2026-08-06T07:03:27Z"
   },
   {
+    "id": 1325322542,
+    "name": "agent-skills-collection",
+    "full_name": "oliverb-io1902e8/agent-skills-collection",
+    "owner": {
+      "login": "oliverb-io1902e8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278994798?v=4"
+    },
+    "description": "Curated collection of modular agent skills for LLM-based agents",
+    "topics": [
+      "agent-skills",
+      "agentic-workflow",
+      "ai-agents",
+      "automation",
+      "chatgpt",
+      "claude",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "python"
+    ],
+    "html_url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T14:07:02Z",
+    "updated_at": "2026-08-06T14:30:02Z",
+    "pushed_at": "2026-08-06T14:13:00Z"
+  },
+  {
     "id": 1317004497,
     "name": "ucas-grade-scraper",
     "full_name": "ANEWCAN/ucas-grade-scraper",
@@ -588,44 +618,5 @@
     "created_at": "2026-07-30T23:27:53Z",
     "updated_at": "2026-07-31T00:52:45Z",
     "pushed_at": "2026-07-30T23:42:41Z"
-  },
-  {
-    "id": 1323701867,
-    "name": "yu-ai-learn",
-    "full_name": "liyupi/yu-ai-learn",
-    "owner": {
-      "login": "liyupi",
-      "avatar_url": "https://avatars.githubusercontent.com/u/26037703?v=4"
-    },
-    "description": "2026 年编程导航 AI 编程实战新项目，基于 Taro + React + FastAPI + DeepSeek 的 AI 闯关学习小程序，支持一句话 / 文本主题 AI 出题、闯关答题与即时讲解、联网搜索增强、RAG 私有知识库出题、AI 生图配图、微信登录与通关复盘报告。覆盖 LangChain / LangGraph、Chroma 向量库、MySQL、JWT、腾讯云 COS、Tavily 联网搜索、阿里云百炼、微信小程序与云托管。用一套教程掌握 AI 编程全流程，从需求调研到部署上线，不到一周学完，给你的简历增加竞争力",
-    "topics": [
-      "agent",
-      "ai",
-      "backend",
-      "copilot",
-      "deepseek",
-      "docker",
-      "fastapi",
-      "frontend",
-      "langchain",
-      "miniprogram",
-      "python",
-      "qwen",
-      "rag",
-      "react",
-      "taro",
-      "typescript",
-      "vibe-coding",
-      "vscode",
-      "wechat"
-    ],
-    "html_url": "https://github.com/liyupi/yu-ai-learn",
-    "stargazers_count": 11,
-    "language": "Python",
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-05T06:16:50Z",
-    "updated_at": "2026-08-06T03:42:05Z",
-    "pushed_at": "2026-08-05T06:17:03Z"
   }
 ]
