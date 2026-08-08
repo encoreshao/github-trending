@@ -1,0 +1,600 @@
+[
+  {
+    "id": 1319093879,
+    "name": "nuphus-mcp",
+    "full_name": "mrpulor-gh/nuphus-mcp",
+    "owner": {
+      "login": "mrpulor-gh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187365610?v=4"
+    },
+    "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+    "topics": [
+      "ai-agent",
+      "browser-automation",
+      "chrome-automation",
+      "claude",
+      "computer-use",
+      "computer-vision",
+      "desktop-automation",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "ocr",
+      "rust"
+    ],
+    "html_url": "https://github.com/mrpulor-gh/nuphus-mcp",
+    "stargazers_count": 167,
+    "language": "Rust",
+    "forks_count": 19,
+    "open_issues_count": 1,
+    "created_at": "2026-08-01T08:02:34Z",
+    "updated_at": "2026-08-08T03:16:27Z",
+    "pushed_at": "2026-08-07T07:38:40Z"
+  },
+  {
+    "id": 1326480303,
+    "name": "Dalaran",
+    "full_name": "Flaminis/Dalaran",
+    "owner": {
+      "login": "Flaminis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20280711?v=4"
+    },
+    "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+    "topics": [
+      "apache2",
+      "computer-vision",
+      "lidar",
+      "pointcloud",
+      "python",
+      "robotics",
+      "ros2",
+      "rust",
+      "time-series",
+      "visualization"
+    ],
+    "html_url": "https://github.com/Flaminis/Dalaran",
+    "stargazers_count": 69,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 8,
+    "created_at": "2026-08-07T09:37:32Z",
+    "updated_at": "2026-08-07T16:38:16Z",
+    "pushed_at": "2026-08-07T16:35:52Z"
+  },
+  {
+    "id": 1320151833,
+    "name": "Watti",
+    "full_name": "Nikolay-Tyulkin/Watti",
+    "owner": {
+      "login": "Nikolay-Tyulkin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66490051?v=4"
+    },
+    "description": "A desk lamp that's learning to be more than a lamp",
+    "topics": [
+      "3d-printing",
+      "computer-vision",
+      "raspberry-pi",
+      "rgbd-camera",
+      "robotic-lamp",
+      "robotics",
+      "robstride",
+      "ros2"
+    ],
+    "html_url": "https://github.com/Nikolay-Tyulkin/Watti",
+    "stargazers_count": 27,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T12:11:33Z",
+    "updated_at": "2026-08-07T17:08:33Z",
+    "pushed_at": "2026-08-02T15:04:00Z"
+  },
+  {
+    "id": 1323332140,
+    "name": "MotionShot",
+    "full_name": "AhmadHassan-BTed/MotionShot",
+    "owner": {
+      "login": "AhmadHassan-BTed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123323526?v=4"
+    },
+    "description": "Camera app that freezes fast motion sequences into a single stroboscopic photo; powered by on-device computer vision, 2D stabilization, and manual exposure controls",
+    "topics": [
+      "action-camera",
+      "android",
+      "camerax",
+      "computer-vision",
+      "image-processing",
+      "jetpack-compose",
+      "kotlin",
+      "motion-overlay",
+      "motion-shot",
+      "stroboscopic-camera"
+    ],
+    "html_url": "https://github.com/AhmadHassan-BTed/MotionShot",
+    "stargazers_count": 10,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T19:58:07Z",
+    "updated_at": "2026-08-07T17:14:03Z",
+    "pushed_at": "2026-08-05T09:19:58Z"
+  },
+  {
+    "id": 1320315900,
+    "name": "DriveSense",
+    "full_name": "anup42/DriveSense",
+    "owner": {
+      "login": "anup42",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10565133?v=4"
+    },
+    "description": "Experimental on-device Android app for driver drowsiness and road-scene awareness.",
+    "topics": [
+      "android-application",
+      "computer-vision",
+      "driver-safety",
+      "kotlin",
+      "mediapipe",
+      "ml-kit",
+      "on-device-ml"
+    ],
+    "html_url": "https://github.com/anup42/DriveSense",
+    "stargazers_count": 7,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-08-02T15:29:06Z",
+    "updated_at": "2026-08-04T16:32:13Z",
+    "pushed_at": "2026-08-04T16:29:38Z"
+  },
+  {
+    "id": 1322647282,
+    "name": "AutoLabel",
+    "full_name": "lwxhhh/AutoLabel",
+    "owner": {
+      "login": "lwxhhh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86404016?v=4"
+    },
+    "description": "基于 React、C++20、SQLite、RAM 与 GroundingDINO 的自动图像标注平台，支持同步/异步任务和 COCO/YOLO 导出。",
+    "topics": [
+      "computer-vision",
+      "cpp20",
+      "docker",
+      "groundingdino",
+      "image-annotation",
+      "ram",
+      "react",
+      "sqlite",
+      "typescript"
+    ],
+    "html_url": "https://github.com/lwxhhh/AutoLabel",
+    "stargazers_count": 5,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T07:28:20Z",
+    "updated_at": "2026-08-05T07:40:11Z",
+    "pushed_at": "2026-08-04T17:07:34Z"
+  },
+  {
+    "id": 1319273183,
+    "name": "dermwatch",
+    "full_name": "amirmushichge/dermwatch",
+    "owner": {
+      "login": "amirmushichge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266672775?v=4"
+    },
+    "description": "Private local skin-photo journal for tracking visible change — not a skin-cancer diagnostic tool",
+    "topics": [
+      "computer-vision",
+      "dermatology",
+      "electron",
+      "health",
+      "local-first",
+      "privacy"
+    ],
+    "html_url": "https://github.com/amirmushichge/dermwatch",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T12:23:48Z",
+    "updated_at": "2026-08-07T18:22:21Z",
+    "pushed_at": "2026-08-03T16:34:51Z"
+  },
+  {
+    "id": 1321645680,
+    "name": "TA2.0",
+    "full_name": "neosapience/TA2.0",
+    "owner": {
+      "login": "neosapience",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28556328?v=4"
+    },
+    "description": "Audio-driven talking avatar and lip-sync video generation from a reference image and speech audio.",
+    "topics": [
+      "ai-avatar",
+      "audio-driven-animation",
+      "avatar-animation",
+      "computer-vision",
+      "digital-human",
+      "generative-ai",
+      "huggingface",
+      "image-to-video",
+      "lip-sync",
+      "multimodal",
+      "pytorch",
+      "talking-avatar",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/neosapience/TA2.0",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T10:54:44Z",
+    "updated_at": "2026-08-07T15:49:47Z",
+    "pushed_at": "2026-08-03T15:43:11Z"
+  },
+  {
+    "id": 1323069559,
+    "name": "Hand-Gesture-Controlled-Video-Playback-System",
+    "full_name": "NaveenKumarP21/Hand-Gesture-Controlled-Video-Playback-System",
+    "owner": {
+      "login": "NaveenKumarP21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273114594?v=4"
+    },
+    "description": "AI-powered hand gesture control system for video playback and volume adjustment using OpenCV, MediaPipe, and Python.",
+    "topics": [
+      "artificial-intelligence",
+      "automation",
+      "computer-vision",
+      "gesture-control",
+      "hand-tracking",
+      "mediapipe",
+      "opencv",
+      "python",
+      "video-playback"
+    ],
+    "html_url": "https://github.com/NaveenKumarP21/Hand-Gesture-Controlled-Video-Playback-System",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T14:55:18Z",
+    "updated_at": "2026-08-07T09:58:14Z",
+    "pushed_at": "2026-08-07T09:55:53Z"
+  },
+  {
+    "id": 1322687999,
+    "name": "SmartCityEye",
+    "full_name": "satwiktelang18/SmartCityEye",
+    "owner": {
+      "login": "satwiktelang18",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157908277?v=4"
+    },
+    "description": "AI-powered traffic monitoring system using YOLOv8, OpenCV and Flask for vehicle detection, tracking and counting.",
+    "topics": [
+      "computer-vision",
+      "flask",
+      "object-tracking",
+      "opencv",
+      "python3",
+      "traffic-monitoring",
+      "yolo8"
+    ],
+    "html_url": "https://github.com/satwiktelang18/SmartCityEye",
+    "stargazers_count": 4,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T08:11:23Z",
+    "updated_at": "2026-08-04T18:41:52Z",
+    "pushed_at": "2026-08-04T18:40:36Z"
+  },
+  {
+    "id": 1319278014,
+    "name": "BiteWise",
+    "full_name": "AkiyamaKunka/BiteWise",
+    "owner": {
+      "login": "AkiyamaKunka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55288101?v=4"
+    },
+    "description": "Take a food photo, leave it, and we do all the rest calorie tracking for you.  Provide your own LLM API, use our Flask API + a Flutter app (iOS/Android) running automatic pipeline on-device.",
+    "topics": [
+      "ai-tools",
+      "calorie-tracker",
+      "computer-vision",
+      "flutter",
+      "llm",
+      "nutrition-tracker",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/AkiyamaKunka/BiteWise",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T12:31:11Z",
+    "updated_at": "2026-08-07T13:39:01Z",
+    "pushed_at": "2026-08-05T07:02:07Z"
+  },
+  {
+    "id": 1321933948,
+    "name": "OpenVision",
+    "full_name": "Alkaid-Friderich/OpenVision",
+    "owner": {
+      "login": "Alkaid-Friderich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94863573?v=4"
+    },
+    "description": "Open-source infrastructure for capturing, representing, reconstructing, and displaying human-visible experience.",
+    "topics": [
+      "computer-vision",
+      "open-source",
+      "spatial-computing",
+      "visual-experience",
+      "xr"
+    ],
+    "html_url": "https://github.com/Alkaid-Friderich/OpenVision",
+    "stargazers_count": 3,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T15:22:49Z",
+    "updated_at": "2026-08-05T13:16:41Z",
+    "pushed_at": "2026-08-03T15:22:52Z"
+  },
+  {
+    "id": 1323846756,
+    "name": "swarm-interceptorV1",
+    "full_name": "swarm-subnet/swarm-interceptorV1",
+    "owner": {
+      "login": "swarm-subnet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217751588?v=4"
+    },
+    "description": "Open-source autonomous Tello drone interceptor using YOLO detection, Kalman tracking, visual servoing, target reacquisition, and safety-focused RC control.",
+    "topics": [
+      "autonomous-drone",
+      "computer-vision",
+      "interceptor",
+      "yolo"
+    ],
+    "html_url": "https://github.com/swarm-subnet/swarm-interceptorV1",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T09:05:22Z",
+    "updated_at": "2026-08-06T20:53:53Z",
+    "pushed_at": "2026-08-05T10:01:59Z"
+  },
+  {
+    "id": 1320322923,
+    "name": "Traffic-Analytics-Using-Computer-Vision",
+    "full_name": "its-AkashSalunkhe/Traffic-Analytics-Using-Computer-Vision",
+    "owner": {
+      "login": "its-AkashSalunkhe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217365421?v=4"
+    },
+    "description": "AI-powered traffic surveillance system that detects, tracks, and analyzes vehicle movement in real-time from highway video streams.",
+    "topics": [
+      "artificial-intelligence",
+      "computer-vision",
+      "euclidean-distances",
+      "image-processing",
+      "machine-learning",
+      "multi-object-tracking",
+      "object-tracking",
+      "opencv",
+      "python",
+      "real-time",
+      "surveillance-systems",
+      "trafic-analytics",
+      "vehicle-detection",
+      "vehicle-tracking",
+      "video-processing"
+    ],
+    "html_url": "https://github.com/its-AkashSalunkhe/Traffic-Analytics-Using-Computer-Vision",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T15:38:30Z",
+    "updated_at": "2026-08-07T19:57:06Z",
+    "pushed_at": "2026-08-07T19:53:49Z"
+  },
+  {
+    "id": 1320488076,
+    "name": "AskAlbum",
+    "full_name": "anup42/AskAlbum",
+    "owner": {
+      "login": "anup42",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10565133?v=4"
+    },
+    "description": "Private, fully on-device AI photo search for Android. Ask grounded questions across photos, videos, screenshots, PDFs, people, OCR, places, and events.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "android",
+      "android-ai",
+      "claw",
+      "computer-vision",
+      "gemma",
+      "jetpack-compose",
+      "kotlin",
+      "local-ai",
+      "multimodal",
+      "ocr",
+      "offline-first",
+      "on-device-ai",
+      "photo-search",
+      "privacy",
+      "room",
+      "semantic-search",
+      "siglip",
+      "workmanager"
+    ],
+    "html_url": "https://github.com/anup42/AskAlbum",
+    "stargazers_count": 3,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 14,
+    "created_at": "2026-08-02T18:41:16Z",
+    "updated_at": "2026-08-04T17:21:18Z",
+    "pushed_at": "2026-08-06T14:32:47Z"
+  },
+  {
+    "id": 1320757592,
+    "name": "Albion-online-fishing-bot",
+    "full_name": "McCerber7/Albion-online-fishing-bot",
+    "owner": {
+      "login": "McCerber7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68659357?v=4"
+    },
+    "description": "Undetectable OpenCV-based fishing bot and automation PoC for Albion Online",
+    "topics": [
+      "automation",
+      "computer-vision",
+      "game-bot",
+      "opencv",
+      "proof-of-concept",
+      "python3"
+    ],
+    "html_url": "https://github.com/McCerber7/Albion-online-fishing-bot",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T21:19:19Z",
+    "updated_at": "2026-08-03T18:18:58Z",
+    "pushed_at": "2026-08-04T00:23:18Z"
+  },
+  {
+    "id": 1325163212,
+    "name": "Chenbin_Zhang",
+    "full_name": "zhangcbb/Chenbin_Zhang",
+    "owner": {
+      "login": "zhangcbb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139454556?v=4"
+    },
+    "description": "Personal academic homepage of Chenbin Zhang (NJUPT) — Physical Simulation · Computer Vision · Embedded Systems",
+    "topics": [
+      "academic-website",
+      "computer-vision",
+      "personal-page"
+    ],
+    "html_url": "https://github.com/zhangcbb/Chenbin_Zhang",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T11:44:22Z",
+    "updated_at": "2026-08-07T05:19:35Z",
+    "pushed_at": "2026-08-06T11:53:47Z"
+  },
+  {
+    "id": 1325918337,
+    "name": "sauron",
+    "full_name": "jpalmae/sauron",
+    "owner": {
+      "login": "jpalmae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39507014?v=4"
+    },
+    "description": "Video-analítica de tráfico edge/cloud (HPE GreenLake): RTSP multi-canal, YOLOv8+TensorRT o endpoint OpenAI-compatible, ByteTrack, reglas (conteo, velocidad, congestión, detenido, sentido contrario, obstrucción), evidencia snapshot+clip, FastAPI+TimescaleDB, dashboard React white-label. Docker Compose y Helm.",
+    "topics": [
+      "bytetrack",
+      "computer-vision",
+      "edge-ai",
+      "fastapi",
+      "hpe-greenlake",
+      "react",
+      "rtsp",
+      "tensorrt",
+      "timescaledb",
+      "traffic-monitoring",
+      "video-analytics",
+      "yolov8"
+    ],
+    "html_url": "https://github.com/jpalmae/sauron",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T21:43:07Z",
+    "updated_at": "2026-08-07T22:40:18Z",
+    "pushed_at": "2026-08-07T22:40:14Z"
+  },
+  {
+    "id": 1318909374,
+    "name": "HackOnTeam-AeroTwinAI",
+    "full_name": "docvoxx/HackOnTeam-AeroTwinAI",
+    "owner": {
+      "login": "docvoxx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154998401?v=4"
+    },
+    "description": "Local-first AI platform for real-time airport operations monitoring, combining edge computer vision, deterministic risk assessment, and an on-premise LLM.",
+    "topics": [
+      "air-gapped",
+      "airport-operations",
+      "bytetrack",
+      "computer-vision",
+      "crowd-monitoring",
+      "edge-ai",
+      "fastapi",
+      "llama-cpp",
+      "local-llm",
+      "neo4j",
+      "queue-monitoring",
+      "react",
+      "real-time-monitoring",
+      "risk-assessment",
+      "yolo"
+    ],
+    "html_url": "https://github.com/docvoxx/HackOnTeam-AeroTwinAI",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T02:47:12Z",
+    "updated_at": "2026-08-07T08:46:55Z",
+    "pushed_at": "2026-08-07T08:46:09Z"
+  },
+  {
+    "id": 1321369285,
+    "name": "ChestXRay-Disease-Classification",
+    "full_name": "AtomicHalifax/ChestXRay-Disease-Classification",
+    "owner": {
+      "login": "AtomicHalifax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188597710?v=4"
+    },
+    "description": "Multi-label chest X-ray disease classification using DenseNet121 on the Stanford CheXpert dataset with Grad-CAM explainability and comprehensive evaluation.",
+    "topics": [
+      "artificial-intelligence",
+      "chest-xray",
+      "chexpert",
+      "computer-vision",
+      "deep-learning",
+      "densenet121",
+      "explainable-ai",
+      "gradcam",
+      "healthcare-ai",
+      "image-classification",
+      "machine-learning",
+      "medical-ai",
+      "medical-imaging",
+      "multilabel-classification",
+      "python",
+      "pytorch",
+      "standord",
+      "torchvision",
+      "transfer-learning",
+      "xray"
+    ],
+    "html_url": "https://github.com/AtomicHalifax/ChestXRay-Disease-Classification",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T07:09:04Z",
+    "updated_at": "2026-08-06T13:22:50Z",
+    "pushed_at": "2026-08-06T06:06:49Z"
+  }
+]

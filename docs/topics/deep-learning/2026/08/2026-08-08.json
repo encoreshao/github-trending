@@ -1,0 +1,615 @@
+[
+  {
+    "id": 1319154759,
+    "name": "kimi-k3-in-c",
+    "full_name": "FareedKhan-dev/kimi-k3-in-c",
+    "owner": {
+      "login": "FareedKhan-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63067900?v=4"
+    },
+    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "topics": [
+      "avx2",
+      "c99",
+      "cpu-inference",
+      "deep-learning",
+      "from-scratch",
+      "inference-engine",
+      "kimi-k3",
+      "linear-attention",
+      "llm",
+      "llm-inference",
+      "machine-learning",
+      "memory-efficient",
+      "mixture-of-experts",
+      "moe",
+      "mxfp4",
+      "quantization",
+      "simd",
+      "systems-programming",
+      "transformer",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "stargazers_count": 3357,
+    "language": "C",
+    "forks_count": 545,
+    "open_issues_count": 5,
+    "created_at": "2026-08-01T09:29:38Z",
+    "updated_at": "2026-08-08T04:30:50Z",
+    "pushed_at": "2026-08-07T16:39:26Z"
+  },
+  {
+    "id": 1324058131,
+    "name": "light-loco-parkour",
+    "full_name": "lucidrains/light-loco-parkour",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of Light Loco Parkour, Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation, out of Light Origins Labs",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "locomotion",
+      "robotics"
+    ],
+    "html_url": "https://github.com/lucidrains/light-loco-parkour",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T13:06:07Z",
+    "updated_at": "2026-08-07T18:48:25Z",
+    "pushed_at": "2026-08-07T18:48:06Z"
+  },
+  {
+    "id": 1319105099,
+    "name": "Lightweight-Speech-Enhancement",
+    "full_name": "j128djsj/Lightweight-Speech-Enhancement",
+    "owner": {
+      "login": "j128djsj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221670642?v=4"
+    },
+    "description": "Official PyTorch implementation of lightweight speech enhancement with state-space modeling and depthwise separable convolution.",
+    "topics": [
+      "audio-processing",
+      "deep-learning",
+      "pytorch",
+      "speech-enhancement",
+      "state-space-models"
+    ],
+    "html_url": "https://github.com/j128djsj/Lightweight-Speech-Enhancement",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T08:17:45Z",
+    "updated_at": "2026-08-05T04:23:44Z",
+    "pushed_at": "2026-08-05T04:23:11Z"
+  },
+  {
+    "id": 1321574929,
+    "name": "awesome-geospatial-super-resolution",
+    "full_name": "khlaifiabilel/awesome-geospatial-super-resolution",
+    "owner": {
+      "login": "khlaifiabilel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31816208?v=4"
+    },
+    "description": "A curated list of algorithms, datasets, models, code, and papers for super-resolution of geospatial and remote sensing data (Sentinel-2 and beyond)",
+    "topics": [
+      "awesome-list",
+      "deep-learning",
+      "earth-observation",
+      "geospatial",
+      "image-fusion",
+      "pansharpening",
+      "remote-sensing",
+      "satellite-imagery",
+      "sentinel-2",
+      "super-resolution"
+    ],
+    "html_url": "https://github.com/khlaifiabilel/awesome-geospatial-super-resolution",
+    "stargazers_count": 9,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T10:13:42Z",
+    "updated_at": "2026-08-04T11:03:16Z",
+    "pushed_at": "2026-08-03T10:19:47Z"
+  },
+  {
+    "id": 1321814177,
+    "name": "deep-learning-notes",
+    "full_name": "jshn9515/deep-learning-notes",
+    "owner": {
+      "login": "jshn9515",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240566314?v=4"
+    },
+    "description": "Personal deep learning study notes and tutorial-style notebooks",
+    "topics": [
+      "deep-learning",
+      "deep-learning-tutorial",
+      "jupyter-notebooks",
+      "pytorch",
+      "quarto",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/jshn9515/deep-learning-notes",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-03T13:27:15Z",
+    "updated_at": "2026-08-07T10:36:12Z",
+    "pushed_at": "2026-08-05T22:57:27Z"
+  },
+  {
+    "id": 1324892623,
+    "name": "train-studio",
+    "full_name": "nanofatdog/train-studio",
+    "owner": {
+      "login": "nanofatdog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210469714?v=4"
+    },
+    "description": "Train Studio - SFT LoRA Web UI (Gradio): hardware detect, GPU select, config, train/resume, merge tool",
+    "topics": [
+      "deep-learning",
+      "fine-tuning",
+      "gguf",
+      "gpu",
+      "gradio",
+      "huggingface",
+      "llm",
+      "llm-finetuning",
+      "lora",
+      "machine-learning",
+      "sft",
+      "sft-training",
+      "training",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/nanofatdog/train-studio",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T07:31:34Z",
+    "updated_at": "2026-08-06T19:42:40Z",
+    "pushed_at": "2026-08-06T12:33:08Z"
+  },
+  {
+    "id": 1321835093,
+    "name": "Scanvidence",
+    "full_name": "Scanvidence/Scanvidence",
+    "owner": {
+      "login": "Scanvidence",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312273762?v=4"
+    },
+    "description": "Explainable, uncertainty-aware medical imaging detection, a unified platform for brain tumor and Alzheimer's disease detection.🧠🔬",
+    "topics": [
+      "alzheimers-disease",
+      "brain-tumor",
+      "deep-learning",
+      "explainable-ai",
+      "machine-learning",
+      "medical-imaging",
+      "mri",
+      "quantum-computing",
+      "radiomics",
+      "uncertainty-aware",
+      "uncertainty-estimation",
+      "vision-transformer",
+      "xai"
+    ],
+    "html_url": "https://github.com/Scanvidence/Scanvidence",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T13:48:04Z",
+    "updated_at": "2026-08-07T08:16:43Z",
+    "pushed_at": "2026-08-07T08:14:18Z"
+  },
+  {
+    "id": 1321054368,
+    "name": "Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
+    "full_name": "mahoorifatemeh-byte/Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
+    "owner": {
+      "login": "mahoorifatemeh-byte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245078200?v=4"
+    },
+    "description": "Multi‑agent RL for load balancing across heterogeneous servers, with a learned surrogate model to speed up training. Compares real‑simulator training vs. surrogate‑based training.",
+    "topics": [
+      "deep-learning",
+      "discrete-event-simulation",
+      "dqn",
+      "multi-agent-rl",
+      "pytorch",
+      "queueing-theory",
+      "simpy",
+      "surrogate-models"
+    ],
+    "html_url": "https://github.com/mahoorifatemeh-byte/Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T01:10:48Z",
+    "updated_at": "2026-08-08T01:51:04Z",
+    "pushed_at": "2026-08-08T01:51:00Z"
+  },
+  {
+    "id": 1319926127,
+    "name": "picodl",
+    "full_name": "alight659/picodl",
+    "owner": {
+      "login": "alight659",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33195513?v=4"
+    },
+    "description": "picodl is a from-scratch autograd engine and neural network stack - every gradient traced by hand, every op built on plain numpy. No hidden framework underneath",
+    "topics": [
+      "deep-learning",
+      "neural-network"
+    ],
+    "html_url": "https://github.com/alight659/picodl",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T07:37:42Z",
+    "updated_at": "2026-08-06T13:49:14Z",
+    "pushed_at": "2026-08-06T08:26:53Z"
+  },
+  {
+    "id": 1321099078,
+    "name": "Verace-V1",
+    "full_name": "Verace-Pvt-Ltd/Verace-V1",
+    "owner": {
+      "login": "Verace-Pvt-Ltd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269182330?v=4"
+    },
+    "description": "A next-generation, multimodal LLM architecture  linear-time attention, O(1) associative memory, and adaptive per-token compute, built from first principles. Reference implementation, no pretrained weights yet.",
+    "topics": [
+      "attention",
+      "attention-mechanism",
+      "deep-learning",
+      "deep-neural-networks",
+      "deeplearning",
+      "language-model",
+      "llm",
+      "mixture-of-experts",
+      "multimodal",
+      "python",
+      "pytorch",
+      "pytorch-implementation",
+      "research",
+      "transformer",
+      "transformers"
+    ],
+    "html_url": "https://github.com/Verace-Pvt-Ltd/Verace-V1",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T02:15:53Z",
+    "updated_at": "2026-08-04T06:34:17Z",
+    "pushed_at": "2026-08-03T20:13:55Z"
+  },
+  {
+    "id": 1320475702,
+    "name": "Transformer-Binding",
+    "full_name": "QueenOfTheUnderworld/Transformer-Binding",
+    "owner": {
+      "login": "QueenOfTheUnderworld",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312193277?v=4"
+    },
+    "description": "Empirical study of variable binding in small transformers: when binding circuits form under gradient descent, and what training signals change that.",
+    "topics": [
+      "deep-learning",
+      "mechanistic-interpretability",
+      "training-objectives",
+      "transformers",
+      "variable-binding"
+    ],
+    "html_url": "https://github.com/QueenOfTheUnderworld/Transformer-Binding",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T18:21:59Z",
+    "updated_at": "2026-08-05T00:51:57Z",
+    "pushed_at": "2026-08-02T19:27:46Z"
+  },
+  {
+    "id": 1324707269,
+    "name": "multi-task-facial-behaviour-and-occlusion-detection",
+    "full_name": "biswojit-11/multi-task-facial-behaviour-and-occlusion-detection",
+    "owner": {
+      "login": "biswojit-11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206232212?v=4"
+    },
+    "description": "Real-time facial emotion recognition and facial occlusion detection using ResNet-18 + CBAM, MTCNN, and MediaPipe FaceMesh.",
+    "topics": [
+      "cbam",
+      "computer-vision",
+      "deep-learning",
+      "facial-emotion-recognition",
+      "machine-learning",
+      "mediapipe",
+      "mtcnn",
+      "opencv",
+      "python",
+      "pytorch",
+      "real-time",
+      "resnet-18"
+    ],
+    "html_url": "https://github.com/biswojit-11/multi-task-facial-behaviour-and-occlusion-detection",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T03:42:17Z",
+    "updated_at": "2026-08-06T04:47:24Z",
+    "pushed_at": "2026-08-06T04:05:48Z"
+  },
+  {
+    "id": 1327075151,
+    "name": "medtokenizers",
+    "full_name": "liamchalcroft/medtokenizers",
+    "owner": {
+      "login": "liamchalcroft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56733080?v=4"
+    },
+    "description": "Tokenizers for 2D and 3D medical images: VQ, LFQ, FSQ, Residual FSQ, VAE, and AE quantizers behind one backbone.",
+    "topics": [
+      "autoencoder",
+      "deep-learning",
+      "discrete-representations",
+      "finite-scalar-quantization",
+      "image-compression",
+      "lookup-free-quantization",
+      "machine-learning",
+      "medical-imaging",
+      "medmnist",
+      "pytorch",
+      "representation-learning",
+      "tokenization",
+      "vector-quantization",
+      "vqvae"
+    ],
+    "html_url": "https://github.com/liamchalcroft/medtokenizers",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T19:17:14Z",
+    "updated_at": "2026-08-08T01:49:44Z",
+    "pushed_at": "2026-08-07T21:26:14Z"
+  },
+  {
+    "id": 1321812942,
+    "name": "dnnl-notebooks",
+    "full_name": "jshn9515/dnnl-notebooks",
+    "owner": {
+      "login": "jshn9515",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240566314?v=4"
+    },
+    "description": "Personal deep learning study notes and tutorial-style notebooks",
+    "topics": [
+      "deep-learning",
+      "deep-learning-tutorial",
+      "jupyter-notebooks",
+      "pytorch",
+      "quarto",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/jshn9515/dnnl-notebooks",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T13:26:08Z",
+    "updated_at": "2026-08-05T21:56:06Z",
+    "pushed_at": "2026-08-05T21:56:02Z"
+  },
+  {
+    "id": 1323255936,
+    "name": "ModelAnalyzer",
+    "full_name": "leonardozh1709/ModelAnalyzer",
+    "owner": {
+      "login": "leonardozh1709",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313097608?v=4"
+    },
+    "description": "A lightweight hook-based analysis utility for PyTorch modules. Gradients, forward and backward activations and more.",
+    "topics": [
+      "deep-learning",
+      "matplotlib",
+      "model-interpretability",
+      "neural-network",
+      "pytorch",
+      "visualization"
+    ],
+    "html_url": "https://github.com/leonardozh1709/ModelAnalyzer",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T18:22:15Z",
+    "updated_at": "2026-08-06T19:53:41Z",
+    "pushed_at": "2026-08-04T18:37:52Z"
+  },
+  {
+    "id": 1321369285,
+    "name": "ChestXRay-Disease-Classification",
+    "full_name": "AtomicHalifax/ChestXRay-Disease-Classification",
+    "owner": {
+      "login": "AtomicHalifax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188597710?v=4"
+    },
+    "description": "Multi-label chest X-ray disease classification using DenseNet121 on the Stanford CheXpert dataset with Grad-CAM explainability and comprehensive evaluation.",
+    "topics": [
+      "artificial-intelligence",
+      "chest-xray",
+      "chexpert",
+      "computer-vision",
+      "deep-learning",
+      "densenet121",
+      "explainable-ai",
+      "gradcam",
+      "healthcare-ai",
+      "image-classification",
+      "machine-learning",
+      "medical-ai",
+      "medical-imaging",
+      "multilabel-classification",
+      "python",
+      "pytorch",
+      "standord",
+      "torchvision",
+      "transfer-learning",
+      "xray"
+    ],
+    "html_url": "https://github.com/AtomicHalifax/ChestXRay-Disease-Classification",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T07:09:04Z",
+    "updated_at": "2026-08-06T13:22:50Z",
+    "pushed_at": "2026-08-06T06:06:49Z"
+  },
+  {
+    "id": 1322189048,
+    "name": "flash-attention-php",
+    "full_name": "mrmehrad/flash-attention-php",
+    "owner": {
+      "login": "mrmehrad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195520622?v=4"
+    },
+    "description": "A PHP implementation of FlashAttention, optimizing memory usage and matrix computations for self-attention mechanism without external dependencies.",
+    "topics": [
+      "algorithm",
+      "attention-mechanism",
+      "deep-learning",
+      "flash-attention",
+      "llm",
+      "machine-learning",
+      "matrix-multiplication",
+      "php",
+      "transformers"
+    ],
+    "html_url": "https://github.com/mrmehrad/flash-attention-php",
+    "stargazers_count": 2,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T19:58:09Z",
+    "updated_at": "2026-08-04T22:37:57Z",
+    "pushed_at": "2026-08-04T22:37:15Z"
+  },
+  {
+    "id": 1324975413,
+    "name": "pinesprout",
+    "full_name": "85599/pinesprout",
+    "owner": {
+      "login": "85599",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29569069?v=4"
+    },
+    "description": "🌲 PineSprout Studio — Production-grade Pine Script v5/v6 toolkit: lint, format, v4→v6 upgrader, AI-powered code analysis & docs generator for TradingView developers.",
+    "topics": [
+      "ai",
+      "automation",
+      "data-science",
+      "deep-learning",
+      "fintech",
+      "indian-stock-market",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "nse",
+      "nse-stock-data",
+      "open-source",
+      "pinescript",
+      "python",
+      "tensorflow",
+      "tradingview"
+    ],
+    "html_url": "https://github.com/85599/pinesprout",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T08:49:25Z",
+    "updated_at": "2026-08-07T06:53:06Z",
+    "pushed_at": "2026-08-06T09:38:03Z"
+  },
+  {
+    "id": 1325152431,
+    "name": "AI-Driven-Drug-Repurposing",
+    "full_name": "ShahidKhan4321/AI-Driven-Drug-Repurposing",
+    "owner": {
+      "login": "ShahidKhan4321",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171603997?v=4"
+    },
+    "description": "AI-powered drug repurposing platform using Deep Learning, FastAPI, Next.js, and Molecular Fingerprints for predicting effective drug candidates.",
+    "topics": [
+      "ai",
+      "bioinformatics",
+      "deep-learning",
+      "drug-repurposing",
+      "fastapi",
+      "healthcare",
+      "machine-learning",
+      "nextjs",
+      "python",
+      "react",
+      "tensorflow",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ShahidKhan4321/AI-Driven-Drug-Repurposing",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T11:34:58Z",
+    "updated_at": "2026-08-06T14:21:41Z",
+    "pushed_at": "2026-08-06T14:11:01Z"
+  },
+  {
+    "id": 1324250422,
+    "name": "esp32-AI-snake",
+    "full_name": "GavinnnTann/esp32-AI-snake",
+    "owner": {
+      "login": "GavinnnTann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173929364?v=4"
+    },
+    "description": "DQN trained snake game running on an ESP32S3 8x8 LED Matrix Board.",
+    "topics": [
+      "deep-learning",
+      "deep-neural-networks",
+      "deep-q-network",
+      "deepq-learning",
+      "deepqlearning",
+      "deepqnetwork",
+      "dqn",
+      "dqn-algorithm",
+      "dqn-pytorch",
+      "dqn-solver",
+      "esp32",
+      "esp32-arduino",
+      "esp32-s3",
+      "esp32s3",
+      "reinforcement-learning",
+      "tinyml"
+    ],
+    "html_url": "https://github.com/GavinnnTann/esp32-AI-snake",
+    "stargazers_count": 2,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T16:15:13Z",
+    "updated_at": "2026-08-08T02:10:11Z",
+    "pushed_at": "2026-08-06T00:42:50Z"
+  }
+]

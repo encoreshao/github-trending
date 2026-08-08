@@ -1,0 +1,621 @@
+[
+  {
+    "id": 1323682673,
+    "name": "spring-ai-privacy-guardrails",
+    "full_name": "ultramancode/spring-ai-privacy-guardrails",
+    "owner": {
+      "login": "ultramancode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116135174?v=4"
+    },
+    "description": "Privacy guardrails for Spring AI: request-scoped PII tokenization and least-privilege disclosure across model/tool calls, with Presidio and JVM-local OpenNLP.",
+    "topics": [
+      "ai-guardrails",
+      "artificial-intelligence",
+      "data-privacy",
+      "generative-ai",
+      "guardrails",
+      "java",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "nlp",
+      "opennlp",
+      "pii",
+      "pii-detection",
+      "pii-tokenization",
+      "presidio",
+      "privacy",
+      "spring-ai",
+      "spring-boot",
+      "spring-boot-starter",
+      "tool-calling"
+    ],
+    "html_url": "https://github.com/ultramancode/spring-ai-privacy-guardrails",
+    "stargazers_count": 3,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-05T05:52:39Z",
+    "updated_at": "2026-08-07T00:01:51Z",
+    "pushed_at": "2026-08-07T13:46:22Z"
+  },
+  {
+    "id": 1323491505,
+    "name": "Awesome-Masked-Language-Modeling",
+    "full_name": "ishandutta2007/Awesome-Masked-Language-Modeling",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "a machine learning training method that hides random words in a text and teaches an AI model to guess the missing words",
+    "topics": [
+      "ai-theory",
+      "machine-learning",
+      "masked-language-modeling",
+      "nlp"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-Masked-Language-Modeling",
+    "stargazers_count": 3,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T00:41:35Z",
+    "updated_at": "2026-08-06T01:37:19Z",
+    "pushed_at": "2026-08-05T01:32:24Z"
+  },
+  {
+    "id": 1324236928,
+    "name": "isogloss",
+    "full_name": "andrew-templeton/isogloss",
+    "owner": {
+      "login": "andrew-templeton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2443179?v=4"
+    },
+    "description": "Audience-legibility engine: measure the Zipf-distance between a document and a target audience, plan the lowest-energy rewrite, verify the takeaway survived with blinded cross-provider judges.",
+    "topics": [
+      "computational-linguistics",
+      "llm",
+      "nlp",
+      "readability",
+      "zipf"
+    ],
+    "html_url": "https://github.com/andrew-templeton/isogloss",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T16:00:13Z",
+    "updated_at": "2026-08-07T12:50:38Z",
+    "pushed_at": "2026-08-07T01:30:06Z"
+  },
+  {
+    "id": 1323079437,
+    "name": "spam-classifier",
+    "full_name": "Apoo3va/spam-classifier",
+    "owner": {
+      "login": "Apoo3va",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188779665?v=4"
+    },
+    "description": "Catches spam before it catches you : TF-IDF + Naive Bayes model wrapped in a Streamlit app, 97% accuracy, deployed live on Render.",
+    "topics": [
+      "machine-learning",
+      "ml-project",
+      "naive-bayes",
+      "nlp",
+      "nltk",
+      "python",
+      "render",
+      "scikit-learn",
+      "spam-detection",
+      "streamlit",
+      "text-classification",
+      "tfidf"
+    ],
+    "html_url": "https://github.com/Apoo3va/spam-classifier",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T15:05:28Z",
+    "updated_at": "2026-08-04T18:48:06Z",
+    "pushed_at": "2026-08-04T18:36:23Z"
+  },
+  {
+    "id": 1324282611,
+    "name": "Semantic-Quora",
+    "full_name": "Apoo3va/Semantic-Quora",
+    "owner": {
+      "login": "Apoo3va",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188779665?v=4"
+    },
+    "description": "Detects duplicate/semantically similar question pairs from the Quora dataset using NLP feature engineering and bag-of-words modeling , with a live Streamlit demo.",
+    "topics": [
+      "bag-of-words",
+      "duplicate-detection",
+      "feature-engineering",
+      "jupyter-notebook",
+      "machine-learning",
+      "nlp",
+      "python",
+      "quora",
+      "quora-question-pairs",
+      "scikit-learn",
+      "semantic-similarity",
+      "streamlit",
+      "text-classification"
+    ],
+    "html_url": "https://github.com/Apoo3va/Semantic-Quora",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T16:51:19Z",
+    "updated_at": "2026-08-05T19:03:08Z",
+    "pushed_at": "2026-08-05T18:28:26Z"
+  },
+  {
+    "id": 1319572336,
+    "name": "urdu-to-roman-urdu-transliteration",
+    "full_name": "Maaz-x14/urdu-to-roman-urdu-transliteration",
+    "owner": {
+      "login": "Maaz-x14",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188995100?v=4"
+    },
+    "description": "Urdu → Roman Urdu transliteration — dataset, LoRA fine-tuning pipeline, model, and production API",
+    "topics": [
+      "fine-tuning",
+      "lora",
+      "m2m100",
+      "machine-translation",
+      "nlp",
+      "peft",
+      "roman-urdu",
+      "roman-urdu-dataset",
+      "roman-urdu-nlp",
+      "transliteration",
+      "urdu",
+      "urdu-datasets",
+      "urdu-nlp",
+      "urdu-to-roman-urdu"
+    ],
+    "html_url": "https://github.com/Maaz-x14/urdu-to-roman-urdu-transliteration",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T19:28:19Z",
+    "updated_at": "2026-08-05T19:54:51Z",
+    "pushed_at": "2026-08-05T19:53:50Z"
+  },
+  {
+    "id": 1324090761,
+    "name": "finance-text-classifier",
+    "full_name": "Linjianyue-602/finance-text-classifier",
+    "owner": {
+      "login": "Linjianyue-602",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273994969?v=4"
+    },
+    "description": "FinRoute — 金融客服工单智能分发与业务分流系统。基于BERT FinBERT的NLP文本十分类，从5万条数据到API部署的完整闭环。",
+    "topics": [
+      "bert",
+      "chinese-nlp",
+      "deep-learning",
+      "fastapi",
+      "finance",
+      "finbert",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "text-classification"
+    ],
+    "html_url": "https://github.com/Linjianyue-602/finance-text-classifier",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T13:36:36Z",
+    "updated_at": "2026-08-06T00:34:48Z",
+    "pushed_at": "2026-08-05T13:37:17Z"
+  },
+  {
+    "id": 1318928353,
+    "name": "luatdo",
+    "full_name": "tamnd/luatdo",
+    "owner": {
+      "login": "tamnd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
+    },
+    "description": "Vietnamese legal knowledge graph: deterministic parsing, ontology-constrained LLM extraction, Neo4j export",
+    "topics": [
+      "golang",
+      "knowledge-graph",
+      "legal",
+      "legaltech",
+      "llm",
+      "neo4j",
+      "nlp",
+      "vietnam"
+    ],
+    "html_url": "https://github.com/tamnd/luatdo",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-08-01T03:25:07Z",
+    "updated_at": "2026-08-07T11:56:20Z",
+    "pushed_at": "2026-08-07T06:59:42Z"
+  },
+  {
+    "id": 1321512060,
+    "name": "pharmacy-agent",
+    "full_name": "AbdulllohAI/pharmacy-agent",
+    "owner": {
+      "login": "AbdulllohAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308996950?v=4"
+    },
+    "description": "AI Pharmacy Price Comparison Agent for Uzbekistan — FastAPI + Streamlit, Lex.uz registry validation, price comparison",
+    "topics": [
+      "fastapi",
+      "langgraph",
+      "mit-license",
+      "nlp",
+      "ollama",
+      "pharmacy",
+      "price-comparison",
+      "pydantic",
+      "python",
+      "sqlite",
+      "streamlit",
+      "uzbekistan"
+    ],
+    "html_url": "https://github.com/AbdulllohAI/pharmacy-agent",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T09:12:14Z",
+    "updated_at": "2026-08-03T20:09:27Z",
+    "pushed_at": "2026-08-03T20:08:58Z"
+  },
+  {
+    "id": 1320395538,
+    "name": "persian-text-to-ipa-byt5",
+    "full_name": "KiaBush/persian-text-to-ipa-byt5",
+    "owner": {
+      "login": "KiaBush",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312119774?v=4"
+    },
+    "description": "Persian (Farsi) grapheme-to-phoneme conversion to the International Phonetic Alphabet (IPA) using a fine-tuned ByT5 model.",
+    "topics": [
+      "byt5",
+      "farsi",
+      "g2p",
+      "ipa",
+      "nlp",
+      "persian",
+      "text-to-speech",
+      "transformers"
+    ],
+    "html_url": "https://github.com/KiaBush/persian-text-to-ipa-byt5",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T16:49:03Z",
+    "updated_at": "2026-08-02T18:45:38Z",
+    "pushed_at": "2026-08-02T17:10:02Z"
+  },
+  {
+    "id": 1324975413,
+    "name": "pinesprout",
+    "full_name": "85599/pinesprout",
+    "owner": {
+      "login": "85599",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29569069?v=4"
+    },
+    "description": "🌲 PineSprout Studio — Production-grade Pine Script v5/v6 toolkit: lint, format, v4→v6 upgrader, AI-powered code analysis & docs generator for TradingView developers.",
+    "topics": [
+      "ai",
+      "automation",
+      "data-science",
+      "deep-learning",
+      "fintech",
+      "indian-stock-market",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "nse",
+      "nse-stock-data",
+      "open-source",
+      "pinescript",
+      "python",
+      "tensorflow",
+      "tradingview"
+    ],
+    "html_url": "https://github.com/85599/pinesprout",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T08:49:25Z",
+    "updated_at": "2026-08-07T06:53:06Z",
+    "pushed_at": "2026-08-06T09:38:03Z"
+  },
+  {
+    "id": 1324488236,
+    "name": "sherlock-character-chatbot",
+    "full_name": "AhmadRamadan74/sherlock-character-chatbot",
+    "owner": {
+      "login": "AhmadRamadan74",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113770965?v=4"
+    },
+    "description": "AI pipeline that turns BBC Sherlock scripts and fandom wiki data into character-driven chatbots (Sherlock, Watson, Moriarty & more) — scene parsing, LLM-based profile generation, fine-tuning dataset creation, and hallucination/personality evaluation",
+    "topics": [
+      "character-ai",
+      "chatbot",
+      "dataset-generation",
+      "fine-tuning",
+      "llm",
+      "nlp",
+      "openai",
+      "prompt-engineering",
+      "python",
+      "sherlock-holmes"
+    ],
+    "html_url": "https://github.com/AhmadRamadan74/sherlock-character-chatbot",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T21:16:32Z",
+    "updated_at": "2026-08-06T02:25:52Z",
+    "pushed_at": "2026-08-05T21:27:32Z"
+  },
+  {
+    "id": 1319850850,
+    "name": "AI-Resume-Analyzer-Pro",
+    "full_name": "Nehashellikeri/AI-Resume-Analyzer-Pro",
+    "owner": {
+      "login": "Nehashellikeri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105427364?v=4"
+    },
+    "description": "AI-powered Resume Analyzer built with Flask, spaCy, SQLite, and Google Gemini API. Features ATS scoring, skill extraction, keyword matching, PDF reports, and AI-powered resume improvement suggestions.",
+    "topics": [
+      "ats",
+      "bootstrap",
+      "chartjs",
+      "css",
+      "flask",
+      "gemini-api",
+      "html",
+      "javascript",
+      "machine-learning",
+      "nlp",
+      "portfolio",
+      "python",
+      "resume-analyzer",
+      "spacy",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/Nehashellikeri/AI-Resume-Analyzer-Pro",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T05:31:23Z",
+    "updated_at": "2026-08-02T06:35:24Z",
+    "pushed_at": "2026-08-02T06:34:12Z"
+  },
+  {
+    "id": 1325621311,
+    "name": "jabd",
+    "full_name": "marcelomendoza/jabd",
+    "owner": {
+      "login": "marcelomendoza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10616742?v=4"
+    },
+    "description": "JABD — Job Advertisements Bias Dataset: token-level annotated corpus for bias detection in job ads",
+    "topics": [
+      "bias",
+      "dataset",
+      "fairness",
+      "job-advertisements",
+      "language-resource",
+      "named-entity-recognition",
+      "nlp",
+      "recruitment"
+    ],
+    "html_url": "https://github.com/marcelomendoza/jabd",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T17:53:35Z",
+    "updated_at": "2026-08-07T02:20:06Z",
+    "pushed_at": "2026-08-07T02:20:02Z"
+  },
+  {
+    "id": 1322146994,
+    "name": "SALARY-BENCHMARKING-PREDICTION",
+    "full_name": "Bisiriyu001/SALARY-BENCHMARKING-PREDICTION",
+    "owner": {
+      "login": "Bisiriyu001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154566657?v=4"
+    },
+    "description": "ML regression pipeline predicting tech salary benchmarks from job postings across 5 countries, replaces a flat lookup-table model with NLP-driven feature engineering and a tuned Random Forest, achieving a 33% MAE improvement over a fair baseline.",
+    "topics": [
+      "data-science",
+      "hr-analytics",
+      "machine-learning",
+      "nlp",
+      "python",
+      "regression"
+    ],
+    "html_url": "https://github.com/Bisiriyu001/SALARY-BENCHMARKING-PREDICTION",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T19:03:48Z",
+    "updated_at": "2026-08-03T21:37:04Z",
+    "pushed_at": "2026-08-03T21:28:42Z"
+  },
+  {
+    "id": 1319154865,
+    "name": "zoro-rag",
+    "full_name": "kuoroshhj/zoro-rag",
+    "owner": {
+      "login": "kuoroshhj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309353462?v=4"
+    },
+    "description": ".Style-aware Persian RAG for Zoroastrian texts — FAISS + Author DNA + LLM (12-stage pipeline)",
+    "topics": [
+      "avesta",
+      "faiss",
+      "farsi",
+      "llm",
+      "nlp",
+      "persian",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "zoroastrian"
+    ],
+    "html_url": "https://github.com/kuoroshhj/zoro-rag",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T09:29:48Z",
+    "updated_at": "2026-08-06T09:00:41Z",
+    "pushed_at": "2026-08-06T08:58:58Z"
+  },
+  {
+    "id": 1326770511,
+    "name": "mauritian-creole-english-corpus",
+    "full_name": "YashvirGaming/mauritian-creole-english-corpus",
+    "owner": {
+      "login": "YashvirGaming",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64865096?v=4"
+    },
+    "description": "🚀 4,610+ unique Mauritian Creole (Morisyen) to English parallel translation pairs. Structured JSON dataset featuring everyday phrases, slang, and cultural idioms with context. Built by Yashvir Gaming for NLP and LLM training.",
+    "topics": [
+      "dataset",
+      "language-packs",
+      "machine-translation",
+      "mauritian-creole",
+      "morisyen",
+      "nlp",
+      "nlp-machine-learning",
+      "parallel-corpus"
+    ],
+    "html_url": "https://github.com/YashvirGaming/mauritian-creole-english-corpus",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T14:29:20Z",
+    "updated_at": "2026-08-07T14:32:28Z",
+    "pushed_at": "2026-08-07T14:29:44Z"
+  },
+  {
+    "id": 1322657898,
+    "name": "ai-engineer-roadmap",
+    "full_name": "BlackPanda999/ai-engineer-roadmap",
+    "owner": {
+      "login": "BlackPanda999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183073702?v=4"
+    },
+    "description": "Free complete AI Engineer roadmap 2026 — 12 month plan with free courses, tools, datasets, and project ideas. Python to LLMs.",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "beginner-guide",
+      "career-roadmap",
+      "deep-learning",
+      "education",
+      "free-resources",
+      "learning-resources",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "nlp",
+      "python",
+      "pytorch",
+      "roadmap"
+    ],
+    "html_url": "https://github.com/BlackPanda999/ai-engineer-roadmap",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T07:38:44Z",
+    "updated_at": "2026-08-04T10:47:36Z",
+    "pushed_at": "2026-08-04T07:38:55Z"
+  },
+  {
+    "id": 1320189463,
+    "name": "multinli-lora-finetuning",
+    "full_name": "shevchenko9liza/multinli-lora-finetuning",
+    "owner": {
+      "login": "shevchenko9liza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135446086?v=4"
+    },
+    "description": "Parameter-efficient NLI: frozen BGE encoder + LoRA adapters (1.77M trainable params), F1 0.823 with OOD analysis",
+    "topics": [
+      "deep-learning",
+      "fine-tuning",
+      "huggingface",
+      "lora",
+      "multinli",
+      "natural-language-inference",
+      "nlp",
+      "out-of-distribution",
+      "parameter-efficient",
+      "peft",
+      "pytorch",
+      "transformers"
+    ],
+    "html_url": "https://github.com/shevchenko9liza/multinli-lora-finetuning",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T12:58:58Z",
+    "updated_at": "2026-08-03T11:42:03Z",
+    "pushed_at": "2026-08-02T18:43:18Z"
+  },
+  {
+    "id": 1321044109,
+    "name": "IICT-AI-ML-Summer-Internship-2026",
+    "full_name": "KAISER-bmr/IICT-AI-ML-Summer-Internship-2026",
+    "owner": {
+      "login": "KAISER-bmr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189819617?v=4"
+    },
+    "description": "Machine Learning & NLP projects developed during the IICT Summer Internship 2026.",
+    "topics": [
+      "artificial-intelligence",
+      "artificial-intelligence-algorithms",
+      "artificial-intelligence-projects",
+      "data-science",
+      "deep-learning",
+      "fake-news-detection",
+      "machine-learning",
+      "nlp",
+      "phishing-detection",
+      "python",
+      "python3",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "html_url": "https://github.com/KAISER-bmr/IICT-AI-ML-Summer-Internship-2026",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T00:56:11Z",
+    "updated_at": "2026-08-06T21:48:44Z",
+    "pushed_at": "2026-08-06T21:48:38Z"
+  }
+]
