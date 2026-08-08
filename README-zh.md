@@ -18,7 +18,7 @@
 
 ## 概述
 
-一个现代化的 Web 应用程序，用于发现 GitHub 热门仓库。支持实时数据获取、多视图模式、导出功能，以及精美的深色主题界面。
+GitHub Trending 帮助你快速发现哪些仓库正在获得关注——无论是今天、本周、本月，还是某个特定主题下——而无需手动翻阅 GitHub 官方的趋势页面。一个 CLI 脚本按计划任务（cron）定期抓取 GitHub 搜索 API 的快照，以带版本记录的 JSON/CSV 文件保存到 `docs/` 目录；一个 React Web 应用则将这些快照呈现为快速、可导出、支持双语的浏览体验，并覆盖 25 个精选主题页面，涵盖编程语言、框架，以及 Claude Code、Gemini、DeepSeek 等热门 AI 工具。
 
 ### 核心功能
 
@@ -28,8 +28,10 @@
 | **双视图模式** | 表格视图用于数据分析，卡片视图用于可视化浏览 |
 | **智能筛选** | 按分类、关键词和 20+ 属性进行筛选 |
 | **周报 & 月报** | 按滚动周期刷新的精选 Top 20 页面，并展示周/月环比变化 |
-| **主题页面** | 19 个精选主题（AI、React、DevOps、安全等），每个主题都有每日刷新的独立趋势页面和快速主题切换器 |
+| **主题页面** | 25 个精选主题（AI、React、DevOps、安全、Claude Code、Gemini、DeepSeek 等），每个主题都有每日刷新的独立趋势页面和快速主题切换器 |
 | **个性化订阅** | 选择感兴趣的主题，直接提交到 Google 表格 |
+| **跨页面探索** | 首页、周报、月报、主题、订阅和演示页通过主题化的预告板块相互链接，并以短渐变分隔线衔接 |
+| **RanBOT 家族** | 跨站推广网格，链接到 8 个 RanBOT 兄弟产品，涵盖托管应用与开源爬虫工具 |
 | **导出选项** | 下载为 CSV、JSON 或复制到剪贴板 |
 | **深色主题** | 现代毛玻璃设计，流畅动画效果 |
 | **双语支持** | 完整的英文和中文语言支持 |
@@ -74,14 +76,35 @@ npm run dev
 
 | 路由 | 描述 |
 |------|------|
-| `/` | 主页，展示功能亮点 |
-| `/demo` | 交互式仓库分析工具 |
-| `/weekly` | 最近 30 天内创建的 Top 20 仓库，每周一刷新 |
-| `/monthly` | 最近 90 天内创建的 Top 20 仓库，每月 1 日刷新 |
-| `/topics` | 全部 19 个主题的索引页，每个主题链接到其专属页面 |
-| `/topics/:slug` | 单个主题最近 7 天内创建的 Top 20 仓库，页面顶部带主题切换器，并附带每日/每周/每月概览 |
-| `/subscribe` | 基于主题的订阅设置，提交至 Google 表格 |
-| `*` | 未匹配或被显式屏蔽的路由的自定义 404 页面（见 `src/blockedRoutes.js`） |
+| `/` | 首页：每日热门仓库网格、周报/月报预告，以及 RanBOT 家族推广 |
+| `/demo` | 交互式仓库分析工具，其后附带每日趋势、周报、月报预告 |
+| `/weekly` | 最近 30 天内创建的 Top 20 仓库，每周一刷新 —— 交叉链接到月度精选和每日趋势 |
+| `/monthly` | 最近 90 天内创建的 Top 20 仓库，每月 1 日刷新 —— 交叉链接到周度精选和订阅 CTA |
+| `/topics` | 全部 25 个主题的索引页，每个主题链接到其专属页面 |
+| `/topics/:slug` | 单个主题最近 7 天内创建的 Top 20 仓库 —— 页面顶部带主题切换器，并附带每日/每周/每月概览板块 |
+| `/subscribe` | 基于主题的订阅设置，提交至 Google 表格，其后附带 RanBOT 家族推广 |
+| `*` | 未匹配或被显式屏蔽路由的自定义 404 页面（见 `src/blockedRoutes.js`） |
+
+每个页面会混合搭配 3-5 个板块，而不是在所有页面重复同样的内容 —— 完整的跨站推广列表见下方「RanBOT 大家族」章节。
+
+---
+
+## RanBOT 大家族
+
+首页、订阅页和演示页会交叉推广更广泛的 RanBOT 产品家族：
+
+| 产品 | 分类 | 描述 |
+|------|------|------|
+| [Skills](https://skills.ranbot.online/) | 效率工具 | 精选技能手册，助你更好地与 AI 协作 |
+| [PPT](https://ppt.ranbot.online/) | 内容创作 | 几分钟内将想法转化为精美演示文稿 |
+| [RSS](https://rss.ranbot.online/) | 内容创作 | 在一个信息流中关注你真正关心的信息源 |
+| [Video](https://video.ranbot.online/) | 内容创作 | AI 辅助的视频创作与剪辑 |
+| [Data Graph](https://data-graph.ranbot.online/) | 数据 | 可视化并探索关联数据 |
+| [TikTok Scraper](https://github.com/ranbot-ai/tiktok-scraper) | 数据抓取 | 按需抓取 TikTok 热门视频和创作者数据 |
+| [X Scraper](https://github.com/ranbot-ai/x-scraper) | 数据抓取 | 采集 X（Twitter）上的推文、话题串和主页数据 |
+| [Product Hunt](https://github.com/ranbot-ai/product-hunt) | 发现 | 在产品爆火之前追踪每日新品 |
+
+该列表定义在 `src/components/RanbotPromoSection.jsx` 中 —— 在其中新增一项（name、url、icon、category、blurb、features、gradient）即可推广新产品。
 
 ---
 
@@ -100,21 +123,26 @@ npm run dev
 src/
 ├── api/                 # GitHub API + Google 表格集成
 ├── data/
-│   └── topics.js        # 19 个主题的唯一数据源（id/name/description/icon）
+│   └── topics.js        # 25 个主题的唯一数据源（id/name/description/icon）
 ├── components/          # 可复用 UI 组件
 │   ├── Header           # 导航栏
 │   ├── Footer           # 页脚（含完整主题链接列表）
 │   ├── RepoTable        # 表格视图组件
 │   ├── RepoCard         # 卡片视图组件
 │   ├── TrendingPeriodPage # 周报/月报/主题页面共用外壳
-│   ├── TopicSwitcher    # 主题页面顶部的可滚动主题切换器
+│   ├── TopicSwitcher         # 主题页面顶部的可滚动主题切换器
+│   ├── PeriodOverviewSection # 周报/月报预告卡片（按周期呈现不同主题样式）
+│   ├── DailyOverviewSection  # 每日趋势滚动条，链接回首页
+│   ├── RanbotPromoSection    # "RanBOT 家族成员" 跨站推广网格
+│   ├── SubscribeCtaBanner    # 精简版订阅行动号召横幅
+│   ├── SectionDivider        # 首页风格板块之间的短渐变分隔线
 │   └── Settings         # 配置面板
 ├── pages/               # 路由页面
 │   ├── HomePage
 │   ├── DemoPage
 │   ├── WeeklyPage
 │   ├── MonthlyPage
-│   ├── TopicsIndexPage  # /topics —— 全部 19 个主题的网格索引
+│   ├── TopicsIndexPage  # /topics —— 全部 25 个主题的网格索引
 │   ├── TopicPage        # /topics/:slug —— 单个主题的趋势页面
 │   ├── SubscriptionPage
 │   └── NotFoundPage

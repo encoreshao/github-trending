@@ -18,7 +18,7 @@
 
 ## Overview
 
-A modern web application for discovering trending GitHub repositories. Features real-time data fetching, multiple view modes, export capabilities, and a sleek dark theme interface.
+GitHub Trending helps you spot which repositories are gaining momentum — today, this week, this month, or within a specific topic — without scrolling GitHub's own trending page by hand. A CLI script snapshots GitHub's search API on a schedule (via cron) into versioned JSON/CSV files under `docs/`, and a React web app turns those snapshots into a fast, exportable, bilingual browsing experience with 25 curated topic pages spanning languages, frameworks, and fast-moving AI tooling (Claude Code, Codex, Gemini, DeepSeek, and more).
 
 ### Key Features
 
@@ -28,7 +28,7 @@ A modern web application for discovering trending GitHub repositories. Features 
 | **Dual View Modes** | Table view for data analysis, Card view for visual browsing |
 | **Smart Filtering** | Filter by categories, keywords, and 20+ attributes |
 | **Weekly & Monthly Snapshots** | Curated top-20 pages refreshed on a rolling schedule, with week-over-week/month-over-month comparisons |
-| **Topic Pages** | 19 curated topics (AI, React, DevOps, Security, ...), each with its own daily-refreshed trending page and a quick topic switcher |
+| **Topic Pages** | 25 curated topics (AI, React, DevOps, Security, Claude Code, Gemini, DeepSeek, ...), each with its own daily-refreshed trending page and a quick topic switcher |
 | **Personalized Subscriptions** | Pick topics of interest and submit them straight to a Google Sheet |
 | **Cross-Page Discovery** | Homepage, Weekly, Monthly, Topics, Subscribe, and Demo pages link to each other through themed teaser sections, joined by short gradient dividers |
 | **RanBOT Family** | Cross-promo grid linking out to 8 sibling RanBOT products, from hosted apps to open-source scrapers |
@@ -80,7 +80,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 | `/demo` | Interactive repository analysis tool, followed by Daily Trending, Weekly, and Monthly teasers |
 | `/weekly` | Top 20 repos created in the last 30 days, refreshed every Monday — cross-links to Monthly Highlights and Daily Trending |
 | `/monthly` | Top 20 repos created in the last 90 days, refreshed on the 1st of each month — cross-links to Weekly Highlights and a Subscribe CTA |
-| `/topics` | Index of all 19 topics, each linking to its own topic page |
+| `/topics` | Index of all 25 topics, each linking to its own topic page |
 | `/topics/:slug` | Top 20 repos for one topic, created in the last 7 days — includes a topic switcher up top and Daily/Weekly/Monthly overview sections |
 | `/subscribe` | Topic-based subscription setup, submits to Google Sheets, followed by the RanBOT family promo |
 | `*` | Custom 404 page for unmatched or explicitly blocked routes (see `src/blockedRoutes.js`) |
@@ -123,7 +123,7 @@ The list is defined in `src/components/RanbotPromoSection.jsx` — add an entry 
 src/
 ├── api/                 # GitHub API + Google Sheets integration
 ├── data/
-│   └── topics.js        # Single source of truth for the 19 topics (id/name/description/icon)
+│   └── topics.js        # Single source of truth for the 25 topics (id/name/description/icon)
 ├── components/          # Reusable UI components
 │   ├── Header           # Navigation bar
 │   ├── Footer           # Site footer, incl. the full topics link list
@@ -142,7 +142,7 @@ src/
 │   ├── DemoPage
 │   ├── WeeklyPage
 │   ├── MonthlyPage
-│   ├── TopicsIndexPage  # /topics — grid of all 19 topics
+│   ├── TopicsIndexPage  # /topics — grid of all 25 topics
 │   ├── TopicPage        # /topics/:slug — one topic's trending page
 │   ├── SubscriptionPage
 │   └── NotFoundPage
