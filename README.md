@@ -1,6 +1,6 @@
 # GitHub Trending
 
-> Discover and analyze trending GitHub repositories with a beautiful, modern interface.
+> Spot what's gaining momentum on GitHub — daily, weekly, monthly, and across 25 curated topics — without scrolling GitHub's own trending page by hand.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)

@@ -1,6 +1,6 @@
 # GitHub 趋势
 
-> 发现和分析热门 GitHub 仓库，拥有美观现代的界面。
+> 快速发现哪些仓库正在 GitHub 上获得关注——每日、每周、每月，以及 25 个精选主题——无需手动翻阅 GitHub 官方的趋势页面。
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)
