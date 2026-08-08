@@ -31,12 +31,12 @@
       "zero-dependencies"
     ],
     "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stargazers_count": 3357,
+    "stargazers_count": 3436,
     "language": "C",
-    "forks_count": 545,
+    "forks_count": 550,
     "open_issues_count": 5,
     "created_at": "2026-08-01T09:29:38Z",
-    "updated_at": "2026-08-08T04:30:50Z",
+    "updated_at": "2026-08-08T08:09:56Z",
     "pushed_at": "2026-08-07T16:39:26Z"
   },
   {
@@ -141,8 +141,8 @@
     "forks_count": 0,
     "open_issues_count": 1,
     "created_at": "2026-08-03T13:27:15Z",
-    "updated_at": "2026-08-07T10:36:12Z",
-    "pushed_at": "2026-08-05T22:57:27Z"
+    "updated_at": "2026-08-08T05:13:11Z",
+    "pushed_at": "2026-08-08T05:13:06Z"
   },
   {
     "id": 1324892623,
@@ -179,6 +179,34 @@
     "pushed_at": "2026-08-06T12:33:08Z"
   },
   {
+    "id": 1321054368,
+    "name": "Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
+    "full_name": "mahoorifatemeh-byte/Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
+    "owner": {
+      "login": "mahoorifatemeh-byte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245078200?v=4"
+    },
+    "description": "Multi‑agent RL for load balancing across heterogeneous servers, with a learned surrogate model to speed up training. Compares real‑simulator training vs. surrogate‑based training.",
+    "topics": [
+      "deep-learning",
+      "discrete-event-simulation",
+      "dqn",
+      "multi-agent-rl",
+      "pytorch",
+      "queueing-theory",
+      "simpy",
+      "surrogate-models"
+    ],
+    "html_url": "https://github.com/mahoorifatemeh-byte/Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T01:10:48Z",
+    "updated_at": "2026-08-08T01:51:04Z",
+    "pushed_at": "2026-08-08T01:51:00Z"
+  },
+  {
     "id": 1321835093,
     "name": "Scanvidence",
     "full_name": "Scanvidence/Scanvidence",
@@ -210,34 +238,6 @@
     "created_at": "2026-08-03T13:48:04Z",
     "updated_at": "2026-08-07T08:16:43Z",
     "pushed_at": "2026-08-07T08:14:18Z"
-  },
-  {
-    "id": 1321054368,
-    "name": "Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
-    "full_name": "mahoorifatemeh-byte/Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
-    "owner": {
-      "login": "mahoorifatemeh-byte",
-      "avatar_url": "https://avatars.githubusercontent.com/u/245078200?v=4"
-    },
-    "description": "Multi‑agent RL for load balancing across heterogeneous servers, with a learned surrogate model to speed up training. Compares real‑simulator training vs. surrogate‑based training.",
-    "topics": [
-      "deep-learning",
-      "discrete-event-simulation",
-      "dqn",
-      "multi-agent-rl",
-      "pytorch",
-      "queueing-theory",
-      "simpy",
-      "surrogate-models"
-    ],
-    "html_url": "https://github.com/mahoorifatemeh-byte/Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
-    "stargazers_count": 4,
-    "language": "Python",
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-03T01:10:48Z",
-    "updated_at": "2026-08-08T01:51:04Z",
-    "pushed_at": "2026-08-08T01:51:00Z"
   },
   {
     "id": 1319926127,
@@ -388,6 +388,46 @@
     "pushed_at": "2026-08-07T21:26:14Z"
   },
   {
+    "id": 1321369285,
+    "name": "ChestXRay-Disease-Classification",
+    "full_name": "AtomicHalifax/ChestXRay-Disease-Classification",
+    "owner": {
+      "login": "AtomicHalifax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188597710?v=4"
+    },
+    "description": "Multi-label chest X-ray disease classification using DenseNet121 on the Stanford CheXpert dataset with Grad-CAM explainability and comprehensive evaluation.",
+    "topics": [
+      "artificial-intelligence",
+      "chest-xray",
+      "chexpert",
+      "computer-vision",
+      "deep-learning",
+      "densenet121",
+      "explainable-ai",
+      "gradcam",
+      "healthcare-ai",
+      "image-classification",
+      "machine-learning",
+      "medical-ai",
+      "medical-imaging",
+      "multilabel-classification",
+      "python",
+      "pytorch",
+      "standord",
+      "torchvision",
+      "transfer-learning",
+      "xray"
+    ],
+    "html_url": "https://github.com/AtomicHalifax/ChestXRay-Disease-Classification",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T07:09:04Z",
+    "updated_at": "2026-08-06T13:22:50Z",
+    "pushed_at": "2026-08-06T06:06:49Z"
+  },
+  {
     "id": 1321812942,
     "name": "dnnl-notebooks",
     "full_name": "jshn9515/dnnl-notebooks",
@@ -438,46 +478,6 @@
     "created_at": "2026-08-04T18:22:15Z",
     "updated_at": "2026-08-06T19:53:41Z",
     "pushed_at": "2026-08-04T18:37:52Z"
-  },
-  {
-    "id": 1321369285,
-    "name": "ChestXRay-Disease-Classification",
-    "full_name": "AtomicHalifax/ChestXRay-Disease-Classification",
-    "owner": {
-      "login": "AtomicHalifax",
-      "avatar_url": "https://avatars.githubusercontent.com/u/188597710?v=4"
-    },
-    "description": "Multi-label chest X-ray disease classification using DenseNet121 on the Stanford CheXpert dataset with Grad-CAM explainability and comprehensive evaluation.",
-    "topics": [
-      "artificial-intelligence",
-      "chest-xray",
-      "chexpert",
-      "computer-vision",
-      "deep-learning",
-      "densenet121",
-      "explainable-ai",
-      "gradcam",
-      "healthcare-ai",
-      "image-classification",
-      "machine-learning",
-      "medical-ai",
-      "medical-imaging",
-      "multilabel-classification",
-      "python",
-      "pytorch",
-      "standord",
-      "torchvision",
-      "transfer-learning",
-      "xray"
-    ],
-    "html_url": "https://github.com/AtomicHalifax/ChestXRay-Disease-Classification",
-    "stargazers_count": 2,
-    "language": "Jupyter Notebook",
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-03T07:09:04Z",
-    "updated_at": "2026-08-06T13:22:50Z",
-    "pushed_at": "2026-08-06T06:06:49Z"
   },
   {
     "id": 1322189048,

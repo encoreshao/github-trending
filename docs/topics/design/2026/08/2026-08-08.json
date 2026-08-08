@@ -279,34 +279,6 @@
     "pushed_at": "2026-08-08T01:50:44Z"
   },
   {
-    "id": 1320142243,
-    "name": "design-plan-skill",
-    "full_name": "MarkAsir/design-plan-skill",
-    "owner": {
-      "login": "MarkAsir",
-      "avatar_url": "https://avatars.githubusercontent.com/u/39697294?v=4"
-    },
-    "description": "Conduct multiple rounds of review and revision of the design and planning documents until all issues are resolved and closed.",
-    "topics": [
-      "claude-code",
-      "claude-skills",
-      "codex",
-      "codex-skill",
-      "coding",
-      "design",
-      "planning",
-      "skills"
-    ],
-    "html_url": "https://github.com/MarkAsir/design-plan-skill",
-    "stargazers_count": 1,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-02T11:56:29Z",
-    "updated_at": "2026-08-04T08:55:13Z",
-    "pushed_at": "2026-08-04T08:52:22Z"
-  },
-  {
     "id": 1323569097,
     "name": "evidiq-signet-mcp",
     "full_name": "evidiq/evidiq-signet-mcp",
@@ -334,6 +306,34 @@
     "created_at": "2026-08-05T02:58:23Z",
     "updated_at": "2026-08-06T13:14:50Z",
     "pushed_at": "2026-08-05T10:37:49Z"
+  },
+  {
+    "id": 1320142243,
+    "name": "design-plan-skill",
+    "full_name": "MarkAsir/design-plan-skill",
+    "owner": {
+      "login": "MarkAsir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39697294?v=4"
+    },
+    "description": "Conduct multiple rounds of review and revision of the design and planning documents until all issues are resolved and closed.",
+    "topics": [
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "coding",
+      "design",
+      "planning",
+      "skills"
+    ],
+    "html_url": "https://github.com/MarkAsir/design-plan-skill",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T11:56:29Z",
+    "updated_at": "2026-08-04T08:55:13Z",
+    "pushed_at": "2026-08-04T08:52:22Z"
   },
   {
     "id": 1323060194,
@@ -515,63 +515,66 @@
     "pushed_at": "2026-08-02T18:36:37Z"
   },
   {
-    "id": 1323418557,
-    "name": "make-placid-portfolio",
-    "full_name": "mxpf/make-placid-portfolio",
+    "id": 1321568323,
+    "name": "LayerzX",
+    "full_name": "layerzapp/LayerzX",
     "owner": {
-      "login": "mxpf",
-      "avatar_url": "https://avatars.githubusercontent.com/u/546459?v=4"
+      "login": "layerzapp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206666051?v=4"
     },
-    "description": "An elegant, minimalist portfolio template for creative practices.",
+    "description": "Convert Layerz App Designer .layerz files into a standalone Xcode project.",
     "topics": [
       "design",
-      "nextjs",
-      "portfolio",
-      "template"
+      "ios",
+      "iphone",
+      "nocode"
     ],
-    "html_url": "https://github.com/mxpf/make-placid-portfolio",
+    "html_url": "https://github.com/layerzapp/LayerzX",
     "stargazers_count": 0,
-    "language": "TypeScript",
+    "language": "Objective-C",
     "forks_count": 0,
     "open_issues_count": 0,
-    "created_at": "2026-08-04T22:13:21Z",
-    "updated_at": "2026-08-04T22:13:54Z",
-    "pushed_at": "2026-08-04T22:13:28Z"
+    "created_at": "2026-08-03T10:06:44Z",
+    "updated_at": "2026-08-04T00:25:27Z",
+    "pushed_at": "2026-08-04T00:19:53Z"
   },
   {
-    "id": 1323009761,
-    "name": "Canva-PC-Premium-Suite",
-    "full_name": "megs96wapitis/Canva-PC-Premium-Suite",
+    "id": 1322425235,
+    "name": "canvasflow-design-app-v2",
+    "full_name": "Flintglassdeliberation704/canvasflow-design-app-v2",
     "owner": {
-      "login": "megs96wapitis",
-      "avatar_url": "https://avatars.githubusercontent.com/u/312658649?v=4"
+      "login": "Flintglassdeliberation704",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276748622?v=4"
     },
-    "description": "Canva PC – Premium-Tool für professionelle Grafikdesigns mit erweiterten Vorlagen und Funktionen.",
+    "description": "Create graphic designs with shapes, text, images, and templates using this client-side web PWA. Export designs as PNG files.",
     "topics": [
-      "branding",
-      "creative-tools",
+      "canvas",
       "design",
+      "design-systems",
+      "designpatternsphp",
       "desktop-app",
-      "graphics",
-      "photo-editing",
-      "plugins",
-      "presentation",
-      "productivity",
-      "social-media",
-      "software",
-      "templates",
-      "ui-design",
-      "utilities",
-      "video-editing",
-      "windows"
+      "docker",
+      "fastapi",
+      "indesign-scripts",
+      "interview",
+      "php",
+      "postgresql",
+      "python",
+      "seedance",
+      "storyboard",
+      "typescript",
+      "v",
+      "video",
+      "web",
+      "webapp"
     ],
-    "html_url": "https://github.com/megs96wapitis/Canva-PC-Premium-Suite",
+    "html_url": "https://github.com/Flintglassdeliberation704/canvasflow-design-app-v2",
     "stargazers_count": 0,
-    "language": null,
+    "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0,
-    "created_at": "2026-08-04T13:56:03Z",
-    "updated_at": "2026-08-08T04:19:07Z",
-    "pushed_at": "2026-08-08T04:19:03Z"
+    "created_at": "2026-08-04T02:42:17Z",
+    "updated_at": "2026-08-07T07:48:44Z",
+    "pushed_at": "2026-08-07T07:47:58Z"
   }
 ]

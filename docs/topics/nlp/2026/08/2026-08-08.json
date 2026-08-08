@@ -34,10 +34,10 @@
     "stargazers_count": 3,
     "language": "Java",
     "forks_count": 0,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "created_at": "2026-08-05T05:52:39Z",
-    "updated_at": "2026-08-07T00:01:51Z",
-    "pushed_at": "2026-08-07T13:46:22Z"
+    "updated_at": "2026-08-08T05:09:07Z",
+    "pushed_at": "2026-08-08T07:15:15Z"
   },
   {
     "id": 1323491505,
@@ -121,6 +121,36 @@
     "pushed_at": "2026-08-04T18:36:23Z"
   },
   {
+    "id": 1324090761,
+    "name": "finance-text-classifier",
+    "full_name": "Linjianyue-602/finance-text-classifier",
+    "owner": {
+      "login": "Linjianyue-602",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273994969?v=4"
+    },
+    "description": "FinRoute — 金融客服工单智能分发与业务分流系统。基于BERT FinBERT的NLP文本十分类，从5万条数据到API部署的完整闭环。",
+    "topics": [
+      "bert",
+      "chinese-nlp",
+      "deep-learning",
+      "fastapi",
+      "finance",
+      "finbert",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "text-classification"
+    ],
+    "html_url": "https://github.com/Linjianyue-602/finance-text-classifier",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T13:36:36Z",
+    "updated_at": "2026-08-06T00:34:48Z",
+    "pushed_at": "2026-08-05T13:37:17Z"
+  },
+  {
     "id": 1324282611,
     "name": "Semantic-Quora",
     "full_name": "Apoo3va/Semantic-Quora",
@@ -152,6 +182,34 @@
     "created_at": "2026-08-05T16:51:19Z",
     "updated_at": "2026-08-05T19:03:08Z",
     "pushed_at": "2026-08-05T18:28:26Z"
+  },
+  {
+    "id": 1318928353,
+    "name": "luatdo",
+    "full_name": "tamnd/luatdo",
+    "owner": {
+      "login": "tamnd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
+    },
+    "description": "Vietnamese legal knowledge graph: deterministic parsing, ontology-constrained LLM extraction, Neo4j export",
+    "topics": [
+      "golang",
+      "knowledge-graph",
+      "legal",
+      "legaltech",
+      "llm",
+      "neo4j",
+      "nlp",
+      "vietnam"
+    ],
+    "html_url": "https://github.com/tamnd/luatdo",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-08-01T03:25:07Z",
+    "updated_at": "2026-08-07T11:56:20Z",
+    "pushed_at": "2026-08-07T06:59:42Z"
   },
   {
     "id": 1319572336,
@@ -186,64 +244,6 @@
     "created_at": "2026-08-01T19:28:19Z",
     "updated_at": "2026-08-05T19:54:51Z",
     "pushed_at": "2026-08-05T19:53:50Z"
-  },
-  {
-    "id": 1324090761,
-    "name": "finance-text-classifier",
-    "full_name": "Linjianyue-602/finance-text-classifier",
-    "owner": {
-      "login": "Linjianyue-602",
-      "avatar_url": "https://avatars.githubusercontent.com/u/273994969?v=4"
-    },
-    "description": "FinRoute — 金融客服工单智能分发与业务分流系统。基于BERT FinBERT的NLP文本十分类，从5万条数据到API部署的完整闭环。",
-    "topics": [
-      "bert",
-      "chinese-nlp",
-      "deep-learning",
-      "fastapi",
-      "finance",
-      "finbert",
-      "machine-learning",
-      "nlp",
-      "pytorch",
-      "text-classification"
-    ],
-    "html_url": "https://github.com/Linjianyue-602/finance-text-classifier",
-    "stargazers_count": 2,
-    "language": "Python",
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-05T13:36:36Z",
-    "updated_at": "2026-08-06T00:34:48Z",
-    "pushed_at": "2026-08-05T13:37:17Z"
-  },
-  {
-    "id": 1318928353,
-    "name": "luatdo",
-    "full_name": "tamnd/luatdo",
-    "owner": {
-      "login": "tamnd",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
-    },
-    "description": "Vietnamese legal knowledge graph: deterministic parsing, ontology-constrained LLM extraction, Neo4j export",
-    "topics": [
-      "golang",
-      "knowledge-graph",
-      "legal",
-      "legaltech",
-      "llm",
-      "neo4j",
-      "nlp",
-      "vietnam"
-    ],
-    "html_url": "https://github.com/tamnd/luatdo",
-    "stargazers_count": 2,
-    "language": "Go",
-    "forks_count": 0,
-    "open_issues_count": 3,
-    "created_at": "2026-08-01T03:25:07Z",
-    "updated_at": "2026-08-07T11:56:20Z",
-    "pushed_at": "2026-08-07T06:59:42Z"
   },
   {
     "id": 1321512060,
@@ -435,6 +435,41 @@
     "pushed_at": "2026-08-07T02:20:02Z"
   },
   {
+    "id": 1322657898,
+    "name": "ai-engineer-roadmap",
+    "full_name": "BlackPanda999/ai-engineer-roadmap",
+    "owner": {
+      "login": "BlackPanda999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183073702?v=4"
+    },
+    "description": "Free complete AI Engineer roadmap 2026 — 12 month plan with free courses, tools, datasets, and project ideas. Python to LLMs.",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "beginner-guide",
+      "career-roadmap",
+      "deep-learning",
+      "education",
+      "free-resources",
+      "learning-resources",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "nlp",
+      "python",
+      "pytorch",
+      "roadmap"
+    ],
+    "html_url": "https://github.com/BlackPanda999/ai-engineer-roadmap",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T07:38:44Z",
+    "updated_at": "2026-08-04T10:47:36Z",
+    "pushed_at": "2026-08-04T07:38:55Z"
+  },
+  {
     "id": 1322146994,
     "name": "SALARY-BENCHMARKING-PREDICTION",
     "full_name": "Bisiriyu001/SALARY-BENCHMARKING-PREDICTION",
@@ -517,41 +552,6 @@
     "created_at": "2026-08-07T14:29:20Z",
     "updated_at": "2026-08-07T14:32:28Z",
     "pushed_at": "2026-08-07T14:29:44Z"
-  },
-  {
-    "id": 1322657898,
-    "name": "ai-engineer-roadmap",
-    "full_name": "BlackPanda999/ai-engineer-roadmap",
-    "owner": {
-      "login": "BlackPanda999",
-      "avatar_url": "https://avatars.githubusercontent.com/u/183073702?v=4"
-    },
-    "description": "Free complete AI Engineer roadmap 2026 — 12 month plan with free courses, tools, datasets, and project ideas. Python to LLMs.",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "beginner-guide",
-      "career-roadmap",
-      "deep-learning",
-      "education",
-      "free-resources",
-      "learning-resources",
-      "llm",
-      "machine-learning",
-      "mlops",
-      "nlp",
-      "python",
-      "pytorch",
-      "roadmap"
-    ],
-    "html_url": "https://github.com/BlackPanda999/ai-engineer-roadmap",
-    "stargazers_count": 1,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-04T07:38:44Z",
-    "updated_at": "2026-08-04T10:47:36Z",
-    "pushed_at": "2026-08-04T07:38:55Z"
   },
   {
     "id": 1320189463,

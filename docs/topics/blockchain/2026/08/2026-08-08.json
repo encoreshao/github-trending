@@ -125,6 +125,68 @@
     "pushed_at": "2026-08-01T12:07:27Z"
   },
   {
+    "id": 1326613911,
+    "name": "LogisticDigi",
+    "full_name": "Pusparaj99op/LogisticDigi",
+    "owner": {
+      "login": "Pusparaj99op",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168293709?v=4"
+    },
+    "description": "an agent negotiate and execute a multi-step service workflow — discovery, quotes, x402 payments, conditional fulfillment, verification, and final settlement - while keeping business rules, budgets, and approvals visible.",
+    "topics": [
+      "algorand",
+      "blockchain",
+      "logistics",
+      "web3"
+    ],
+    "html_url": "https://github.com/Pusparaj99op/LogisticDigi",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T11:54:28Z",
+    "updated_at": "2026-08-08T07:08:28Z",
+    "pushed_at": "2026-08-08T07:08:24Z"
+  },
+  {
+    "id": 1326241971,
+    "name": "TheGuardCall",
+    "full_name": "Player1205/TheGuardCall",
+    "owner": {
+      "login": "Player1205",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171776762?v=4"
+    },
+    "description": "Never let a phone call ruin a life. GuardCall is an Agentic AI wiretap that intercepts scams before the damage is done. Powered by Groq & Deepgram, it detects real-time extortion and feeds you scripts to terrify the scammer. Complete with PII-scrubbed, 1-click police FIRs and direct integration to India's Sanchar Saathi Chakshu reporting portal.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-security",
+      "blockchain",
+      "cybersecurity",
+      "deepgram",
+      "deepgram-api",
+      "deepgram-stt",
+      "expressj",
+      "framer-motion",
+      "groq",
+      "groq-ai",
+      "groq-api",
+      "mongod",
+      "nodejs",
+      "react",
+      "reactvite"
+    ],
+    "html_url": "https://github.com/Player1205/TheGuardCall",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T05:17:48Z",
+    "updated_at": "2026-08-08T05:26:45Z",
+    "pushed_at": "2026-08-08T05:17:47Z"
+  },
+  {
     "id": 1320144994,
     "name": "uwr",
     "full_name": "dream-pro/uwr",
@@ -283,34 +345,28 @@
     "pushed_at": "2026-08-05T15:56:41Z"
   },
   {
-    "id": 1322322578,
-    "name": "soroban-devkit",
-    "full_name": "naninu123/soroban-devkit",
+    "id": 1322025977,
+    "name": "ai-web3-futuretech-hackathon-2026-lucknow-navonmesh",
+    "full_name": "HackIndiaXYZ/ai-web3-futuretech-hackathon-2026-lucknow-navonmesh",
     "owner": {
-      "login": "naninu123",
-      "avatar_url": "https://avatars.githubusercontent.com/u/103092391?v=4"
+      "login": "HackIndiaXYZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
     },
-    "description": "sdkt — a unified, offline-capable CLI & Rust toolkit for Stellar / Soroban development (decode, inspect, analyze, audit, diff, build, deploy).",
+    "description": "Hackathon team repository for Navonmesh - [hackindia-team:ai-web3-futuretech-hackathon-2026-lucknow:navonmesh]",
     "topics": [
+      "ai-ml",
       "blockchain",
-      "cli",
-      "codegen",
-      "developer-tools",
-      "rust",
-      "security-tools",
-      "smart-contracts",
-      "soroban",
-      "stellar",
+      "open-track",
       "web3"
     ],
-    "html_url": "https://github.com/naninu123/soroban-devkit",
+    "html_url": "https://github.com/HackIndiaXYZ/ai-web3-futuretech-hackathon-2026-lucknow-navonmesh",
     "stargazers_count": 1,
-    "language": "Rust",
+    "language": null,
     "forks_count": 0,
-    "open_issues_count": 5,
-    "created_at": "2026-08-03T23:41:42Z",
-    "updated_at": "2026-08-08T04:14:44Z",
-    "pushed_at": "2026-08-08T04:14:40Z"
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T16:49:24Z",
+    "updated_at": "2026-08-07T10:54:07Z",
+    "pushed_at": "2026-08-03T16:49:25Z"
   },
   {
     "id": 1325279303,
@@ -339,28 +395,34 @@
     "pushed_at": "2026-08-06T13:42:17Z"
   },
   {
-    "id": 1322025977,
-    "name": "ai-web3-futuretech-hackathon-2026-lucknow-navonmesh",
-    "full_name": "HackIndiaXYZ/ai-web3-futuretech-hackathon-2026-lucknow-navonmesh",
+    "id": 1322322578,
+    "name": "soroban-devkit",
+    "full_name": "naninu123/soroban-devkit",
     "owner": {
-      "login": "HackIndiaXYZ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
+      "login": "naninu123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103092391?v=4"
     },
-    "description": "Hackathon team repository for Navonmesh - [hackindia-team:ai-web3-futuretech-hackathon-2026-lucknow:navonmesh]",
+    "description": "sdkt — a unified, offline-capable CLI & Rust toolkit for Stellar / Soroban development (decode, inspect, analyze, audit, diff, build, deploy).",
     "topics": [
-      "ai-ml",
       "blockchain",
-      "open-track",
+      "cli",
+      "codegen",
+      "developer-tools",
+      "rust",
+      "security-tools",
+      "smart-contracts",
+      "soroban",
+      "stellar",
       "web3"
     ],
-    "html_url": "https://github.com/HackIndiaXYZ/ai-web3-futuretech-hackathon-2026-lucknow-navonmesh",
+    "html_url": "https://github.com/naninu123/soroban-devkit",
     "stargazers_count": 1,
-    "language": null,
+    "language": "Rust",
     "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-03T16:49:24Z",
-    "updated_at": "2026-08-07T10:54:07Z",
-    "pushed_at": "2026-08-03T16:49:25Z"
+    "open_issues_count": 5,
+    "created_at": "2026-08-03T23:41:42Z",
+    "updated_at": "2026-08-08T06:34:20Z",
+    "pushed_at": "2026-08-08T06:34:16Z"
   },
   {
     "id": 1320534448,
@@ -449,158 +511,92 @@
     "pushed_at": "2026-08-01T21:19:44Z"
   },
   {
-    "id": 1319270039,
-    "name": "MemoryChain-Personal-Memory-Vault",
-    "full_name": "syedsaqlain-tech/MemoryChain-Personal-Memory-Vault",
+    "id": 1319732202,
+    "name": "lrgk",
+    "full_name": "Bloodstone-Team/lrgk",
     "owner": {
-      "login": "syedsaqlain-tech",
-      "avatar_url": "https://avatars.githubusercontent.com/u/302737113?v=4"
+      "login": "Bloodstone-Team",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310946933?v=4"
     },
-    "description": "A blockchain-based personal memory vault built with Flask, MySQL, Ethereum (Ganache), Solidity, HTML, CSS, and JavaScript for secure memory storage and file verification.",
+    "description": "LRGK open-source node",
     "topics": [
-      "bca-project",
       "blockchain",
-      "ethereum",
-      "flask",
-      "full-stack",
-      "hardhat",
-      "mysql",
-      "python",
-      "solidity",
-      "web3"
+      "bloodstone",
+      "cryptocurrency",
+      "full-node",
+      "lrgk",
+      "open-source"
     ],
-    "html_url": "https://github.com/syedsaqlain-tech/MemoryChain-Personal-Memory-Vault",
+    "html_url": "https://github.com/Bloodstone-Team/lrgk",
     "stargazers_count": 0,
-    "language": "Python",
+    "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0,
-    "created_at": "2026-08-01T12:18:56Z",
-    "updated_at": "2026-08-01T18:16:24Z",
-    "pushed_at": "2026-08-01T18:16:21Z"
+    "created_at": "2026-08-02T01:30:58Z",
+    "updated_at": "2026-08-02T01:31:33Z",
+    "pushed_at": "2026-08-02T01:31:22Z"
   },
   {
-    "id": 1321944950,
-    "name": "Adaptive-Risk-Bridge",
-    "full_name": "ShaheerHabib12/Adaptive-Risk-Bridge",
+    "id": 1324706345,
+    "name": "crypto-wallet-tool",
+    "full_name": "ronenrosicrucian645/crypto-wallet-tool",
     "owner": {
-      "login": "ShaheerHabib12",
-      "avatar_url": "https://avatars.githubusercontent.com/u/220114295?v=4"
+      "login": "ronenrosicrucian645",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276346625?v=4"
     },
-    "description": "Adaptive Risk-Aware Trust-Minimized Cross-Chain Bridge using Dynamic Validator Selection and Zero-Knowledge Verification on Ethereum Sepolia.",
+    "description": "Manage your crypto assets on Windows: import, edit, export, and configure wallets with Crypto Wallet Tool.",
     "topics": [
-      "academic",
-      "academic-research",
       "blockchain",
-      "bridge",
-      "cross-chain",
-      "cross-chain-bridge",
-      "cryptography",
-      "cryptography-algorithms",
-      "distributed-systems",
-      "ethereum",
-      "ethereum-blockchain",
-      "ethereum-contract",
-      "ethereum-sepolia",
-      "hardhat",
-      "research",
-      "security",
-      "smart-contracts",
-      "solidity",
-      "zero-knowledge",
-      "zk-proof"
-    ],
-    "html_url": "https://github.com/ShaheerHabib12/Adaptive-Risk-Bridge",
-    "stargazers_count": 0,
-    "language": "JavaScript",
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-03T15:33:37Z",
-    "updated_at": "2026-08-03T19:30:22Z",
-    "pushed_at": "2026-08-03T19:08:37Z"
-  },
-  {
-    "id": 1322412112,
-    "name": "evm-abi-fetcher",
-    "full_name": "miasus-agentic/evm-abi-fetcher",
-    "owner": {
-      "login": "miasus-agentic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/286223554?v=4"
-    },
-    "description": "Fetch, cache, decode, and encode EVM contract ABIs from Etherscan, Sourcify, Blockscout",
-    "topics": [
-      "abi",
-      "blockchain",
-      "blockscout",
+      "bnb-bruteforce",
+      "bot",
+      "bruteforce",
+      "bruteforce-wallet",
+      "btc",
       "cli",
-      "decoder",
+      "cryptocurrencies",
+      "cryptocurrency",
+      "cryptowallet",
+      "cw",
+      "erc20",
       "ethereum",
-      "etherscan",
-      "evm",
-      "python",
-      "smart-contract",
-      "sourcify",
+      "ethereum-wallet",
+      "matic",
+      "metamask",
+      "polygon-wallet",
+      "solidity",
+      "walletconnect",
       "web3"
     ],
-    "html_url": "https://github.com/miasus-agentic/evm-abi-fetcher",
+    "html_url": "https://github.com/ronenrosicrucian645/crypto-wallet-tool",
     "stargazers_count": 0,
-    "language": "Python",
+    "language": null,
     "forks_count": 0,
     "open_issues_count": 0,
-    "created_at": "2026-08-04T02:21:57Z",
-    "updated_at": "2026-08-04T02:23:07Z",
-    "pushed_at": "2026-08-04T02:22:54Z"
+    "created_at": "2026-08-06T03:40:49Z",
+    "updated_at": "2026-08-07T11:44:48Z",
+    "pushed_at": "2026-08-07T11:44:35Z"
   },
   {
-    "id": 1324832779,
-    "name": "ai-web3-futuretech-hackathon-2026-lucknow-ctrl-a-elite",
-    "full_name": "HackIndiaXYZ/ai-web3-futuretech-hackathon-2026-lucknow-ctrl-a-elite",
+    "id": 1326888303,
+    "name": "hackindia-appinventiv-ai-hackathon-2026-rootpair",
+    "full_name": "HackIndiaXYZ/hackindia-appinventiv-ai-hackathon-2026-rootpair",
     "owner": {
       "login": "HackIndiaXYZ",
       "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
     },
-    "description": "Hackathon team repository for Ctrl A Elite - [hackindia-team:ai-web3-futuretech-hackathon-2026-lucknow:ctrl-a-elite]",
+    "description": "Hackathon team repository for ROOT&PAIR - [hackindia-team:hackindia-appinventiv-ai-hackathon-2026:rootpair]",
     "topics": [
-      "ai-ml",
+      "artificial-intelligence-and-machine-learning",
       "blockchain",
-      "open-track",
-      "web3"
+      "finance"
     ],
-    "html_url": "https://github.com/HackIndiaXYZ/ai-web3-futuretech-hackathon-2026-lucknow-ctrl-a-elite",
+    "html_url": "https://github.com/HackIndiaXYZ/hackindia-appinventiv-ai-hackathon-2026-rootpair",
     "stargazers_count": 0,
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0,
-    "created_at": "2026-08-06T06:30:27Z",
-    "updated_at": "2026-08-06T06:30:52Z",
-    "pushed_at": "2026-08-06T06:30:28Z"
-  },
-  {
-    "id": 1319009421,
-    "name": "props",
-    "full_name": "api-evangelist/props",
-    "owner": {
-      "login": "api-evangelist",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3026872?v=4"
-    },
-    "description": "Props (Props Project, operated by Props PBC / Open Props, founded by YouNow's Adi Sideman) was a blockchain-based loyalty and rewards network that let consumer apps grant users a shared crypto token (the Props Token) as a stake in the networks they helped grow.",
-    "topics": [
-      "apis-json",
-      "blockchain",
-      "company",
-      "consumer-apps",
-      "cryptocurrency",
-      "defunct",
-      "loyalty-rewards",
-      "tokens",
-      "web3"
-    ],
-    "html_url": "https://github.com/api-evangelist/props",
-    "stargazers_count": 0,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "created_at": "2026-08-01T05:52:05Z",
-    "updated_at": "2026-08-08T01:34:44Z",
-    "pushed_at": "2026-08-08T01:34:40Z"
+    "created_at": "2026-08-07T15:58:42Z",
+    "updated_at": "2026-08-07T16:01:46Z",
+    "pushed_at": "2026-08-07T15:58:43Z"
   }
 ]

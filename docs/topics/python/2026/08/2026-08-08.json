@@ -21,12 +21,12 @@
       "workflow-runtime"
     ],
     "html_url": "https://github.com/alikon-art/DeterminFlow",
-    "stargazers_count": 255,
+    "stargazers_count": 257,
     "language": "Python",
-    "forks_count": 38,
+    "forks_count": 37,
     "open_issues_count": 5,
     "created_at": "2026-08-02T07:40:51Z",
-    "updated_at": "2026-08-08T04:30:09Z",
+    "updated_at": "2026-08-08T06:57:12Z",
     "pushed_at": "2026-08-07T11:31:31Z"
   },
   {
@@ -46,12 +46,12 @@
       "python"
     ],
     "html_url": "https://github.com/waiterve/wai-play",
-    "stargazers_count": 158,
+    "stargazers_count": 171,
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0,
     "created_at": "2026-08-04T07:20:22Z",
-    "updated_at": "2026-08-08T04:21:28Z",
+    "updated_at": "2026-08-08T06:45:20Z",
     "pushed_at": "2026-08-04T09:03:05Z"
   },
   {
@@ -143,6 +143,32 @@
     "created_at": "2026-08-01T05:54:08Z",
     "updated_at": "2026-08-07T13:34:24Z",
     "pushed_at": "2026-08-07T01:20:47Z"
+  },
+  {
+    "id": 1319619796,
+    "name": "codex5.6-coldbrew",
+    "full_name": "tingweiy10-pixel/codex5.6-coldbrew",
+    "owner": {
+      "login": "tingweiy10-pixel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285964081?v=4"
+    },
+    "description": "Codex 破甲 · 冷咖啡 / ColdBrew | 原创 Codex 指令增强、可逆部署与本地审查链 Studio | QQ群：1057540028 / 1077074552",
+    "topics": [
+      "codex",
+      "coldbrew",
+      "instruction-enhancement",
+      "one-click-deployment",
+      "python",
+      "qq-community"
+    ],
+    "html_url": "https://github.com/tingweiy10-pixel/codex5.6-coldbrew",
+    "stargazers_count": 75,
+    "language": "Python",
+    "forks_count": 21,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T20:56:55Z",
+    "updated_at": "2026-08-08T07:51:22Z",
+    "pushed_at": "2026-08-08T07:51:55Z"
   },
   {
     "id": 1325434588,
@@ -278,6 +304,41 @@
     "pushed_at": "2026-08-07T16:03:15Z"
   },
   {
+    "id": 1326836323,
+    "name": "jarvis-assistant-vocal",
+    "full_name": "sosoj92/jarvis-assistant-vocal",
+    "owner": {
+      "login": "sosoj92",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195681327?v=4"
+    },
+    "description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.",
+    "topics": [
+      "anthropic-claude",
+      "browser-automation",
+      "home-automation",
+      "jarvis",
+      "local-ai",
+      "mcp",
+      "mcp-server",
+      "obs",
+      "ollama",
+      "philips-hue",
+      "playwright",
+      "python",
+      "twilio",
+      "voice-assistant",
+      "whisper"
+    ],
+    "html_url": "https://github.com/sosoj92/jarvis-assistant-vocal",
+    "stargazers_count": 44,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T15:30:20Z",
+    "updated_at": "2026-08-08T07:51:32Z",
+    "pushed_at": "2026-08-07T20:17:06Z"
+  },
+  {
     "id": 1321156841,
     "name": "grade-images",
     "full_name": "liwushu128-debug/grade-images",
@@ -342,41 +403,6 @@
     "created_at": "2026-08-04T05:26:52Z",
     "updated_at": "2026-08-08T01:17:48Z",
     "pushed_at": "2026-08-05T17:21:27Z"
-  },
-  {
-    "id": 1326836323,
-    "name": "jarvis-assistant-vocal",
-    "full_name": "sosoj92/jarvis-assistant-vocal",
-    "owner": {
-      "login": "sosoj92",
-      "avatar_url": "https://avatars.githubusercontent.com/u/195681327?v=4"
-    },
-    "description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.",
-    "topics": [
-      "anthropic-claude",
-      "browser-automation",
-      "home-automation",
-      "jarvis",
-      "local-ai",
-      "mcp",
-      "mcp-server",
-      "obs",
-      "ollama",
-      "philips-hue",
-      "playwright",
-      "python",
-      "twilio",
-      "voice-assistant",
-      "whisper"
-    ],
-    "html_url": "https://github.com/sosoj92/jarvis-assistant-vocal",
-    "stargazers_count": 30,
-    "language": "Python",
-    "forks_count": 5,
-    "open_issues_count": 0,
-    "created_at": "2026-08-07T15:30:20Z",
-    "updated_at": "2026-08-08T03:38:35Z",
-    "pushed_at": "2026-08-07T20:17:06Z"
   },
   {
     "id": 1319105810,
@@ -522,8 +548,48 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "created_at": "2026-08-01T06:12:18Z",
-    "updated_at": "2026-08-08T03:53:09Z",
-    "pushed_at": "2026-08-08T03:53:05Z"
+    "updated_at": "2026-08-08T08:03:42Z",
+    "pushed_at": "2026-08-08T08:03:26Z"
+  },
+  {
+    "id": 1325924779,
+    "name": "python-backend-qna-fa",
+    "full_name": "moeinrezai/python-backend-qna-fa",
+    "owner": {
+      "login": "moeinrezai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164065593?v=4"
+    },
+    "description": "مجموعه‌ای از پرسش‌ها و پاسخ‌های فارسی درباره مسائل واقعی Python Backend Development با تمرکز بر  Django، DRF و FastAPI.",
+    "topics": [
+      "alembic",
+      "alembic-migration",
+      "celery",
+      "django",
+      "django-project",
+      "djangorestframework",
+      "docker-compose",
+      "docker-container",
+      "drf-simplejwt",
+      "fastapi",
+      "jwt",
+      "jwt-authentication",
+      "jwt-authorization",
+      "postgresql",
+      "pydantic",
+      "pytest",
+      "python",
+      "redis",
+      "sql",
+      "sqlalchemy"
+    ],
+    "html_url": "https://github.com/moeinrezai/python-backend-qna-fa",
+    "stargazers_count": 12,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T21:52:33Z",
+    "updated_at": "2026-08-08T07:49:09Z",
+    "pushed_at": "2026-08-08T07:35:58Z"
   },
   {
     "id": 1319698784,
@@ -564,68 +630,5 @@
     "created_at": "2026-08-02T00:02:19Z",
     "updated_at": "2026-08-06T20:45:26Z",
     "pushed_at": "2026-08-04T19:14:33Z"
-  },
-  {
-    "id": 1323613463,
-    "name": "schinza-wechat-certificate",
-    "full_name": "Alexxxxxxxxxxxxy/schinza-wechat-certificate",
-    "owner": {
-      "login": "Alexxxxxxxxxxxxy",
-      "avatar_url": "https://avatars.githubusercontent.com/u/160309075?v=4"
-    },
-    "description": "最新微信公众号文章抓取工具，修复7月29号微信公众号接口下架后不能抓取的问题",
-    "topics": [
-      "crawler",
-      "python",
-      "wechat"
-    ],
-    "html_url": "https://github.com/Alexxxxxxxxxxxxy/schinza-wechat-certificate",
-    "stargazers_count": 10,
-    "language": "Python",
-    "forks_count": 1,
-    "open_issues_count": 0,
-    "created_at": "2026-08-05T04:09:13Z",
-    "updated_at": "2026-08-08T03:20:11Z",
-    "pushed_at": "2026-08-08T03:21:23Z"
-  },
-  {
-    "id": 1325924779,
-    "name": "python-backend-qna-fa",
-    "full_name": "moeinrezai/python-backend-qna-fa",
-    "owner": {
-      "login": "moeinrezai",
-      "avatar_url": "https://avatars.githubusercontent.com/u/164065593?v=4"
-    },
-    "description": "مجموعه‌ای از پرسش‌ها و پاسخ‌های فارسی درباره مسائل واقعی Python Backend Development با تمرکز بر  Django، DRF و FastAPI.",
-    "topics": [
-      "alembic",
-      "alembic-migration",
-      "celery",
-      "django",
-      "django-project",
-      "djangorestframework",
-      "docker-compose",
-      "docker-container",
-      "drf-simplejwt",
-      "fastapi",
-      "jwt",
-      "jwt-authentication",
-      "jwt-authorization",
-      "postgresql",
-      "pydantic",
-      "pytest",
-      "python",
-      "redis",
-      "sql",
-      "sqlalchemy"
-    ],
-    "html_url": "https://github.com/moeinrezai/python-backend-qna-fa",
-    "stargazers_count": 9,
-    "language": null,
-    "forks_count": 1,
-    "open_issues_count": 0,
-    "created_at": "2026-08-06T21:52:33Z",
-    "updated_at": "2026-08-07T22:58:48Z",
-    "pushed_at": "2026-08-07T22:15:38Z"
   }
 ]
