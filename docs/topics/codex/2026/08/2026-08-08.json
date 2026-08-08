@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1319609477,
+    "name": "humanizer-cli",
+    "full_name": "0xwilliamortiz/humanizer-cli",
+    "owner": {
+      "login": "0xwilliamortiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
+    },
+    "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+    "topics": [
+      "ai-slop",
+      "ai-slop-detection",
+      "ai-slop-detector",
+      "ai-slop-fixer",
+      "ai-slop-remover",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-cli",
+      "codex-plugin",
+      "codex-skill",
+      "human",
+      "humanization",
+      "humanize",
+      "humanize-ai",
+      "humanize-ai-text",
+      "humanize-text",
+      "humanized",
+      "humanizer"
+    ],
+    "html_url": "https://github.com/0xwilliamortiz/humanizer-cli",
+    "stargazers_count": 585,
+    "language": "JavaScript",
+    "forks_count": 72,
+    "open_issues_count": 1,
+    "created_at": "2026-08-01T20:36:27Z",
+    "updated_at": "2026-08-07T20:44:30Z",
+    "pushed_at": "2026-08-04T19:49:02Z"
+  },
+  {
+    "id": 1324285410,
+    "name": "claude-red",
+    "full_name": "0xwilliamortiz/claude-red",
+    "owner": {
+      "login": "0xwilliamortiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
+    },
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "topics": [
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "redteam",
+      "redteaming",
+      "skill",
+      "skills"
+    ],
+    "html_url": "https://github.com/0xwilliamortiz/claude-red",
+    "stargazers_count": 571,
+    "language": "JavaScript",
+    "forks_count": 71,
+    "open_issues_count": 1,
+    "created_at": "2026-08-05T16:54:36Z",
+    "updated_at": "2026-08-08T07:59:45Z",
+    "pushed_at": "2026-08-06T17:06:40Z"
+  },
+  {
+    "id": 1322509558,
+    "name": "LongHorizon-Harness",
+    "full_name": "AMAP-ML/LongHorizon-Harness",
+    "owner": {
+      "login": "AMAP-ML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
+    },
+    "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+    "topics": [
+      "agent",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "cli",
+      "codex",
+      "codex-desktop",
+      "codex-plugin",
+      "cua",
+      "gui",
+      "harness",
+      "long-horizon",
+      "long-horizon-agents",
+      "longhorizon-harness",
+      "loop",
+      "loop-engineering"
+    ],
+    "html_url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+    "stargazers_count": 397,
+    "language": "Python",
+    "forks_count": 43,
+    "open_issues_count": 5,
+    "created_at": "2026-08-04T04:30:58Z",
+    "updated_at": "2026-08-08T06:34:52Z",
+    "pushed_at": "2026-08-07T09:03:51Z"
+  },
+  {
+    "id": 1319174653,
+    "name": "agent-vision-toolkit",
+    "full_name": "Anionex/agent-vision-toolkit",
+    "owner": {
+      "login": "Anionex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123177548?v=4"
+    },
+    "description": "为纯文本模型\"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
+    "topics": [
+      "agent",
+      "agent-skills",
+      "claude-code",
+      "cli",
+      "codex",
+      "computer-use",
+      "deepseek",
+      "glm",
+      "harness-engineering",
+      "kimi",
+      "llm",
+      "multimodal",
+      "opencode",
+      "text-only-llm",
+      "vision",
+      "vision-language-model"
+    ],
+    "html_url": "https://github.com/Anionex/agent-vision-toolkit",
+    "stargazers_count": 351,
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 3,
+    "created_at": "2026-08-01T10:00:13Z",
+    "updated_at": "2026-08-08T07:51:47Z",
+    "pushed_at": "2026-08-07T06:11:30Z"
+  },
+  {
+    "id": 1320270455,
+    "name": "travel-photo-abstraction",
+    "full_name": "Evianis/travel-photo-abstraction",
+    "owner": {
+      "login": "Evianis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104435191?v=4"
+    },
+    "description": "A source-available Codex skill for distilling photographs into sparse editorial abstractions.",
+    "topics": [
+      "codex",
+      "codex-skill",
+      "image-generation",
+      "visual-analysis"
+    ],
+    "html_url": "https://github.com/Evianis/travel-photo-abstraction",
+    "stargazers_count": 191,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T14:37:39Z",
+    "updated_at": "2026-08-08T06:51:24Z",
+    "pushed_at": "2026-08-03T00:24:09Z"
+  },
+  {
+    "id": 1321050149,
+    "name": "hbg-classical-poem-silk-video",
+    "full_name": "Mr-funny/hbg-classical-poem-silk-video",
+    "owner": {
+      "login": "Mr-funny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26950296?v=4"
+    },
+    "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
+    "topics": [
+      "agent-skill",
+      "chinese-poetry",
+      "codex",
+      "docker",
+      "ffmpeg",
+      "generative-ai",
+      "image-to-video"
+    ],
+    "html_url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
+    "stargazers_count": 187,
+    "language": "Shell",
+    "forks_count": 29,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T01:04:46Z",
+    "updated_at": "2026-08-07T11:58:14Z",
+    "pushed_at": "2026-08-03T01:07:34Z"
+  },
+  {
+    "id": 1318937120,
+    "name": "hbg-life-simulation",
+    "full_name": "Mr-funny/hbg-life-simulation",
+    "owner": {
+      "login": "Mr-funny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26950296?v=4"
+    },
+    "description": "HBG Agent Skill for Chinese life-simulation narrative videos with consistent comic IP, rapid multi-life openings, Edge TTS, synchronized captions, zoom/pan motion and final MP4 QA.",
+    "topics": [
+      "agent-skill",
+      "chinese",
+      "codex",
+      "edge-tts",
+      "hyperframes",
+      "imagegen",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/Mr-funny/hbg-life-simulation",
+    "stargazers_count": 122,
+    "language": "JavaScript",
+    "forks_count": 21,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T03:41:06Z",
+    "updated_at": "2026-08-08T05:55:02Z",
+    "pushed_at": "2026-08-05T15:37:52Z"
+  },
+  {
+    "id": 1323130935,
+    "name": "codex-deepseek-subagent",
+    "full_name": "Utopia-V/codex-deepseek-subagent",
+    "owner": {
+      "login": "Utopia-V",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195247624?v=4"
+    },
+    "description": "Run DeepSeek V4 Flash as a native Codex subagent without replacing the OpenAI main agent.",
+    "topics": [
+      "codex",
+      "deepseek",
+      "multi-agent",
+      "responses-api",
+      "subagent"
+    ],
+    "html_url": "https://github.com/Utopia-V/codex-deepseek-subagent",
+    "stargazers_count": 111,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 5,
+    "created_at": "2026-08-04T15:58:55Z",
+    "updated_at": "2026-08-08T03:24:50Z",
+    "pushed_at": "2026-08-05T16:04:00Z"
+  },
+  {
+    "id": 1320339732,
+    "name": "debroid",
+    "full_name": "PatilShreyas/debroid",
+    "owner": {
+      "login": "PatilShreyas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19620536?v=4"
+    },
+    "description": "Autonomous, headless Android debugger designed for AI coding agents. Inspect runtime memory, set breakpoints, and debug live apps.",
+    "topics": [
+      "agentic-ai",
+      "android",
+      "antigravity",
+      "claude-code",
+      "cli",
+      "codex",
+      "debugger",
+      "debugging",
+      "debugging-tool",
+      "developer-tools",
+      "java",
+      "kotlin"
+    ],
+    "html_url": "https://github.com/PatilShreyas/debroid",
+    "stargazers_count": 90,
+    "language": "Kotlin",
+    "forks_count": 4,
+    "open_issues_count": 3,
+    "created_at": "2026-08-02T15:58:29Z",
+    "updated_at": "2026-08-08T07:27:02Z",
+    "pushed_at": "2026-08-08T07:26:56Z"
+  },
+  {
+    "id": 1318882771,
+    "name": "project-mentor",
+    "full_name": "uczltw6/project-mentor",
+    "owner": {
+      "login": "uczltw6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62146150?v=4"
+    },
+    "description": "Turn real coding projects into evidence-grounded, just-in-time learning.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "developer-tools",
+      "education",
+      "learning"
+    ],
+    "html_url": "https://github.com/uczltw6/project-mentor",
+    "stargazers_count": 81,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T01:50:00Z",
+    "updated_at": "2026-08-08T06:24:04Z",
+    "pushed_at": "2026-08-02T09:57:50Z"
+  },
+  {
+    "id": 1319619796,
+    "name": "codex5.6-coldbrew",
+    "full_name": "tingweiy10-pixel/codex5.6-coldbrew",
+    "owner": {
+      "login": "tingweiy10-pixel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285964081?v=4"
+    },
+    "description": "Codex 破甲 · 冷咖啡 / ColdBrew | 原创 Codex 指令增强、可逆部署与本地审查链 Studio | QQ群：1057540028 / 1077074552",
+    "topics": [
+      "codex",
+      "coldbrew",
+      "instruction-enhancement",
+      "one-click-deployment",
+      "python",
+      "qq-community"
+    ],
+    "html_url": "https://github.com/tingweiy10-pixel/codex5.6-coldbrew",
+    "stargazers_count": 75,
+    "language": "Python",
+    "forks_count": 21,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T20:56:55Z",
+    "updated_at": "2026-08-08T07:51:22Z",
+    "pushed_at": "2026-08-08T07:51:55Z"
+  },
+  {
+    "id": 1319312065,
+    "name": "impeccable-lite",
+    "full_name": "ilindaniel/impeccable-lite",
+    "owner": {
+      "login": "ilindaniel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25451549?v=4"
+    },
+    "description": "Stop agents from designing sloppy UI. Inspired by Impeccable, but without the plugin machinery. Just one SKILL.md file.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "cursor-rules",
+      "developer-tools",
+      "kiss",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "html_url": "https://github.com/ilindaniel/impeccable-lite",
+    "stargazers_count": 62,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T13:21:45Z",
+    "updated_at": "2026-08-07T09:33:41Z",
+    "pushed_at": "2026-08-01T15:41:27Z"
+  },
+  {
+    "id": 1321156841,
+    "name": "grade-images",
+    "full_name": "liwushu128-debug/grade-images",
+    "owner": {
+      "login": "liwushu128-debug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253473862?v=4"
+    },
+    "description": "Grade Image / Grade Images — deterministic, non-generative photo color grading and RAW development for Codex with strict structure, identity, and texture preservation.",
+    "topics": [
+      "batch-processing",
+      "codex",
+      "codex-skill",
+      "color-correction",
+      "color-correction-and-grading",
+      "color-grading",
+      "color-management",
+      "deterministic",
+      "grade-image",
+      "grade-images",
+      "image-analysis",
+      "image-grading",
+      "image-processing",
+      "non-generative",
+      "openai-codex",
+      "photo-editing",
+      "photography",
+      "python",
+      "raw-image-processing",
+      "reference-matching"
+    ],
+    "html_url": "https://github.com/liwushu128-debug/grade-images",
+    "stargazers_count": 41,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 5,
+    "created_at": "2026-08-03T03:22:30Z",
+    "updated_at": "2026-08-07T21:04:26Z",
+    "pushed_at": "2026-08-06T09:08:12Z"
+  },
+  {
+    "id": 1319741629,
+    "name": "worklouder-input-cli",
+    "full_name": "MarlinDiary/worklouder-input-cli",
+    "owner": {
+      "login": "MarlinDiary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50492264?v=4"
+    },
+    "description": "Full-configuration CLI for Codex Micro and Work Louder Input: profiles, layers, keymaps, actions, provider handoff, verified apply, and rollback.",
+    "topics": [
+      "ai-agents",
+      "backup",
+      "cli",
+      "codex",
+      "codex-micro",
+      "codex-micro-cli",
+      "command-line",
+      "configuration-management",
+      "developer-tools",
+      "keyboard-configurator",
+      "keymap",
+      "macos",
+      "macropad",
+      "micro",
+      "open-source",
+      "rollback",
+      "smart-actions",
+      "work-louder",
+      "worklouder",
+      "worklouder-input"
+    ],
+    "html_url": "https://github.com/MarlinDiary/worklouder-input-cli",
+    "stargazers_count": 39,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T01:54:24Z",
+    "updated_at": "2026-08-08T07:45:28Z",
+    "pushed_at": "2026-08-05T03:30:20Z"
+  },
+  {
+    "id": 1318893208,
+    "name": "memorax-code",
+    "full_name": "memorax-ai/memorax-code",
+    "owner": {
+      "login": "memorax-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272675989?v=4"
+    },
+    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-memory",
+      "developer-tools",
+      "memorax",
+      "typescript"
+    ],
+    "html_url": "https://github.com/memorax-ai/memorax-code",
+    "stargazers_count": 33,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-01T02:13:37Z",
+    "updated_at": "2026-08-07T13:31:49Z",
+    "pushed_at": "2026-08-03T10:07:22Z"
+  },
+  {
+    "id": 1321275205,
+    "name": "pristine-skill",
+    "full_name": "newbanser/pristine-skill",
+    "owner": {
+      "login": "newbanser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279378443?v=4"
+    },
+    "description": "An agent skill enforcing the First-Time Principle: write every change in its final form — no patches, no what-comments, no leftovers, no local/deployed drift. Cross-platform: Claude Code, Codex, OpenCode.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-principles",
+      "opencode"
+    ],
+    "html_url": "https://github.com/newbanser/pristine-skill",
+    "stargazers_count": 29,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T05:36:51Z",
+    "updated_at": "2026-08-08T05:26:23Z",
+    "pushed_at": "2026-08-08T05:26:19Z"
+  },
+  {
+    "id": 1324853220,
+    "name": "bubble-agent-mcp",
+    "full_name": "alijancb/bubble-agent-mcp",
+    "owner": {
+      "login": "alijancb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97835009?v=4"
+    },
+    "description": "Open-source MCP server for discovering fast-growing internet conversations with Bubble Agent",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "codex",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/alijancb/bubble-agent-mcp",
+    "stargazers_count": 27,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-08-06T06:50:40Z",
+    "updated_at": "2026-08-08T05:24:59Z",
+    "pushed_at": "2026-08-07T08:25:26Z"
+  },
+  {
+    "id": 1323487520,
+    "name": "hud-mode",
+    "full_name": "adrida/hud-mode",
+    "owner": {
+      "login": "adrida",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26824656?v=4"
+    },
+    "description": "A compact heads-up display for your coding agent. Instruments while it works, the answer when it stops. Claude Code, Codex, OpenCode.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "opencode",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/adrida/hud-mode",
+    "stargazers_count": 26,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T00:33:45Z",
+    "updated_at": "2026-08-07T14:57:56Z",
+    "pushed_at": "2026-08-05T04:51:46Z"
+  },
+  {
+    "id": 1323045322,
+    "name": "director-skills",
+    "full_name": "kangarooking/director-skills",
+    "owner": {
+      "login": "kangarooking",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52196004?v=4"
+    },
+    "description": "导演Skill：面向 AI 视频创作的开源 Agent Skills | Director Skills: Open-source Agent Skills for AI video creation.",
+    "topics": [
+      "agent-skills",
+      "ai-video",
+      "claude-code",
+      "codex",
+      "filmmaking",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/kangarooking/director-skills",
+    "stargazers_count": 25,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T14:30:58Z",
+    "updated_at": "2026-08-07T10:46:04Z",
+    "pushed_at": "2026-08-04T15:38:47Z"
+  },
+  {
+    "id": 1324858135,
+    "name": "macos-disk-cleanup",
+    "full_name": "himynameisben/macos-disk-cleanup",
+    "owner": {
+      "login": "himynameisben",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64573117?v=4"
+    },
+    "description": "給 Claude Code、Codex 等 agent 用的 macOS 磁碟清理 skill：診斷「系統資料」佔用、唯讀掃描腳本、以及 10 個會造成誤判或資料損失的陷阱",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-skill",
+      "codex",
+      "disk-cleanup",
+      "macos"
+    ],
+    "html_url": "https://github.com/himynameisben/macos-disk-cleanup",
+    "stargazers_count": 25,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T06:56:40Z",
+    "updated_at": "2026-08-08T05:45:13Z",
+    "pushed_at": "2026-08-06T07:28:59Z"
+  }
+]
