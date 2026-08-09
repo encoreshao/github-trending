@@ -1,0 +1,586 @@
+[
+  {
+    "id": 1324285410,
+    "name": "claude-red",
+    "full_name": "0xwilliamortiz/claude-red",
+    "owner": {
+      "login": "0xwilliamortiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
+    },
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "topics": [
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "redteam",
+      "redteaming",
+      "skill",
+      "skills"
+    ],
+    "html_url": "https://github.com/0xwilliamortiz/claude-red",
+    "stargazers_count": 683,
+    "language": "JavaScript",
+    "forks_count": 87,
+    "open_issues_count": 1,
+    "created_at": "2026-08-05T16:54:36Z",
+    "updated_at": "2026-08-09T13:49:18Z",
+    "pushed_at": "2026-08-09T01:21:30Z"
+  },
+  {
+    "id": 1322509558,
+    "name": "LongHorizon-Harness",
+    "full_name": "AMAP-ML/LongHorizon-Harness",
+    "owner": {
+      "login": "AMAP-ML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
+    },
+    "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+    "topics": [
+      "agent",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "cli",
+      "codex",
+      "codex-desktop",
+      "codex-plugin",
+      "cua",
+      "gui",
+      "harness",
+      "long-horizon",
+      "long-horizon-agents",
+      "longhorizon-harness",
+      "loop",
+      "loop-engineering"
+    ],
+    "html_url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+    "stargazers_count": 470,
+    "language": "Python",
+    "forks_count": 60,
+    "open_issues_count": 6,
+    "created_at": "2026-08-04T04:30:58Z",
+    "updated_at": "2026-08-09T14:08:43Z",
+    "pushed_at": "2026-08-07T09:03:51Z"
+  },
+  {
+    "id": 1320270455,
+    "name": "travel-photo-abstraction",
+    "full_name": "Evianis/travel-photo-abstraction",
+    "owner": {
+      "login": "Evianis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104435191?v=4"
+    },
+    "description": "A source-available Codex skill for distilling photographs into sparse editorial abstractions.",
+    "topics": [
+      "codex",
+      "codex-skill",
+      "image-generation",
+      "visual-analysis"
+    ],
+    "html_url": "https://github.com/Evianis/travel-photo-abstraction",
+    "stargazers_count": 227,
+    "language": "Python",
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T14:37:39Z",
+    "updated_at": "2026-08-09T13:49:50Z",
+    "pushed_at": "2026-08-03T00:24:09Z"
+  },
+  {
+    "id": 1328527258,
+    "name": "codex-bridge",
+    "full_name": "Sateezg/codex-bridge",
+    "owner": {
+      "login": "Sateezg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196150541?v=4"
+    },
+    "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "gpt-5",
+      "gpt-image-2",
+      "image-generation",
+      "openai"
+    ],
+    "html_url": "https://github.com/Sateezg/codex-bridge",
+    "stargazers_count": 208,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T06:57:08Z",
+    "updated_at": "2026-08-09T14:28:32Z",
+    "pushed_at": "2026-08-09T09:02:12Z"
+  },
+  {
+    "id": 1321050149,
+    "name": "hbg-classical-poem-silk-video",
+    "full_name": "Mr-funny/hbg-classical-poem-silk-video",
+    "owner": {
+      "login": "Mr-funny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26950296?v=4"
+    },
+    "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
+    "topics": [
+      "agent-skill",
+      "chinese-poetry",
+      "codex",
+      "docker",
+      "ffmpeg",
+      "generative-ai",
+      "image-to-video"
+    ],
+    "html_url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
+    "stargazers_count": 190,
+    "language": "Shell",
+    "forks_count": 29,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T01:04:46Z",
+    "updated_at": "2026-08-08T15:34:55Z",
+    "pushed_at": "2026-08-03T01:07:34Z"
+  },
+  {
+    "id": 1323130935,
+    "name": "codex-deepseek-subagent",
+    "full_name": "Utopia-V/codex-deepseek-subagent",
+    "owner": {
+      "login": "Utopia-V",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195247624?v=4"
+    },
+    "description": "Run DeepSeek V4 Flash as a native Codex subagent without replacing the OpenAI main agent.",
+    "topics": [
+      "codex",
+      "deepseek",
+      "multi-agent",
+      "responses-api",
+      "subagent"
+    ],
+    "html_url": "https://github.com/Utopia-V/codex-deepseek-subagent",
+    "stargazers_count": 120,
+    "language": "PowerShell",
+    "forks_count": 7,
+    "open_issues_count": 3,
+    "created_at": "2026-08-04T15:58:55Z",
+    "updated_at": "2026-08-09T13:23:00Z",
+    "pushed_at": "2026-08-08T08:10:56Z"
+  },
+  {
+    "id": 1320339732,
+    "name": "debroid",
+    "full_name": "PatilShreyas/debroid",
+    "owner": {
+      "login": "PatilShreyas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19620536?v=4"
+    },
+    "description": "Autonomous, headless Android debugger designed for AI coding agents. Inspect runtime memory, set breakpoints, and debug live apps.",
+    "topics": [
+      "agentic-ai",
+      "android",
+      "antigravity",
+      "claude-code",
+      "cli",
+      "codex",
+      "debugger",
+      "debugging",
+      "debugging-tool",
+      "developer-tools",
+      "java",
+      "kotlin"
+    ],
+    "html_url": "https://github.com/PatilShreyas/debroid",
+    "stargazers_count": 105,
+    "language": "Kotlin",
+    "forks_count": 5,
+    "open_issues_count": 2,
+    "created_at": "2026-08-02T15:58:29Z",
+    "updated_at": "2026-08-09T14:11:51Z",
+    "pushed_at": "2026-08-09T13:04:16Z"
+  },
+  {
+    "id": 1319741629,
+    "name": "worklouder-input-cli",
+    "full_name": "MarlinDiary/worklouder-input-cli",
+    "owner": {
+      "login": "MarlinDiary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50492264?v=4"
+    },
+    "description": "Full-configuration CLI for Codex Micro and Work Louder Input: profiles, layers, keymaps, actions, provider handoff, verified apply, and rollback.",
+    "topics": [
+      "ai-agents",
+      "backup",
+      "cli",
+      "codex",
+      "codex-micro",
+      "codex-micro-cli",
+      "command-line",
+      "configuration-management",
+      "developer-tools",
+      "keyboard-configurator",
+      "keymap",
+      "macos",
+      "macropad",
+      "micro",
+      "open-source",
+      "rollback",
+      "smart-actions",
+      "work-louder",
+      "worklouder",
+      "worklouder-input"
+    ],
+    "html_url": "https://github.com/MarlinDiary/worklouder-input-cli",
+    "stargazers_count": 50,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T01:54:24Z",
+    "updated_at": "2026-08-09T13:06:25Z",
+    "pushed_at": "2026-08-05T03:30:20Z"
+  },
+  {
+    "id": 1321156841,
+    "name": "grade-images",
+    "full_name": "liwushu128-debug/grade-images",
+    "owner": {
+      "login": "liwushu128-debug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253473862?v=4"
+    },
+    "description": "Grade Image / Grade Images — deterministic, non-generative photo color grading and RAW development for Codex with strict structure, identity, and texture preservation.",
+    "topics": [
+      "batch-processing",
+      "codex",
+      "codex-skill",
+      "color-correction",
+      "color-correction-and-grading",
+      "color-grading",
+      "color-management",
+      "deterministic",
+      "grade-image",
+      "grade-images",
+      "image-analysis",
+      "image-grading",
+      "image-processing",
+      "non-generative",
+      "openai-codex",
+      "photo-editing",
+      "photography",
+      "python",
+      "raw-image-processing",
+      "reference-matching"
+    ],
+    "html_url": "https://github.com/liwushu128-debug/grade-images",
+    "stargazers_count": 41,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 5,
+    "created_at": "2026-08-03T03:22:30Z",
+    "updated_at": "2026-08-07T21:04:26Z",
+    "pushed_at": "2026-08-06T09:08:12Z"
+  },
+  {
+    "id": 1326240806,
+    "name": "toSub2",
+    "full_name": "poxiao33/toSub2",
+    "owner": {
+      "login": "poxiao33",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155097015?v=4"
+    },
+    "description": "通过协议登录 ChatGPT、完成 Codex 授权并生成 sub2api 导入文件",
+    "topics": [
+      "chatgpt",
+      "codex",
+      "nodejs",
+      "oauth",
+      "sub2api"
+    ],
+    "html_url": "https://github.com/poxiao33/toSub2",
+    "stargazers_count": 38,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T05:16:16Z",
+    "updated_at": "2026-08-09T13:57:58Z",
+    "pushed_at": "2026-08-09T13:57:31Z"
+  },
+  {
+    "id": 1324853220,
+    "name": "bubble-agent-mcp",
+    "full_name": "alijancb/bubble-agent-mcp",
+    "owner": {
+      "login": "alijancb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97835009?v=4"
+    },
+    "description": "Open-source MCP server for discovering fast-growing internet conversations with Bubble Agent",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "codex",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/alijancb/bubble-agent-mcp",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-08-06T06:50:40Z",
+    "updated_at": "2026-08-08T13:41:55Z",
+    "pushed_at": "2026-08-07T08:25:26Z"
+  },
+  {
+    "id": 1326394720,
+    "name": "skills",
+    "full_name": "sv-number/skills",
+    "owner": {
+      "login": "sv-number",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299902966?v=4"
+    },
+    "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
+    "topics": [
+      "agent-skill",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "codex",
+      "otp",
+      "phone-verification",
+      "sms"
+    ],
+    "html_url": "https://github.com/sv-number/skills",
+    "stargazers_count": 33,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T08:14:34Z",
+    "updated_at": "2026-08-09T14:22:59Z",
+    "pushed_at": "2026-08-07T17:48:43Z"
+  },
+  {
+    "id": 1321275205,
+    "name": "pristine-skill",
+    "full_name": "newbanser/pristine-skill",
+    "owner": {
+      "login": "newbanser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279378443?v=4"
+    },
+    "description": "An agent skill enforcing the First-Time Principle: write every change in its final form — no patches, no what-comments, no leftovers, no local/deployed drift. Cross-platform: Claude Code, Codex, OpenCode.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-principles",
+      "opencode"
+    ],
+    "html_url": "https://github.com/newbanser/pristine-skill",
+    "stargazers_count": 30,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T05:36:51Z",
+    "updated_at": "2026-08-09T14:11:11Z",
+    "pushed_at": "2026-08-08T05:26:19Z"
+  },
+  {
+    "id": 1324858135,
+    "name": "macos-disk-cleanup",
+    "full_name": "himynameisben/macos-disk-cleanup",
+    "owner": {
+      "login": "himynameisben",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64573117?v=4"
+    },
+    "description": "給 Claude Code、Codex 等 agent 用的 macOS 磁碟清理 skill：診斷「系統資料」佔用、唯讀掃描腳本、以及 10 個會造成誤判或資料損失的陷阱",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-skill",
+      "codex",
+      "disk-cleanup",
+      "macos"
+    ],
+    "html_url": "https://github.com/himynameisben/macos-disk-cleanup",
+    "stargazers_count": 28,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T06:56:40Z",
+    "updated_at": "2026-08-09T14:23:50Z",
+    "pushed_at": "2026-08-06T07:28:59Z"
+  },
+  {
+    "id": 1323487520,
+    "name": "hud-mode",
+    "full_name": "adrida/hud-mode",
+    "owner": {
+      "login": "adrida",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26824656?v=4"
+    },
+    "description": "A compact heads-up display for your coding agent. Instruments while it works, the answer when it stops. Claude Code, Codex, OpenCode.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "opencode",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/adrida/hud-mode",
+    "stargazers_count": 27,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T00:33:45Z",
+    "updated_at": "2026-08-08T14:04:52Z",
+    "pushed_at": "2026-08-05T04:51:46Z"
+  },
+  {
+    "id": 1323045322,
+    "name": "director-skills",
+    "full_name": "kangarooking/director-skills",
+    "owner": {
+      "login": "kangarooking",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52196004?v=4"
+    },
+    "description": "导演Skill：面向 AI 视频创作的开源 Agent Skills | Director Skills: Open-source Agent Skills for AI video creation.",
+    "topics": [
+      "agent-skills",
+      "ai-video",
+      "claude-code",
+      "codex",
+      "filmmaking",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/kangarooking/director-skills",
+    "stargazers_count": 27,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T14:30:58Z",
+    "updated_at": "2026-08-09T10:59:28Z",
+    "pushed_at": "2026-08-04T15:38:47Z"
+  },
+  {
+    "id": 1320538689,
+    "name": "agentic-usage-meter",
+    "full_name": "obra/agentic-usage-meter",
+    "owner": {
+      "login": "obra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45416?v=4"
+    },
+    "description": "macOS menu-bar meter for coding-agent subscription quotas",
+    "topics": [
+      "claude",
+      "codex",
+      "macos",
+      "menu-bar",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/obra/agentic-usage-meter",
+    "stargazers_count": 23,
+    "language": "Swift",
+    "forks_count": 3,
+    "open_issues_count": 4,
+    "created_at": "2026-08-02T19:19:34Z",
+    "updated_at": "2026-08-09T10:23:46Z",
+    "pushed_at": "2026-08-07T17:00:10Z"
+  },
+  {
+    "id": 1326452281,
+    "name": "slopware-skills",
+    "full_name": "transcendr/slopware-skills",
+    "owner": {
+      "login": "transcendr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37011672?v=4"
+    },
+    "description": "Free, portable AI agent skills and plugins for Codex, Claude Code, and Agent Skills clients by Slopware Engineer (@aienginerd). Home of the MSW Kernel for Minimum Sufficient Work.",
+    "topics": [
+      "agent-plugins",
+      "agent-skills",
+      "ai-agents",
+      "ai-coding-agent",
+      "claude-code",
+      "claude-code-plugins",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "developer-tools",
+      "minimum-sufficient-work",
+      "msw",
+      "openai-codex",
+      "slopware"
+    ],
+    "html_url": "https://github.com/transcendr/slopware-skills",
+    "stargazers_count": 22,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T09:09:10Z",
+    "updated_at": "2026-08-09T11:05:37Z",
+    "pushed_at": "2026-08-08T17:35:28Z"
+  },
+  {
+    "id": 1322767235,
+    "name": "Startup_builder_pro",
+    "full_name": "Faizalimam990/Startup_builder_pro",
+    "owner": {
+      "login": "Faizalimam990",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88795778?v=4"
+    },
+    "description": "AI-powered skill that turns product ideas or existing repositories into secure, tested, production-ready SaaS applications.",
+    "topics": [
+      "anthropic-skills",
+      "codex",
+      "codex-skill",
+      "github-trending"
+    ],
+    "html_url": "https://github.com/Faizalimam990/Startup_builder_pro",
+    "stargazers_count": 19,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T09:33:47Z",
+    "updated_at": "2026-08-08T12:19:29Z",
+    "pushed_at": "2026-08-06T16:41:48Z"
+  },
+  {
+    "id": 1319935567,
+    "name": "multiplayer-ai",
+    "full_name": "godfaddaai/multiplayer-ai",
+    "owner": {
+      "login": "godfaddaai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82174129?v=4"
+    },
+    "description": "Make Codex and Claude Code sessions multiplayer from the terminal.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "collaboration",
+      "developer-tools",
+      "macos",
+      "open-source",
+      "pair-programming",
+      "remote-collaboration",
+      "tailscale",
+      "terminal"
+    ],
+    "html_url": "https://github.com/godfaddaai/multiplayer-ai",
+    "stargazers_count": 17,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-08-02T07:53:35Z",
+    "updated_at": "2026-08-07T08:23:40Z",
+    "pushed_at": "2026-08-09T01:32:48Z"
+  }
+]

@@ -1,0 +1,593 @@
+[
+  {
+    "id": 1323130935,
+    "name": "codex-deepseek-subagent",
+    "full_name": "Utopia-V/codex-deepseek-subagent",
+    "owner": {
+      "login": "Utopia-V",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195247624?v=4"
+    },
+    "description": "Run DeepSeek V4 Flash as a native Codex subagent without replacing the OpenAI main agent.",
+    "topics": [
+      "codex",
+      "deepseek",
+      "multi-agent",
+      "responses-api",
+      "subagent"
+    ],
+    "html_url": "https://github.com/Utopia-V/codex-deepseek-subagent",
+    "stargazers_count": 120,
+    "language": "PowerShell",
+    "forks_count": 7,
+    "open_issues_count": 3,
+    "created_at": "2026-08-04T15:58:55Z",
+    "updated_at": "2026-08-09T13:23:00Z",
+    "pushed_at": "2026-08-08T08:10:56Z"
+  },
+  {
+    "id": 1323081107,
+    "name": "keyHunter-skill",
+    "full_name": "lifefloating/keyHunter-skill",
+    "owner": {
+      "login": "lifefloating",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13827124?v=4"
+    },
+    "description": "Academic research toolkit for AI gateway panel security studies (Sub2API / New-API / One-API): FOFA discovery, fingerprinting, credential-hygiene testing, artifact normalization. Authorized, defensive use only.",
+    "topics": [
+      "ai",
+      "claude",
+      "deepseek",
+      "llm",
+      "openai",
+      "skills",
+      "sub2api"
+    ],
+    "html_url": "https://github.com/lifefloating/keyHunter-skill",
+    "stargazers_count": 30,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T15:07:10Z",
+    "updated_at": "2026-08-09T09:04:50Z",
+    "pushed_at": "2026-08-04T15:22:50Z"
+  },
+  {
+    "id": 1322729016,
+    "name": "deepseek-vision-cli",
+    "full_name": "menghuanshiguang/deepseek-vision-cli",
+    "owner": {
+      "login": "menghuanshiguang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60821280?v=4"
+    },
+    "description": "🚀 让不支持视觉的大模型获得真·图片理解能力: 零安装、不破解PoW、OpenCV自动过登录验证码、用后即删的 DeepSeek C端识图模式 CLI",
+    "topics": [
+      "cli",
+      "deepseek",
+      "dsv",
+      "image",
+      "ocr",
+      "vision"
+    ],
+    "html_url": "https://github.com/menghuanshiguang/deepseek-vision-cli",
+    "stargazers_count": 21,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 1,
+    "created_at": "2026-08-04T08:53:12Z",
+    "updated_at": "2026-08-09T13:50:25Z",
+    "pushed_at": "2026-08-04T13:08:50Z"
+  },
+  {
+    "id": 1324284666,
+    "name": "multi-ai-chat-skill",
+    "full_name": "lainXXX/multi-ai-chat-skill",
+    "owner": {
+      "login": "lainXXX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171590672?v=4"
+    },
+    "description": "Free multi-AI research assistant: your agent consults 6 top web AIs in parallel, cross-validates their answers, and generates an executable decision document. No API keys, no backend.",
+    "topics": [
+      "ai-chat",
+      "chatgpt",
+      "deepseek",
+      "doubao",
+      "google-gemini",
+      "kimi",
+      "multi-ai",
+      "no-api-key",
+      "playwright",
+      "qwen",
+      "web-automation"
+    ],
+    "html_url": "https://github.com/lainXXX/multi-ai-chat-skill",
+    "stargazers_count": 21,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T16:53:47Z",
+    "updated_at": "2026-08-09T13:01:03Z",
+    "pushed_at": "2026-08-06T14:27:58Z"
+  },
+  {
+    "id": 1321714128,
+    "name": "stepfun-vision-skill",
+    "full_name": "jwangkun/stepfun-vision-skill",
+    "owner": {
+      "login": "jwangkun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3615494?v=4"
+    },
+    "description": "Codex Skill：让纯文本模型（DeepSeek）借助 StepFun step-3.7-flash 获得看图能力 | Give text-only Codex models (DeepSeek) image understanding via StepFun step-3.7-flash",
+    "topics": [
+      "codex",
+      "deepseek",
+      "image",
+      "llm",
+      "multimodal",
+      "ocr",
+      "skill",
+      "stepfun",
+      "vision"
+    ],
+    "html_url": "https://github.com/jwangkun/stepfun-vision-skill",
+    "stargazers_count": 15,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T12:05:39Z",
+    "updated_at": "2026-08-07T01:43:57Z",
+    "pushed_at": "2026-08-03T12:08:27Z"
+  },
+  {
+    "id": 1323701867,
+    "name": "yu-ai-learn",
+    "full_name": "liyupi/yu-ai-learn",
+    "owner": {
+      "login": "liyupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26037703?v=4"
+    },
+    "description": "2026 年编程导航 AI 编程实战新项目，基于 Taro + React + FastAPI + DeepSeek 的 AI 闯关学习小程序，支持一句话 / 文本主题 AI 出题、闯关答题与即时讲解、联网搜索增强、RAG 私有知识库出题、AI 生图配图、微信登录与通关复盘报告。覆盖 LangChain / LangGraph、Chroma 向量库、MySQL、JWT、腾讯云 COS、Tavily 联网搜索、阿里云百炼、微信小程序与云托管。用一套教程掌握 AI 编程全流程，从需求调研到部署上线，不到一周学完，给你的简历增加竞争力",
+    "topics": [
+      "agent",
+      "ai",
+      "backend",
+      "copilot",
+      "deepseek",
+      "docker",
+      "fastapi",
+      "frontend",
+      "langchain",
+      "miniprogram",
+      "python",
+      "qwen",
+      "rag",
+      "react",
+      "taro",
+      "typescript",
+      "vibe-coding",
+      "vscode",
+      "wechat"
+    ],
+    "html_url": "https://github.com/liyupi/yu-ai-learn",
+    "stargazers_count": 13,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T06:16:50Z",
+    "updated_at": "2026-08-08T12:58:11Z",
+    "pushed_at": "2026-08-05T06:17:03Z"
+  },
+  {
+    "id": 1324668664,
+    "name": "deepseek-v4-flash-0731-sglang-4x-rtx-pro-6000",
+    "full_name": "ombori/deepseek-v4-flash-0731-sglang-4x-rtx-pro-6000",
+    "owner": {
+      "login": "ombori",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13494356?v=4"
+    },
+    "description": "Reproducible SGLang recipe + public prebuilt image (ghcr.io) for DeepSeek-V4-Flash-0731 on 4x RTX PRO 6000 Blackwell (SM120): TP4/DP4/EP4, 1M ctx, benchmarks, and the DSPARK draft-depth corruption boundary",
+    "topics": [
+      "blackwell",
+      "deepseek",
+      "deepseek-v4",
+      "flashinfer",
+      "llm-inference",
+      "rtx-pro-6000",
+      "sglang",
+      "sm120",
+      "speculative-decoding"
+    ],
+    "html_url": "https://github.com/ombori/deepseek-v4-flash-0731-sglang-4x-rtx-pro-6000",
+    "stargazers_count": 12,
+    "language": "Dockerfile",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-06T02:51:37Z",
+    "updated_at": "2026-08-09T04:48:17Z",
+    "pushed_at": "2026-08-09T04:48:13Z"
+  },
+  {
+    "id": 1323688475,
+    "name": "portable-agent-skills",
+    "full_name": "ch1109/portable-agent-skills",
+    "owner": {
+      "login": "ch1109",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138683446?v=4"
+    },
+    "description": "Three portable Agent Skills for research, repository deployment, and pre-install safety review.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "deepseek",
+      "deployment",
+      "hermes-agent",
+      "research",
+      "skill-security"
+    ],
+    "html_url": "https://github.com/ch1109/portable-agent-skills",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T06:00:02Z",
+    "updated_at": "2026-08-07T08:50:23Z",
+    "pushed_at": "2026-08-05T06:01:20Z"
+  },
+  {
+    "id": 1324469614,
+    "name": "lite",
+    "full_name": "ultralytics/lite",
+    "owner": {
+      "login": "ultralytics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26833451?v=4"
+    },
+    "description": "A fast, local workspace for Claude Code, Codex, Kimi Code, DeepSeek, and your shell.",
+    "topics": [
+      "ai",
+      "anthropic",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "deepseek",
+      "desktop-app",
+      "developer-tools",
+      "kimi",
+      "kimi-code",
+      "linux",
+      "local-first",
+      "macos",
+      "moonshot-ai",
+      "openai",
+      "tauri",
+      "terminal",
+      "windows"
+    ],
+    "html_url": "https://github.com/ultralytics/lite",
+    "stargazers_count": 9,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-08-05T20:46:49Z",
+    "updated_at": "2026-08-09T12:51:16Z",
+    "pushed_at": "2026-08-09T14:26:23Z"
+  },
+  {
+    "id": 1324446719,
+    "name": "DeepSeek-V4-Flash-0731-TP4-4x-DGX-Spark",
+    "full_name": "joesinvestments/DeepSeek-V4-Flash-0731-TP4-4x-DGX-Spark",
+    "owner": {
+      "login": "joesinvestments",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257641472?v=4"
+    },
+    "description": "DeepSeek-V4-Flash-0731 tuned on 4x DGX Spark (GB10) at TP=4 — 123.13 tok/s decode. Every variable measured one at a time, with the values that lost.",
+    "topics": [
+      "deepseek",
+      "dgx-spark",
+      "gb10",
+      "llm-inference",
+      "speculative-decoding",
+      "tensor-parallelism",
+      "vllm"
+    ],
+    "html_url": "https://github.com/joesinvestments/DeepSeek-V4-Flash-0731-TP4-4x-DGX-Spark",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T20:13:02Z",
+    "updated_at": "2026-08-09T13:57:31Z",
+    "pushed_at": "2026-08-09T12:41:33Z"
+  },
+  {
+    "id": 1322761659,
+    "name": "dsv-bridge-skill",
+    "full_name": "menghuanshiguang/dsv-bridge-skill",
+    "owner": {
+      "login": "menghuanshiguang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60821280?v=4"
+    },
+    "description": "🖼️ 给不会看图的大模型一双眼睛: 本地AI无法OCR/识别的图片 → DeepSeek识图模式(套壳 deepseek-vision-cli) 的 skill",
+    "topics": [
+      "deepseek",
+      "dsv",
+      "image-ocr",
+      "mcp",
+      "skill",
+      "vision"
+    ],
+    "html_url": "https://github.com/menghuanshiguang/dsv-bridge-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T09:27:29Z",
+    "updated_at": "2026-08-09T11:11:50Z",
+    "pushed_at": "2026-08-04T13:21:55Z"
+  },
+  {
+    "id": 1320116638,
+    "name": "vision-primitives-mcp",
+    "full_name": "zouyuanqing/vision-primitives-mcp",
+    "owner": {
+      "login": "zouyuanqing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181806162?v=4"
+    },
+    "description": "Vision-primitives MCP server for text-only LLMs: describe, locate (coordinates), OCR with bbox, annotate, crop, zoom, automated anomaly scanning, computer use — powered by Xiaomi MiMo V2.5. Single-file Python, Pillow-only dependency.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "automation",
+      "computer-use",
+      "deepseek",
+      "gui-agent",
+      "image-understanding",
+      "llm",
+      "mcp",
+      "multimodal",
+      "ocr",
+      "python",
+      "qwen",
+      "screenshot",
+      "ui-automation",
+      "vision",
+      "vision-language-model",
+      "yolo"
+    ],
+    "html_url": "https://github.com/zouyuanqing/vision-primitives-mcp",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T11:34:58Z",
+    "updated_at": "2026-08-06T03:32:20Z",
+    "pushed_at": "2026-08-05T11:16:00Z"
+  },
+  {
+    "id": 1319963436,
+    "name": "design-canvas-agents",
+    "full_name": "ZNyyyyy-stack/design-canvas-agents",
+    "owner": {
+      "login": "ZNyyyyy-stack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207243780?v=4"
+    },
+    "description": "Agent-driven UI design workbench on an infinite canvas: local agent runtime with tool-call contracts, streaming reasoning, checkpoint resume, and human-in-the-loop acceptance.",
+    "topics": [
+      "agents",
+      "canvas",
+      "deepseek",
+      "desktop-app",
+      "electron",
+      "react",
+      "typescript",
+      "ui-design"
+    ],
+    "html_url": "https://github.com/ZNyyyyy-stack/design-canvas-agents",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T08:36:02Z",
+    "updated_at": "2026-08-04T02:58:33Z",
+    "pushed_at": "2026-08-02T08:40:56Z"
+  },
+  {
+    "id": 1319960845,
+    "name": "whale-pod",
+    "full_name": "Timothyhay/whale-pod",
+    "owner": {
+      "login": "Timothyhay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28833203?v=4"
+    },
+    "description": "A CLI Coding Agent designed for high cache hit rate large-context models.",
+    "topics": [
+      "agent",
+      "cli-app",
+      "coding-agent",
+      "deepseek",
+      "harness"
+    ],
+    "html_url": "https://github.com/Timothyhay/whale-pod",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T08:32:32Z",
+    "updated_at": "2026-08-08T07:32:18Z",
+    "pushed_at": "2026-08-08T07:32:13Z"
+  },
+  {
+    "id": 1321478154,
+    "name": "codex-deepseek-subagent-fix",
+    "full_name": "CCanxue/codex-deepseek-subagent-fix",
+    "owner": {
+      "login": "CCanxue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88636771?v=4"
+    },
+    "description": "Local patch + guide: make OpenAI Codex MultiAgentV2 subagent tasks work with DeepSeek and other non-OpenAI Responses providers (encrypted agent_message payload fix).",
+    "topics": [
+      "agent",
+      "codex",
+      "codex-cli",
+      "deepseek",
+      "llm",
+      "multi-agent",
+      "multiagent",
+      "non-openai",
+      "openai-codex",
+      "patch",
+      "responses-api",
+      "subagent"
+    ],
+    "html_url": "https://github.com/CCanxue/codex-deepseek-subagent-fix",
+    "stargazers_count": 5,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T08:42:40Z",
+    "updated_at": "2026-08-08T13:23:24Z",
+    "pushed_at": "2026-08-06T02:46:19Z"
+  },
+  {
+    "id": 1323038593,
+    "name": "DeepSeek-V4-Vision-2x-DGX-Sparks",
+    "full_name": "FlyCockpit/DeepSeek-V4-Vision-2x-DGX-Sparks",
+    "owner": {
+      "login": "FlyCockpit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271379604?v=4"
+    },
+    "description": "Give your self-hosted DeepSeek eyes 👀 — vision for DeepSeek-V4-Flash on 2× DGX Spark",
+    "topics": [
+      "deepseek",
+      "dgx-spark",
+      "multimodal",
+      "self-hosted",
+      "vision",
+      "vllm"
+    ],
+    "html_url": "https://github.com/FlyCockpit/DeepSeek-V4-Vision-2x-DGX-Sparks",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T14:24:24Z",
+    "updated_at": "2026-08-09T09:05:24Z",
+    "pushed_at": "2026-08-04T15:16:02Z"
+  },
+  {
+    "id": 1321387112,
+    "name": "codex-deepseek-vision",
+    "full_name": "SIMON-WORLD/codex-deepseek-vision",
+    "owner": {
+      "login": "SIMON-WORLD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252317962?v=4"
+    },
+    "description": "Codex vision bridge for DeepSeek V4 Flash: give text-only DeepSeek image capability in Codex. Local proxy turns pasted images and view_image into text via free GLM-4V-Flash or any OpenAI-compatible vision API. No GPU, no Ollama.",
+    "topics": [
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "codex-vision",
+      "deepseek",
+      "deepseek-v4-flash",
+      "glm-4v-flash",
+      "image-to-text",
+      "openai-compatible",
+      "opencode",
+      "responses-api",
+      "vision",
+      "vision-proxy"
+    ],
+    "html_url": "https://github.com/SIMON-WORLD/codex-deepseek-vision",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T07:25:54Z",
+    "updated_at": "2026-08-08T18:08:39Z",
+    "pushed_at": "2026-08-08T18:08:42Z"
+  },
+  {
+    "id": 1320246511,
+    "name": "ai-roundtable",
+    "full_name": "QZXP27/ai-roundtable",
+    "owner": {
+      "login": "QZXP27",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151416857?v=4"
+    },
+    "description": "本地多模型辩论室 · A local debate chatroom where Claude, Gemini, ChatGPT and DeepSeek argue from assigned personas — every round ends in a verdict",
+    "topics": [
+      "agpl",
+      "ai",
+      "claude",
+      "debate",
+      "deepseek",
+      "fastapi",
+      "gemini",
+      "llm"
+    ],
+    "html_url": "https://github.com/QZXP27/ai-roundtable",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T14:09:36Z",
+    "updated_at": "2026-08-09T10:32:49Z",
+    "pushed_at": "2026-08-06T13:51:52Z"
+  },
+  {
+    "id": 1320295061,
+    "name": "DS-VISION-MCP-SKILL",
+    "full_name": "Tiger3807861189/DS-VISION-MCP-SKILL",
+    "owner": {
+      "login": "Tiger3807861189",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307182956?v=4"
+    },
+    "description": "DS-VISION V3: auditable visual evidence for coding agents via MCP (visual evidence for agents without native vision).",
+    "topics": [
+      "agent",
+      "cli",
+      "deepseek",
+      "mcp",
+      "model-context-protocol",
+      "skill",
+      "vision",
+      "visual-evidence"
+    ],
+    "html_url": "https://github.com/Tiger3807861189/DS-VISION-MCP-SKILL",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-02T15:06:26Z",
+    "updated_at": "2026-08-09T14:12:48Z",
+    "pushed_at": "2026-08-09T14:15:14Z"
+  },
+  {
+    "id": 1324500702,
+    "name": "deepdepcat",
+    "full_name": "hanmirage/deepdepcat",
+    "owner": {
+      "login": "hanmirage",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148482774?v=4"
+    },
+    "description": "DeepDepCat — all-in-one AI desktop workbench: Code assistant + Depwork office automation. Homepage & releases. WPS Office MCP server included (open source).",
+    "topics": [
+      "ai-agent",
+      "deepseek",
+      "desktop-app",
+      "mcp",
+      "office-automation",
+      "rust",
+      "tauri",
+      "wps"
+    ],
+    "html_url": "https://github.com/hanmirage/deepdepcat",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T21:38:12Z",
+    "updated_at": "2026-08-09T12:48:19Z",
+    "pushed_at": "2026-08-08T20:57:34Z"
+  }
+]
