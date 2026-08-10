@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1326574350,
+    "name": "mcp-server",
+    "full_name": "sv-number/mcp-server",
+    "owner": {
+      "login": "sv-number",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299902966?v=4"
+    },
+    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "mcp",
+      "model-context-protocol",
+      "otp",
+      "phone-verification",
+      "sms",
+      "typescript"
+    ],
+    "html_url": "https://github.com/sv-number/mcp-server",
+    "stargazers_count": 250,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T11:13:26Z",
+    "updated_at": "2026-08-10T01:29:04Z",
+    "pushed_at": "2026-08-09T16:11:22Z"
+  },
+  {
+    "id": 1324749263,
+    "name": "partmode",
+    "full_name": "BOMWiki/partmode",
+    "owner": {
+      "login": "BOMWiki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299129194?v=4"
+    },
+    "description": "Local-first parametric browser CAD for people and typed agents",
+    "topics": [
+      "browser-cad",
+      "cad",
+      "opencascade",
+      "parametric-modeling",
+      "typescript",
+      "webassembly"
+    ],
+    "html_url": "https://github.com/BOMWiki/partmode",
+    "stargazers_count": 101,
+    "language": "JavaScript",
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T04:51:12Z",
+    "updated_at": "2026-08-09T18:11:57Z",
+    "pushed_at": "2026-08-07T09:40:39Z"
+  },
+  {
+    "id": 1328769721,
+    "name": "pi-from-scratch",
+    "full_name": "SaladDay/pi-from-scratch",
+    "owner": {
+      "login": "SaladDay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92240037?v=4"
+    },
+    "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+    "topics": [
+      "agent-loop",
+      "ai-agent",
+      "coding-agent",
+      "llm",
+      "llm-agent",
+      "pi",
+      "pi-agent",
+      "tool-calling",
+      "typescript",
+      "typescript-tutorial"
+    ],
+    "html_url": "https://github.com/SaladDay/pi-from-scratch",
+    "stargazers_count": 99,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T12:15:30Z",
+    "updated_at": "2026-08-10T01:56:52Z",
+    "pushed_at": "2026-08-09T15:50:21Z"
+  },
+  {
+    "id": 1327360831,
+    "name": "generative-loaders",
+    "full_name": "kasturikhanke/generative-loaders",
+    "owner": {
+      "login": "kasturikhanke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115178948?v=4"
+    },
+    "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
+    "topics": [
+      "accessibility",
+      "ai",
+      "animation",
+      "framer-motion",
+      "generative-ui",
+      "loader",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/kasturikhanke/generative-loaders",
+    "stargazers_count": 71,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 3,
+    "created_at": "2026-08-08T02:50:22Z",
+    "updated_at": "2026-08-10T00:56:24Z",
+    "pushed_at": "2026-08-09T03:30:46Z"
+  },
+  {
+    "id": 1326193164,
+    "name": "hbg-hanzi-chaizi-video",
+    "full_name": "Mr-funny/hbg-hanzi-chaizi-video",
+    "owner": {
+      "login": "Mr-funny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26950296?v=4"
+    },
+    "description": "用 Remotion + Edge TTS 制作上方逐笔写字、下方趣味拆字变形的 9:16 汉字短视频",
+    "topics": [
+      "animation",
+      "chinese-characters",
+      "edge-tts",
+      "hanzi",
+      "remotion",
+      "typescript",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/Mr-funny/hbg-hanzi-chaizi-video",
+    "stargazers_count": 70,
+    "language": "TypeScript",
+    "forks_count": 19,
+    "open_issues_count": 1,
+    "created_at": "2026-08-07T04:12:22Z",
+    "updated_at": "2026-08-10T01:44:24Z",
+    "pushed_at": "2026-08-08T00:48:11Z"
+  },
+  {
+    "id": 1324240706,
+    "name": "vibecodingex",
+    "full_name": "eticmedya/vibecodingex",
+    "owner": {
+      "login": "eticmedya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181075989?v=4"
+    },
+    "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
+    "topics": [
+      "ai",
+      "gemini-api",
+      "google-places-api",
+      "nuxt",
+      "sales-tool",
+      "sqlite",
+      "tailwindcss",
+      "turkiye",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/eticmedya/vibecodingex",
+    "stargazers_count": 70,
+    "language": "Vue",
+    "forks_count": 19,
+    "open_issues_count": 2,
+    "created_at": "2026-08-05T16:04:32Z",
+    "updated_at": "2026-08-09T21:11:21Z",
+    "pushed_at": "2026-08-05T16:07:43Z"
+  },
+  {
+    "id": 1325206693,
+    "name": "juror",
+    "full_name": "Juror-AI/juror",
+    "owner": {
+      "login": "Juror-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314188773?v=4"
+    },
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "topics": [
+      "ai-agents",
+      "ai-code-review",
+      "cli",
+      "code-quality",
+      "code-review",
+      "codex",
+      "developer-tools",
+      "devtools",
+      "github-action",
+      "github-actions",
+      "llm",
+      "llmops",
+      "pull-request",
+      "static-analysis",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Juror-AI/juror",
+    "stargazers_count": 66,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 7,
+    "created_at": "2026-08-06T12:24:49Z",
+    "updated_at": "2026-08-09T15:51:08Z",
+    "pushed_at": "2026-08-09T09:17:26Z"
+  },
+  {
+    "id": 1325297391,
+    "name": "pi-rlm",
+    "full_name": "shift-labs-ai/pi-rlm",
+    "owner": {
+      "login": "shift-labs-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286783825?v=4"
+    },
+    "description": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator. Files, shell, and subagents are expressed as code rather than as more tools.",
+    "topics": [
+      "agent",
+      "bun",
+      "llm-tools",
+      "pi",
+      "repl",
+      "typescript"
+    ],
+    "html_url": "https://github.com/shift-labs-ai/pi-rlm",
+    "stargazers_count": 65,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T13:45:45Z",
+    "updated_at": "2026-08-09T16:16:27Z",
+    "pushed_at": "2026-08-09T12:13:44Z"
+  },
+  {
+    "id": 1323313579,
+    "name": "frugalhq",
+    "full_name": "FrugalHQ/frugalhq",
+    "owner": {
+      "login": "FrugalHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313115047?v=4"
+    },
+    "description": "🌿 Local-first envelope budgeting app — spend only what you have. No server, no subscription, no tracking.",
+    "topics": [
+      "budgeting",
+      "envelope-budgeting",
+      "local-first",
+      "open-source",
+      "personal-finance",
+      "pwa",
+      "react",
+      "tailwindcss",
+      "typescript",
+      "vite"
+    ],
+    "html_url": "https://github.com/FrugalHQ/frugalhq",
+    "stargazers_count": 49,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T19:33:47Z",
+    "updated_at": "2026-08-05T02:29:44Z",
+    "pushed_at": "2026-08-04T20:51:56Z"
+  },
+  {
+    "id": 1323482446,
+    "name": "sparkfetch",
+    "full_name": "Sparkfetch/sparkfetch",
+    "owner": {
+      "login": "Sparkfetch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313178891?v=4"
+    },
+    "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
+    "topics": [
+      "ai",
+      "api",
+      "content-extraction",
+      "data-extraction",
+      "html-to-markdown",
+      "llm",
+      "nodejs",
+      "open-source",
+      "rag",
+      "typescript",
+      "web-crawler",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/Sparkfetch/sparkfetch",
+    "stargazers_count": 45,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T00:23:26Z",
+    "updated_at": "2026-08-07T22:57:20Z",
+    "pushed_at": "2026-08-05T00:38:16Z"
+  },
+  {
+    "id": 1325376122,
+    "name": "pocket-voxel",
+    "full_name": "pocket-stack/pocket-voxel",
+    "owner": {
+      "login": "pocket-stack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299849304?v=4"
+    },
+    "description": "A Game Boy creature-RPG as a voxelized 3D diorama on a real PSP and PS Vita — one cooked pak, one QuickJS TypeScript guest, per-machine Rust renderers. ROM-fed: bring your own cartridge. A PocketJS specialized runtime.",
+    "topics": [
+      "game-boy",
+      "homebrew",
+      "pocketjs",
+      "ps-vita",
+      "psp",
+      "quickjs",
+      "retro-gaming",
+      "rust",
+      "typescript",
+      "voxel"
+    ],
+    "html_url": "https://github.com/pocket-stack/pocket-voxel",
+    "stargazers_count": 45,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-08-06T14:53:25Z",
+    "updated_at": "2026-08-10T01:21:31Z",
+    "pushed_at": "2026-08-09T12:59:22Z"
+  },
+  {
+    "id": 1323957541,
+    "name": "SentryLLM",
+    "full_name": "Sentry-LLM/SentryLLM",
+    "owner": {
+      "login": "Sentry-LLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313371590?v=4"
+    },
+    "description": "AI Security Monitor — Real-time threat detection, prompt injection defense, and behavioral analysis for LLM-powered systems",
+    "topics": [
+      "ai-security",
+      "jailbreak-detection",
+      "llm",
+      "llm-security",
+      "monitoring",
+      "openai",
+      "owasp",
+      "prompt-injection",
+      "security",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Sentry-LLM/SentryLLM",
+    "stargazers_count": 36,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T11:13:46Z",
+    "updated_at": "2026-08-09T18:33:43Z",
+    "pushed_at": "2026-08-05T11:51:04Z"
+  },
+  {
+    "id": 1324465774,
+    "name": "Tracewell",
+    "full_name": "Tracewell-code/Tracewell",
+    "owner": {
+      "login": "Tracewell-code",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313574356?v=4"
+    },
+    "description": "A visual workspace for building, running, and observing reliable workflow automations.",
+    "topics": [
+      "automation",
+      "developer-tools",
+      "productivity",
+      "react",
+      "typescript",
+      "visual-workflows",
+      "vite",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/Tracewell-code/Tracewell",
+    "stargazers_count": 35,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T20:41:01Z",
+    "updated_at": "2026-08-05T23:06:22Z",
+    "pushed_at": "2026-08-05T21:52:41Z"
+  },
+  {
+    "id": 1324853220,
+    "name": "bubble-agent-mcp",
+    "full_name": "alijancb/bubble-agent-mcp",
+    "owner": {
+      "login": "alijancb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97835009?v=4"
+    },
+    "description": "Open-source MCP server for discovering fast-growing internet conversations with Bubble Agent",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "codex",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/alijancb/bubble-agent-mcp",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-08-06T06:50:40Z",
+    "updated_at": "2026-08-08T13:41:55Z",
+    "pushed_at": "2026-08-07T08:25:26Z"
+  },
+  {
+    "id": 1321674195,
+    "name": "my-own-app",
+    "full_name": "TianyiDataScience/my-own-app",
+    "owner": {
+      "login": "TianyiDataScience",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119813959?v=4"
+    },
+    "description": "My Own App：本地运行、数据自持的个人工作与生活管理应用",
+    "topics": [
+      "local-first",
+      "macos",
+      "personal-productivity",
+      "react",
+      "sqlite",
+      "typescript",
+      "vite",
+      "windows"
+    ],
+    "html_url": "https://github.com/TianyiDataScience/my-own-app",
+    "stargazers_count": 27,
+    "language": "TypeScript",
+    "forks_count": 13,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T11:19:46Z",
+    "updated_at": "2026-08-09T16:23:04Z",
+    "pushed_at": "2026-08-03T13:04:53Z"
+  },
+  {
+    "id": 1324744711,
+    "name": "pi-daemon",
+    "full_name": "SASUKE40/pi-daemon",
+    "owner": {
+      "login": "SASUKE40",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3114495?v=4"
+    },
+    "description": "Run the Pi coding agent in a persistent session with a mobile PWA secured by Cloudflare Tunnel and Access.",
+    "topics": [
+      "ai-agent",
+      "cloudflare-access",
+      "cloudflare-tunnel",
+      "coding-agent",
+      "nodejs",
+      "pi-coding-agent",
+      "progressive-web-app",
+      "pwa",
+      "remote-development",
+      "self-hosted",
+      "typescript",
+      "web-push"
+    ],
+    "html_url": "https://github.com/SASUKE40/pi-daemon",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T04:44:10Z",
+    "updated_at": "2026-08-09T21:49:48Z",
+    "pushed_at": "2026-08-08T01:56:06Z"
+  },
+  {
+    "id": 1324118929,
+    "name": "web-terminal",
+    "full_name": "code-yeongyu/web-terminal",
+    "owner": {
+      "login": "code-yeongyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11153873?v=4"
+    },
+    "description": "Mobile-first self-hosted web terminal powered by Ghostty WASM — disconnect-surviving sessions, file explorer, herdr integration",
+    "topics": [
+      "bun",
+      "ghostty",
+      "mobile",
+      "mosh",
+      "pty",
+      "self-hosted",
+      "terminal",
+      "typescript",
+      "wasm",
+      "websocket"
+    ],
+    "html_url": "https://github.com/code-yeongyu/web-terminal",
+    "stargazers_count": 19,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 7,
+    "created_at": "2026-08-05T14:03:54Z",
+    "updated_at": "2026-08-10T01:21:10Z",
+    "pushed_at": "2026-08-09T06:36:46Z"
+  },
+  {
+    "id": 1323731499,
+    "name": "mc-architect-mcp",
+    "full_name": "AnctyEnly453/mc-architect-mcp",
+    "owner": {
+      "login": "AnctyEnly453",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245800481?v=4"
+    },
+    "description": "Minecraft Java Fabric mod and MCP server for AI-assisted world inspection, building, validation, screenshots, and persistent undo.",
+    "topics": [
+      "ai",
+      "building-tools",
+      "fabric",
+      "java",
+      "mcp",
+      "minecraft",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/AnctyEnly453/mc-architect-mcp",
+    "stargazers_count": 17,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-08-05T06:53:40Z",
+    "updated_at": "2026-08-07T16:30:21Z",
+    "pushed_at": "2026-08-05T06:58:46Z"
+  },
+  {
+    "id": 1324522335,
+    "name": "PolyPair-Lock-Polymarket-BTC-YES-NO-Pair-Arbitrage-Merge-Bot-5m-15m-1h",
+    "full_name": "iceleen/PolyPair-Lock-Polymarket-BTC-YES-NO-Pair-Arbitrage-Merge-Bot-5m-15m-1h",
+    "owner": {
+      "login": "iceleen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17762467?v=4"
+    },
+    "description": "PolyPair-Lock-Polymarket-BTC-YES-NO-Pair-Arbitrage-Merge-Bot-5m-15m-1h  PolyPair-Lock-Polymarket-BTC-YES-NO-Pair-Arbitrage-Merge-Bot-5m-15m-1h  PolyPair-Lock-Polymarket-BTC-YES-NO-Pair-Arbitrage-Merge-Bot-5m-15m-1h  PolyPair-Lock-Polymarket-BTC-YES-NO-Pair-Arbitrage-Merge-Bot-5m-15m-1h  ",
+    "topics": [
+      "nodejs",
+      "paper-trading",
+      "polygon",
+      "polymarket",
+      "polymarket-algo-trading",
+      "polymarket-arbitrage-bot",
+      "polymarket-automated-trading",
+      "polymarket-bot",
+      "polymarket-btc-5-minute-bot",
+      "polymarket-clob-bot",
+      "polymarket-open-source-trading-bot",
+      "polymarket-trading-bot",
+      "polymarket-trading-bot-nodejs",
+      "polymarket-trading-bot-typescript",
+      "polymarket-up-down-bot",
+      "polymarket-yes-no-arbitrage-bot",
+      "prediction-market-trading-bot",
+      "prediction-markets",
+      "trading-bot",
+      "typescript"
+    ],
+    "html_url": "https://github.com/iceleen/PolyPair-Lock-Polymarket-BTC-YES-NO-Pair-Arbitrage-Merge-Bot-5m-15m-1h",
+    "stargazers_count": 15,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T22:17:13Z",
+    "updated_at": "2026-08-09T21:22:59Z",
+    "pushed_at": "2026-08-09T00:09:40Z"
+  },
+  {
+    "id": 1322874744,
+    "name": "roundtable",
+    "full_name": "Kostakurta8/roundtable",
+    "owner": {
+      "login": "Kostakurta8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169452104?v=4"
+    },
+    "description": "Watch your Claude Code agents work as a pixel-art office. Replay any second of a session exactly, see what every agent cost. Read-only, 100% local, never calls an API.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "anthropic",
+      "canvas",
+      "claude",
+      "claude-code",
+      "cli",
+      "data-visualization",
+      "developer-tools",
+      "llm",
+      "local-first",
+      "monitoring",
+      "nodejs",
+      "observability",
+      "pixel-art",
+      "terminal",
+      "typescript",
+      "visualization"
+    ],
+    "html_url": "https://github.com/Kostakurta8/roundtable",
+    "stargazers_count": 14,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T11:34:20Z",
+    "updated_at": "2026-08-09T20:43:05Z",
+    "pushed_at": "2026-08-09T20:42:54Z"
+  }
+]

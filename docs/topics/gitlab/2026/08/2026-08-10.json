@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1322746236,
+    "name": "storymap-gitlab",
+    "full_name": "Zet-Cher/storymap-gitlab",
+    "owner": {
+      "login": "Zet-Cher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45843031?v=4"
+    },
+    "description": "A user story map that lives entirely inside GitLab — issues, labels and milestones are the only source of truth.",
+    "topics": [
+      "agile",
+      "gitlab",
+      "product-management",
+      "react",
+      "story-map",
+      "typescript",
+      "user-story-mapping",
+      "vite"
+    ],
+    "html_url": "https://github.com/Zet-Cher/storymap-gitlab",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T09:10:56Z",
+    "updated_at": "2026-08-04T09:43:14Z",
+    "pushed_at": "2026-08-04T09:24:20Z"
+  },
+  {
+    "id": 1321680177,
+    "name": "scrumabanana",
+    "full_name": "NSDmitry/scrumabanana",
+    "owner": {
+      "login": "NSDmitry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13855741?v=4"
+    },
+    "description": "Sprint analytics skills for Claude Code on top of Jira/GitLab MCP: sprint review, daily digest, retro, dev profiles. Read-only.",
+    "topics": [
+      "agile",
+      "gitlab",
+      "jira",
+      "mcp",
+      "scrum",
+      "sprint-analytics"
+    ],
+    "html_url": "https://github.com/NSDmitry/scrumabanana",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T11:27:02Z",
+    "updated_at": "2026-08-04T14:21:39Z",
+    "pushed_at": "2026-08-04T14:19:48Z"
+  },
+  {
+    "id": 1325348405,
+    "name": "root-cause",
+    "full_name": "gleis/root-cause",
+    "owner": {
+      "login": "gleis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7343891?v=4"
+    },
+    "description": "SRE incident investigation tool -- correlates metrics, logs, deployments, and infra events into a timeline, ranked evidence-cited root-cause hypotheses, and a draft postmortem. Local-only LLM (Ollama) and read-only by default.",
+    "topics": [
+      "ai-agents",
+      "alertmanager",
+      "celery",
+      "devops",
+      "fastapi",
+      "gitlab",
+      "incident-response",
+      "kubernetes",
+      "local-ai",
+      "loki",
+      "observability",
+      "oidc",
+      "ollama",
+      "postmortem",
+      "prometheus",
+      "python",
+      "redis",
+      "root-cause-analysis",
+      "slack",
+      "sre"
+    ],
+    "html_url": "https://github.com/gleis/root-cause",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T14:28:55Z",
+    "updated_at": "2026-08-07T19:48:08Z",
+    "pushed_at": "2026-08-06T14:47:27Z"
+  },
+  {
+    "id": 1328143266,
+    "name": "gl-stack",
+    "full_name": "teddymalhan/gl-stack",
+    "owner": {
+      "login": "teddymalhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69086725?v=4"
+    },
+    "description": "GitHub Stacked PR CLI but for GitLab 🌀",
+    "topics": [
+      "developer-tools",
+      "github",
+      "gitlab",
+      "golang"
+    ],
+    "html_url": "https://github.com/teddymalhan/gl-stack",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-08-08T20:33:42Z",
+    "updated_at": "2026-08-09T03:34:08Z",
+    "pushed_at": "2026-08-09T00:31:15Z"
+  },
+  {
+    "id": 1322953376,
+    "name": "ci-status-snapshot",
+    "full_name": "Wisdoverse/ci-status-snapshot",
+    "owner": {
+      "login": "Wisdoverse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169057036?v=4"
+    },
+    "description": "Token-efficient GitHub/GitLab CI + PR/MR status snapshots, silent state watcher, and auto-merge delegation for AI coding agents",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ci",
+      "claude-code",
+      "codex",
+      "github-cli",
+      "gitlab",
+      "glab"
+    ],
+    "html_url": "https://github.com/Wisdoverse/ci-status-snapshot",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T12:57:47Z",
+    "updated_at": "2026-08-04T17:24:55Z",
+    "pushed_at": "2026-08-04T17:24:44Z"
+  },
+  {
+    "id": 1324549057,
+    "name": "opf-tools",
+    "full_name": "cairnsec/opf-tools",
+    "owner": {
+      "login": "cairnsec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313617712?v=4"
+    },
+    "description": "Converters between the Open Pentest Format (OPF) and SARIF, DefectDojo, GitLab, Markdown, HTML and CSV",
+    "topics": [
+      "cli",
+      "code-scanning",
+      "converter",
+      "defectdojo",
+      "gitlab",
+      "opf",
+      "penetration-testing",
+      "pentest",
+      "sarif",
+      "security",
+      "vulnerability"
+    ],
+    "html_url": "https://github.com/cairnsec/opf-tools",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T23:08:24Z",
+    "updated_at": "2026-08-06T23:18:31Z",
+    "pushed_at": "2026-08-06T01:14:23Z"
+  },
+  {
+    "id": 1323605805,
+    "name": "git-closeout",
+    "full_name": "daxiong888/git-closeout",
+    "owner": {
+      "login": "daxiong888",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20814367?v=4"
+    },
+    "description": "Safe Git closeout for coding agents: sync, scope, validate, commit, and push—without sweeping unrelated work into the commit. | 面向编码 Agent 的安全 Git 收尾流程：同步、识别范围、验证、提交和推送，同时避免混入无关改动。",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "codex",
+      "developer-tools",
+      "git",
+      "github",
+      "gitlab",
+      "shell"
+    ],
+    "html_url": "https://github.com/daxiong888/git-closeout",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-05T03:56:42Z",
+    "updated_at": "2026-08-05T04:06:07Z",
+    "pushed_at": "2026-08-05T09:42:40Z"
+  },
+  {
+    "id": 1321701251,
+    "name": "sift",
+    "full_name": "imfemambocus/sift",
+    "owner": {
+      "login": "imfemambocus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34164901?v=4"
+    },
+    "description": "A quiet notification hub. Surfaces only the GitLab activity that actually needs you, ranked and properly searchable.",
+    "topics": [
+      "developer-tools",
+      "gitlab",
+      "gitlab-api",
+      "java",
+      "notifications",
+      "postgresql",
+      "react",
+      "self-hosted",
+      "spring-boot",
+      "tailwindcss",
+      "typescript",
+      "vite"
+    ],
+    "html_url": "https://github.com/imfemambocus/sift",
+    "stargazers_count": 0,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T11:51:06Z",
+    "updated_at": "2026-08-09T18:11:34Z",
+    "pushed_at": "2026-08-09T18:11:15Z"
+  },
+  {
+    "id": 1323381342,
+    "name": "ci-cd-pipeline.gitlab",
+    "full_name": "qFioofa/ci-cd-pipeline.gitlab",
+    "owner": {
+      "login": "qFioofa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145976586?v=4"
+    },
+    "description": "CI-CD pipline реализованный в GitLab для проверки качества кода.",
+    "topics": [
+      "automation",
+      "bash",
+      "bash-script",
+      "ci-cd",
+      "devops",
+      "github",
+      "gitlab",
+      "gitlab-ci",
+      "gitlab-ci-pipeline",
+      "gitlab-ci-runner",
+      "notification",
+      "python3",
+      "shell",
+      "shell-scripting",
+      "telegram",
+      "test",
+      "test-automation",
+      "testing",
+      "workflow",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/qFioofa/ci-cd-pipeline.gitlab",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T21:08:10Z",
+    "updated_at": "2026-08-05T11:55:55Z",
+    "pushed_at": "2026-08-05T11:56:36Z"
+  },
+  {
+    "id": 1324233898,
+    "name": "svn-to-gitlab",
+    "full_name": "Virtual-Tech-Box/svn-to-gitlab",
+    "owner": {
+      "login": "Virtual-Tech-Box",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272063904?v=4"
+    },
+    "description": "Migrate any Subversion deployment to any GitLab deployment — resumable, with byte-for-byte verification of the result",
+    "topics": [
+      "devops",
+      "git",
+      "git-svn",
+      "gitlab",
+      "migration",
+      "python",
+      "subversion",
+      "svn",
+      "version-control",
+      "visualsvn"
+    ],
+    "html_url": "https://github.com/Virtual-Tech-Box/svn-to-gitlab",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T15:56:56Z",
+    "updated_at": "2026-08-06T08:29:11Z",
+    "pushed_at": "2026-08-06T08:27:45Z"
+  },
+  {
+    "id": 1325219099,
+    "name": "gitlab-to-gitea",
+    "full_name": "leandrolalanne/gitlab-to-gitea",
+    "owner": {
+      "login": "leandrolalanne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80170815?v=4"
+    },
+    "description": "Bulk repository migration from GitLab to Gitea, preserving history and visibility",
+    "topics": [
+      "bash",
+      "devops",
+      "gitea",
+      "gitlab",
+      "migration",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/leandrolalanne/gitlab-to-gitea",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T12:36:22Z",
+    "updated_at": "2026-08-06T12:54:37Z",
+    "pushed_at": "2026-08-06T12:48:05Z"
+  },
+  {
+    "id": 1324936349,
+    "name": "bpmn-io-browser-plugin",
+    "full_name": "emaarco/bpmn-io-browser-plugin",
+    "owner": {
+      "login": "emaarco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25871895?v=4"
+    },
+    "description": "See BPMN & DMN diagrams inline on GitHub & GitLab — with a visual before/after diff in every pull & merge request 🔍",
+    "topics": [
+      "bpmn",
+      "bpmn-io",
+      "bpmn-js",
+      "browser-extension",
+      "chrome-extension",
+      "code-review",
+      "diff",
+      "dmn",
+      "dmn-js",
+      "firefox-extension",
+      "github",
+      "gitlab",
+      "typescript"
+    ],
+    "html_url": "https://github.com/emaarco/bpmn-io-browser-plugin",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-08-06T08:12:33Z",
+    "updated_at": "2026-08-07T20:12:49Z",
+    "pushed_at": "2026-08-08T10:47:00Z"
+  },
+  {
+    "id": 1327923864,
+    "name": "gitchorus",
+    "full_name": "unikat-cloud/gitchorus",
+    "owner": {
+      "login": "unikat-cloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275193475?v=4"
+    },
+    "description": "Bidirektionaler, SHA-identischer GitHub-GitLab-Sync (main + Tags) per CI/CD",
+    "topics": [
+      "automation",
+      "cicd",
+      "git-sync",
+      "github",
+      "gitlab",
+      "mirror"
+    ],
+    "html_url": "https://github.com/unikat-cloud/gitchorus",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T16:01:44Z",
+    "updated_at": "2026-08-08T17:50:13Z",
+    "pushed_at": "2026-08-08T17:50:10Z"
+  },
+  {
+    "id": 1323602575,
+    "name": "software-builder",
+    "full_name": "luckyrjain/software-builder",
+    "owner": {
+      "login": "luckyrjain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25107779?v=4"
+    },
+    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org rollups — registry-driven install, behavioral evals, composition contracts.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "cursor",
+      "datadog",
+      "devops",
+      "gitlab",
+      "incident-response",
+      "kubernetes",
+      "mcp",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/luckyrjain/software-builder",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-08-05T03:51:55Z",
+    "updated_at": "2026-08-10T00:49:00Z",
+    "pushed_at": "2026-08-10T01:47:24Z"
+  },
+  {
+    "id": 1324366071,
+    "name": "gitlab-monitor-hacs",
+    "full_name": "lukislp/gitlab-monitor-hacs",
+    "owner": {
+      "login": "lukislp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155678024?v=4"
+    },
+    "description": "Home Assistant integration (HACS) for GitLab — pipelines, issues, MRs & releases as sensors per repository. Works with gitlab.com and self-hosted instances; fully UI-configurable, no YAML.",
+    "topics": [
+      "custom-component",
+      "gitlab",
+      "hacs",
+      "home-assistant",
+      "integration",
+      "monitoring",
+      "python"
+    ],
+    "html_url": "https://github.com/lukislp/gitlab-monitor-hacs",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T18:26:37Z",
+    "updated_at": "2026-08-07T13:04:15Z",
+    "pushed_at": "2026-08-05T21:35:34Z"
+  }
+]

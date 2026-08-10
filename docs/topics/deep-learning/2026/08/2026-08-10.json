@@ -1,0 +1,603 @@
+[
+  {
+    "id": 1324058131,
+    "name": "light-loco-parkour",
+    "full_name": "lucidrains/light-loco-parkour",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of Light Loco Parkour, Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation, out of Light Origins Labs",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "locomotion",
+      "robotics"
+    ],
+    "html_url": "https://github.com/lucidrains/light-loco-parkour",
+    "stargazers_count": 14,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T13:06:07Z",
+    "updated_at": "2026-08-10T01:54:25Z",
+    "pushed_at": "2026-08-10T00:47:10Z"
+  },
+  {
+    "id": 1324745873,
+    "name": "car-damage-detecting-MaskRCNN",
+    "full_name": "antonio-gaskin/car-damage-detecting-MaskRCNN",
+    "owner": {
+      "login": "antonio-gaskin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217666543?v=4"
+    },
+    "description": "Flask app for car damage detection and repair cost estimation using Mask R-CNN",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "flask",
+      "image-annotation",
+      "instance-segmentation",
+      "mask-rcnn",
+      "object-detection",
+      "python",
+      "transfer-learning",
+      "vehicle-damage-detection"
+    ],
+    "html_url": "https://github.com/antonio-gaskin/car-damage-detecting-MaskRCNN",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T04:46:03Z",
+    "updated_at": "2026-08-10T01:47:53Z",
+    "pushed_at": "2026-08-06T04:50:04Z"
+  },
+  {
+    "id": 1321574929,
+    "name": "awesome-geospatial-super-resolution",
+    "full_name": "khlaifiabilel/awesome-geospatial-super-resolution",
+    "owner": {
+      "login": "khlaifiabilel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31816208?v=4"
+    },
+    "description": "A curated list of algorithms, datasets, models, code, and papers for super-resolution of geospatial and remote sensing data (Sentinel-2 and beyond)",
+    "topics": [
+      "awesome-list",
+      "deep-learning",
+      "earth-observation",
+      "geospatial",
+      "image-fusion",
+      "pansharpening",
+      "remote-sensing",
+      "satellite-imagery",
+      "sentinel-2",
+      "super-resolution"
+    ],
+    "html_url": "https://github.com/khlaifiabilel/awesome-geospatial-super-resolution",
+    "stargazers_count": 9,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T10:13:42Z",
+    "updated_at": "2026-08-04T11:03:16Z",
+    "pushed_at": "2026-08-03T10:19:47Z"
+  },
+  {
+    "id": 1326271757,
+    "name": "resnet-from-scratch-pytorch",
+    "full_name": "antonio-gaskin/resnet-from-scratch-pytorch",
+    "owner": {
+      "login": "antonio-gaskin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217666543?v=4"
+    },
+    "description": "PyTorch project implementing ResNet architectures from scratch, including custom training experiments, architecture variants, and batch-size studies for optimal performance.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "image-classification",
+      "machine-learning",
+      "neural-network",
+      "python",
+      "pytorch",
+      "research",
+      "resnet",
+      "training-experiments"
+    ],
+    "html_url": "https://github.com/antonio-gaskin/resnet-from-scratch-pytorch",
+    "stargazers_count": 9,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T05:58:38Z",
+    "updated_at": "2026-08-10T01:34:55Z",
+    "pushed_at": "2026-08-07T05:59:38Z"
+  },
+  {
+    "id": 1324735353,
+    "name": "action-recognition-cnn-lstm",
+    "full_name": "antonio-gaskin/action-recognition-cnn-lstm",
+    "owner": {
+      "login": "antonio-gaskin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217666543?v=4"
+    },
+    "description": "Fused ConvLSTM + LSTM action recognition for American Sign Language and UCF video datasets using pose-based skeleton features.",
+    "topics": [
+      "action-recognition",
+      "convlstm",
+      "deep-learning",
+      "human-pose-estimation",
+      "keras",
+      "lstm",
+      "mediapipe",
+      "pose-estimation",
+      "sign-language",
+      "video-classification"
+    ],
+    "html_url": "https://github.com/antonio-gaskin/action-recognition-cnn-lstm",
+    "stargazers_count": 9,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T04:28:47Z",
+    "updated_at": "2026-08-10T01:52:07Z",
+    "pushed_at": "2026-08-06T04:32:52Z"
+  },
+  {
+    "id": 1325214468,
+    "name": "image-captioning",
+    "full_name": "antonio-gaskin/image-captioning",
+    "owner": {
+      "login": "antonio-gaskin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217666543?v=4"
+    },
+    "description": "Image captioning using AI models to generate descriptive text from images",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "image-captioning",
+      "image-processing",
+      "machine-learning",
+      "nlp",
+      "python",
+      "vision-language-model"
+    ],
+    "html_url": "https://github.com/antonio-gaskin/image-captioning",
+    "stargazers_count": 9,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T12:31:49Z",
+    "updated_at": "2026-08-10T01:41:14Z",
+    "pushed_at": "2026-08-06T12:33:45Z"
+  },
+  {
+    "id": 1321814177,
+    "name": "deep-learning-notes",
+    "full_name": "jshn9515/deep-learning-notes",
+    "owner": {
+      "login": "jshn9515",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240566314?v=4"
+    },
+    "description": "Personal deep learning study notes and tutorial-style notebooks",
+    "topics": [
+      "deep-learning",
+      "deep-learning-tutorial",
+      "jupyter-notebooks",
+      "pytorch",
+      "quarto",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/jshn9515/deep-learning-notes",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-03T13:27:15Z",
+    "updated_at": "2026-08-09T15:47:26Z",
+    "pushed_at": "2026-08-09T15:47:16Z"
+  },
+  {
+    "id": 1325290208,
+    "name": "xai-attack-defense-framework",
+    "full_name": "mithinsagar/xai-attack-defense-framework",
+    "owner": {
+      "login": "mithinsagar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249996266?v=4"
+    },
+    "description": "Robustness analysis of post-hoc XAI explanations under adversarial perturbations — covering SHAP, LIME, and Integrated Gradients across phishing, intrusion detection, and fraud datasets, with four attack strategies and hybrid defense achieving 91.1% explanation drift reduction.",
+    "topics": [
+      "adversarial-attacks",
+      "cybersecurity",
+      "deep-learning",
+      "explainable-ai",
+      "lime",
+      "pytorch",
+      "shap",
+      "xai"
+    ],
+    "html_url": "https://github.com/mithinsagar/xai-attack-defense-framework",
+    "stargazers_count": 7,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T13:39:35Z",
+    "updated_at": "2026-08-09T15:48:16Z",
+    "pushed_at": "2026-08-06T15:12:37Z"
+  },
+  {
+    "id": 1324892623,
+    "name": "train-studio",
+    "full_name": "nanofatdog/train-studio",
+    "owner": {
+      "login": "nanofatdog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210469714?v=4"
+    },
+    "description": "Train Studio - SFT LoRA Web UI (Gradio): hardware detect, GPU select, config, train/resume, merge tool",
+    "topics": [
+      "deep-learning",
+      "fine-tuning",
+      "gguf",
+      "gpu",
+      "gradio",
+      "huggingface",
+      "llm",
+      "llm-finetuning",
+      "lora",
+      "machine-learning",
+      "sft",
+      "sft-training",
+      "training",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/nanofatdog/train-studio",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T07:31:34Z",
+    "updated_at": "2026-08-06T19:42:40Z",
+    "pushed_at": "2026-08-06T12:33:08Z"
+  },
+  {
+    "id": 1328812934,
+    "name": "ai-engineering-roadmap",
+    "full_name": "ahmetmelihcalis/ai-engineering-roadmap",
+    "owner": {
+      "login": "ahmetmelihcalis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182358572?v=4"
+    },
+    "description": "The GitHub repository for aiengineeringroadmap.com",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "mcp",
+      "python"
+    ],
+    "html_url": "https://github.com/ahmetmelihcalis/ai-engineering-roadmap",
+    "stargazers_count": 5,
+    "language": "MDX",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T13:08:15Z",
+    "updated_at": "2026-08-09T17:28:36Z",
+    "pushed_at": "2026-08-09T14:39:50Z"
+  },
+  {
+    "id": 1321054368,
+    "name": "Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
+    "full_name": "mahoorifatemeh-byte/Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
+    "owner": {
+      "login": "mahoorifatemeh-byte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245078200?v=4"
+    },
+    "description": "Multi‑agent RL for load balancing across heterogeneous servers, with a learned surrogate model to speed up training. Compares real‑simulator training vs. surrogate‑based training.",
+    "topics": [
+      "deep-learning",
+      "discrete-event-simulation",
+      "dqn",
+      "multi-agent-rl",
+      "pytorch",
+      "queueing-theory",
+      "simpy",
+      "surrogate-models"
+    ],
+    "html_url": "https://github.com/mahoorifatemeh-byte/Multi-Agent-RL-Load-Balancing-with-Surrogate-Model",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T01:10:48Z",
+    "updated_at": "2026-08-08T01:51:04Z",
+    "pushed_at": "2026-08-08T01:51:00Z"
+  },
+  {
+    "id": 1321835093,
+    "name": "Scanvidence",
+    "full_name": "Scanvidence/Scanvidence",
+    "owner": {
+      "login": "Scanvidence",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312273762?v=4"
+    },
+    "description": "Explainable, uncertainty-aware medical imaging detection, a unified platform for brain tumor and Alzheimer's disease detection.🧠🔬",
+    "topics": [
+      "alzheimers-disease",
+      "brain-tumor",
+      "deep-learning",
+      "explainable-ai",
+      "machine-learning",
+      "medical-imaging",
+      "mri",
+      "quantum-computing",
+      "radiomics",
+      "uncertainty-aware",
+      "uncertainty-estimation",
+      "vision-transformer",
+      "xai"
+    ],
+    "html_url": "https://github.com/Scanvidence/Scanvidence",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T13:48:04Z",
+    "updated_at": "2026-08-07T08:16:43Z",
+    "pushed_at": "2026-08-07T08:14:18Z"
+  },
+  {
+    "id": 1322840900,
+    "name": "antispoofing-fr",
+    "full_name": "Morteza-Asadi-Shalmaiy/antispoofing-fr",
+    "owner": {
+      "login": "Morteza-Asadi-Shalmaiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242933177?v=4"
+    },
+    "description": "Convolutional VAE trained on CelebA — face reconstruction, prior-sampled generation, and latent-space interpolation in a single Colab notebook.",
+    "topics": [
+      "celeba",
+      "colab",
+      "computer-vision",
+      "deep-learning",
+      "face-generation",
+      "generative-models",
+      "latent-space",
+      "pytorch",
+      "vae",
+      "variational-autoencoder"
+    ],
+    "html_url": "https://github.com/Morteza-Asadi-Shalmaiy/antispoofing-fr",
+    "stargazers_count": 3,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T10:56:59Z",
+    "updated_at": "2026-08-10T00:34:18Z",
+    "pushed_at": "2026-08-04T11:53:54Z"
+  },
+  {
+    "id": 1327075151,
+    "name": "medtokenizers",
+    "full_name": "liamchalcroft/medtokenizers",
+    "owner": {
+      "login": "liamchalcroft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56733080?v=4"
+    },
+    "description": "Tokenizers for 2D and 3D medical images: VQ, LFQ, FSQ, Residual FSQ, VAE, and AE quantizers behind one backbone.",
+    "topics": [
+      "autoencoder",
+      "deep-learning",
+      "discrete-representations",
+      "finite-scalar-quantization",
+      "image-compression",
+      "lookup-free-quantization",
+      "machine-learning",
+      "medical-imaging",
+      "medmnist",
+      "pytorch",
+      "representation-learning",
+      "tokenization",
+      "vector-quantization",
+      "vqvae"
+    ],
+    "html_url": "https://github.com/liamchalcroft/medtokenizers",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T19:17:14Z",
+    "updated_at": "2026-08-08T09:07:29Z",
+    "pushed_at": "2026-08-07T21:26:14Z"
+  },
+  {
+    "id": 1323255936,
+    "name": "ModelAnalyzer",
+    "full_name": "leonardozh1709/ModelAnalyzer",
+    "owner": {
+      "login": "leonardozh1709",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313097608?v=4"
+    },
+    "description": "A lightweight hook-based analysis utility for PyTorch modules. Gradients, forward and backward activations and more.",
+    "topics": [
+      "deep-learning",
+      "matplotlib",
+      "model-interpretability",
+      "neural-network",
+      "pytorch",
+      "visualization"
+    ],
+    "html_url": "https://github.com/leonardozh1709/ModelAnalyzer",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T18:22:15Z",
+    "updated_at": "2026-08-08T09:55:35Z",
+    "pushed_at": "2026-08-04T18:37:52Z"
+  },
+  {
+    "id": 1321812942,
+    "name": "dnnl-notebooks",
+    "full_name": "jshn9515/dnnl-notebooks",
+    "owner": {
+      "login": "jshn9515",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240566314?v=4"
+    },
+    "description": "Personal deep learning study notes and tutorial-style notebooks",
+    "topics": [
+      "deep-learning",
+      "deep-learning-tutorial",
+      "jupyter-notebooks",
+      "pytorch",
+      "quarto",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/jshn9515/dnnl-notebooks",
+    "stargazers_count": 3,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T13:26:08Z",
+    "updated_at": "2026-08-09T15:04:42Z",
+    "pushed_at": "2026-08-05T21:56:02Z"
+  },
+  {
+    "id": 1321099078,
+    "name": "Verace-V1",
+    "full_name": "Verace-Pvt-Ltd/Verace-V1",
+    "owner": {
+      "login": "Verace-Pvt-Ltd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269182330?v=4"
+    },
+    "description": "A next-generation, multimodal LLM architecture  linear-time attention, O(1) associative memory, and adaptive per-token compute, built from first principles. Reference implementation, no pretrained weights yet.",
+    "topics": [
+      "attention",
+      "attention-mechanism",
+      "deep-learning",
+      "deep-neural-networks",
+      "deeplearning",
+      "language-model",
+      "llm",
+      "mixture-of-experts",
+      "multimodal",
+      "python",
+      "pytorch",
+      "pytorch-implementation",
+      "research",
+      "transformer",
+      "transformers"
+    ],
+    "html_url": "https://github.com/Verace-Pvt-Ltd/Verace-V1",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T02:15:53Z",
+    "updated_at": "2026-08-04T06:34:17Z",
+    "pushed_at": "2026-08-03T20:13:55Z"
+  },
+  {
+    "id": 1323214301,
+    "name": "Superres-fr",
+    "full_name": "Morteza-Asadi-Shalmaiy/Superres-fr",
+    "owner": {
+      "login": "Morteza-Asadi-Shalmaiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242933177?v=4"
+    },
+    "description": "Convolutional autoencoder trained from scratch on CelebA faces — 128-dim latent space, full checkpoint/resume support, built to run end-to-end in Google Colab.",
+    "topics": [
+      "autoencoder",
+      "celeba",
+      "computer-vision",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "google-colab",
+      "image-reconstruction",
+      "pytorch",
+      "unsupervised-learning"
+    ],
+    "html_url": "https://github.com/Morteza-Asadi-Shalmaiy/Superres-fr",
+    "stargazers_count": 3,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T17:33:19Z",
+    "updated_at": "2026-08-09T22:32:28Z",
+    "pushed_at": "2026-08-04T18:58:50Z"
+  },
+  {
+    "id": 1324707269,
+    "name": "multi-task-facial-behaviour-and-occlusion-detection",
+    "full_name": "biswojit-11/multi-task-facial-behaviour-and-occlusion-detection",
+    "owner": {
+      "login": "biswojit-11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206232212?v=4"
+    },
+    "description": "Real-time facial emotion recognition and facial occlusion detection using ResNet-18 + CBAM, MTCNN, and MediaPipe FaceMesh.",
+    "topics": [
+      "cbam",
+      "computer-vision",
+      "deep-learning",
+      "facial-emotion-recognition",
+      "machine-learning",
+      "mediapipe",
+      "mtcnn",
+      "opencv",
+      "python",
+      "pytorch",
+      "real-time",
+      "resnet-18"
+    ],
+    "html_url": "https://github.com/biswojit-11/multi-task-facial-behaviour-and-occlusion-detection",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T03:42:17Z",
+    "updated_at": "2026-08-06T04:47:24Z",
+    "pushed_at": "2026-08-06T04:05:48Z"
+  },
+  {
+    "id": 1327853744,
+    "name": "AI-Engineer-Interview",
+    "full_name": "M-Taghizadeh/AI-Engineer-Interview",
+    "owner": {
+      "login": "M-Taghizadeh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52507814?v=4"
+    },
+    "description": "An open-source, bilingual (Persian & English), interactive interview preparation platform designed for modern AI Engineers, LLM & RAG Developers, and MLOps Practitioners.",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-engineer",
+      "ai-engineering",
+      "computer-vision",
+      "data-analysis",
+      "deep-learning",
+      "deep-neural-networks",
+      "graph-rag",
+      "graphrag",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "rag",
+      "transformers"
+    ],
+    "html_url": "https://github.com/M-Taghizadeh/AI-Engineer-Interview",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T14:45:51Z",
+    "updated_at": "2026-08-08T20:28:59Z",
+    "pushed_at": "2026-08-08T16:22:54Z"
+  }
+]

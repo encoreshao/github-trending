@@ -1,0 +1,606 @@
+[
+  {
+    "id": 1328527258,
+    "name": "codex-bridge",
+    "full_name": "Sateezg/codex-bridge",
+    "owner": {
+      "login": "Sateezg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196150541?v=4"
+    },
+    "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "gpt-5",
+      "gpt-image-2",
+      "image-generation",
+      "openai"
+    ],
+    "html_url": "https://github.com/Sateezg/codex-bridge",
+    "stargazers_count": 342,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T06:57:08Z",
+    "updated_at": "2026-08-10T01:59:27Z",
+    "pushed_at": "2026-08-09T09:02:12Z"
+  },
+  {
+    "id": 1326574350,
+    "name": "mcp-server",
+    "full_name": "sv-number/mcp-server",
+    "owner": {
+      "login": "sv-number",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299902966?v=4"
+    },
+    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "mcp",
+      "model-context-protocol",
+      "otp",
+      "phone-verification",
+      "sms",
+      "typescript"
+    ],
+    "html_url": "https://github.com/sv-number/mcp-server",
+    "stargazers_count": 250,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T11:13:26Z",
+    "updated_at": "2026-08-10T01:29:04Z",
+    "pushed_at": "2026-08-09T16:11:22Z"
+  },
+  {
+    "id": 1322640431,
+    "name": "wai-play",
+    "full_name": "waiterve/wai-play",
+    "owner": {
+      "login": "waiterve",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269487945?v=4"
+    },
+    "description": "WAI Play - AI web game testing and quality evaluation platform",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "game",
+      "game-testing",
+      "python"
+    ],
+    "html_url": "https://github.com/waiterve/wai-play",
+    "stargazers_count": 234,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T07:20:22Z",
+    "updated_at": "2026-08-10T01:47:44Z",
+    "pushed_at": "2026-08-04T09:03:05Z"
+  },
+  {
+    "id": 1327912711,
+    "name": "KADATH",
+    "full_name": "i3T4AN/KADATH",
+    "owner": {
+      "login": "i3T4AN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67167910?v=4"
+    },
+    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+    "topics": [
+      "agent-evaluation-tools",
+      "agent-framework",
+      "agent-swarms",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "autonomous-agents",
+      "evolutionary-algorithms",
+      "generative-ai",
+      "genetic-algorithm",
+      "llm",
+      "llm-agents",
+      "llm-evaluation",
+      "multi-agent",
+      "multi-agent-systems",
+      "self-evolving-agents"
+    ],
+    "html_url": "https://github.com/i3T4AN/KADATH",
+    "stargazers_count": 169,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T15:49:55Z",
+    "updated_at": "2026-08-10T01:25:41Z",
+    "pushed_at": "2026-08-09T21:01:28Z"
+  },
+  {
+    "id": 1325322542,
+    "name": "agent-skills-collection",
+    "full_name": "oliverb-io1902e8/agent-skills-collection",
+    "owner": {
+      "login": "oliverb-io1902e8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278994798?v=4"
+    },
+    "description": "Curated collection of modular agent skills for LLM-based agents",
+    "topics": [
+      "agent-skills",
+      "agentic-workflow",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "automation",
+      "chatgpt",
+      "claude",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "python"
+    ],
+    "html_url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+    "stargazers_count": 134,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T14:07:02Z",
+    "updated_at": "2026-08-09T21:25:16Z",
+    "pushed_at": "2026-08-09T06:25:00Z"
+  },
+  {
+    "id": 1321088913,
+    "name": "public-data-lens",
+    "full_name": "hike-lab/public-data-lens",
+    "owner": {
+      "login": "hike-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79457807?v=4"
+    },
+    "description": "MCP-based discovery and judgment layer for Korea’s open data portal—helping AI agents find, compare, and assess datasets with explicit evidence, JSON-LD/DCAT metadata, and versioned deterministic rules.",
+    "topics": [
+      "ai-agents",
+      "ai-ready-data",
+      "data-catalog",
+      "data-discovery",
+      "data-quality",
+      "dcat",
+      "json-ld",
+      "korea",
+      "mcp",
+      "model-context-protocol",
+      "ontology",
+      "open-data",
+      "open-government-data",
+      "public-data",
+      "shacl"
+    ],
+    "html_url": "https://github.com/hike-lab/public-data-lens",
+    "stargazers_count": 75,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 5,
+    "created_at": "2026-08-03T02:02:25Z",
+    "updated_at": "2026-08-08T19:21:00Z",
+    "pushed_at": "2026-08-10T00:48:39Z"
+  },
+  {
+    "id": 1326394720,
+    "name": "skills",
+    "full_name": "sv-number/skills",
+    "owner": {
+      "login": "sv-number",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299902966?v=4"
+    },
+    "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
+    "topics": [
+      "agent-skill",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "codex",
+      "otp",
+      "phone-verification",
+      "sms"
+    ],
+    "html_url": "https://github.com/sv-number/skills",
+    "stargazers_count": 71,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T08:14:34Z",
+    "updated_at": "2026-08-10T01:29:59Z",
+    "pushed_at": "2026-08-07T17:48:43Z"
+  },
+  {
+    "id": 1325206693,
+    "name": "juror",
+    "full_name": "Juror-AI/juror",
+    "owner": {
+      "login": "Juror-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314188773?v=4"
+    },
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "topics": [
+      "ai-agents",
+      "ai-code-review",
+      "cli",
+      "code-quality",
+      "code-review",
+      "codex",
+      "developer-tools",
+      "devtools",
+      "github-action",
+      "github-actions",
+      "llm",
+      "llmops",
+      "pull-request",
+      "static-analysis",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Juror-AI/juror",
+    "stargazers_count": 66,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 7,
+    "created_at": "2026-08-06T12:24:49Z",
+    "updated_at": "2026-08-09T15:51:08Z",
+    "pushed_at": "2026-08-09T09:17:26Z"
+  },
+  {
+    "id": 1324527947,
+    "name": "index",
+    "full_name": "mintlify/index",
+    "owner": {
+      "login": "mintlify",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93011474?v=4"
+    },
+    "description": "Mintlify Index: retrieval engine and MCP server. Install: npx mint index",
+    "topics": [
+      "ai-agents",
+      "documentation",
+      "mcp",
+      "retrieval"
+    ],
+    "html_url": "https://github.com/mintlify/index",
+    "stargazers_count": 40,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-08-05T22:27:42Z",
+    "updated_at": "2026-08-10T01:16:51Z",
+    "pushed_at": "2026-08-06T22:39:09Z"
+  },
+  {
+    "id": 1321397116,
+    "name": "AI-Knowledge-Management-Platform",
+    "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
+    "owner": {
+      "login": "TOPDEV99999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296813120?v=4"
+    },
+    "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "generative-ai",
+      "large-language-models",
+      "llm",
+      "llm-agents"
+    ],
+    "html_url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
+    "stargazers_count": 35,
+    "language": "Jupyter Notebook",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T07:36:22Z",
+    "updated_at": "2026-08-10T00:52:54Z",
+    "pushed_at": "2026-08-03T07:42:30Z"
+  },
+  {
+    "id": 1324853220,
+    "name": "bubble-agent-mcp",
+    "full_name": "alijancb/bubble-agent-mcp",
+    "owner": {
+      "login": "alijancb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97835009?v=4"
+    },
+    "description": "Open-source MCP server for discovering fast-growing internet conversations with Bubble Agent",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "codex",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/alijancb/bubble-agent-mcp",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-08-06T06:50:40Z",
+    "updated_at": "2026-08-08T13:41:55Z",
+    "pushed_at": "2026-08-07T08:25:26Z"
+  },
+  {
+    "id": 1321275205,
+    "name": "pristine-skill",
+    "full_name": "newbanser/pristine-skill",
+    "owner": {
+      "login": "newbanser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279378443?v=4"
+    },
+    "description": "An agent skill enforcing the First-Time Principle: write every change in its final form — no patches, no what-comments, no leftovers, no local/deployed drift. Cross-platform: Claude Code, Codex, OpenCode.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-principles",
+      "opencode"
+    ],
+    "html_url": "https://github.com/newbanser/pristine-skill",
+    "stargazers_count": 30,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T05:36:51Z",
+    "updated_at": "2026-08-10T01:06:15Z",
+    "pushed_at": "2026-08-10T01:07:13Z"
+  },
+  {
+    "id": 1323487520,
+    "name": "hud-mode",
+    "full_name": "adrida/hud-mode",
+    "owner": {
+      "login": "adrida",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26824656?v=4"
+    },
+    "description": "A compact heads-up display for your coding agent. Instruments while it works, the answer when it stops. Claude Code, Codex, OpenCode.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "opencode",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/adrida/hud-mode",
+    "stargazers_count": 27,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T00:33:45Z",
+    "updated_at": "2026-08-08T14:04:52Z",
+    "pushed_at": "2026-08-05T04:51:46Z"
+  },
+  {
+    "id": 1321988451,
+    "name": "goal-to-game",
+    "full_name": "thrixel/goal-to-game",
+    "owner": {
+      "login": "thrixel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253811306?v=4"
+    },
+    "description": "Build beautiful games with high-quality 3D assets using Thrixel and Claude Code.",
+    "topics": [
+      "3d-assets",
+      "ai-agents",
+      "claude-code",
+      "claude-skills",
+      "game-prototyping",
+      "gamedev",
+      "mcp",
+      "model-context-protocol",
+      "text-to-3d",
+      "threejs",
+      "thrixel",
+      "unity"
+    ],
+    "html_url": "https://github.com/thrixel/goal-to-game",
+    "stargazers_count": 25,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T16:14:49Z",
+    "updated_at": "2026-08-09T11:46:02Z",
+    "pushed_at": "2026-08-07T00:15:35Z"
+  },
+  {
+    "id": 1322882679,
+    "name": "practicaltypography",
+    "full_name": "danium/practicaltypography",
+    "owner": {
+      "login": "danium",
+      "avatar_url": "https://avatars.githubusercontent.com/u/812157?v=4"
+    },
+    "description": "Typography skill for AI agents - audit and produce publication-grade text. Butterick's Practical Typography for your coding agent.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-skills",
+      "skills",
+      "typography"
+    ],
+    "html_url": "https://github.com/danium/practicaltypography",
+    "stargazers_count": 24,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T11:43:04Z",
+    "updated_at": "2026-08-08T01:24:02Z",
+    "pushed_at": "2026-08-05T14:33:46Z"
+  },
+  {
+    "id": 1326452281,
+    "name": "slopware-skills",
+    "full_name": "transcendr/slopware-skills",
+    "owner": {
+      "login": "transcendr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37011672?v=4"
+    },
+    "description": "Free, portable AI agent skills and plugins for Codex, Claude Code, and Agent Skills clients by Slopware Engineer (@aienginerd). Home of the MSW Kernel for Minimum Sufficient Work.",
+    "topics": [
+      "agent-plugins",
+      "agent-skills",
+      "ai-agents",
+      "ai-coding-agent",
+      "claude-code",
+      "claude-code-plugins",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "developer-tools",
+      "minimum-sufficient-work",
+      "msw",
+      "openai-codex",
+      "slopware"
+    ],
+    "html_url": "https://github.com/transcendr/slopware-skills",
+    "stargazers_count": 24,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T09:09:10Z",
+    "updated_at": "2026-08-09T15:08:21Z",
+    "pushed_at": "2026-08-08T17:35:28Z"
+  },
+  {
+    "id": 1327109697,
+    "name": "fde-guide",
+    "full_name": "davidahmann/fde-guide",
+    "owner": {
+      "login": "davidahmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46606159?v=4"
+    },
+    "description": "Value engineering and production architecture for FDEs and AI engineers.",
+    "topics": [
+      "agent-architecture",
+      "agent-engineering",
+      "agentic-ai",
+      "agentops",
+      "ai-agents",
+      "ai-engineering",
+      "ai-security",
+      "ai-systems",
+      "applied-ai",
+      "context-engineering",
+      "fde",
+      "forward-deployed-engineering",
+      "json-schema",
+      "llm-evaluation",
+      "mcp",
+      "multi-agent-systems",
+      "observability",
+      "production-ai",
+      "software-architecture",
+      "value-engineering"
+    ],
+    "html_url": "https://github.com/davidahmann/fde-guide",
+    "stargazers_count": 18,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T19:58:20Z",
+    "updated_at": "2026-08-10T01:34:00Z",
+    "pushed_at": "2026-08-09T22:21:43Z"
+  },
+  {
+    "id": 1323869266,
+    "name": "imark",
+    "full_name": "migsilva89/imark",
+    "owner": {
+      "login": "migsilva89",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85745515?v=4"
+    },
+    "description": "💬 Native Markdown reader for macOS. Keep it open while you write and it follows every save. Comment on a phrase and the note is saved into the .md file itself. Your coding agent can open a plan here and wait while you mark it up.",
+    "topics": [
+      "ai-agents",
+      "annotations",
+      "appkit",
+      "claude-code",
+      "code-review",
+      "macos",
+      "markdown",
+      "markdown-editor",
+      "markdown-viewer",
+      "native-app",
+      "quicklook",
+      "swift"
+    ],
+    "html_url": "https://github.com/migsilva89/imark",
+    "stargazers_count": 17,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T09:29:35Z",
+    "updated_at": "2026-08-09T22:51:39Z",
+    "pushed_at": "2026-08-09T17:15:12Z"
+  },
+  {
+    "id": 1321063327,
+    "name": "nexusos",
+    "full_name": "asimons81/nexusos",
+    "owner": {
+      "login": "asimons81",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214744153?v=4"
+    },
+    "description": "Files you own. Memory your agents can trust. Also: your AI won't gaslight you about what's in your own notes anymore.",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "fts5",
+      "knowledge-management",
+      "local-first",
+      "markdown",
+      "mcp-server",
+      "memory",
+      "second-brain",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/asimons81/nexusos",
+    "stargazers_count": 17,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T01:24:55Z",
+    "updated_at": "2026-08-09T23:51:15Z",
+    "pushed_at": "2026-08-09T23:51:11Z"
+  },
+  {
+    "id": 1328287322,
+    "name": "ship-it",
+    "full_name": "LunkiBR/ship-it",
+    "owner": {
+      "login": "LunkiBR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111322783?v=4"
+    },
+    "description": "A Claude Code skill that catches commonly-forgotten UX/product details before you ship a screen or feature.",
+    "topics": [
+      "accessibility",
+      "agent-skills",
+      "ai-agents",
+      "checklist",
+      "claude-code",
+      "claude-skills",
+      "developer-tools",
+      "product-design",
+      "ux-checklist"
+    ],
+    "html_url": "https://github.com/LunkiBR/ship-it",
+    "stargazers_count": 16,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T00:28:45Z",
+    "updated_at": "2026-08-09T21:43:11Z",
+    "pushed_at": "2026-08-09T17:32:21Z"
+  }
+]

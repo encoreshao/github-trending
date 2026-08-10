@@ -1,0 +1,576 @@
+[
+  {
+    "id": 1324285410,
+    "name": "claude-red",
+    "full_name": "0xwilliamortiz/claude-red",
+    "owner": {
+      "login": "0xwilliamortiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
+    },
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "topics": [
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "redteam",
+      "redteaming",
+      "skill",
+      "skills"
+    ],
+    "html_url": "https://github.com/0xwilliamortiz/claude-red",
+    "stargazers_count": 707,
+    "language": "JavaScript",
+    "forks_count": 89,
+    "open_issues_count": 1,
+    "created_at": "2026-08-05T16:54:36Z",
+    "updated_at": "2026-08-10T01:41:51Z",
+    "pushed_at": "2026-08-09T01:21:30Z"
+  },
+  {
+    "id": 1322509558,
+    "name": "LongHorizon-Harness",
+    "full_name": "AMAP-ML/LongHorizon-Harness",
+    "owner": {
+      "login": "AMAP-ML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
+    },
+    "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+    "topics": [
+      "agent",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "cli",
+      "codex",
+      "codex-desktop",
+      "codex-plugin",
+      "cua",
+      "gui",
+      "harness",
+      "long-horizon",
+      "long-horizon-agents",
+      "longhorizon-harness",
+      "loop",
+      "loop-engineering"
+    ],
+    "html_url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+    "stargazers_count": 509,
+    "language": "Python",
+    "forks_count": 63,
+    "open_issues_count": 6,
+    "created_at": "2026-08-04T04:30:58Z",
+    "updated_at": "2026-08-10T01:58:21Z",
+    "pushed_at": "2026-08-07T09:03:51Z"
+  },
+  {
+    "id": 1328527258,
+    "name": "codex-bridge",
+    "full_name": "Sateezg/codex-bridge",
+    "owner": {
+      "login": "Sateezg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196150541?v=4"
+    },
+    "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "gpt-5",
+      "gpt-image-2",
+      "image-generation",
+      "openai"
+    ],
+    "html_url": "https://github.com/Sateezg/codex-bridge",
+    "stargazers_count": 342,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T06:57:08Z",
+    "updated_at": "2026-08-10T01:59:27Z",
+    "pushed_at": "2026-08-09T09:02:12Z"
+  },
+  {
+    "id": 1326574350,
+    "name": "mcp-server",
+    "full_name": "sv-number/mcp-server",
+    "owner": {
+      "login": "sv-number",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299902966?v=4"
+    },
+    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "mcp",
+      "model-context-protocol",
+      "otp",
+      "phone-verification",
+      "sms",
+      "typescript"
+    ],
+    "html_url": "https://github.com/sv-number/mcp-server",
+    "stargazers_count": 250,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T11:13:26Z",
+    "updated_at": "2026-08-10T01:29:04Z",
+    "pushed_at": "2026-08-09T16:11:22Z"
+  },
+  {
+    "id": 1322798245,
+    "name": "diri",
+    "full_name": "cristicretu/diri",
+    "owner": {
+      "login": "cristicretu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45521157?v=4"
+    },
+    "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+    "topics": [
+      "claude-code",
+      "coding-agents",
+      "gpui",
+      "macos",
+      "mcp",
+      "rust",
+      "swift",
+      "terminal"
+    ],
+    "html_url": "https://github.com/cristicretu/diri",
+    "stargazers_count": 233,
+    "language": "Rust",
+    "forks_count": 16,
+    "open_issues_count": 7,
+    "created_at": "2026-08-04T10:08:23Z",
+    "updated_at": "2026-08-09T21:11:21Z",
+    "pushed_at": "2026-08-09T20:35:44Z"
+  },
+  {
+    "id": 1322850354,
+    "name": "xiaoma-durex-copywriter",
+    "full_name": "crawfordxx/xiaoma-durex-copywriter",
+    "owner": {
+      "login": "crawfordxx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59634664?v=4"
+    },
+    "description": "杜蕾斯式文案与海报 Skill for Claude Code —— 双层语义方法论 + 8 个文案公式 + 从 260 张原始海报拆解的视觉系统 + AI 出图/代码排版管线",
+    "topics": [
+      "advertising",
+      "chinese-copywriting",
+      "claude-code",
+      "claude-skill",
+      "copywriting",
+      "poster-design"
+    ],
+    "html_url": "https://github.com/crawfordxx/xiaoma-durex-copywriter",
+    "stargazers_count": 168,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T11:07:30Z",
+    "updated_at": "2026-08-09T14:48:43Z",
+    "pushed_at": "2026-08-08T14:14:51Z"
+  },
+  {
+    "id": 1325064335,
+    "name": "PropMotion",
+    "full_name": "dembsky/PropMotion",
+    "owner": {
+      "login": "dembsky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49237128?v=4"
+    },
+    "description": "Claude Code skill: make one 3D object perform in your SwiftUI app. SceneKit stages, baked choreography, hand-rolled physics, real shadows.",
+    "topics": [
+      "3d-animation",
+      "agent-skill",
+      "claude",
+      "claude-code",
+      "ios",
+      "scenekit",
+      "swift",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/dembsky/PropMotion",
+    "stargazers_count": 95,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T10:09:45Z",
+    "updated_at": "2026-08-09T21:11:21Z",
+    "pushed_at": "2026-08-08T06:26:12Z"
+  },
+  {
+    "id": 1326394720,
+    "name": "skills",
+    "full_name": "sv-number/skills",
+    "owner": {
+      "login": "sv-number",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299902966?v=4"
+    },
+    "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
+    "topics": [
+      "agent-skill",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "codex",
+      "otp",
+      "phone-verification",
+      "sms"
+    ],
+    "html_url": "https://github.com/sv-number/skills",
+    "stargazers_count": 71,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T08:14:34Z",
+    "updated_at": "2026-08-10T01:29:59Z",
+    "pushed_at": "2026-08-07T17:48:43Z"
+  },
+  {
+    "id": 1324157281,
+    "name": "tidewright",
+    "full_name": "winchxyz/tidewright",
+    "owner": {
+      "login": "winchxyz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236201602?v=4"
+    },
+    "description": "A 3D sandcastle simulator that runs entirely on the GPU. No engine, no libraries, no asset files, no build step. Built in one prompt with Claude Code.",
+    "topics": [
+      "claude-code",
+      "gamedev",
+      "glsl",
+      "javascript",
+      "no-dependencies",
+      "sandbox-game",
+      "shaders",
+      "simulation",
+      "webgl",
+      "webgl2"
+    ],
+    "html_url": "https://github.com/winchxyz/tidewright",
+    "stargazers_count": 62,
+    "language": "JavaScript",
+    "forks_count": 19,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T14:41:08Z",
+    "updated_at": "2026-08-09T23:00:06Z",
+    "pushed_at": "2026-08-06T18:55:14Z"
+  },
+  {
+    "id": 1323452550,
+    "name": "attention-span",
+    "full_name": "alexgreensh/attention-span",
+    "owner": {
+      "login": "alexgreensh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210140430?v=4"
+    },
+    "description": "Make your agents talk human. ADHD-friendly output styles for Claude Code. So you can pay attention, not tokens.",
+    "topics": [
+      "adhd-friendly",
+      "claude-code",
+      "eli5",
+      "explainability",
+      "explainable-ai",
+      "output-style"
+    ],
+    "html_url": "https://github.com/alexgreensh/attention-span",
+    "stargazers_count": 51,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T23:20:01Z",
+    "updated_at": "2026-08-10T01:48:46Z",
+    "pushed_at": "2026-08-07T15:32:48Z"
+  },
+  {
+    "id": 1323306782,
+    "name": "fullstory-claude-plugin",
+    "full_name": "reatlat/fullstory-claude-plugin",
+    "owner": {
+      "login": "reatlat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9933516?v=4"
+    },
+    "description": null,
+    "topics": [
+      "ai-skills",
+      "analytics",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "cursor",
+      "cursor-plugin",
+      "developer-tools",
+      "fullstory",
+      "fullstory-mcp",
+      "mcp",
+      "model-context-protocol",
+      "product-analytics",
+      "session-replay",
+      "ux-research"
+    ],
+    "html_url": "https://github.com/reatlat/fullstory-claude-plugin",
+    "stargazers_count": 42,
+    "language": null,
+    "forks_count": 25,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T19:25:12Z",
+    "updated_at": "2026-08-09T20:27:12Z",
+    "pushed_at": "2026-08-06T17:20:59Z"
+  },
+  {
+    "id": 1324932440,
+    "name": "awesome-claude-output-styles",
+    "full_name": "smixs/awesome-claude-output-styles",
+    "owner": {
+      "login": "smixs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32239508?v=4"
+    },
+    "description": "Make Claude talk like a human: 17 installable output styles for Claude Code, built on credited methodologies",
+    "topics": [
+      "awesome-list",
+      "claude",
+      "claude-code",
+      "output-style",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/smixs/awesome-claude-output-styles",
+    "stargazers_count": 30,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T08:07:49Z",
+    "updated_at": "2026-08-09T21:18:23Z",
+    "pushed_at": "2026-08-07T05:02:50Z"
+  },
+  {
+    "id": 1324858135,
+    "name": "macos-disk-cleanup",
+    "full_name": "himynameisben/macos-disk-cleanup",
+    "owner": {
+      "login": "himynameisben",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64573117?v=4"
+    },
+    "description": "給 Claude Code、Codex 等 agent 用的 macOS 磁碟清理 skill：診斷「系統資料」佔用、唯讀掃描腳本、以及 10 個會造成誤判或資料損失的陷阱",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-skill",
+      "codex",
+      "disk-cleanup",
+      "macos"
+    ],
+    "html_url": "https://github.com/himynameisben/macos-disk-cleanup",
+    "stargazers_count": 30,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T06:56:40Z",
+    "updated_at": "2026-08-10T00:52:59Z",
+    "pushed_at": "2026-08-06T07:28:59Z"
+  },
+  {
+    "id": 1321275205,
+    "name": "pristine-skill",
+    "full_name": "newbanser/pristine-skill",
+    "owner": {
+      "login": "newbanser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279378443?v=4"
+    },
+    "description": "An agent skill enforcing the First-Time Principle: write every change in its final form — no patches, no what-comments, no leftovers, no local/deployed drift. Cross-platform: Claude Code, Codex, OpenCode.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-principles",
+      "opencode"
+    ],
+    "html_url": "https://github.com/newbanser/pristine-skill",
+    "stargazers_count": 30,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T05:36:51Z",
+    "updated_at": "2026-08-10T01:06:15Z",
+    "pushed_at": "2026-08-10T01:07:13Z"
+  },
+  {
+    "id": 1323045322,
+    "name": "director-skills",
+    "full_name": "kangarooking/director-skills",
+    "owner": {
+      "login": "kangarooking",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52196004?v=4"
+    },
+    "description": "导演Skill：面向 AI 视频创作的开源 Agent Skills | Director Skills: Open-source Agent Skills for AI video creation.",
+    "topics": [
+      "agent-skills",
+      "ai-video",
+      "claude-code",
+      "codex",
+      "filmmaking",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/kangarooking/director-skills",
+    "stargazers_count": 28,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T14:30:58Z",
+    "updated_at": "2026-08-09T22:39:50Z",
+    "pushed_at": "2026-08-04T15:38:47Z"
+  },
+  {
+    "id": 1323487520,
+    "name": "hud-mode",
+    "full_name": "adrida/hud-mode",
+    "owner": {
+      "login": "adrida",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26824656?v=4"
+    },
+    "description": "A compact heads-up display for your coding agent. Instruments while it works, the answer when it stops. Claude Code, Codex, OpenCode.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "opencode",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/adrida/hud-mode",
+    "stargazers_count": 27,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T00:33:45Z",
+    "updated_at": "2026-08-08T14:04:52Z",
+    "pushed_at": "2026-08-05T04:51:46Z"
+  },
+  {
+    "id": 1321988451,
+    "name": "goal-to-game",
+    "full_name": "thrixel/goal-to-game",
+    "owner": {
+      "login": "thrixel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253811306?v=4"
+    },
+    "description": "Build beautiful games with high-quality 3D assets using Thrixel and Claude Code.",
+    "topics": [
+      "3d-assets",
+      "ai-agents",
+      "claude-code",
+      "claude-skills",
+      "game-prototyping",
+      "gamedev",
+      "mcp",
+      "model-context-protocol",
+      "text-to-3d",
+      "threejs",
+      "thrixel",
+      "unity"
+    ],
+    "html_url": "https://github.com/thrixel/goal-to-game",
+    "stargazers_count": 25,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T16:14:49Z",
+    "updated_at": "2026-08-09T11:46:02Z",
+    "pushed_at": "2026-08-07T00:15:35Z"
+  },
+  {
+    "id": 1327679348,
+    "name": "turkce-humanizer",
+    "full_name": "bushrabeg/turkce-humanizer",
+    "owner": {
+      "login": "bushrabeg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163648982?v=4"
+    },
+    "description": "Türkçe metinlerden yapay zekâ yazım imzalarını temizleyen Claude skill'i. YZ üretimi Türkçe'yi doğal, insan-sesli Türkçe'ye dönüştürür. | A Claude skill that removes AI writing signatures from Turkish text.",
+    "topics": [
+      "ai-humanizer",
+      "ai-writing",
+      "claude-code",
+      "claude-skills",
+      "humanizer",
+      "text-humanizer",
+      "turkce",
+      "turkish",
+      "turkish-nlp"
+    ],
+    "html_url": "https://github.com/bushrabeg/turkce-humanizer",
+    "stargazers_count": 24,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T11:33:42Z",
+    "updated_at": "2026-08-10T01:46:46Z",
+    "pushed_at": "2026-08-09T14:42:10Z"
+  },
+  {
+    "id": 1322882679,
+    "name": "practicaltypography",
+    "full_name": "danium/practicaltypography",
+    "owner": {
+      "login": "danium",
+      "avatar_url": "https://avatars.githubusercontent.com/u/812157?v=4"
+    },
+    "description": "Typography skill for AI agents - audit and produce publication-grade text. Butterick's Practical Typography for your coding agent.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-skills",
+      "skills",
+      "typography"
+    ],
+    "html_url": "https://github.com/danium/practicaltypography",
+    "stargazers_count": 24,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T11:43:04Z",
+    "updated_at": "2026-08-08T01:24:02Z",
+    "pushed_at": "2026-08-05T14:33:46Z"
+  },
+  {
+    "id": 1326452281,
+    "name": "slopware-skills",
+    "full_name": "transcendr/slopware-skills",
+    "owner": {
+      "login": "transcendr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37011672?v=4"
+    },
+    "description": "Free, portable AI agent skills and plugins for Codex, Claude Code, and Agent Skills clients by Slopware Engineer (@aienginerd). Home of the MSW Kernel for Minimum Sufficient Work.",
+    "topics": [
+      "agent-plugins",
+      "agent-skills",
+      "ai-agents",
+      "ai-coding-agent",
+      "claude-code",
+      "claude-code-plugins",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "developer-tools",
+      "minimum-sufficient-work",
+      "msw",
+      "openai-codex",
+      "slopware"
+    ],
+    "html_url": "https://github.com/transcendr/slopware-skills",
+    "stargazers_count": 24,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T09:09:10Z",
+    "updated_at": "2026-08-09T15:08:21Z",
+    "pushed_at": "2026-08-08T17:35:28Z"
+  }
+]

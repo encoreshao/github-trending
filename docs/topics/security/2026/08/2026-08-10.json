@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1321905386,
+    "name": "nfc_canary",
+    "full_name": "antitree/nfc_canary",
+    "owner": {
+      "login": "antitree",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1119175?v=4"
+    },
+    "description": "Flipper Zero app: a canary for your pocket — detects when someone scans you over NFC and alerts you by vibration",
+    "topics": [
+      "embedded",
+      "fap",
+      "flipper-zero",
+      "flipperzero",
+      "nfc",
+      "privacy",
+      "rfid",
+      "security"
+    ],
+    "html_url": "https://github.com/antitree/nfc_canary",
+    "stargazers_count": 70,
+    "language": "C",
+    "forks_count": 8,
+    "open_issues_count": 1,
+    "created_at": "2026-08-03T14:54:26Z",
+    "updated_at": "2026-08-09T14:04:02Z",
+    "pushed_at": "2026-08-03T18:42:51Z"
+  },
+  {
+    "id": 1323957541,
+    "name": "SentryLLM",
+    "full_name": "Sentry-LLM/SentryLLM",
+    "owner": {
+      "login": "Sentry-LLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313371590?v=4"
+    },
+    "description": "AI Security Monitor — Real-time threat detection, prompt injection defense, and behavioral analysis for LLM-powered systems",
+    "topics": [
+      "ai-security",
+      "jailbreak-detection",
+      "llm",
+      "llm-security",
+      "monitoring",
+      "openai",
+      "owasp",
+      "prompt-injection",
+      "security",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Sentry-LLM/SentryLLM",
+    "stargazers_count": 36,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T11:13:46Z",
+    "updated_at": "2026-08-09T18:33:43Z",
+    "pushed_at": "2026-08-05T11:51:04Z"
+  },
+  {
+    "id": 1326089811,
+    "name": "TraceSurface",
+    "full_name": "pis10/TraceSurface",
+    "owner": {
+      "login": "pis10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59220079?v=4"
+    },
+    "description": "发现藏在前端代码里的 API，验证未授权访问风险 · 动态浏览器追踪 × JavaScript 静态分析",
+    "topics": [
+      "api-discovery",
+      "api-security",
+      "bug-bounty",
+      "penetration-testing",
+      "playwright",
+      "python",
+      "security",
+      "security-tools",
+      "static-analysis",
+      "web-security"
+    ],
+    "html_url": "https://github.com/pis10/TraceSurface",
+    "stargazers_count": 25,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T01:56:16Z",
+    "updated_at": "2026-08-09T15:54:02Z",
+    "pushed_at": "2026-08-07T09:26:25Z"
+  },
+  {
+    "id": 1323490949,
+    "name": "internetcondom",
+    "full_name": "orlyjamie/internetcondom",
+    "owner": {
+      "login": "orlyjamie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6668807?v=4"
+    },
+    "description": "Protection against npm supply-chain attacks. One command: Socket Firewall on every package manager, minimum release age, ignore-scripts.",
+    "topics": [
+      "ai-agents",
+      "devsecops",
+      "npm",
+      "pnpm",
+      "security",
+      "supply-chain-security"
+    ],
+    "html_url": "https://github.com/orlyjamie/internetcondom",
+    "stargazers_count": 12,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T00:40:38Z",
+    "updated_at": "2026-08-08T17:46:00Z",
+    "pushed_at": "2026-08-05T07:38:52Z"
+  },
+  {
+    "id": 1327587687,
+    "name": "live-agent-monitoring",
+    "full_name": "EternalBlue813/live-agent-monitoring",
+    "owner": {
+      "login": "EternalBlue813",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60507828?v=4"
+    },
+    "description": "Real-time web dashboard for AI-agent behavior monitoring, built on Perplexity's Numbat. Zero-dependency Python.",
+    "topics": [
+      "ai-agents",
+      "ai-safety",
+      "claude-code",
+      "dashboard",
+      "endpoint-security",
+      "monitoring",
+      "numbat",
+      "observability",
+      "security"
+    ],
+    "html_url": "https://github.com/EternalBlue813/live-agent-monitoring",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T09:10:00Z",
+    "updated_at": "2026-08-10T00:21:45Z",
+    "pushed_at": "2026-08-08T09:23:41Z"
+  },
+  {
+    "id": 1321841047,
+    "name": "securitycards",
+    "full_name": "Reware-Labs/securitycards",
+    "owner": {
+      "login": "Reware-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281433014?v=4"
+    },
+    "description": "Security guidance based on library and version for developers and agents.",
+    "topics": [
+      "ai-skills",
+      "application-security",
+      "coding-agent-skills",
+      "open-source",
+      "secure-coding",
+      "security",
+      "security-guidance",
+      "security-tools"
+    ],
+    "html_url": "https://github.com/Reware-Labs/securitycards",
+    "stargazers_count": 8,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-03T13:53:59Z",
+    "updated_at": "2026-08-09T00:08:37Z",
+    "pushed_at": "2026-08-07T22:49:06Z"
+  },
+  {
+    "id": 1322906687,
+    "name": "CkSKILLS",
+    "full_name": "zhaji2333/CkSKILLS",
+    "owner": {
+      "login": "zhaji2333",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70321071?v=4"
+    },
+    "description": "基于 Claude Code / Codex 的 SRC 漏洞挖掘 Agent 技能体系 —— 系统级提示词 + 13 个专项安全测试 Skill 知识库",
+    "topics": [
+      "agent",
+      "claude-code",
+      "pentesting",
+      "recon",
+      "security",
+      "skills",
+      "src",
+      "vulnerability"
+    ],
+    "html_url": "https://github.com/zhaji2333/CkSKILLS",
+    "stargazers_count": 7,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-08-04T12:08:59Z",
+    "updated_at": "2026-08-08T06:42:28Z",
+    "pushed_at": "2026-08-07T15:13:28Z"
+  },
+  {
+    "id": 1323878328,
+    "name": "happ-android-full-decompiled",
+    "full_name": "ded648238/happ-android-full-decompiled",
+    "owner": {
+      "login": "ded648238",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127438943?v=4"
+    },
+    "description": "Full decompiled source of Happ Android proxy client (v4.0.1) — 2,252 Java + 11,583 Smali files, 100% complete. Includes DNSTT protocol, anti-filter, Xray config, JNI bridge.",
+    "topics": [
+      "android",
+      "android-security",
+      "decompiled",
+      "educational",
+      "mobile",
+      "open-source",
+      "proxy",
+      "research",
+      "reverse-engineering",
+      "security",
+      "vpn",
+      "xray"
+    ],
+    "html_url": "https://github.com/ded648238/happ-android-full-decompiled",
+    "stargazers_count": 6,
+    "language": "Smali",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T09:39:54Z",
+    "updated_at": "2026-08-06T03:02:47Z",
+    "pushed_at": "2026-08-05T22:25:23Z"
+  },
+  {
+    "id": 1321097781,
+    "name": "kernel-security-check-bsod-fix",
+    "full_name": "LinkEmuBewitch/kernel-security-check-bsod-fix",
+    "owner": {
+      "login": "LinkEmuBewitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307273849?v=4"
+    },
+    "description": "Kernel Security Check BSOD Fix — Kernel Security Check BSOD Fix Windows setup — Windows fix landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.",
+    "topics": [
+      "check",
+      "kernel",
+      "kernel-security-check-bsod-fix",
+      "repair-tool",
+      "security",
+      "windows",
+      "windows-fix"
+    ],
+    "html_url": "https://github.com/LinkEmuBewitch/kernel-security-check-bsod-fix",
+    "stargazers_count": 6,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T02:14:12Z",
+    "updated_at": "2026-08-07T10:23:05Z",
+    "pushed_at": "2026-08-03T20:17:37Z"
+  },
+  {
+    "id": 1323050230,
+    "name": "vyql",
+    "full_name": "vyprai/vyql",
+    "owner": {
+      "login": "vyprai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183393777?v=4"
+    },
+    "description": "Multi-language taint and graph security scanner. Follows tainted data through your code and shows why each finding is a finding.",
+    "topics": [
+      "appsec",
+      "golang",
+      "sarif",
+      "sast",
+      "security",
+      "static-analysis",
+      "taint-analysis",
+      "tree-sitter",
+      "vulnerability-scanner"
+    ],
+    "html_url": "https://github.com/vyprai/vyql",
+    "stargazers_count": 5,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-04T14:35:40Z",
+    "updated_at": "2026-08-08T11:20:14Z",
+    "pushed_at": "2026-08-08T19:05:04Z"
+  },
+  {
+    "id": 1321917631,
+    "name": "spotlight",
+    "full_name": "CMUL8/spotlight",
+    "owner": {
+      "login": "CMUL8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312573327?v=4"
+    },
+    "description": "Autonomous AI security engineer — multi-agent swarm that scans, exploits, fixes, verifies, and attests. Open source (Apache 2.0).",
+    "topics": [
+      "ai",
+      "devsecops",
+      "llm-security",
+      "multi-agent",
+      "open-source",
+      "sast",
+      "security",
+      "static-analysis",
+      "vulnerability-scanner"
+    ],
+    "html_url": "https://github.com/CMUL8/spotlight",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-03T15:06:25Z",
+    "updated_at": "2026-08-04T05:38:24Z",
+    "pushed_at": "2026-08-03T18:02:38Z"
+  },
+  {
+    "id": 1326095868,
+    "name": "Moneta-FlipperZero",
+    "full_name": "at0m-b0mb/Moneta-FlipperZero",
+    "owner": {
+      "login": "at0m-b0mb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99875896?v=4"
+    },
+    "description": "Contactless payment leak educator for Flipper Zero. Read your own bank card and see exactly what a skimmer in a crowd walks away with — number, expiry, sometimes your name and your spending log. Read-only, graded A+ to F, honest about what it cannot take.",
+    "topics": [
+      "contactless",
+      "emv",
+      "fap",
+      "flipper-zero",
+      "flipperzero",
+      "infosec",
+      "nfc",
+      "payment-card",
+      "privacy",
+      "rfid",
+      "security",
+      "skimming"
+    ],
+    "html_url": "https://github.com/at0m-b0mb/Moneta-FlipperZero",
+    "stargazers_count": 4,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T02:04:40Z",
+    "updated_at": "2026-08-09T16:55:53Z",
+    "pushed_at": "2026-08-07T14:14:36Z"
+  },
+  {
+    "id": 1326281239,
+    "name": "AegisAgent",
+    "full_name": "c-zerooo/AegisAgent",
+    "owner": {
+      "login": "c-zerooo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186335441?v=4"
+    },
+    "description": " Autonomous Multi-Agent Security Operations Center (SOC) powered by Agentic AI, FastAPI, and Orchestrated AI Agents.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "cybersecurity",
+      "fastapi",
+      "llm",
+      "multi-agent",
+      "orchestrator",
+      "python",
+      "security",
+      "soc",
+      "sse"
+    ],
+    "html_url": "https://github.com/c-zerooo/AegisAgent",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T06:11:34Z",
+    "updated_at": "2026-08-09T17:25:30Z",
+    "pushed_at": "2026-08-07T06:31:08Z"
+  },
+  {
+    "id": 1323287160,
+    "name": "Bastion-FlipperZero",
+    "full_name": "at0m-b0mb/Bastion-FlipperZero",
+    "owner": {
+      "login": "at0m-b0mb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99875896?v=4"
+    },
+    "description": "125 kHz badge grader for Flipper Zero. Hold an EM4100, HID Prox, Indala, AWID, ioProx, Gallagher or Nexwatch badge to the back and get a plain-English security grade with a full report. Read-only.",
+    "topics": [
+      "125khz",
+      "access-control",
+      "em4100",
+      "embedded-c",
+      "fap",
+      "flipper-zero",
+      "flipperzero",
+      "hid-prox",
+      "lfrfid",
+      "pentesting",
+      "physical-security",
+      "red-team",
+      "rfid",
+      "security"
+    ],
+    "html_url": "https://github.com/at0m-b0mb/Bastion-FlipperZero",
+    "stargazers_count": 4,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T19:00:14Z",
+    "updated_at": "2026-08-06T16:17:01Z",
+    "pushed_at": "2026-08-04T19:06:15Z"
+  },
+  {
+    "id": 1327988189,
+    "name": "secs",
+    "full_name": "EvilFreelancer/secs",
+    "owner": {
+      "login": "EvilFreelancer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9089568?v=4"
+    },
+    "description": "SECS (SECurity aSsistant) turns an AI coding agent (Claude Code, Cursor, Codex) into an authorized information-security assistant - 35 security Agent Skills, a Debian/Ubuntu/Kali toolchain installer, and a local Metasploitable 3 practice lab, under strict rules of engagement.",
+    "topics": [
+      "agent-skills",
+      "agents-md",
+      "ai-agents",
+      "blue-team",
+      "claude-code",
+      "cybersecurity",
+      "detection-engineering",
+      "dfir",
+      "infosec",
+      "kali-linux",
+      "llm",
+      "metasploitable3",
+      "offensive-security",
+      "penetration-testing",
+      "pentesting",
+      "red-team",
+      "security",
+      "security-automation",
+      "security-tools",
+      "threat-modeling"
+    ],
+    "html_url": "https://github.com/EvilFreelancer/secs",
+    "stargazers_count": 4,
+    "language": "Makefile",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T17:15:25Z",
+    "updated_at": "2026-08-09T10:45:12Z",
+    "pushed_at": "2026-08-09T09:50:24Z"
+  },
+  {
+    "id": 1327760772,
+    "name": "Mekka",
+    "full_name": "yiaany/Mekka",
+    "owner": {
+      "login": "yiaany",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232380238?v=4"
+    },
+    "description": "The agent-native Supabase killer: SQLite speed today, distributed cloud next, without the PostgreSQL tax.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "authentication",
+      "baas",
+      "backend-as-a-service",
+      "bun",
+      "database",
+      "developer-tools",
+      "mcp",
+      "model-context-protocol",
+      "object-storage",
+      "react",
+      "realtime",
+      "security",
+      "self-hosted",
+      "sqlite",
+      "studio",
+      "supabase-alternative",
+      "typescript"
+    ],
+    "html_url": "https://github.com/yiaany/Mekka",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T13:09:09Z",
+    "updated_at": "2026-08-09T14:08:17Z",
+    "pushed_at": "2026-08-09T14:07:33Z"
+  },
+  {
+    "id": 1326092361,
+    "name": "Talos-FlipperZero",
+    "full_name": "at0m-b0mb/Talos-FlipperZero",
+    "owner": {
+      "login": "at0m-b0mb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99875896?v=4"
+    },
+    "description": "iButton / Dallas key grader for Flipper Zero. Touch a 1-Wire key to the contact and find out what it actually proves - a plain-English security grade, the ROM's checksum verified, and sequentially issued keys called out. Strictly read-only.",
+    "topics": [
+      "dallas",
+      "ds1990a",
+      "fap",
+      "flipper-zero",
+      "flipperzero",
+      "ibutton",
+      "onewire",
+      "pentesting",
+      "rfid",
+      "security"
+    ],
+    "html_url": "https://github.com/at0m-b0mb/Talos-FlipperZero",
+    "stargazers_count": 4,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T01:59:55Z",
+    "updated_at": "2026-08-09T16:56:06Z",
+    "pushed_at": "2026-08-07T02:04:32Z"
+  },
+  {
+    "id": 1327814290,
+    "name": "metabase-ghsa-vwf4-lab",
+    "full_name": "dinosn/metabase-ghsa-vwf4-lab",
+    "owner": {
+      "login": "dinosn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3851678?v=4"
+    },
+    "description": "Loopback-only Docker lab for Metabase GHSA-vwf4-m7j8-wcjf reset-password SQLi, comparing v0.62.7 with v0.62.9.",
+    "topics": [
+      "docker",
+      "ghsa-vwf4",
+      "metabase",
+      "proof-of-concept",
+      "security",
+      "sqli"
+    ],
+    "html_url": "https://github.com/dinosn/metabase-ghsa-vwf4-lab",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T14:02:44Z",
+    "updated_at": "2026-08-10T00:19:10Z",
+    "pushed_at": "2026-08-08T14:35:00Z"
+  },
+  {
+    "id": 1321809965,
+    "name": "vultrino",
+    "full_name": "FeirAI/vultrino",
+    "owner": {
+      "login": "FeirAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312529394?v=4"
+    },
+    "description": "Credential proxy for the AI era — agents use credentials without seeing them",
+    "topics": [
+      "credentials",
+      "llm",
+      "mcp",
+      "proxy",
+      "rust",
+      "security",
+      "wasm"
+    ],
+    "html_url": "https://github.com/FeirAI/vultrino",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-08-03T13:23:07Z",
+    "updated_at": "2026-08-08T08:32:49Z",
+    "pushed_at": "2026-08-03T19:47:32Z"
+  },
+  {
+    "id": 1326748341,
+    "name": "ai-assurance-profile",
+    "full_name": "Krishita17/ai-assurance-profile",
+    "owner": {
+      "login": "Krishita17",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129031138?v=4"
+    },
+    "description": "A runnable evaluation harness + procurement standard for AI system assurance: probes an LLM/agent for prompt-injection, jailbreak, data-leakage, refusal reliability, and auditability, and emits a machine-readable assurance report with a gated authorization decision mapped to NIST AI RMF, SP 800-53, FedRAMP, OWASP LLM Top 10, and MITRE ATLAS.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-governance",
+      "ai-policy",
+      "ai-safety",
+      "ai-security",
+      "artificial-intelligence",
+      "cybersecurity",
+      "generative-ai",
+      "llm",
+      "llm-evaluation",
+      "llm-security",
+      "llmops",
+      "machine-learning",
+      "nist-ai-rmf",
+      "prompt-injection",
+      "python",
+      "red-teaming",
+      "responsible-ai",
+      "security"
+    ],
+    "html_url": "https://github.com/Krishita17/ai-assurance-profile",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T14:08:04Z",
+    "updated_at": "2026-08-08T01:18:30Z",
+    "pushed_at": "2026-08-07T14:09:52Z"
+  }
+]
