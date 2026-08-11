@@ -1,0 +1,586 @@
+[
+  {
+    "id": 1326480303,
+    "name": "Dalaran",
+    "full_name": "Flaminis/Dalaran",
+    "owner": {
+      "login": "Flaminis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20280711?v=4"
+    },
+    "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+    "topics": [
+      "apache2",
+      "computer-vision",
+      "lidar",
+      "pointcloud",
+      "python",
+      "robotics",
+      "ros2",
+      "rust",
+      "time-series",
+      "visualization"
+    ],
+    "html_url": "https://github.com/Flaminis/Dalaran",
+    "stargazers_count": 77,
+    "language": "Rust",
+    "forks_count": 47,
+    "open_issues_count": 8,
+    "created_at": "2026-08-07T09:37:32Z",
+    "updated_at": "2026-08-11T03:31:10Z",
+    "pushed_at": "2026-08-07T16:35:52Z"
+  },
+  {
+    "id": 1323332140,
+    "name": "MotionShot",
+    "full_name": "AhmadHassan-BTed/MotionShot",
+    "owner": {
+      "login": "AhmadHassan-BTed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123323526?v=4"
+    },
+    "description": "Camera app that freezes fast motion sequences into a single stroboscopic photo; powered by on-device computer vision, 2D stabilization, and manual exposure controls",
+    "topics": [
+      "action-camera",
+      "android",
+      "camerax",
+      "computer-vision",
+      "image-processing",
+      "jetpack-compose",
+      "kotlin",
+      "motion-overlay",
+      "motion-shot",
+      "stroboscopic-camera"
+    ],
+    "html_url": "https://github.com/AhmadHassan-BTed/MotionShot",
+    "stargazers_count": 15,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T19:58:07Z",
+    "updated_at": "2026-08-10T16:13:26Z",
+    "pushed_at": "2026-08-05T09:19:58Z"
+  },
+  {
+    "id": 1324745873,
+    "name": "car-damage-detecting-MaskRCNN",
+    "full_name": "antonio-gaskin/car-damage-detecting-MaskRCNN",
+    "owner": {
+      "login": "antonio-gaskin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217666543?v=4"
+    },
+    "description": "Flask app for car damage detection and repair cost estimation using Mask R-CNN",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "flask",
+      "image-annotation",
+      "instance-segmentation",
+      "mask-rcnn",
+      "object-detection",
+      "python",
+      "transfer-learning",
+      "vehicle-damage-detection"
+    ],
+    "html_url": "https://github.com/antonio-gaskin/car-damage-detecting-MaskRCNN",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T04:46:03Z",
+    "updated_at": "2026-08-10T01:47:53Z",
+    "pushed_at": "2026-08-06T04:50:04Z"
+  },
+  {
+    "id": 1326271757,
+    "name": "resnet-from-scratch-pytorch",
+    "full_name": "antonio-gaskin/resnet-from-scratch-pytorch",
+    "owner": {
+      "login": "antonio-gaskin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217666543?v=4"
+    },
+    "description": "PyTorch project implementing ResNet architectures from scratch, including custom training experiments, architecture variants, and batch-size studies for optimal performance.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "image-classification",
+      "machine-learning",
+      "neural-network",
+      "python",
+      "pytorch",
+      "research",
+      "resnet",
+      "training-experiments"
+    ],
+    "html_url": "https://github.com/antonio-gaskin/resnet-from-scratch-pytorch",
+    "stargazers_count": 9,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T05:58:38Z",
+    "updated_at": "2026-08-10T01:34:55Z",
+    "pushed_at": "2026-08-07T05:59:38Z"
+  },
+  {
+    "id": 1328628242,
+    "name": "face-recognition-door-lock",
+    "full_name": "HereIsMuhammad/face-recognition-door-lock",
+    "owner": {
+      "login": "HereIsMuhammad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181842184?v=4"
+    },
+    "description": "Open-source face recognition door lock using Python, OpenCV, and Raspberry Pi.",
+    "topics": [
+      "computer-vision",
+      "dlib",
+      "door-lock",
+      "face-recognition-python",
+      "iot",
+      "open-cv",
+      "open-source",
+      "python",
+      "raspberry-pi"
+    ],
+    "html_url": "https://github.com/HereIsMuhammad/face-recognition-door-lock",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T09:13:10Z",
+    "updated_at": "2026-08-09T20:54:54Z",
+    "pushed_at": "2026-08-09T09:15:13Z"
+  },
+  {
+    "id": 1323214301,
+    "name": "Superres-fr",
+    "full_name": "Morteza-Asadi-Shalmaiy/Superres-fr",
+    "owner": {
+      "login": "Morteza-Asadi-Shalmaiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242933177?v=4"
+    },
+    "description": "Convolutional autoencoder trained from scratch on CelebA faces — 128-dim latent space, full checkpoint/resume support, built to run end-to-end in Google Colab.",
+    "topics": [
+      "autoencoder",
+      "celeba",
+      "computer-vision",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "google-colab",
+      "image-reconstruction",
+      "pytorch",
+      "unsupervised-learning"
+    ],
+    "html_url": "https://github.com/Morteza-Asadi-Shalmaiy/Superres-fr",
+    "stargazers_count": 9,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T17:33:19Z",
+    "updated_at": "2026-08-11T01:35:10Z",
+    "pushed_at": "2026-08-04T18:58:50Z"
+  },
+  {
+    "id": 1325214468,
+    "name": "image-captioning",
+    "full_name": "antonio-gaskin/image-captioning",
+    "owner": {
+      "login": "antonio-gaskin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217666543?v=4"
+    },
+    "description": "Image captioning using AI models to generate descriptive text from images",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "image-captioning",
+      "image-processing",
+      "machine-learning",
+      "nlp",
+      "python",
+      "vision-language-model"
+    ],
+    "html_url": "https://github.com/antonio-gaskin/image-captioning",
+    "stargazers_count": 9,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T12:31:49Z",
+    "updated_at": "2026-08-10T01:41:14Z",
+    "pushed_at": "2026-08-06T12:33:45Z"
+  },
+  {
+    "id": 1322840900,
+    "name": "antispoofing-fr",
+    "full_name": "Morteza-Asadi-Shalmaiy/antispoofing-fr",
+    "owner": {
+      "login": "Morteza-Asadi-Shalmaiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242933177?v=4"
+    },
+    "description": "Convolutional VAE trained on CelebA — face reconstruction, prior-sampled generation, and latent-space interpolation in a single Colab notebook.",
+    "topics": [
+      "celeba",
+      "colab",
+      "computer-vision",
+      "deep-learning",
+      "face-generation",
+      "generative-models",
+      "latent-space",
+      "pytorch",
+      "vae",
+      "variational-autoencoder"
+    ],
+    "html_url": "https://github.com/Morteza-Asadi-Shalmaiy/antispoofing-fr",
+    "stargazers_count": 8,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T10:56:59Z",
+    "updated_at": "2026-08-11T01:59:35Z",
+    "pushed_at": "2026-08-04T11:53:54Z"
+  },
+  {
+    "id": 1322647282,
+    "name": "AutoLabel",
+    "full_name": "lwxhhh/AutoLabel",
+    "owner": {
+      "login": "lwxhhh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86404016?v=4"
+    },
+    "description": "基于 React、C++20、SQLite、RAM 与 GroundingDINO 的自动图像标注平台，支持同步/异步任务和 COCO/YOLO 导出。",
+    "topics": [
+      "computer-vision",
+      "cpp20",
+      "docker",
+      "groundingdino",
+      "image-annotation",
+      "ram",
+      "react",
+      "sqlite",
+      "typescript"
+    ],
+    "html_url": "https://github.com/lwxhhh/AutoLabel",
+    "stargazers_count": 5,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T07:28:20Z",
+    "updated_at": "2026-08-05T07:40:11Z",
+    "pushed_at": "2026-08-04T17:07:34Z"
+  },
+  {
+    "id": 1328444511,
+    "name": "scan-to-practice",
+    "full_name": "parz0val0/scan-to-practice",
+    "owner": {
+      "login": "parz0val0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296262244?v=4"
+    },
+    "description": "Scan-to-Practice: a field-tested AI skill and methodology for turning scanned learning materials into structured practice products.",
+    "topics": [
+      "ai-skill",
+      "computer-vision",
+      "data-pipeline",
+      "document-ai",
+      "education",
+      "electron",
+      "knowledge-base",
+      "ocr",
+      "product-design",
+      "quality-assurance"
+    ],
+    "html_url": "https://github.com/parz0val0/scan-to-practice",
+    "stargazers_count": 5,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T04:54:09Z",
+    "updated_at": "2026-08-11T01:57:55Z",
+    "pushed_at": "2026-08-09T05:57:45Z"
+  },
+  {
+    "id": 1328437293,
+    "name": "Offline-Background-Remover",
+    "full_name": "Duongmike/Offline-Background-Remover",
+    "owner": {
+      "login": "Duongmike",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174709688?v=4"
+    },
+    "description": "Privacy-first offline AI background remover and batch image resizer for Windows.",
+    "topics": [
+      "background-removal",
+      "computer-vision",
+      "directml",
+      "image-processing",
+      "offline-first",
+      "onnxruntime",
+      "python",
+      "tkinter",
+      "u2net",
+      "windows"
+    ],
+    "html_url": "https://github.com/Duongmike/Offline-Background-Remover",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-08-09T04:42:07Z",
+    "updated_at": "2026-08-10T06:20:31Z",
+    "pushed_at": "2026-08-09T12:06:58Z"
+  },
+  {
+    "id": 1323069559,
+    "name": "Hand-Gesture-Controlled-Video-Playback-System",
+    "full_name": "NaveenKumarP21/Hand-Gesture-Controlled-Video-Playback-System",
+    "owner": {
+      "login": "NaveenKumarP21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273114594?v=4"
+    },
+    "description": "AI-powered hand gesture control system for video playback and volume adjustment using OpenCV, MediaPipe, and Python.",
+    "topics": [
+      "artificial-intelligence",
+      "automation",
+      "computer-vision",
+      "gesture-control",
+      "hand-tracking",
+      "mediapipe",
+      "opencv",
+      "python",
+      "video-playback"
+    ],
+    "html_url": "https://github.com/NaveenKumarP21/Hand-Gesture-Controlled-Video-Playback-System",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T14:55:18Z",
+    "updated_at": "2026-08-07T09:58:14Z",
+    "pushed_at": "2026-08-07T09:55:53Z"
+  },
+  {
+    "id": 1322687999,
+    "name": "SmartCityEye",
+    "full_name": "satwiktelang18/SmartCityEye",
+    "owner": {
+      "login": "satwiktelang18",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157908277?v=4"
+    },
+    "description": "AI-powered traffic monitoring system using YOLOv8, OpenCV and Flask for vehicle detection, tracking and counting.",
+    "topics": [
+      "computer-vision",
+      "flask",
+      "object-tracking",
+      "opencv",
+      "python3",
+      "traffic-monitoring",
+      "yolo8"
+    ],
+    "html_url": "https://github.com/satwiktelang18/SmartCityEye",
+    "stargazers_count": 4,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-04T08:11:23Z",
+    "updated_at": "2026-08-04T18:41:52Z",
+    "pushed_at": "2026-08-04T18:40:36Z"
+  },
+  {
+    "id": 1323846756,
+    "name": "swarm-interceptorV1",
+    "full_name": "swarm-subnet/swarm-interceptorV1",
+    "owner": {
+      "login": "swarm-subnet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217751588?v=4"
+    },
+    "description": "Open-source autonomous Tello drone interceptor using YOLO detection, Kalman tracking, visual servoing, target reacquisition, and safety-focused RC control.",
+    "topics": [
+      "autonomous-drone",
+      "computer-vision",
+      "interceptor",
+      "yolo"
+    ],
+    "html_url": "https://github.com/swarm-subnet/swarm-interceptorV1",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T09:05:22Z",
+    "updated_at": "2026-08-06T20:53:53Z",
+    "pushed_at": "2026-08-05T10:01:59Z"
+  },
+  {
+    "id": 1329588572,
+    "name": "awesome-object-counting",
+    "full_name": "Mengqi-Lei/awesome-object-counting",
+    "owner": {
+      "login": "Mengqi-Lei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145836228?v=4"
+    },
+    "description": "Awesome object counting papers, datasets, leaderboards and tutorials.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "computer-vision",
+      "multimodal",
+      "object-counting",
+      "vision-language-model"
+    ],
+    "html_url": "https://github.com/Mengqi-Lei/awesome-object-counting",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-10T08:19:11Z",
+    "updated_at": "2026-08-11T03:51:31Z",
+    "pushed_at": "2026-08-10T09:53:58Z"
+  },
+  {
+    "id": 1325163212,
+    "name": "Chenbin_Zhang",
+    "full_name": "zhangcbb/Chenbin_Zhang",
+    "owner": {
+      "login": "zhangcbb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139454556?v=4"
+    },
+    "description": "Personal academic homepage of Chenbin Zhang (NJUPT) — Physical Simulation · Computer Vision · Embedded Systems",
+    "topics": [
+      "academic-website",
+      "computer-vision",
+      "personal-page"
+    ],
+    "html_url": "https://github.com/zhangcbb/Chenbin_Zhang",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T11:44:22Z",
+    "updated_at": "2026-08-07T05:19:35Z",
+    "pushed_at": "2026-08-06T11:53:47Z"
+  },
+  {
+    "id": 1325918337,
+    "name": "sauron",
+    "full_name": "jpalmae/sauron",
+    "owner": {
+      "login": "jpalmae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39507014?v=4"
+    },
+    "description": "Video-analítica de tráfico edge/cloud (HPE GreenLake): RTSP multi-canal, YOLOv8+TensorRT o endpoint OpenAI-compatible, ByteTrack, reglas (conteo, velocidad, congestión, detenido, sentido contrario, obstrucción), evidencia snapshot+clip, FastAPI+TimescaleDB, dashboard React white-label. Docker Compose y Helm.",
+    "topics": [
+      "bytetrack",
+      "computer-vision",
+      "edge-ai",
+      "fastapi",
+      "hpe-greenlake",
+      "react",
+      "rtsp",
+      "tensorrt",
+      "timescaledb",
+      "traffic-monitoring",
+      "video-analytics",
+      "yolov8"
+    ],
+    "html_url": "https://github.com/jpalmae/sauron",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-08-06T21:43:07Z",
+    "updated_at": "2026-08-11T02:41:21Z",
+    "pushed_at": "2026-08-11T02:41:17Z"
+  },
+  {
+    "id": 1323626867,
+    "name": "visual-scene-ontology",
+    "full_name": "yamancan/visual-scene-ontology",
+    "owner": {
+      "login": "yamancan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26391983?v=4"
+    },
+    "description": "An image is not a sentence: a VLM's description of one is unvalidated prose. VSON makes every claim about an image — object, property, spatial relation, action — a graph assertion SHACL can reject, so a build can fail on it. Rust CLI, Python API, MCP server, keyless browser studio. It checks the graph, not the picture.",
+    "topics": [
+      "computer-vision",
+      "knowledge-graph",
+      "llm",
+      "ontology",
+      "owl2",
+      "penman",
+      "rdf",
+      "rdf-star",
+      "rust",
+      "scene-graph",
+      "shacl",
+      "structured-output",
+      "sveltekit",
+      "vlm"
+    ],
+    "html_url": "https://github.com/yamancan/visual-scene-ontology",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 15,
+    "created_at": "2026-08-05T04:31:27Z",
+    "updated_at": "2026-08-05T08:41:57Z",
+    "pushed_at": "2026-08-05T08:38:10Z"
+  },
+  {
+    "id": 1325905341,
+    "name": "groundwork",
+    "full_name": "gammahazard/groundwork",
+    "owner": {
+      "login": "gammahazard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92896466?v=4"
+    },
+    "description": "Self-hosted vision model trainer: label images with dots, train YOLO and Apache-licensed challengers, judge every run on a frozen holdout, then serve it — web cockpit, API, and Telegram data-collection bots. Multi-machine training over ssh, Docker-first, AGPL-3.0.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "docker",
+      "fastapi",
+      "image-annotation",
+      "labeling-tool",
+      "locateanything",
+      "machine-learning",
+      "mlops",
+      "object-detection",
+      "pytorch",
+      "self-hosted",
+      "telegram-bot",
+      "training",
+      "yolo",
+      "yolov8"
+    ],
+    "html_url": "https://github.com/gammahazard/groundwork",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-08-06T21:25:03Z",
+    "updated_at": "2026-08-10T16:58:40Z",
+    "pushed_at": "2026-08-10T14:59:01Z"
+  },
+  {
+    "id": 1328409632,
+    "name": "stm32-k210-ai-smart-trash-bin",
+    "full_name": "BAOXI11/stm32-k210-ai-smart-trash-bin",
+    "owner": {
+      "login": "BAOXI11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88330956?v=4"
+    },
+    "description": "STM32F103 + K210 AI smart trash sorting system with FreeRTOS, ESP8266, OneNET and Android",
+    "topics": [
+      "android",
+      "computer-vision",
+      "embedded-systems",
+      "freertos",
+      "iot",
+      "k210",
+      "smart-trash-bin",
+      "stm32"
+    ],
+    "html_url": "https://github.com/BAOXI11/stm32-k210-ai-smart-trash-bin",
+    "stargazers_count": 2,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T03:58:01Z",
+    "updated_at": "2026-08-10T05:48:22Z",
+    "pushed_at": "2026-08-09T03:58:19Z"
+  }
+]
