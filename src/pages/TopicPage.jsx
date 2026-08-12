@@ -7,7 +7,7 @@ import { TOPICS, getTopicSlug } from '../data/topics';
 
 const TopicPage = () => {
   const { slug } = useParams();
-  const topic = TOPICS.find((t) => t.id === slug);
+  const topic = TOPICS.find((t) => getTopicSlug(t) === slug);
 
   if (!topic) {
     return <NotFoundPage />;

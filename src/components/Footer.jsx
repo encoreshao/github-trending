@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { TOPICS } from '../data/topics';
+import { TOPICS, getTopicSlug } from '../data/topics';
 import './Footer.css';
 
 const Footer = () => {
@@ -16,7 +16,7 @@ const Footer = () => {
               <a
                 key={topic.id}
                 className="footer-topic-link"
-                onClick={() => navigate(`/topics/${topic.id}`)}
+                onClick={() => navigate(`/topics/${getTopicSlug(topic)}`)}
               >
                 {topic.name}
               </a>

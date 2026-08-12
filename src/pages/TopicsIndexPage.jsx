@@ -6,7 +6,7 @@ import Footer from '../components/Footer';
 import PeriodOverviewSection from '../components/PeriodOverviewSection';
 import DailyOverviewSection from '../components/DailyOverviewSection';
 import SectionDivider from '../components/SectionDivider';
-import { TOPICS } from '../data/topics';
+import { TOPICS, getTopicSlug } from '../data/topics';
 import './TopicsIndexPage.css';
 
 const TopicsIndexPage = () => {
@@ -58,7 +58,7 @@ const TopicsIndexPage = () => {
               key={topic.id}
               type="button"
               className="topic-index-card btn-surface"
-              onClick={() => navigate(`/topics/${topic.id}`)}
+              onClick={() => navigate(`/topics/${getTopicSlug(topic)}`)}
             >
               <span className="topic-index-icon">{topic.icon}</span>
               <span className="topic-index-name">{topic.name}</span>

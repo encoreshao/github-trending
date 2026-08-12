@@ -6,7 +6,7 @@ export const TOPICS = [
   { id: 'nodejs', name: 'Node.js', description: 'Server-side JavaScript', icon: '🟢' },
   { id: 'typescript', name: 'TypeScript', description: 'Typed JavaScript superset', icon: '🔷' },
   { id: 'database', name: 'Database', description: 'Database engines and data storage tools', icon: '🗄️' },
-  { id: 'ai', name: 'AI & Machine Learning', description: 'Artificial intelligence and ML', icon: '🤖', topicSlug: 'artificial-intelligence' },
+  { id: 'ai', name: 'Artificial Intelligence', description: 'Artificial intelligence and ML', icon: '🤖', topicSlug: 'artificial-intelligence' },
   { id: 'ai-agents', name: 'AI Agents', description: 'Autonomous AI agents and assistants', icon: '🤖' },
   { id: 'llm', name: 'Large Language Models', description: 'LLMs, GPT, and language AI', icon: '🧠' },
   { id: 'computer-vision', name: 'Computer Vision', description: 'Image and video processing', icon: '👁️' },

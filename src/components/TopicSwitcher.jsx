@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { LeftOutlined, RightOutlined } from '@ant-design/icons';
-import { TOPICS } from '../data/topics';
+import { TOPICS, getTopicSlug } from '../data/topics';
 import './TopicSwitcher.css';
 
 const SCROLL_STEP = 280;
@@ -67,7 +67,7 @@ const TopicSwitcher = ({ activeTopicId }) => {
                 key={topic.id}
                 type="button"
                 className={`topic-switcher-pill ${topic.id === activeTopicId ? 'active' : ''}`}
-                onClick={() => navigate(`/topics/${topic.id}`)}
+                onClick={() => navigate(`/topics/${getTopicSlug(topic)}`)}
               >
                 <span className="topic-switcher-icon">{topic.icon}</span>
                 {topic.name}
