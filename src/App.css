@@ -71,6 +71,57 @@ body {
   box-shadow: 0 4px 20px rgb(var(--c-accent) / 0.35);
 }
 
+/* In-flow mobile toggle (see App.jsx) — hidden on desktop, where the
+   floating .sidebar-toggle-btn circle is used instead. */
+.mobile-settings-toggle {
+  display: none;
+}
+
+/* The floating .sidebar-toggle-btn is positioned absolute at the top of the
+   app section. The site header is `position: fixed` near the top of the
+   viewport with a higher z-index, so once the Settings panel collapses
+   (height 0) the button sits right where the header can scroll over it,
+   hiding it with no way left to reopen Settings. Swap to the always-in-flow
+   .mobile-settings-toggle bar instead, which the fixed header can never
+   cover. */
+@media (max-width: 768px) {
+  .sidebar-toggle-btn {
+    display: none !important;
+  }
+
+  /* Antd gives the non-Sider Layout an explicit `width: 0` (relying on
+     `flex: auto` to grow it along the row main-axis on desktop). Once the
+     rule above flips .ant-layout-has-sider to flex-direction: column for
+     mobile, width becomes the cross axis instead — and an explicit 0
+     can't be stretched by align-items, so Content collapsed to just its
+     own padding. Force it back to full width here. */
+  .ant-layout-has-sider > .ant-layout {
+    width: 100% !important;
+  }
+
+  .mobile-settings-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 10px 16px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(var(--c-accent) / 0.35);
+    border-radius: 10px;
+    background: rgb(var(--c-surface) / 0.8);
+    color: rgb(var(--c-accent));
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .mobile-settings-toggle:hover {
+    background: rgb(var(--c-accent) / 0.15);
+    border-color: rgb(var(--c-accent) / 0.7);
+  }
+}
+
 /* ===============================================
    DATA TOOLBAR (search + export/copy + view/language)
    =============================================== */
@@ -105,6 +156,12 @@ body {
 }
 
 .data-toolbar-search .ant-input-group-addon {
+  /* Antd ships this with a hardcoded `width: 1px` — a legacy table-cell
+     shrink-to-fit trick that made sense under its default table-based
+     input-group layout, but collapses the addon (and hides the Search
+     button inside it) now that .ant-input-wrapper above is forced to
+     display: flex. */
+  width: auto;
   background: transparent;
   padding: 0;
   height: var(--toolbar-control-height);
