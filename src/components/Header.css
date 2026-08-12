@@ -96,6 +96,116 @@
   font-size: 14px;
 }
 
+/* Nav dropdowns: Trending (Weekly + Monthly) and Topics (all categories) */
+.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown-caret {
+  font-size: 10px !important;
+  margin-left: -2px;
+  transition: transform 0.2s ease;
+}
+
+.nav-dropdown-caret.open {
+  transform: rotate(180deg);
+}
+
+.nav-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  min-width: 170px;
+  background: rgb(var(--c-bg) / 0.98);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgb(var(--c-surface-alt) / 0.5);
+  border-radius: 12px;
+  padding: 6px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  z-index: 10;
+}
+
+.nav-dropdown-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  color: rgb(var(--c-text-secondary));
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.nav-dropdown-item:hover {
+  color: rgb(var(--c-text-heading));
+  background: rgba(59, 130, 246, 0.1);
+}
+
+.nav-dropdown-item.active {
+  color: #60A5FA;
+  background: rgba(59, 130, 246, 0.15);
+}
+
+/* Topics dropdown: same panel/item styles as Trending, but wider and laid
+   out as a multi-column grid since it lists every category. */
+.nav-dropdown-menu-grid {
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(560px, calc(100vw - 32px));
+  max-height: min(420px, calc(100vh - 100px));
+  overflow-y: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  grid-auto-rows: min-content;
+  align-content: start;
+  gap: 2px;
+}
+
+/* Longer category names (e.g. "Natural Language Processing") would
+   otherwise overflow their grid column, since .nav-dropdown-item is
+   nowrap for the single-column Trending menu. */
+.nav-dropdown-menu-grid .nav-dropdown-item {
+  align-items: flex-start;
+  white-space: normal;
+  line-height: 1.3;
+}
+
+.nav-dropdown-item-icon {
+  font-size: 15px;
+  line-height: 1.3;
+}
+
+.nav-dropdown-view-all {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 4px;
+  padding: 10px 12px;
+  border-top: 1px solid rgb(var(--c-surface-alt) / 0.5);
+  color: #60A5FA;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.nav-dropdown-view-all:hover {
+  color: #818CF8;
+}
+
+.nav-dropdown-view-all i {
+  font-size: 11px;
+}
+
 /* GitHub Star Button */
 .github-star-btn {
   display: flex;
@@ -134,6 +244,14 @@
   filter: drop-shadow(0 0 8px rgba(253, 230, 138, 0.8));
 }
 
+/* Three label tiers by width: full text, short "Star", icon only (see the
+   968px / 640px breakpoints below). Only one of .star-label-full /
+   .star-label-short is ever shown; .star-icon is never targeted by these
+   so it always stays visible. */
+.star-label-short {
+  display: none;
+}
+
 /* Responsive */
 @media (max-width: 968px) {
   .header {
@@ -154,8 +272,12 @@
     display: none;
   }
 
-  .github-star-btn span {
+  .star-label-full {
     display: none;
+  }
+
+  .star-label-short {
+    display: inline;
   }
 
   .github-star-btn {
@@ -187,6 +309,10 @@
 
   .nav-link {
     padding: 8px 10px;
+  }
+
+  .star-label-short {
+    display: none;
   }
 
   .github-star-btn {

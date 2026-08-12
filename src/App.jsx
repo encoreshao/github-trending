@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Layout, message } from 'antd';
 import { MenuFoldOutlined, MenuUnfoldOutlined } from '@ant-design/icons';
 import SettingsPanel from './components/SettingsPanel';
@@ -48,9 +48,15 @@ function App() {
   const [repos, setRepos] = useState([]);
   const [loading, setLoading] = useState(false);
   const [viewMode, setViewMode] = useState('card');
-  const [sidebarCollapsed, setSidebarCollapsed] = useState(
-    () => localStorage.getItem(SIDEBAR_COLLAPSED_KEY) === 'true'
-  );
+  const [sidebarCollapsed, setSidebarCollapsed] = useState(() => {
+    const saved = localStorage.getItem(SIDEBAR_COLLAPSED_KEY);
+    if (saved !== null) return saved === 'true';
+    // No saved preference yet (first visit): default collapsed on narrow
+    // screens so visitors land on the data view instead of a full-length
+    // Settings panel they'd have to scroll past.
+    return window.innerWidth <= 768;
+  });
+  const siderRef = useRef(null);
 
   // 每当 settings 变更时，写入 localStorage
   useEffect(() => {
@@ -107,6 +113,7 @@ function App() {
   return (
     <Layout style={{ minHeight: '100vh', position: 'relative' }}>
       <Sider
+        ref={siderRef}
         width={SIDER_WIDTH}
         collapsible
         collapsed={sidebarCollapsed}
@@ -137,6 +144,31 @@ function App() {
       </button>
       <Layout>
         <Content style={{ padding: 24 }}>
+          {/* Absolute .sidebar-toggle-btn above can end up hidden behind the
+              fixed site header on mobile once scrolled (see App.css); this
+              in-flow button is the mobile-only way to reach Settings. */}
+          <button
+            type="button"
+            className="mobile-settings-toggle"
+            onClick={() => {
+              setSidebarCollapsed(c => !c);
+              // Expanding/collapsing inserts or removes the full-height
+              // Settings panel right above this button, but the page's
+              // scroll position doesn't follow. Scrolling to the Sider
+              // itself (rather than this button) shows the Settings
+              // content when expanding, and lands back on this button
+              // when collapsing (the Sider's top === this button's
+              // position once its height collapses to 0). Wait a frame
+              // so the new layout has been painted before scrolling.
+              requestAnimationFrame(() => {
+                siderRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              });
+            }}
+            aria-expanded={!sidebarCollapsed}
+          >
+            {sidebarCollapsed ? <MenuUnfoldOutlined /> : <MenuFoldOutlined />}
+            <span>{texts[lang].settings}</span>
+          </button>
           <DataToolbar
             repos={repos}
             attributes={attributes}

@@ -8,12 +8,14 @@ import MonthlyPage from './pages/MonthlyPage';
 import TopicsIndexPage from './pages/TopicsIndexPage';
 import TopicPage from './pages/TopicPage';
 import NotFoundPage from './pages/NotFoundPage';
+import ScrollToTop from './components/ScrollToTop';
 import { BLOCKED_ROUTES } from './blockedRoutes';
 import './NewApp.css';
 
 const NewApp = () => {
   return (
     <Router>
+      <ScrollToTop />
       <div className="new-app">
         <Routes>
           <Route path="/" element={<HomePage />} />

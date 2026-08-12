@@ -275,6 +275,10 @@
     flex: 0 0 auto !important;
     border-right: none !important;
     border-bottom: 1px solid var(--demo-border) !important;
+    /* The mobile Settings toggle (App.jsx) scrolls this element into view
+       on expand/collapse; without this, its top edge lands flush under
+       the fixed .header, clipping the "Settings" heading. */
+    scroll-margin-top: 96px;
   }
 
   .demo-content .ant-layout-sider-collapsed {
@@ -282,11 +286,5 @@
     min-height: 0 !important;
     overflow: hidden !important;
     border-bottom: none !important;
-  }
-
-  .demo-content .sidebar-toggle-btn {
-    top: 12px !important;
-    left: auto !important;
-    right: 12px !important;
   }
 }
