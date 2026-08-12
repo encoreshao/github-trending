@@ -1,0 +1,606 @@
+[
+  {
+    "id": 1328966233,
+    "name": "rylai-codex-hermes-skills",
+    "full_name": "Rylaispirit/rylai-codex-hermes-skills",
+    "owner": {
+      "login": "Rylaispirit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187651714?v=4"
+    },
+    "description": "35 portable Agent Skills for Codex and Hermes, maintained by Rylai with clear upstream attribution and Vietnamese documentation.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "codex",
+      "hermes",
+      "productivity",
+      "skill-library",
+      "vietnamese"
+    ],
+    "html_url": "https://github.com/Rylaispirit/rylai-codex-hermes-skills",
+    "stargazers_count": 38,
+    "language": "Python",
+    "forks_count": 29,
+    "open_issues_count": 1,
+    "created_at": "2026-08-09T16:00:56Z",
+    "updated_at": "2026-08-12T02:15:09Z",
+    "pushed_at": "2026-08-09T16:09:46Z"
+  },
+  {
+    "id": 1324553091,
+    "name": "hermes-web-themes",
+    "full_name": "bchop-studio/hermes-web-themes",
+    "owner": {
+      "login": "bchop-studio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293707603?v=4"
+    },
+    "description": "100 Web UI theme pack for the Hermes Agent dashboard",
+    "topics": [
+      "dashboard",
+      "hermes",
+      "hermes-agent",
+      "themes"
+    ],
+    "html_url": "https://github.com/bchop-studio/hermes-web-themes",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T23:16:52Z",
+    "updated_at": "2026-08-11T15:02:49Z",
+    "pushed_at": "2026-08-10T19:06:56Z"
+  },
+  {
+    "id": 1330990653,
+    "name": "opencode-hermes-memory",
+    "full_name": "realchendahuang/opencode-hermes-memory",
+    "owner": {
+      "login": "realchendahuang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166703864?v=4"
+    },
+    "description": "Layered persistent memory plugin for OpenCode — user preferences, project conventions & past lessons survive across sessions. Ported from Hermes agent. No vector DB, pure Markdown.",
+    "topics": [
+      "ai-agent",
+      "hermes",
+      "llm",
+      "markdown",
+      "memory",
+      "opencode",
+      "opencode-plugin",
+      "persistent-memory"
+    ],
+    "html_url": "https://github.com/realchendahuang/opencode-hermes-memory",
+    "stargazers_count": 8,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T14:02:31Z",
+    "updated_at": "2026-08-12T01:21:26Z",
+    "pushed_at": "2026-08-11T16:03:02Z"
+  },
+  {
+    "id": 1326813141,
+    "name": "hermes-cybersec-lab",
+    "full_name": "handnewb/hermes-cybersec-lab",
+    "owner": {
+      "login": "handnewb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61999949?v=4"
+    },
+    "description": "🛡️ Turnkey cybersecurity lab for Hermes Agent — 397 CVE-driven skills, 152 tools, 28 frameworks (MITRE ATT&CK, MISP, CVSS, EPSS, OWASP, NIST, Sigma, YARA). Real exploits 2015–2026.",
+    "topics": [
+      "blue-team",
+      "cisa-kev",
+      "cve",
+      "cybersecurity",
+      "exploit",
+      "hermes",
+      "incident-response",
+      "llm",
+      "mitre-attack",
+      "ollama",
+      "osint",
+      "pentesting",
+      "red-team",
+      "skills",
+      "threat-hunting"
+    ],
+    "html_url": "https://github.com/handnewb/hermes-cybersec-lab",
+    "stargazers_count": 4,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T15:09:37Z",
+    "updated_at": "2026-08-11T20:37:32Z",
+    "pushed_at": "2026-08-11T19:05:07Z"
+  },
+  {
+    "id": 1326194383,
+    "name": "vrchat-assistant",
+    "full_name": "ggg123124/vrchat-assistant",
+    "owner": {
+      "login": "ggg123124",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16120345?v=4"
+    },
+    "description": "Self-hosted VRChat friend activity monitor - real-time WebSocket tracking of friends' online status, world changes, avatar updates. 41 MCP tools for AI agents (Hermes), auto OTP login, VRCX-0 data migration, weekly gaming reports.",
+    "topics": [
+      "friends",
+      "hermes",
+      "hermes-agent",
+      "mcp",
+      "monitoring",
+      "otp",
+      "sqlite",
+      "vrchat",
+      "websocket"
+    ],
+    "html_url": "https://github.com/ggg123124/vrchat-assistant",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-08-07T04:13:54Z",
+    "updated_at": "2026-08-12T00:52:11Z",
+    "pushed_at": "2026-08-12T00:52:06Z"
+  },
+  {
+    "id": 1324819996,
+    "name": "Hermes-Agent-Mobile",
+    "full_name": "fengnanrui/Hermes-Agent-Mobile",
+    "owner": {
+      "login": "fengnanrui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78522128?v=4"
+    },
+    "description": "Hermes Agent Android 客户端与中文移动 Dashboard：模型/DeepSeek、QQ Bot、MCP、记忆、语音，以及可选 Root、Kali Linux/NetHunter 安全工具集成。",
+    "topics": [
+      "ai-agent",
+      "android",
+      "android-16",
+      "android-9",
+      "android-app",
+      "chinese",
+      "cybersecurity",
+      "hermes",
+      "hermes-agent",
+      "kali-linux",
+      "kali-nethunter",
+      "kernelsu",
+      "llm-agent",
+      "mcp",
+      "mobile",
+      "mobile-dashboard",
+      "nethunter",
+      "qq-bot",
+      "root",
+      "voice-assistant"
+    ],
+    "html_url": "https://github.com/fengnanrui/Hermes-Agent-Mobile",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T06:18:58Z",
+    "updated_at": "2026-08-09T02:39:24Z",
+    "pushed_at": "2026-08-06T08:52:43Z"
+  },
+  {
+    "id": 1328928352,
+    "name": "hermes-insight",
+    "full_name": "PabloTheThinker/hermes-insight",
+    "owner": {
+      "login": "PabloTheThinker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64607765?v=4"
+    },
+    "description": "Pattern recognition ability for AI agents — local structural lattice that matches, links, distills, and learns from experience. Companion for Hermes Agent.",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai-agents",
+      "artificial-intelligence",
+      "cognition",
+      "developer-tools",
+      "hermes",
+      "hermes-agent",
+      "knowledge-graph",
+      "llm-agents",
+      "local-first",
+      "machine-learning",
+      "mit-license",
+      "multi-agent",
+      "nous-research",
+      "open-source",
+      "pattern-recognition",
+      "python",
+      "rag",
+      "structural-memory"
+    ],
+    "html_url": "https://github.com/PabloTheThinker/hermes-insight",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T15:17:03Z",
+    "updated_at": "2026-08-11T01:02:51Z",
+    "pushed_at": "2026-08-11T01:03:03Z"
+  },
+  {
+    "id": 1326585154,
+    "name": "mihomo-skill-public",
+    "full_name": "Visol-456/mihomo-skill-public",
+    "owner": {
+      "login": "Visol-456",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194691856?v=4"
+    },
+    "description": "Battle-tested mihomo (Clash Meta) proxy deployment field manual: TUN transparent proxy, systemd, REST API ops, traffic forensics, TPROXY, 25 incident-driven references",
+    "topics": [
+      "agent-skill",
+      "ai-agent",
+      "clash",
+      "devops",
+      "hermes",
+      "hermes-skill",
+      "mihomo",
+      "network",
+      "proxy",
+      "skill",
+      "vpn"
+    ],
+    "html_url": "https://github.com/Visol-456/mihomo-skill-public",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T11:24:56Z",
+    "updated_at": "2026-08-10T14:44:59Z",
+    "pushed_at": "2026-08-07T12:34:44Z"
+  },
+  {
+    "id": 1327132173,
+    "name": "hermes-fleet-updater",
+    "full_name": "rahulsethi/hermes-fleet-updater",
+    "owner": {
+      "login": "rahulsethi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3447473?v=4"
+    },
+    "description": "One safe command to update Nous Research Hermes across your whole fleet (VPS, home server, laptop) over SSH/Tailscale. Backs up, stops what holds the binary, updates, restarts, verifies.",
+    "topics": [
+      "cli",
+      "devops",
+      "fleet-management",
+      "hermes",
+      "homelab",
+      "nous-research",
+      "python",
+      "self-hosted",
+      "ssh",
+      "tailscale"
+    ],
+    "html_url": "https://github.com/rahulsethi/hermes-fleet-updater",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T20:27:49Z",
+    "updated_at": "2026-08-09T21:56:26Z",
+    "pushed_at": "2026-08-07T22:45:40Z"
+  },
+  {
+    "id": 1329417215,
+    "name": "macos-screenshot-thumbnail-duration",
+    "full_name": "qingtengCHINA/macos-screenshot-thumbnail-duration",
+    "owner": {
+      "login": "qingtengCHINA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97896031?v=4"
+    },
+    "description": "Agent skill + script to control macOS floating screenshot thumbnail linger time",
+    "topics": [
+      "agent-skill",
+      "defaults",
+      "hermes",
+      "macos",
+      "screenshot"
+    ],
+    "html_url": "https://github.com/qingtengCHINA/macos-screenshot-thumbnail-duration",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-10T04:25:31Z",
+    "updated_at": "2026-08-11T06:35:40Z",
+    "pushed_at": "2026-08-10T04:25:35Z"
+  },
+  {
+    "id": 1329971104,
+    "name": "craft-image-prompts",
+    "full_name": "jducerf/craft-image-prompts",
+    "owner": {
+      "login": "jducerf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191454197?v=4"
+    },
+    "description": "A reusable Codex skill for crafting precise, model-ready image generation and editing prompts.",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "chatgpt",
+      "claude",
+      "claude-skills",
+      "hermes",
+      "hermes-agent",
+      "hermes-skill",
+      "skill",
+      "skills"
+    ],
+    "html_url": "https://github.com/jducerf/craft-image-prompts",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-10T15:28:02Z",
+    "updated_at": "2026-08-11T10:52:15Z",
+    "pushed_at": "2026-08-10T15:31:19Z"
+  },
+  {
+    "id": 1327131852,
+    "name": "hermes-missions",
+    "full_name": "aranajhonny/hermes-missions",
+    "owner": {
+      "login": "aranajhonny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9091881?v=4"
+    },
+    "description": "Durable execution for Hermes agents: crash-safe event log, merge-first checkpoints, resume and branch after any crash",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "hermes",
+      "hermes-agent",
+      "hermes-desktop",
+      "hermes-plugin"
+    ],
+    "html_url": "https://github.com/aranajhonny/hermes-missions",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T20:27:23Z",
+    "updated_at": "2026-08-07T20:57:45Z",
+    "pushed_at": "2026-08-07T20:36:43Z"
+  },
+  {
+    "id": 1327562443,
+    "name": "deepwrite",
+    "full_name": "willyzengg-pixel/deepwrite",
+    "owner": {
+      "login": "willyzengg-pixel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262106544?v=4"
+    },
+    "description": "AI辅助深度内容创作方法论——五种写作模式·四件叙事骨架·五条读感技法·双重审核。100+篇深度文章实战验证。",
+    "topics": [
+      "ai-agent",
+      "claude-code",
+      "content-creation",
+      "cursor",
+      "deepwrite",
+      "hermes",
+      "methodology",
+      "openclaw",
+      "skill",
+      "writing"
+    ],
+    "html_url": "https://github.com/willyzengg-pixel/deepwrite",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T08:34:46Z",
+    "updated_at": "2026-08-08T09:03:19Z",
+    "pushed_at": "2026-08-08T09:03:10Z"
+  },
+  {
+    "id": 1324614676,
+    "name": "x-agent-sdk",
+    "full_name": "alarok/x-agent-sdk",
+    "owner": {
+      "login": "alarok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313539717?v=4"
+    },
+    "description": "Unofficial X (Twitter) client + MCP server. Cookie auth, no paid API.",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "automation",
+      "graphql",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "mcp",
+      "openclaw",
+      "sdk",
+      "twitter",
+      "typescript",
+      "x"
+    ],
+    "html_url": "https://github.com/alarok/x-agent-sdk",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T01:20:09Z",
+    "updated_at": "2026-08-06T10:16:25Z",
+    "pushed_at": "2026-08-06T10:15:57Z"
+  },
+  {
+    "id": 1329717363,
+    "name": "browserlink",
+    "full_name": "nexuslinkproductions/browserlink",
+    "owner": {
+      "login": "nexuslinkproductions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273246263?v=4"
+    },
+    "description": "Freehand annotation + element inspection for Chromium and Comet. MV3 extension, local REST hub, MCP server, Hermes adapter.",
+    "topics": [
+      "ai",
+      "annotation",
+      "browser-extension",
+      "chrome-extension",
+      "developer-tools",
+      "hermes",
+      "mcp"
+    ],
+    "html_url": "https://github.com/nexuslinkproductions/browserlink",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-10T10:50:50Z",
+    "updated_at": "2026-08-12T02:17:43Z",
+    "pushed_at": "2026-08-12T03:29:48Z"
+  },
+  {
+    "id": 1326681118,
+    "name": "ai-study-coach",
+    "full_name": "Visol-456/ai-study-coach",
+    "owner": {
+      "login": "Visol-456",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194691856?v=4"
+    },
+    "description": "AI-agent study workflow for Chinese high-school STEM: textbook sourcing, notes generation, one-question tutoring with MMA verification and Excalidraw diagrams",
+    "topics": [
+      "agent-skill",
+      "ai-agent",
+      "chinese",
+      "education",
+      "hermes",
+      "hermes-skill",
+      "high-school",
+      "skill",
+      "stem",
+      "study",
+      "tutoring"
+    ],
+    "html_url": "https://github.com/Visol-456/ai-study-coach",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T13:04:15Z",
+    "updated_at": "2026-08-10T14:45:01Z",
+    "pushed_at": "2026-08-07T13:08:08Z"
+  },
+  {
+    "id": 1325221221,
+    "name": "EquiRebuild",
+    "full_name": "zhenkun26/EquiRebuild",
+    "owner": {
+      "login": "zhenkun26",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310396674?v=4"
+    },
+    "description": "EquiRebuild · Hermes 生态代码加固审查 skill — 5 维对抗扫描、P0/P1 分级、修复验证闭环 | A reusable Hermes code-hardening review skill with adversarial scanning",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "hardening",
+      "hermes",
+      "openspec",
+      "security"
+    ],
+    "html_url": "https://github.com/zhenkun26/EquiRebuild",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T12:38:18Z",
+    "updated_at": "2026-08-12T00:28:28Z",
+    "pushed_at": "2026-08-12T00:15:14Z"
+  },
+  {
+    "id": 1329948747,
+    "name": "project-visual-backoffice",
+    "full_name": "1305731035-ux/project-visual-backoffice",
+    "owner": {
+      "login": "1305731035-ux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251089777?v=4"
+    },
+    "description": "跨AI框架通用的项目可视化后台 · Wiki知识库 · Git版本确认 · 一键开启新对话 · 拖拽布局",
+    "topics": [
+      "agent-tools",
+      "ai-coding",
+      "ai-tools",
+      "developer-tools",
+      "documentation",
+      "git",
+      "hermes",
+      "knowledge-base",
+      "productivity",
+      "project-management",
+      "react",
+      "vite",
+      "wiki"
+    ],
+    "html_url": "https://github.com/1305731035-ux/project-visual-backoffice",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-10T15:04:13Z",
+    "updated_at": "2026-08-12T03:26:29Z",
+    "pushed_at": "2026-08-11T04:43:37Z"
+  },
+  {
+    "id": 1325466746,
+    "name": "reasonix-x",
+    "full_name": "ddonggit/reasonix-x",
+    "owner": {
+      "login": "ddonggit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30488463?v=4"
+    },
+    "description": "让 Hermes Studio 支持 Reasonix 编码代理（编程工具页+群聊+工作流），含一键补丁脚本",
+    "topics": [
+      "coding-agent",
+      "hermes",
+      "hermes-studio",
+      "patch",
+      "reasonix"
+    ],
+    "html_url": "https://github.com/ddonggit/reasonix-x",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T16:12:46Z",
+    "updated_at": "2026-08-08T18:27:39Z",
+    "pushed_at": "2026-08-08T02:26:27Z"
+  },
+  {
+    "id": 1327230307,
+    "name": "hermes-voice",
+    "full_name": "rahulsethi/hermes-voice",
+    "owner": {
+      "login": "rahulsethi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3447473?v=4"
+    },
+    "description": "Talk to your Hermes agent in real time — with its full MCP tools and memory — over a LiveKit server you host yourself.",
+    "topics": [
+      "hermes",
+      "livekit",
+      "mcp",
+      "nous-research",
+      "python",
+      "realtime",
+      "self-hosted",
+      "stt",
+      "tailscale",
+      "tts",
+      "voice-agent",
+      "voice-assistant"
+    ],
+    "html_url": "https://github.com/rahulsethi/hermes-voice",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T22:55:19Z",
+    "updated_at": "2026-08-09T21:56:20Z",
+    "pushed_at": "2026-08-08T09:09:19Z"
+  }
+]

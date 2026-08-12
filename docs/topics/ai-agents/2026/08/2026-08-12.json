@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1326574350,
+    "name": "mcp-server",
+    "full_name": "sv-number/mcp-server",
+    "owner": {
+      "login": "sv-number",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299902966?v=4"
+    },
+    "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "cline",
+      "cursor",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "otp",
+      "phone-verification",
+      "sms",
+      "sms-verification",
+      "typescript",
+      "virtual-phone-number",
+      "windsurf"
+    ],
+    "html_url": "https://github.com/sv-number/mcp-server",
+    "stargazers_count": 619,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T11:13:26Z",
+    "updated_at": "2026-08-12T03:17:49Z",
+    "pushed_at": "2026-08-10T18:55:24Z"
+  },
+  {
+    "id": 1328527258,
+    "name": "codex-bridge",
+    "full_name": "Sateezg/codex-bridge",
+    "owner": {
+      "login": "Sateezg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196150541?v=4"
+    },
+    "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "gpt-5",
+      "gpt-image-2",
+      "image-generation",
+      "openai"
+    ],
+    "html_url": "https://github.com/Sateezg/codex-bridge",
+    "stargazers_count": 357,
+    "language": "Shell",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T06:57:08Z",
+    "updated_at": "2026-08-12T03:04:32Z",
+    "pushed_at": "2026-08-10T07:56:13Z"
+  },
+  {
+    "id": 1325322542,
+    "name": "agent-skills-collection",
+    "full_name": "oliverb-io1902e8/agent-skills-collection",
+    "owner": {
+      "login": "oliverb-io1902e8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278994798?v=4"
+    },
+    "description": "Curated collection of modular agent skills for LLM-based agents",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "agentic-workflow",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-model",
+      "ai-tools",
+      "automation",
+      "chatgpt",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "python"
+    ],
+    "html_url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+    "stargazers_count": 204,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T14:07:02Z",
+    "updated_at": "2026-08-11T14:42:33Z",
+    "pushed_at": "2026-08-11T14:29:30Z"
+  },
+  {
+    "id": 1327912711,
+    "name": "KADATH",
+    "full_name": "i3T4AN/KADATH",
+    "owner": {
+      "login": "i3T4AN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67167910?v=4"
+    },
+    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+    "topics": [
+      "agent-evaluation-tools",
+      "agent-framework",
+      "agent-swarms",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "autonomous-agents",
+      "evolutionary-algorithms",
+      "generative-ai",
+      "genetic-algorithm",
+      "llm",
+      "llm-agents",
+      "llm-evaluation",
+      "multi-agent",
+      "multi-agent-systems",
+      "self-evolving-agents"
+    ],
+    "html_url": "https://github.com/i3T4AN/KADATH",
+    "stargazers_count": 187,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T15:49:55Z",
+    "updated_at": "2026-08-12T01:11:55Z",
+    "pushed_at": "2026-08-09T21:01:28Z"
+  },
+  {
+    "id": 1329128263,
+    "name": "loomfeed",
+    "full_name": "surya-koritala/loomfeed",
+    "owner": {
+      "login": "surya-koritala",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188490054?v=4"
+    },
+    "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+    "topics": [
+      "ai-agents",
+      "community-platform",
+      "golang",
+      "mcp",
+      "nextjs",
+      "reddit-alternative",
+      "self-hosted",
+      "social-network"
+    ],
+    "html_url": "https://github.com/surya-koritala/loomfeed",
+    "stargazers_count": 156,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 27,
+    "created_at": "2026-08-09T19:28:09Z",
+    "updated_at": "2026-08-11T12:19:15Z",
+    "pushed_at": "2026-08-11T16:47:20Z"
+  },
+  {
+    "id": 1329849289,
+    "name": "moli",
+    "full_name": "lexmount/moli",
+    "owner": {
+      "login": "lexmount",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231927209?v=4"
+    },
+    "description": "Best browser for AI agents, built in Rust.",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser",
+      "browser-automation",
+      "cloud-browser",
+      "playwright",
+      "puppeteer",
+      "rust",
+      "servo",
+      "web"
+    ],
+    "html_url": "https://github.com/lexmount/moli",
+    "stargazers_count": 106,
+    "language": "Rust",
+    "forks_count": 10,
+    "open_issues_count": 1,
+    "created_at": "2026-08-10T13:20:30Z",
+    "updated_at": "2026-08-12T03:19:42Z",
+    "pushed_at": "2026-08-12T03:20:04Z"
+  },
+  {
+    "id": 1330516937,
+    "name": "HERO-Anti-OverDefense",
+    "full_name": "wanshuiyin/HERO-Anti-OverDefense",
+    "owner": {
+      "login": "wanshuiyin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76990859?v=4"
+    },
+    "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+    "topics": [
+      "agents-md",
+      "ai-agents",
+      "antigravity",
+      "claude-code",
+      "claude-md",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "gemini-cli",
+      "github-copilot",
+      "llm",
+      "prompt-engineering",
+      "windsurf"
+    ],
+    "html_url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
+    "stargazers_count": 94,
+    "language": "Markdown",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T05:08:30Z",
+    "updated_at": "2026-08-12T02:35:01Z",
+    "pushed_at": "2026-08-11T17:30:06Z"
+  },
+  {
+    "id": 1325206693,
+    "name": "juror",
+    "full_name": "Juror-AI/juror",
+    "owner": {
+      "login": "Juror-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314188773?v=4"
+    },
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "topics": [
+      "ai-agents",
+      "ai-code-review",
+      "cli",
+      "code-quality",
+      "code-review",
+      "codex",
+      "developer-tools",
+      "devtools",
+      "github-action",
+      "github-actions",
+      "llm",
+      "llmops",
+      "pull-request",
+      "static-analysis",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Juror-AI/juror",
+    "stargazers_count": 80,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 15,
+    "created_at": "2026-08-06T12:24:49Z",
+    "updated_at": "2026-08-11T16:44:23Z",
+    "pushed_at": "2026-08-11T16:38:49Z"
+  },
+  {
+    "id": 1326394720,
+    "name": "skills",
+    "full_name": "sv-number/skills",
+    "owner": {
+      "login": "sv-number",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299902966?v=4"
+    },
+    "description": "Give your AI agent a phone number: order a private number in 200+ countries over the API, read the SMS verification code, hand the number back. The widest country coverage in the category, checkable with one API call.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-skill",
+      "codex",
+      "otp",
+      "phone-verification",
+      "sms",
+      "sms-verification",
+      "virtual-phone-number"
+    ],
+    "html_url": "https://github.com/sv-number/skills",
+    "stargazers_count": 70,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T08:14:34Z",
+    "updated_at": "2026-08-11T18:06:36Z",
+    "pushed_at": "2026-08-10T17:20:53Z"
+  },
+  {
+    "id": 1324527947,
+    "name": "index",
+    "full_name": "mintlify/index",
+    "owner": {
+      "login": "mintlify",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93011474?v=4"
+    },
+    "description": "Mintlify Index: retrieval engine and MCP server. Install: npx mint index",
+    "topics": [
+      "ai-agents",
+      "documentation",
+      "mcp",
+      "retrieval"
+    ],
+    "html_url": "https://github.com/mintlify/index",
+    "stargazers_count": 45,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-08-05T22:27:42Z",
+    "updated_at": "2026-08-11T09:28:15Z",
+    "pushed_at": "2026-08-06T22:39:09Z"
+  },
+  {
+    "id": 1328966233,
+    "name": "rylai-codex-hermes-skills",
+    "full_name": "Rylaispirit/rylai-codex-hermes-skills",
+    "owner": {
+      "login": "Rylaispirit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187651714?v=4"
+    },
+    "description": "35 portable Agent Skills for Codex and Hermes, maintained by Rylai with clear upstream attribution and Vietnamese documentation.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "codex",
+      "hermes",
+      "productivity",
+      "skill-library",
+      "vietnamese"
+    ],
+    "html_url": "https://github.com/Rylaispirit/rylai-codex-hermes-skills",
+    "stargazers_count": 38,
+    "language": "Python",
+    "forks_count": 29,
+    "open_issues_count": 1,
+    "created_at": "2026-08-09T16:00:56Z",
+    "updated_at": "2026-08-12T02:15:09Z",
+    "pushed_at": "2026-08-09T16:09:46Z"
+  },
+  {
+    "id": 1327561373,
+    "name": "agents-universe",
+    "full_name": "agents-universe/agents-universe",
+    "owner": {
+      "login": "agents-universe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34120374?v=4"
+    },
+    "description": "让智能体像人一样学习和工作",
+    "topics": [
+      "agent-framework",
+      "agentic-ai",
+      "ai-agents",
+      "codex",
+      "fastapi",
+      "knowledge-management",
+      "llm",
+      "muti-agent",
+      "self-hosted",
+      "vue3"
+    ],
+    "html_url": "https://github.com/agents-universe/agents-universe",
+    "stargazers_count": 37,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T08:33:12Z",
+    "updated_at": "2026-08-12T02:47:54Z",
+    "pushed_at": "2026-08-11T23:43:30Z"
+  },
+  {
+    "id": 1324063135,
+    "name": "health-os",
+    "full_name": "alxyrgin/health-os",
+    "owner": {
+      "login": "alxyrgin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204298685?v=4"
+    },
+    "description": "Персональная система управления здоровьем на Claude Code: 14 AI-врачей, консилиум с обязательным спором, холистический анализ, локальное хранение данных. Не медицинское изделие.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "health",
+      "medical-records",
+      "personal-health-record",
+      "privacy",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/alxyrgin/health-os",
+    "stargazers_count": 36,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T13:10:25Z",
+    "updated_at": "2026-08-11T13:53:57Z",
+    "pushed_at": "2026-08-10T07:21:40Z"
+  },
+  {
+    "id": 1330510119,
+    "name": "toolpermit",
+    "full_name": "sunhao123456sun-svg/toolpermit",
+    "owner": {
+      "login": "sunhao123456sun-svg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264379988?v=4"
+    },
+    "description": "A local-first permission firewall and approval layer for AI agent tool calls.",
+    "topics": [
+      "ai-agents",
+      "ai-security",
+      "audit-logging",
+      "codex-plugin",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "permissions",
+      "python",
+      "security"
+    ],
+    "html_url": "https://github.com/sunhao123456sun-svg/toolpermit",
+    "stargazers_count": 34,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-08-11T04:58:04Z",
+    "updated_at": "2026-08-12T01:40:44Z",
+    "pushed_at": "2026-08-11T10:02:27Z"
+  },
+  {
+    "id": 1324853220,
+    "name": "bubble-agent-mcp",
+    "full_name": "alijancb/bubble-agent-mcp",
+    "owner": {
+      "login": "alijancb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97835009?v=4"
+    },
+    "description": "Open-source MCP server for discovering fast-growing internet conversations with Bubble Agent",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "codex",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/alijancb/bubble-agent-mcp",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-08-06T06:50:40Z",
+    "updated_at": "2026-08-08T13:41:55Z",
+    "pushed_at": "2026-08-07T08:25:26Z"
+  },
+  {
+    "id": 1330687306,
+    "name": "agent-link",
+    "full_name": "Riccardo8888/agent-link",
+    "owner": {
+      "login": "Riccardo8888",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136744451?v=4"
+    },
+    "description": "An end-to-end encrypted channel between coding agents, anywhere",
+    "topics": [
+      "agent-communication",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "end-to-end-encryption",
+      "mcp",
+      "mcp-server",
+      "multi-agent",
+      "python"
+    ],
+    "html_url": "https://github.com/Riccardo8888/agent-link",
+    "stargazers_count": 29,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T08:41:19Z",
+    "updated_at": "2026-08-12T03:08:39Z",
+    "pushed_at": "2026-08-11T10:56:48Z"
+  },
+  {
+    "id": 1323487520,
+    "name": "hud-mode",
+    "full_name": "adrida/hud-mode",
+    "owner": {
+      "login": "adrida",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26824656?v=4"
+    },
+    "description": "A compact heads-up display for your coding agent. Instruments while it works, the answer when it stops. Claude Code, Codex, OpenCode.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "opencode",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/adrida/hud-mode",
+    "stargazers_count": 28,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-05T00:33:45Z",
+    "updated_at": "2026-08-10T11:04:11Z",
+    "pushed_at": "2026-08-05T04:51:46Z"
+  },
+  {
+    "id": 1329919679,
+    "name": "ai-pulse",
+    "full_name": "leog/ai-pulse",
+    "owner": {
+      "login": "leog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/467258?v=4"
+    },
+    "description": "Ambient macOS light strip for AI coding agents — a Dock-adjacent pill of eight LEDs showing whether anything is working, waiting, finished, or broken",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "macos",
+      "swift",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/leog/ai-pulse",
+    "stargazers_count": 28,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 5,
+    "created_at": "2026-08-10T14:34:17Z",
+    "updated_at": "2026-08-12T00:10:05Z",
+    "pushed_at": "2026-08-12T00:10:01Z"
+  },
+  {
+    "id": 1326452281,
+    "name": "slopware-skills",
+    "full_name": "transcendr/slopware-skills",
+    "owner": {
+      "login": "transcendr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37011672?v=4"
+    },
+    "description": "Free, portable AI agent skills and plugins for Codex, Claude Code, and Agent Skills clients by Slopware Engineer (@aienginerd). Home of the MSW Kernel for Minimum Sufficient Work.",
+    "topics": [
+      "agent-plugins",
+      "agent-skills",
+      "ai-agents",
+      "ai-coding-agent",
+      "claude-code",
+      "claude-code-plugins",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "developer-tools",
+      "minimum-sufficient-work",
+      "msw",
+      "openai-codex",
+      "slopware"
+    ],
+    "html_url": "https://github.com/transcendr/slopware-skills",
+    "stargazers_count": 28,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T09:09:10Z",
+    "updated_at": "2026-08-12T02:50:55Z",
+    "pushed_at": "2026-08-08T17:35:28Z"
+  },
+  {
+    "id": 1327221128,
+    "name": "Opencodex",
+    "full_name": "matonhp5108/Opencodex",
+    "owner": {
+      "login": "matonhp5108",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306087055?v=4"
+    },
+    "description": "A free, open-source coding agent inside VS Code.",
+    "topics": [
+      "agent",
+      "agent-skills",
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "vibecode",
+      "vibecoders",
+      "vibecoding",
+      "vibecoding-tool"
+    ],
+    "html_url": "https://github.com/matonhp5108/Opencodex",
+    "stargazers_count": 27,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T22:39:46Z",
+    "updated_at": "2026-08-11T22:00:46Z",
+    "pushed_at": "2026-08-11T00:26:07Z"
+  }
+]

@@ -1,0 +1,604 @@
+[
+  {
+    "id": 1328943154,
+    "name": "RexaDB",
+    "full_name": "rexadbapp/RexaDB",
+    "owner": {
+      "login": "rexadbapp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272519219?v=4"
+    },
+    "description": "Multi-database desktop client for PostgreSQL, MySQL, MongoDB, SQLite, ClickHouse, Redis, and SQL Server.",
+    "topics": [
+      "clickhouse",
+      "database",
+      "desktop-app",
+      "mongodb",
+      "mssql",
+      "mysql",
+      "postgresql",
+      "redis",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/rexadbapp/RexaDB",
+    "stargazers_count": 9,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T15:33:32Z",
+    "updated_at": "2026-08-11T21:19:08Z",
+    "pushed_at": "2026-08-11T21:18:32Z"
+  },
+  {
+    "id": 1325445358,
+    "name": "pgfathom",
+    "full_name": "lvcas-dotcom/pgfathom",
+    "owner": {
+      "login": "lvcas-dotcom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134722316?v=4"
+    },
+    "description": "PostgreSQL schema archaeology: discover, validate, and explain undocumented relationships hidden in your database.",
+    "topics": [
+      "cli",
+      "data-integrity",
+      "data-profiling",
+      "database",
+      "database-analysis",
+      "database-schema",
+      "database-tools",
+      "foreign-keys",
+      "golang",
+      "postgres",
+      "postgresql",
+      "schema-analysis"
+    ],
+    "html_url": "https://github.com/lvcas-dotcom/pgfathom",
+    "stargazers_count": 5,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T15:52:45Z",
+    "updated_at": "2026-08-12T01:57:05Z",
+    "pushed_at": "2026-08-10T13:00:48Z"
+  },
+  {
+    "id": 1327760772,
+    "name": "Mekka",
+    "full_name": "yiaany/Mekka",
+    "owner": {
+      "login": "yiaany",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232380238?v=4"
+    },
+    "description": "The agent-native Supabase killer: SQLite speed today, distributed cloud next, without the PostgreSQL tax.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "authentication",
+      "baas",
+      "backend-as-a-service",
+      "bun",
+      "database",
+      "developer-tools",
+      "mcp",
+      "model-context-protocol",
+      "object-storage",
+      "react",
+      "realtime",
+      "security",
+      "self-hosted",
+      "sqlite",
+      "studio",
+      "supabase-alternative",
+      "typescript"
+    ],
+    "html_url": "https://github.com/yiaany/Mekka",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T13:09:09Z",
+    "updated_at": "2026-08-11T14:37:31Z",
+    "pushed_at": "2026-08-11T14:33:41Z"
+  },
+  {
+    "id": 1327555705,
+    "name": "admin-query-profiler-for-woocommerce",
+    "full_name": "zawad-monsur/admin-query-profiler-for-woocommerce",
+    "owner": {
+      "login": "zawad-monsur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59703861?v=4"
+    },
+    "description": "Finds out which plugin is making your WooCommerce admin slow, by attributing every database query to the plugin that caused it.",
+    "topics": [
+      "database",
+      "debugging",
+      "mysql",
+      "performance",
+      "php",
+      "profiler",
+      "woocommerce",
+      "wordpress",
+      "wordpress-plugin"
+    ],
+    "html_url": "https://github.com/zawad-monsur/admin-query-profiler-for-woocommerce",
+    "stargazers_count": 4,
+    "language": "PHP",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T08:24:53Z",
+    "updated_at": "2026-08-09T09:48:27Z",
+    "pushed_at": "2026-08-08T09:23:58Z"
+  },
+  {
+    "id": 1329350345,
+    "name": "freclean-data",
+    "full_name": "FreClean/freclean-data",
+    "owner": {
+      "login": "FreClean",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306917112?v=4"
+    },
+    "description": "FreClean Data PostgreSQL schema, migrations, and data dictionary. Realism-rule constraints enforced at the database level, not just in app code.",
+    "topics": [
+      "analysis",
+      "data",
+      "data-management",
+      "data-modeling",
+      "database",
+      "freclean-data"
+    ],
+    "html_url": "https://github.com/FreClean/freclean-data",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-10T02:27:08Z",
+    "updated_at": "2026-08-10T19:34:10Z",
+    "pushed_at": "2026-08-10T02:29:42Z"
+  },
+  {
+    "id": 1325474188,
+    "name": "DoUKnow",
+    "full_name": "itsmadson/DoUKnow",
+    "owner": {
+      "login": "itsmadson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67187216?v=4"
+    },
+    "description": "An open handbook of everything a software engineer needs to know.",
+    "topics": [
+      "apis",
+      "backend",
+      "data-engineering",
+      "database",
+      "devops",
+      "distributed-systems",
+      "engineering-practices",
+      "messaging",
+      "ml-systems",
+      "multi-tenancy",
+      "networking",
+      "observability",
+      "performance",
+      "platform-engineering",
+      "reliability",
+      "security",
+      "software-architecture",
+      "software-engineering",
+      "system-design",
+      "testing"
+    ],
+    "html_url": "https://github.com/itsmadson/DoUKnow",
+    "stargazers_count": 2,
+    "language": "MDX",
+    "forks_count": 1,
+    "open_issues_count": 2,
+    "created_at": "2026-08-06T16:19:58Z",
+    "updated_at": "2026-08-10T01:12:58Z",
+    "pushed_at": "2026-08-07T07:48:22Z"
+  },
+  {
+    "id": 1331000612,
+    "name": "paranorm",
+    "full_name": "ryuzcorp/paranorm",
+    "owner": {
+      "login": "ryuzcorp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/315824974?v=4"
+    },
+    "description": "Kysely on steroids: author database schemas in YAML, infer Kysely types, apply schema-diff migrations, and query through a compact model API.",
+    "topics": [
+      "database",
+      "kysely",
+      "migration",
+      "orm",
+      "schema",
+      "typescript",
+      "yaml"
+    ],
+    "html_url": "https://github.com/ryuzcorp/paranorm",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T14:12:26Z",
+    "updated_at": "2026-08-11T18:45:29Z",
+    "pushed_at": "2026-08-11T18:10:58Z"
+  },
+  {
+    "id": 1324798502,
+    "name": "ef-timelapse",
+    "full_name": "xonaib/ef-timelapse",
+    "owner": {
+      "login": "xonaib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48220328?v=4"
+    },
+    "description": "Time-travel viewer for EF Core schema history — replay migrations or Git-tracked scaffolded models commit-by-commit in a browser UI.",
+    "topics": [
+      "cli",
+      "csharp",
+      "database",
+      "developer-tools",
+      "dotnet",
+      "dotnet-tool",
+      "ef-core",
+      "entity-framework",
+      "entity-framework-core",
+      "git",
+      "migrations",
+      "roslyn"
+    ],
+    "html_url": "https://github.com/xonaib/ef-timelapse",
+    "stargazers_count": 2,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T05:59:16Z",
+    "updated_at": "2026-08-10T12:42:06Z",
+    "pushed_at": "2026-08-07T12:48:06Z"
+  },
+  {
+    "id": 1327509692,
+    "name": "QueryGuard",
+    "full_name": "Mixlazer/QueryGuard",
+    "owner": {
+      "login": "Mixlazer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93079384?v=4"
+    },
+    "description": "Local WinUI 3 Text-to-SQL assistant powered by Ollama, with dialect-aware prompting and independent AST/DDL validation for safer SQL generation.",
+    "topics": [
+      "database",
+      "dotnet",
+      "duckdb",
+      "llm",
+      "mariadb",
+      "mysql",
+      "ollama",
+      "oracle-database",
+      "postgresql",
+      "qwen",
+      "sql",
+      "sql-server",
+      "sqlite",
+      "text-to-sql",
+      "windows",
+      "winui3"
+    ],
+    "html_url": "https://github.com/Mixlazer/QueryGuard",
+    "stargazers_count": 1,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T07:15:01Z",
+    "updated_at": "2026-08-08T12:51:44Z",
+    "pushed_at": "2026-08-08T11:35:55Z"
+  },
+  {
+    "id": 1325134738,
+    "name": "stride-db",
+    "full_name": "amimart/stride-db",
+    "owner": {
+      "login": "amimart",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33665250?v=4"
+    },
+    "description": "🦀 Experimental mmap-backed MVCC key-value store using a SART",
+    "topics": [
+      "database",
+      "kv-store",
+      "storage-engine"
+    ],
+    "html_url": "https://github.com/amimart/stride-db",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T11:18:04Z",
+    "updated_at": "2026-08-06T13:50:09Z",
+    "pushed_at": "2026-08-06T13:41:28Z"
+  },
+  {
+    "id": 1327486915,
+    "name": "hibernate-learning",
+    "full_name": "sarangas001/hibernate-learning",
+    "owner": {
+      "login": "sarangas001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167680067?v=4"
+    },
+    "description": "A hands-on Java Hibernate learning repository covering ORM concepts, entity mapping, relationships, CRUD operations, HQL, JPQL, transactions, and database integration.",
+    "topics": [
+      "database",
+      "entity-mapping",
+      "hibernate",
+      "hibernate-orm",
+      "jakarta-persistence",
+      "java",
+      "java-orm",
+      "jdbc",
+      "jpa",
+      "mysql",
+      "orm"
+    ],
+    "html_url": "https://github.com/sarangas001/hibernate-learning",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T06:39:15Z",
+    "updated_at": "2026-08-09T09:34:11Z",
+    "pushed_at": "2026-08-09T09:34:06Z"
+  },
+  {
+    "id": 1325539823,
+    "name": "Netflix-SQL-Analysis",
+    "full_name": "ech-ayman/Netflix-SQL-Analysis",
+    "owner": {
+      "login": "ech-ayman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262849973?v=4"
+    },
+    "description": "SQL analysis of the Netflix dataset using PostgreSQL to solve real-world business questions.",
+    "topics": [
+      "buisness-analysis",
+      "data",
+      "data-analysis",
+      "database",
+      "netflix",
+      "postgresql",
+      "sql",
+      "sql-project"
+    ],
+    "html_url": "https://github.com/ech-ayman/Netflix-SQL-Analysis",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T17:03:16Z",
+    "updated_at": "2026-08-06T18:14:02Z",
+    "pushed_at": "2026-08-06T18:13:43Z"
+  },
+  {
+    "id": 1327409800,
+    "name": "HR-Intelligence-Analysis",
+    "full_name": "haaaarrrsh4ever/HR-Intelligence-Analysis",
+    "owner": {
+      "login": "haaaarrrsh4ever",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167607360?v=4"
+    },
+    "description": "A Power BI-based HR Intelligence Analysis project designed to analyze employee data, attrition trends, salary patterns, demographics, and workforce insights. The project uses data transformation, DAX measures, and interactive dashboards to support HR decision-making.",
+    "topics": [
+      "business-intelligence",
+      "data-analysis",
+      "data-analytics",
+      "data-engineering",
+      "data-science",
+      "data-visualization",
+      "dataanalysis",
+      "database",
+      "elt-pipeline",
+      "power-bi"
+    ],
+    "html_url": "https://github.com/haaaarrrsh4ever/HR-Intelligence-Analysis",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-08T04:29:07Z",
+    "updated_at": "2026-08-08T04:49:25Z",
+    "pushed_at": "2026-08-08T04:31:25Z"
+  },
+  {
+    "id": 1326280771,
+    "name": "InfraSense-Cloud-Infrastructure-Recommendation-Platform",
+    "full_name": "Ismail-dcode/InfraSense-Cloud-Infrastructure-Recommendation-Platform",
+    "owner": {
+      "login": "Ismail-dcode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185717834?v=4"
+    },
+    "description": "A rule-based cloud infrastructure recommendation platform that analyzes workload requirements and suggests optimized cloud resources, architecture, and best practices.",
+    "topics": [
+      "cloud",
+      "cost-optimization",
+      "database",
+      "infrastructure",
+      "instance",
+      "react"
+    ],
+    "html_url": "https://github.com/Ismail-dcode/InfraSense-Cloud-Infrastructure-Recommendation-Platform",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T06:10:57Z",
+    "updated_at": "2026-08-10T04:52:06Z",
+    "pushed_at": "2026-08-10T04:51:55Z"
+  },
+  {
+    "id": 1328605453,
+    "name": "RodeX",
+    "full_name": "rakxdev/RodeX",
+    "owner": {
+      "login": "rakxdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224254275?v=4"
+    },
+    "description": "RodexDB — your own database platform: per-app keys & tables on DynamoDB, one clean API + MCP for every coding agent. Serverless, TypeScript, $0 forever (AWS always-free + Cloudflare free tier).",
+    "topics": [
+      "cloudflare-workers",
+      "database",
+      "dynamodb",
+      "hono",
+      "mcp",
+      "react",
+      "serverless",
+      "typescript"
+    ],
+    "html_url": "https://github.com/rakxdev/RodeX",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 10,
+    "created_at": "2026-08-09T08:46:57Z",
+    "updated_at": "2026-08-11T23:47:28Z",
+    "pushed_at": "2026-08-11T23:47:25Z"
+  },
+  {
+    "id": 1327142613,
+    "name": "iris-online-database",
+    "full_name": "fsibatov/iris-online-database",
+    "owner": {
+      "login": "fsibatov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137914856?v=4"
+    },
+    "description": "Неофициальная локальная база данных для Iris Online",
+    "topics": [
+      "database",
+      "iris-online"
+    ],
+    "html_url": "https://github.com/fsibatov/iris-online-database",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T20:41:14Z",
+    "updated_at": "2026-08-12T00:06:16Z",
+    "pushed_at": "2026-08-12T00:06:12Z"
+  },
+  {
+    "id": 1326961226,
+    "name": "scout",
+    "full_name": "jonas-dsgn/scout",
+    "owner": {
+      "login": "jonas-dsgn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283420033?v=4"
+    },
+    "description": "The official Scout Necker Archive.",
+    "topics": [
+      "collection",
+      "database",
+      "scarf",
+      "scouting",
+      "scouting-app",
+      "scouting-data"
+    ],
+    "html_url": "https://github.com/jonas-dsgn/scout",
+    "stargazers_count": 1,
+    "language": "CSS",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-07T17:12:06Z",
+    "updated_at": "2026-08-10T07:25:03Z",
+    "pushed_at": "2026-08-08T15:37:57Z"
+  },
+  {
+    "id": 1328342032,
+    "name": "DataBase-Project-",
+    "full_name": "alsabai2004/DataBase-Project-",
+    "owner": {
+      "login": "alsabai2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306320030?v=4"
+    },
+    "description": "SQL ",
+    "topics": [
+      "database",
+      "developer-tools",
+      "oracle",
+      "sql",
+      "sqllite"
+    ],
+    "html_url": "https://github.com/alsabai2004/DataBase-Project-",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-09T02:06:27Z",
+    "updated_at": "2026-08-10T21:30:34Z",
+    "pushed_at": "2026-08-09T02:09:07Z"
+  },
+  {
+    "id": 1329428412,
+    "name": "recycle-bin",
+    "full_name": "CRTYPUBG/recycle-bin",
+    "owner": {
+      "login": "CRTYPUBG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199509655?v=4"
+    },
+    "description": "A fast, secure and self-hosted recycle bin system for web applications.",
+    "topics": [
+      "api",
+      "database",
+      "deleted-content",
+      "javascript",
+      "open-source",
+      "php",
+      "recycle-bin",
+      "restore",
+      "self-hosted",
+      "typescript",
+      "web"
+    ],
+    "html_url": "https://github.com/CRTYPUBG/recycle-bin",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-10T04:44:39Z",
+    "updated_at": "2026-08-10T06:25:29Z",
+    "pushed_at": "2026-08-10T04:52:09Z"
+  },
+  {
+    "id": 1325959587,
+    "name": "SocialTribe",
+    "full_name": "Skryldev/SocialTribe",
+    "owner": {
+      "login": "Skryldev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211819805?v=4"
+    },
+    "description": "🕸️ SocialTribe – A graph-based system for modeling social networks, analyzing user relationships, and extracting structural insights from friendship data.",
+    "topics": [
+      "backend",
+      "bun",
+      "database",
+      "docker",
+      "fastapi",
+      "frontend",
+      "go",
+      "golang",
+      "grpc",
+      "microservice",
+      "observability",
+      "openapi",
+      "python",
+      "query-engine",
+      "react",
+      "rust",
+      "tauri",
+      "typescript",
+      "webassembly",
+      "zig"
+    ],
+    "html_url": "https://github.com/Skryldev/SocialTribe",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-06T22:43:29Z",
+    "updated_at": "2026-08-09T16:08:02Z",
+    "pushed_at": "2026-08-07T23:12:56Z"
+  }
+]
