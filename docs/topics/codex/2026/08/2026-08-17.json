@@ -1,0 +1,593 @@
+[
+  {
+    "id": 1330434395,
+    "name": "muyang-illustration-skills",
+    "full_name": "yokel1121/muyang-illustration-skills",
+    "owner": {
+      "login": "yokel1121",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81351415?v=4"
+    },
+    "description": "25 fixed illustration styles for Codex: 9 skills, prompt recipes, and visual references",
+    "topics": [
+      "ai-art",
+      "codex",
+      "codex-skills",
+      "illustration",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/yokel1121/muyang-illustration-skills",
+    "stargazers_count": 182,
+    "language": null,
+    "forks_count": 27,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T02:53:24Z",
+    "updated_at": "2026-08-17T13:11:06Z",
+    "pushed_at": "2026-08-11T03:19:54Z"
+  },
+  {
+    "id": 1330516937,
+    "name": "HERO-Anti-OverDefense",
+    "full_name": "wanshuiyin/HERO-Anti-OverDefense",
+    "owner": {
+      "login": "wanshuiyin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76990859?v=4"
+    },
+    "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+    "topics": [
+      "agents-md",
+      "ai-agents",
+      "antigravity",
+      "claude-code",
+      "claude-md",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "gemini-cli",
+      "github-copilot",
+      "llm",
+      "prompt-engineering",
+      "windsurf"
+    ],
+    "html_url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
+    "stargazers_count": 181,
+    "language": "Markdown",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T05:08:30Z",
+    "updated_at": "2026-08-17T12:07:46Z",
+    "pushed_at": "2026-08-12T08:02:41Z"
+  },
+  {
+    "id": 1332967299,
+    "name": "WakeGPT",
+    "full_name": "Awaker-OTE/WakeGPT",
+    "owner": {
+      "login": "Awaker-OTE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263262888?v=4"
+    },
+    "description": "A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+    "topics": [
+      "chatgpt",
+      "codex",
+      "desktop-app",
+      "local-first",
+      "macos",
+      "markdown",
+      "note-taking",
+      "productivity",
+      "rust",
+      "tauri"
+    ],
+    "html_url": "https://github.com/Awaker-OTE/WakeGPT",
+    "stargazers_count": 169,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T10:02:33Z",
+    "updated_at": "2026-08-16T16:37:35Z",
+    "pushed_at": "2026-08-15T13:23:36Z"
+  },
+  {
+    "id": 1333362686,
+    "name": "codex-trajectory",
+    "full_name": "icesixgod/codex-trajectory",
+    "owner": {
+      "login": "icesixgod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84966189?v=4"
+    },
+    "description": "Privacy-aware trajectory viewer for local Codex task logs",
+    "topics": [
+      "codex",
+      "codex-plugin",
+      "developer-tools",
+      "mcp",
+      "python",
+      "trajectory",
+      "uv"
+    ],
+    "html_url": "https://github.com/icesixgod/codex-trajectory",
+    "stargazers_count": 152,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T17:16:42Z",
+    "updated_at": "2026-08-17T04:14:26Z",
+    "pushed_at": "2026-08-16T18:45:18Z"
+  },
+  {
+    "id": 1331079127,
+    "name": "stop-that-shit",
+    "full_name": "lennney/stop-that-shit",
+    "owner": {
+      "login": "lennney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94768569?v=4"
+    },
+    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "codex-cli",
+      "codex-plugin",
+      "developer-tools",
+      "guardrails",
+      "local-first",
+      "overengineering",
+      "scope-control",
+      "yagni"
+    ],
+    "html_url": "https://github.com/lennney/stop-that-shit",
+    "stargazers_count": 141,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 5,
+    "created_at": "2026-08-11T15:31:45Z",
+    "updated_at": "2026-08-17T13:39:33Z",
+    "pushed_at": "2026-08-17T13:17:55Z"
+  },
+  {
+    "id": 1330698126,
+    "name": "audit-repo",
+    "full_name": "1838904818/audit-repo",
+    "owner": {
+      "login": "1838904818",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113549269?v=4"
+    },
+    "description": "A practical Codex skill for evidence-backed repository health audits",
+    "topics": [
+      "code-quality",
+      "codex",
+      "codex-skill",
+      "developer-tools",
+      "openai",
+      "python",
+      "repository-audit",
+      "repository-health",
+      "security-audit",
+      "static-analysis",
+      "technical-debt"
+    ],
+    "html_url": "https://github.com/1838904818/audit-repo",
+    "stargazers_count": 126,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T08:52:31Z",
+    "updated_at": "2026-08-17T13:11:44Z",
+    "pushed_at": "2026-08-17T10:21:28Z"
+  },
+  {
+    "id": 1331901587,
+    "name": "vibepulse",
+    "full_name": "niclasvestlund-YT/vibepulse",
+    "owner": {
+      "login": "niclasvestlund-YT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225483836?v=4"
+    },
+    "description": "A shelf-top AMOLED screen showing your Claude Code & Codex usage, live agent activity, and a NEEDS YOU alert when an agent waits for your input. ESP32-S3 + a pure-stdlib Mac service. Nothing leaves your LAN.",
+    "topics": [
+      "amoled",
+      "claude",
+      "claude-code",
+      "codex",
+      "esp32-s3",
+      "lvgl",
+      "quota-tracker"
+    ],
+    "html_url": "https://github.com/niclasvestlund-YT/vibepulse",
+    "stargazers_count": 110,
+    "language": "C",
+    "forks_count": 18,
+    "open_issues_count": 5,
+    "created_at": "2026-08-12T10:30:31Z",
+    "updated_at": "2026-08-17T12:59:54Z",
+    "pushed_at": "2026-08-16T22:57:33Z"
+  },
+  {
+    "id": 1331788336,
+    "name": "repo-context-mcp",
+    "full_name": "nduc99911/repo-context-mcp",
+    "owner": {
+      "login": "nduc99911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67998982?v=4"
+    },
+    "description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
+    "topics": [
+      "ai-agent",
+      "claude",
+      "codex",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/nduc99911/repo-context-mcp",
+    "stargazers_count": 104,
+    "language": "TypeScript",
+    "forks_count": 91,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T08:22:31Z",
+    "updated_at": "2026-08-16T23:03:53Z",
+    "pushed_at": "2026-08-12T09:21:15Z"
+  },
+  {
+    "id": 1331661622,
+    "name": "maintainer-autopilot",
+    "full_name": "phungkaizen/maintainer-autopilot",
+    "owner": {
+      "login": "phungkaizen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223699997?v=4"
+    },
+    "description": "Local-first, resumable AI maintenance pipelines with single-writer safety and deterministic verification.",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "cli",
+      "codex",
+      "developer-tools",
+      "github-actions",
+      "maintainer-autopilot",
+      "open-source"
+    ],
+    "html_url": "https://github.com/phungkaizen/maintainer-autopilot",
+    "stargazers_count": 102,
+    "language": "JavaScript",
+    "forks_count": 95,
+    "open_issues_count": 4,
+    "created_at": "2026-08-12T05:50:20Z",
+    "updated_at": "2026-08-15T17:40:48Z",
+    "pushed_at": "2026-08-12T14:55:24Z"
+  },
+  {
+    "id": 1330984071,
+    "name": "android-blackbox-analysis-skill",
+    "full_name": "poll-poll134/android-blackbox-analysis-skill",
+    "owner": {
+      "login": "poll-poll134",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192061612?v=4"
+    },
+    "description": "A Codex Skill for evidence-first black-box Android app analysis with ADB screenshots, UI hierarchies, structured indexes, and capability reports.",
+    "topics": [
+      "adb",
+      "agent-skill",
+      "android",
+      "black-box-analysis",
+      "codex"
+    ],
+    "html_url": "https://github.com/poll-poll134/android-blackbox-analysis-skill",
+    "stargazers_count": 100,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T13:55:31Z",
+    "updated_at": "2026-08-16T04:02:12Z",
+    "pushed_at": "2026-08-11T17:48:40Z"
+  },
+  {
+    "id": 1332736374,
+    "name": "ASu-resume-skills",
+    "full_name": "Claycui828/ASu-resume-skills",
+    "owner": {
+      "login": "Claycui828",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177595514?v=4"
+    },
+    "description": "阿酥式高密度技术履历生成与证据优先简历审计",
+    "topics": [
+      "ai-agent",
+      "chinese",
+      "codex",
+      "resume",
+      "resume-audit",
+      "skills"
+    ],
+    "html_url": "https://github.com/Claycui828/ASu-resume-skills",
+    "stargazers_count": 97,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 5,
+    "created_at": "2026-08-13T05:27:27Z",
+    "updated_at": "2026-08-17T13:27:46Z",
+    "pushed_at": "2026-08-14T07:48:07Z"
+  },
+  {
+    "id": 1332683811,
+    "name": "godmode",
+    "full_name": "thiientv/godmode",
+    "owner": {
+      "login": "thiientv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24351705?v=4"
+    },
+    "description": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
+    "topics": [
+      "agent-evaluation",
+      "agent-skills",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "code-review",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "software-engineering",
+      "test-driven-development",
+      "ui-ux",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/thiientv/godmode",
+    "stargazers_count": 90,
+    "language": "Python",
+    "forks_count": 84,
+    "open_issues_count": 1,
+    "created_at": "2026-08-13T04:06:22Z",
+    "updated_at": "2026-08-17T08:00:42Z",
+    "pushed_at": "2026-08-17T07:59:48Z"
+  },
+  {
+    "id": 1333486649,
+    "name": "deepseek-harness-desktop",
+    "full_name": "ningbainb/deepseek-harness-desktop",
+    "owner": {
+      "login": "ningbainb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53441521?v=4"
+    },
+    "description": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
+    "topics": [
+      "ai-agent",
+      "ai-coding-assistant",
+      "codex",
+      "deepseek",
+      "deepseek-harness",
+      "desktop-app",
+      "dsh",
+      "dsh-plugin",
+      "electron",
+      "electron-app",
+      "gui",
+      "open-source",
+      "plugin-system",
+      "plugins",
+      "remote-access",
+      "skills",
+      "ssh-client",
+      "windows",
+      "windows-desktop"
+    ],
+    "html_url": "https://github.com/ningbainb/deepseek-harness-desktop",
+    "stargazers_count": 77,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-08-13T19:50:01Z",
+    "updated_at": "2026-08-17T13:51:10Z",
+    "pushed_at": "2026-08-17T11:17:56Z"
+  },
+  {
+    "id": 1331014414,
+    "name": "packrehearsal",
+    "full_name": "liyuqin606-del/packrehearsal",
+    "owner": {
+      "login": "liyuqin606-del",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236218981?v=4"
+    },
+    "description": "Turn npm, Python, and Rust release evidence into bounded Codex maintenance tasks.",
+    "topics": [
+      "agentic-workflows",
+      "ai-agents",
+      "cli",
+      "codex",
+      "npm",
+      "openai-codex",
+      "packaging",
+      "python",
+      "release-engineering",
+      "rust",
+      "supply-chain"
+    ],
+    "html_url": "https://github.com/liyuqin606-del/packrehearsal",
+    "stargazers_count": 64,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T14:25:39Z",
+    "updated_at": "2026-08-17T13:11:15Z",
+    "pushed_at": "2026-08-17T02:05:59Z"
+  },
+  {
+    "id": 1333200468,
+    "name": "dsh-chat-import",
+    "full_name": "Nwflower/dsh-chat-import",
+    "owner": {
+      "login": "Nwflower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105714958?v=4"
+    },
+    "description": "Import 14+ external agent chat histories (Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix, opencode, ZCode, Grok Build, OpenClaw, Pi, Hermes, Kimi CLI, DSH) into DeepSeek Harness as resumable sessions — full-fidelity, reverse export/sync, bundle backup. | 从 Claude Code、Codex、Reasonix 等 Agent 工具导入历史消息到 DeepSeek Harness 并继续对话。",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "automation",
+      "chatgpt",
+      "claude-code",
+      "codex",
+      "cursor",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "gemini",
+      "import",
+      "jsonl",
+      "migration",
+      "openai",
+      "plugin",
+      "sessions",
+      "transcript"
+    ],
+    "html_url": "https://github.com/Nwflower/dsh-chat-import",
+    "stargazers_count": 56,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T14:21:58Z",
+    "updated_at": "2026-08-17T13:25:57Z",
+    "pushed_at": "2026-08-17T13:07:14Z"
+  },
+  {
+    "id": 1330687306,
+    "name": "agent-link",
+    "full_name": "Riccardo8888/agent-link",
+    "owner": {
+      "login": "Riccardo8888",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136744451?v=4"
+    },
+    "description": "An end-to-end encrypted channel between coding agents, anywhere",
+    "topics": [
+      "agent-communication",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "end-to-end-encryption",
+      "mcp",
+      "mcp-server",
+      "multi-agent",
+      "python"
+    ],
+    "html_url": "https://github.com/Riccardo8888/agent-link",
+    "stargazers_count": 55,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T08:41:19Z",
+    "updated_at": "2026-08-16T00:28:25Z",
+    "pushed_at": "2026-08-12T11:49:19Z"
+  },
+  {
+    "id": 1333705619,
+    "name": "im-human",
+    "full_name": "chang416/im-human",
+    "owner": {
+      "login": "chang416",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316575027?v=4"
+    },
+    "description": "讓 AI 用台灣人的繁體中文講話，並把已寫好的文字清掉 AI 味。Claude Code、claude.ai、ChatGPT Codex 與一般聊天都能用。",
+    "topics": [
+      "aiwriting",
+      "chatgpt",
+      "claude-skills",
+      "codex",
+      "prompt-engineering",
+      "taiwan",
+      "traditional-chinese"
+    ],
+    "html_url": "https://github.com/chang416/im-human",
+    "stargazers_count": 54,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T02:14:11Z",
+    "updated_at": "2026-08-17T08:46:31Z",
+    "pushed_at": "2026-08-14T03:43:00Z"
+  },
+  {
+    "id": 1330387157,
+    "name": "xxg-portrait-rebuild-light",
+    "full_name": "moskoo/xxg-portrait-rebuild-light",
+    "owner": {
+      "login": "moskoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26155176?v=4"
+    },
+    "description": "`xxg-portrait-rebuild-light` is an image-edit skill for existing portrait photos. It reconstructs the key light, fill, shadows, and background atmosphere with a director-led lighting workflow while restoring clean, healthy, low-contrast photographic skin microtexture.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "image-editing",
+      "openai",
+      "portrait-editing",
+      "prompt-engineering",
+      "relighting"
+    ],
+    "html_url": "https://github.com/moskoo/xxg-portrait-rebuild-light",
+    "stargazers_count": 51,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T01:32:38Z",
+    "updated_at": "2026-08-17T06:52:40Z",
+    "pushed_at": "2026-08-13T08:33:30Z"
+  },
+  {
+    "id": 1331538751,
+    "name": "herdr-auto-title",
+    "full_name": "sh1ma/herdr-auto-title",
+    "owner": {
+      "login": "sh1ma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22412947?v=4"
+    },
+    "description": "Automatically generate titles for herdr tabs from Claude Code and Codex conversations.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "herdr",
+      "herdr-plugin"
+    ],
+    "html_url": "https://github.com/sh1ma/herdr-auto-title",
+    "stargazers_count": 48,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T02:35:50Z",
+    "updated_at": "2026-08-17T03:45:18Z",
+    "pushed_at": "2026-08-13T03:11:04Z"
+  },
+  {
+    "id": 1334170202,
+    "name": "cutcraft",
+    "full_name": "chang416/cutcraft",
+    "owner": {
+      "login": "chang416",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316575027?v=4"
+    },
+    "description": "The complete AI video-editing skill: from raw footage and creative direction to one verified final film.",
+    "topics": [
+      "ai-agents",
+      "ai-video-editing",
+      "claude-code",
+      "codex",
+      "ffmpeg",
+      "subtitles",
+      "transcription",
+      "video-editing"
+    ],
+    "html_url": "https://github.com/chang416/cutcraft",
+    "stargazers_count": 45,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T12:42:01Z",
+    "updated_at": "2026-08-17T05:10:51Z",
+    "pushed_at": "2026-08-14T13:03:11Z"
+  }
+]

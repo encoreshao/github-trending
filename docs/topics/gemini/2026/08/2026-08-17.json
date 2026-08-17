@@ -1,0 +1,606 @@
+[
+  {
+    "id": 1332216413,
+    "name": "tokentab",
+    "full_name": "wzchav/tokentab",
+    "owner": {
+      "login": "wzchav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133630262?v=4"
+    },
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "topics": [
+      "ai",
+      "api",
+      "claude",
+      "claude-code",
+      "claude-tool",
+      "gemini",
+      "token-usage"
+    ],
+    "html_url": "https://github.com/wzchav/tokentab",
+    "stargazers_count": 222,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T16:09:39Z",
+    "updated_at": "2026-08-17T08:37:41Z",
+    "pushed_at": "2026-08-13T15:54:07Z"
+  },
+  {
+    "id": 1336248697,
+    "name": "ai-data-extractor",
+    "full_name": "bawadou/ai-data-extractor",
+    "owner": {
+      "login": "bawadou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5231384?v=4"
+    },
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "topics": [
+      "ai",
+      "ai-data-extractor",
+      "claude",
+      "cursor",
+      "cursor-ai",
+      "data-extraction",
+      "gemini"
+    ],
+    "html_url": "https://github.com/bawadou/ai-data-extractor",
+    "stargazers_count": 69,
+    "language": "Python",
+    "forks_count": 26,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T18:35:58Z",
+    "updated_at": "2026-08-17T12:14:47Z",
+    "pushed_at": "2026-08-17T08:26:30Z"
+  },
+  {
+    "id": 1333200468,
+    "name": "dsh-chat-import",
+    "full_name": "Nwflower/dsh-chat-import",
+    "owner": {
+      "login": "Nwflower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105714958?v=4"
+    },
+    "description": "Import 14+ external agent chat histories (Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix, opencode, ZCode, Grok Build, OpenClaw, Pi, Hermes, Kimi CLI, DSH) into DeepSeek Harness as resumable sessions — full-fidelity, reverse export/sync, bundle backup. | 从 Claude Code、Codex、Reasonix 等 Agent 工具导入历史消息到 DeepSeek Harness 并继续对话。",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "automation",
+      "chatgpt",
+      "claude-code",
+      "codex",
+      "cursor",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "gemini",
+      "import",
+      "jsonl",
+      "migration",
+      "openai",
+      "plugin",
+      "sessions",
+      "transcript"
+    ],
+    "html_url": "https://github.com/Nwflower/dsh-chat-import",
+    "stargazers_count": 56,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T14:21:58Z",
+    "updated_at": "2026-08-17T13:25:57Z",
+    "pushed_at": "2026-08-17T13:07:14Z"
+  },
+  {
+    "id": 1332105799,
+    "name": "goyak-desktop",
+    "full_name": "goyak-app/goyak-desktop",
+    "owner": {
+      "login": "goyak-app",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316230349?v=4"
+    },
+    "description": "Free and open-source real-time AI dubbing for games and desktop apps",
+    "topics": [
+      "ai-dubbing",
+      "ai-translation",
+      "audio",
+      "gemini",
+      "gemini-api",
+      "goyak",
+      "real-time-dubbing",
+      "tauri",
+      "tauri-v2",
+      "translation",
+      "voice-translation"
+    ],
+    "html_url": "https://github.com/goyak-app/goyak-desktop",
+    "stargazers_count": 19,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-08-12T14:14:39Z",
+    "updated_at": "2026-08-17T10:17:02Z",
+    "pushed_at": "2026-08-12T17:58:57Z"
+  },
+  {
+    "id": 1331651339,
+    "name": "korean-prose-skill",
+    "full_name": "JellyBrick/korean-prose-skill",
+    "owner": {
+      "login": "JellyBrick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16558115?v=4"
+    },
+    "description": "이상한 해요체는 이제 그만...!! 한국어 작성 및 교정 스킬",
+    "topics": [
+      "agent",
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "gemini",
+      "korean",
+      "skills"
+    ],
+    "html_url": "https://github.com/JellyBrick/korean-prose-skill",
+    "stargazers_count": 18,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T05:36:18Z",
+    "updated_at": "2026-08-15T14:23:47Z",
+    "pushed_at": "2026-08-14T05:51:13Z"
+  },
+  {
+    "id": 1334109809,
+    "name": "dsh-agy",
+    "full_name": "chaos-03x/dsh-agy",
+    "owner": {
+      "login": "chaos-03x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73626814?v=4"
+    },
+    "description": "Google Antigravity (agy) OAuth auth + model access plugin for DeepSeek Harness: multi-account pool, 429 rotation, device fingerprinting, CLI and web login.",
+    "topics": [
+      "agy",
+      "antigravity",
+      "claude",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "gemini"
+    ],
+    "html_url": "https://github.com/chaos-03x/dsh-agy",
+    "stargazers_count": 15,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-08-14T11:27:24Z",
+    "updated_at": "2026-08-17T12:52:15Z",
+    "pushed_at": "2026-08-16T06:35:55Z"
+  },
+  {
+    "id": 1330738995,
+    "name": "RayCodes_LangExtract",
+    "full_name": "47thtechcorner/RayCodes_LangExtract",
+    "owner": {
+      "login": "47thtechcorner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233621018?v=4"
+    },
+    "description": "Google LangExtract is NOW LOCAL! Zero Hallucination Document AI - Structured information extraction using local Ollama models with exact character offset grounding",
+    "topics": [
+      "document-ai",
+      "gemini",
+      "langextract",
+      "ollama",
+      "python",
+      "zero-hallucination"
+    ],
+    "html_url": "https://github.com/47thtechcorner/RayCodes_LangExtract",
+    "stargazers_count": 14,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T09:35:48Z",
+    "updated_at": "2026-08-14T13:24:14Z",
+    "pushed_at": "2026-08-11T09:47:55Z"
+  },
+  {
+    "id": 1331538256,
+    "name": "JobScoutPublic",
+    "full_name": "hardenbr-personal/JobScoutPublic",
+    "owner": {
+      "login": "hardenbr-personal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223775471?v=4"
+    },
+    "description": "AI job-search scout: daily board sweeps, LLM triage, human-in-the-loop by design. It finds the jobs, you still have to apply!",
+    "topics": [
+      "ai-agent",
+      "automation",
+      "gemini",
+      "github-actions",
+      "job-search",
+      "llm",
+      "python"
+    ],
+    "html_url": "https://github.com/hardenbr-personal/JobScoutPublic",
+    "stargazers_count": 13,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T02:35:02Z",
+    "updated_at": "2026-08-16T20:36:52Z",
+    "pushed_at": "2026-08-12T02:37:43Z"
+  },
+  {
+    "id": 1333127985,
+    "name": "ai-watermarks-reality-check",
+    "full_name": "Neeeophytee/ai-watermarks-reality-check",
+    "owner": {
+      "login": "Neeeophytee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25280153?v=4"
+    },
+    "description": "Test what AI watermark and provenance evidence exists, whether it verifies, and what survives publishing.",
+    "topics": [
+      "agent-skills",
+      "ai-provenance",
+      "ai-transparency",
+      "ai-watermarks",
+      "c2pa",
+      "claude",
+      "codex",
+      "content-authenticity",
+      "content-credentials",
+      "content-verification",
+      "digital-forensics",
+      "digital-provenance",
+      "gemini",
+      "llm-watermarking",
+      "mcp",
+      "media-forensics",
+      "metadata",
+      "provenance",
+      "python",
+      "watermark-detection"
+    ],
+    "html_url": "https://github.com/Neeeophytee/ai-watermarks-reality-check",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T13:07:02Z",
+    "updated_at": "2026-08-16T17:18:40Z",
+    "pushed_at": "2026-08-14T14:10:12Z"
+  },
+  {
+    "id": 1334499525,
+    "name": "Ai-jailbreak",
+    "full_name": "Quincunx33/Ai-jailbreak",
+    "owner": {
+      "login": "Quincunx33",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207334025?v=4"
+    },
+    "description": "A collection of jailbreak prompts and exploit techniques for local and frontier AI models, with modern methods for Qwen3.5, Gemma 4, Llama 4, Kimi K3, GPT-OSS, GPT-5.x, Gemini 3.x and Grok 4.x. For red-teaming and AI safety research only.",
+    "topics": [
+      "ai-jailbreak",
+      "ai-jailbreak-prompts",
+      "ai-jailbreak-universal",
+      "chatgpt",
+      "claude",
+      "deepseek",
+      "gemini",
+      "grok",
+      "jailbreak",
+      "jailbreak-codes",
+      "jailbreak-script",
+      "jailbreak-tweak",
+      "jailbreak-working-script",
+      "jailbreaking",
+      "kimi",
+      "manus-ai"
+    ],
+    "html_url": "https://github.com/Quincunx33/Ai-jailbreak",
+    "stargazers_count": 8,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T19:08:50Z",
+    "updated_at": "2026-08-17T10:35:50Z",
+    "pushed_at": "2026-08-14T19:29:15Z"
+  },
+  {
+    "id": 1333633606,
+    "name": "Gemini-Eyes",
+    "full_name": "ConsoleSun/Gemini-Eyes",
+    "owner": {
+      "login": "ConsoleSun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100013035?v=4"
+    },
+    "description": null,
+    "topics": [
+      "agent",
+      "deepseek-harness",
+      "dsh-plugin",
+      "gemini",
+      "mcp"
+    ],
+    "html_url": "https://github.com/ConsoleSun/Gemini-Eyes",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T00:05:14Z",
+    "updated_at": "2026-08-17T11:20:16Z",
+    "pushed_at": "2026-08-15T01:57:40Z"
+  },
+  {
+    "id": 1334394558,
+    "name": "phishGard",
+    "full_name": "Quincunx33/phishGard",
+    "owner": {
+      "login": "Quincunx33",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207334025?v=4"
+    },
+    "description": "Defensive server-side phishing URL analysis with headless auditing and Gemini supplemental intelligence",
+    "topics": [
+      "cybersecurity",
+      "gemini",
+      "headless-browser",
+      "phishing-detection",
+      "react",
+      "threat-detection",
+      "typescript",
+      "url-analysis"
+    ],
+    "html_url": "https://github.com/Quincunx33/phishGard",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T16:54:46Z",
+    "updated_at": "2026-08-17T10:35:52Z",
+    "pushed_at": "2026-08-14T16:55:18Z"
+  },
+  {
+    "id": 1329300181,
+    "name": "handdrawn-ppt",
+    "full_name": "moongiadventures-dev/handdrawn-ppt",
+    "owner": {
+      "login": "moongiadventures-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/258928132?v=4"
+    },
+    "description": "내 캐릭터 이미지 한 장으로 손그림 발표자료를 만들어주는 Claude 스킬 — 자료조사 + 검증된 출처 + 차트/표/흐름도까지. 한국어·영어 지원.",
+    "topics": [
+      "ai-art",
+      "claude-code",
+      "claude-skill",
+      "gemini",
+      "illustration",
+      "korean",
+      "presentation"
+    ],
+    "html_url": "https://github.com/moongiadventures-dev/handdrawn-ppt",
+    "stargazers_count": 6,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-10T00:46:06Z",
+    "updated_at": "2026-08-16T00:12:07Z",
+    "pushed_at": "2026-08-10T04:37:22Z"
+  },
+  {
+    "id": 1335664137,
+    "name": "dsh-vision",
+    "full_name": "54xkeee/dsh-vision",
+    "owner": {
+      "login": "54xkeee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230514319?v=4"
+    },
+    "description": "Vision for DeepSeek Harness: Doubao Web by default (zero-cost, no API key), Antigravity IDE quota (flash/pro), any IDE CLI, Gemini — auto detail escalation, evidence memory",
+    "topics": [
+      "antigravity",
+      "doubao",
+      "dsh",
+      "dsh-plugin",
+      "gemini",
+      "image-recognition",
+      "multimodal",
+      "ocr",
+      "vision",
+      "vlm"
+    ],
+    "html_url": "https://github.com/54xkeee/dsh-vision",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T06:06:41Z",
+    "updated_at": "2026-08-17T08:56:17Z",
+    "pushed_at": "2026-08-16T07:08:41Z"
+  },
+  {
+    "id": 1335580282,
+    "name": "llm-stream-reformat",
+    "full_name": "ruvnet/llm-stream-reformat",
+    "owner": {
+      "login": "ruvnet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2934394?v=4"
+    },
+    "description": "Reformat a live LLM token stream inflight — separate thinking from answer, collapse repetition, normalize. Google Vertex / OpenRouter / meta-llm. Rust + WASM, built on ruvnet/midstream.",
+    "topics": [
+      "gemini",
+      "inflight-analysis",
+      "llm",
+      "midstream",
+      "openrouter",
+      "reasoning",
+      "reasoning-models",
+      "reformat",
+      "rust",
+      "sse",
+      "streaming",
+      "wasm"
+    ],
+    "html_url": "https://github.com/ruvnet/llm-stream-reformat",
+    "stargazers_count": 6,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T03:00:49Z",
+    "updated_at": "2026-08-17T13:39:08Z",
+    "pushed_at": "2026-08-17T13:36:17Z"
+  },
+  {
+    "id": 1334245439,
+    "name": "cathead-coding",
+    "full_name": "catyans/cathead-coding",
+    "owner": {
+      "login": "catyans",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18214026?v=4"
+    },
+    "description": "A delightful persistent coding agent CLI powered by DeepSeek Harness.",
+    "topics": [
+      "ai",
+      "cli",
+      "coding-agent",
+      "deepseek-harness",
+      "gemini",
+      "tui",
+      "typescript"
+    ],
+    "html_url": "https://github.com/catyans/cathead-coding",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T14:06:25Z",
+    "updated_at": "2026-08-15T04:18:52Z",
+    "pushed_at": "2026-08-14T17:37:15Z"
+  },
+  {
+    "id": 1329444981,
+    "name": "System-Design-For-AI",
+    "full_name": "AdilShamim8/System-Design-For-AI",
+    "owner": {
+      "login": "AdilShamim8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157037615?v=4"
+    },
+    "description": "System design for AI, taught like a story — free, from zero to production.",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "data-science",
+      "gemini",
+      "llm",
+      "machine-learning",
+      "rag",
+      "rag-chatbot",
+      "system",
+      "system-design",
+      "system-design-project"
+    ],
+    "html_url": "https://github.com/AdilShamim8/System-Design-For-AI",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-10T05:11:35Z",
+    "updated_at": "2026-08-13T08:34:08Z",
+    "pushed_at": "2026-08-13T08:33:34Z"
+  },
+  {
+    "id": 1332521991,
+    "name": "reelcraft",
+    "full_name": "kkdai/reelcraft",
+    "owner": {
+      "login": "kkdai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2252691?v=4"
+    },
+    "description": "🎬 ReelCraft: Gemini 3.7 Flash 驅動的短影片自動剪輯 CLI | Drop in a folder of clips and photos, Gemini understands each one and proposes an edit, then ffmpeg renders a 9:16 short with Lyria-generated music and burned-in captions.",
+    "topics": [
+      "cli",
+      "ffmpeg",
+      "gemini",
+      "gemini-api",
+      "lyria",
+      "python",
+      "reels",
+      "short-form-video",
+      "video-editing"
+    ],
+    "html_url": "https://github.com/kkdai/reelcraft",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T23:26:42Z",
+    "updated_at": "2026-08-16T09:41:22Z",
+    "pushed_at": "2026-08-14T07:49:48Z"
+  },
+  {
+    "id": 1329289331,
+    "name": "multimodal-telegram-bot",
+    "full_name": "janetrzhy/multimodal-telegram-bot",
+    "owner": {
+      "login": "janetrzhy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195407327?v=4"
+    },
+    "description": "Multimodal Telegram AI bot: image understanding, voice STT (Whisper) and TTS voice replies, smart group-chat moderation, persistent Gist memory. Gemini or any OpenAI-compatible LLM (Groq, LiteLLM, OneAPI). Single Flask file, 3 dependencies.",
+    "topics": [
+      "chatbot",
+      "flask",
+      "gemini",
+      "gist",
+      "llm",
+      "multimodal",
+      "openai",
+      "telegram-bot",
+      "tts",
+      "voice",
+      "whisper"
+    ],
+    "html_url": "https://github.com/janetrzhy/multimodal-telegram-bot",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-10T00:21:04Z",
+    "updated_at": "2026-08-14T05:42:58Z",
+    "pushed_at": "2026-08-14T05:43:11Z"
+  },
+  {
+    "id": 1331459773,
+    "name": "helpdesk-agentico",
+    "full_name": "dfserver1/helpdesk-agentico",
+    "owner": {
+      "login": "dfserver1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221848369?v=4"
+    },
+    "description": "HelpDesk Enterprise open source: agente RAG de soporte IT con memoria autocapacitada, Gemini gratis, FastAPI + Streamlit + conector Copilot Studio",
+    "topics": [
+      "ai-agent",
+      "chatbot",
+      "fastapi",
+      "gemini",
+      "helpdesk",
+      "knowledge-base",
+      "langgraph",
+      "microsoft-copilot-studio",
+      "rag",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/dfserver1/helpdesk-agentico",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T00:18:40Z",
+    "updated_at": "2026-08-16T03:33:32Z",
+    "pushed_at": "2026-08-16T03:20:38Z"
+  }
+]

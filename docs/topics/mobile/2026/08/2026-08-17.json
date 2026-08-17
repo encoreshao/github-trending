@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1332978872,
+    "name": "html-share",
+    "full_name": "minorun365/html-share",
+    "owner": {
+      "login": "minorun365",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74597894?v=4"
+    },
+    "description": "Claude Codeの生成結果、ぜんぶ見やすくまとめよう",
+    "topics": [
+      "aws",
+      "claude-code",
+      "html",
+      "mobile",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/minorun365/html-share",
+    "stargazers_count": 68,
+    "language": "HTML",
+    "forks_count": 6,
+    "open_issues_count": 5,
+    "created_at": "2026-08-13T10:15:52Z",
+    "updated_at": "2026-08-17T12:17:53Z",
+    "pushed_at": "2026-08-16T06:56:32Z"
+  },
+  {
+    "id": 1334962266,
+    "name": "dsh-pocket",
+    "full_name": "shaobeichen/dsh-pocket",
+    "owner": {
+      "login": "shaobeichen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18715564?v=4"
+    },
+    "description": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-market",
+      "dsh-plugins",
+      "mobile",
+      "qr",
+      "remote",
+      "tunnel"
+    ],
+    "html_url": "https://github.com/shaobeichen/dsh-pocket",
+    "stargazers_count": 50,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 3,
+    "created_at": "2026-08-15T09:36:29Z",
+    "updated_at": "2026-08-17T13:47:53Z",
+    "pushed_at": "2026-08-16T15:51:53Z"
+  },
+  {
+    "id": 1334674836,
+    "name": "dsh-web-mobile",
+    "full_name": "mexiaosqwq/dsh-web-mobile",
+    "owner": {
+      "login": "mexiaosqwq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139669839?v=4"
+    },
+    "description": "尽可能的使dsh适配竖屏等移动端设备",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "mobile",
+      "mobile-ui",
+      "plugin",
+      "responsive",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/mexiaosqwq/dsh-web-mobile",
+    "stargazers_count": 23,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T00:22:16Z",
+    "updated_at": "2026-08-17T08:25:55Z",
+    "pushed_at": "2026-08-17T00:23:07Z"
+  },
+  {
+    "id": 1334709708,
+    "name": "dsh-full-remote",
+    "full_name": "JUANWANG-BUAA/dsh-full-remote",
+    "owner": {
+      "login": "JUANWANG-BUAA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158129402?v=4"
+    },
+    "description": "DeepSeek Harness plugin for remote access: a token-gated reverse proxy keeps settings, credentials, and file access working over public tunnels and on other devices instead of returning 403. Per-device sessions. 支持通过公网隧道或局域网，在手机等设备上远程使用 DeepSeek Harness，设置、凭据与文件访问等功能保持可用。",
+    "topics": [
+      "ai",
+      "authentication",
+      "cloudflared",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "home-server",
+      "llm",
+      "mobile",
+      "mobile-ui",
+      "ngrok",
+      "nodejs",
+      "proxy",
+      "remote-access",
+      "reverse-proxy",
+      "security",
+      "self-hosted",
+      "tunnel",
+      "typescript",
+      "websocket"
+    ],
+    "html_url": "https://github.com/JUANWANG-BUAA/dsh-full-remote",
+    "stargazers_count": 15,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 7,
+    "created_at": "2026-08-15T01:39:51Z",
+    "updated_at": "2026-08-17T12:05:00Z",
+    "pushed_at": "2026-08-17T04:16:41Z"
+  },
+  {
+    "id": 1332184066,
+    "name": "ai-photo-manager",
+    "full_name": "laoziocean-code/ai-photo-manager",
+    "owner": {
+      "login": "laoziocean-code",
+      "avatar_url": "https://avatars.githubusercontent.com/u/295594860?v=4"
+    },
+    "description": "AI摄影管家：从海量照片自动精选好照片（本地预处理 + AI 视觉评分 + 智能精选 + 摄影报告），支持 Windows / macOS / 手机版",
+    "topics": [
+      "ai",
+      "desktop-app",
+      "image-analysis",
+      "lightroom",
+      "macos",
+      "mobile",
+      "photography",
+      "pyside6",
+      "python",
+      "raw"
+    ],
+    "html_url": "https://github.com/laoziocean-code/ai-photo-manager",
+    "stargazers_count": 15,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-08-12T15:35:05Z",
+    "updated_at": "2026-08-17T06:40:57Z",
+    "pushed_at": "2026-08-16T16:10:36Z"
+  },
+  {
+    "id": 1333962163,
+    "name": "Charles-Proxy-Mobile-Guide",
+    "full_name": "christophercruz98112/Charles-Proxy-Mobile-Guide",
+    "owner": {
+      "login": "christophercruz98112",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307099242?v=4"
+    },
+    "description": "The mobile hackers' guide to Charles Proxy 👍",
+    "topics": [
+      "android",
+      "charles",
+      "charles-proxy",
+      "config",
+      "configuration",
+      "debug",
+      "guide",
+      "ios",
+      "mobile",
+      "monitor",
+      "proxy",
+      "setup",
+      "sniffer",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/christophercruz98112/Charles-Proxy-Mobile-Guide",
+    "stargazers_count": 13,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T08:24:26Z",
+    "updated_at": "2026-08-14T13:12:22Z",
+    "pushed_at": "2026-08-14T08:25:29Z"
+  },
+  {
+    "id": 1334902330,
+    "name": "dsh-Remote",
+    "full_name": "Blank-not-black/dsh-Remote",
+    "owner": {
+      "login": "Blank-not-black",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110587128?v=4"
+    },
+    "description": "DSH Remote · 口袋里的 DSH 控制台 会话 · 审批 · 提问 · 文件传输，局域网 / Tailscale 直连 多服务器自动选优，聊天记录离线可看 带 Token 鉴权，数据只在你的设备之间流动 Sessions · approvals · questions · file transfer over LAN / Tailscale. Automatic fastest-server selection. Chat history available offline. Token-authenticated — your data flows only between your devices.",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "mobile",
+      "remote-control"
+    ],
+    "html_url": "https://github.com/Blank-not-black/dsh-Remote",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T07:57:45Z",
+    "updated_at": "2026-08-17T09:39:04Z",
+    "pushed_at": "2026-08-17T06:04:39Z"
+  },
+  {
+    "id": 1335271414,
+    "name": "DeepSeek-phone-harness",
+    "full_name": "2903077918-lgtm/DeepSeek-phone-harness",
+    "owner": {
+      "login": "2903077918-lgtm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306830527?v=4"
+    },
+    "description": "手机远程控制 DeepSeek Harness：对话/模型切换/工具审批/终端/文件，4G/5G 任意网络可用",
+    "topics": [
+      "agent",
+      "cloudflare-workers",
+      "deepseek",
+      "deepseek-harness",
+      "mobile",
+      "phone-harness",
+      "remote-control"
+    ],
+    "html_url": "https://github.com/2903077918-lgtm/DeepSeek-phone-harness",
+    "stargazers_count": 7,
+    "language": "HTML",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T17:14:17Z",
+    "updated_at": "2026-08-16T16:26:25Z",
+    "pushed_at": "2026-08-16T09:39:29Z"
+  },
+  {
+    "id": 1333982245,
+    "name": "dsh-telegram-channel",
+    "full_name": "hi-wenw/dsh-telegram-channel",
+    "owner": {
+      "login": "hi-wenw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136070013?v=4"
+    },
+    "description": "DeepSeek Harness Telegram mobile remote: bind live Web sessions (Codex-style). Install: dsh plugin add github:hi-wenw/dsh-telegram-channel",
+    "topics": [
+      "agent",
+      "bot",
+      "channel",
+      "cordis",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "mobile",
+      "remote",
+      "sessions",
+      "telegram"
+    ],
+    "html_url": "https://github.com/hi-wenw/dsh-telegram-channel",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 4,
+    "created_at": "2026-08-14T08:48:57Z",
+    "updated_at": "2026-08-16T15:35:03Z",
+    "pushed_at": "2026-08-14T14:41:49Z"
+  },
+  {
+    "id": 1335028281,
+    "name": "dsh-mobile",
+    "full_name": "cindyguyuehu123/dsh-mobile",
+    "owner": {
+      "login": "cindyguyuehu123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42285379?v=4"
+    },
+    "description": "Use DeepSeek Harness from your iPhone / iPad: LAN reverse proxy, iOS PWA (add-to-home-screen) chrome, and touch/mobile CSS for the web GUI",
+    "topics": [
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "deepseek-harness-plugins",
+      "dsh",
+      "dsh-plugin",
+      "ios",
+      "ipad",
+      "iphone",
+      "langchain",
+      "mobile",
+      "plugin",
+      "pwa",
+      "reverse-proxy",
+      "touch",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/cindyguyuehu123/dsh-mobile",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T11:24:43Z",
+    "updated_at": "2026-08-16T17:24:44Z",
+    "pushed_at": "2026-08-15T12:14:26Z"
+  },
+  {
+    "id": 1334360545,
+    "name": "dsh-mobile-gate",
+    "full_name": "Bernardxu123/dsh-mobile-gate",
+    "owner": {
+      "login": "Bernardxu123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85089406?v=4"
+    },
+    "description": "LAN mobile gateway for DeepSeek Harness (DSH): first-visit approval, per-device tokens, rate limiting, mobile layout injection. 局域网手机安全访问 DSH 的即插即用网关：本机审批、设备令牌、限流、手机端适配。",
+    "topics": [
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "dsh-plugin",
+      "gateway",
+      "lan",
+      "mobile",
+      "remote-access",
+      "reverse-proxy"
+    ],
+    "html_url": "https://github.com/Bernardxu123/dsh-mobile-gate",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T16:15:00Z",
+    "updated_at": "2026-08-16T03:39:26Z",
+    "pushed_at": "2026-08-14T16:20:20Z"
+  },
+  {
+    "id": 1334817483,
+    "name": "dsh-mobile",
+    "full_name": "saya-ch/dsh-mobile",
+    "owner": {
+      "login": "saya-ch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225364157?v=4"
+    },
+    "description": "DeepSeek Harness 移动端适配与安全局域网访问插件，支持 Android App 和手机浏览器。",
+    "topics": [
+      "android",
+      "deepseek-harness",
+      "dsh-plugin",
+      "lan",
+      "mobile",
+      "webview"
+    ],
+    "html_url": "https://github.com/saya-ch/dsh-mobile",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T05:28:38Z",
+    "updated_at": "2026-08-17T12:50:19Z",
+    "pushed_at": "2026-08-17T11:08:09Z"
+  },
+  {
+    "id": 1334092636,
+    "name": "dsh-plugin-qr-connect",
+    "full_name": "mervyn-teo/dsh-plugin-qr-connect",
+    "owner": {
+      "login": "mervyn-teo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16864813?v=4"
+    },
+    "description": "DeepSeek Harness dynamic plugin: QR-code sidebar button for connecting mobile devices to the web UI",
+    "topics": [
+      "cordis",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "mobile",
+      "pairing",
+      "qr-code",
+      "reverse-proxy"
+    ],
+    "html_url": "https://github.com/mervyn-teo/dsh-plugin-qr-connect",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T11:05:28Z",
+    "updated_at": "2026-08-16T10:44:36Z",
+    "pushed_at": "2026-08-15T12:18:38Z"
+  },
+  {
+    "id": 1334725865,
+    "name": "dsh-client-ui-mobile",
+    "full_name": "huanxi-drxx/dsh-client-ui-mobile",
+    "owner": {
+      "login": "huanxi-drxx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240946511?v=4"
+    },
+    "description": "DSH Web UI 手机端适配插件：抽屉式布局、聊天背景+毛玻璃、AI 聊天气泡、消息头像、中英双语（桌面端与原版一致）",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "mobile",
+      "plugin",
+      "responsive",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/huanxi-drxx/dsh-client-ui-mobile",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T02:15:23Z",
+    "updated_at": "2026-08-16T16:13:40Z",
+    "pushed_at": "2026-08-16T16:13:26Z"
+  },
+  {
+    "id": 1332372686,
+    "name": "com.saivs.sgsr2-optimized",
+    "full_name": "saivs/com.saivs.sgsr2-optimized",
+    "owner": {
+      "login": "saivs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9297310?v=4"
+    },
+    "description": "SGSR2 temporal upscaler for Unity URP, optimized 4x for low-end mobile GPUs (40 → 10 ms on Adreno 610). No TAA dependency, faithful reference ports included for comparison.",
+    "topics": [
+      "adreno",
+      "android",
+      "gpu-optimization",
+      "hlsl",
+      "mobile",
+      "performance",
+      "sgsr",
+      "sgsr2",
+      "shaders",
+      "snapdragon",
+      "super-resolution",
+      "taa",
+      "taau",
+      "temporal-antialiasing",
+      "unity",
+      "unity3d",
+      "universal-render-pipeline",
+      "upscaling",
+      "urp",
+      "vulkan"
+    ],
+    "html_url": "https://github.com/saivs/com.saivs.sgsr2-optimized",
+    "stargazers_count": 3,
+    "language": "C#",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T19:20:47Z",
+    "updated_at": "2026-08-16T22:32:43Z",
+    "pushed_at": "2026-08-16T22:32:36Z"
+  },
+  {
+    "id": 1336757543,
+    "name": "dsh-mobile-shell",
+    "full_name": "Yui-Little/dsh-mobile-shell",
+    "owner": {
+      "login": "Yui-Little",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77883931?v=4"
+    },
+    "description": "Mobile shell UI plugin for DeepSeek Harness web: overlay drawer, full-width conversation, settings sheet, marketplace with hot-load installs.",
+    "topics": [
+      "cordis",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "mobile",
+      "mobile-ui"
+    ],
+    "html_url": "https://github.com/Yui-Little/dsh-mobile-shell",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T06:19:35Z",
+    "updated_at": "2026-08-17T10:21:27Z",
+    "pushed_at": "2026-08-17T09:52:01Z"
+  },
+  {
+    "id": 1334239580,
+    "name": "dsh-mobile-access",
+    "full_name": "YiYan129600/dsh-mobile-access",
+    "owner": {
+      "login": "YiYan129600",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48797301?v=4"
+    },
+    "description": "DeepSeek Harness plugin: one-page mobile access setup — Tailscale/LAN detection, scan-to-open QR (offline), insecure-origin polyfill",
+    "topics": [
+      "deepseek-harness",
+      "dsh-plugin",
+      "mobile",
+      "remote-access",
+      "tailscale"
+    ],
+    "html_url": "https://github.com/YiYan129600/dsh-mobile-access",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T13:59:55Z",
+    "updated_at": "2026-08-15T11:48:58Z",
+    "pushed_at": "2026-08-15T11:48:50Z"
+  },
+  {
+    "id": 1334757138,
+    "name": "dsh-mobile-css",
+    "full_name": "ook826092-cloud/dsh-mobile-css",
+    "owner": {
+      "login": "ook826092-cloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241141687?v=4"
+    },
+    "description": null,
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "mobile",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/ook826092-cloud/dsh-mobile-css",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T03:19:47Z",
+    "updated_at": "2026-08-15T14:06:08Z",
+    "pushed_at": "2026-08-15T04:27:48Z"
+  },
+  {
+    "id": 1336213290,
+    "name": "mobile-devtools",
+    "full_name": "dewasemadi/mobile-devtools",
+    "owner": {
+      "login": "dewasemadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66185022?v=4"
+    },
+    "description": "Next-Gen Framework-Agnostic In-App Mobile Debugger & Inspector Overlay for Web Applications (React, Vue, Vanilla JS).",
+    "topics": [
+      "console",
+      "debugger",
+      "devtools",
+      "dom-inspector",
+      "frontend",
+      "in-app",
+      "inspector",
+      "mobile",
+      "monorepo",
+      "network-inspector",
+      "pnpm",
+      "react",
+      "shadow-dom",
+      "typescript",
+      "vanilla-js",
+      "vue",
+      "web-development"
+    ],
+    "html_url": "https://github.com/dewasemadi/mobile-devtools",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T17:57:14Z",
+    "updated_at": "2026-08-17T10:47:52Z",
+    "pushed_at": "2026-08-17T10:01:10Z"
+  },
+  {
+    "id": 1330272671,
+    "name": "springchick",
+    "full_name": "marcusramberg/springchick",
+    "owner": {
+      "login": "marcusramberg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5526?v=4"
+    },
+    "description": "A Wayland compositor for Linux phones, written in rust with Smithay and Skia",
+    "topics": [
+      "linux",
+      "mobile",
+      "rust",
+      "wayland"
+    ],
+    "html_url": "https://github.com/marcusramberg/springchick",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-10T21:50:43Z",
+    "updated_at": "2026-08-17T10:19:19Z",
+    "pushed_at": "2026-08-17T10:17:43Z"
+  }
+]
