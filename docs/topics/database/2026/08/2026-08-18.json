@@ -1,0 +1,610 @@
+[
+  {
+    "id": 1331441014,
+    "name": "pgbot",
+    "full_name": "pgrundev/pgbot",
+    "owner": {
+      "login": "pgrundev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300654937?v=4"
+    },
+    "description": "pgbot - Postgres intelligence for AI agents & apps",
+    "topics": [
+      "ai",
+      "data-analysis",
+      "database",
+      "postgres",
+      "postgresql",
+      "postgresql-database"
+    ],
+    "html_url": "https://github.com/pgrundev/pgbot",
+    "stargazers_count": 214,
+    "language": "Go",
+    "forks_count": 14,
+    "open_issues_count": 7,
+    "created_at": "2026-08-11T23:41:52Z",
+    "updated_at": "2026-08-18T02:59:35Z",
+    "pushed_at": "2026-08-18T02:31:26Z"
+  },
+  {
+    "id": 1334800778,
+    "name": "NomaData",
+    "full_name": "nduckmink/NomaData",
+    "owner": {
+      "login": "nduckmink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/250913026?v=4"
+    },
+    "description": "An AI-native BI client that connects any LLM to any database through a semantic layer, turning natural language into real-time analytics.",
+    "topics": [
+      "agent",
+      "ai",
+      "analytics",
+      "business-intelligence",
+      "conversational-ai",
+      "data-analysis",
+      "data-analytics",
+      "data-visualization",
+      "database",
+      "llm",
+      "llmbi",
+      "model-agnostic",
+      "semantic-layer",
+      "text-to-sql"
+    ],
+    "html_url": "https://github.com/nduckmink/NomaData",
+    "stargazers_count": 13,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T04:53:19Z",
+    "updated_at": "2026-08-17T02:50:13Z",
+    "pushed_at": "2026-08-16T16:30:42Z"
+  },
+  {
+    "id": 1331073834,
+    "name": "coe-management-system",
+    "full_name": "coe-management-system/coe-management-system",
+    "owner": {
+      "login": "coe-management-system",
+      "avatar_url": "https://avatars.githubusercontent.com/u/315858741?v=4"
+    },
+    "description": "College CoE Management System for centralized academic data, analytics, scheduling, workload optimization, and AI-assisted management.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "algorithms",
+      "api",
+      "artificial-intelligence",
+      "attendance-management-system",
+      "automation",
+      "backend",
+      "coe-managed",
+      "dashboard",
+      "data-analysis",
+      "data-visualization",
+      "database",
+      "fastapi",
+      "frontend",
+      "nlp"
+    ],
+    "html_url": "https://github.com/coe-management-system/coe-management-system",
+    "stargazers_count": 4,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-11T15:26:15Z",
+    "updated_at": "2026-08-16T04:54:39Z",
+    "pushed_at": "2026-08-17T10:48:13Z"
+  },
+  {
+    "id": 1334641639,
+    "name": "ErdGo",
+    "full_name": "tanlee102/ErdGo",
+    "owner": {
+      "login": "tanlee102",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54614140?v=4"
+    },
+    "description": "Free local-first SQL-to-ERD converter and database schema visualizer for PostgreSQL, MySQL, SQLite, and SQL Server. No account or backend.",
+    "topics": [
+      "database",
+      "database-design",
+      "database-schema",
+      "developer-tools",
+      "diagram",
+      "entity-relationship-diagram",
+      "erd",
+      "erdiagram",
+      "local-first",
+      "mysql",
+      "postgresql",
+      "react",
+      "schema",
+      "schema-visualization",
+      "sql",
+      "sql-editor",
+      "sql-server",
+      "sql-to-erd",
+      "sqlite",
+      "visualization"
+    ],
+    "html_url": "https://github.com/tanlee102/ErdGo",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T23:07:38Z",
+    "updated_at": "2026-08-15T16:31:40Z",
+    "pushed_at": "2026-08-15T01:09:20Z"
+  },
+  {
+    "id": 1334582199,
+    "name": "dsh-sql",
+    "full_name": "STARDUSTLC666/dsh-sql",
+    "owner": {
+      "login": "STARDUSTLC666",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291677282?v=4"
+    },
+    "description": "DeepSeek Harness 工程师级数据库插件：sql_list/query/exec/schema 四工具，SQLite/MySQL/PostgreSQL 三引擎、只读白名单、写审批门、行数钳制。· Databases for DeepSeek Harness agents.",
+    "topics": [
+      "database",
+      "deepseek-harness",
+      "dsh-plugin",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/STARDUSTLC666/dsh-sql",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T21:13:21Z",
+    "updated_at": "2026-08-16T11:45:45Z",
+    "pushed_at": "2026-08-16T11:45:11Z"
+  },
+  {
+    "id": 1333041704,
+    "name": "pg-llm-wiki",
+    "full_name": "pivi-odoo/pg-llm-wiki",
+    "owner": {
+      "login": "pivi-odoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111067497?v=4"
+    },
+    "description": "A source-backed, Obsidian-browsable wiki for understanding PostgreSQL internals.",
+    "topics": [
+      "database",
+      "database-internals",
+      "obsidian",
+      "postgresql",
+      "postgresql-internals",
+      "technical-documentation",
+      "wiki"
+    ],
+    "html_url": "https://github.com/pivi-odoo/pg-llm-wiki",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T11:29:56Z",
+    "updated_at": "2026-08-17T09:22:05Z",
+    "pushed_at": "2026-08-13T11:30:20Z"
+  },
+  {
+    "id": 1331000612,
+    "name": "paranorm",
+    "full_name": "ryuzcorp/paranorm",
+    "owner": {
+      "login": "ryuzcorp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/315824974?v=4"
+    },
+    "description": "Kysely on steroids: author database schemas in YAML, infer Kysely types, apply schema-diff migrations, and query through a compact model API.",
+    "topics": [
+      "database",
+      "kysely",
+      "migration",
+      "orm",
+      "schema",
+      "typescript",
+      "yaml"
+    ],
+    "html_url": "https://github.com/ryuzcorp/paranorm",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T14:12:26Z",
+    "updated_at": "2026-08-11T18:45:29Z",
+    "pushed_at": "2026-08-11T18:10:58Z"
+  },
+  {
+    "id": 1332392403,
+    "name": "ff-catalog",
+    "full_name": "AfnanTawsif/ff-catalog",
+    "owner": {
+      "login": "AfnanTawsif",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90197228?v=4"
+    },
+    "description": "Open source Free Fire item catalog with 33K+ items, powerful search, filters, favorites, sharing, and a fast mobile-first Ul packed with features.",
+    "topics": [
+      "api",
+      "catalog",
+      "database",
+      "freefire",
+      "freefire-battlegrounds",
+      "freefire-item",
+      "front-end",
+      "game-assets",
+      "gaming",
+      "garena",
+      "garena-freefire",
+      "indexeddb",
+      "inventory-management",
+      "javascript",
+      "messagepack",
+      "offline-first",
+      "open-source",
+      "spa",
+      "web-workers"
+    ],
+    "html_url": "https://github.com/AfnanTawsif/ff-catalog",
+    "stargazers_count": 2,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T19:47:34Z",
+    "updated_at": "2026-08-17T12:35:19Z",
+    "pushed_at": "2026-08-17T12:32:58Z"
+  },
+  {
+    "id": 1331410411,
+    "name": "Al-Sabai-Restaurant-Management-System-",
+    "full_name": "alsabai2004/Al-Sabai-Restaurant-Management-System-",
+    "owner": {
+      "login": "alsabai2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306320030?v=4"
+    },
+    "description": "Restaurant Management System for managing customers, orders, products, staff, and daily restaurant operations.",
+    "topics": [
+      "database",
+      "information-system",
+      "management-system",
+      "restaurant-management",
+      "software-development"
+    ],
+    "html_url": "https://github.com/alsabai2004/Al-Sabai-Restaurant-Management-System-",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T22:44:28Z",
+    "updated_at": "2026-08-15T03:49:19Z",
+    "pushed_at": "2026-08-15T03:37:31Z"
+  },
+  {
+    "id": 1334448865,
+    "name": "mitre-mcp",
+    "full_name": "CedricG-dev/mitre-mcp",
+    "owner": {
+      "login": "CedricG-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201501135?v=4"
+    },
+    "description": ":robot:  Mitre MCP Server | A Model Context Protocol (MCP) server for integrating AI with Mitre ATT&CK® framework.",
+    "topics": [
+      "cybersecurity",
+      "database",
+      "mcp-server",
+      "mitre-attack",
+      "python"
+    ],
+    "html_url": "https://github.com/CedricG-dev/mitre-mcp",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T18:00:52Z",
+    "updated_at": "2026-08-16T20:16:14Z",
+    "pushed_at": "2026-08-15T06:00:35Z"
+  },
+  {
+    "id": 1334157729,
+    "name": "PGSentinel",
+    "full_name": "matta813/PGSentinel",
+    "owner": {
+      "login": "matta813",
+      "avatar_url": "https://avatars.githubusercontent.com/u/315726125?v=4"
+    },
+    "description": "PostgreSQL monitoring and health analysis that explains what is wrong, why it matters, and what to investigate next.",
+    "topics": [
+      "database",
+      "devops",
+      "docker",
+      "golang",
+      "health-check",
+      "monitoring",
+      "observability",
+      "postgresql",
+      "react",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/matta813/PGSentinel",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-08-14T12:27:09Z",
+    "updated_at": "2026-08-17T11:09:50Z",
+    "pushed_at": "2026-08-18T02:06:40Z"
+  },
+  {
+    "id": 1333098351,
+    "name": "tachyon",
+    "full_name": "adikeshri/tachyon",
+    "owner": {
+      "login": "adikeshri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31363648?v=4"
+    },
+    "description": "Tachyon is an open-source search engine designed for fast full-text search without the operational complexity of heavyweight search infrastructure.",
+    "topics": [
+      "bm25",
+      "database",
+      "embedded-database",
+      "full-text-search",
+      "high-performance",
+      "indexing",
+      "inverted-index",
+      "lightweight",
+      "rust",
+      "search",
+      "search-engine",
+      "self-hosted",
+      "tachyon"
+    ],
+    "html_url": "https://github.com/adikeshri/tachyon",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-13T12:34:36Z",
+    "updated_at": "2026-08-18T01:08:54Z",
+    "pushed_at": "2026-08-18T01:56:32Z"
+  },
+  {
+    "id": 1331586474,
+    "name": "imdb-postgresql-optimization",
+    "full_name": "soheilsayahvarg/imdb-postgresql-optimization",
+    "owner": {
+      "login": "soheilsayahvarg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104780109?v=4"
+    },
+    "description": "PostgreSQL 16 + IMDb: SKIP LOCKED message queue ingestion, JSONB/TOAST, and real before/after indexing benchmarks",
+    "topics": [
+      "database",
+      "database-optimization",
+      "docker",
+      "imdb",
+      "jsonb",
+      "message-queue",
+      "plpgsql",
+      "postgres",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "html_url": "https://github.com/soheilsayahvarg/imdb-postgresql-optimization",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T03:53:15Z",
+    "updated_at": "2026-08-12T04:11:04Z",
+    "pushed_at": "2026-08-12T04:11:00Z"
+  },
+  {
+    "id": 1333610926,
+    "name": "Database-learning",
+    "full_name": "DefNotArham/Database-learning",
+    "owner": {
+      "login": "DefNotArham",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203848415?v=4"
+    },
+    "description": "Learning how to make a database",
+    "topics": [
+      "database",
+      "learning-by-doing",
+      "nodejs",
+      "opp",
+      "typescript"
+    ],
+    "html_url": "https://github.com/DefNotArham/Database-learning",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T23:17:20Z",
+    "updated_at": "2026-08-17T01:18:46Z",
+    "pushed_at": "2026-08-17T01:18:40Z"
+  },
+  {
+    "id": 1331048156,
+    "name": "pgwire-explorer",
+    "full_name": "DHUKK/pgwire-explorer",
+    "owner": {
+      "login": "DHUKK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1254441?v=4"
+    },
+    "description": "Visualise and explore the postgres wire protocol",
+    "topics": [
+      "database",
+      "databases",
+      "learning",
+      "postgres",
+      "postgresql",
+      "visualization",
+      "wire-protocol"
+    ],
+    "html_url": "https://github.com/DHUKK/pgwire-explorer",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T14:59:33Z",
+    "updated_at": "2026-08-17T23:05:22Z",
+    "pushed_at": "2026-08-17T23:05:05Z"
+  },
+  {
+    "id": 1334319051,
+    "name": "Liorandb",
+    "full_name": "LioranGroupOfficial/Liorandb",
+    "owner": {
+      "login": "LioranGroupOfficial",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122620453?v=4"
+    },
+    "description": "Official documentation for LioranDB, a developer-first NoSQL document database powered by Rust.",
+    "topics": [
+      "database",
+      "database-engine",
+      "developer-tools",
+      "document-database",
+      "documentation",
+      "docusaurus",
+      "liorandb",
+      "nosql",
+      "rust",
+      "typescript"
+    ],
+    "html_url": "https://github.com/LioranGroupOfficial/Liorandb",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T15:26:33Z",
+    "updated_at": "2026-08-17T17:51:21Z",
+    "pushed_at": "2026-08-17T17:50:15Z"
+  },
+  {
+    "id": 1331393140,
+    "name": "Database-Creator",
+    "full_name": "Village-V-Studio/Database-Creator",
+    "owner": {
+      "login": "Village-V-Studio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288460554?v=4"
+    },
+    "description": "Database Creator is a powerful yet incredibly easy-to-use MySQL (MariaDB) database manager designed specifically for developers, system administrators, and microservice networks.",
+    "topics": [
+      "database",
+      "mysql"
+    ],
+    "html_url": "https://github.com/Village-V-Studio/Database-Creator",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T22:12:46Z",
+    "updated_at": "2026-08-17T21:21:32Z",
+    "pushed_at": "2026-08-17T21:17:40Z"
+  },
+  {
+    "id": 1334504340,
+    "name": "supawatch",
+    "full_name": "omar-dulaimi/supawatch",
+    "owner": {
+      "login": "omar-dulaimi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11743389?v=4"
+    },
+    "description": "Your Postgres schema, compiled to everything: validators, types, API layers, AI surfaces, tests and docs. Regenerated by the database itself, verified against real rows.",
+    "topics": [
+      "arktype",
+      "code-generation",
+      "codegen",
+      "database",
+      "effect",
+      "graphql",
+      "json-schema",
+      "mcp",
+      "orpc",
+      "postgres",
+      "postgresql",
+      "schema",
+      "supabase",
+      "trpc",
+      "type-safety",
+      "typebox",
+      "typescript",
+      "valibot",
+      "validation",
+      "zod"
+    ],
+    "html_url": "https://github.com/omar-dulaimi/supawatch",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T19:15:45Z",
+    "updated_at": "2026-08-17T09:39:05Z",
+    "pushed_at": "2026-08-17T09:36:05Z"
+  },
+  {
+    "id": 1332443126,
+    "name": "Banking-System-Oracle-PLSQL",
+    "full_name": "alsabai2004/Banking-System-Oracle-PLSQL",
+    "owner": {
+      "login": "alsabai2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306320030?v=4"
+    },
+    "description": "Oracle PL/SQL Banking System demonstrating database programming, procedures, functions, transactions, and banking operations.",
+    "topics": [
+      "banking-system",
+      "database",
+      "database-programming",
+      "oracle",
+      "plsql",
+      "sql"
+    ],
+    "html_url": "https://github.com/alsabai2004/Banking-System-Oracle-PLSQL",
+    "stargazers_count": 1,
+    "language": "PLSQL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T21:02:37Z",
+    "updated_at": "2026-08-15T03:49:22Z",
+    "pushed_at": "2026-08-15T03:35:18Z"
+  },
+  {
+    "id": 1333606632,
+    "name": "ExpoShare",
+    "full_name": "INTJ-boy/ExpoShare",
+    "owner": {
+      "login": "INTJ-boy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114531491?v=4"
+    },
+    "description": "ExpoShare: a community platform where students, researchers, educators and professionals upload and discover educational presentations. Built with vanilla HTML/CSS/JS and Supabase . Trilingual (EN/FR/AR) ,made by Zekraoui Rabah AllaaEddine🦑 ©2026.",
+    "topics": [
+      "algeria",
+      "algerian-developpers",
+      "arabic",
+      "benevolent",
+      "biology",
+      "database",
+      "engineering",
+      "english",
+      "expository",
+      "free",
+      "french",
+      "microbiology",
+      "physics",
+      "presentations",
+      "research",
+      "researchers",
+      "science",
+      "sports",
+      "trilingual",
+      "worldwide"
+    ],
+    "html_url": "https://github.com/INTJ-boy/ExpoShare",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T23:08:29Z",
+    "updated_at": "2026-08-18T00:00:10Z",
+    "pushed_at": "2026-08-18T00:00:04Z"
+  }
+]

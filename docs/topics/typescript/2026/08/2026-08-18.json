@@ -1,0 +1,607 @@
+[
+  {
+    "id": 1332080070,
+    "name": "anti-slop",
+    "full_name": "dmmulroy/anti-slop",
+    "owner": {
+      "login": "dmmulroy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2755722?v=4"
+    },
+    "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+    "topics": [
+      "agent-skills",
+      "linting",
+      "oxlint",
+      "typescript"
+    ],
+    "html_url": "https://github.com/dmmulroy/anti-slop",
+    "stargazers_count": 2403,
+    "language": "TypeScript",
+    "forks_count": 40,
+    "open_issues_count": 2,
+    "created_at": "2026-08-12T13:48:50Z",
+    "updated_at": "2026-08-18T02:59:30Z",
+    "pushed_at": "2026-08-14T14:23:59Z"
+  },
+  {
+    "id": 1332781509,
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "owner": {
+      "login": "elie222",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3090527?v=4"
+    },
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "html_url": "https://github.com/elie222/rakazo",
+    "stargazers_count": 783,
+    "language": "TypeScript",
+    "forks_count": 101,
+    "open_issues_count": 15,
+    "created_at": "2026-08-13T06:28:56Z",
+    "updated_at": "2026-08-18T02:56:09Z",
+    "pushed_at": "2026-08-17T20:38:51Z"
+  },
+  {
+    "id": 1330867309,
+    "name": "pdfcn",
+    "full_name": "shadcn-labs/pdfcn",
+    "owner": {
+      "login": "shadcn-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278042933?v=4"
+    },
+    "description": "Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.",
+    "topics": [
+      "forme",
+      "html-to-pdf",
+      "jsx",
+      "pdf",
+      "pdf-generation",
+      "pdf-generator",
+      "react",
+      "rust",
+      "shadcn",
+      "takumi",
+      "typescript",
+      "wasm"
+    ],
+    "html_url": "https://github.com/shadcn-labs/pdfcn",
+    "stargazers_count": 700,
+    "language": "TypeScript",
+    "forks_count": 30,
+    "open_issues_count": 2,
+    "created_at": "2026-08-11T11:55:41Z",
+    "updated_at": "2026-08-18T01:08:34Z",
+    "pushed_at": "2026-08-15T14:43:50Z"
+  },
+  {
+    "id": 1333100071,
+    "name": "dsh-vision-toolkit",
+    "full_name": "Anionex/dsh-vision-toolkit",
+    "owner": {
+      "login": "Anionex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123177548?v=4"
+    },
+    "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+    "topics": [
+      "agent-skills",
+      "agent-vision-toolkit",
+      "computer-vision",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "gui-automation",
+      "ocr",
+      "plugin",
+      "python",
+      "screenshot-testing",
+      "text-only-llm",
+      "typescript",
+      "ui-restoration",
+      "vision-language-model",
+      "vision-tools"
+    ],
+    "html_url": "https://github.com/Anionex/dsh-vision-toolkit",
+    "stargazers_count": 638,
+    "language": "TypeScript",
+    "forks_count": 31,
+    "open_issues_count": 5,
+    "created_at": "2026-08-13T12:36:34Z",
+    "updated_at": "2026-08-18T02:49:25Z",
+    "pushed_at": "2026-08-17T19:57:06Z"
+  },
+  {
+    "id": 1333556422,
+    "name": "agent-safe-pipeline",
+    "full_name": "decionis/agent-safe-pipeline",
+    "owner": {
+      "login": "decionis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289489188?v=4"
+    },
+    "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+    "topics": [
+      "agentic-ai",
+      "ai-agent-permissions",
+      "ai-agents",
+      "ai-governance",
+      "ai-safety",
+      "authorization",
+      "decionis",
+      "human-in-the-loop",
+      "mcp",
+      "policy-as-code",
+      "reference-architecture",
+      "typescript"
+    ],
+    "html_url": "https://github.com/decionis/agent-safe-pipeline",
+    "stargazers_count": 517,
+    "language": "TypeScript",
+    "forks_count": 58,
+    "open_issues_count": 10,
+    "created_at": "2026-08-13T21:36:19Z",
+    "updated_at": "2026-08-18T02:44:37Z",
+    "pushed_at": "2026-08-17T21:37:07Z"
+  },
+  {
+    "id": 1333000741,
+    "name": "deepseek-harness-desktop-app",
+    "full_name": "vibeinging/deepseek-harness-desktop-app",
+    "owner": {
+      "login": "vibeinging",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8122332?v=4"
+    },
+    "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+    "topics": [
+      "agentic-workflows",
+      "ai-agent",
+      "ai-workbench",
+      "data-analysis",
+      "deepseek-harness",
+      "desktop-app",
+      "dsh",
+      "dsh-plugin",
+      "electron",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "office-automation",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
+    "stargazers_count": 339,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 6,
+    "created_at": "2026-08-13T10:41:33Z",
+    "updated_at": "2026-08-18T02:59:26Z",
+    "pushed_at": "2026-08-15T08:56:28Z"
+  },
+  {
+    "id": 1335104760,
+    "name": "bloub",
+    "full_name": "jeremy-prt/bloub",
+    "owner": {
+      "login": "jeremy-prt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57547133?v=4"
+    },
+    "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+    "topics": [
+      "animation",
+      "avatar",
+      "morphing",
+      "svg",
+      "svg-animation",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/jeremy-prt/bloub",
+    "stargazers_count": 263,
+    "language": "TypeScript",
+    "forks_count": 24,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T13:21:23Z",
+    "updated_at": "2026-08-18T02:56:58Z",
+    "pushed_at": "2026-08-17T19:18:48Z"
+  },
+  {
+    "id": 1331207288,
+    "name": "openanalytics",
+    "full_name": "OpenLabs-so/openanalytics",
+    "owner": {
+      "login": "OpenLabs-so",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311841701?v=4"
+    },
+    "description": "Open-source, privacy-first and cookieless web analytics with revenue attribution and an MCP server.",
+    "topics": [
+      "agpl",
+      "analytics",
+      "clickhouse",
+      "cookieless",
+      "google-analytics-alternative",
+      "mcp-server",
+      "nextjs",
+      "open-source",
+      "plausible-alternative",
+      "privacy",
+      "privacy-first",
+      "self-hosted",
+      "typescript",
+      "web-analytics"
+    ],
+    "html_url": "https://github.com/OpenLabs-so/openanalytics",
+    "stargazers_count": 227,
+    "language": "TypeScript",
+    "forks_count": 21,
+    "open_issues_count": 2,
+    "created_at": "2026-08-11T17:53:51Z",
+    "updated_at": "2026-08-18T01:42:50Z",
+    "pushed_at": "2026-08-17T05:34:52Z"
+  },
+  {
+    "id": 1335127844,
+    "name": "anime-find",
+    "full_name": "cocofhu/anime-find",
+    "owner": {
+      "login": "cocofhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43171452?v=4"
+    },
+    "description": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
+    "topics": [
+      "anime",
+      "anime-search",
+      "bangumi",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "magnet",
+      "mikan",
+      "plugin",
+      "torrent",
+      "typescript"
+    ],
+    "html_url": "https://github.com/cocofhu/anime-find",
+    "stargazers_count": 138,
+    "language": "TypeScript",
+    "forks_count": 31,
+    "open_issues_count": 1,
+    "created_at": "2026-08-15T13:53:46Z",
+    "updated_at": "2026-08-18T02:58:20Z",
+    "pushed_at": "2026-08-18T02:57:43Z"
+  },
+  {
+    "id": 1335351545,
+    "name": "router",
+    "full_name": "anonrig/router",
+    "owner": {
+      "login": "anonrig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1935246?v=4"
+    },
+    "description": "The TanStack Router API. Rebuilt for the hot path.",
+    "topics": [
+      "react",
+      "react19",
+      "router",
+      "ssr",
+      "tanstack",
+      "typescript"
+    ],
+    "html_url": "https://github.com/anonrig/router",
+    "stargazers_count": 135,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 3,
+    "created_at": "2026-08-15T19:21:18Z",
+    "updated_at": "2026-08-18T01:17:16Z",
+    "pushed_at": "2026-08-18T00:40:00Z"
+  },
+  {
+    "id": 1335434949,
+    "name": "procedural-sounds",
+    "full_name": "m1ckc3s/procedural-sounds",
+    "owner": {
+      "login": "m1ckc3s",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108453477?v=4"
+    },
+    "description": "Procedural interface sounds, with taste. Generated live in the browser from recipes, steered by a hand-curated library and calibrated by ear. No audio files. Beta, open to collaborators.",
+    "topics": [
+      "design-tools",
+      "generative-audio",
+      "interface-design",
+      "microinteractions",
+      "nextjs",
+      "open-source",
+      "procedural-audio",
+      "react",
+      "sound-design",
+      "synthesizer",
+      "tailwindcss",
+      "typescript",
+      "ui-sounds",
+      "ux",
+      "web-audio",
+      "web-audio-api"
+    ],
+    "html_url": "https://github.com/m1ckc3s/procedural-sounds",
+    "stargazers_count": 127,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T21:36:23Z",
+    "updated_at": "2026-08-18T01:29:21Z",
+    "pushed_at": "2026-08-16T21:21:09Z"
+  },
+  {
+    "id": 1332604484,
+    "name": "oss-pr-reviewer",
+    "full_name": "vuphongle/oss-pr-reviewer",
+    "owner": {
+      "login": "vuphongle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121505503?v=4"
+    },
+    "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+    "topics": [
+      "ai",
+      "cli",
+      "code-review",
+      "developer-tools",
+      "github",
+      "llm",
+      "maintainer-tools",
+      "open-source",
+      "pull-request",
+      "typescript"
+    ],
+    "html_url": "https://github.com/vuphongle/oss-pr-reviewer",
+    "stargazers_count": 111,
+    "language": "TypeScript",
+    "forks_count": 97,
+    "open_issues_count": 7,
+    "created_at": "2026-08-13T01:59:03Z",
+    "updated_at": "2026-08-17T19:04:21Z",
+    "pushed_at": "2026-08-13T05:09:43Z"
+  },
+  {
+    "id": 1331788336,
+    "name": "repo-context-mcp",
+    "full_name": "nduc99911/repo-context-mcp",
+    "owner": {
+      "login": "nduc99911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67998982?v=4"
+    },
+    "description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
+    "topics": [
+      "ai-agent",
+      "claude",
+      "codex",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/nduc99911/repo-context-mcp",
+    "stargazers_count": 104,
+    "language": "TypeScript",
+    "forks_count": 91,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T08:22:31Z",
+    "updated_at": "2026-08-16T23:03:53Z",
+    "pushed_at": "2026-08-12T09:21:15Z"
+  },
+  {
+    "id": 1334167430,
+    "name": "dsh-noema",
+    "full_name": "ZSeven-W/dsh-noema",
+    "owner": {
+      "login": "ZSeven-W",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218180147?v=4"
+    },
+    "description": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "coding-agent",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "long-term-memory",
+      "mcp",
+      "memory",
+      "noema",
+      "plugin",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ZSeven-W/dsh-noema",
+    "stargazers_count": 100,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 2,
+    "created_at": "2026-08-14T12:38:51Z",
+    "updated_at": "2026-08-18T01:18:35Z",
+    "pushed_at": "2026-08-15T06:05:30Z"
+  },
+  {
+    "id": 1332868730,
+    "name": "agentic-playwright",
+    "full_name": "idavidov13/agentic-playwright",
+    "owner": {
+      "login": "idavidov13",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118520300?v=4"
+    },
+    "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
+    "topics": [
+      "agentic",
+      "ai",
+      "api-testing",
+      "claude-code",
+      "cursor",
+      "e2e",
+      "github-copilot",
+      "playwright",
+      "test-automation",
+      "testing",
+      "typescript"
+    ],
+    "html_url": "https://github.com/idavidov13/agentic-playwright",
+    "stargazers_count": 99,
+    "language": "Python",
+    "forks_count": 26,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T08:12:20Z",
+    "updated_at": "2026-08-18T02:39:11Z",
+    "pushed_at": "2026-08-13T13:09:18Z"
+  },
+  {
+    "id": 1331633455,
+    "name": "small-pos-open-source",
+    "full_name": "longnick/small-pos-open-source",
+    "owner": {
+      "login": "longnick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14255878?v=4"
+    },
+    "description": "Offline-first POS starter for small cafés and restaurants",
+    "topics": [
+      "fnb",
+      "offline-first",
+      "open-source",
+      "point-of-sale",
+      "pos",
+      "react",
+      "restaurant",
+      "restaurant-management",
+      "typescript"
+    ],
+    "html_url": "https://github.com/longnick/small-pos-open-source",
+    "stargazers_count": 95,
+    "language": "TypeScript",
+    "forks_count": 91,
+    "open_issues_count": 2,
+    "created_at": "2026-08-12T05:10:15Z",
+    "updated_at": "2026-08-16T05:57:17Z",
+    "pushed_at": "2026-08-17T02:17:41Z"
+  },
+  {
+    "id": 1333247282,
+    "name": "anysearch-dsh",
+    "full_name": "anysearch-team/anysearch-dsh",
+    "owner": {
+      "login": "anysearch-team",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316589933?v=4"
+    },
+    "description": "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)",
+    "topics": [
+      "agent-tools",
+      "anysearch",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "typescript",
+      "web-search"
+    ],
+    "html_url": "https://github.com/anysearch-team/anysearch-dsh",
+    "stargazers_count": 87,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T15:10:10Z",
+    "updated_at": "2026-08-18T02:29:39Z",
+    "pushed_at": "2026-08-17T07:55:54Z"
+  },
+  {
+    "id": 1330951880,
+    "name": "anadolupay-node",
+    "full_name": "Voxyfy/anadolupay-node",
+    "owner": {
+      "login": "Voxyfy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246889371?v=4"
+    },
+    "description": "Türk banka ve ödeme sağlayıcıları için tek arayüzlü, framework'e bağımlı olmayan ödeme kütüphanesi (Node.js/TypeScript) — Garanti, NestPay/Asseco, PayFor, PayFlex, PosNet, BOA, iyzico, Tosla, Moka, PayTR, Craftgate, Paratika, Paycell",
+    "topics": [
+      "3d-secure",
+      "netspay",
+      "nodejs",
+      "payment",
+      "payments",
+      "sanalpos",
+      "turkey",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Voxyfy/anadolupay-node",
+    "stargazers_count": 64,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T13:24:04Z",
+    "updated_at": "2026-08-15T11:35:16Z",
+    "pushed_at": "2026-08-14T07:46:12Z"
+  },
+  {
+    "id": 1331023859,
+    "name": "cohort-harbor",
+    "full_name": "lantingzhang1119/cohort-harbor",
+    "owner": {
+      "login": "lantingzhang1119",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214756478?v=4"
+    },
+    "description": "Self-hosted employee onboarding, policy learning, and assessment platform.",
+    "topics": [
+      "employee-training",
+      "learning-management-system",
+      "nextjs",
+      "onboarding",
+      "prisma",
+      "self-hosted",
+      "sqlite",
+      "typescript"
+    ],
+    "html_url": "https://github.com/lantingzhang1119/cohort-harbor",
+    "stargazers_count": 59,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 8,
+    "created_at": "2026-08-11T14:35:14Z",
+    "updated_at": "2026-08-18T01:17:26Z",
+    "pushed_at": "2026-08-12T02:28:58Z"
+  },
+  {
+    "id": 1334118559,
+    "name": "dsh-commandcode-provider",
+    "full_name": "Mars-Sea/dsh-commandcode-provider",
+    "owner": {
+      "login": "Mars-Sea",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33591741?v=4"
+    },
+    "description": "Unofficial DeepSeek Harness LLM provider plugin for Command Code: live model catalog, reasoning-effort support, Models-page card. Ported from pi-commandcode-provider (MIT).",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "llm",
+      "llm-provider",
+      "npm",
+      "plugin",
+      "provider",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Mars-Sea/dsh-commandcode-provider",
+    "stargazers_count": 56,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T11:38:54Z",
+    "updated_at": "2026-08-18T02:59:21Z",
+    "pushed_at": "2026-08-18T02:00:40Z"
+  }
+]

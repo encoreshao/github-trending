@@ -1,0 +1,594 @@
+[
+  {
+    "id": 1333124670,
+    "name": "git-declutter",
+    "full_name": "kunmi02/git-declutter",
+    "owner": {
+      "login": "kunmi02",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27483062?v=4"
+    },
+    "description": "GitDeclutter — safely analyze and clean stale local Git branches. Classifies branches as SAFE, REVIEW, KEEP or PROTECTED.",
+    "topics": [
+      "cli",
+      "command-line",
+      "dev",
+      "developer-tools",
+      "development",
+      "devops",
+      "devtools",
+      "git",
+      "github",
+      "gitlab",
+      "go",
+      "golang"
+    ],
+    "html_url": "https://github.com/kunmi02/git-declutter",
+    "stargazers_count": 18,
+    "language": "Go",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T13:03:14Z",
+    "updated_at": "2026-08-16T08:32:06Z",
+    "pushed_at": "2026-08-15T22:09:46Z"
+  },
+  {
+    "id": 1334740674,
+    "name": "dsh-github-intelligence",
+    "full_name": "zoahdev/dsh-github-intelligence",
+    "owner": {
+      "login": "zoahdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245318860?v=4"
+    },
+    "description": "The most comprehensive developer-intelligence integration for DeepSeek Harness: 196+ read-only tools across 16 developer ecosystems (GitHub, GitLab, Gitee, npm, PyPI, crates.io, Docker Hub, Hugging Face, Hacker News, Stack Overflow, Reddit, dev.to, RubyGems, NuGet, Go, ArXiv) with rate-limit-friendly caching.",
+    "topics": [
+      "agent",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh-plugin",
+      "github",
+      "gitlab",
+      "intelligence",
+      "npm",
+      "pypi",
+      "releases"
+    ],
+    "html_url": "https://github.com/zoahdev/dsh-github-intelligence",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T02:46:14Z",
+    "updated_at": "2026-08-17T14:18:13Z",
+    "pushed_at": "2026-08-17T14:18:09Z"
+  },
+  {
+    "id": 1333885826,
+    "name": "dsh-git-credentials",
+    "full_name": "revive/dsh-git-credentials",
+    "owner": {
+      "login": "revive",
+      "avatar_url": "https://avatars.githubusercontent.com/u/512426?v=4"
+    },
+    "description": "DeepSeek Harness plugin: GitLab and GitHub API tokens stay out of the model context — encrypted at rest (AES-256-GCM), tools on demand, web settings panel.",
+    "topics": [
+      "bitbucket",
+      "cordis",
+      "dsh",
+      "dsh-plugin",
+      "gitea",
+      "gitee",
+      "github",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/revive/dsh-git-credentials",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T06:48:32Z",
+    "updated_at": "2026-08-15T00:59:51Z",
+    "pushed_at": "2026-08-14T08:26:03Z"
+  },
+  {
+    "id": 1336067610,
+    "name": "finguard",
+    "full_name": "LeeYudok/finguard",
+    "owner": {
+      "login": "LeeYudok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1279120?v=4"
+    },
+    "description": "Semgrep + reviewdog 기반 은행권 소스코드 취약점 점검 봇 — GitLab MR에 금보원 평가기준 근거를 붙인 인라인 코멘트를 단다",
+    "topics": [
+      "code-review",
+      "devsecops",
+      "fintech",
+      "gitlab",
+      "golang",
+      "korean",
+      "merge-request",
+      "reviewdog",
+      "sast",
+      "secure-coding",
+      "security",
+      "semgrep",
+      "static-analysis",
+      "vulnerability-scanner"
+    ],
+    "html_url": "https://github.com/LeeYudok/finguard",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 20,
+    "created_at": "2026-08-16T15:19:09Z",
+    "updated_at": "2026-08-16T17:35:06Z",
+    "pushed_at": "2026-08-16T23:57:27Z"
+  },
+  {
+    "id": 1335536357,
+    "name": "slashbay",
+    "full_name": "DataKnifeAI/slashbay",
+    "owner": {
+      "login": "DataKnifeAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253820236?v=4"
+    },
+    "description": "Slashbay: issue webhook intake, cheap-LLM triage, Coder workspace berth, and coding-agent dispatch for the DataKnifeAI fleet.",
+    "topics": [
+      "agents",
+      "automation",
+      "coder",
+      "control-plane",
+      "github",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/DataKnifeAI/slashbay",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-08-16T01:13:49Z",
+    "updated_at": "2026-08-16T01:29:55Z",
+    "pushed_at": "2026-08-18T01:33:17Z"
+  },
+  {
+    "id": 1335368334,
+    "name": "tropatt-module-gitlab-integration",
+    "full_name": "Anton-Barinov/tropatt-module-gitlab-integration",
+    "owner": {
+      "login": "Anton-Barinov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55404783?v=4"
+    },
+    "description": "Sync GitLab merge requests with TropaTT tasks (including self-managed GitLab).",
+    "topics": [
+      "crm",
+      "gitlab",
+      "integration",
+      "mysql",
+      "php",
+      "self-hosted",
+      "sync",
+      "tropatt",
+      "tropatt-module"
+    ],
+    "html_url": "https://github.com/Anton-Barinov/tropatt-module-gitlab-integration",
+    "stargazers_count": 0,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T19:52:01Z",
+    "updated_at": "2026-08-16T07:38:31Z",
+    "pushed_at": "2026-08-16T07:38:45Z"
+  },
+  {
+    "id": 1331936465,
+    "name": "gitlab-jira-context-mcp",
+    "full_name": "jagarkarlo/gitlab-jira-context-mcp",
+    "owner": {
+      "login": "jagarkarlo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94485299?v=4"
+    },
+    "description": "Read-only GitLab and Jira context tools for Model Context Protocol clients.",
+    "topics": [
+      "confluence",
+      "developer-tools",
+      "gitlab",
+      "grafana",
+      "jira",
+      "mcp",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/jagarkarlo/gitlab-jira-context-mcp",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T11:12:11Z",
+    "updated_at": "2026-08-13T13:18:08Z",
+    "pushed_at": "2026-08-13T13:17:13Z"
+  },
+  {
+    "id": 1331101693,
+    "name": "git-org-group-cred-vault",
+    "full_name": "wildfirebill-ai/git-org-group-cred-vault",
+    "owner": {
+      "login": "wildfirebill-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268474818?v=4"
+    },
+    "description": "MCP server (Model Context Protocol) that stores GitHub and GitLab tokens in an encrypted vault and retrieves them by org/group keyword, with per-project scoping. Self-hosted credential manager for AI agents.",
+    "topics": [
+      "ai-agent",
+      "credential-manager",
+      "credentials",
+      "developer-tools",
+      "github",
+      "gitlab",
+      "mcp",
+      "mcp-gateway",
+      "mcp-server",
+      "model-context-protocol",
+      "secrets",
+      "self-hosted",
+      "token-management",
+      "unraid",
+      "vault"
+    ],
+    "html_url": "https://github.com/wildfirebill-ai/git-org-group-cred-vault",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T15:55:31Z",
+    "updated_at": "2026-08-11T16:03:40Z",
+    "pushed_at": "2026-08-11T16:02:04Z"
+  },
+  {
+    "id": 1333113444,
+    "name": "jira-to-gitlab",
+    "full_name": "ilya-vlad/jira-to-gitlab",
+    "owner": {
+      "login": "ilya-vlad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5952974?v=4"
+    },
+    "description": "One-shot Jira Cloud to GitLab CE issue migration",
+    "topics": [
+      "gitlab",
+      "issues",
+      "jira",
+      "migration",
+      "python"
+    ],
+    "html_url": "https://github.com/ilya-vlad/jira-to-gitlab",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T12:51:08Z",
+    "updated_at": "2026-08-14T16:57:39Z",
+    "pushed_at": "2026-08-13T18:22:33Z"
+  },
+  {
+    "id": 1330537367,
+    "name": "claude-gitlab-reader",
+    "full_name": "komekovv/claude-gitlab-reader",
+    "owner": {
+      "login": "komekovv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120425627?v=4"
+    },
+    "description": "Read-only GitLab plugin for Claude Code — summarize assigned issues/MRs and review a merge request. Self-hosted friendly, REST API v4, GET-only.",
+    "topics": [
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "code-review",
+      "developer-tools",
+      "gitlab",
+      "gitlab-api",
+      "merge-request",
+      "python",
+      "read-only",
+      "rest-api",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/komekovv/claude-gitlab-reader",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T05:38:41Z",
+    "updated_at": "2026-08-11T05:43:31Z",
+    "pushed_at": "2026-08-11T05:50:02Z"
+  },
+  {
+    "id": 1331084431,
+    "name": "oss-reuse-radar",
+    "full_name": "Cshu640/oss-reuse-radar",
+    "owner": {
+      "login": "Cshu640",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127908704?v=4"
+    },
+    "description": "Discover, evaluate, and reuse open-source projects instead of rebuilding from scratch.",
+    "topics": [
+      "codex",
+      "developer-tools",
+      "discovery",
+      "github",
+      "gitlab",
+      "huggingface",
+      "npm",
+      "open-source",
+      "oss",
+      "pypi",
+      "rust"
+    ],
+    "html_url": "https://github.com/Cshu640/oss-reuse-radar",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T15:37:31Z",
+    "updated_at": "2026-08-12T09:07:54Z",
+    "pushed_at": "2026-08-12T09:09:17Z"
+  },
+  {
+    "id": 1336442908,
+    "name": "Echelon",
+    "full_name": "jrfrigat/Echelon",
+    "owner": {
+      "login": "jrfrigat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32430634?v=4"
+    },
+    "description": "Release planning and rollout across issue trackers and repositories. Deploy a task, not a branch: Echelon works out everything a task waits on, orders the work into deploy waves, and drives the rollout into each environment. Blazor admin PWA. .NET 10.",
+    "topics": [
+      "aspnetcore",
+      "blazor",
+      "blazor-webassembly",
+      "continuous-delivery",
+      "deployment",
+      "devops",
+      "dotnet",
+      "dotnet-10",
+      "entity-framework-core",
+      "gitlab",
+      "opentelemetry",
+      "orchestration",
+      "postgresql",
+      "rabbitmq",
+      "release-automation",
+      "release-management",
+      "rollout",
+      "sql-server",
+      "yandex-tracker"
+    ],
+    "html_url": "https://github.com/jrfrigat/Echelon",
+    "stargazers_count": 0,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T23:09:19Z",
+    "updated_at": "2026-08-17T08:55:06Z",
+    "pushed_at": "2026-08-17T08:53:51Z"
+  },
+  {
+    "id": 1336207064,
+    "name": "lab-sabadao",
+    "full_name": "departmentofdefenseoverall718/lab-sabadao",
+    "owner": {
+      "login": "departmentofdefenseoverall718",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276141810?v=4"
+    },
+    "description": "Benchmark open LLMs and VLMs with hardware-aware serving tests, three-tier capability evaluation, and an interactive Web UI dashboard.",
+    "topics": [
+      "adversarial-learning",
+      "cli",
+      "cvpr2018",
+      "face-alignment",
+      "facial-landmarks",
+      "gitlab",
+      "gitlab-ci",
+      "gitlab-cli",
+      "guides",
+      "hacktoberfest",
+      "hosting",
+      "lab",
+      "laboratory",
+      "machine-learning",
+      "merge-request",
+      "neural-networks",
+      "setup-guide",
+      "test-framework",
+      "uberlab",
+      "uberspace"
+    ],
+    "html_url": "https://github.com/departmentofdefenseoverall718/lab-sabadao",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T17:49:01Z",
+    "updated_at": "2026-08-17T06:51:58Z",
+    "pushed_at": "2026-08-17T06:51:30Z"
+  },
+  {
+    "id": 1335147954,
+    "name": "gitlab-tech-zh-tw",
+    "full_name": "shumingyang-opencode/gitlab-tech-zh-tw",
+    "owner": {
+      "login": "shumingyang-opencode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/294675341?v=4"
+    },
+    "description": "GitLab 繁中教學站 — 從平台概念到與 GitHub 詳細比較的中英對照教學（含 CI/CD）",
+    "topics": [
+      "devops",
+      "education",
+      "github",
+      "gitlab",
+      "gitlab-ci",
+      "teaching-site",
+      "zh-tw"
+    ],
+    "html_url": "https://github.com/shumingyang-opencode/gitlab-tech-zh-tw",
+    "stargazers_count": 0,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T14:20:50Z",
+    "updated_at": "2026-08-17T12:01:37Z",
+    "pushed_at": "2026-08-17T12:00:28Z"
+  },
+  {
+    "id": 1331052340,
+    "name": "altamiranoi",
+    "full_name": "bormoge/altamiranoi",
+    "owner": {
+      "login": "bormoge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192043292?v=4"
+    },
+    "description": "A repository collector.",
+    "topics": [
+      "codeberg",
+      "github",
+      "gitlab",
+      "python",
+      "python3",
+      "repository"
+    ],
+    "html_url": "https://github.com/bormoge/altamiranoi",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T15:03:30Z",
+    "updated_at": "2026-08-14T17:57:24Z",
+    "pushed_at": "2026-08-14T17:56:53Z"
+  },
+  {
+    "id": 1330382851,
+    "name": "sprinter",
+    "full_name": "vigenere23/sprinter",
+    "owner": {
+      "login": "vigenere23",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32545895?v=4"
+    },
+    "description": "Fastly run a Gitlab runner locally and containerized.",
+    "topics": [
+      "gitlab",
+      "gitlab-runner",
+      "vm"
+    ],
+    "html_url": "https://github.com/vigenere23/sprinter",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-11T01:24:57Z",
+    "updated_at": "2026-08-11T01:27:20Z",
+    "pushed_at": "2026-08-11T01:25:05Z"
+  },
+  {
+    "id": 1337885432,
+    "name": "labfox",
+    "full_name": "labfox-app/labfox",
+    "owner": {
+      "login": "labfox-app",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318080699?v=4"
+    },
+    "description": "A cross-platform GitLab workflow client built with Flutter — merge requests, code review, CI/CD and self-hosted support on Android, iOS, Windows and macOS.",
+    "topics": [
+      "ci-cd",
+      "cross-platform",
+      "dart",
+      "flutter",
+      "gitlab",
+      "gitlab-client",
+      "merge-requests",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/labfox-app/labfox",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-08-18T02:17:10Z",
+    "updated_at": "2026-08-18T02:43:08Z",
+    "pushed_at": "2026-08-18T02:47:48Z"
+  },
+  {
+    "id": 1335363302,
+    "name": "control",
+    "full_name": "odwrotkonrad/control",
+    "owner": {
+      "login": "odwrotkonrad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277278495?v=4"
+    },
+    "description": "Cross-repo automation: prose propagation, dependency graph, regen MRs, local sync.",
+    "topics": [
+      "automation",
+      "ci",
+      "dependency-graph",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/odwrotkonrad/control",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T19:42:35Z",
+    "updated_at": "2026-08-17T13:16:58Z",
+    "pushed_at": "2026-08-17T13:14:09Z"
+  },
+  {
+    "id": 1332146503,
+    "name": "engineering-agent-skills",
+    "full_name": "haoyuqi/engineering-agent-skills",
+    "owner": {
+      "login": "haoyuqi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61276057?v=4"
+    },
+    "description": "Portable, provider-neutral Agent Skills for evidence-first software engineering workflows.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "github-copilot",
+      "gitlab",
+      "opencode",
+      "software-engineering"
+    ],
+    "html_url": "https://github.com/haoyuqi/engineering-agent-skills",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T14:55:11Z",
+    "updated_at": "2026-08-14T10:39:15Z",
+    "pushed_at": "2026-08-14T10:40:00Z"
+  },
+  {
+    "id": 1333005847,
+    "name": "forge-guard",
+    "full_name": "xiongxhc/forge-guard",
+    "owner": {
+      "login": "xiongxhc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21257743?v=4"
+    },
+    "description": "Branch protection, CI quality gate, and advisory AI merge-request review for self-hosted GitLab CE",
+    "topics": [
+      "branch-protection",
+      "ci-cd",
+      "claude",
+      "code-review",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/xiongxhc/forge-guard",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T10:47:35Z",
+    "updated_at": "2026-08-17T12:14:44Z",
+    "pushed_at": "2026-08-17T12:13:42Z"
+  }
+]
