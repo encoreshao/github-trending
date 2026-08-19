@@ -1,0 +1,599 @@
+[
+  {
+    "id": 1338470635,
+    "name": "ip-as-logo-skill",
+    "full_name": "s1dashu/ip-as-logo-skill",
+    "owner": {
+      "login": "s1dashu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129982137?v=4"
+    },
+    "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+    "topics": [
+      "codex",
+      "codex-skill",
+      "image-generation",
+      "logo-design",
+      "mascot-design"
+    ],
+    "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
+    "stargazers_count": 687,
+    "language": null,
+    "forks_count": 25,
+    "open_issues_count": 1,
+    "created_at": "2026-08-18T13:59:23Z",
+    "updated_at": "2026-08-19T02:00:18Z",
+    "pushed_at": "2026-08-18T17:39:10Z"
+  },
+  {
+    "id": 1333362686,
+    "name": "codex-trajectory",
+    "full_name": "icesixgod/codex-trajectory",
+    "owner": {
+      "login": "icesixgod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84966189?v=4"
+    },
+    "description": "Privacy-aware trajectory viewer for local Codex task logs",
+    "topics": [
+      "codex",
+      "codex-plugin",
+      "developer-tools",
+      "mcp",
+      "python",
+      "trajectory",
+      "uv"
+    ],
+    "html_url": "https://github.com/icesixgod/codex-trajectory",
+    "stargazers_count": 212,
+    "language": "Python",
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T17:16:42Z",
+    "updated_at": "2026-08-19T01:58:51Z",
+    "pushed_at": "2026-08-18T08:02:12Z"
+  },
+  {
+    "id": 1332967299,
+    "name": "WakeGPT",
+    "full_name": "Awaker-OTE/WakeGPT",
+    "owner": {
+      "login": "Awaker-OTE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263262888?v=4"
+    },
+    "description": "A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+    "topics": [
+      "chatgpt",
+      "codex",
+      "desktop-app",
+      "local-first",
+      "macos",
+      "markdown",
+      "note-taking",
+      "productivity",
+      "rust",
+      "tauri"
+    ],
+    "html_url": "https://github.com/Awaker-OTE/WakeGPT",
+    "stargazers_count": 169,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T10:02:33Z",
+    "updated_at": "2026-08-16T16:37:35Z",
+    "pushed_at": "2026-08-15T13:23:36Z"
+  },
+  {
+    "id": 1333486649,
+    "name": "deepseek-harness-desktop",
+    "full_name": "ningbainb/deepseek-harness-desktop",
+    "owner": {
+      "login": "ningbainb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53441521?v=4"
+    },
+    "description": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
+    "topics": [
+      "ai-agent",
+      "ai-coding-assistant",
+      "codex",
+      "deepseek",
+      "deepseek-harness",
+      "desktop-app",
+      "dsh",
+      "dsh-plugin",
+      "electron",
+      "electron-app",
+      "gui",
+      "open-source",
+      "plugin-system",
+      "plugins",
+      "remote-access",
+      "skills",
+      "ssh-client",
+      "windows",
+      "windows-desktop"
+    ],
+    "html_url": "https://github.com/ningbainb/deepseek-harness-desktop",
+    "stargazers_count": 124,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 3,
+    "created_at": "2026-08-13T19:50:01Z",
+    "updated_at": "2026-08-19T01:46:43Z",
+    "pushed_at": "2026-08-18T15:21:31Z"
+  },
+  {
+    "id": 1333964468,
+    "name": "dsh-plugin-subscriptions",
+    "full_name": "V1ki/dsh-plugin-subscriptions",
+    "owner": {
+      "login": "V1ki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5071121?v=4"
+    },
+    "description": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+    "topics": [
+      "ai-agent",
+      "chatgpt",
+      "claude",
+      "codex",
+      "deepseek-harness",
+      "dsh-plugin",
+      "grok",
+      "llm",
+      "oauth",
+      "typescript"
+    ],
+    "html_url": "https://github.com/V1ki/dsh-plugin-subscriptions",
+    "stargazers_count": 122,
+    "language": "TypeScript",
+    "forks_count": 8,
+    "open_issues_count": 5,
+    "created_at": "2026-08-14T08:27:11Z",
+    "updated_at": "2026-08-19T01:54:50Z",
+    "pushed_at": "2026-08-18T07:07:40Z"
+  },
+  {
+    "id": 1331901587,
+    "name": "vibepulse",
+    "full_name": "niclasvestlund-YT/vibepulse",
+    "owner": {
+      "login": "niclasvestlund-YT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225483836?v=4"
+    },
+    "description": "A shelf-top AMOLED screen showing your Claude Code & Codex usage, live agent activity, and a NEEDS YOU alert when an agent waits for your input. ESP32-S3 + a pure-stdlib Mac service. Nothing leaves your LAN.",
+    "topics": [
+      "amoled",
+      "claude",
+      "claude-code",
+      "codex",
+      "esp32-s3",
+      "lvgl",
+      "quota-tracker"
+    ],
+    "html_url": "https://github.com/niclasvestlund-YT/vibepulse",
+    "stargazers_count": 120,
+    "language": "C",
+    "forks_count": 20,
+    "open_issues_count": 7,
+    "created_at": "2026-08-12T10:30:31Z",
+    "updated_at": "2026-08-19T00:56:22Z",
+    "pushed_at": "2026-08-17T22:11:33Z"
+  },
+  {
+    "id": 1335823455,
+    "name": "native-subtitle-quote-image",
+    "full_name": "chengyi-ai/native-subtitle-quote-image",
+    "owner": {
+      "login": "chengyi-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252342592?v=4"
+    },
+    "description": "保留视频内嵌字幕，精确取帧并生成 3:4 社交长图的 Agent Skill",
+    "topics": [
+      "agent-skills",
+      "codex",
+      "social-media",
+      "subtitles",
+      "video-processing"
+    ],
+    "html_url": "https://github.com/chengyi-ai/native-subtitle-quote-image",
+    "stargazers_count": 120,
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T10:35:30Z",
+    "updated_at": "2026-08-19T01:58:13Z",
+    "pushed_at": "2026-08-18T08:15:14Z"
+  },
+  {
+    "id": 1332736374,
+    "name": "ASu-resume-skills",
+    "full_name": "Claycui828/ASu-resume-skills",
+    "owner": {
+      "login": "Claycui828",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177595514?v=4"
+    },
+    "description": "阿酥式高密度技术履历生成与证据优先简历审计",
+    "topics": [
+      "ai-agent",
+      "chinese",
+      "codex",
+      "resume",
+      "resume-audit",
+      "skills"
+    ],
+    "html_url": "https://github.com/Claycui828/ASu-resume-skills",
+    "stargazers_count": 114,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 5,
+    "created_at": "2026-08-13T05:27:27Z",
+    "updated_at": "2026-08-18T15:14:24Z",
+    "pushed_at": "2026-08-14T07:48:07Z"
+  },
+  {
+    "id": 1331788336,
+    "name": "repo-context-mcp",
+    "full_name": "nduc99911/repo-context-mcp",
+    "owner": {
+      "login": "nduc99911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67998982?v=4"
+    },
+    "description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
+    "topics": [
+      "ai-agent",
+      "claude",
+      "codex",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/nduc99911/repo-context-mcp",
+    "stargazers_count": 103,
+    "language": "TypeScript",
+    "forks_count": 91,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T08:22:31Z",
+    "updated_at": "2026-08-18T16:06:01Z",
+    "pushed_at": "2026-08-12T09:21:15Z"
+  },
+  {
+    "id": 1331661622,
+    "name": "maintainer-autopilot",
+    "full_name": "phungkaizen/maintainer-autopilot",
+    "owner": {
+      "login": "phungkaizen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223699997?v=4"
+    },
+    "description": "Local-first, resumable AI maintenance pipelines with single-writer safety and deterministic verification.",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "cli",
+      "codex",
+      "developer-tools",
+      "github-actions",
+      "maintainer-autopilot",
+      "open-source"
+    ],
+    "html_url": "https://github.com/phungkaizen/maintainer-autopilot",
+    "stargazers_count": 101,
+    "language": "JavaScript",
+    "forks_count": 94,
+    "open_issues_count": 4,
+    "created_at": "2026-08-12T05:50:20Z",
+    "updated_at": "2026-08-18T04:12:55Z",
+    "pushed_at": "2026-08-12T14:55:24Z"
+  },
+  {
+    "id": 1332683811,
+    "name": "godmode",
+    "full_name": "thiientv/godmode",
+    "owner": {
+      "login": "thiientv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24351705?v=4"
+    },
+    "description": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
+    "topics": [
+      "agent-evaluation",
+      "agent-skills",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "code-review",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "software-engineering",
+      "test-driven-development",
+      "ui-ux",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/thiientv/godmode",
+    "stargazers_count": 89,
+    "language": "Python",
+    "forks_count": 83,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T04:06:22Z",
+    "updated_at": "2026-08-18T04:12:55Z",
+    "pushed_at": "2026-08-18T01:22:59Z"
+  },
+  {
+    "id": 1332249222,
+    "name": "job-application-agent",
+    "full_name": "vaibhavarora14/job-application-agent",
+    "owner": {
+      "login": "vaibhavarora14",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24986539?v=4"
+    },
+    "description": "Privacy-first Codex skill for discovering, validating, completing, and tracking job applications",
+    "topics": [
+      "ai-agent",
+      "automation",
+      "careers",
+      "codex",
+      "job-search"
+    ],
+    "html_url": "https://github.com/vaibhavarora14/job-application-agent",
+    "stargazers_count": 89,
+    "language": "JavaScript",
+    "forks_count": 12,
+    "open_issues_count": 4,
+    "created_at": "2026-08-12T16:45:52Z",
+    "updated_at": "2026-08-19T00:38:31Z",
+    "pushed_at": "2026-08-18T21:55:13Z"
+  },
+  {
+    "id": 1333200468,
+    "name": "dsh-chat-import",
+    "full_name": "Nwflower/dsh-chat-import",
+    "owner": {
+      "login": "Nwflower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105714958?v=4"
+    },
+    "description": "Import 14+ external agent chat histories (Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix, opencode, ZCode, Grok Build, OpenClaw, Pi, Hermes, Kimi CLI, DSH) into DeepSeek Harness as resumable sessions — full-fidelity, reverse export/sync, bundle backup. | 从 Claude Code、Codex、Reasonix 等 Agent 工具导入历史消息到 DeepSeek Harness 并继续对话。",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "automation",
+      "chatgpt",
+      "claude-code",
+      "codex",
+      "cursor",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "gemini",
+      "import",
+      "jsonl",
+      "migration",
+      "openai",
+      "plugin",
+      "sessions",
+      "transcript"
+    ],
+    "html_url": "https://github.com/Nwflower/dsh-chat-import",
+    "stargazers_count": 70,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T14:21:58Z",
+    "updated_at": "2026-08-18T19:10:59Z",
+    "pushed_at": "2026-08-18T14:54:28Z"
+  },
+  {
+    "id": 1337733621,
+    "name": "autoprompt-skill",
+    "full_name": "Spielewoy/autoprompt-skill",
+    "owner": {
+      "login": "Spielewoy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77499101?v=4"
+    },
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "topics": [
+      "agent-orchestration",
+      "agent-skills",
+      "agentic-workflows",
+      "ai-agents",
+      "ai-coding",
+      "automated-testing",
+      "autonomous-agents",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "github-copilot",
+      "multi-agent-systems",
+      "opencode",
+      "prompt-engineering",
+      "subagents",
+      "test-driven-development",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/Spielewoy/autoprompt-skill",
+    "stargazers_count": 67,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T22:40:47Z",
+    "updated_at": "2026-08-19T01:57:13Z",
+    "pushed_at": "2026-08-18T19:08:30Z"
+  },
+  {
+    "id": 1336068061,
+    "name": "dsh-crew",
+    "full_name": "ZSeven-W/dsh-crew",
+    "owner": {
+      "login": "ZSeven-W",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218180147?v=4"
+    },
+    "description": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "mcp",
+      "multimodal",
+      "orchestration",
+      "plugin",
+      "subagent",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ZSeven-W/dsh-crew",
+    "stargazers_count": 59,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-08-16T15:19:41Z",
+    "updated_at": "2026-08-18T14:04:44Z",
+    "pushed_at": "2026-08-17T10:01:28Z"
+  },
+  {
+    "id": 1337303060,
+    "name": "marketing-os",
+    "full_name": "Yuzzyuk/marketing-os",
+    "owner": {
+      "login": "Yuzzyuk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223005005?v=4"
+    },
+    "description": "An entire marketing department as one Claude skill. 14 modules: audits scored 0-100, an 18-tactic hook engine, copy graded before you see it, ad diagnosis, GEO, email, launches, pricing. Works in Claude, Codex and Cursor.",
+    "topics": [
+      "agent-skills",
+      "ai-marketing",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "copywriting",
+      "cro",
+      "cursor",
+      "geo",
+      "marketing",
+      "marketing-skills",
+      "seo"
+    ],
+    "html_url": "https://github.com/Yuzzyuk/marketing-os",
+    "stargazers_count": 55,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T15:05:59Z",
+    "updated_at": "2026-08-19T01:52:38Z",
+    "pushed_at": "2026-08-17T15:06:26Z"
+  },
+  {
+    "id": 1333705619,
+    "name": "im-human",
+    "full_name": "chang416/im-human",
+    "owner": {
+      "login": "chang416",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316575027?v=4"
+    },
+    "description": "讓 AI 用台灣人的繁體中文講話，並把已寫好的文字清掉 AI 味。Claude Code、claude.ai、ChatGPT Codex 與一般聊天都能用。",
+    "topics": [
+      "aiwriting",
+      "chatgpt",
+      "claude-skills",
+      "codex",
+      "prompt-engineering",
+      "taiwan",
+      "traditional-chinese"
+    ],
+    "html_url": "https://github.com/chang416/im-human",
+    "stargazers_count": 54,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T02:14:11Z",
+    "updated_at": "2026-08-17T08:46:31Z",
+    "pushed_at": "2026-08-14T03:43:00Z"
+  },
+  {
+    "id": 1331538751,
+    "name": "herdr-auto-title",
+    "full_name": "sh1ma/herdr-auto-title",
+    "owner": {
+      "login": "sh1ma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22412947?v=4"
+    },
+    "description": "Automatically generate titles for herdr tabs from Claude Code and Codex conversations.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "herdr",
+      "herdr-plugin"
+    ],
+    "html_url": "https://github.com/sh1ma/herdr-auto-title",
+    "stargazers_count": 49,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T02:35:50Z",
+    "updated_at": "2026-08-18T08:48:49Z",
+    "pushed_at": "2026-08-13T03:11:04Z"
+  },
+  {
+    "id": 1335922448,
+    "name": "ownmem",
+    "full_name": "grpcer/ownmem",
+    "owner": {
+      "login": "grpcer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198328395?v=4"
+    },
+    "description": "Local, deterministic, git-native memory for coding agents — one set of Markdown files serves Claude Code, Codex, Gemini CLI, Cursor, and Grok CLI.",
+    "topics": [
+      "agent-memory",
+      "ai-memory",
+      "bm25",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "local-first"
+    ],
+    "html_url": "https://github.com/grpcer/ownmem",
+    "stargazers_count": 49,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T12:45:36Z",
+    "updated_at": "2026-08-19T01:33:44Z",
+    "pushed_at": "2026-08-18T10:15:35Z"
+  },
+  {
+    "id": 1332635704,
+    "name": "codex2wechat",
+    "full_name": "YouXH94/codex2wechat",
+    "owner": {
+      "login": "YouXH94",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271402488?v=4"
+    },
+    "description": "通过微信安全管理本机 Codex｜Control local Codex from WeChat with persistent first-class Threads.",
+    "topics": [
+      "agent-orchestration",
+      "codex",
+      "macos",
+      "remote-control",
+      "sqlite",
+      "typescript",
+      "wechat"
+    ],
+    "html_url": "https://github.com/YouXH94/codex2wechat",
+    "stargazers_count": 48,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T02:48:16Z",
+    "updated_at": "2026-08-18T06:12:01Z",
+    "pushed_at": "2026-08-13T05:42:44Z"
+  }
+]

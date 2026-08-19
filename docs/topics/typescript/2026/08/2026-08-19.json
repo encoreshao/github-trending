@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1332080070,
+    "name": "anti-slop",
+    "full_name": "dmmulroy/anti-slop",
+    "owner": {
+      "login": "dmmulroy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2755722?v=4"
+    },
+    "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+    "topics": [
+      "agent-skills",
+      "linting",
+      "oxlint",
+      "typescript"
+    ],
+    "html_url": "https://github.com/dmmulroy/anti-slop",
+    "stargazers_count": 2644,
+    "language": "TypeScript",
+    "forks_count": 47,
+    "open_issues_count": 2,
+    "created_at": "2026-08-12T13:48:50Z",
+    "updated_at": "2026-08-19T01:42:35Z",
+    "pushed_at": "2026-08-18T13:21:06Z"
+  },
+  {
+    "id": 1332781509,
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "owner": {
+      "login": "elie222",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3090527?v=4"
+    },
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "html_url": "https://github.com/elie222/rakazo",
+    "stargazers_count": 854,
+    "language": "TypeScript",
+    "forks_count": 107,
+    "open_issues_count": 18,
+    "created_at": "2026-08-13T06:28:56Z",
+    "updated_at": "2026-08-19T01:57:50Z",
+    "pushed_at": "2026-08-19T00:05:39Z"
+  },
+  {
+    "id": 1333100071,
+    "name": "dsh-vision-toolkit",
+    "full_name": "Anionex/dsh-vision-toolkit",
+    "owner": {
+      "login": "Anionex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123177548?v=4"
+    },
+    "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+    "topics": [
+      "agent-skills",
+      "agent-vision-toolkit",
+      "computer-vision",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "gui-automation",
+      "ocr",
+      "plugin",
+      "python",
+      "screenshot-testing",
+      "text-only-llm",
+      "typescript",
+      "ui-restoration",
+      "vision-language-model",
+      "vision-tools"
+    ],
+    "html_url": "https://github.com/Anionex/dsh-vision-toolkit",
+    "stargazers_count": 703,
+    "language": "TypeScript",
+    "forks_count": 31,
+    "open_issues_count": 6,
+    "created_at": "2026-08-13T12:36:34Z",
+    "updated_at": "2026-08-19T01:35:38Z",
+    "pushed_at": "2026-08-18T19:23:29Z"
+  },
+  {
+    "id": 1333556422,
+    "name": "agent-safe-pipeline",
+    "full_name": "decionis/agent-safe-pipeline",
+    "owner": {
+      "login": "decionis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289489188?v=4"
+    },
+    "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+    "topics": [
+      "agentic-ai",
+      "ai-agent-permissions",
+      "ai-agents",
+      "ai-governance",
+      "ai-safety",
+      "authorization",
+      "decionis",
+      "human-in-the-loop",
+      "mcp",
+      "policy-as-code",
+      "reference-architecture",
+      "typescript"
+    ],
+    "html_url": "https://github.com/decionis/agent-safe-pipeline",
+    "stargazers_count": 533,
+    "language": "TypeScript",
+    "forks_count": 58,
+    "open_issues_count": 10,
+    "created_at": "2026-08-13T21:36:19Z",
+    "updated_at": "2026-08-18T23:32:28Z",
+    "pushed_at": "2026-08-17T21:37:07Z"
+  },
+  {
+    "id": 1333000741,
+    "name": "deepseek-harness-desktop-app",
+    "full_name": "vibeinging/deepseek-harness-desktop-app",
+    "owner": {
+      "login": "vibeinging",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8122332?v=4"
+    },
+    "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+    "topics": [
+      "agentic-workflows",
+      "ai-agent",
+      "ai-workbench",
+      "data-analysis",
+      "deepseek-harness",
+      "desktop-app",
+      "dsh",
+      "dsh-plugin",
+      "electron",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "office-automation",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
+    "stargazers_count": 487,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 6,
+    "created_at": "2026-08-13T10:41:33Z",
+    "updated_at": "2026-08-19T01:07:00Z",
+    "pushed_at": "2026-08-15T08:56:28Z"
+  },
+  {
+    "id": 1335104760,
+    "name": "bloub",
+    "full_name": "jeremy-prt/bloub",
+    "owner": {
+      "login": "jeremy-prt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57547133?v=4"
+    },
+    "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+    "topics": [
+      "animation",
+      "avatar",
+      "morphing",
+      "svg",
+      "svg-animation",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/jeremy-prt/bloub",
+    "stargazers_count": 412,
+    "language": "TypeScript",
+    "forks_count": 41,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T13:21:23Z",
+    "updated_at": "2026-08-19T01:36:47Z",
+    "pushed_at": "2026-08-17T19:18:48Z"
+  },
+  {
+    "id": 1336793734,
+    "name": "pilot-harness",
+    "full_name": "op7418/pilot-harness",
+    "owner": {
+      "login": "op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "description": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+    "topics": [
+      "ai-agent",
+      "codepilot",
+      "deepseek",
+      "deepseek-harness",
+      "desktop-app",
+      "dsh",
+      "dsh-plugin",
+      "electron",
+      "linux",
+      "macos",
+      "typescript",
+      "windows"
+    ],
+    "html_url": "https://github.com/op7418/pilot-harness",
+    "stargazers_count": 180,
+    "language": "TypeScript",
+    "forks_count": 10,
+    "open_issues_count": 6,
+    "created_at": "2026-08-17T06:56:42Z",
+    "updated_at": "2026-08-19T01:59:39Z",
+    "pushed_at": "2026-08-18T15:40:45Z"
+  },
+  {
+    "id": 1335127844,
+    "name": "anime-find",
+    "full_name": "cocofhu/anime-find",
+    "owner": {
+      "login": "cocofhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43171452?v=4"
+    },
+    "description": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
+    "topics": [
+      "anime",
+      "anime-search",
+      "bangumi",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "magnet",
+      "mikan",
+      "plugin",
+      "torrent",
+      "typescript"
+    ],
+    "html_url": "https://github.com/cocofhu/anime-find",
+    "stargazers_count": 146,
+    "language": "TypeScript",
+    "forks_count": 31,
+    "open_issues_count": 1,
+    "created_at": "2026-08-15T13:53:46Z",
+    "updated_at": "2026-08-18T17:00:19Z",
+    "pushed_at": "2026-08-18T03:51:56Z"
+  },
+  {
+    "id": 1335351545,
+    "name": "router",
+    "full_name": "anonrig/router",
+    "owner": {
+      "login": "anonrig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1935246?v=4"
+    },
+    "description": "The TanStack Router API. Rebuilt for the hot path.",
+    "topics": [
+      "react",
+      "react19",
+      "router",
+      "ssr",
+      "tanstack",
+      "typescript"
+    ],
+    "html_url": "https://github.com/anonrig/router",
+    "stargazers_count": 144,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 5,
+    "created_at": "2026-08-15T19:21:18Z",
+    "updated_at": "2026-08-19T01:52:31Z",
+    "pushed_at": "2026-08-19T01:56:37Z"
+  },
+  {
+    "id": 1335434949,
+    "name": "procedural-sounds",
+    "full_name": "m1ckc3s/procedural-sounds",
+    "owner": {
+      "login": "m1ckc3s",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108453477?v=4"
+    },
+    "description": "Procedural interface sounds, with taste. Generated live in the browser from recipes, steered by a hand-curated library and calibrated by ear. No audio files. Beta, open to collaborators.",
+    "topics": [
+      "design-tools",
+      "generative-audio",
+      "interface-design",
+      "microinteractions",
+      "nextjs",
+      "open-source",
+      "procedural-audio",
+      "react",
+      "sound-design",
+      "synthesizer",
+      "tailwindcss",
+      "typescript",
+      "ui-sounds",
+      "ux",
+      "web-audio",
+      "web-audio-api"
+    ],
+    "html_url": "https://github.com/m1ckc3s/procedural-sounds",
+    "stargazers_count": 135,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T21:36:23Z",
+    "updated_at": "2026-08-18T23:19:00Z",
+    "pushed_at": "2026-08-18T05:05:08Z"
+  },
+  {
+    "id": 1333964468,
+    "name": "dsh-plugin-subscriptions",
+    "full_name": "V1ki/dsh-plugin-subscriptions",
+    "owner": {
+      "login": "V1ki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5071121?v=4"
+    },
+    "description": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+    "topics": [
+      "ai-agent",
+      "chatgpt",
+      "claude",
+      "codex",
+      "deepseek-harness",
+      "dsh-plugin",
+      "grok",
+      "llm",
+      "oauth",
+      "typescript"
+    ],
+    "html_url": "https://github.com/V1ki/dsh-plugin-subscriptions",
+    "stargazers_count": 122,
+    "language": "TypeScript",
+    "forks_count": 8,
+    "open_issues_count": 5,
+    "created_at": "2026-08-14T08:27:11Z",
+    "updated_at": "2026-08-19T01:54:50Z",
+    "pushed_at": "2026-08-18T07:07:40Z"
+  },
+  {
+    "id": 1332604484,
+    "name": "oss-pr-reviewer",
+    "full_name": "vuphongle/oss-pr-reviewer",
+    "owner": {
+      "login": "vuphongle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121505503?v=4"
+    },
+    "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+    "topics": [
+      "ai",
+      "cli",
+      "code-review",
+      "developer-tools",
+      "github",
+      "llm",
+      "maintainer-tools",
+      "open-source",
+      "pull-request",
+      "typescript"
+    ],
+    "html_url": "https://github.com/vuphongle/oss-pr-reviewer",
+    "stargazers_count": 111,
+    "language": "TypeScript",
+    "forks_count": 97,
+    "open_issues_count": 7,
+    "created_at": "2026-08-13T01:59:03Z",
+    "updated_at": "2026-08-18T16:34:28Z",
+    "pushed_at": "2026-08-13T05:09:43Z"
+  },
+  {
+    "id": 1333247282,
+    "name": "anysearch-dsh",
+    "full_name": "anysearch-team/anysearch-dsh",
+    "owner": {
+      "login": "anysearch-team",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316589933?v=4"
+    },
+    "description": "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)",
+    "topics": [
+      "agent-tools",
+      "anysearch",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "typescript",
+      "web-search"
+    ],
+    "html_url": "https://github.com/anysearch-team/anysearch-dsh",
+    "stargazers_count": 110,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T15:10:10Z",
+    "updated_at": "2026-08-19T01:44:26Z",
+    "pushed_at": "2026-08-17T07:55:54Z"
+  },
+  {
+    "id": 1334167430,
+    "name": "dsh-noema",
+    "full_name": "ZSeven-W/dsh-noema",
+    "owner": {
+      "login": "ZSeven-W",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218180147?v=4"
+    },
+    "description": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "coding-agent",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "long-term-memory",
+      "mcp",
+      "memory",
+      "noema",
+      "plugin",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ZSeven-W/dsh-noema",
+    "stargazers_count": 109,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 2,
+    "created_at": "2026-08-14T12:38:51Z",
+    "updated_at": "2026-08-18T15:41:58Z",
+    "pushed_at": "2026-08-15T06:05:30Z"
+  },
+  {
+    "id": 1332868730,
+    "name": "agentic-playwright",
+    "full_name": "idavidov13/agentic-playwright",
+    "owner": {
+      "login": "idavidov13",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118520300?v=4"
+    },
+    "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
+    "topics": [
+      "agentic",
+      "ai",
+      "api-testing",
+      "claude-code",
+      "cursor",
+      "e2e",
+      "github-copilot",
+      "playwright",
+      "test-automation",
+      "testing",
+      "typescript"
+    ],
+    "html_url": "https://github.com/idavidov13/agentic-playwright",
+    "stargazers_count": 107,
+    "language": "Python",
+    "forks_count": 27,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T08:12:20Z",
+    "updated_at": "2026-08-18T16:20:28Z",
+    "pushed_at": "2026-08-13T13:09:18Z"
+  },
+  {
+    "id": 1331788336,
+    "name": "repo-context-mcp",
+    "full_name": "nduc99911/repo-context-mcp",
+    "owner": {
+      "login": "nduc99911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67998982?v=4"
+    },
+    "description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
+    "topics": [
+      "ai-agent",
+      "claude",
+      "codex",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/nduc99911/repo-context-mcp",
+    "stargazers_count": 103,
+    "language": "TypeScript",
+    "forks_count": 91,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T08:22:31Z",
+    "updated_at": "2026-08-18T16:06:01Z",
+    "pushed_at": "2026-08-12T09:21:15Z"
+  },
+  {
+    "id": 1331633455,
+    "name": "small-pos-open-source",
+    "full_name": "longnick/small-pos-open-source",
+    "owner": {
+      "login": "longnick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14255878?v=4"
+    },
+    "description": "Offline-first POS starter for small cafés and restaurants",
+    "topics": [
+      "fnb",
+      "offline-first",
+      "open-source",
+      "point-of-sale",
+      "pos",
+      "react",
+      "restaurant",
+      "restaurant-management",
+      "typescript"
+    ],
+    "html_url": "https://github.com/longnick/small-pos-open-source",
+    "stargazers_count": 94,
+    "language": "TypeScript",
+    "forks_count": 90,
+    "open_issues_count": 2,
+    "created_at": "2026-08-12T05:10:15Z",
+    "updated_at": "2026-08-18T15:39:55Z",
+    "pushed_at": "2026-08-18T12:02:14Z"
+  },
+  {
+    "id": 1334766747,
+    "name": "dsh-agent-team-gui",
+    "full_name": "toolclub/dsh-agent-team-gui",
+    "owner": {
+      "login": "toolclub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266060413?v=4"
+    },
+    "description": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
+    "topics": [
+      "agent",
+      "agent-orchestration",
+      "ai-agents",
+      "dag",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "multi-agent",
+      "multi-model",
+      "orchestration",
+      "react",
+      "token-usage",
+      "typescript",
+      "workflow-engine"
+    ],
+    "html_url": "https://github.com/toolclub/dsh-agent-team-gui",
+    "stargazers_count": 74,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-08-15T03:40:19Z",
+    "updated_at": "2026-08-19T01:51:58Z",
+    "pushed_at": "2026-08-19T01:51:50Z"
+  },
+  {
+    "id": 1334118559,
+    "name": "dsh-commandcode-provider",
+    "full_name": "Mars-Sea/dsh-commandcode-provider",
+    "owner": {
+      "login": "Mars-Sea",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33591741?v=4"
+    },
+    "description": "Unofficial DeepSeek Harness LLM provider plugin for Command Code: live model catalog, reasoning-effort support, Models-page card. Ported from pi-commandcode-provider (MIT).",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "llm",
+      "llm-provider",
+      "npm",
+      "plugin",
+      "provider",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Mars-Sea/dsh-commandcode-provider",
+    "stargazers_count": 60,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T11:38:54Z",
+    "updated_at": "2026-08-18T18:34:27Z",
+    "pushed_at": "2026-08-18T12:08:14Z"
+  },
+  {
+    "id": 1336068061,
+    "name": "dsh-crew",
+    "full_name": "ZSeven-W/dsh-crew",
+    "owner": {
+      "login": "ZSeven-W",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218180147?v=4"
+    },
+    "description": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "mcp",
+      "multimodal",
+      "orchestration",
+      "plugin",
+      "subagent",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ZSeven-W/dsh-crew",
+    "stargazers_count": 59,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-08-16T15:19:41Z",
+    "updated_at": "2026-08-18T14:04:44Z",
+    "pushed_at": "2026-08-17T10:01:28Z"
+  }
+]

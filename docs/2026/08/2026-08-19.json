@@ -1,0 +1,479 @@
+[
+  {
+    "id": 1333065091,
+    "name": "deepseek-harness",
+    "full_name": "deepseek-ai/deepseek-harness",
+    "owner": {
+      "login": "deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "description": "DeepSeek Harness: Everything is a Plugin.",
+    "topics": [
+      "ai-agents",
+      "cordis",
+      "dsh",
+      "dsh-plugin"
+    ],
+    "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+    "stargazers_count": 160970,
+    "language": "TypeScript",
+    "forks_count": 16887,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T11:56:32Z",
+    "updated_at": "2026-08-19T01:59:54Z",
+    "pushed_at": "2026-08-17T12:01:58Z"
+  },
+  {
+    "id": 1333321333,
+    "name": "deepseek-harness-desktop",
+    "full_name": "anywhere-labs/deepseek-harness-desktop",
+    "owner": {
+      "login": "anywhere-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286827603?v=4"
+    },
+    "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+    "topics": [
+      "cordis",
+      "cordis-plugin",
+      "deepseek",
+      "deepseek-harness",
+      "desktop",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-desktop"
+    ],
+    "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+    "stargazers_count": 13733,
+    "language": "TypeScript",
+    "forks_count": 618,
+    "open_issues_count": 142,
+    "created_at": "2026-08-13T16:30:50Z",
+    "updated_at": "2026-08-19T01:59:23Z",
+    "pushed_at": "2026-08-18T23:23:43Z"
+  },
+  {
+    "id": 1333175049,
+    "name": "awesome-dsh-plugin",
+    "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+    "owner": {
+      "login": "awesome-dsh-plugin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316603077?v=4"
+    },
+    "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin"
+    ],
+    "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+    "stargazers_count": 8996,
+    "language": "Python",
+    "forks_count": 1316,
+    "open_issues_count": 191,
+    "created_at": "2026-08-13T13:55:31Z",
+    "updated_at": "2026-08-19T01:59:27Z",
+    "pushed_at": "2026-08-19T01:21:09Z"
+  },
+  {
+    "id": 1334586481,
+    "name": "dsh-routing-suite",
+    "full_name": "yjh051108/dsh-routing-suite",
+    "owner": {
+      "login": "yjh051108",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195255374?v=4"
+    },
+    "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+    "topics": [],
+    "html_url": "https://github.com/yjh051108/dsh-routing-suite",
+    "stargazers_count": 6064,
+    "language": "PowerShell",
+    "forks_count": 105,
+    "open_issues_count": 45,
+    "created_at": "2026-08-14T21:20:55Z",
+    "updated_at": "2026-08-19T01:54:00Z",
+    "pushed_at": "2026-08-17T16:58:53Z"
+  },
+  {
+    "id": 1331636953,
+    "name": "dsh-web-ui",
+    "full_name": "zhu1090093659/dsh-web-ui",
+    "owner": {
+      "login": "zhu1090093659",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46916148?v=4"
+    },
+    "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/zhu1090093659/dsh-web-ui",
+    "stargazers_count": 4601,
+    "language": "TypeScript",
+    "forks_count": 274,
+    "open_issues_count": 32,
+    "created_at": "2026-08-12T05:15:20Z",
+    "updated_at": "2026-08-19T01:59:20Z",
+    "pushed_at": "2026-08-19T01:34:40Z"
+  },
+  {
+    "id": 1334245678,
+    "name": "dsh-anchored-standard",
+    "full_name": "xiaobright/dsh-anchored-standard",
+    "owner": {
+      "login": "xiaobright",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104243166?v=4"
+    },
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "llm-agent"
+    ],
+    "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "stargazers_count": 3569,
+    "language": "JavaScript",
+    "forks_count": 107,
+    "open_issues_count": 27,
+    "created_at": "2026-08-14T14:06:39Z",
+    "updated_at": "2026-08-19T01:59:38Z",
+    "pushed_at": "2026-08-17T06:19:58Z"
+  },
+  {
+    "id": 1332080070,
+    "name": "anti-slop",
+    "full_name": "dmmulroy/anti-slop",
+    "owner": {
+      "login": "dmmulroy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2755722?v=4"
+    },
+    "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+    "topics": [
+      "agent-skills",
+      "linting",
+      "oxlint",
+      "typescript"
+    ],
+    "html_url": "https://github.com/dmmulroy/anti-slop",
+    "stargazers_count": 2644,
+    "language": "TypeScript",
+    "forks_count": 47,
+    "open_issues_count": 2,
+    "created_at": "2026-08-12T13:48:50Z",
+    "updated_at": "2026-08-19T01:42:35Z",
+    "pushed_at": "2026-08-18T13:21:06Z"
+  },
+  {
+    "id": 1336933337,
+    "name": "cumora",
+    "full_name": "yetone/cumora",
+    "owner": {
+      "login": "yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+    },
+    "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+    "topics": [],
+    "html_url": "https://github.com/yetone/cumora",
+    "stargazers_count": 2409,
+    "language": "TypeScript",
+    "forks_count": 264,
+    "open_issues_count": 10,
+    "created_at": "2026-08-17T09:13:52Z",
+    "updated_at": "2026-08-19T01:57:17Z",
+    "pushed_at": "2026-08-18T17:57:10Z"
+  },
+  {
+    "id": 1332959628,
+    "name": "paper",
+    "full_name": "cordiverse/paper",
+    "owner": {
+      "login": "cordiverse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152786899?v=4"
+    },
+    "description": "A Programming Paradigm for Spatiotemporal Composability",
+    "topics": [],
+    "html_url": "https://github.com/cordiverse/paper",
+    "stargazers_count": 2303,
+    "language": null,
+    "forks_count": 97,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T09:53:33Z",
+    "updated_at": "2026-08-19T01:52:04Z",
+    "pushed_at": "2026-08-13T12:54:03Z"
+  },
+  {
+    "id": 1333111893,
+    "name": "dsh-TUI",
+    "full_name": "ccch1mneyyy/dsh-TUI",
+    "owner": {
+      "login": "ccch1mneyyy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268149062?v=4"
+    },
+    "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+    "topics": [
+      "claude-code",
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "ink",
+      "react",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/ccch1mneyyy/dsh-TUI",
+    "stargazers_count": 1983,
+    "language": "TypeScript",
+    "forks_count": 88,
+    "open_issues_count": 71,
+    "created_at": "2026-08-13T12:49:31Z",
+    "updated_at": "2026-08-19T01:59:39Z",
+    "pushed_at": "2026-08-19T01:59:48Z"
+  },
+  {
+    "id": 1333170396,
+    "name": "skitter-creek-bath-salts",
+    "full_name": "xoreaxeaxeax/skitter-creek-bath-salts",
+    "owner": {
+      "login": "xoreaxeaxeax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12904366?v=4"
+    },
+    "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+    "topics": [],
+    "html_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "stargazers_count": 1826,
+    "language": "C",
+    "forks_count": 147,
+    "open_issues_count": 6,
+    "created_at": "2026-08-13T13:50:42Z",
+    "updated_at": "2026-08-19T00:57:20Z",
+    "pushed_at": "2026-08-13T16:59:41Z"
+  },
+  {
+    "id": 1333123776,
+    "name": "dsh-deep-whale",
+    "full_name": "Small-tailqwq/dsh-deep-whale",
+    "owner": {
+      "login": "Small-tailqwq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56996438?v=4"
+    },
+    "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+    "topics": [
+      "dsh",
+      "dsh-plugin"
+    ],
+    "html_url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+    "stargazers_count": 1384,
+    "language": "TypeScript",
+    "forks_count": 45,
+    "open_issues_count": 28,
+    "created_at": "2026-08-13T13:02:14Z",
+    "updated_at": "2026-08-19T01:59:22Z",
+    "pushed_at": "2026-08-18T14:45:20Z"
+  },
+  {
+    "id": 1331728719,
+    "name": "ASu-skills",
+    "full_name": "Hisn00w/ASu-skills",
+    "owner": {
+      "login": "Hisn00w",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212549348?v=4"
+    },
+    "description": "简历包装",
+    "topics": [],
+    "html_url": "https://github.com/Hisn00w/ASu-skills",
+    "stargazers_count": 1355,
+    "language": "HTML",
+    "forks_count": 105,
+    "open_issues_count": 41,
+    "created_at": "2026-08-12T07:12:05Z",
+    "updated_at": "2026-08-19T01:58:11Z",
+    "pushed_at": "2026-08-14T13:36:59Z"
+  },
+  {
+    "id": 1333135492,
+    "name": "book-to-skill",
+    "full_name": "Leutenegger/book-to-skill",
+    "owner": {
+      "login": "Leutenegger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265765261?v=4"
+    },
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "topics": [
+      "agent",
+      "agent-memory",
+      "agent-skill",
+      "agent-skills",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "github-copilot",
+      "pdf",
+      "pdf-document",
+      "pdf-generation",
+      "pdf-parser",
+      "pdf-tools",
+      "pdf-viewer",
+      "skill-generator"
+    ],
+    "html_url": "https://github.com/Leutenegger/book-to-skill",
+    "stargazers_count": 1193,
+    "language": "Python",
+    "forks_count": 142,
+    "open_issues_count": 2,
+    "created_at": "2026-08-13T13:15:23Z",
+    "updated_at": "2026-08-19T01:54:30Z",
+    "pushed_at": "2026-08-14T11:41:40Z"
+  },
+  {
+    "id": 1337089243,
+    "name": "northcinder",
+    "full_name": "jdshfhds/northcinder",
+    "owner": {
+      "login": "jdshfhds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150383880?v=4"
+    },
+    "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+    "topics": [],
+    "html_url": "https://github.com/jdshfhds/northcinder",
+    "stargazers_count": 1158,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T11:42:31Z",
+    "updated_at": "2026-08-19T00:42:45Z",
+    "pushed_at": "2026-08-17T11:42:37Z"
+  },
+  {
+    "id": 1333807290,
+    "name": "dsh-market",
+    "full_name": "dsh-market/dsh-market",
+    "owner": {
+      "login": "dsh-market",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316826596?v=4"
+    },
+    "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+    "topics": [
+      "deepseek-harness",
+      "dsh-plugin",
+      "marketplace"
+    ],
+    "html_url": "https://github.com/dsh-market/dsh-market",
+    "stargazers_count": 1062,
+    "language": "TypeScript",
+    "forks_count": 68,
+    "open_issues_count": 18,
+    "created_at": "2026-08-14T04:58:15Z",
+    "updated_at": "2026-08-19T01:59:19Z",
+    "pushed_at": "2026-08-19T01:16:14Z"
+  },
+  {
+    "id": 1333742677,
+    "name": "deepseek-harness-orange-book",
+    "full_name": "alchaincyf/deepseek-harness-orange-book",
+    "owner": {
+      "login": "alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+    "topics": [],
+    "html_url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+    "stargazers_count": 1032,
+    "language": "HTML",
+    "forks_count": 95,
+    "open_issues_count": 6,
+    "created_at": "2026-08-14T03:14:33Z",
+    "updated_at": "2026-08-19T01:46:04Z",
+    "pushed_at": "2026-08-17T13:09:21Z"
+  },
+  {
+    "id": 1335867536,
+    "name": "DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "full_name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "owner": {
+      "login": "Tiger3807861189",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307182956?v=4"
+    },
+    "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "benchmark",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin"
+    ],
+    "html_url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "stargazers_count": 1000,
+    "language": null,
+    "forks_count": 61,
+    "open_issues_count": 12,
+    "created_at": "2026-08-16T11:38:42Z",
+    "updated_at": "2026-08-19T01:56:48Z",
+    "pushed_at": "2026-08-18T15:50:43Z"
+  },
+  {
+    "id": 1333165619,
+    "name": "dsh-desktop",
+    "full_name": "dataelement/dsh-desktop",
+    "owner": {
+      "login": "dataelement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103249391?v=4"
+    },
+    "description": "DeepSeek Harness Desktop",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "desktop",
+      "dsh-plugins"
+    ],
+    "html_url": "https://github.com/dataelement/dsh-desktop",
+    "stargazers_count": 947,
+    "language": "TypeScript",
+    "forks_count": 85,
+    "open_issues_count": 41,
+    "created_at": "2026-08-13T13:45:50Z",
+    "updated_at": "2026-08-19T01:52:56Z",
+    "pushed_at": "2026-08-18T11:35:40Z"
+  },
+  {
+    "id": 1333884889,
+    "name": "zsvirt",
+    "full_name": "ZSvirt/zsvirt",
+    "owner": {
+      "login": "ZSvirt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312406847?v=4"
+    },
+    "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+    "topics": [
+      "cloud-native",
+      "hypervisor",
+      "infrastructure",
+      "kvm",
+      "proxmox",
+      "virtual-machine",
+      "virtualization",
+      "vm",
+      "vmware-labs",
+      "vsphere"
+    ],
+    "html_url": "https://github.com/ZSvirt/zsvirt",
+    "stargazers_count": 921,
+    "language": "Java",
+    "forks_count": 132,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T06:47:26Z",
+    "updated_at": "2026-08-19T00:23:46Z",
+    "pushed_at": "2026-08-18T02:38:16Z"
+  }
+]

@@ -1,0 +1,568 @@
+[
+  {
+    "id": 1337013983,
+    "name": "model-alpha",
+    "full_name": "Kann-Audits/model-alpha",
+    "owner": {
+      "login": "Kann-Audits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196110563?v=4"
+    },
+    "description": "Solidity contract auditor: bundled JavaScript call-graph extractor (@solidity-parser/parser) plus a stdlib Python CLI that POSTs each function to a Model Alpha audit endpoint.",
+    "topics": [
+      "ai-agent",
+      "call-graph",
+      "claude",
+      "codex",
+      "hermes",
+      "security",
+      "smart-contracts",
+      "solidity",
+      "vulnerability-detection"
+    ],
+    "html_url": "https://github.com/Kann-Audits/model-alpha",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T10:30:59Z",
+    "updated_at": "2026-08-17T18:26:02Z",
+    "pushed_at": "2026-08-17T16:52:56Z"
+  },
+  {
+    "id": 1334016644,
+    "name": "dsh-tool-search",
+    "full_name": "Letter2025/dsh-tool-search",
+    "owner": {
+      "login": "Letter2025",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51317988?v=4"
+    },
+    "description": "Tool search & slimming for DeepSeek Harness: Hermes-style progressive disclosure — search, describe, and call long-tail tools on demand",
+    "topics": [
+      "dsh-plugin",
+      "hermes",
+      "tool-search"
+    ],
+    "html_url": "https://github.com/Letter2025/dsh-tool-search",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-14T09:30:29Z",
+    "updated_at": "2026-08-17T00:01:14Z",
+    "pushed_at": "2026-08-14T10:20:59Z"
+  },
+  {
+    "id": 1334837201,
+    "name": "hermes-noir-vazirmatn-theme",
+    "full_name": "mshojaei77/hermes-noir-vazirmatn-theme",
+    "owner": {
+      "login": "mshojaei77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76538971?v=4"
+    },
+    "description": "Dark neutral theme plugin for Hermes Desktop with Vazirmatn typography",
+    "topics": [
+      "dark-theme",
+      "desktop-theme",
+      "hermes",
+      "hermes-agent",
+      "hermes-desktop",
+      "hermes-plugin",
+      "hermes-theme"
+    ],
+    "html_url": "https://github.com/mshojaei77/hermes-noir-vazirmatn-theme",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T06:07:15Z",
+    "updated_at": "2026-08-15T20:33:02Z",
+    "pushed_at": "2026-08-15T07:46:17Z"
+  },
+  {
+    "id": 1334891472,
+    "name": "opencode-acpx",
+    "full_name": "intellectronica/opencode-acpx",
+    "owner": {
+      "login": "intellectronica",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46264?v=4"
+    },
+    "description": "Use Cursor, Claude, Codex, Grok, Hermes and other ACP agents as OpenCode providers",
+    "topics": [
+      "acp",
+      "acpx",
+      "agent-client-protocol",
+      "claude",
+      "codex",
+      "cursor",
+      "grok",
+      "hermes",
+      "opencode"
+    ],
+    "html_url": "https://github.com/intellectronica/opencode-acpx",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T07:39:26Z",
+    "updated_at": "2026-08-18T18:57:55Z",
+    "pushed_at": "2026-08-15T16:38:55Z"
+  },
+  {
+    "id": 1334368364,
+    "name": "unified-agent-memory",
+    "full_name": "Noelune/unified-agent-memory",
+    "owner": {
+      "login": "Noelune",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224558373?v=4"
+    },
+    "description": "Unified fleet-wide agent memory system for DeepSeek Harness — shared Obsidian Vault for dsh, Codex, Claude Code & Hermes with dependency-free Python FTS5 core.",
+    "topics": [
+      "agent-memory",
+      "claude-code",
+      "codex",
+      "deepseek-harness",
+      "dsh-plugin",
+      "hermes",
+      "knowledge-base",
+      "multi-agent",
+      "obsidian",
+      "sqlite-fts5"
+    ],
+    "html_url": "https://github.com/Noelune/unified-agent-memory",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-14T16:23:53Z",
+    "updated_at": "2026-08-18T07:58:25Z",
+    "pushed_at": "2026-08-15T13:28:56Z"
+  },
+  {
+    "id": 1332044433,
+    "name": "finam-hermes-trading-bot",
+    "full_name": "pzzz404/finam-hermes-trading-bot",
+    "owner": {
+      "login": "pzzz404",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222678219?v=4"
+    },
+    "description": "Герман (Herman) is an AI trading agent built on Hermes and tested for two months at Finam Arena with risk controls, learning loops, and guarded execution.",
+    "topics": [
+      "ai-agents",
+      "algorithmic-trading",
+      "finam",
+      "finam-api",
+      "fintech",
+      "hermes",
+      "market-data",
+      "paper-trading",
+      "python",
+      "quantitative-finance",
+      "risk-management",
+      "systemd",
+      "telegram-bot",
+      "trading-bot"
+    ],
+    "html_url": "https://github.com/pzzz404/finam-hermes-trading-bot",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T13:12:03Z",
+    "updated_at": "2026-08-13T11:33:54Z",
+    "pushed_at": "2026-08-13T11:33:32Z"
+  },
+  {
+    "id": 1334368080,
+    "name": "dsh-agent-relay",
+    "full_name": "Noelune/dsh-agent-relay",
+    "owner": {
+      "login": "Noelune",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224558373?v=4"
+    },
+    "description": "Local multi-agent collaboration relay for DeepSeek Harness — HMAC-authenticated loopback message broker for dsh, Codex, Claude Code & Hermes.",
+    "topics": [
+      "agent-collaboration",
+      "claude-code",
+      "codex",
+      "deepseek-harness",
+      "dsh-plugin",
+      "hermes",
+      "hmac-auth",
+      "message-broker",
+      "multi-agent",
+      "wire-protocol"
+    ],
+    "html_url": "https://github.com/Noelune/dsh-agent-relay",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-08-14T16:23:33Z",
+    "updated_at": "2026-08-16T00:59:01Z",
+    "pushed_at": "2026-08-16T00:58:57Z"
+  },
+  {
+    "id": 1334174557,
+    "name": "dsh-plugin-development",
+    "full_name": "RayYeung1989/dsh-plugin-development",
+    "owner": {
+      "login": "RayYeung1989",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6646654?v=4"
+    },
+    "description": "通用 dsh 插件开发 Skill：任何 agent 工具加载即会开发符合 DeepSeek Harness 的 dsh 插件 (Agent-tool-agnostic SKILL.md for developing DeepSeek Harness dsh plugins)",
+    "topics": [
+      "agent",
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "cordis",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "hermes",
+      "openclaw",
+      "plugin",
+      "skill"
+    ],
+    "html_url": "https://github.com/RayYeung1989/dsh-plugin-development",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T12:46:42Z",
+    "updated_at": "2026-08-15T00:59:15Z",
+    "pushed_at": "2026-08-14T12:46:47Z"
+  },
+  {
+    "id": 1334275598,
+    "name": "agent-federation-platform",
+    "full_name": "TaxolYang0000/agent-federation-platform",
+    "owner": {
+      "login": "TaxolYang0000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215676070?v=4"
+    },
+    "description": "Federate any AI coding agents — DSH, Codex, Claude Code, custom drivers — under one orchestration layer via a shared kanban queue: cross-agent review, tiered multi-agent debate, human-in-the-loop approval. A generic federation platform that works with any host agent as orchestrator — bring your own, we provide the federation.",
+    "topics": [
+      "agent-orchestration",
+      "ai-agent",
+      "automation",
+      "collaboration",
+      "debate",
+      "deepseek-harness",
+      "dsh",
+      "hermes",
+      "kanban",
+      "multi-agent"
+    ],
+    "html_url": "https://github.com/TaxolYang0000/agent-federation-platform",
+    "stargazers_count": 2,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T14:38:44Z",
+    "updated_at": "2026-08-16T04:27:22Z",
+    "pushed_at": "2026-08-16T04:27:09Z"
+  },
+  {
+    "id": 1332443248,
+    "name": "keeperhub-defi-guardian",
+    "full_name": "0xConsole/keeperhub-defi-guardian",
+    "owner": {
+      "login": "0xConsole",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35867355?v=4"
+    },
+    "description": "🛡️ DeFi Guardian — autonomous Aave V3 liquidation-risk guardian that executes rebalancing onchain via KeeperHub MCP. Built with Hermes Agent for the DoraHacks 'Agents Onchain' hackathon.",
+    "topics": [
+      "aave",
+      "ai-agent",
+      "defi",
+      "dora-hacks",
+      "ethereum",
+      "hackathon",
+      "hermes",
+      "keeperhub",
+      "mcp",
+      "onchain"
+    ],
+    "html_url": "https://github.com/0xConsole/keeperhub-defi-guardian",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-12T21:02:52Z",
+    "updated_at": "2026-08-16T14:37:56Z",
+    "pushed_at": "2026-08-12T21:02:55Z"
+  },
+  {
+    "id": 1334189555,
+    "name": "ai-usage-monitor",
+    "full_name": "TurkeyGuoba/ai-usage-monitor",
+    "owner": {
+      "login": "TurkeyGuoba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98415101?v=4"
+    },
+    "description": "Local, read-only AI agent usage monitor: cache-hit rate, tokens, cost (USD/CNY), per-API-provider breakdown — Hermes desktop plugin included",
+    "topics": [
+      "anthropic",
+      "claude-code",
+      "codex",
+      "cost-tracking",
+      "deepseek",
+      "hermes",
+      "llm",
+      "monitoring",
+      "openai",
+      "usage"
+    ],
+    "html_url": "https://github.com/TurkeyGuoba/ai-usage-monitor",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T13:04:03Z",
+    "updated_at": "2026-08-14T15:10:39Z",
+    "pushed_at": "2026-08-14T15:09:58Z"
+  },
+  {
+    "id": 1333547824,
+    "name": "hermes-serve-sim",
+    "full_name": "tkl-1/hermes-serve-sim",
+    "owner": {
+      "login": "tkl-1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62070434?v=4"
+    },
+    "description": "Run your iOS Simulator live inside Hermes Desktop — serve-sim integration with a statusbar chip, ⌘K commands and a persistent Sim pane",
+    "topics": [
+      "developer-tools",
+      "hermes",
+      "hermes-plugin",
+      "ios",
+      "llm",
+      "simulator",
+      "xcode"
+    ],
+    "html_url": "https://github.com/tkl-1/hermes-serve-sim",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T21:21:40Z",
+    "updated_at": "2026-08-18T11:51:49Z",
+    "pushed_at": "2026-08-13T22:29:02Z"
+  },
+  {
+    "id": 1335317039,
+    "name": "aurora-orchestra",
+    "full_name": "Zijian-Ni/aurora-orchestra",
+    "owner": {
+      "login": "Zijian-Ni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146772890?v=4"
+    },
+    "description": "Aurora Orchestra · 极光小落 multi-agent desktop studio (OpenClaw + Hermes + DeepSeek Harness ACP)",
+    "topics": [
+      "acp",
+      "ai-agents",
+      "deepseek",
+      "electron",
+      "hermes",
+      "openclaw",
+      "orchestration"
+    ],
+    "html_url": "https://github.com/Zijian-Ni/aurora-orchestra",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T18:23:54Z",
+    "updated_at": "2026-08-18T01:11:39Z",
+    "pushed_at": "2026-08-18T01:11:13Z"
+  },
+  {
+    "id": 1337020086,
+    "name": "dsh-ios-app",
+    "full_name": "kriskwok/dsh-ios-app",
+    "owner": {
+      "login": "kriskwok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31760242?v=4"
+    },
+    "description": "一款可以远程控制DSH和Hermes等AI助手的APP，仅支持iOS。",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-market",
+      "dsh-plugins",
+      "hermes"
+    ],
+    "html_url": "https://github.com/kriskwok/dsh-ios-app",
+    "stargazers_count": 1,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T10:37:02Z",
+    "updated_at": "2026-08-18T14:03:06Z",
+    "pushed_at": "2026-08-18T13:59:35Z"
+  },
+  {
+    "id": 1338652828,
+    "name": "hermes-feishu-codex-starter",
+    "full_name": "n977485865-create/hermes-feishu-codex-starter",
+    "owner": {
+      "login": "n977485865-create",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227112064?v=4"
+    },
+    "description": "Hermes、飞书/Lark 与 Codex CLI 的零基础配置、验证与跨 Agent 安装 Skill",
+    "topics": [
+      "ai-agents",
+      "codex",
+      "feishu",
+      "hermes",
+      "lark",
+      "skill"
+    ],
+    "html_url": "https://github.com/n977485865-create/hermes-feishu-codex-starter",
+    "stargazers_count": 1,
+    "language": "PowerShell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T17:08:06Z",
+    "updated_at": "2026-08-18T17:35:04Z",
+    "pushed_at": "2026-08-18T17:22:00Z"
+  },
+  {
+    "id": 1332580178,
+    "name": "opencode-usage-meter",
+    "full_name": "Vocllum/opencode-usage-meter",
+    "owner": {
+      "login": "Vocllum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149675937?v=4"
+    },
+    "description": "OpenCode Zen/Go usage windows for the Hermes Desktop status bar",
+    "topics": [
+      "hermes",
+      "hermes-plugin",
+      "opencode",
+      "usage-meter"
+    ],
+    "html_url": "https://github.com/Vocllum/opencode-usage-meter",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T01:18:51Z",
+    "updated_at": "2026-08-13T09:30:12Z",
+    "pushed_at": "2026-08-13T09:29:50Z"
+  },
+  {
+    "id": 1335641826,
+    "name": "anime-skins",
+    "full_name": "thanvish21/anime-skins",
+    "owner": {
+      "login": "thanvish21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154794937?v=4"
+    },
+    "description": "28 anime themes for Hermes, Claude Code & OpenCode — Naruto, One Piece, DBZ, Demon Slayer, JJK & more, with truecolor half-block character heroes",
+    "topics": [
+      "anime",
+      "claude-code",
+      "hermes",
+      "terminal-themes",
+      "themes"
+    ],
+    "html_url": "https://github.com/thanvish21/anime-skins",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T05:20:27Z",
+    "updated_at": "2026-08-16T09:59:30Z",
+    "pushed_at": "2026-08-16T05:20:53Z"
+  },
+  {
+    "id": 1338334866,
+    "name": "hermes-bounty-board",
+    "full_name": "webmilmind1/hermes-bounty-board",
+    "owner": {
+      "login": "webmilmind1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290682724?v=4"
+    },
+    "description": "Hermes Agent plugin: earn USDC answering real support bounties, or run your own bounty board, over x402. No account, no API key. A human approves the winning answer and the wallet is paid 85% automatically.",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "bounty",
+      "bounty-hunters",
+      "bounty-hunting",
+      "bounty-hunting-tools",
+      "bounty-package",
+      "bounty-rewards",
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-plugin",
+      "hermes-skill",
+      "payments",
+      "usdc",
+      "x402",
+      "x402-agent"
+    ],
+    "html_url": "https://github.com/webmilmind1/hermes-bounty-board",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T11:39:35Z",
+    "updated_at": "2026-08-18T13:04:13Z",
+    "pushed_at": "2026-08-18T12:29:24Z"
+  },
+  {
+    "id": 1335620282,
+    "name": "cartoon-network-skins",
+    "full_name": "thanvish21/cartoon-network-skins",
+    "owner": {
+      "login": "thanvish21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154794937?v=4"
+    },
+    "description": "167 Cartoon Network-themed skins for the Hermes CLI agent — Ben 10, Powerpuff Girls, Samurai Jack, Toonami, Roll No 21 & more, with character-art banners and screenshots",
+    "topics": [
+      "cartoon-network",
+      "hermes",
+      "skin",
+      "terminal-themes",
+      "themes"
+    ],
+    "html_url": "https://github.com/thanvish21/cartoon-network-skins",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T04:33:08Z",
+    "updated_at": "2026-08-16T09:59:31Z",
+    "pushed_at": "2026-08-16T05:00:37Z"
+  },
+  {
+    "id": 1335472427,
+    "name": "prime-agent",
+    "full_name": "oddradiocircle/prime-agent",
+    "owner": {
+      "login": "oddradiocircle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159500359?v=4"
+    },
+    "description": "Agent Skill for orchestrating Prime Agent with verification and bounded autonomy",
+    "topics": [
+      "agent-skills",
+      "autonomous-agents",
+      "coding-agents",
+      "hermes",
+      "prime-agent"
+    ],
+    "html_url": "https://github.com/oddradiocircle/prime-agent",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T22:38:35Z",
+    "updated_at": "2026-08-16T00:44:37Z",
+    "pushed_at": "2026-08-16T00:44:31Z"
+  }
+]
