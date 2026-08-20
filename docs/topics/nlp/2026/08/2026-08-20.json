@@ -1,0 +1,595 @@
+[
+  {
+    "id": 1333285776,
+    "name": "salsi",
+    "full_name": "pooooooriya/salsi",
+    "owner": {
+      "login": "pooooooriya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231518383?v=4"
+    },
+    "description": "Write Persian with Persian words — a loanword scanner and an AI-assistant skill built on the Pasban dictionary. Ships 20,071 words, protects technical terms, code and quotations. Works in Claude, Codex, Cursor and more.",
+    "topics": [
+      "agent-skill",
+      "ai-skills",
+      "farsi",
+      "linter",
+      "nlp",
+      "oldb",
+      "persian"
+    ],
+    "html_url": "https://github.com/pooooooriya/salsi",
+    "stargazers_count": 67,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T15:50:57Z",
+    "updated_at": "2026-08-19T13:13:22Z",
+    "pushed_at": "2026-08-13T16:25:47Z"
+  },
+  {
+    "id": 1337383093,
+    "name": "suiko",
+    "full_name": "nwiizo/suiko",
+    "owner": {
+      "login": "nwiizo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12461120?v=4"
+    },
+    "description": "日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / Deterministic diagnostics for natural and readable Japanese writing",
+    "topics": [
+      "cli",
+      "japanese",
+      "japanese-language",
+      "lint",
+      "linter",
+      "markdown",
+      "nlp",
+      "proofreading",
+      "rust",
+      "sudachi",
+      "text-processing",
+      "writing"
+    ],
+    "html_url": "https://github.com/nwiizo/suiko",
+    "stargazers_count": 8,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-17T16:27:05Z",
+    "updated_at": "2026-08-19T03:13:30Z",
+    "pushed_at": "2026-08-18T15:51:07Z"
+  },
+  {
+    "id": 1335531809,
+    "name": "nihai-tianji-corpus",
+    "full_name": "Renhuai123/nihai-tianji-corpus",
+    "owner": {
+      "login": "Renhuai123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91890238?v=4"
+    },
+    "description": "倪海厦《天纪》结构化语料库 v2.0 — 天纪全量 4886 条判语，十一册体系，112 单元约 61 小时讲课，每条带精确到秒的视频出处可回放溯源。线上平台 metisziwei.com（天纪板块开发中）。语料 CC BY-NC-SA / 代码 MIT",
+    "topics": [
+      "chinese-astrology",
+      "corpus",
+      "dataset",
+      "nlp",
+      "ziweidoushu"
+    ],
+    "html_url": "https://github.com/Renhuai123/nihai-tianji-corpus",
+    "stargazers_count": 7,
+    "language": "HTML",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T01:00:59Z",
+    "updated_at": "2026-08-20T01:30:01Z",
+    "pushed_at": "2026-08-18T00:32:25Z"
+  },
+  {
+    "id": 1335191122,
+    "name": "caliper",
+    "full_name": "umran666/caliper",
+    "owner": {
+      "login": "umran666",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152087084?v=4"
+    },
+    "description": "High-precision, zero-dependency Byte-Fallback Unigram tokenizer with dual-offset tracking, arithmetic isolation, and multilingual Unicode protection.",
+    "topics": [
+      "byte-fallback",
+      "deep-learning",
+      "nlp",
+      "python",
+      "subwords",
+      "tokenization",
+      "tokenizer",
+      "unigram",
+      "viterbi-algorithm",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/umran666/caliper",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T15:18:47Z",
+    "updated_at": "2026-08-19T16:21:53Z",
+    "pushed_at": "2026-08-19T16:16:29Z"
+  },
+  {
+    "id": 1335849953,
+    "name": "watermark-bench",
+    "full_name": "takzen/watermark-bench",
+    "owner": {
+      "login": "takzen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54585264?v=4"
+    },
+    "description": "A red-teaming and robustness evaluation framework for statistical AI watermarks (SynthID, Kirchenbauer, AWT) against cross-model paraphrase attacks and perturbations.",
+    "topics": [
+      "ai-safety",
+      "ai-security",
+      "benchmark",
+      "deep-learning",
+      "kirchenbauer",
+      "llm",
+      "nlp",
+      "red-teaming",
+      "synthid",
+      "watermarking"
+    ],
+    "html_url": "https://github.com/takzen/watermark-bench",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T11:15:23Z",
+    "updated_at": "2026-08-19T13:53:55Z",
+    "pushed_at": "2026-08-19T09:35:34Z"
+  },
+  {
+    "id": 1334779863,
+    "name": "ChineseSocialSurvivalBenchmark",
+    "full_name": "HEHUA2005/ChineseSocialSurvivalBenchmark",
+    "owner": {
+      "login": "HEHUA2005",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182347574?v=4"
+    },
+    "description": null,
+    "topics": [
+      "benchmark",
+      "chinese-nlp",
+      "llm-benchmark",
+      "llm-evaluation",
+      "nlp",
+      "social-ai"
+    ],
+    "html_url": "https://github.com/HEHUA2005/ChineseSocialSurvivalBenchmark",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T04:09:24Z",
+    "updated_at": "2026-08-17T03:53:12Z",
+    "pushed_at": "2026-08-16T09:48:55Z"
+  },
+  {
+    "id": 1340022498,
+    "name": "conv-vs-ped-tutor",
+    "full_name": "bydeng01/conv-vs-ped-tutor",
+    "owner": {
+      "login": "bydeng01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136845445?v=4"
+    },
+    "description": "A pre-registered, fully offline-reproducible audit of whether LLM helpfulness judges reward the answer-leakage that undercuts student independence — conversational vs. pedagogical tutor agents on one frozen base.",
+    "topics": [
+      "ai-alignment",
+      "ai-in-education",
+      "educational-technology",
+      "evaluation",
+      "intelligent-tutoring-system",
+      "langgraph",
+      "large-language-models",
+      "llm",
+      "llm-agents",
+      "llm-as-a-judge",
+      "llm-evaluation",
+      "nlp",
+      "reward-hacking"
+    ],
+    "html_url": "https://github.com/bydeng01/conv-vs-ped-tutor",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T21:02:36Z",
+    "updated_at": "2026-08-19T22:02:37Z",
+    "pushed_at": "2026-08-19T21:36:19Z"
+  },
+  {
+    "id": 1333073426,
+    "name": "eu-ai-act-rag",
+    "full_name": "aghasalim/eu-ai-act-rag",
+    "owner": {
+      "login": "aghasalim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75713741?v=4"
+    },
+    "description": "Grounded QA over the EU AI Act where the evaluation harness is the deliverable: retrieval, faithfulness and hallucination metrics over 45 hand-written questions",
+    "topics": [
+      "eu-ai-act",
+      "hybrid-search",
+      "information-retrieval",
+      "llm-evaluation",
+      "machine-learning",
+      "nlp",
+      "rag",
+      "ragas",
+      "retrieval-augmented-generation",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/aghasalim/eu-ai-act-rag",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T12:06:05Z",
+    "updated_at": "2026-08-18T08:59:35Z",
+    "pushed_at": "2026-08-15T13:32:54Z"
+  },
+  {
+    "id": 1335888235,
+    "name": "Spam-Email-Detection-ML",
+    "full_name": "naiksampada221-sudo/Spam-Email-Detection-ML",
+    "owner": {
+      "login": "naiksampada221-sudo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238491963?v=4"
+    },
+    "description": "Machine learning-based web application for detecting spam emails and text messages using TF-IDF and a trained classification model.",
+    "topics": [
+      "email-classification",
+      "gradio",
+      "machine-learning",
+      "nlp",
+      "python",
+      "scikit-learn",
+      "spam-detection"
+    ],
+    "html_url": "https://github.com/naiksampada221-sudo/Spam-Email-Detection-ML",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T12:00:15Z",
+    "updated_at": "2026-08-17T06:01:04Z",
+    "pushed_at": "2026-08-16T16:12:28Z"
+  },
+  {
+    "id": 1338888684,
+    "name": "goal-augment",
+    "full_name": "Krishita17/goal-augment",
+    "owner": {
+      "login": "Krishita17",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129031138?v=4"
+    },
+    "description": "LLM-based factorised data augmentation for health-coaching goal extraction",
+    "topics": [
+      "back-translation",
+      "clinical-nlp",
+      "cycle-consistency",
+      "data-augmentation",
+      "dataset-generation",
+      "few-shot-learning",
+      "gemini",
+      "goal-extraction",
+      "health-coaching",
+      "llm",
+      "named-entity-recognition",
+      "nlp",
+      "paraphrase-generation",
+      "prompt-engineering",
+      "python",
+      "smart-goals",
+      "span-labeling",
+      "streamlit",
+      "synthetic-data",
+      "text-generation"
+    ],
+    "html_url": "https://github.com/Krishita17/goal-augment",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T22:31:54Z",
+    "updated_at": "2026-08-19T13:17:01Z",
+    "pushed_at": "2026-08-18T22:34:36Z"
+  },
+  {
+    "id": 1333862828,
+    "name": "awesome-turkish-datasets",
+    "full_name": "bilalabic/awesome-turkish-datasets",
+    "owner": {
+      "login": "bilalabic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66368641?v=4"
+    },
+    "description": "A curated and verified catalog of datasets for Turkish across language, speech, vision, and multimodal AI.",
+    "topics": [
+      "awesome-list",
+      "computer-vision",
+      "datasets",
+      "llm",
+      "multimodal",
+      "nlp",
+      "speech",
+      "speech-to-text",
+      "turkish-dataset",
+      "turkish-language",
+      "turkish-nlp"
+    ],
+    "html_url": "https://github.com/bilalabic/awesome-turkish-datasets",
+    "stargazers_count": 2,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T06:18:39Z",
+    "updated_at": "2026-08-20T01:23:46Z",
+    "pushed_at": "2026-08-20T01:23:42Z"
+  },
+  {
+    "id": 1339203132,
+    "name": "awesome-kaz-models",
+    "full_name": "alenisaw/awesome-kaz-models",
+    "owner": {
+      "login": "alenisaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154399485?v=4"
+    },
+    "description": "Curated, research-grade catalog of public AI models with substantial support for the Kazakh language.",
+    "topics": [
+      "awesome-list",
+      "kazakh",
+      "kazakh-language",
+      "llm",
+      "machine-learning",
+      "multimodal",
+      "nlp",
+      "ocr",
+      "speech-recognition",
+      "tts"
+    ],
+    "html_url": "https://github.com/alenisaw/awesome-kaz-models",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T06:49:50Z",
+    "updated_at": "2026-08-19T21:16:44Z",
+    "pushed_at": "2026-08-19T21:15:02Z"
+  },
+  {
+    "id": 1334896315,
+    "name": "termnova",
+    "full_name": "adimalkar/termnova",
+    "owner": {
+      "login": "adimalkar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98805408?v=4"
+    },
+    "description": "Production-grade AI Contract Intelligence Platform with Hybrid RAG, LangGraph Agents, OpenTelemetry, Celery Queues, and Responsible Guardrails",
+    "topics": [
+      "celery",
+      "fastapi",
+      "langgraph",
+      "nlp",
+      "opentelemetry",
+      "pgvector",
+      "postgresql",
+      "prometheus",
+      "rag",
+      "responsible-ai"
+    ],
+    "html_url": "https://github.com/adimalkar/termnova",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-15T07:47:12Z",
+    "updated_at": "2026-08-19T05:21:25Z",
+    "pushed_at": "2026-08-19T05:26:04Z"
+  },
+  {
+    "id": 1335244645,
+    "name": "unsynth",
+    "full_name": "pandeyvishwas51-oss/unsynth",
+    "owner": {
+      "login": "pandeyvishwas51-oss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265202298?v=4"
+    },
+    "description": "Local-first toolkit for detecting AI-generated text and disrupting classical detectors plus statistical LLM watermarks (SynthID-Text / tournament-sampling style).",
+    "topics": [
+      "ai-detector",
+      "ai-generated-text",
+      "ai-text-detection",
+      "gptzero",
+      "llm-watermark",
+      "local-first",
+      "machine-learning",
+      "nlp",
+      "python",
+      "synthid",
+      "text-watermarking"
+    ],
+    "html_url": "https://github.com/pandeyvishwas51-oss/unsynth",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T16:34:29Z",
+    "updated_at": "2026-08-18T14:44:55Z",
+    "pushed_at": "2026-08-16T00:48:53Z"
+  },
+  {
+    "id": 1333557202,
+    "name": "evidence-retrieval-co",
+    "full_name": "POLUX89/evidence-retrieval-co",
+    "owner": {
+      "login": "POLUX89",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183035631?v=4"
+    },
+    "description": "Evidence retrieval for Colombian misinformation: sourced, dated evidence instead of verdicts. Not a truth detector. v2 of NLP-Fake-News-Colombia.",
+    "topics": [
+      "colombia",
+      "evidence-retrieval",
+      "fact-checking",
+      "information-retrieval",
+      "misinformation",
+      "nlp",
+      "spanish"
+    ],
+    "html_url": "https://github.com/POLUX89/evidence-retrieval-co",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T21:37:37Z",
+    "updated_at": "2026-08-14T19:12:31Z",
+    "pushed_at": "2026-08-14T19:12:29Z"
+  },
+  {
+    "id": 1336236915,
+    "name": "MarketRank",
+    "full_name": "yetiwannacode/MarketRank",
+    "owner": {
+      "login": "yetiwannacode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198237398?v=4"
+    },
+    "description": "Learning-to-Rank system for e-commerce product search using LambdaMART, MiniLM, TF-IDF, and marketplace-specific relevance features.",
+    "topics": [
+      "duckdb",
+      "ecommerce",
+      "lambdamart",
+      "learning-to-rank",
+      "lightgbm",
+      "machine-learning",
+      "nlp",
+      "search-ranking",
+      "sentence-transformers"
+    ],
+    "html_url": "https://github.com/yetiwannacode/MarketRank",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T18:22:58Z",
+    "updated_at": "2026-08-17T09:53:04Z",
+    "pushed_at": "2026-08-16T18:33:37Z"
+  },
+  {
+    "id": 1335285282,
+    "name": "VisionSeek-AI",
+    "full_name": "kaurrrgurleen/VisionSeek-AI",
+    "owner": {
+      "login": "kaurrrgurleen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230597637?v=4"
+    },
+    "description": "An AI-powered semantic and temporal video search engine that uses LLMs, CLIP embeddings, and temporal activity analysis to find relevant moments in videos using natural-language queries.",
+    "topics": [
+      "artificial-intelligence",
+      "clip",
+      "computer-vision",
+      "deeplearning",
+      "llm",
+      "machine-learning",
+      "multimodal-ai",
+      "nlp",
+      "pytorch",
+      "video-search"
+    ],
+    "html_url": "https://github.com/kaurrrgurleen/VisionSeek-AI",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T17:35:18Z",
+    "updated_at": "2026-08-15T18:46:58Z",
+    "pushed_at": "2026-08-15T18:41:33Z"
+  },
+  {
+    "id": 1333687601,
+    "name": "PRISM",
+    "full_name": "Vitalcheffe/PRISM",
+    "owner": {
+      "login": "Vitalcheffe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95189778?v=4"
+    },
+    "description": "Non-linear macroeconomic simulator — 47 real policy levers, 3,008-weight neural network, 10,000 autonomous agents, World Bank NLP-derived causal graph.",
+    "topics": [
+      "agent-based-modeling",
+      "macroeconomics",
+      "neural-network",
+      "nlp",
+      "simulation",
+      "world-bank-data"
+    ],
+    "html_url": "https://github.com/Vitalcheffe/PRISM",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T01:43:10Z",
+    "updated_at": "2026-08-19T06:05:45Z",
+    "pushed_at": "2026-08-19T06:04:14Z"
+  },
+  {
+    "id": 1334545337,
+    "name": "PAT",
+    "full_name": "GCLprimary/PAT",
+    "owner": {
+      "login": "GCLprimary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274178711?v=4"
+    },
+    "description": "A provenance-complete language agent that cannot bluff: every claim carries a machine-checkable receipt, and everything it can't back becomes a named refusal. It mined its own morphology, audits the dictionaries it was born from, and proposed its own last organ.",
+    "topics": [
+      "agent",
+      "interpretability",
+      "morphology",
+      "nlp",
+      "provenance",
+      "symbolic-ai"
+    ],
+    "html_url": "https://github.com/GCLprimary/PAT",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T20:14:14Z",
+    "updated_at": "2026-08-15T17:20:57Z",
+    "pushed_at": "2026-08-14T21:08:12Z"
+  },
+  {
+    "id": 1332583992,
+    "name": "Reddit-Technology-Programming-Communities-Social-Media-Network-Analysis",
+    "full_name": "rathodkaran2000/Reddit-Technology-Programming-Communities-Social-Media-Network-Analysis",
+    "owner": {
+      "login": "rathodkaran2000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87614154?v=4"
+    },
+    "description": "Business-focused network and NLP analysis of Reddit technology and programming communities using Louvain community detection, RoBERTa sentiment analysis, TF-IDF, and LDA topic modeling.",
+    "topics": [
+      "community-detection",
+      "data-science",
+      "lda",
+      "louvain-algorithm",
+      "louvain-community-detection",
+      "networkx",
+      "nlp",
+      "python",
+      "reddit",
+      "roberta",
+      "sentiment-analysis",
+      "social-network-analysis",
+      "topic-modeling"
+    ],
+    "html_url": "https://github.com/rathodkaran2000/Reddit-Technology-Programming-Communities-Social-Media-Network-Analysis",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T01:25:57Z",
+    "updated_at": "2026-08-13T01:56:41Z",
+    "pushed_at": "2026-08-13T01:28:54Z"
+  }
+]
