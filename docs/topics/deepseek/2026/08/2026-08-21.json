@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1334245678,
+    "name": "dsh-anchored-standard",
+    "full_name": "xiaobright/dsh-anchored-standard",
+    "owner": {
+      "login": "xiaobright",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104243166?v=4"
+    },
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "llm-agent"
+    ],
+    "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "stargazers_count": 3685,
+    "language": "JavaScript",
+    "forks_count": 110,
+    "open_issues_count": 27,
+    "created_at": "2026-08-14T14:06:39Z",
+    "updated_at": "2026-08-21T01:28:12Z",
+    "pushed_at": "2026-08-17T06:19:58Z"
+  },
+  {
+    "id": 1335867536,
+    "name": "DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "full_name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "owner": {
+      "login": "Tiger3807861189",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307182956?v=4"
+    },
+    "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "benchmark",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin"
+    ],
+    "html_url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "stargazers_count": 1038,
+    "language": null,
+    "forks_count": 67,
+    "open_issues_count": 13,
+    "created_at": "2026-08-16T11:38:42Z",
+    "updated_at": "2026-08-21T01:59:30Z",
+    "pushed_at": "2026-08-18T15:50:43Z"
+  },
+  {
+    "id": 1334373503,
+    "name": "Deepseek-Harness-EAC",
+    "full_name": "zouyuxuan122/Deepseek-Harness-EAC",
+    "owner": {
+      "login": "zouyuxuan122",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245557608?v=4"
+    },
+    "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+    "topics": [
+      "ai-agent",
+      "deepseek",
+      "desktop-app",
+      "dsh",
+      "electron",
+      "windows"
+    ],
+    "html_url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+    "stargazers_count": 1031,
+    "language": "JavaScript",
+    "forks_count": 33,
+    "open_issues_count": 53,
+    "created_at": "2026-08-14T16:29:54Z",
+    "updated_at": "2026-08-21T01:47:19Z",
+    "pushed_at": "2026-08-21T01:51:50Z"
+  },
+  {
+    "id": 1333718792,
+    "name": "deepseek-harness-desktop",
+    "full_name": "hairyf/deepseek-harness-desktop",
+    "owner": {
+      "login": "hairyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49724027?v=4"
+    },
+    "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "desktop",
+      "dsh",
+      "dsh-plugin",
+      "tauri"
+    ],
+    "html_url": "https://github.com/hairyf/deepseek-harness-desktop",
+    "stargazers_count": 730,
+    "language": "Rust",
+    "forks_count": 41,
+    "open_issues_count": 8,
+    "created_at": "2026-08-14T02:36:29Z",
+    "updated_at": "2026-08-21T01:53:43Z",
+    "pushed_at": "2026-08-20T16:01:39Z"
+  },
+  {
+    "id": 1334838753,
+    "name": "v4-flash-godmode-opencode-go",
+    "full_name": "SheberDavid/v4-flash-godmode-opencode-go",
+    "owner": {
+      "login": "SheberDavid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143268274?v=4"
+    },
+    "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+    "topics": [
+      "agent",
+      "deepseek",
+      "dsh",
+      "flash"
+    ],
+    "html_url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+    "stargazers_count": 494,
+    "language": "JavaScript",
+    "forks_count": 13,
+    "open_issues_count": 6,
+    "created_at": "2026-08-15T06:10:13Z",
+    "updated_at": "2026-08-20T19:16:04Z",
+    "pushed_at": "2026-08-17T03:53:38Z"
+  },
+  {
+    "id": 1334747723,
+    "name": "deepseek-harness-studio",
+    "full_name": "fufankeji/deepseek-harness-studio",
+    "owner": {
+      "login": "fufankeji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172011122?v=4"
+    },
+    "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+    "topics": [
+      "ai-agent",
+      "deepseek",
+      "deepseek-harness",
+      "deepseek-harness-studio",
+      "desktop-app",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "electron",
+      "macos",
+      "plugin-manager",
+      "windows"
+    ],
+    "html_url": "https://github.com/fufankeji/deepseek-harness-studio",
+    "stargazers_count": 413,
+    "language": "TypeScript",
+    "forks_count": 43,
+    "open_issues_count": 2,
+    "created_at": "2026-08-15T03:00:06Z",
+    "updated_at": "2026-08-21T01:59:20Z",
+    "pushed_at": "2026-08-20T10:56:44Z"
+  },
+  {
+    "id": 1334962266,
+    "name": "dsh-pocket",
+    "full_name": "shaobeichen/dsh-pocket",
+    "owner": {
+      "login": "shaobeichen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18715564?v=4"
+    },
+    "description": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-market",
+      "dsh-plugins",
+      "mobile",
+      "qr",
+      "remote",
+      "tunnel"
+    ],
+    "html_url": "https://github.com/shaobeichen/dsh-pocket",
+    "stargazers_count": 276,
+    "language": "JavaScript",
+    "forks_count": 22,
+    "open_issues_count": 7,
+    "created_at": "2026-08-15T09:36:29Z",
+    "updated_at": "2026-08-21T01:49:56Z",
+    "pushed_at": "2026-08-20T13:40:16Z"
+  },
+  {
+    "id": 1336793734,
+    "name": "pilot-harness",
+    "full_name": "op7418/pilot-harness",
+    "owner": {
+      "login": "op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "description": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+    "topics": [
+      "ai-agent",
+      "codepilot",
+      "deepseek",
+      "deepseek-harness",
+      "desktop-app",
+      "dsh",
+      "dsh-plugin",
+      "electron",
+      "linux",
+      "macos",
+      "typescript",
+      "windows"
+    ],
+    "html_url": "https://github.com/op7418/pilot-harness",
+    "stargazers_count": 242,
+    "language": "TypeScript",
+    "forks_count": 13,
+    "open_issues_count": 16,
+    "created_at": "2026-08-17T06:56:42Z",
+    "updated_at": "2026-08-21T01:10:43Z",
+    "pushed_at": "2026-08-20T12:42:53Z"
+  },
+  {
+    "id": 1333852874,
+    "name": "deepseek-whale-girl-icon",
+    "full_name": "fornarwhal/deepseek-whale-girl-icon",
+    "owner": {
+      "login": "fornarwhal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58454301?v=4"
+    },
+    "description": null,
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "icon",
+      "whale-girl"
+    ],
+    "html_url": "https://github.com/fornarwhal/deepseek-whale-girl-icon",
+    "stargazers_count": 237,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-08-14T06:05:34Z",
+    "updated_at": "2026-08-20T09:09:33Z",
+    "pushed_at": "2026-08-14T10:50:59Z"
+  },
+  {
+    "id": 1337920628,
+    "name": "DeepSeek-Balance-Whale-Widget",
+    "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "owner": {
+      "login": "MeteorNOX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247166461?v=4"
+    },
+    "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+    "topics": [
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "floating-widget",
+      "plugin"
+    ],
+    "html_url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "stargazers_count": 220,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T03:13:51Z",
+    "updated_at": "2026-08-21T01:51:04Z",
+    "pushed_at": "2026-08-20T13:45:23Z"
+  },
+  {
+    "id": 1335095892,
+    "name": "deepseek-design",
+    "full_name": "Devin-AXIS/deepseek-design",
+    "owner": {
+      "login": "Devin-AXIS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228423313?v=4"
+    },
+    "description": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+    "topics": [
+      "ai-design",
+      "deepseek",
+      "deepseek-harness",
+      "design",
+      "design-studio",
+      "dsh-plugin",
+      "ipollowork",
+      "ipollowork-plugin",
+      "plugin",
+      "ppt",
+      "presentation",
+      "prototyping",
+      "visual-editor"
+    ],
+    "html_url": "https://github.com/Devin-AXIS/deepseek-design",
+    "stargazers_count": 212,
+    "language": "JavaScript",
+    "forks_count": 71,
+    "open_issues_count": 2,
+    "created_at": "2026-08-15T13:08:53Z",
+    "updated_at": "2026-08-21T01:40:27Z",
+    "pushed_at": "2026-08-18T09:54:38Z"
+  },
+  {
+    "id": 1334618124,
+    "name": "open-sea-skin",
+    "full_name": "d-dev0101/open-sea-skin",
+    "owner": {
+      "login": "d-dev0101",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245708388?v=4"
+    },
+    "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
+    "topics": [
+      "chrome-extension",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "ocean-skin",
+      "theme",
+      "threejs",
+      "webgpu"
+    ],
+    "html_url": "https://github.com/d-dev0101/open-sea-skin",
+    "stargazers_count": 185,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T22:19:03Z",
+    "updated_at": "2026-08-20T16:51:03Z",
+    "pushed_at": "2026-08-19T03:29:16Z"
+  },
+  {
+    "id": 1335127844,
+    "name": "anime-find",
+    "full_name": "cocofhu/anime-find",
+    "owner": {
+      "login": "cocofhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43171452?v=4"
+    },
+    "description": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
+    "topics": [
+      "anime",
+      "anime-search",
+      "bangumi",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "magnet",
+      "mikan",
+      "plugin",
+      "torrent",
+      "typescript"
+    ],
+    "html_url": "https://github.com/cocofhu/anime-find",
+    "stargazers_count": 156,
+    "language": "TypeScript",
+    "forks_count": 32,
+    "open_issues_count": 1,
+    "created_at": "2026-08-15T13:53:46Z",
+    "updated_at": "2026-08-21T00:34:17Z",
+    "pushed_at": "2026-08-19T17:08:51Z"
+  },
+  {
+    "id": 1334561781,
+    "name": "dsh-im",
+    "full_name": "xmanrui/dsh-im",
+    "owner": {
+      "login": "xmanrui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4094054?v=4"
+    },
+    "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+    "topics": [
+      "ai-agents",
+      "chatbot",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dingtalk-bot",
+      "discord-bot",
+      "dsh",
+      "dsh-plugin",
+      "feishu-bot",
+      "im-bot",
+      "slack-bot",
+      "telegram-bot",
+      "wechat-bot",
+      "whatsapp-bot"
+    ],
+    "html_url": "https://github.com/xmanrui/dsh-im",
+    "stargazers_count": 155,
+    "language": "JavaScript",
+    "forks_count": 27,
+    "open_issues_count": 7,
+    "created_at": "2026-08-14T20:40:06Z",
+    "updated_at": "2026-08-21T01:56:30Z",
+    "pushed_at": "2026-08-20T20:24:02Z"
+  },
+  {
+    "id": 1333844474,
+    "name": "awesome-deepseek-harness-plugins",
+    "full_name": "imsai-sh/awesome-deepseek-harness-plugins",
+    "owner": {
+      "login": "imsai-sh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14907300?v=4"
+    },
+    "description": "DeepSeek Harness plugin store, marketplace and hub — 3,100+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com",
+    "topics": [
+      "awesome-list",
+      "catalog",
+      "deepseek",
+      "deepseek-harness",
+      "deepseek-harness-plugins",
+      "deepseek1024",
+      "dsh",
+      "dsh-1024store",
+      "dsh-bundle",
+      "dsh-plugin",
+      "dsh-plugin-market",
+      "dsh-plugin-verify",
+      "dsh-plugins",
+      "dsh-skill",
+      "marketplace",
+      "plugin-directory",
+      "plugin-hub",
+      "plugin-store",
+      "plugins",
+      "registry"
+    ],
+    "html_url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins",
+    "stargazers_count": 132,
+    "language": "TypeScript",
+    "forks_count": 66,
+    "open_issues_count": 16,
+    "created_at": "2026-08-14T05:53:47Z",
+    "updated_at": "2026-08-20T23:42:16Z",
+    "pushed_at": "2026-08-20T20:23:23Z"
+  },
+  {
+    "id": 1333708305,
+    "name": "gal-view",
+    "full_name": "Ayase34/gal-view",
+    "owner": {
+      "login": "Ayase34",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153441571?v=4"
+    },
+    "description": "把dsh会话界面切换成galgame游戏界面的插件",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin"
+    ],
+    "html_url": "https://github.com/Ayase34/gal-view",
+    "stargazers_count": 114,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 4,
+    "created_at": "2026-08-14T02:18:46Z",
+    "updated_at": "2026-08-20T20:33:42Z",
+    "pushed_at": "2026-08-16T00:02:38Z"
+  },
+  {
+    "id": 1336998801,
+    "name": "dsh-image-gen",
+    "full_name": "shanliuling/dsh-image-gen",
+    "owner": {
+      "login": "shanliuling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83563400?v=4"
+    },
+    "description": "Generate images directly in DeepSeek Harness chats",
+    "topics": [
+      "ai-agent",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "gemini",
+      "image-generation",
+      "openai",
+      "plugin",
+      "seedream"
+    ],
+    "html_url": "https://github.com/shanliuling/dsh-image-gen",
+    "stargazers_count": 103,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-08-17T10:16:37Z",
+    "updated_at": "2026-08-21T01:44:38Z",
+    "pushed_at": "2026-08-19T16:46:32Z"
+  },
+  {
+    "id": 1334392318,
+    "name": "DSHA",
+    "full_name": "qiannianhuanxiang/DSHA",
+    "owner": {
+      "login": "qiannianhuanxiang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202144564?v=4"
+    },
+    "description": "DeepSeek Harness 安卓启动器：内置 proot+Ubuntu，免 ROOT 免 Termux 一键运行 deepseek-harness，多源测速/分步安装/WebUI 预览/设备 Shell 桥接",
+    "topics": [
+      "android",
+      "deepseek",
+      "launcher",
+      "llm",
+      "proot",
+      "shizuku",
+      "webui"
+    ],
+    "html_url": "https://github.com/qiannianhuanxiang/DSHA",
+    "stargazers_count": 102,
+    "language": "Java",
+    "forks_count": 11,
+    "open_issues_count": 3,
+    "created_at": "2026-08-14T16:52:02Z",
+    "updated_at": "2026-08-20T23:32:00Z",
+    "pushed_at": "2026-08-20T19:07:05Z"
+  },
+  {
+    "id": 1333685863,
+    "name": "dsh-usage-stats",
+    "full_name": "Ychris12138/dsh-usage-stats",
+    "owner": {
+      "login": "Ychris12138",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194215355?v=4"
+    },
+    "description": "Provider balances, subscription quotas, and token-usage analytics for the DeepSeek Harness Web GUI (dsh web).",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "deepseek-harness-plugin-dev",
+      "deepseek-harness-plugins",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins"
+    ],
+    "html_url": "https://github.com/Ychris12138/dsh-usage-stats",
+    "stargazers_count": 96,
+    "language": "JavaScript",
+    "forks_count": 15,
+    "open_issues_count": 6,
+    "created_at": "2026-08-14T01:40:02Z",
+    "updated_at": "2026-08-20T20:02:45Z",
+    "pushed_at": "2026-08-20T12:07:56Z"
+  },
+  {
+    "id": 1334442247,
+    "name": "dsh-reasoning-effort",
+    "full_name": "HanaAyane/dsh-reasoning-effort",
+    "owner": {
+      "login": "HanaAyane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115002127?v=4"
+    },
+    "description": "DSH适用的Codex风格的思考强度滑块，以及大肥鱼跑步滑块。Codex-style model and reasoning-effort slider for DeepSeek Harness",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "reasoning-effort"
+    ],
+    "html_url": "https://github.com/HanaAyane/dsh-reasoning-effort",
+    "stargazers_count": 94,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 4,
+    "created_at": "2026-08-14T17:52:18Z",
+    "updated_at": "2026-08-21T00:32:40Z",
+    "pushed_at": "2026-08-17T13:21:36Z"
+  }
+]

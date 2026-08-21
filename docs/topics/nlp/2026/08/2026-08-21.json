@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1335531809,
+    "name": "nihai-tianji-corpus",
+    "full_name": "Renhuai123/nihai-tianji-corpus",
+    "owner": {
+      "login": "Renhuai123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91890238?v=4"
+    },
+    "description": "倪海厦《天纪》结构化语料库 v2.0 — 天纪全量 4886 条判语，十一册体系，112 单元约 61 小时讲课，每条带精确到秒的视频出处可回放溯源。线上平台 metisziwei.com（天纪板块开发中）。语料 CC BY-NC-SA / 代码 MIT",
+    "topics": [
+      "chinese-astrology",
+      "corpus",
+      "dataset",
+      "nlp",
+      "ziweidoushu"
+    ],
+    "html_url": "https://github.com/Renhuai123/nihai-tianji-corpus",
+    "stargazers_count": 13,
+    "language": "HTML",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T01:00:59Z",
+    "updated_at": "2026-08-21T01:31:34Z",
+    "pushed_at": "2026-08-18T00:32:25Z"
+  },
+  {
+    "id": 1337383093,
+    "name": "suiko",
+    "full_name": "nwiizo/suiko",
+    "owner": {
+      "login": "nwiizo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12461120?v=4"
+    },
+    "description": "日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / Deterministic diagnostics for natural and readable Japanese writing",
+    "topics": [
+      "cli",
+      "japanese",
+      "japanese-language",
+      "lint",
+      "linter",
+      "markdown",
+      "nlp",
+      "proofreading",
+      "rust",
+      "sudachi",
+      "text-processing",
+      "writing"
+    ],
+    "html_url": "https://github.com/nwiizo/suiko",
+    "stargazers_count": 10,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-17T16:27:05Z",
+    "updated_at": "2026-08-20T16:34:05Z",
+    "pushed_at": "2026-08-20T14:36:24Z"
+  },
+  {
+    "id": 1340901093,
+    "name": "nlp-intent-classifier",
+    "full_name": "tainguyen07/nlp-intent-classifier",
+    "owner": {
+      "login": "tainguyen07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33820160?v=4"
+    },
+    "description": "Fine-tuned BERT intent classifier for conversational NLU: HuggingFace Transformers training loop, ONNX export, confidence calibration and a serving API.",
+    "topics": [
+      "bert",
+      "deep-learning",
+      "huggingface",
+      "intent-classification",
+      "nlp",
+      "pytorch",
+      "text-classification",
+      "transformers"
+    ],
+    "html_url": "https://github.com/tainguyen07/nlp-intent-classifier",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T16:21:51Z",
+    "updated_at": "2026-08-21T00:42:59Z",
+    "pushed_at": "2026-08-21T00:37:55Z"
+  },
+  {
+    "id": 1335191122,
+    "name": "caliper",
+    "full_name": "umran666/caliper",
+    "owner": {
+      "login": "umran666",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152087084?v=4"
+    },
+    "description": "High-precision, zero-dependency Byte-Fallback Unigram tokenizer with dual-offset tracking, arithmetic isolation, and multilingual Unicode protection.",
+    "topics": [
+      "byte-fallback",
+      "deep-learning",
+      "nlp",
+      "python",
+      "subwords",
+      "tokenization",
+      "tokenizer",
+      "unigram",
+      "viterbi-algorithm",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/umran666/caliper",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T15:18:47Z",
+    "updated_at": "2026-08-20T09:41:29Z",
+    "pushed_at": "2026-08-20T06:04:14Z"
+  },
+  {
+    "id": 1340901142,
+    "name": "semantic-search-faiss",
+    "full_name": "tainguyen07/semantic-search-faiss",
+    "owner": {
+      "login": "tainguyen07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33820160?v=4"
+    },
+    "description": "Semantic search engine over documents: sentence-transformers embeddings, FAISS ANN index, hybrid BM25+dense retrieval, reranking and a query API.",
+    "topics": [
+      "embeddings",
+      "faiss",
+      "information-retrieval",
+      "nlp",
+      "semantic-search",
+      "sentence-transformers",
+      "vector-search"
+    ],
+    "html_url": "https://github.com/tainguyen07/semantic-search-faiss",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T16:21:55Z",
+    "updated_at": "2026-08-21T00:42:48Z",
+    "pushed_at": "2026-08-21T00:37:57Z"
+  },
+  {
+    "id": 1335849953,
+    "name": "watermark-bench",
+    "full_name": "takzen/watermark-bench",
+    "owner": {
+      "login": "takzen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54585264?v=4"
+    },
+    "description": "A red-teaming and robustness evaluation framework for statistical AI watermarks (SynthID, Kirchenbauer, AWT) against cross-model paraphrase attacks and perturbations.",
+    "topics": [
+      "ai-safety",
+      "ai-security",
+      "benchmark",
+      "deep-learning",
+      "kirchenbauer",
+      "llm",
+      "nlp",
+      "red-teaming",
+      "synthid",
+      "watermarking"
+    ],
+    "html_url": "https://github.com/takzen/watermark-bench",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T11:15:23Z",
+    "updated_at": "2026-08-20T17:50:20Z",
+    "pushed_at": "2026-08-20T17:41:54Z"
+  },
+  {
+    "id": 1334779863,
+    "name": "ChineseSocialSurvivalBenchmark",
+    "full_name": "HEHUA2005/ChineseSocialSurvivalBenchmark",
+    "owner": {
+      "login": "HEHUA2005",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182347574?v=4"
+    },
+    "description": null,
+    "topics": [
+      "benchmark",
+      "chinese-nlp",
+      "llm-benchmark",
+      "llm-evaluation",
+      "nlp",
+      "social-ai"
+    ],
+    "html_url": "https://github.com/HEHUA2005/ChineseSocialSurvivalBenchmark",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T04:09:24Z",
+    "updated_at": "2026-08-17T03:53:12Z",
+    "pushed_at": "2026-08-16T09:48:55Z"
+  },
+  {
+    "id": 1338771554,
+    "name": "PocketLM",
+    "full_name": "Greninja9257/PocketLM",
+    "owner": {
+      "login": "Greninja9257",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169415895?v=4"
+    },
+    "description": "Micro-LLM Family: Models From 1KB to 1MB",
+    "topics": [
+      "chatbot",
+      "edge-ai",
+      "from-scratch",
+      "language-model",
+      "mlx",
+      "nlp",
+      "slm",
+      "tinyml"
+    ],
+    "html_url": "https://github.com/Greninja9257/PocketLM",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-18T19:31:40Z",
+    "updated_at": "2026-08-20T19:06:49Z",
+    "pushed_at": "2026-08-19T19:30:51Z"
+  },
+  {
+    "id": 1340022498,
+    "name": "conv-vs-ped-tutor",
+    "full_name": "bydeng01/conv-vs-ped-tutor",
+    "owner": {
+      "login": "bydeng01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136845445?v=4"
+    },
+    "description": "A pre-registered, fully offline-reproducible audit of whether LLM helpfulness judges reward the answer-leakage that undercuts student independence — conversational vs. pedagogical tutor agents on one frozen base.",
+    "topics": [
+      "ai-alignment",
+      "ai-in-education",
+      "educational-technology",
+      "evaluation",
+      "intelligent-tutoring-system",
+      "langgraph",
+      "large-language-models",
+      "llm",
+      "llm-agents",
+      "llm-as-a-judge",
+      "llm-evaluation",
+      "nlp",
+      "reward-hacking"
+    ],
+    "html_url": "https://github.com/bydeng01/conv-vs-ped-tutor",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T21:02:36Z",
+    "updated_at": "2026-08-19T22:02:37Z",
+    "pushed_at": "2026-08-19T21:36:19Z"
+  },
+  {
+    "id": 1335888235,
+    "name": "Spam-Email-Detection-ML",
+    "full_name": "naiksampada221-sudo/Spam-Email-Detection-ML",
+    "owner": {
+      "login": "naiksampada221-sudo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238491963?v=4"
+    },
+    "description": "Machine learning-based web application for detecting spam emails and text messages using TF-IDF and a trained classification model.",
+    "topics": [
+      "email-classification",
+      "gradio",
+      "machine-learning",
+      "nlp",
+      "python",
+      "scikit-learn",
+      "spam-detection"
+    ],
+    "html_url": "https://github.com/naiksampada221-sudo/Spam-Email-Detection-ML",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T12:00:15Z",
+    "updated_at": "2026-08-17T06:01:04Z",
+    "pushed_at": "2026-08-16T16:12:28Z"
+  },
+  {
+    "id": 1341023438,
+    "name": "RAKSHA_GRID",
+    "full_name": "samsingh2008/RAKSHA_GRID",
+    "owner": {
+      "login": "samsingh2008",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296195629?v=4"
+    },
+    "description": "RAKSHA GRID — AI-powered disaster decision intelligence platform that transforms fragmented emergency reports into prioritized incidents, optimized resources, adaptive routes, and commander-ready actions.",
+    "topics": [
+      "artificial-intelligence",
+      "decision-support",
+      "disaster-management",
+      "emergency-response",
+      "gis",
+      "nlp",
+      "real-time",
+      "resource-optimization"
+    ],
+    "html_url": "https://github.com/samsingh2008/RAKSHA_GRID",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T18:21:07Z",
+    "updated_at": "2026-08-20T18:40:21Z",
+    "pushed_at": "2026-08-20T18:35:34Z"
+  },
+  {
+    "id": 1338888684,
+    "name": "goal-augment",
+    "full_name": "Krishita17/goal-augment",
+    "owner": {
+      "login": "Krishita17",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129031138?v=4"
+    },
+    "description": "LLM-based factorised data augmentation for health-coaching goal extraction",
+    "topics": [
+      "back-translation",
+      "clinical-nlp",
+      "cycle-consistency",
+      "data-augmentation",
+      "dataset-generation",
+      "few-shot-learning",
+      "gemini",
+      "goal-extraction",
+      "health-coaching",
+      "llm",
+      "named-entity-recognition",
+      "nlp",
+      "paraphrase-generation",
+      "prompt-engineering",
+      "python",
+      "smart-goals",
+      "span-labeling",
+      "streamlit",
+      "synthetic-data",
+      "text-generation"
+    ],
+    "html_url": "https://github.com/Krishita17/goal-augment",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T22:31:54Z",
+    "updated_at": "2026-08-19T13:17:01Z",
+    "pushed_at": "2026-08-18T22:34:36Z"
+  },
+  {
+    "id": 1338650632,
+    "name": "ai-resume-intelligence",
+    "full_name": "rmmehmet/ai-resume-intelligence",
+    "owner": {
+      "login": "rmmehmet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116261890?v=4"
+    },
+    "description": "AI-powered Resume Intelligence & ATS Optimization platform with explainable ATS scoring, semantic job matching, skill gap analysis, and LLM-based resume optimization.",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "ats",
+      "ats-optimization",
+      "ats-resume",
+      "embeddings",
+      "fastapi",
+      "generative-ai",
+      "job-matching",
+      "llm",
+      "milvus",
+      "nlp",
+      "postgresql",
+      "python",
+      "rag",
+      "react",
+      "resume",
+      "resume-parser",
+      "semantic-search",
+      "semantic-search-engine"
+    ],
+    "html_url": "https://github.com/rmmehmet/ai-resume-intelligence",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T17:05:30Z",
+    "updated_at": "2026-08-20T21:16:29Z",
+    "pushed_at": "2026-08-20T21:10:16Z"
+  },
+  {
+    "id": 1333862828,
+    "name": "awesome-turkish-datasets",
+    "full_name": "bilalabic/awesome-turkish-datasets",
+    "owner": {
+      "login": "bilalabic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66368641?v=4"
+    },
+    "description": "A curated and verified catalog of datasets for Turkish across language, speech, vision, and multimodal AI.",
+    "topics": [
+      "awesome-list",
+      "computer-vision",
+      "datasets",
+      "llm",
+      "multimodal",
+      "nlp",
+      "speech",
+      "speech-to-text",
+      "turkish-dataset",
+      "turkish-language",
+      "turkish-nlp"
+    ],
+    "html_url": "https://github.com/bilalabic/awesome-turkish-datasets",
+    "stargazers_count": 2,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T06:18:39Z",
+    "updated_at": "2026-08-20T18:33:28Z",
+    "pushed_at": "2026-08-20T18:28:42Z"
+  },
+  {
+    "id": 1334896315,
+    "name": "termnova",
+    "full_name": "adimalkar/termnova",
+    "owner": {
+      "login": "adimalkar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98805408?v=4"
+    },
+    "description": "Production-grade AI Contract Intelligence Platform with Hybrid RAG, LangGraph Agents, OpenTelemetry, Celery Queues, and Responsible Guardrails",
+    "topics": [
+      "celery",
+      "fastapi",
+      "langgraph",
+      "nlp",
+      "opentelemetry",
+      "pgvector",
+      "postgresql",
+      "prometheus",
+      "rag",
+      "responsible-ai"
+    ],
+    "html_url": "https://github.com/adimalkar/termnova",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-08-15T07:47:12Z",
+    "updated_at": "2026-08-20T05:25:02Z",
+    "pushed_at": "2026-08-20T08:03:47Z"
+  },
+  {
+    "id": 1341186964,
+    "name": "hallucination-detector",
+    "full_name": "Meriam-Inoubli/hallucination-detector",
+    "owner": {
+      "login": "Meriam-Inoubli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172551406?v=4"
+    },
+    "description": "Detect LLM hallucinations on any text — semantic entropy (Farquhar 2024) + SUScore (Zhang, EMNLP 2023) + a hybrid, on Google Gemini. Reference-free, tested, installable.",
+    "topics": [
+      "ai-safety",
+      "evaluation",
+      "gemini",
+      "hallucination-detection",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "python",
+      "semantic-entropy",
+      "uncertainty-estimation"
+    ],
+    "html_url": "https://github.com/Meriam-Inoubli/hallucination-detector",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T22:20:48Z",
+    "updated_at": "2026-08-20T23:47:03Z",
+    "pushed_at": "2026-08-20T23:12:27Z"
+  },
+  {
+    "id": 1335244645,
+    "name": "unsynth",
+    "full_name": "pandeyvishwas51-oss/unsynth",
+    "owner": {
+      "login": "pandeyvishwas51-oss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265202298?v=4"
+    },
+    "description": "Local-first toolkit for detecting AI-generated text and disrupting classical detectors plus statistical LLM watermarks (SynthID-Text / tournament-sampling style).",
+    "topics": [
+      "ai-detector",
+      "ai-generated-text",
+      "ai-text-detection",
+      "gptzero",
+      "llm-watermark",
+      "local-first",
+      "machine-learning",
+      "nlp",
+      "python",
+      "synthid",
+      "text-watermarking"
+    ],
+    "html_url": "https://github.com/pandeyvishwas51-oss/unsynth",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T16:34:29Z",
+    "updated_at": "2026-08-18T14:44:55Z",
+    "pushed_at": "2026-08-16T00:48:53Z"
+  },
+  {
+    "id": 1333687601,
+    "name": "PRISM",
+    "full_name": "Vitalcheffe/PRISM",
+    "owner": {
+      "login": "Vitalcheffe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95189778?v=4"
+    },
+    "description": "Non-linear macroeconomic simulator — 47 real policy levers, 3,008-weight neural network, 10,000 autonomous agents, World Bank NLP-derived causal graph.",
+    "topics": [
+      "agent-based-modeling",
+      "macroeconomics",
+      "neural-network",
+      "nlp",
+      "simulation",
+      "world-bank-data"
+    ],
+    "html_url": "https://github.com/Vitalcheffe/PRISM",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-14T01:43:10Z",
+    "updated_at": "2026-08-19T06:05:45Z",
+    "pushed_at": "2026-08-19T06:04:14Z"
+  },
+  {
+    "id": 1336361742,
+    "name": "git-survival",
+    "full_name": "maxime2476/git-survival",
+    "owner": {
+      "login": "maxime2476",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194831149?v=4"
+    },
+    "description": "Analyse de survie appliquée aux historiques Git pour comprendre pourquoi et quand les contributeurs abandonnent un projet.",
+    "topics": [
+      "churn-prediction",
+      "git-analytics",
+      "nlp",
+      "survival-analysis"
+    ],
+    "html_url": "https://github.com/maxime2476/git-survival",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T21:05:24Z",
+    "updated_at": "2026-08-20T18:13:34Z",
+    "pushed_at": "2026-08-20T18:08:59Z"
+  },
+  {
+    "id": 1338256236,
+    "name": "CodeAlpha_Internship_ArtificialIntelligence",
+    "full_name": "harshithashastry2007-lang/CodeAlpha_Internship_ArtificialIntelligence",
+    "owner": {
+      "login": "harshithashastry2007-lang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310912112?v=4"
+    },
+    "description": "🤖 A collection of AI-powered applications featuring language translation, intelligent FAQ assistance, AI music generation, and real-time object detection & tracking, built using Python, Machine Learning, NLP, Deep Learning, Computer Vision, YOLO, and Streamlit.",
+    "topics": [
+      "ai-internship",
+      "ai-music-generation",
+      "artificial-intelligence",
+      "chatbot",
+      "codealpha",
+      "computer-vision",
+      "deep-learning",
+      "language-translation",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "object-detection",
+      "object-tracking",
+      "opencv",
+      "python",
+      "streamlit",
+      "yolo"
+    ],
+    "html_url": "https://github.com/harshithashastry2007-lang/CodeAlpha_Internship_ArtificialIntelligence",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T10:08:21Z",
+    "updated_at": "2026-08-18T11:00:56Z",
+    "pushed_at": "2026-08-18T10:36:23Z"
+  }
+]
