@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1341759590,
+    "name": "threeui",
+    "full_name": "MengTo/threeui",
+    "owner": {
+      "login": "MengTo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1065452?v=4"
+    },
+    "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+    "topics": [
+      "react",
+      "shaders",
+      "threejs",
+      "ui-components",
+      "webgl"
+    ],
+    "html_url": "https://github.com/MengTo/threeui",
+    "stargazers_count": 565,
+    "language": "HTML",
+    "forks_count": 63,
+    "open_issues_count": 1,
+    "created_at": "2026-08-21T11:56:39Z",
+    "updated_at": "2026-08-22T01:54:22Z",
+    "pushed_at": "2026-08-21T17:43:38Z"
+  },
+  {
+    "id": 1335434949,
+    "name": "procedural-sounds",
+    "full_name": "m1ckc3s/procedural-sounds",
+    "owner": {
+      "login": "m1ckc3s",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108453477?v=4"
+    },
+    "description": "Procedural interface sounds, with taste. Generated live in the browser from recipes, steered by a hand-curated library and calibrated by ear. No audio files. Beta, open to collaborators.",
+    "topics": [
+      "design-tools",
+      "generative-audio",
+      "interface-design",
+      "microinteractions",
+      "nextjs",
+      "open-source",
+      "procedural-audio",
+      "react",
+      "sound-design",
+      "synthesizer",
+      "tailwindcss",
+      "typescript",
+      "ui-sounds",
+      "ux",
+      "web-audio",
+      "web-audio-api"
+    ],
+    "html_url": "https://github.com/m1ckc3s/procedural-sounds",
+    "stargazers_count": 149,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T21:36:23Z",
+    "updated_at": "2026-08-21T07:24:48Z",
+    "pushed_at": "2026-08-18T05:05:08Z"
+  },
+  {
+    "id": 1335351545,
+    "name": "router",
+    "full_name": "anonrig/router",
+    "owner": {
+      "login": "anonrig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1935246?v=4"
+    },
+    "description": "The TanStack Router API. Rebuilt for the hot path.",
+    "topics": [
+      "react",
+      "react19",
+      "router",
+      "ssr",
+      "tanstack",
+      "typescript"
+    ],
+    "html_url": "https://github.com/anonrig/router",
+    "stargazers_count": 149,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-08-15T19:21:18Z",
+    "updated_at": "2026-08-21T23:56:21Z",
+    "pushed_at": "2026-08-21T20:19:30Z"
+  },
+  {
+    "id": 1334766747,
+    "name": "dsh-agent-team-gui",
+    "full_name": "toolclub/dsh-agent-team-gui",
+    "owner": {
+      "login": "toolclub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266060413?v=4"
+    },
+    "description": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
+    "topics": [
+      "agent",
+      "agent-orchestration",
+      "ai-agents",
+      "dag",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "multi-agent",
+      "multi-model",
+      "orchestration",
+      "react",
+      "token-usage",
+      "typescript",
+      "workflow-engine"
+    ],
+    "html_url": "https://github.com/toolclub/dsh-agent-team-gui",
+    "stargazers_count": 116,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T03:40:19Z",
+    "updated_at": "2026-08-21T23:52:55Z",
+    "pushed_at": "2026-08-19T02:37:45Z"
+  },
+  {
+    "id": 1341029172,
+    "name": "oa-design",
+    "full_name": "OpenLabs-so/oa-design",
+    "owner": {
+      "login": "OpenLabs-so",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311841701?v=4"
+    },
+    "description": "The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent.",
+    "topics": [
+      "agent-skill",
+      "ai-agents",
+      "analytics",
+      "claude-code",
+      "design-system",
+      "motion",
+      "react",
+      "tailwindcss",
+      "ui"
+    ],
+    "html_url": "https://github.com/OpenLabs-so/oa-design",
+    "stargazers_count": 109,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T18:28:10Z",
+    "updated_at": "2026-08-21T23:25:33Z",
+    "pushed_at": "2026-08-20T19:25:29Z"
+  },
+  {
+    "id": 1338889223,
+    "name": "minimax-music-ui",
+    "full_name": "adambenhassen/minimax-music-ui",
+    "owner": {
+      "login": "adambenhassen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91687975?v=4"
+    },
+    "description": "Suno-style web UI for a self-hosted MiniMax-Music3 inference server",
+    "topics": [
+      "ai-music",
+      "diffusers",
+      "docker",
+      "express",
+      "minimax",
+      "minimax-music",
+      "music-generation",
+      "react",
+      "self-hosted",
+      "sgl-omni",
+      "suno",
+      "tailwindcss",
+      "text-to-music",
+      "typescript",
+      "vite"
+    ],
+    "html_url": "https://github.com/adambenhassen/minimax-music-ui",
+    "stargazers_count": 70,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T22:32:58Z",
+    "updated_at": "2026-08-22T00:58:26Z",
+    "pushed_at": "2026-08-19T03:06:13Z"
+  },
+  {
+    "id": 1338095980,
+    "name": "open-sheet",
+    "full_name": "lianghsun/open-sheet",
+    "owner": {
+      "login": "lianghsun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25081193?v=4"
+    },
+    "description": "The spreadsheet framework built for agents — write the model as React, export a live .xlsx. The third medium, after open-slide and open-doc.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "code-generation",
+      "developer-tools",
+      "excel",
+      "financial-modeling",
+      "mcp",
+      "open-source",
+      "react",
+      "spreadsheet",
+      "typescript",
+      "xlsx"
+    ],
+    "html_url": "https://github.com/lianghsun/open-sheet",
+    "stargazers_count": 67,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 14,
+    "created_at": "2026-08-18T07:15:17Z",
+    "updated_at": "2026-08-22T00:46:19Z",
+    "pushed_at": "2026-08-22T00:45:47Z"
+  },
+  {
+    "id": 1341668491,
+    "name": "links-onion-for-tor",
+    "full_name": "me-links-onion-for-tor/links-onion-for-tor",
+    "owner": {
+      "login": "me-links-onion-for-tor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311687128?v=4"
+    },
+    "description": "Links Onion for Tor",
+    "topics": [
+      "links-onion-for-tor",
+      "react",
+      "starter"
+    ],
+    "html_url": "https://github.com/me-links-onion-for-tor/links-onion-for-tor",
+    "stargazers_count": 66,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T10:11:58Z",
+    "updated_at": "2026-08-21T13:44:07Z",
+    "pushed_at": "2026-08-21T10:12:28Z"
+  },
+  {
+    "id": 1334813049,
+    "name": "dsh-smooth-stream",
+    "full_name": "Laplace-bit/dsh-smooth-stream",
+    "owner": {
+      "login": "Laplace-bit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82888920?v=4"
+    },
+    "description": "DeepSeek Harness Web UI plugin for fluid streaming rendering and silky scrolling. 流畅流式渲染与丝滑滚动。",
+    "topics": [
+      "ai-chat",
+      "chat-ui",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "fluid-streaming",
+      "llm",
+      "markdown",
+      "plugin",
+      "react",
+      "smooth-scrolling",
+      "smooth-streaming",
+      "streaming",
+      "streaming-markdown",
+      "typescript",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/Laplace-bit/dsh-smooth-stream",
+    "stargazers_count": 47,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-08-15T05:19:33Z",
+    "updated_at": "2026-08-22T01:45:53Z",
+    "pushed_at": "2026-08-20T08:44:50Z"
+  },
+  {
+    "id": 1337403931,
+    "name": "codex-command-center",
+    "full_name": "sevensir888/codex-command-center",
+    "owner": {
+      "login": "sevensir888",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256569592?v=4"
+    },
+    "description": "A local desktop control center for organizing Codex projects, engineering tasks, sessions, Git changes, Skills, and MCP configuration.",
+    "topics": [
+      "ai-coding",
+      "codex",
+      "codex-cli",
+      "codex-desktop",
+      "codex-github",
+      "codex-skill",
+      "coding-agents",
+      "desktop-app",
+      "developer-tools",
+      "git",
+      "local-first",
+      "mcp",
+      "openai-codex",
+      "react",
+      "rust",
+      "tauri",
+      "typescript",
+      "windows"
+    ],
+    "html_url": "https://github.com/sevensir888/codex-command-center",
+    "stargazers_count": 42,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T16:45:32Z",
+    "updated_at": "2026-08-21T21:13:14Z",
+    "pushed_at": "2026-08-21T08:03:42Z"
+  },
+  {
+    "id": 1338136303,
+    "name": "tiance-tweet-card-generator",
+    "full_name": "Leobai03/tiance-tweet-card-generator",
+    "owner": {
+      "login": "Leobai03",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237597792?v=4"
+    },
+    "description": "开源的推文卡片与抖音图文生成器，支持AI素材、自由改写、背景海报与PNG导出",
+    "topics": [
+      "ai-content",
+      "douyin",
+      "image-generator",
+      "react",
+      "vite"
+    ],
+    "html_url": "https://github.com/Leobai03/tiance-tweet-card-generator",
+    "stargazers_count": 35,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T08:02:25Z",
+    "updated_at": "2026-08-21T09:53:02Z",
+    "pushed_at": "2026-08-19T03:14:13Z"
+  },
+  {
+    "id": 1341264609,
+    "name": "cs-board",
+    "full_name": "ChenShuo2004/cs-board",
+    "owner": {
+      "login": "ChenShuo2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220584709?v=4"
+    },
+    "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+    "topics": [
+      "ai-video",
+      "chinese",
+      "fastapi",
+      "index-tts",
+      "react",
+      "tts",
+      "whiteboard-animation"
+    ],
+    "html_url": "https://github.com/ChenShuo2004/cs-board",
+    "stargazers_count": 34,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T00:50:30Z",
+    "updated_at": "2026-08-22T01:59:29Z",
+    "pushed_at": "2026-08-22T00:31:30Z"
+  },
+  {
+    "id": 1338631832,
+    "name": "Yuntu",
+    "full_name": "Trunks820/Yuntu",
+    "owner": {
+      "login": "Trunks820",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211942029?v=4"
+    },
+    "description": "AI travel planning engine with deterministic route scheduling, verified POIs, and fact-grounded LLM generation.",
+    "topics": [
+      "ai-travel",
+      "fastapi",
+      "llm",
+      "llms",
+      "postgresql",
+      "python",
+      "react",
+      "route-planning",
+      "travel-planner"
+    ],
+    "html_url": "https://github.com/Trunks820/Yuntu",
+    "stargazers_count": 31,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T16:43:56Z",
+    "updated_at": "2026-08-21T22:55:08Z",
+    "pushed_at": "2026-08-18T16:46:02Z"
+  },
+  {
+    "id": 1336601831,
+    "name": "yamlist",
+    "full_name": "qqqq8312496/yamlist",
+    "owner": {
+      "login": "qqqq8312496",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62324797?v=4"
+    },
+    "description": "A jelly-glass, themeable Windows desktop task board with calendar, notes, and local data storage.",
+    "topics": [
+      "calendar",
+      "desktop-app",
+      "electron",
+      "glassmorphism",
+      "jelly-ui",
+      "offline-first",
+      "productivity",
+      "react",
+      "task-manager",
+      "themeable",
+      "todo-app",
+      "typescript",
+      "windows"
+    ],
+    "html_url": "https://github.com/qqqq8312496/yamlist",
+    "stargazers_count": 29,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T03:06:11Z",
+    "updated_at": "2026-08-22T01:44:39Z",
+    "pushed_at": "2026-08-17T03:27:07Z"
+  },
+  {
+    "id": 1334733827,
+    "name": "microstrip-studio",
+    "full_name": "DABIAN-afk/microstrip-studio",
+    "owner": {
+      "login": "DABIAN-afk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200957838?v=4"
+    },
+    "description": "Lightweight visual microstrip synthesis and analysis tool for RF engineers.",
+    "topics": [
+      "microstrip",
+      "microwave",
+      "neutralinojs",
+      "pcb",
+      "react",
+      "rf",
+      "transmission-line",
+      "typescript"
+    ],
+    "html_url": "https://github.com/DABIAN-afk/microstrip-studio",
+    "stargazers_count": 20,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T02:31:17Z",
+    "updated_at": "2026-08-19T12:32:16Z",
+    "pushed_at": "2026-08-15T02:31:47Z"
+  },
+  {
+    "id": 1337142718,
+    "name": "soma",
+    "full_name": "PINTO0309/soma",
+    "owner": {
+      "login": "PINTO0309",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33194443?v=4"
+    },
+    "description": "Structured Output Matching & Association: online multi-person tracking built on the structured output of a multi-task wholebody detector, one whole-frame pass per frame (plus per-crop ReID embeddings in SOMA-R) — no tiling, no offline post-processing.",
+    "topics": [
+      "electron",
+      "litert",
+      "object-detection",
+      "onnx",
+      "python",
+      "react",
+      "reid",
+      "tracker",
+      "tracking"
+    ],
+    "html_url": "https://github.com/PINTO0309/soma",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T12:31:44Z",
+    "updated_at": "2026-08-20T05:46:02Z",
+    "pushed_at": "2026-08-19T10:17:15Z"
+  },
+  {
+    "id": 1335678174,
+    "name": "dsh-better-markdown",
+    "full_name": "zerob13/dsh-better-markdown",
+    "owner": {
+      "login": "zerob13",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339229?v=4"
+    },
+    "description": "DeepSeek Harness Web plugin powered by markstream-react for resilient streaming Markdown, Mermaid diagrams, KaTeX math, and safe renderer fallback.",
+    "topics": [
+      "ai-chat",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "llm",
+      "markdown",
+      "markstream-react",
+      "mermaid",
+      "react",
+      "streaming-markdown"
+    ],
+    "html_url": "https://github.com/zerob13/dsh-better-markdown",
+    "stargazers_count": 16,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 4,
+    "created_at": "2026-08-16T06:32:56Z",
+    "updated_at": "2026-08-18T23:27:15Z",
+    "pushed_at": "2026-08-17T01:55:52Z"
+  },
+  {
+    "id": 1335855415,
+    "name": "flagcn",
+    "full_name": "shadi-almilhem/flagcn",
+    "owner": {
+      "login": "shadi-almilhem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167632428?v=4"
+    },
+    "description": "Accessible, source-owned flag components for shadcn/ui.",
+    "topics": [
+      "accessibility",
+      "country-flags",
+      "flags",
+      "react",
+      "shadcn",
+      "shadcn-ui",
+      "typescript"
+    ],
+    "html_url": "https://github.com/shadi-almilhem/flagcn",
+    "stargazers_count": 15,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T11:24:20Z",
+    "updated_at": "2026-08-21T09:07:08Z",
+    "pushed_at": "2026-08-19T12:55:09Z"
+  },
+  {
+    "id": 1334791300,
+    "name": "dsh-studio",
+    "full_name": "Moresyl/dsh-studio",
+    "owner": {
+      "login": "Moresyl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85490079?v=4"
+    },
+    "description": "DeepSeek Harness 原生桌面端 · Linux / macOS / Windows · Rust + Tauri",
+    "topics": [
+      "cross-platform",
+      "deepseek",
+      "deepseek-harness",
+      "desktop-app",
+      "dsh",
+      "linux",
+      "macos",
+      "react",
+      "rust",
+      "tauri",
+      "windows"
+    ],
+    "html_url": "https://github.com/Moresyl/dsh-studio",
+    "stargazers_count": 14,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-08-15T04:35:09Z",
+    "updated_at": "2026-08-22T01:32:35Z",
+    "pushed_at": "2026-08-22T01:39:57Z"
+  },
+  {
+    "id": 1336044797,
+    "name": "SIAHRA",
+    "full_name": "flukelaster/SIAHRA",
+    "owner": {
+      "login": "flukelaster",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21332845?v=4"
+    },
+    "description": "3D geospatial hazard-intelligence platform for Thailand — real-time flood, rainfall, dam and earthquake monitoring on an interactive provincial digital terrain.",
+    "topics": [
+      "3d-visualization",
+      "cloudflare-workers",
+      "digital-twin",
+      "disaster-response",
+      "durable-objects",
+      "earthquake-monitoring",
+      "flood-monitoring",
+      "geospatial",
+      "open-data",
+      "react",
+      "thailand",
+      "three-js",
+      "typescript",
+      "webgl"
+    ],
+    "html_url": "https://github.com/flukelaster/SIAHRA",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T14:51:36Z",
+    "updated_at": "2026-08-21T14:41:19Z",
+    "pushed_at": "2026-08-20T19:01:10Z"
+  }
+]

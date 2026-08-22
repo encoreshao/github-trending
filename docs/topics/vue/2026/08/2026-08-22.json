@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1335104760,
+    "name": "bloub",
+    "full_name": "jeremy-prt/bloub",
+    "owner": {
+      "login": "jeremy-prt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57547133?v=4"
+    },
+    "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+    "topics": [
+      "animation",
+      "avatar",
+      "morphing",
+      "svg",
+      "svg-animation",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/jeremy-prt/bloub",
+    "stargazers_count": 616,
+    "language": "TypeScript",
+    "forks_count": 67,
+    "open_issues_count": 2,
+    "created_at": "2026-08-15T13:21:23Z",
+    "updated_at": "2026-08-22T01:59:08Z",
+    "pushed_at": "2026-08-17T19:18:48Z"
+  },
+  {
+    "id": 1339204821,
+    "name": "planar-wayline",
+    "full_name": "Tao-tao520/planar-wayline",
+    "owner": {
+      "login": "Tao-tao520",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119919952?v=4"
+    },
+    "description": "纯前端大疆面状航线规划：正射/倾斜、仿地，导出 KMZ（WPMZ）兼容司空 2",
+    "topics": [
+      "cesium",
+      "dji",
+      "drone",
+      "flighthub2",
+      "kmz",
+      "mapping",
+      "vue",
+      "wpml"
+    ],
+    "html_url": "https://github.com/Tao-tao520/planar-wayline",
+    "stargazers_count": 52,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-08-19T06:51:41Z",
+    "updated_at": "2026-08-21T06:29:15Z",
+    "pushed_at": "2026-08-21T06:27:28Z"
+  },
+  {
+    "id": 1335198054,
+    "name": "dhunter",
+    "full_name": "Dest1ny-Sec/dhunter",
+    "owner": {
+      "login": "Dest1ny-Sec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239099195?v=4"
+    },
+    "description": "AI 驱动的自主渗透测试平台：输入目标，AI agent 自动完成侦察→规划→主动测试→漏洞验证→报告生成。黑板引擎+多 worker+SRC 验收门禁。仅供学术与安全研究使用。",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "autonomous-agent",
+      "bug-bounty",
+      "cybersecurity",
+      "golang",
+      "llm",
+      "offensive-security",
+      "penetration-testing",
+      "pentest",
+      "python",
+      "reconnaissance",
+      "red-team",
+      "security",
+      "vue",
+      "vulnerability-discovery",
+      "web-security"
+    ],
+    "html_url": "https://github.com/Dest1ny-Sec/dhunter",
+    "stargazers_count": 42,
+    "language": "Go",
+    "forks_count": 5,
+    "open_issues_count": 2,
+    "created_at": "2026-08-15T15:28:31Z",
+    "updated_at": "2026-08-21T12:41:11Z",
+    "pushed_at": "2026-08-18T13:47:39Z"
+  },
+  {
+    "id": 1337087599,
+    "name": "Miracle",
+    "full_name": "Miralous/Miracle",
+    "owner": {
+      "login": "Miralous",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286329492?v=4"
+    },
+    "description": "A miracle blog theme based on VitePress after deleting accidentally.",
+    "topics": [
+      "blog",
+      "blog-theme",
+      "design",
+      "miracle",
+      "vitepress",
+      "vue"
+    ],
+    "html_url": "https://github.com/Miralous/Miracle",
+    "stargazers_count": 8,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T11:40:59Z",
+    "updated_at": "2026-08-21T11:53:32Z",
+    "pushed_at": "2026-08-21T11:49:33Z"
+  },
+  {
+    "id": 1339740584,
+    "name": "loopem",
+    "full_name": "TahaSh/loopem",
+    "owner": {
+      "login": "TahaSh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5775341?v=4"
+    },
+    "description": "A picker for lists of any length. Line, arc, wheel, or a layout you write. Virtualized, keyboard-accessible, and it works with any framework.",
+    "topics": [
+      "carousel",
+      "coverflow",
+      "headless",
+      "picker",
+      "react",
+      "svelte",
+      "typescript",
+      "virtualized",
+      "vue"
+    ],
+    "html_url": "https://github.com/TahaSh/loopem",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T15:29:43Z",
+    "updated_at": "2026-08-20T18:44:32Z",
+    "pushed_at": "2026-08-19T15:44:23Z"
+  },
+  {
+    "id": 1334737461,
+    "name": "DSH-element-source",
+    "full_name": "GULI-lab/DSH-element-source",
+    "owner": {
+      "login": "GULI-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191756896?v=4"
+    },
+    "description": "在开发页面点击任意 UI 元素，一键定位 Vue / React / Svelte / Angular 源码。DSH 点击定位源码检查器，兼容 dsh-better-sidebar：预览本地 dev server，点击元素，源码直达 DSH 聊天，交给助手微调。Click a UI element in your dev page to jump to its Vue / React / Svelte / Angular source in the DSH chat. DeepSeek Harness click-to-source inspector, dsh-better-sidebar compatible.",
+    "topics": [
+      "code-inspection",
+      "code-inspector",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-better-sidebar",
+      "dsh-plugin",
+      "react",
+      "vue"
+    ],
+    "html_url": "https://github.com/GULI-lab/DSH-element-source",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T02:38:57Z",
+    "updated_at": "2026-08-18T08:43:07Z",
+    "pushed_at": "2026-08-15T05:19:19Z"
+  },
+  {
+    "id": 1336213290,
+    "name": "mobile-devtools",
+    "full_name": "dewasemadi/mobile-devtools",
+    "owner": {
+      "login": "dewasemadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66185022?v=4"
+    },
+    "description": "Next-Gen Framework-Agnostic In-App Mobile Debugger & Inspector Overlay for Web Applications (React, Vue, Svelte, and Vanilla JS).",
+    "topics": [
+      "console",
+      "debugger",
+      "devtools",
+      "dom-inspector",
+      "frontend",
+      "in-app",
+      "inspector",
+      "mobile",
+      "monorepo",
+      "network-inspector",
+      "pnpm",
+      "react",
+      "shadow-dom",
+      "svelte",
+      "typescript",
+      "vanilla-js",
+      "vue",
+      "web-development"
+    ],
+    "html_url": "https://github.com/dewasemadi/mobile-devtools",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T17:57:14Z",
+    "updated_at": "2026-08-21T01:24:54Z",
+    "pushed_at": "2026-08-21T01:26:01Z"
+  },
+  {
+    "id": 1337948762,
+    "name": "todo-tauri",
+    "full_name": "followG/todo-tauri",
+    "owner": {
+      "login": "followG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/301381511?v=4"
+    },
+    "description": "轻量级桌面悬浮待办条 · Tauri 2 + Vue 3 · 安装包约 1.3MB · 贴边自动隐藏/紧急度标记/导出/自定义外观/数据自动备份",
+    "topics": [
+      "desktop-app",
+      "floating-widget",
+      "rust",
+      "tauri",
+      "todo",
+      "todo-app",
+      "vue",
+      "vue3",
+      "webview2",
+      "windows"
+    ],
+    "html_url": "https://github.com/followG/todo-tauri",
+    "stargazers_count": 2,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T03:57:52Z",
+    "updated_at": "2026-08-18T09:30:46Z",
+    "pushed_at": "2026-08-18T09:24:03Z"
+  },
+  {
+    "id": 1337976683,
+    "name": "html-tools",
+    "full_name": "cuytamvan/html-tools",
+    "owner": {
+      "login": "cuytamvan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38482943?v=4"
+    },
+    "description": "A collection of handy developer tools for JSON, CSV, and data manipulation — built with Vue.js and available as a Progressive Web App (PWA).",
+    "topics": [
+      "devtools",
+      "pwa",
+      "tools",
+      "vue"
+    ],
+    "html_url": "https://github.com/cuytamvan/html-tools",
+    "stargazers_count": 2,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T04:40:31Z",
+    "updated_at": "2026-08-21T10:00:00Z",
+    "pushed_at": "2026-08-21T09:58:21Z"
+  },
+  {
+    "id": 1339017934,
+    "name": "AI_Cooker",
+    "full_name": "bcny-agen/AI_Cooker",
+    "owner": {
+      "login": "bcny-agen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240316166?v=4"
+    },
+    "description": "Full-stack intelligent cooking assistant with Agent and Recipe RAG",
+    "topics": [
+      "ai-cooking",
+      "fastapi",
+      "langgraph",
+      "rag",
+      "spring-boot",
+      "vue"
+    ],
+    "html_url": "https://github.com/bcny-agen/AI_Cooker",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T02:30:42Z",
+    "updated_at": "2026-08-20T04:10:29Z",
+    "pushed_at": "2026-08-20T04:10:05Z"
+  },
+  {
+    "id": 1341152870,
+    "name": "silverpilot",
+    "full_name": "LeiQingliang/silverpilot",
+    "owner": {
+      "login": "LeiQingliang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154101180?v=4"
+    },
+    "description": "A verifiable, tool-using eldercare service operations Agent built with Spring Boot and Vue. Not a scripted chatbot: the model plans, the application authorizes, and the user confirms.",
+    "topics": [
+      "agent",
+      "ai",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "deepseek-harness",
+      "docker",
+      "doubao",
+      "gemini",
+      "grok",
+      "manus",
+      "mybatis",
+      "mysql",
+      "mysql2",
+      "prompt-engineering",
+      "redis",
+      "springboot",
+      "vue"
+    ],
+    "html_url": "https://github.com/LeiQingliang/silverpilot",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T21:19:54Z",
+    "updated_at": "2026-08-20T22:33:36Z",
+    "pushed_at": "2026-08-20T21:21:36Z"
+  },
+  {
+    "id": 1339760574,
+    "name": "social-storefront",
+    "full_name": "purushottam-kunwar/social-storefront",
+    "owner": {
+      "login": "purushottam-kunwar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41355123?v=4"
+    },
+    "description": "Multi-tenant SaaS giving Instagram-first clothing brands a branded product catalogue on their own subdomain. A digital showroom, not a shop: customers browse, filter and share pieces, then message the seller on WhatsApp or Instagram to order. Laravel 13, Vue 3 (Options API), PostgreSQL, Redis.",
+    "topics": [
+      "laravel",
+      "multi-tenant",
+      "php",
+      "postgresql",
+      "product-catalog",
+      "redis",
+      "saas",
+      "subdomain",
+      "tailwindcss",
+      "vue"
+    ],
+    "html_url": "https://github.com/purushottam-kunwar/social-storefront",
+    "stargazers_count": 1,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T15:50:40Z",
+    "updated_at": "2026-08-19T15:54:04Z",
+    "pushed_at": "2026-08-19T15:50:50Z"
+  },
+  {
+    "id": 1338362299,
+    "name": "ZT.Demo",
+    "full_name": "RezerwujTO/ZT.Demo",
+    "owner": {
+      "login": "RezerwujTO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318235048?v=4"
+    },
+    "description": "Oficjalne demo systemu RezerwujTO",
+    "topics": [
+      "barber",
+      "barbershop",
+      "css",
+      "rezerwacja",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/RezerwujTO/ZT.Demo",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T12:09:57Z",
+    "updated_at": "2026-08-19T13:31:17Z",
+    "pushed_at": "2026-08-19T10:00:37Z"
+  },
+  {
+    "id": 1341416695,
+    "name": "VidFlow",
+    "full_name": "foorgange/VidFlow",
+    "owner": {
+      "login": "foorgange",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175308210?v=4"
+    },
+    "description": "面向长视频内容理解的 AI 视频解析与智能总结平台，支持视频内容解析、智能总结与交互式问答。致力于降低长视频内容获取与理解成本，提供更加高效的内容分析体验。",
+    "topics": [
+      "lanchain4j",
+      "minio",
+      "mybatis-plus",
+      "mysql",
+      "redis",
+      "rocketmq",
+      "springboot",
+      "vue"
+    ],
+    "html_url": "https://github.com/foorgange/VidFlow",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T05:01:03Z",
+    "updated_at": "2026-08-21T12:34:42Z",
+    "pushed_at": "2026-08-21T12:34:02Z"
+  },
+  {
+    "id": 1336613292,
+    "name": "DeepRead",
+    "full_name": "HuaJi2077/DeepRead",
+    "owner": {
+      "login": "HuaJi2077",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221543887?v=4"
+    },
+    "description": "Deepseek 网页样式的电子书阅读器。| An e-book reader styled after the DeepSeek web page.",
+    "topics": [
+      "ai",
+      "deepseek",
+      "ebook",
+      "electron",
+      "javascript",
+      "nodejs",
+      "reader",
+      "vue",
+      "web",
+      "windows"
+    ],
+    "html_url": "https://github.com/HuaJi2077/DeepRead",
+    "stargazers_count": 1,
+    "language": "CSS",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T03:21:44Z",
+    "updated_at": "2026-08-22T01:16:11Z",
+    "pushed_at": "2026-08-22T01:16:02Z"
+  },
+  {
+    "id": 1334704168,
+    "name": "ui-image-to-code-studio",
+    "full_name": "zwq-top/ui-image-to-code-studio",
+    "owner": {
+      "login": "zwq-top",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192842301?v=4"
+    },
+    "description": "Open-source Codex Skill: turn authorized screenshots and websites into traceable UI evidence, real frontend code, browser parity, and Studio roundtrips.",
+    "topics": [
+      "browser-automation",
+      "codex-skill",
+      "computer-vision",
+      "design-to-code",
+      "developer-tools",
+      "frontend",
+      "html-css-javascript",
+      "open-core",
+      "react",
+      "screenshot-to-code",
+      "ui-testing",
+      "ui-to-code",
+      "visual-editor",
+      "vue",
+      "website-to-code"
+    ],
+    "html_url": "https://github.com/zwq-top/ui-image-to-code-studio",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-15T01:27:30Z",
+    "updated_at": "2026-08-15T03:09:21Z",
+    "pushed_at": "2026-08-15T02:42:59Z"
+  },
+  {
+    "id": 1336580184,
+    "name": "VoiceTranslator",
+    "full_name": "RedeatI/VoiceTranslator",
+    "owner": {
+      "login": "RedeatI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129928655?v=4"
+    },
+    "description": "Windows-first local voice pipeline workbench built with Tauri, Vue, Rust, and Python.",
+    "topics": [
+      "audio",
+      "local-first",
+      "python",
+      "rust",
+      "speech-recognition",
+      "tauri",
+      "text-to-speech",
+      "voice-conversion",
+      "vue",
+      "windows"
+    ],
+    "html_url": "https://github.com/RedeatI/VoiceTranslator",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T02:39:04Z",
+    "updated_at": "2026-08-17T02:50:42Z",
+    "pushed_at": "2026-08-17T02:44:24Z"
+  },
+  {
+    "id": 1338527630,
+    "name": "dsh-frontend-engineer-agent",
+    "full_name": "scsm-unrestrict/dsh-frontend-engineer-agent",
+    "owner": {
+      "login": "scsm-unrestrict",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269380773?v=4"
+    },
+    "description": "DSH 前端工程师 Agent 预设：80 个开箱即用的前端技能，覆盖 React/Vue/Next.js、设计稿还原、性能优化与无障碍审查，让 DeepSeek Harness 秒变资深前端工程师。",
+    "topics": [
+      "accessibility",
+      "agent-preset",
+      "dedeepseek-harnes",
+      "dsh",
+      "frontend",
+      "nextjs",
+      "preformance",
+      "react",
+      "skills",
+      "vue"
+    ],
+    "html_url": "https://github.com/scsm-unrestrict/dsh-frontend-engineer-agent",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T14:54:45Z",
+    "updated_at": "2026-08-19T12:15:48Z",
+    "pushed_at": "2026-08-18T15:32:42Z"
+  },
+  {
+    "id": 1341692163,
+    "name": "flow-engine-project",
+    "full_name": "angelo-mouawad/flow-engine-project",
+    "owner": {
+      "login": "angelo-mouawad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185547420?v=4"
+    },
+    "description": "A configurable workflow engine. You define a flow once, then trigger it over HTTP and it walks through its steps on its own. It was built as a scrum team project at UCLL following an agile aproach.",
+    "topics": [
+      "flow-engine",
+      "flow-engineering",
+      "java",
+      "mongodb",
+      "springboot",
+      "tailwind",
+      "vue"
+    ],
+    "html_url": "https://github.com/angelo-mouawad/flow-engine-project",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T10:39:01Z",
+    "updated_at": "2026-08-21T10:45:37Z",
+    "pushed_at": "2026-08-21T10:42:38Z"
+  },
+  {
+    "id": 1337346923,
+    "name": "cmajor-orrery",
+    "full_name": "loowps/cmajor-orrery",
+    "owner": {
+      "login": "loowps",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52254689?v=4"
+    },
+    "description": "🪐 Polymetric variable step size MIDI sequencer, built as a Cmajor patch with a Vue UI.",
+    "topics": [
+      "audio-plugin",
+      "cmajor",
+      "cmajorpatch",
+      "sequencer-midi",
+      "vue",
+      "vue3",
+      "vuejs"
+    ],
+    "html_url": "https://github.com/loowps/cmajor-orrery",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T15:52:13Z",
+    "updated_at": "2026-08-19T20:29:13Z",
+    "pushed_at": "2026-08-19T20:27:08Z"
+  }
+]
