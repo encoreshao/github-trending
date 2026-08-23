@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1336248697,
+    "name": "ai-data-extractor",
+    "full_name": "bawadou/ai-data-extractor",
+    "owner": {
+      "login": "bawadou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5231384?v=4"
+    },
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "topics": [
+      "ai",
+      "ai-data-extractor",
+      "claude",
+      "cursor",
+      "cursor-ai",
+      "data-extraction",
+      "gemini"
+    ],
+    "html_url": "https://github.com/bawadou/ai-data-extractor",
+    "stargazers_count": 541,
+    "language": "Python",
+    "forks_count": 99,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T18:35:58Z",
+    "updated_at": "2026-08-22T21:16:03Z",
+    "pushed_at": "2026-08-20T10:08:15Z"
+  },
+  {
+    "id": 1336998801,
+    "name": "dsh-image-gen",
+    "full_name": "shanliuling/dsh-image-gen",
+    "owner": {
+      "login": "shanliuling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83563400?v=4"
+    },
+    "description": "Generate images directly in DeepSeek Harness chats",
+    "topics": [
+      "ai-agent",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "gemini",
+      "image-generation",
+      "openai",
+      "plugin",
+      "seedream"
+    ],
+    "html_url": "https://github.com/shanliuling/dsh-image-gen",
+    "stargazers_count": 134,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 2,
+    "created_at": "2026-08-17T10:16:37Z",
+    "updated_at": "2026-08-23T01:48:42Z",
+    "pushed_at": "2026-08-19T16:46:32Z"
+  },
+  {
+    "id": 1338070588,
+    "name": "local-image-gen",
+    "full_name": "DandreYang/local-image-gen",
+    "owner": {
+      "login": "DandreYang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13072562?v=4"
+    },
+    "description": "Generate images from local Grok, Antigravity, Cursor, or Codex logins, with official API keys as fallback.",
+    "topics": [
+      "cli",
+      "gemini",
+      "gpt-image-2",
+      "grok",
+      "grok-imagine-image-2",
+      "image-generation",
+      "nano-banana",
+      "openai",
+      "skill"
+    ],
+    "html_url": "https://github.com/DandreYang/local-image-gen",
+    "stargazers_count": 46,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 1,
+    "created_at": "2026-08-18T06:46:18Z",
+    "updated_at": "2026-08-21T01:02:25Z",
+    "pushed_at": "2026-08-21T13:04:14Z"
+  },
+  {
+    "id": 1337546913,
+    "name": "argus",
+    "full_name": "argus-testing/argus",
+    "owner": {
+      "login": "argus-testing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137006198?v=4"
+    },
+    "description": "Open-source AI QA agent. Argus tests web apps like a human tester would: visual navigation, real workflows, evidence-backed reports.",
+    "topics": [
+      "agentic-ai",
+      "gemini",
+      "playwright",
+      "qa",
+      "testing",
+      "vision-api"
+    ],
+    "html_url": "https://github.com/argus-testing/argus",
+    "stargazers_count": 35,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T19:04:41Z",
+    "updated_at": "2026-08-23T01:53:11Z",
+    "pushed_at": "2026-08-22T20:09:10Z"
+  },
+  {
+    "id": 1338600136,
+    "name": "agy-staff",
+    "full_name": "keli-wen/agy-staff",
+    "owner": {
+      "login": "keli-wen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103916249?v=4"
+    },
+    "description": "Hire Google's Antigravity CLI (agy) as a fast Gemini staffer for Claude Code and OpenAI Codex.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "antigravity",
+      "antigravity-cli",
+      "chatgpt",
+      "claude-code",
+      "claude-code-plugin",
+      "cli",
+      "code-review",
+      "codex",
+      "codex-plugin",
+      "developer-tools",
+      "gemini",
+      "llm",
+      "multi-agent",
+      "openai-codex"
+    ],
+    "html_url": "https://github.com/keli-wen/agy-staff",
+    "stargazers_count": 18,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T16:08:25Z",
+    "updated_at": "2026-08-22T19:20:33Z",
+    "pushed_at": "2026-08-19T16:11:15Z"
+  },
+  {
+    "id": 1335580282,
+    "name": "llm-stream-reformat",
+    "full_name": "ruvnet/llm-stream-reformat",
+    "owner": {
+      "login": "ruvnet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2934394?v=4"
+    },
+    "description": "Reformat a live LLM token stream inflight — separate thinking from answer, collapse repetition, normalize. Google Vertex / OpenRouter / meta-llm. Rust + WASM, built on ruvnet/midstream.",
+    "topics": [
+      "gemini",
+      "inflight-analysis",
+      "llm",
+      "midstream",
+      "openrouter",
+      "reasoning",
+      "reasoning-models",
+      "reformat",
+      "rust",
+      "sse",
+      "streaming",
+      "wasm"
+    ],
+    "html_url": "https://github.com/ruvnet/llm-stream-reformat",
+    "stargazers_count": 18,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T03:00:49Z",
+    "updated_at": "2026-08-22T05:27:56Z",
+    "pushed_at": "2026-08-17T13:36:17Z"
+  },
+  {
+    "id": 1342255803,
+    "name": "antigravity-bypass-russia",
+    "full_name": "vezlin1/antigravity-bypass-russia",
+    "owner": {
+      "login": "vezlin1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57999470?v=4"
+    },
+    "description": "Google Antigravity & Gemini 2.0 bypass in Russia (Windows & macOS, No VPN, SmartDNS NRPT & SIMD binary patcher)",
+    "topics": [
+      "ai",
+      "antigravity",
+      "antigravity-ai",
+      "antigravity-ide",
+      "bypass",
+      "cursor",
+      "gemini",
+      "gemini-ai",
+      "google-antigravity",
+      "open-source",
+      "patcher",
+      "russia",
+      "russia-ai",
+      "russian-ai",
+      "rust",
+      "smartdns",
+      "unlocker",
+      "vpn-bypass",
+      "vscode",
+      "windsurf"
+    ],
+    "html_url": "https://github.com/vezlin1/antigravity-bypass-russia",
+    "stargazers_count": 11,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T22:02:26Z",
+    "updated_at": "2026-08-22T18:11:08Z",
+    "pushed_at": "2026-08-22T15:56:19Z"
+  },
+  {
+    "id": 1339101586,
+    "name": "dsh-agy-link",
+    "full_name": "amlyczz/dsh-agy-link",
+    "owner": {
+      "login": "amlyczz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83716611?v=4"
+    },
+    "description": "Google Antigravity (agy CLI) models for DeepSeek Harness — streaming chat, thinking, tool activity, usage, in-GUI Google OAuth login",
+    "topics": [
+      "antigravity",
+      "dsh",
+      "dsh-plugin",
+      "gemini"
+    ],
+    "html_url": "https://github.com/amlyczz/dsh-agy-link",
+    "stargazers_count": 10,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T04:47:42Z",
+    "updated_at": "2026-08-22T17:15:54Z",
+    "pushed_at": "2026-08-21T11:23:25Z"
+  },
+  {
+    "id": 1337669222,
+    "name": "NovaAgent",
+    "full_name": "Hsoofi82/NovaAgent",
+    "owner": {
+      "login": "Hsoofi82",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93610508?v=4"
+    },
+    "description": "⚡ ƝØVΛ — Free & open-source AI Agent for Telegram. Builds & hosts web apps, generates games, images, PDFs & voice. 100% free tier. Self-host in 10 min. AGPL-3.0.",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "cloudflare-workers",
+      "cloudflare-workers-ai",
+      "free",
+      "gemini",
+      "open-source",
+      "open-source-project",
+      "telegram-bot-ai-assistant",
+      "telegram-bot-with-ai",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Hsoofi82/NovaAgent",
+    "stargazers_count": 10,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T21:19:53Z",
+    "updated_at": "2026-08-20T20:24:30Z",
+    "pushed_at": "2026-08-20T20:24:56Z"
+  },
+  {
+    "id": 1335664137,
+    "name": "dsh-vision",
+    "full_name": "54xkeee/dsh-vision",
+    "owner": {
+      "login": "54xkeee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230514319?v=4"
+    },
+    "description": "Vision for DeepSeek Harness: Doubao Web by default (zero-cost, no API key), Antigravity IDE quota (flash/pro), any IDE CLI, Gemini — auto detail escalation, evidence memory",
+    "topics": [
+      "antigravity",
+      "doubao",
+      "dsh",
+      "dsh-plugin",
+      "gemini",
+      "image-recognition",
+      "multimodal",
+      "ocr",
+      "vision",
+      "vlm"
+    ],
+    "html_url": "https://github.com/54xkeee/dsh-vision",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-08-16T06:06:41Z",
+    "updated_at": "2026-08-17T22:02:41Z",
+    "pushed_at": "2026-08-16T07:08:41Z"
+  },
+  {
+    "id": 1342324605,
+    "name": "JobN8N",
+    "full_name": "oft24/JobN8N",
+    "owner": {
+      "login": "oft24",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144960274?v=4"
+    },
+    "description": "Plantilla importable de n8n para buscar, puntuar y enviar vacantes de LinkedIn, OCC, Computrabajo e Indeed.",
+    "topics": [
+      "automation",
+      "gemini",
+      "javascript",
+      "job-search",
+      "n8n"
+    ],
+    "html_url": "https://github.com/oft24/JobN8N",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T00:23:32Z",
+    "updated_at": "2026-08-22T09:58:49Z",
+    "pushed_at": "2026-08-22T00:51:34Z"
+  },
+  {
+    "id": 1339499591,
+    "name": "route-atlas",
+    "full_name": "TimurUgulava/route-atlas",
+    "owner": {
+      "login": "TimurUgulava",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225344688?v=4"
+    },
+    "description": "Скилл для Claude Code: скриншот маршрута → иллюстрированная псевдо-3D карта с рельефом местности, вашим стилем и виньетками реальных событий поездки",
+    "topics": [
+      "ai",
+      "cartography",
+      "claude-code",
+      "claude-skill",
+      "gemini",
+      "image-generation",
+      "maps",
+      "travel"
+    ],
+    "html_url": "https://github.com/TimurUgulava/route-atlas",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T11:34:59Z",
+    "updated_at": "2026-08-22T19:59:02Z",
+    "pushed_at": "2026-08-19T15:43:46Z"
+  },
+  {
+    "id": 1342112559,
+    "name": "linkedin-optimizer",
+    "full_name": "fltman/linkedin-optimizer",
+    "owner": {
+      "login": "fltman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102783063?v=4"
+    },
+    "description": "Fota något vardagligt, skriv en platt mening — ut kommer ett outhärdligt lökigt LinkedIn-inlägg och en bild som ser ut som en keynote. LAMP, bring your own OpenRouter-key.",
+    "topics": [
+      "bring-your-own-key",
+      "gemini",
+      "linkedin",
+      "no-build-step",
+      "openrouter",
+      "parody",
+      "php"
+    ],
+    "html_url": "https://github.com/fltman/linkedin-optimizer",
+    "stargazers_count": 4,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T18:28:32Z",
+    "updated_at": "2026-08-23T01:04:42Z",
+    "pushed_at": "2026-08-21T19:28:50Z"
+  },
+  {
+    "id": 1337925913,
+    "name": "BOB-Gemini-Free",
+    "full_name": "div197/BOB-Gemini-Free",
+    "owner": {
+      "login": "div197",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59408730?v=4"
+    },
+    "description": "High-performance local 3-in-1 gateway unlocking Google Gemini as standard OpenAI, Anthropic (Claude Code), and Gemini API endpoints for coding agents, IDEs, and tools.",
+    "topics": [
+      "abcsteps",
+      "ai-gateway",
+      "anthropic",
+      "bob-series",
+      "claude-code",
+      "codex-cli",
+      "gemini",
+      "golang",
+      "llm",
+      "multimodal",
+      "openai-compatible",
+      "reverse-proxy",
+      "thinking-models",
+      "vision"
+    ],
+    "html_url": "https://github.com/div197/BOB-Gemini-Free",
+    "stargazers_count": 3,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T03:21:45Z",
+    "updated_at": "2026-08-22T07:41:17Z",
+    "pushed_at": "2026-08-22T07:41:02Z"
+  },
+  {
+    "id": 1341349497,
+    "name": "dsh-antigravity-auth",
+    "full_name": "suntianc/dsh-antigravity-auth",
+    "owner": {
+      "login": "suntianc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53503872?v=4"
+    },
+    "description": "DeepSeek Harness plugin for Antigravity OAuth login and native Antigravity Auth capability bundle",
+    "topics": [
+      "antigravity",
+      "deepseek-harness",
+      "dsh-plugin",
+      "gemini",
+      "oauth"
+    ],
+    "html_url": "https://github.com/suntianc/dsh-antigravity-auth",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T03:12:34Z",
+    "updated_at": "2026-08-23T01:16:30Z",
+    "pushed_at": "2026-08-22T08:46:44Z"
+  },
+  {
+    "id": 1340258364,
+    "name": "discord-opencode-agent",
+    "full_name": "babaku-7/discord-opencode-agent",
+    "owner": {
+      "login": "babaku-7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190277047?v=4"
+    },
+    "description": "Discord coding agent powered by OpenCode with Cohere and Gemini support.",
+    "topics": [
+      "ai-agents",
+      "coding-agent",
+      "cohere",
+      "discord-bot",
+      "gemini",
+      "nodejs",
+      "opencode",
+      "typescript"
+    ],
+    "html_url": "https://github.com/babaku-7/discord-opencode-agent",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T03:54:12Z",
+    "updated_at": "2026-08-22T17:30:53Z",
+    "pushed_at": "2026-08-22T17:30:48Z"
+  },
+  {
+    "id": 1335517357,
+    "name": "gaussmeridian",
+    "full_name": "Gaussian-id/gaussmeridian",
+    "owner": {
+      "login": "Gaussian-id",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271668633?v=4"
+    },
+    "description": "Self-hosted LLM gateway and router with an OpenAI-compatible API. Route requests across OpenAI, Anthropic, Google Gemini and local models, with a web console for API keys, projects, budgets and usage. Rust, Docker, AGPL-3.0.",
+    "topics": [
+      "ai",
+      "ai-gateway",
+      "anthropic",
+      "api-gateway",
+      "byok",
+      "chatgpt",
+      "claude",
+      "docker",
+      "gemini",
+      "inference",
+      "llm",
+      "llm-gateway",
+      "llm-router",
+      "llmops",
+      "model-routing",
+      "openai",
+      "openai-api",
+      "openai-compatible",
+      "rust",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/Gaussian-id/gaussmeridian",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-16T00:21:56Z",
+    "updated_at": "2026-08-17T16:49:47Z",
+    "pushed_at": "2026-08-17T11:14:53Z"
+  },
+  {
+    "id": 1339467625,
+    "name": "generador-de-contenido",
+    "full_name": "ecomyseo/generador-de-contenido",
+    "owner": {
+      "login": "ecomyseo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53432357?v=4"
+    },
+    "description": "Turn a book, a URL or just an idea into a finished YouTube episode: AI writes the script, generates the images, clones your voice and assembles the MP4 with ffmpeg. Runs entirely on your machine. Windows, macOS and Linux.",
+    "topics": [
+      "ai",
+      "ai-video",
+      "claude",
+      "content-creation",
+      "desktop-app",
+      "electron",
+      "elevenlabs",
+      "ffmpeg",
+      "gemini",
+      "generative-ai",
+      "local-first",
+      "nodejs",
+      "podcast",
+      "spanish",
+      "text-to-speech",
+      "text-to-video",
+      "video-editing",
+      "video-generation",
+      "voice-cloning",
+      "youtube"
+    ],
+    "html_url": "https://github.com/ecomyseo/generador-de-contenido",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T11:05:15Z",
+    "updated_at": "2026-08-22T12:27:10Z",
+    "pushed_at": "2026-08-22T12:26:47Z"
+  },
+  {
+    "id": 1339006998,
+    "name": "reimagine-it",
+    "full_name": "Kayforkind/reimagine-it",
+    "owner": {
+      "login": "Kayforkind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5000350?v=4"
+    },
+    "description": "Claude Code / Cursor / Codex skill. Redesigns any file from its own content — webpage, PDF, slides, infographic. Offline HTML. No CDN.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "copilot",
+      "creativity",
+      "cursor",
+      "data-visualization",
+      "design",
+      "gemini",
+      "html",
+      "infographic",
+      "openai",
+      "pdf",
+      "svg",
+      "webgl"
+    ],
+    "html_url": "https://github.com/Kayforkind/reimagine-it",
+    "stargazers_count": 3,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T02:12:07Z",
+    "updated_at": "2026-08-22T23:58:12Z",
+    "pushed_at": "2026-08-22T23:57:47Z"
+  },
+  {
+    "id": 1340902544,
+    "name": "dsh-oauth",
+    "full_name": "wang-kaopu/dsh-oauth",
+    "owner": {
+      "login": "wang-kaopu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146500293?v=4"
+    },
+    "description": "Use ChatGPT (Codex) and Gemini Code Assist subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+    "topics": [
+      "chatgpt",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "deepseek-harness-plugins",
+      "dsh-plugin",
+      "gemini",
+      "oauth",
+      "typescript"
+    ],
+    "html_url": "https://github.com/wang-kaopu/dsh-oauth",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T16:23:27Z",
+    "updated_at": "2026-08-22T07:25:13Z",
+    "pushed_at": "2026-08-21T01:09:30Z"
+  }
+]

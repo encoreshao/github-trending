@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1341694596,
+    "name": "pglite-go",
+    "full_name": "moriyoshi/pglite-go",
+    "owner": {
+      "login": "moriyoshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18755?v=4"
+    },
+    "description": "Embedded PostgreSQL for Go — no external server, no libpq, no separate process.",
+    "topics": [
+      "database",
+      "embedded",
+      "golang",
+      "pglite",
+      "postgres",
+      "wasm"
+    ],
+    "html_url": "https://github.com/moriyoshi/pglite-go",
+    "stargazers_count": 8,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T10:41:44Z",
+    "updated_at": "2026-08-22T09:19:25Z",
+    "pushed_at": "2026-08-21T10:43:45Z"
+  },
+  {
+    "id": 1335990802,
+    "name": "sql-switch",
+    "full_name": "creative-softworks/sql-switch",
+    "owner": {
+      "login": "creative-softworks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312206755?v=4"
+    },
+    "description": "Universal hot-swappable DAL — SQLite in dev, PostgreSQL in prod, one fluent API",
+    "topics": [
+      "better-sqlite3",
+      "dal",
+      "database",
+      "drizzle",
+      "hot-swap",
+      "key-value",
+      "nodejs",
+      "orm",
+      "postgres",
+      "postgresql",
+      "sqlite",
+      "typescript"
+    ],
+    "html_url": "https://github.com/creative-softworks/sql-switch",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-16T14:00:43Z",
+    "updated_at": "2026-08-22T08:41:16Z",
+    "pushed_at": "2026-08-22T08:40:59Z"
+  },
+  {
+    "id": 1338368689,
+    "name": "vietprofs",
+    "full_name": "dynaroars/vietprofs",
+    "owner": {
+      "login": "dynaroars",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60983310?v=4"
+    },
+    "description": "Find Vietnamese and Vietnamese-American tenure-line STEM professors at U.S. universities.",
+    "topics": [
+      "academia",
+      "computer-science",
+      "database",
+      "mathematics",
+      "stem",
+      "vietnam",
+      "vietnamese"
+    ],
+    "html_url": "https://github.com/dynaroars/vietprofs",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-08-18T12:16:53Z",
+    "updated_at": "2026-08-23T01:15:20Z",
+    "pushed_at": "2026-08-23T01:15:12Z"
+  },
+  {
+    "id": 1339497805,
+    "name": "wharf",
+    "full_name": "drk1rd/wharf",
+    "owner": {
+      "login": "drk1rd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58465650?v=4"
+    },
+    "description": "Open-source, self-hostable database platform — provision PostgreSQL, MySQL, MongoDB, Redis, and ClickHouse via Docker, with a web UI, CLI, and REST API.",
+    "topics": [
+      "cli",
+      "clickhouse",
+      "database",
+      "database-as-a-service",
+      "database-management",
+      "dbaas",
+      "devtools",
+      "docker",
+      "docker-compose",
+      "mongodb",
+      "mysql",
+      "open-source",
+      "postgresql",
+      "react",
+      "redis",
+      "rest-api",
+      "self-hosted",
+      "sqlite",
+      "tls",
+      "typescript"
+    ],
+    "html_url": "https://github.com/drk1rd/wharf",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T11:33:21Z",
+    "updated_at": "2026-08-22T18:02:23Z",
+    "pushed_at": "2026-08-22T15:01:28Z"
+  },
+  {
+    "id": 1337916824,
+    "name": "dsh-mysql",
+    "full_name": "1321928757/dsh-mysql",
+    "owner": {
+      "login": "1321928757",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104535660?v=4"
+    },
+    "description": "MySQL connector plugin for DeepSeek Harness: configure connections in settings, switch per session from the composer, and expose mysql_query/mysql_tables/mysql_execute tools to every agent preset.",
+    "topics": [
+      "connector",
+      "database",
+      "deepseek-harness",
+      "dsh-plugin",
+      "mysql",
+      "sql",
+      "tools"
+    ],
+    "html_url": "https://github.com/1321928757/dsh-mysql",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T03:07:26Z",
+    "updated_at": "2026-08-22T13:58:24Z",
+    "pushed_at": "2026-08-18T03:08:41Z"
+  },
+  {
+    "id": 1335830503,
+    "name": "Reachable",
+    "full_name": "yashksaini-coder/Reachable",
+    "owner": {
+      "login": "yashksaini-coder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115717039?v=4"
+    },
+    "description": "Supply-chain incident response on a HydraDB graph: which of your services resolved a compromised version, which installed it while it was still live on npm, and the Cypher that proves each answer.",
+    "topics": [
+      "database",
+      "graphdb",
+      "hackathon",
+      "hydradb",
+      "mcp",
+      "mcp-server"
+    ],
+    "html_url": "https://github.com/yashksaini-coder/Reachable",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T10:46:23Z",
+    "updated_at": "2026-08-21T07:19:21Z",
+    "pushed_at": "2026-08-21T07:18:45Z"
+  },
+  {
+    "id": 1340520449,
+    "name": "inlaysql",
+    "full_name": "inlaySQL/inlaysql",
+    "owner": {
+      "login": "inlaySQL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/317764280?v=4"
+    },
+    "description": "An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid retrieval, and a MySQL wire protocol.",
+    "topics": [
+      "bm25",
+      "database",
+      "embedded-database",
+      "full-text-search",
+      "hnsw",
+      "hybrid-search",
+      "mvcc",
+      "mysql-protocol",
+      "no-std",
+      "rust",
+      "sql",
+      "sqlite",
+      "vector-database",
+      "vector-search",
+      "webassembly"
+    ],
+    "html_url": "https://github.com/inlaySQL/inlaysql",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T09:28:53Z",
+    "updated_at": "2026-08-21T17:50:17Z",
+    "pushed_at": "2026-08-21T17:50:19Z"
+  },
+  {
+    "id": 1336500204,
+    "name": "fastify",
+    "full_name": "mongoloquent/fastify",
+    "owner": {
+      "login": "mongoloquent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202248097?v=4"
+    },
+    "description": "Mongoloquent plugin for Fastify framework (node.js) 🍈",
+    "topics": [
+      "database",
+      "fastify",
+      "javascript",
+      "mongodb",
+      "mongoloquent",
+      "nodejs",
+      "nosql",
+      "orm",
+      "typescript"
+    ],
+    "html_url": "https://github.com/mongoloquent/fastify",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T00:41:44Z",
+    "updated_at": "2026-08-18T07:37:30Z",
+    "pushed_at": "2026-08-18T07:35:14Z"
+  },
+  {
+    "id": 1338111820,
+    "name": "medb",
+    "full_name": "antonmedv/medb",
+    "owner": {
+      "login": "antonmedv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141232?v=4"
+    },
+    "description": "MeDB is a JSON database for Go.",
+    "topics": [
+      "database",
+      "go",
+      "golang"
+    ],
+    "html_url": "https://github.com/antonmedv/medb",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T07:33:44Z",
+    "updated_at": "2026-08-21T21:15:34Z",
+    "pushed_at": "2026-08-21T21:15:26Z"
+  },
+  {
+    "id": 1341332930,
+    "name": "Analizador-Sismico-CHILE",
+    "full_name": "MatyTapia0/Analizador-Sismico-CHILE",
+    "owner": {
+      "login": "MatyTapia0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311243887?v=4"
+    },
+    "description": null,
+    "topics": [
+      "base",
+      "bases-de-datos",
+      "chile",
+      "database",
+      "earthquakes",
+      "poisson-distribution",
+      "python",
+      "seismology",
+      "sqlite3",
+      "terremoto"
+    ],
+    "html_url": "https://github.com/MatyTapia0/Analizador-Sismico-CHILE",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T02:45:03Z",
+    "updated_at": "2026-08-21T04:21:02Z",
+    "pushed_at": "2026-08-21T02:55:25Z"
+  },
+  {
+    "id": 1336852446,
+    "name": "datalog-dafsa",
+    "full_name": "fixpoint-linux/datalog-dafsa",
+    "owner": {
+      "login": "fixpoint-linux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318653573?v=4"
+    },
+    "description": "DAFSA-backed Datalog engine in C: load facts, compile Datalog to a VM, materialize + serve from mmap snapshots. Docs: https://fixpointlinux.org/datalog-dafsa/",
+    "topics": [
+      "as-of-query",
+      "c",
+      "compiler",
+      "dafsa",
+      "data-structures",
+      "database",
+      "datalog",
+      "deductive-database",
+      "finite-state-automata",
+      "incremental-view-maintenance",
+      "materialized-views",
+      "memory-mapped",
+      "query-engine",
+      "snapshot-isolation",
+      "time-travel",
+      "virtual-machine"
+    ],
+    "html_url": "https://github.com/fixpoint-linux/datalog-dafsa",
+    "stargazers_count": 1,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T07:56:13Z",
+    "updated_at": "2026-08-21T19:36:10Z",
+    "pushed_at": "2026-08-21T19:35:59Z"
+  },
+  {
+    "id": 1338130882,
+    "name": "dsh-dbhub-live",
+    "full_name": "mr-mihu/dsh-dbhub-live",
+    "owner": {
+      "login": "mr-mihu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34831987?v=4"
+    },
+    "description": "DSH 数据库 MCP 桥接插件：常驻多源 dbhub 服务 + 按工作区工具 + 临时动态连接。未装 dbhub 时自动安装并自动更新。",
+    "topics": [
+      "database",
+      "dbhub",
+      "dsh-plugin"
+    ],
+    "html_url": "https://github.com/mr-mihu/dsh-dbhub-live",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T07:56:00Z",
+    "updated_at": "2026-08-18T08:43:58Z",
+    "pushed_at": "2026-08-18T08:40:03Z"
+  },
+  {
+    "id": 1336988539,
+    "name": "dbtools",
+    "full_name": "seanpham99/dbtools",
+    "owner": {
+      "login": "seanpham99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115443243?v=4"
+    },
+    "description": "Migration authority and local dev-loop for MSSQL, Postgres, and SQLite with ledger verification and schema drift detection.",
+    "topics": [
+      "cli",
+      "database",
+      "devops",
+      "golang",
+      "migration-tool",
+      "migrations",
+      "mssql",
+      "postgres",
+      "schema-management",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/seanpham99/dbtools",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T10:06:07Z",
+    "updated_at": "2026-08-22T04:34:43Z",
+    "pushed_at": "2026-08-22T04:34:42Z"
+  },
+  {
+    "id": 1341763804,
+    "name": "EuleDB",
+    "full_name": "twohreichel/EuleDB",
+    "owner": {
+      "login": "twohreichel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118019689?v=4"
+    },
+    "description": "Local-first, EU-sovereign embedded hybrid database you can ask in plain language.",
+    "topics": [
+      "arrow",
+      "bm25",
+      "crdt",
+      "database",
+      "embedded",
+      "embedded-database",
+      "encryption",
+      "full-text-search",
+      "hybrid-search",
+      "local-first",
+      "natural-language",
+      "privacy",
+      "rust",
+      "vector-search"
+    ],
+    "html_url": "https://github.com/twohreichel/EuleDB",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T12:01:20Z",
+    "updated_at": "2026-08-22T19:13:48Z",
+    "pushed_at": "2026-08-22T19:12:26Z"
+  },
+  {
+    "id": 1340621974,
+    "name": "jsonsqldb",
+    "full_name": "miguelenred/jsonsqldb",
+    "owner": {
+      "login": "miguelenred",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318931030?v=4"
+    },
+    "description": "SQL database engine, HTTP API and web admin panel in plain PHP over JSON files. No database server, no Composer, no extensions. For hosting with limited or no databases.",
+    "topics": [
+      "admin-panel",
+      "database",
+      "flat-file-database",
+      "json",
+      "no-dependencies",
+      "php",
+      "rest-api",
+      "shared-hosting",
+      "sql",
+      "sql-engine",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/miguelenred/jsonsqldb",
+    "stargazers_count": 1,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T11:27:31Z",
+    "updated_at": "2026-08-21T17:02:07Z",
+    "pushed_at": "2026-08-21T11:19:40Z"
+  },
+  {
+    "id": 1341805613,
+    "name": "bank-management-system-asp",
+    "full_name": "alextopdev/bank-management-system-asp",
+    "owner": {
+      "login": "alextopdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280383810?v=4"
+    },
+    "description": "Digital banking system application, implementing a monolithic application architecture.",
+    "topics": [
+      "asp-net",
+      "asp-net-mvc",
+      "csharp",
+      "database",
+      "database-management"
+    ],
+    "html_url": "https://github.com/alextopdev/bank-management-system-asp",
+    "stargazers_count": 1,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T12:48:33Z",
+    "updated_at": "2026-08-21T13:39:36Z",
+    "pushed_at": "2026-08-21T13:02:18Z"
+  },
+  {
+    "id": 1339440246,
+    "name": "Dara",
+    "full_name": "Asno-dev/Dara",
+    "owner": {
+      "login": "Asno-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297383495?v=4"
+    },
+    "description": "DARA — a lightweight, developer-friendly embedded database. One file, no server. Pipeline query language, SQL, indexes, WAL durability, transactions, joins, and first-class vector, graph, and time-series queries. TypeScript API + CLI.",
+    "topics": [
+      "database",
+      "graph",
+      "indexes",
+      "sql",
+      "sqlite",
+      "vector"
+    ],
+    "html_url": "https://github.com/Asno-dev/Dara",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T10:34:18Z",
+    "updated_at": "2026-08-21T05:40:54Z",
+    "pushed_at": "2026-08-19T10:39:40Z"
+  },
+  {
+    "id": 1339634683,
+    "name": "winter-ppa",
+    "full_name": "Flytachi/winter-ppa",
+    "owner": {
+      "login": "Flytachi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68924300?v=4"
+    },
+    "description": "PHP Persistence API — repositories, entity mapping and migrations over a coroutine-safe connection pool. The data layer of the Winter framework.",
+    "topics": [
+      "connection-pool",
+      "coroutine",
+      "database",
+      "migrations",
+      "mysql",
+      "orm",
+      "pdo",
+      "php",
+      "postgresql",
+      "query-builder",
+      "repository",
+      "swoole",
+      "winter",
+      "winter-framework"
+    ],
+    "html_url": "https://github.com/Flytachi/winter-ppa",
+    "stargazers_count": 1,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T13:45:34Z",
+    "updated_at": "2026-08-21T12:25:06Z",
+    "pushed_at": "2026-08-21T07:48:23Z"
+  },
+  {
+    "id": 1335641663,
+    "name": "School_Database",
+    "full_name": "arsalanalam47/School_Database",
+    "owner": {
+      "login": "arsalanalam47",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208260947?v=4"
+    },
+    "description": "A Web-Based School Management System built with Flask and SQLite which manages students, classes, fees, scholarships and payments with separate admin and student logins init.",
+    "topics": [
+      "css",
+      "database",
+      "flast",
+      "html",
+      "python",
+      "school-project",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/arsalanalam47/School_Database",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T05:20:09Z",
+    "updated_at": "2026-08-16T06:50:48Z",
+    "pushed_at": "2026-08-20T10:40:15Z"
+  },
+  {
+    "id": 1342302742,
+    "name": "skao-tap",
+    "full_name": "MicheleDelliVeneri/skao-tap",
+    "owner": {
+      "login": "MicheleDelliVeneri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46787099?v=4"
+    },
+    "description": "An IVOA TAP 1.1 (Table Access Protocol) server in Python, built as microservices on a PostgreSQL backend, reusing existing libraries for the hard parts",
+    "topics": [
+      "astronomy",
+      "database",
+      "ivoa",
+      "tap"
+    ],
+    "html_url": "https://github.com/MicheleDelliVeneri/skao-tap",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-21T23:35:56Z",
+    "updated_at": "2026-08-22T22:09:44Z",
+    "pushed_at": "2026-08-22T22:15:11Z"
+  }
+]

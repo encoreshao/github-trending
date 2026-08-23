@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1342979008,
+    "name": "claudish",
+    "full_name": "programasweights/claudish",
+    "owner": {
+      "login": "programasweights",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235572688?v=4"
+    },
+    "description": "Translate between English and Claudish with tiny ProgramAsWeights functions.",
+    "topics": [
+      "claude",
+      "nlp",
+      "programasweights",
+      "translator"
+    ],
+    "html_url": "https://github.com/programasweights/claudish",
+    "stargazers_count": 51,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T16:27:39Z",
+    "updated_at": "2026-08-23T01:56:18Z",
+    "pushed_at": "2026-08-22T16:32:53Z"
+  },
+  {
+    "id": 1335531809,
+    "name": "nihai-tianji-corpus",
+    "full_name": "Renhuai123/nihai-tianji-corpus",
+    "owner": {
+      "login": "Renhuai123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91890238?v=4"
+    },
+    "description": "倪海厦《天纪》结构化语料库 v2.0 — 天纪全量 4886 条判语，十一册体系，112 单元约 61 小时讲课，每条带精确到秒的视频出处可回放溯源。线上平台 metisziwei.com（天纪板块开发中）。语料 CC BY-NC-SA / 代码 MIT",
+    "topics": [
+      "chinese-astrology",
+      "corpus",
+      "dataset",
+      "nlp",
+      "ziweidoushu"
+    ],
+    "html_url": "https://github.com/Renhuai123/nihai-tianji-corpus",
+    "stargazers_count": 23,
+    "language": "HTML",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T01:00:59Z",
+    "updated_at": "2026-08-22T19:04:25Z",
+    "pushed_at": "2026-08-18T00:32:25Z"
+  },
+  {
+    "id": 1337383093,
+    "name": "suiko",
+    "full_name": "nwiizo/suiko",
+    "owner": {
+      "login": "nwiizo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12461120?v=4"
+    },
+    "description": "日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / Deterministic diagnostics for natural and readable Japanese writing",
+    "topics": [
+      "cli",
+      "japanese",
+      "japanese-language",
+      "lint",
+      "linter",
+      "markdown",
+      "nlp",
+      "proofreading",
+      "rust",
+      "sudachi",
+      "text-processing",
+      "writing"
+    ],
+    "html_url": "https://github.com/nwiizo/suiko",
+    "stargazers_count": 14,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-17T16:27:05Z",
+    "updated_at": "2026-08-22T01:09:58Z",
+    "pushed_at": "2026-08-21T06:20:40Z"
+  },
+  {
+    "id": 1339203132,
+    "name": "awesome-kaz-models",
+    "full_name": "alenisaw/awesome-kaz-models",
+    "owner": {
+      "login": "alenisaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154399485?v=4"
+    },
+    "description": "Curated, research-grade catalog of public AI models with substantial support for the Kazakh language.",
+    "topics": [
+      "awesome-list",
+      "kazakh",
+      "kazakh-language",
+      "llm",
+      "machine-learning",
+      "multimodal",
+      "nlp",
+      "ocr",
+      "speech-recognition",
+      "tts"
+    ],
+    "html_url": "https://github.com/alenisaw/awesome-kaz-models",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T06:49:50Z",
+    "updated_at": "2026-08-22T11:00:35Z",
+    "pushed_at": "2026-08-22T06:25:11Z"
+  },
+  {
+    "id": 1340901093,
+    "name": "nlp-intent-classifier",
+    "full_name": "tainguyen07/nlp-intent-classifier",
+    "owner": {
+      "login": "tainguyen07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33820160?v=4"
+    },
+    "description": "Fine-tuned BERT intent classifier for conversational NLU: HuggingFace Transformers training loop, ONNX export, confidence calibration and a serving API.",
+    "topics": [
+      "bert",
+      "deep-learning",
+      "huggingface",
+      "intent-classification",
+      "nlp",
+      "pytorch",
+      "text-classification",
+      "transformers"
+    ],
+    "html_url": "https://github.com/tainguyen07/nlp-intent-classifier",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T16:21:51Z",
+    "updated_at": "2026-08-21T00:42:59Z",
+    "pushed_at": "2026-08-21T00:37:55Z"
+  },
+  {
+    "id": 1340901142,
+    "name": "semantic-search-faiss",
+    "full_name": "tainguyen07/semantic-search-faiss",
+    "owner": {
+      "login": "tainguyen07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33820160?v=4"
+    },
+    "description": "Semantic search engine over documents: sentence-transformers embeddings, FAISS ANN index, hybrid BM25+dense retrieval, reranking and a query API.",
+    "topics": [
+      "embeddings",
+      "faiss",
+      "information-retrieval",
+      "nlp",
+      "semantic-search",
+      "sentence-transformers",
+      "vector-search"
+    ],
+    "html_url": "https://github.com/tainguyen07/semantic-search-faiss",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T16:21:55Z",
+    "updated_at": "2026-08-21T00:42:48Z",
+    "pushed_at": "2026-08-21T00:37:57Z"
+  },
+  {
+    "id": 1338771554,
+    "name": "PocketLM",
+    "full_name": "Greninja9257/PocketLM",
+    "owner": {
+      "login": "Greninja9257",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169415895?v=4"
+    },
+    "description": "Micro-LLM Family: Models From 1KB to 1MB",
+    "topics": [
+      "chatbot",
+      "edge-ai",
+      "from-scratch",
+      "language-model",
+      "mlx",
+      "nlp",
+      "slm",
+      "tinyml"
+    ],
+    "html_url": "https://github.com/Greninja9257/PocketLM",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-18T19:31:40Z",
+    "updated_at": "2026-08-22T21:54:39Z",
+    "pushed_at": "2026-08-19T19:30:51Z"
+  },
+  {
+    "id": 1335849953,
+    "name": "watermark-bench",
+    "full_name": "takzen/watermark-bench",
+    "owner": {
+      "login": "takzen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54585264?v=4"
+    },
+    "description": "A red-teaming and robustness evaluation framework for statistical AI watermarks (SynthID, Kirchenbauer, AWT) against cross-model paraphrase attacks and perturbations.",
+    "topics": [
+      "ai-safety",
+      "ai-security",
+      "benchmark",
+      "deep-learning",
+      "kirchenbauer",
+      "llm",
+      "nlp",
+      "red-teaming",
+      "synthid",
+      "watermarking"
+    ],
+    "html_url": "https://github.com/takzen/watermark-bench",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T11:15:23Z",
+    "updated_at": "2026-08-20T17:50:20Z",
+    "pushed_at": "2026-08-20T17:41:54Z"
+  },
+  {
+    "id": 1340022498,
+    "name": "conv-vs-ped-tutor",
+    "full_name": "bydeng01/conv-vs-ped-tutor",
+    "owner": {
+      "login": "bydeng01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136845445?v=4"
+    },
+    "description": "A pre-registered, fully offline-reproducible audit of whether LLM helpfulness judges reward the answer-leakage that undercuts student independence — conversational vs. pedagogical tutor agents on one frozen base.",
+    "topics": [
+      "ai-alignment",
+      "ai-in-education",
+      "educational-technology",
+      "evaluation",
+      "intelligent-tutoring-system",
+      "langgraph",
+      "large-language-models",
+      "llm",
+      "llm-agents",
+      "llm-as-a-judge",
+      "llm-evaluation",
+      "nlp",
+      "reward-hacking"
+    ],
+    "html_url": "https://github.com/bydeng01/conv-vs-ped-tutor",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T21:02:36Z",
+    "updated_at": "2026-08-19T22:02:37Z",
+    "pushed_at": "2026-08-19T21:36:19Z"
+  },
+  {
+    "id": 1341692699,
+    "name": "DanyBOT",
+    "full_name": "FANATFANATA/DanyBOT",
+    "owner": {
+      "login": "FANATFANATA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179333315?v=4"
+    },
+    "description": "telegram userbot uses DanyAPI for chating",
+    "topics": [
+      "ai",
+      "ai-assistant",
+      "async",
+      "asyncio",
+      "automation",
+      "chatbot",
+      "deepseek",
+      "function-calling",
+      "gpt",
+      "llm",
+      "nlp",
+      "openai",
+      "proxy",
+      "python",
+      "socks5",
+      "streaming",
+      "telegram",
+      "telegram-bot",
+      "telethon",
+      "userbot"
+    ],
+    "html_url": "https://github.com/FANATFANATA/DanyBOT",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T10:39:42Z",
+    "updated_at": "2026-08-21T15:02:24Z",
+    "pushed_at": "2026-08-21T10:39:46Z"
+  },
+  {
+    "id": 1340800559,
+    "name": "Voice-assist",
+    "full_name": "kamalesh404/Voice-assist",
+    "owner": {
+      "login": "kamalesh404",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228681348?v=4"
+    },
+    "description": "Enterprise-grade AI Voice Assistant and Local System Automator",
+    "topics": [
+      "ai",
+      "automation",
+      "machine-learning",
+      "nlp",
+      "python",
+      "voice-assistant"
+    ],
+    "html_url": "https://github.com/kamalesh404/Voice-assist",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T14:36:05Z",
+    "updated_at": "2026-08-23T00:00:30Z",
+    "pushed_at": "2026-08-20T15:16:21Z"
+  },
+  {
+    "id": 1339405799,
+    "name": "IdrockBench",
+    "full_name": "idrock-ai/IdrockBench",
+    "owner": {
+      "login": "idrock-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260577421?v=4"
+    },
+    "description": "Benchmark for Uzbek language models",
+    "topics": [
+      "benchmark",
+      "evaluation-framework",
+      "leaderboard",
+      "llm-evaluation",
+      "low-resource-languages",
+      "machine-translation",
+      "nlp",
+      "reasoning",
+      "uzbek",
+      "uzbek-nlp"
+    ],
+    "html_url": "https://github.com/idrock-ai/IdrockBench",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T10:03:41Z",
+    "updated_at": "2026-08-22T03:49:56Z",
+    "pushed_at": "2026-08-22T03:49:45Z"
+  },
+  {
+    "id": 1341023438,
+    "name": "RAKSHA_GRID",
+    "full_name": "samsingh2008/RAKSHA_GRID",
+    "owner": {
+      "login": "samsingh2008",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296195629?v=4"
+    },
+    "description": "RAKSHA GRID — AI-powered disaster decision intelligence platform that transforms fragmented emergency reports into prioritized incidents, optimized resources, adaptive routes, and commander-ready actions.",
+    "topics": [
+      "artificial-intelligence",
+      "decision-support",
+      "disaster-management",
+      "emergency-response",
+      "gis",
+      "nlp",
+      "real-time",
+      "resource-optimization"
+    ],
+    "html_url": "https://github.com/samsingh2008/RAKSHA_GRID",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T18:21:07Z",
+    "updated_at": "2026-08-20T18:40:21Z",
+    "pushed_at": "2026-08-20T18:35:34Z"
+  },
+  {
+    "id": 1341978799,
+    "name": "Entropy-Valley",
+    "full_name": "Entropy-Valley/Entropy-Valley",
+    "owner": {
+      "login": "Entropy-Valley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319510760?v=4"
+    },
+    "description": "[EMNLP 2026] Length-Adaptive Decoding for Masked Diffusion Machine Translation — a training-free target-length selector for masked diffusion LMs.",
+    "topics": [
+      "decoding",
+      "diffusion-language-model",
+      "emnlp2026",
+      "length-prediction",
+      "llada",
+      "llm",
+      "lora",
+      "machine-translation",
+      "masked-diffusion",
+      "nlp",
+      "non-autoregressive",
+      "peft",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/Entropy-Valley/Entropy-Valley",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T15:50:28Z",
+    "updated_at": "2026-08-22T15:22:37Z",
+    "pushed_at": "2026-08-22T13:14:48Z"
+  },
+  {
+    "id": 1335888235,
+    "name": "Spam-Email-Detection-ML",
+    "full_name": "naiksampada221-sudo/Spam-Email-Detection-ML",
+    "owner": {
+      "login": "naiksampada221-sudo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238491963?v=4"
+    },
+    "description": "Machine learning-based web application for detecting spam emails and text messages using TF-IDF and a trained classification model.",
+    "topics": [
+      "email-classification",
+      "gradio",
+      "machine-learning",
+      "nlp",
+      "python",
+      "scikit-learn",
+      "spam-detection"
+    ],
+    "html_url": "https://github.com/naiksampada221-sudo/Spam-Email-Detection-ML",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T12:00:15Z",
+    "updated_at": "2026-08-17T06:01:04Z",
+    "pushed_at": "2026-08-16T16:12:28Z"
+  },
+  {
+    "id": 1338888684,
+    "name": "goal-augment",
+    "full_name": "Krishita17/goal-augment",
+    "owner": {
+      "login": "Krishita17",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129031138?v=4"
+    },
+    "description": "LLM-based factorised data augmentation for health-coaching goal extraction",
+    "topics": [
+      "back-translation",
+      "clinical-nlp",
+      "cycle-consistency",
+      "data-augmentation",
+      "dataset-generation",
+      "few-shot-learning",
+      "gemini",
+      "goal-extraction",
+      "health-coaching",
+      "llm",
+      "named-entity-recognition",
+      "nlp",
+      "paraphrase-generation",
+      "prompt-engineering",
+      "python",
+      "smart-goals",
+      "span-labeling",
+      "streamlit",
+      "synthetic-data",
+      "text-generation"
+    ],
+    "html_url": "https://github.com/Krishita17/goal-augment",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T22:31:54Z",
+    "updated_at": "2026-08-19T13:17:01Z",
+    "pushed_at": "2026-08-18T22:34:36Z"
+  },
+  {
+    "id": 1341632533,
+    "name": "psychodict",
+    "full_name": "ya30n/psychodict",
+    "owner": {
+      "login": "ya30n",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16479989?v=4"
+    },
+    "description": "🧠 AI-Powered Psychology Dictionary with Smart Auto-Linking — Connects 600+ psychological concepts across articles in real-time. Built with React, Node.js, and MongoDB.",
+    "topics": [
+      "ai",
+      "dictionary",
+      "mental-health",
+      "mongodb",
+      "nlp",
+      "nodejs",
+      "psychology",
+      "react"
+    ],
+    "html_url": "https://github.com/ya30n/psychodict",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-08-21T09:31:04Z",
+    "updated_at": "2026-08-21T09:43:19Z",
+    "pushed_at": "2026-08-21T09:39:18Z"
+  },
+  {
+    "id": 1342774745,
+    "name": "ats-resume-scorer",
+    "full_name": "siddemmohankrishna/ats-resume-scorer",
+    "owner": {
+      "login": "siddemmohankrishna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240323513?v=4"
+    },
+    "description": "AI-powered resume analyzer that scores resumes for ATS compatibility, validates skills, and matches them against job descriptions using NLP and LLMs.",
+    "topics": [
+      "ats",
+      "fastapi",
+      "groq",
+      "machine-learning",
+      "nlp",
+      "resume-parser",
+      "sentence-transformers",
+      "spacy",
+      "streamlit",
+      "supabase"
+    ],
+    "html_url": "https://github.com/siddemmohankrishna/ats-resume-scorer",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T12:10:19Z",
+    "updated_at": "2026-08-22T13:35:53Z",
+    "pushed_at": "2026-08-22T13:33:35Z"
+  },
+  {
+    "id": 1338650632,
+    "name": "ai-resume-intelligence",
+    "full_name": "rmmehmet/ai-resume-intelligence",
+    "owner": {
+      "login": "rmmehmet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116261890?v=4"
+    },
+    "description": "AI-powered Resume Intelligence & ATS Optimization platform with explainable ATS scoring, semantic job matching, skill gap analysis, and LLM-based resume optimization.",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "ats",
+      "ats-optimization",
+      "ats-resume",
+      "embeddings",
+      "fastapi",
+      "generative-ai",
+      "job-matching",
+      "llm",
+      "milvus",
+      "nlp",
+      "postgresql",
+      "python",
+      "rag",
+      "react",
+      "resume",
+      "resume-parser",
+      "semantic-search",
+      "semantic-search-engine"
+    ],
+    "html_url": "https://github.com/rmmehmet/ai-resume-intelligence",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T17:05:30Z",
+    "updated_at": "2026-08-22T21:58:03Z",
+    "pushed_at": "2026-08-22T21:57:58Z"
+  },
+  {
+    "id": 1338232000,
+    "name": "wenshu",
+    "full_name": "ekstasisSH/wenshu",
+    "owner": {
+      "login": "ekstasisSH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316644439?v=4"
+    },
+    "description": "Wenshu（文枢）— 面向人文社科研究的 AI 知识处理工作流：本地知识库 / RAG / 中文引文 / 理论谱系。AI knowledge workflow for humanities & social sciences: local knowledge base, RAG, citation (GB/T 7714), knowledge graph.",
+    "topics": [
+      "academic-writing",
+      "ai-agents",
+      "chinese",
+      "citation",
+      "document-processing",
+      "humanities",
+      "knowledge-base",
+      "knowledge-graph",
+      "knowledge-management",
+      "llm",
+      "local-first",
+      "nlp",
+      "obsidian",
+      "rag",
+      "research-tool",
+      "social-science",
+      "workflow",
+      "zotero"
+    ],
+    "html_url": "https://github.com/ekstasisSH/wenshu",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T09:40:16Z",
+    "updated_at": "2026-08-22T14:27:37Z",
+    "pushed_at": "2026-08-22T06:39:26Z"
+  }
+]

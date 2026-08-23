@@ -1,0 +1,622 @@
+[
+  {
+    "id": 1337023484,
+    "name": "blog",
+    "full_name": "runtimepoet/blog",
+    "owner": {
+      "login": "runtimepoet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5982384?v=4"
+    },
+    "description": "Full-stack personal blog: Vue 3 + TypeScript SPA, zero-dependency Node server, single Docker container",
+    "topics": [
+      "blog",
+      "docker",
+      "markdown",
+      "nodejs",
+      "typescript",
+      "vue3"
+    ],
+    "html_url": "https://github.com/runtimepoet/blog",
+    "stargazers_count": 33,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-17T10:40:19Z",
+    "updated_at": "2026-08-21T11:07:18Z",
+    "pushed_at": "2026-08-19T13:33:15Z"
+  },
+  {
+    "id": 1339663847,
+    "name": "niulai-video-generator",
+    "full_name": "liyupi/niulai-video-generator",
+    "owner": {
+      "login": "liyupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26037703?v=4"
+    },
+    "description": "🐮 牛来动画生成器 —— 输入一段小故事，一条命令产出还原电影《牛来》风格的抽象动画：无厘头台词、严格同步的字幕与配音、粗糙低模的直立牛。Three.js 程序化 3D 渲染 + DeepSeek 剧本生成 + TTS 配音 + FFmpeg 合成，不依赖视频大模型。AI video generator that turns any short story into a Niulai-style absurd 3D animation with lip-synced subtitles.",
+    "topics": [
+      "3d-animation",
+      "ai-video-generator",
+      "animation",
+      "bilibili",
+      "deepseek",
+      "ffmpeg",
+      "generative-art",
+      "llm",
+      "meme",
+      "niulai",
+      "nodejs",
+      "playwright",
+      "procedural-generation",
+      "subtitles",
+      "text-to-speech",
+      "text-to-video",
+      "threejs",
+      "tts",
+      "typescript",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/liyupi/niulai-video-generator",
+    "stargazers_count": 22,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 4,
+    "created_at": "2026-08-19T14:14:21Z",
+    "updated_at": "2026-08-22T16:19:39Z",
+    "pushed_at": "2026-08-19T14:16:37Z"
+  },
+  {
+    "id": 1336379977,
+    "name": "wifi-audio-streamer",
+    "full_name": "Bittu-the-coder/wifi-audio-streamer",
+    "owner": {
+      "login": "Bittu-the-coder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171529234?v=4"
+    },
+    "description": "Turn any phone into a wireless PC speaker over Wi-Fi — no app install, <100ms latency, stereo L/R multi-device pairing, just scan a QR code and play in the browser.",
+    "topics": [
+      "ffmpeg",
+      "low-latency",
+      "nodejs",
+      "opensource-projects",
+      "vb-audio-cable",
+      "wifi-audio",
+      "wireless-speaker"
+    ],
+    "html_url": "https://github.com/Bittu-the-coder/wifi-audio-streamer",
+    "stargazers_count": 16,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T21:31:01Z",
+    "updated_at": "2026-08-20T21:05:12Z",
+    "pushed_at": "2026-08-17T07:56:48Z"
+  },
+  {
+    "id": 1341247419,
+    "name": "Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS",
+    "full_name": "Gerato25/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS",
+    "owner": {
+      "login": "Gerato25",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11531936?v=4"
+    },
+    "description": "The application is completely built from scratch(custom design) and completely responsive. Singitronic is a modern online shop that specializes in selling all types of electronic products. The goal of the project is to create a modern web application by following key stages in software engineering.",
+    "topics": [
+      "mysql",
+      "nextjs",
+      "nodejs"
+    ],
+    "html_url": "https://github.com/Gerato25/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS",
+    "stargazers_count": 16,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T00:19:22Z",
+    "updated_at": "2026-08-22T20:16:39Z",
+    "pushed_at": "2026-08-21T00:20:18Z"
+  },
+  {
+    "id": 1338532806,
+    "name": "lamb",
+    "full_name": "arm64ec/lamb",
+    "owner": {
+      "login": "arm64ec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282230408?v=4"
+    },
+    "description": "Compiler for a subset of OCaml expressions that exposes deterministic IR's",
+    "topics": [
+      "compiler",
+      "compiler-design",
+      "intermediate-representation",
+      "nodejs",
+      "ocaml",
+      "programming-languages",
+      "static-analysis",
+      "typed-lambda-calculus"
+    ],
+    "html_url": "https://github.com/arm64ec/lamb",
+    "stargazers_count": 16,
+    "language": "OCaml",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T14:59:42Z",
+    "updated_at": "2026-08-18T22:02:57Z",
+    "pushed_at": "2026-08-18T17:49:19Z"
+  },
+  {
+    "id": 1338965837,
+    "name": "tiktok-live-dock",
+    "full_name": "kyaux0/tiktok-live-dock",
+    "owner": {
+      "login": "kyaux0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91736830?v=4"
+    },
+    "description": "Lightweight self-hosted TikTok LIVE dashboard for OBS Studio",
+    "topics": [
+      "live-streaming",
+      "live-streaming-tools",
+      "nodejs",
+      "obs",
+      "obs-studio",
+      "streaming",
+      "streaming-api",
+      "streaming-tools",
+      "tiktok",
+      "tiktok-live-analytics",
+      "tiktok-live-api",
+      "tiktok-live-connector",
+      "tiktok-live-streams",
+      "websocket"
+    ],
+    "html_url": "https://github.com/kyaux0/tiktok-live-dock",
+    "stargazers_count": 12,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T01:00:40Z",
+    "updated_at": "2026-08-22T06:25:29Z",
+    "pushed_at": "2026-08-20T08:52:28Z"
+  },
+  {
+    "id": 1337891997,
+    "name": "sonar-bypass",
+    "full_name": "SirYadav1/sonar-bypass",
+    "owner": {
+      "login": "SirYadav1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159863013?v=4"
+    },
+    "description": "Sonar anti-bot verification bypass for Minecraft. Working 2.1.x sonar bypass script, packet logger, debug proxy. cubixmc poormc tested.",
+    "topics": [
+      "anti-bot",
+      "antibot",
+      "bot",
+      "bypass",
+      "cubixmc",
+      "exploit",
+      "fabric-mod",
+      "javascript",
+      "minecraft",
+      "minecraft-bot",
+      "minecraft-protocol",
+      "nodejs",
+      "packet",
+      "poormc",
+      "proxy",
+      "reverse-engineering",
+      "sonar",
+      "sonar-bypass",
+      "verification"
+    ],
+    "html_url": "https://github.com/SirYadav1/sonar-bypass",
+    "stargazers_count": 11,
+    "language": "Java",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T02:27:08Z",
+    "updated_at": "2026-08-19T23:56:08Z",
+    "pushed_at": "2026-08-18T12:32:27Z"
+  },
+  {
+    "id": 1338151032,
+    "name": "SyncWatch",
+    "full_name": "xuange6610/SyncWatch",
+    "owner": {
+      "login": "xuange6610",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275109838?v=4"
+    },
+    "description": "SyncWatch：开源、自托管、跨平台的 Watch Party / 同步观影 / 视频同步系统，支持 Windows、Android、macOS、Web，可远程一起看电影、同步播放、聊天、语音与屏幕共享。",
+    "topics": [
+      "android",
+      "co-watching",
+      "electron",
+      "media-server",
+      "nodejs",
+      "online-watch-party",
+      "open-source",
+      "remote-watch-party",
+      "self-hosted",
+      "socket-io",
+      "streaming",
+      "sync-video",
+      "synchronized-video",
+      "syncwatch",
+      "video-player",
+      "video-sync",
+      "watch-party",
+      "watch-together",
+      "websocket",
+      "windows"
+    ],
+    "html_url": "https://github.com/xuange6610/SyncWatch",
+    "stargazers_count": 10,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T08:20:03Z",
+    "updated_at": "2026-08-20T13:10:06Z",
+    "pushed_at": "2026-08-20T14:52:26Z"
+  },
+  {
+    "id": 1341674866,
+    "name": "observe",
+    "full_name": "nestjs/observe",
+    "owner": {
+      "login": "nestjs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28507035?v=4"
+    },
+    "description": "Auto-instrumentation module for Nest framework (node.js) 📈",
+    "topics": [
+      "error-monitoring",
+      "error-reporting",
+      "instrumentation",
+      "logging",
+      "metrics",
+      "nestjs",
+      "nodejs",
+      "telemetry"
+    ],
+    "html_url": "https://github.com/nestjs/observe",
+    "stargazers_count": 9,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T10:18:34Z",
+    "updated_at": "2026-08-22T18:20:13Z",
+    "pushed_at": "2026-08-22T18:20:07Z"
+  },
+  {
+    "id": 1335730305,
+    "name": "dsh-portable",
+    "full_name": "sqs404/dsh-portable",
+    "owner": {
+      "login": "sqs404",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75570316?v=4"
+    },
+    "description": "DeepSeek Harness 免安装便携版（Windows）：官方 npm 包 + 内置 Node.js，双击 exe 即用，拷贝到任意 64 位 Windows 电脑独立运行",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "llm",
+      "no-install",
+      "nodejs",
+      "portable",
+      "portable-software",
+      "windows"
+    ],
+    "html_url": "https://github.com/sqs404/dsh-portable",
+    "stargazers_count": 7,
+    "language": "PowerShell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T08:00:16Z",
+    "updated_at": "2026-08-22T12:01:15Z",
+    "pushed_at": "2026-08-16T09:59:34Z"
+  },
+  {
+    "id": 1336992162,
+    "name": "particle",
+    "full_name": "crnst8/particle",
+    "owner": {
+      "login": "crnst8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282799849?v=4"
+    },
+    "description": "A self-hosted read-later app for clean, distraction-free reading.",
+    "topics": [
+      "nodejs",
+      "read-later",
+      "readability",
+      "self-hosted",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/crnst8/particle",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T10:09:57Z",
+    "updated_at": "2026-08-22T17:16:24Z",
+    "pushed_at": "2026-08-22T17:15:03Z"
+  },
+  {
+    "id": 1342524775,
+    "name": "edgekit",
+    "full_name": "0x66616C6C656E/edgekit",
+    "owner": {
+      "login": "0x66616C6C656E",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136522570?v=4"
+    },
+    "description": "A simple VPS toolkit for installing and configuring Nginx, PostgreSQL, Node.js, PM2, Cloudflare SSL certificates, and other server essentials.",
+    "topics": [
+      "bash",
+      "cloudflare",
+      "linux",
+      "nextjs",
+      "nginx",
+      "nodejs",
+      "pm2",
+      "postgresql"
+    ],
+    "html_url": "https://github.com/0x66616C6C656E/edgekit",
+    "stargazers_count": 6,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T06:48:53Z",
+    "updated_at": "2026-08-22T07:09:22Z",
+    "pushed_at": "2026-08-22T07:08:09Z"
+  },
+  {
+    "id": 1339112480,
+    "name": "procman.nvim",
+    "full_name": "Anderson-Vilela-op/procman.nvim",
+    "owner": {
+      "login": "Anderson-Vilela-op",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104267665?v=4"
+    },
+    "description": "Process/service manager for Neovim — auto-discovers Node, .NET, Rust and Go projects in a workspace and lets you start, stop, restart and monitor multiple dev services from a single panel.",
+    "topics": [
+      "dev-tools",
+      "dotnet",
+      "lua",
+      "monorepo",
+      "neovim",
+      "neovim-plugin",
+      "nodejs",
+      "process-manager"
+    ],
+    "html_url": "https://github.com/Anderson-Vilela-op/procman.nvim",
+    "stargazers_count": 6,
+    "language": "Lua",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T05:05:12Z",
+    "updated_at": "2026-08-21T02:13:55Z",
+    "pushed_at": "2026-08-19T05:43:29Z"
+  },
+  {
+    "id": 1335768403,
+    "name": "unmarkk",
+    "full_name": "Dhirenderchoudhary/unmarkk",
+    "owner": {
+      "login": "Dhirenderchoudhary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200262251?v=4"
+    },
+    "description": "Privacy-first watermark and metadata remover. Strips identifying metadata, AI provenance manifests, and invisible Unicode carriers from your files entirely locally with zero dependencies.",
+    "topics": [
+      "metadata",
+      "nodejs",
+      "privacy",
+      "privacy-tools",
+      "private",
+      "security",
+      "typescript",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/Dhirenderchoudhary/unmarkk",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 6,
+    "created_at": "2026-08-16T09:03:15Z",
+    "updated_at": "2026-08-18T13:44:14Z",
+    "pushed_at": "2026-08-16T10:32:30Z"
+  },
+  {
+    "id": 1338277148,
+    "name": "Orrerium",
+    "full_name": "cfirz/Orrerium",
+    "owner": {
+      "login": "cfirz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5203773?v=4"
+    },
+    "description": "Local-first dashboard over a markdown knowledge vault: interactive graph, projects board, inbox triage, ask-your-brain. Zero dependencies.",
+    "topics": [
+      "claude-code",
+      "graph-visualization",
+      "knowledge-base",
+      "local-first",
+      "markdown",
+      "nodejs",
+      "obsidian",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/cfirz/Orrerium",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T10:33:04Z",
+    "updated_at": "2026-08-22T09:49:28Z",
+    "pushed_at": "2026-08-22T09:48:31Z"
+  },
+  {
+    "id": 1337099120,
+    "name": "SinfLMS_backend",
+    "full_name": "armanihsan-dev/SinfLMS_backend",
+    "owner": {
+      "login": "armanihsan-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188324070?v=4"
+    },
+    "description": "Teachify is a full-featured LMS connecting instructors and learners worldwide. Educators create courses, students enroll, learn, track progress, earn certificates, and engage via reviews, wishlists, and peer learning. Built with modern tech, it offers real-time tracking, quizzes, and data-driven insights.",
+    "topics": [
+      "backend",
+      "drizzle-orm",
+      "fastify",
+      "logging",
+      "nodejs",
+      "postgres",
+      "redis",
+      "typescript"
+    ],
+    "html_url": "https://github.com/armanihsan-dev/SinfLMS_backend",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T11:51:56Z",
+    "updated_at": "2026-08-20T06:57:44Z",
+    "pushed_at": "2026-08-17T12:02:02Z"
+  },
+  {
+    "id": 1337688659,
+    "name": "secretary",
+    "full_name": "AgriciDaniel/secretary",
+    "owner": {
+      "login": "AgriciDaniel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
+    },
+    "description": "Evidence-grounded AI secretary for Claude Code and Codex, with frozen context, deterministic retrieval, bounded quality review, and explicit human approval gates.",
+    "topics": [
+      "agent-orchestration",
+      "agentic-workflows",
+      "ai-agents",
+      "ai-secretary",
+      "chief-of-staff",
+      "claude-code",
+      "codex",
+      "evidence-based",
+      "executive-assistant",
+      "human-in-the-loop",
+      "knowledge-base",
+      "local-first",
+      "multi-agent-systems",
+      "nodejs",
+      "obsidian",
+      "prompt-injection",
+      "quality-assurance",
+      "research-assistant",
+      "staff-work",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/AgriciDaniel/secretary",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T21:43:08Z",
+    "updated_at": "2026-08-21T23:51:41Z",
+    "pushed_at": "2026-08-21T11:18:05Z"
+  },
+  {
+    "id": 1335877940,
+    "name": "academic-advisor",
+    "full_name": "5636mohamed/academic-advisor",
+    "owner": {
+      "login": "5636mohamed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85107448?v=4"
+    },
+    "description": "AEGIS — a full-stack academic advising platform: predictive grading, probation tracking, multi-advisor & Vice President oversight, PDF reporting, and an innovation venture board.",
+    "topics": [
+      "academic-advising",
+      "ai",
+      "cgpa-tracker",
+      "education",
+      "ejust-academic-advisor",
+      "express",
+      "linear-regression",
+      "monorepo",
+      "nodejs",
+      "npm",
+      "predictive-analytics",
+      "react-router",
+      "reactjs",
+      "student-success",
+      "system-recommender",
+      "typescript",
+      "university-management",
+      "vite"
+    ],
+    "html_url": "https://github.com/5636mohamed/academic-advisor",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T11:49:30Z",
+    "updated_at": "2026-08-22T14:09:29Z",
+    "pushed_at": "2026-08-22T14:09:22Z"
+  },
+  {
+    "id": 1335990802,
+    "name": "sql-switch",
+    "full_name": "creative-softworks/sql-switch",
+    "owner": {
+      "login": "creative-softworks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312206755?v=4"
+    },
+    "description": "Universal hot-swappable DAL — SQLite in dev, PostgreSQL in prod, one fluent API",
+    "topics": [
+      "better-sqlite3",
+      "dal",
+      "database",
+      "drizzle",
+      "hot-swap",
+      "key-value",
+      "nodejs",
+      "orm",
+      "postgres",
+      "postgresql",
+      "sqlite",
+      "typescript"
+    ],
+    "html_url": "https://github.com/creative-softworks/sql-switch",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-16T14:00:43Z",
+    "updated_at": "2026-08-22T08:41:16Z",
+    "pushed_at": "2026-08-22T08:40:59Z"
+  },
+  {
+    "id": 1339883052,
+    "name": "Layer2-Explorer",
+    "full_name": "Lorenzobellini-dev/Layer2-Explorer",
+    "owner": {
+      "login": "Lorenzobellini-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3700506?v=4"
+    },
+    "description": "A blockchain explorer prototype for searching blocks, transactions, wallet addresses, and network activity while experimenting with Layer-2 blockchain data visualization.",
+    "topics": [
+      "block",
+      "blockchain",
+      "blockchain-game",
+      "blockchain-technology",
+      "blocklist",
+      "node",
+      "node-js",
+      "nodejs",
+      "nodejs-s3",
+      "nodemon"
+    ],
+    "html_url": "https://github.com/Lorenzobellini-dev/Layer2-Explorer",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T18:03:37Z",
+    "updated_at": "2026-08-21T17:06:41Z",
+    "pushed_at": "2026-08-19T18:04:23Z"
+  }
+]

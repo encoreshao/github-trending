@@ -1,0 +1,601 @@
+[
+  {
+    "id": 1335722570,
+    "name": "procoder",
+    "full_name": "azrtydxb/procoder",
+    "owner": {
+      "login": "azrtydxb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266232796?v=4"
+    },
+    "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
+    "topics": [
+      "ai-coding-assistant",
+      "claude-code",
+      "claude-code-plugin",
+      "code-quality",
+      "code-review",
+      "developer-tools",
+      "linter",
+      "mcp",
+      "security",
+      "static-analysis"
+    ],
+    "html_url": "https://github.com/azrtydxb/procoder",
+    "stargazers_count": 140,
+    "language": "Go",
+    "forks_count": 9,
+    "open_issues_count": 17,
+    "created_at": "2026-08-16T07:47:17Z",
+    "updated_at": "2026-08-22T21:23:06Z",
+    "pushed_at": "2026-08-22T11:36:02Z"
+  },
+  {
+    "id": 1335750234,
+    "name": "dsh-remote",
+    "full_name": "xgone/dsh-remote",
+    "owner": {
+      "login": "xgone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6811277?v=4"
+    },
+    "description": "Remote access for DeepSeek Harness: account/password auth + MFA (TOTP) login gate, signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management.",
+    "topics": [
+      "authentication",
+      "deepseek-harness",
+      "dsh-plugin",
+      "mfa",
+      "remote-access",
+      "security",
+      "totp"
+    ],
+    "html_url": "https://github.com/xgone/dsh-remote",
+    "stargazers_count": 42,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-08-16T08:35:08Z",
+    "updated_at": "2026-08-22T04:10:49Z",
+    "pushed_at": "2026-08-22T04:10:43Z"
+  },
+  {
+    "id": 1336388573,
+    "name": "RepoRelay",
+    "full_name": "Lukie-81/RepoRelay",
+    "owner": {
+      "login": "Lukie-81",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134666814?v=4"
+    },
+    "description": "Secure MCP access to local repositories — without shell, Git, or arbitrary writes.",
+    "topics": [
+      "ai-agents",
+      "ai-code-review",
+      "chatgpt",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "local-first",
+      "mcp",
+      "repository-review",
+      "repository-tools",
+      "security"
+    ],
+    "html_url": "https://github.com/Lukie-81/RepoRelay",
+    "stargazers_count": 20,
+    "language": "TypeScript",
+    "forks_count": 10,
+    "open_issues_count": 3,
+    "created_at": "2026-08-16T21:43:35Z",
+    "updated_at": "2026-08-22T15:30:37Z",
+    "pushed_at": "2026-08-21T05:08:40Z"
+  },
+  {
+    "id": 1338793701,
+    "name": "windows-secure-toolkit",
+    "full_name": "KBT096/windows-secure-toolkit",
+    "owner": {
+      "login": "KBT096",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45223710?v=4"
+    },
+    "description": "Local Windows security auditing and reversible hardening with a C#/.NET Framework 4.8 core and CMD/BAT entry points.",
+    "topics": [
+      "batch",
+      "cmd",
+      "csharp",
+      "defender",
+      "dotnet",
+      "firewall",
+      "hardening",
+      "security",
+      "security-audit",
+      "windows",
+      "windows-hardening",
+      "windows-security",
+      "windows-security-toolkit",
+      "windows-server"
+    ],
+    "html_url": "https://github.com/KBT096/windows-secure-toolkit",
+    "stargazers_count": 18,
+    "language": "C#",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T20:01:50Z",
+    "updated_at": "2026-08-23T01:48:40Z",
+    "pushed_at": "2026-08-22T09:04:41Z"
+  },
+  {
+    "id": 1339251799,
+    "name": "dsh-secure-audit",
+    "full_name": "PensiveFei/dsh-secure-audit",
+    "owner": {
+      "login": "PensiveFei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306542547?v=4"
+    },
+    "description": "Read-only security & compliance plugin for DeepSeek Harness: prompt-injection detection, Chinese-PII redaction, and local configuration audit with redacted, reproducible reports.",
+    "topics": [
+      "audit",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "pii",
+      "prompt-injection",
+      "security"
+    ],
+    "html_url": "https://github.com/PensiveFei/dsh-secure-audit",
+    "stargazers_count": 17,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T07:37:17Z",
+    "updated_at": "2026-08-23T01:20:53Z",
+    "pushed_at": "2026-08-23T00:14:58Z"
+  },
+  {
+    "id": 1335517307,
+    "name": "bonsai-ninja",
+    "full_name": "gromhacks/bonsai-ninja",
+    "owner": {
+      "login": "gromhacks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101206034?v=4"
+    },
+    "description": "🥷 Give your codebase a black belt. Local code intelligence, security analysis, and compiler-backed facts for humans and AI.",
+    "topics": [
+      "ai-agents",
+      "call-graph",
+      "code-analysis",
+      "code-intelligence",
+      "control-flow",
+      "cybersecurity",
+      "data-flow-analysis",
+      "llm",
+      "local-llm",
+      "program-analysis",
+      "rust",
+      "sast",
+      "security",
+      "static-analysis",
+      "taint-analysis",
+      "tree-sitter"
+    ],
+    "html_url": "https://github.com/gromhacks/bonsai-ninja",
+    "stargazers_count": 16,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T00:21:47Z",
+    "updated_at": "2026-08-22T17:35:06Z",
+    "pushed_at": "2026-08-22T17:52:46Z"
+  },
+  {
+    "id": 1337241443,
+    "name": "concealer",
+    "full_name": "fxerkan/concealer",
+    "owner": {
+      "login": "fxerkan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20793273?v=4"
+    },
+    "description": "🔐 Local‑only, single‑file secret manager for the AI‑coding era with MCP, TUI, Web UI and CLI. No cloud, No telemetry, No account.",
+    "topics": [
+      "age",
+      "ai",
+      "ai-safety",
+      "anthropic-mcp",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "dotenv",
+      "encryption",
+      "local-first",
+      "mcp",
+      "privacy",
+      "secret-manager",
+      "secrets",
+      "secrets-management",
+      "security",
+      "sops",
+      "vault"
+    ],
+    "html_url": "https://github.com/fxerkan/concealer",
+    "stargazers_count": 13,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T14:03:36Z",
+    "updated_at": "2026-08-22T18:50:48Z",
+    "pushed_at": "2026-08-20T09:13:08Z"
+  },
+  {
+    "id": 1336139189,
+    "name": "dsh-one-gateway",
+    "full_name": "TiantianFlow/dsh-one-gateway",
+    "owner": {
+      "login": "TiantianFlow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177855728?v=4"
+    },
+    "description": "Private DSH One Gateway — loopback, identity-first ingress for DeepSeek Harness",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "remote-access",
+      "security",
+      "tailscale",
+      "tailscale-serve",
+      "websocket"
+    ],
+    "html_url": "https://github.com/TiantianFlow/dsh-one-gateway",
+    "stargazers_count": 12,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T16:34:09Z",
+    "updated_at": "2026-08-22T04:25:39Z",
+    "pushed_at": "2026-08-21T23:33:03Z"
+  },
+  {
+    "id": 1336019752,
+    "name": "turnstile",
+    "full_name": "arm64ec/turnstile",
+    "owner": {
+      "login": "arm64ec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282230408?v=4"
+    },
+    "description": "Xen hypervisor protection for guest kernel memory integrity enforcement",
+    "topics": [
+      "guest-introspection",
+      "hypervisor",
+      "kernel-security",
+      "livepatch",
+      "memory-integrity",
+      "rust",
+      "security",
+      "systems-programming",
+      "virtualization",
+      "xen"
+    ],
+    "html_url": "https://github.com/arm64ec/turnstile",
+    "stargazers_count": 10,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T14:29:31Z",
+    "updated_at": "2026-08-18T22:02:54Z",
+    "pushed_at": "2026-08-16T14:31:59Z"
+  },
+  {
+    "id": 1338154075,
+    "name": "dshscan",
+    "full_name": "shaoshi20/dshscan",
+    "owner": {
+      "login": "shaoshi20",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146538072?v=4"
+    },
+    "description": "Security scanner for DSH plugins: static and semantic passes over plugin source, DSH-specific attack-surface rules, npm audit, batch scanning, and an HTML report with per-finding severity and evidence.",
+    "topics": [
+      "ai-security",
+      "dsh",
+      "dsh-plugin",
+      "scanner",
+      "security",
+      "supply-chain",
+      "typescript"
+    ],
+    "html_url": "https://github.com/shaoshi20/dshscan",
+    "stargazers_count": 8,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T08:23:26Z",
+    "updated_at": "2026-08-21T17:28:17Z",
+    "pushed_at": "2026-08-21T17:28:13Z"
+  },
+  {
+    "id": 1336963327,
+    "name": "turkce-siber-guvenlik-kaynaklari",
+    "full_name": "fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari",
+    "owner": {
+      "login": "fevziegeyurtsevenler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127763772?v=4"
+    },
+    "description": "🇹🇷 Türkçe siber güvenlik kaynaklarının doğrulanmış, kategorilenmiş ve topluluk eliyle büyüyen dizini — TÜGA Siber Güvenlik Komitesi",
+    "topics": [
+      "awesome-list",
+      "ctf",
+      "cybersecurity",
+      "egitim",
+      "hacking",
+      "security",
+      "siber-guvenlik",
+      "turkce",
+      "turkish"
+    ],
+    "html_url": "https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T09:41:23Z",
+    "updated_at": "2026-08-22T20:20:21Z",
+    "pushed_at": "2026-08-22T17:44:51Z"
+  },
+  {
+    "id": 1338848330,
+    "name": "yoru-archive",
+    "full_name": "linyize1111/yoru-archive",
+    "owner": {
+      "login": "linyize1111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72123549?v=4"
+    },
+    "description": "Membership-based ACG metadata, rating and collection web application built with Supabase/PostgreSQL and GitHub Pages.",
+    "topics": [
+      "github-pages",
+      "javascript",
+      "metadata",
+      "playwright",
+      "portfolio-project",
+      "postgresql",
+      "security",
+      "supabase",
+      "web-app"
+    ],
+    "html_url": "https://github.com/linyize1111/yoru-archive",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T21:22:07Z",
+    "updated_at": "2026-08-22T23:31:34Z",
+    "pushed_at": "2026-08-22T23:31:19Z"
+  },
+  {
+    "id": 1336836450,
+    "name": "meridian",
+    "full_name": "s1d9e/meridian",
+    "owner": {
+      "login": "s1d9e",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199483028?v=4"
+    },
+    "description": "Modular C2 framework for authorized red team operations — Python server, Go implant, HTTP(S)/DNS transports",
+    "topics": [
+      "beacon",
+      "c2",
+      "command-and-control",
+      "go",
+      "offensive",
+      "python",
+      "red-team",
+      "security"
+    ],
+    "html_url": "https://github.com/s1d9e/meridian",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T07:41:05Z",
+    "updated_at": "2026-08-19T05:44:22Z",
+    "pushed_at": "2026-08-17T07:44:50Z"
+  },
+  {
+    "id": 1336819612,
+    "name": "toolfence",
+    "full_name": "jiangkoumo/toolfence",
+    "owner": {
+      "login": "jiangkoumo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152110621?v=4"
+    },
+    "description": "Local, fail-closed policy enforcement and human approval for MCP tool calls.",
+    "topics": [
+      "ai-agents",
+      "mcp",
+      "policy",
+      "proxy",
+      "security"
+    ],
+    "html_url": "https://github.com/jiangkoumo/toolfence",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T07:24:12Z",
+    "updated_at": "2026-08-23T01:13:00Z",
+    "pushed_at": "2026-08-22T08:26:33Z"
+  },
+  {
+    "id": 1337013983,
+    "name": "model-alpha",
+    "full_name": "Kann-Audits/model-alpha",
+    "owner": {
+      "login": "Kann-Audits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196110563?v=4"
+    },
+    "description": "Solidity contract auditor: bundled JavaScript call-graph extractor (@solidity-parser/parser) plus a stdlib Python CLI that POSTs each function to a Model Alpha audit endpoint.",
+    "topics": [
+      "ai-agent",
+      "call-graph",
+      "claude",
+      "codex",
+      "hermes",
+      "security",
+      "smart-contracts",
+      "solidity",
+      "vulnerability-detection"
+    ],
+    "html_url": "https://github.com/Kann-Audits/model-alpha",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T10:30:59Z",
+    "updated_at": "2026-08-20T15:11:23Z",
+    "pushed_at": "2026-08-17T16:52:56Z"
+  },
+  {
+    "id": 1335768403,
+    "name": "unmarkk",
+    "full_name": "Dhirenderchoudhary/unmarkk",
+    "owner": {
+      "login": "Dhirenderchoudhary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200262251?v=4"
+    },
+    "description": "Privacy-first watermark and metadata remover. Strips identifying metadata, AI provenance manifests, and invisible Unicode carriers from your files entirely locally with zero dependencies.",
+    "topics": [
+      "metadata",
+      "nodejs",
+      "privacy",
+      "privacy-tools",
+      "private",
+      "security",
+      "typescript",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/Dhirenderchoudhary/unmarkk",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 6,
+    "created_at": "2026-08-16T09:03:15Z",
+    "updated_at": "2026-08-18T13:44:14Z",
+    "pushed_at": "2026-08-16T10:32:30Z"
+  },
+  {
+    "id": 1340517263,
+    "name": "keycloak-cve-2026-18963-hunt",
+    "full_name": "kyos-public/keycloak-cve-2026-18963-hunt",
+    "owner": {
+      "login": "kyos-public",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169882849?v=4"
+    },
+    "description": "Hunt for CVE-2026-18963 exploitation traces (Keycloak unauthenticated account takeover) in the Keycloak database",
+    "topics": [
+      "cve",
+      "incident-response",
+      "keycloak",
+      "postgresql",
+      "security"
+    ],
+    "html_url": "https://github.com/kyos-public/keycloak-cve-2026-18963-hunt",
+    "stargazers_count": 6,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T09:25:27Z",
+    "updated_at": "2026-08-21T18:28:01Z",
+    "pushed_at": "2026-08-20T09:25:30Z"
+  },
+  {
+    "id": 1335965347,
+    "name": "augur",
+    "full_name": "dejo1307/augur",
+    "owner": {
+      "login": "dejo1307",
+      "avatar_url": "https://avatars.githubusercontent.com/u/710642?v=4"
+    },
+    "description": "Analyze your files for hidden characters and watermarks. ",
+    "topics": [
+      "c2pa",
+      "file-analysis",
+      "file-sanitization",
+      "metadata",
+      "privacy",
+      "prompt-injection",
+      "security",
+      "steganography",
+      "trojan-source",
+      "unicorn"
+    ],
+    "html_url": "https://github.com/dejo1307/augur",
+    "stargazers_count": 6,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-16T13:28:44Z",
+    "updated_at": "2026-08-19T21:39:31Z",
+    "pushed_at": "2026-08-19T21:38:57Z"
+  },
+  {
+    "id": 1342134139,
+    "name": "cover",
+    "full_name": "DavidCarliez/cover",
+    "owner": {
+      "login": "DavidCarliez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271374756?v=4"
+    },
+    "description": "Local privacy proxy that replaces secrets and PII before AI requests leave your machine.",
+    "topics": [
+      "codex",
+      "llm",
+      "pii",
+      "privacy",
+      "proxy",
+      "redaction",
+      "security"
+    ],
+    "html_url": "https://github.com/DavidCarliez/cover",
+    "stargazers_count": 5,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T18:56:30Z",
+    "updated_at": "2026-08-23T01:20:43Z",
+    "pushed_at": "2026-08-22T19:06:37Z"
+  },
+  {
+    "id": 1341265985,
+    "name": "JSHarvest",
+    "full_name": "abdulhalimaltuntas/JSHarvest",
+    "owner": {
+      "login": "abdulhalimaltuntas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137568708?v=4"
+    },
+    "description": "Browser extension that inventories every JavaScript a page loads — deduplicated, classified first- vs third-party, with hidden-chunk discovery, source-map recovery and risk flags.",
+    "topics": [
+      "appsec",
+      "browser-extension",
+      "browser-extension-analysis",
+      "chrome-extension",
+      "devtools",
+      "firefox-addon",
+      "javascript-tools",
+      "manifest-v3",
+      "osint",
+      "osint-reconnaissance",
+      "osint-tool",
+      "pentest",
+      "pentest-tool",
+      "pentest-tools",
+      "pentesting",
+      "reconnaissance",
+      "security",
+      "supply-chain-security",
+      "websecurity",
+      "websecurityscanning"
+    ],
+    "html_url": "https://github.com/abdulhalimaltuntas/JSHarvest",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T00:53:06Z",
+    "updated_at": "2026-08-22T14:59:12Z",
+    "pushed_at": "2026-08-22T00:17:36Z"
+  }
+]
