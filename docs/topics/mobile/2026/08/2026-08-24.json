@@ -1,0 +1,598 @@
+[
+  {
+    "id": 1336998102,
+    "name": "dsh-remote-web-gateway",
+    "full_name": "summer1238/dsh-remote-web-gateway",
+    "owner": {
+      "login": "summer1238",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151708650?v=4"
+    },
+    "description": "手机平板远程 DeepSeek Harness：扫码即可继续使用电脑上的 DSH，无需远程桌面 / SSH / 公网 IP，支持一次性配对、Github授权加密登录，独立设备授权与随时撤销，实现远程连接很简单，但安全才是我们所想要的。",
+    "topics": [
+      "cloudflare-tunnel",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-mobile-app",
+      "dsh-model-switch",
+      "dsh-plugin",
+      "mobile",
+      "qr-code",
+      "quick-tunnel",
+      "remote-access",
+      "remote-control"
+    ],
+    "html_url": "https://github.com/summer1238/dsh-remote-web-gateway",
+    "stargazers_count": 133,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-08-17T10:15:58Z",
+    "updated_at": "2026-08-23T19:44:49Z",
+    "pushed_at": "2026-08-21T13:38:39Z"
+  },
+  {
+    "id": 1342202970,
+    "name": "nuphus",
+    "full_name": "mrpulor-gh/nuphus",
+    "owner": {
+      "login": "mrpulor-gh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187365610?v=4"
+    },
+    "description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "automation",
+      "computer-use",
+      "desktop-automation",
+      "llm",
+      "local-first",
+      "mobile",
+      "open-source",
+      "privacy",
+      "pwa",
+      "react",
+      "rust",
+      "tauri",
+      "tauri-v2",
+      "typescript",
+      "web-automation",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/mrpulor-gh/nuphus",
+    "stargazers_count": 28,
+    "language": "Rust",
+    "forks_count": 6,
+    "open_issues_count": 2,
+    "created_at": "2026-08-21T20:35:53Z",
+    "updated_at": "2026-08-23T22:15:55Z",
+    "pushed_at": "2026-08-23T22:15:41Z"
+  },
+  {
+    "id": 1338470351,
+    "name": "antigravity-server",
+    "full_name": "AFSlayer/antigravity-server",
+    "owner": {
+      "login": "AFSlayer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5547818?v=4"
+    },
+    "description": "Use the Antigravity desktop app from your phone. One binary that serves Antigravity's own web UI to your devices, behind a password.",
+    "topics": [
+      "ai-agents",
+      "antigravity",
+      "antigravity-ide",
+      "golang",
+      "google-antigravity",
+      "mobile",
+      "pwa",
+      "remote-development",
+      "reverse-proxy",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/AFSlayer/antigravity-server",
+    "stargazers_count": 24,
+    "language": "Go",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T13:59:07Z",
+    "updated_at": "2026-08-22T11:12:02Z",
+    "pushed_at": "2026-08-22T11:11:21Z"
+  },
+  {
+    "id": 1339888634,
+    "name": "dsh-tether",
+    "full_name": "zexadev/dsh-tether",
+    "owner": {
+      "login": "zexadev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160208005?v=4"
+    },
+    "description": "Reach the DeepSeek Harness on your dev machine from your phone — across networks, through no server at all (iroh P2P)",
+    "topics": [
+      "ai-agent",
+      "android",
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "hole-punching",
+      "iroh",
+      "mobile",
+      "nat-traversal",
+      "p2p",
+      "remote-development",
+      "rust",
+      "tauri"
+    ],
+    "html_url": "https://github.com/zexadev/dsh-tether",
+    "stargazers_count": 22,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T18:09:51Z",
+    "updated_at": "2026-08-23T15:14:43Z",
+    "pushed_at": "2026-08-22T10:39:11Z"
+  },
+  {
+    "id": 1339915507,
+    "name": "dsh-meow-smooth",
+    "full_name": "Phant0Meow/dsh-meow-smooth",
+    "owner": {
+      "login": "Phant0Meow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37461428?v=4"
+    },
+    "description": "手机电脑dsh通知功能！移动端可用的通知！手机端ui交互优化！让手机端dsh真正可用。",
+    "topics": [
+      "cordis",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "ios",
+      "mobile",
+      "notifications",
+      "pwa",
+      "ux",
+      "web-push"
+    ],
+    "html_url": "https://github.com/Phant0Meow/dsh-meow-smooth",
+    "stargazers_count": 9,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-19T18:40:50Z",
+    "updated_at": "2026-08-24T01:43:06Z",
+    "pushed_at": "2026-08-23T10:05:55Z"
+  },
+  {
+    "id": 1339305167,
+    "name": "deepseek-harness-mobile",
+    "full_name": "guoyihub/deepseek-harness-mobile",
+    "owner": {
+      "login": "guoyihub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158392379?v=4"
+    },
+    "description": "DeepSeek Harness 开源手机端（iOS / Android PWA）：局域网扫码配对桌面 Host，无需账号，浏览任务并继续 Agent 对话。",
+    "topics": [
+      "agent",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "mobile",
+      "pwa"
+    ],
+    "html_url": "https://github.com/guoyihub/deepseek-harness-mobile",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 11,
+    "created_at": "2026-08-19T08:30:29Z",
+    "updated_at": "2026-08-22T17:54:43Z",
+    "pushed_at": "2026-08-22T17:54:38Z"
+  },
+  {
+    "id": 1337429978,
+    "name": "dsh-zen-remote",
+    "full_name": "KyoMio/dsh-zen-remote",
+    "owner": {
+      "login": "KyoMio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38713408?v=4"
+    },
+    "description": "Turn DeepSeek Harness into a phone app you can securely reach from anywhere: minimal mobile UI rework + pairing-code gateway + PWA + Web Push. 让 DSH 变成可公网安全访问的手机 App",
+    "topics": [
+      "deepseek-harness",
+      "dsh-plugin",
+      "mobile",
+      "pwa",
+      "remote-access",
+      "web-push"
+    ],
+    "html_url": "https://github.com/KyoMio/dsh-zen-remote",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T17:09:14Z",
+    "updated_at": "2026-08-23T10:49:37Z",
+    "pushed_at": "2026-08-23T10:49:33Z"
+  },
+  {
+    "id": 1336757543,
+    "name": "dsh-mobile-shell",
+    "full_name": "Yui-Little/dsh-mobile-shell",
+    "owner": {
+      "login": "Yui-Little",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77883931?v=4"
+    },
+    "description": "Mobile shell UI plugin for DeepSeek Harness web: overlay drawer, full-width conversation, settings sheet, marketplace with hot-load installs.",
+    "topics": [
+      "cordis",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "mobile",
+      "mobile-ui"
+    ],
+    "html_url": "https://github.com/Yui-Little/dsh-mobile-shell",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-17T06:19:35Z",
+    "updated_at": "2026-08-23T11:43:20Z",
+    "pushed_at": "2026-08-21T08:43:44Z"
+  },
+  {
+    "id": 1337928352,
+    "name": "dsh-mobile-remote",
+    "full_name": "Auxin-zn/dsh-mobile-remote",
+    "owner": {
+      "login": "Auxin-zn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194652551?v=4"
+    },
+    "description": "Control DeepSeek Harness from your phone via Tailscale",
+    "topics": [
+      "ai-agent",
+      "deepseek-harness",
+      "mobile",
+      "remote-control",
+      "tailscale"
+    ],
+    "html_url": "https://github.com/Auxin-zn/dsh-mobile-remote",
+    "stargazers_count": 5,
+    "language": "PowerShell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T03:25:52Z",
+    "updated_at": "2026-08-22T03:31:00Z",
+    "pushed_at": "2026-08-18T03:37:13Z"
+  },
+  {
+    "id": 1336521251,
+    "name": "dsh-ui-mobile",
+    "full_name": "jasondu/dsh-ui-mobile",
+    "owner": {
+      "login": "jasondu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2656244?v=4"
+    },
+    "description": "Mobile client plugin for the DeepSeek Harness Web shell: off-canvas sidebar/details drawers, bottom nav bar, and a touch-first responsive layout below 768px",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "mobile",
+      "plugin",
+      "responsive",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/jasondu/dsh-ui-mobile",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-08-17T01:14:34Z",
+    "updated_at": "2026-08-19T11:11:11Z",
+    "pushed_at": "2026-08-20T11:32:20Z"
+  },
+  {
+    "id": 1337154269,
+    "name": "agent-remote-console",
+    "full_name": "fadeoreo/agent-remote-console",
+    "owner": {
+      "login": "fadeoreo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149358800?v=4"
+    },
+    "description": "A self-hosted, mobile-first web console for local Codex, Claude Code, and OpenCode sessions.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "mobile",
+      "opencode",
+      "remote-control",
+      "self-hosted",
+      "tailscale"
+    ],
+    "html_url": "https://github.com/fadeoreo/agent-remote-console",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T12:42:13Z",
+    "updated_at": "2026-08-18T13:26:56Z",
+    "pushed_at": "2026-08-18T10:00:20Z"
+  },
+  {
+    "id": 1338801969,
+    "name": "Blockoo-Constructor",
+    "full_name": "JavaScr1ptL0ver/Blockoo-Constructor",
+    "owner": {
+      "login": "JavaScr1ptL0ver",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284957857?v=4"
+    },
+    "description": "Конструктор визуального программирования — «Blockoo». Легковесный и оптимизированный под мобильные устройства.",
+    "topics": [
+      "android",
+      "android-app",
+      "apk",
+      "constructor",
+      "javascript",
+      "mobile",
+      "no-code",
+      "nocode",
+      "nodes",
+      "visual-programming"
+    ],
+    "html_url": "https://github.com/JavaScr1ptL0ver/Blockoo-Constructor",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-08-18T20:13:14Z",
+    "updated_at": "2026-08-21T13:43:34Z",
+    "pushed_at": "2026-08-20T19:25:25Z"
+  },
+  {
+    "id": 1342645074,
+    "name": "KeepG",
+    "full_name": "YanagiKH/KeepG",
+    "owner": {
+      "login": "YanagiKH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142028490?v=4"
+    },
+    "description": "Improved Mobile Photo Album Management Software",
+    "topics": [
+      "kotlin",
+      "kotlin-android",
+      "kotlin-language",
+      "mobile",
+      "mobile-app",
+      "photo",
+      "photo-editing",
+      "photo-editor",
+      "photo-gallery",
+      "photos"
+    ],
+    "html_url": "https://github.com/YanagiKH/KeepG",
+    "stargazers_count": 1,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T09:18:00Z",
+    "updated_at": "2026-08-22T22:25:41Z",
+    "pushed_at": "2026-08-22T22:35:03Z"
+  },
+  {
+    "id": 1340781912,
+    "name": "Hermes-Studio-Mobile-Web",
+    "full_name": "louke6572/Hermes-Studio-Mobile-Web",
+    "owner": {
+      "login": "louke6572",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278880577?v=4"
+    },
+    "description": "We've adapted a lightweight mobile web version of Hermes Studio. Just add the webpage as a bookmark to your phone's desktop in the browser, and you can use it right away once the connection is stable.",
+    "topics": [
+      "chat-ui",
+      "hermes-studio",
+      "mobile",
+      "mobile-web",
+      "pwa",
+      "remote-control",
+      "remote-desktop",
+      "responsive",
+      "screen-sharing",
+      "vue",
+      "web-desktop",
+      "web-ui",
+      "websocket"
+    ],
+    "html_url": "https://github.com/louke6572/Hermes-Studio-Mobile-Web",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T14:17:48Z",
+    "updated_at": "2026-08-23T11:18:10Z",
+    "pushed_at": "2026-08-23T11:18:06Z"
+  },
+  {
+    "id": 1337995339,
+    "name": "dsh-mobile-gateway",
+    "full_name": "Gao-Yee/dsh-mobile-gateway",
+    "owner": {
+      "login": "Gao-Yee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220812374?v=4"
+    },
+    "description": "让手机（同一 Wi-Fi / Tailscale）通过密码登录安全访问本机 DeepSeek Harness Web GUI 的零依赖 Node 反向代理网关，附手机专用 SPA 界面",
+    "topics": [
+      "deepseek",
+      "gateway",
+      "mobile",
+      "nodejs",
+      "pwa",
+      "self-hosted",
+      "tailscale"
+    ],
+    "html_url": "https://github.com/Gao-Yee/dsh-mobile-gateway",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T05:09:18Z",
+    "updated_at": "2026-08-18T05:42:55Z",
+    "pushed_at": "2026-08-18T05:42:51Z"
+  },
+  {
+    "id": 1339068293,
+    "name": "TextModeration",
+    "full_name": "NikolaiBorisov/TextModeration",
+    "owner": {
+      "login": "NikolaiBorisov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72150642?v=4"
+    },
+    "description": "Native Swift Package for rule-based, on-device moderation of user-generated text.",
+    "topics": [
+      "content-moderation",
+      "ios",
+      "ios-app",
+      "ios-application",
+      "ios-development",
+      "ios-sdk",
+      "ios-swift",
+      "mobile",
+      "mobile-app",
+      "mobile-development",
+      "mobile-library",
+      "spm",
+      "swift",
+      "swift-framework",
+      "swift-library",
+      "swift-package",
+      "swift-package-manager",
+      "text-moderation",
+      "user-content",
+      "user-generated-content"
+    ],
+    "html_url": "https://github.com/NikolaiBorisov/TextModeration",
+    "stargazers_count": 1,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T03:53:13Z",
+    "updated_at": "2026-08-20T04:09:06Z",
+    "pushed_at": "2026-08-20T03:34:51Z"
+  },
+  {
+    "id": 1336474249,
+    "name": "uniapp",
+    "full_name": "hatixntsoa/uniapp",
+    "owner": {
+      "login": "hatixntsoa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76181981?v=4"
+    },
+    "description": "ENI M1 OCC 2026 Mobile Development Homework Project",
+    "topics": [
+      "homework",
+      "mobile",
+      "project"
+    ],
+    "html_url": "https://github.com/hatixntsoa/uniapp",
+    "stargazers_count": 1,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T00:00:54Z",
+    "updated_at": "2026-08-17T13:21:08Z",
+    "pushed_at": "2026-08-17T13:16:54Z"
+  },
+  {
+    "id": 1343297900,
+    "name": "deepseek-harness-android",
+    "full_name": "Jamers0/deepseek-harness-android",
+    "owner": {
+      "login": "Jamers0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70006086?v=4"
+    },
+    "description": "DeepSeek Harness portado pra rodar 100% nativo no Android via Termux (ARM64/Bionic): Koffi, node-pty e Sharp compilados no celular, sem desktop.",
+    "topics": [
+      "aarch64",
+      "android",
+      "arm64",
+      "bionic",
+      "deepseek",
+      "deepseek-harness",
+      "koffi",
+      "mobile",
+      "node-pty",
+      "port",
+      "selfhosted",
+      "termux"
+    ],
+    "html_url": "https://github.com/Jamers0/deepseek-harness-android",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T02:01:45Z",
+    "updated_at": "2026-08-23T06:59:24Z",
+    "pushed_at": "2026-08-23T02:51:10Z"
+  },
+  {
+    "id": 1338717526,
+    "name": "byot",
+    "full_name": "steventsao/byot",
+    "owner": {
+      "login": "steventsao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15185301?v=4"
+    },
+    "description": "Native iOS client for OpenCode",
+    "topics": [
+      "ai",
+      "coding-agent",
+      "ios",
+      "mobile",
+      "opencode",
+      "self-hosted",
+      "swift",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/steventsao/byot",
+    "stargazers_count": 1,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 37,
+    "created_at": "2026-08-18T18:23:10Z",
+    "updated_at": "2026-08-22T22:21:37Z",
+    "pushed_at": "2026-08-24T00:40:30Z"
+  },
+  {
+    "id": 1338091553,
+    "name": "upload-action",
+    "full_name": "betadrop-app/upload-action",
+    "owner": {
+      "login": "betadrop-app",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318145562?v=4"
+    },
+    "description": "Upload an iOS .ipa or Android .apk to BetaDrop from CI and get an instant over-the-air install link.",
+    "topics": [
+      "android",
+      "app-distribution",
+      "ci-cd",
+      "github-actions",
+      "ios",
+      "mobile",
+      "testflight-alternative"
+    ],
+    "html_url": "https://github.com/betadrop-app/upload-action",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T07:10:08Z",
+    "updated_at": "2026-08-23T12:41:42Z",
+    "pushed_at": "2026-08-23T12:40:06Z"
+  }
+]

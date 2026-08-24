@@ -1,0 +1,617 @@
+[
+  {
+    "id": 1337920628,
+    "name": "DeepSeek-Balance-Whale-Widget",
+    "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "owner": {
+      "login": "MeteorNOX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247166461?v=4"
+    },
+    "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+    "topics": [
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "floating-widget",
+      "plugin"
+    ],
+    "html_url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "stargazers_count": 728,
+    "language": "JavaScript",
+    "forks_count": 28,
+    "open_issues_count": 14,
+    "created_at": "2026-08-18T03:13:51Z",
+    "updated_at": "2026-08-24T02:00:05Z",
+    "pushed_at": "2026-08-23T08:23:28Z"
+  },
+  {
+    "id": 1336793734,
+    "name": "pilot-harness",
+    "full_name": "op7418/pilot-harness",
+    "owner": {
+      "login": "op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "description": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+    "topics": [
+      "ai-agent",
+      "codepilot",
+      "deepseek",
+      "deepseek-harness",
+      "desktop-app",
+      "dsh",
+      "dsh-plugin",
+      "electron",
+      "linux",
+      "macos",
+      "typescript",
+      "windows"
+    ],
+    "html_url": "https://github.com/op7418/pilot-harness",
+    "stargazers_count": 252,
+    "language": "TypeScript",
+    "forks_count": 13,
+    "open_issues_count": 16,
+    "created_at": "2026-08-17T06:56:42Z",
+    "updated_at": "2026-08-23T22:55:55Z",
+    "pushed_at": "2026-08-20T12:42:53Z"
+  },
+  {
+    "id": 1337578818,
+    "name": "gpt5.6-claude-grok4.6-deepseekv4pro",
+    "full_name": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
+    "owner": {
+      "login": "3641397194-wq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308364968?v=4"
+    },
+    "description": "冷咖啡 ColdBrew 四合一破甲正式版 — GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro 一键部署 · 启动 · 恢复 · 打包发布 | QQ 群 1057540028 / 1077074552",
+    "topics": [
+      "claude",
+      "coldbrew",
+      "deepseek",
+      "gpt-5-6",
+      "grok",
+      "jailbreak",
+      "prompt-engineering",
+      "security-research"
+    ],
+    "html_url": "https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
+    "stargazers_count": 169,
+    "language": "Python",
+    "forks_count": 32,
+    "open_issues_count": 1,
+    "created_at": "2026-08-17T19:36:40Z",
+    "updated_at": "2026-08-24T00:58:39Z",
+    "pushed_at": "2026-08-22T21:04:55Z"
+  },
+  {
+    "id": 1336998801,
+    "name": "dsh-image-gen",
+    "full_name": "shanliuling/dsh-image-gen",
+    "owner": {
+      "login": "shanliuling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83563400?v=4"
+    },
+    "description": "Generate images directly in DeepSeek Harness chats",
+    "topics": [
+      "ai-agent",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "gemini",
+      "image-generation",
+      "openai",
+      "plugin",
+      "seedream"
+    ],
+    "html_url": "https://github.com/shanliuling/dsh-image-gen",
+    "stargazers_count": 156,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 3,
+    "created_at": "2026-08-17T10:16:37Z",
+    "updated_at": "2026-08-24T00:26:46Z",
+    "pushed_at": "2026-08-19T16:46:32Z"
+  },
+  {
+    "id": 1336998102,
+    "name": "dsh-remote-web-gateway",
+    "full_name": "summer1238/dsh-remote-web-gateway",
+    "owner": {
+      "login": "summer1238",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151708650?v=4"
+    },
+    "description": "手机平板远程 DeepSeek Harness：扫码即可继续使用电脑上的 DSH，无需远程桌面 / SSH / 公网 IP，支持一次性配对、Github授权加密登录，独立设备授权与随时撤销，实现远程连接很简单，但安全才是我们所想要的。",
+    "topics": [
+      "cloudflare-tunnel",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-mobile-app",
+      "dsh-model-switch",
+      "dsh-plugin",
+      "mobile",
+      "qr-code",
+      "quick-tunnel",
+      "remote-access",
+      "remote-control"
+    ],
+    "html_url": "https://github.com/summer1238/dsh-remote-web-gateway",
+    "stargazers_count": 133,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-08-17T10:15:58Z",
+    "updated_at": "2026-08-23T19:44:49Z",
+    "pushed_at": "2026-08-21T13:38:39Z"
+  },
+  {
+    "id": 1336614837,
+    "name": "dsh-damage-pulse",
+    "full_name": "wssfk12138/dsh-damage-pulse",
+    "owner": {
+      "login": "wssfk12138",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79346097?v=4"
+    },
+    "description": "DeepSeek Harness Token 余额监控插件：鲸鱼娘待机/扣费/复苏动画、峰谷计费、连续扣费飘字与会话费用统计。",
+    "topics": [
+      "balance-monitor",
+      "damage-animation",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "token-monitor",
+      "token-usage"
+    ],
+    "html_url": "https://github.com/wssfk12138/dsh-damage-pulse",
+    "stargazers_count": 110,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T03:23:58Z",
+    "updated_at": "2026-08-24T01:41:35Z",
+    "pushed_at": "2026-08-23T08:41:02Z"
+  },
+  {
+    "id": 1338176891,
+    "name": "dsh-beauty-skins",
+    "full_name": "XieRW/dsh-beauty-skins",
+    "owner": {
+      "login": "XieRW",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37648592?v=4"
+    },
+    "description": "给 DeepSeek Harness 用的美女系列皮肤：设置里从 哲风壁纸 拉预览网格，点一张即应用，配色从壁纸提取。支持动态壁纸，也保留自定义选图。",
+    "topics": [
+      "beauty",
+      "cordis",
+      "cordis-plugin",
+      "deepseek",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-theme",
+      "skin"
+    ],
+    "html_url": "https://github.com/XieRW/dsh-beauty-skins",
+    "stargazers_count": 75,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T08:44:24Z",
+    "updated_at": "2026-08-23T19:17:15Z",
+    "pushed_at": "2026-08-18T08:52:11Z"
+  },
+  {
+    "id": 1337335939,
+    "name": "dsh-turn-delete",
+    "full_name": "hanshenmesen/dsh-turn-delete",
+    "owner": {
+      "login": "hanshenmesen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109567843?v=4"
+    },
+    "description": "Delete one complete turn from a DeepSeek Harness session without deleting the session",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin"
+    ],
+    "html_url": "https://github.com/hanshenmesen/dsh-turn-delete",
+    "stargazers_count": 64,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T15:40:59Z",
+    "updated_at": "2026-08-24T01:06:47Z",
+    "pushed_at": "2026-08-18T04:37:17Z"
+  },
+  {
+    "id": 1337824285,
+    "name": "omp-best-of",
+    "full_name": "wolfiesch/omp-best-of",
+    "owner": {
+      "login": "wolfiesch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221313372?v=4"
+    },
+    "description": "Best-of-N coding agents with LLM-as-a-Verifier selection for Oh My Pi: isolated git worktrees, verifier-ranked trajectories, winner-only patch application",
+    "topics": [
+      "ai-agents",
+      "best-of-n",
+      "coding-agent",
+      "deepseek",
+      "git-worktree",
+      "llm-as-a-verifier",
+      "oh-my-pi",
+      "oh-my-pi-extension",
+      "omp",
+      "omp-extension",
+      "omp-parallel",
+      "omp-plugin",
+      "test-time-scaling"
+    ],
+    "html_url": "https://github.com/wolfiesch/omp-best-of",
+    "stargazers_count": 57,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 4,
+    "created_at": "2026-08-18T00:41:05Z",
+    "updated_at": "2026-08-23T15:31:21Z",
+    "pushed_at": "2026-08-20T12:16:51Z"
+  },
+  {
+    "id": 1336991775,
+    "name": "Proteus",
+    "full_name": "proteus-evolve/Proteus",
+    "owner": {
+      "login": "proteus-evolve",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318542232?v=4"
+    },
+    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
+    "topics": [
+      "agent",
+      "agent-framework",
+      "agent-memory",
+      "deepseek",
+      "deepseek-harness",
+      "evolving",
+      "harness",
+      "harness-engineering",
+      "recursive-self-improvement",
+      "rsi",
+      "self-evolving",
+      "self-evolving-agents",
+      "self-evolving-systems"
+    ],
+    "html_url": "https://github.com/proteus-evolve/Proteus",
+    "stargazers_count": 45,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 2,
+    "created_at": "2026-08-17T10:09:33Z",
+    "updated_at": "2026-08-23T18:40:59Z",
+    "pushed_at": "2026-08-23T18:40:06Z"
+  },
+  {
+    "id": 1340749561,
+    "name": "Mimir",
+    "full_name": "1692775560/Mimir",
+    "owner": {
+      "login": "1692775560",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110378238?v=4"
+    },
+    "description": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+    "topics": [
+      "arxiv",
+      "bibtex",
+      "deepseek",
+      "experiment-tracking",
+      "gpu-cluster",
+      "latex",
+      "paper-writing",
+      "research",
+      "research-tools",
+      "ssh"
+    ],
+    "html_url": "https://github.com/1692775560/Mimir",
+    "stargazers_count": 35,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T13:46:05Z",
+    "updated_at": "2026-08-23T16:34:30Z",
+    "pushed_at": "2026-08-23T16:35:02Z"
+  },
+  {
+    "id": 1338745917,
+    "name": "nodeseek-ai-profile",
+    "full_name": "yellow13441/nodeseek-ai-profile",
+    "owner": {
+      "login": "yellow13441",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42274669?v=4"
+    },
+    "description": "NodeSeek 用户 AI 画像 Userscript：快速画像、深度交易分析、多用户并发、管理记录、多 AI Provider、Token 展示与图片分享。",
+    "topics": [
+      "ai",
+      "deepseek",
+      "javascript",
+      "nodeseek",
+      "openai",
+      "tampermonkey",
+      "userscript",
+      "violentmonkey"
+    ],
+    "html_url": "https://github.com/yellow13441/nodeseek-ai-profile",
+    "stargazers_count": 34,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-18T18:58:46Z",
+    "updated_at": "2026-08-21T12:46:13Z",
+    "pushed_at": "2026-08-20T08:33:44Z"
+  },
+  {
+    "id": 1339469423,
+    "name": "dsh-lark-bridge",
+    "full_name": "bihangchi9-creator/dsh-lark-bridge",
+    "owner": {
+      "login": "bihangchi9-creator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240404032?v=4"
+    },
+    "description": "A native DeepSeek Harness (dsh) plugin bridging dsh coding agents to Feishu/Lark group chats — one group, one project directory.",
+    "topics": [
+      "bot",
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "feishu",
+      "lark"
+    ],
+    "html_url": "https://github.com/bihangchi9-creator/dsh-lark-bridge",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T11:07:22Z",
+    "updated_at": "2026-08-23T17:27:48Z",
+    "pushed_at": "2026-08-21T10:36:30Z"
+  },
+  {
+    "id": 1340244547,
+    "name": "dsh-plugin-hub",
+    "full_name": "dshplugin/dsh-plugin-hub",
+    "owner": {
+      "login": "dshplugin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316656345?v=4"
+    },
+    "description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
+    "topics": [
+      "agent",
+      "ai",
+      "cli",
+      "community-plugins",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "dsh-plugin-org",
+      "harness",
+      "open-source",
+      "plugin-hub",
+      "plugin-marketplace",
+      "plugins",
+      "typescript"
+    ],
+    "html_url": "https://github.com/dshplugin/dsh-plugin-hub",
+    "stargazers_count": 25,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T03:32:27Z",
+    "updated_at": "2026-08-24T01:54:44Z",
+    "pushed_at": "2026-08-23T11:03:27Z"
+  },
+  {
+    "id": 1339663847,
+    "name": "niulai-video-generator",
+    "full_name": "liyupi/niulai-video-generator",
+    "owner": {
+      "login": "liyupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26037703?v=4"
+    },
+    "description": "🐮 牛来动画生成器 —— 输入一段小故事，一条命令产出还原电影《牛来》风格的抽象动画：无厘头台词、严格同步的字幕与配音、粗糙低模的直立牛。Three.js 程序化 3D 渲染 + DeepSeek 剧本生成 + TTS 配音 + FFmpeg 合成，不依赖视频大模型。AI video generator that turns any short story into a Niulai-style absurd 3D animation with lip-synced subtitles.",
+    "topics": [
+      "3d-animation",
+      "ai-video-generator",
+      "animation",
+      "bilibili",
+      "deepseek",
+      "ffmpeg",
+      "generative-art",
+      "llm",
+      "meme",
+      "niulai",
+      "nodejs",
+      "playwright",
+      "procedural-generation",
+      "subtitles",
+      "text-to-speech",
+      "text-to-video",
+      "threejs",
+      "tts",
+      "typescript",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/liyupi/niulai-video-generator",
+    "stargazers_count": 22,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 4,
+    "created_at": "2026-08-19T14:14:21Z",
+    "updated_at": "2026-08-22T16:19:39Z",
+    "pushed_at": "2026-08-19T14:16:37Z"
+  },
+  {
+    "id": 1339888634,
+    "name": "dsh-tether",
+    "full_name": "zexadev/dsh-tether",
+    "owner": {
+      "login": "zexadev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160208005?v=4"
+    },
+    "description": "Reach the DeepSeek Harness on your dev machine from your phone — across networks, through no server at all (iroh P2P)",
+    "topics": [
+      "ai-agent",
+      "android",
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "hole-punching",
+      "iroh",
+      "mobile",
+      "nat-traversal",
+      "p2p",
+      "remote-development",
+      "rust",
+      "tauri"
+    ],
+    "html_url": "https://github.com/zexadev/dsh-tether",
+    "stargazers_count": 22,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T18:09:51Z",
+    "updated_at": "2026-08-23T15:14:43Z",
+    "pushed_at": "2026-08-22T10:39:11Z"
+  },
+  {
+    "id": 1342024605,
+    "name": "dsh-with-chatgpt",
+    "full_name": "BeforeWave/dsh-with-chatgpt",
+    "owner": {
+      "login": "BeforeWave",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290928491?v=4"
+    },
+    "description": "Bring ChatGPT’s reasoning to your local codebase. Work directly, or delegate larger tasks to DSH.",
+    "topics": [
+      "chatgpt",
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "mcp",
+      "model-context-protocol",
+      "serena",
+      "typescript"
+    ],
+    "html_url": "https://github.com/BeforeWave/dsh-with-chatgpt",
+    "stargazers_count": 22,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T16:41:35Z",
+    "updated_at": "2026-08-24T00:39:03Z",
+    "pushed_at": "2026-08-23T06:09:26Z"
+  },
+  {
+    "id": 1338654346,
+    "name": "deep-read-summarize",
+    "full_name": "PensiveFei/deep-read-summarize",
+    "owner": {
+      "login": "PensiveFei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306542547?v=4"
+    },
+    "description": "Deep reading & summarization workflow for books/papers/videos/web — plugin parsers, MapReduce deep-read, JSON Schema output, Obsidian-ready (DSH)",
+    "topics": [
+      "ai-agent",
+      "content-summarization",
+      "deepseek",
+      "dsh-plugin",
+      "pipeline",
+      "workflow"
+    ],
+    "html_url": "https://github.com/PensiveFei/deep-read-summarize",
+    "stargazers_count": 21,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T17:10:00Z",
+    "updated_at": "2026-08-23T13:44:57Z",
+    "pushed_at": "2026-08-23T13:44:53Z"
+  },
+  {
+    "id": 1337930857,
+    "name": "dsh-bridge",
+    "full_name": "wenbin-wb/dsh-bridge",
+    "owner": {
+      "login": "wenbin-wb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57818063?v=4"
+    },
+    "description": "🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系",
+    "topics": [
+      "access-control",
+      "authentication",
+      "chatbot",
+      "cloudflare",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "feishu",
+      "im-bot",
+      "lark",
+      "qq-bot",
+      "qr-code",
+      "remote-access",
+      "security",
+      "telegram",
+      "tunnel",
+      "websocket",
+      "wechat"
+    ],
+    "html_url": "https://github.com/wenbin-wb/dsh-bridge",
+    "stargazers_count": 20,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 2,
+    "created_at": "2026-08-18T03:29:50Z",
+    "updated_at": "2026-08-24T01:19:53Z",
+    "pushed_at": "2026-08-23T07:19:22Z"
+  },
+  {
+    "id": 1341454466,
+    "name": "cove-book-forge-mcp",
+    "full_name": "moonlin1213/cove-book-forge-mcp",
+    "owner": {
+      "login": "moonlin1213",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260929588?v=4"
+    },
+    "description": "Turn PDF and EPUB books into cached AI analysis, Obsidian notes, and installable Codex/Claude Agent Skills through an open MCP server.",
+    "topics": [
+      "agent-skills",
+      "ai-reading",
+      "claude-code",
+      "codex",
+      "deepseek",
+      "epub",
+      "mcp",
+      "obsidian",
+      "pdf"
+    ],
+    "html_url": "https://github.com/moonlin1213/cove-book-forge-mcp",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T05:58:01Z",
+    "updated_at": "2026-08-23T22:35:35Z",
+    "pushed_at": "2026-08-21T08:12:47Z"
+  }
+]

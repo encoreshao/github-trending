@@ -1,0 +1,621 @@
+[
+  {
+    "id": 1337390717,
+    "name": "AI-Engineering-Lab",
+    "full_name": "zorost/AI-Engineering-Lab",
+    "owner": {
+      "login": "zorost",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4138993?v=4"
+    },
+    "description": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+    "topics": [
+      "ai-agents",
+      "ai-engineering",
+      "course",
+      "curriculum",
+      "databricks",
+      "deep-learning",
+      "fine-tuning",
+      "generative-ai",
+      "learning-resources",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "mlops",
+      "prompt-engineering",
+      "pyspark",
+      "python",
+      "rag",
+      "roadmap",
+      "vector-search",
+      "zorost"
+    ],
+    "html_url": "https://github.com/zorost/AI-Engineering-Lab",
+    "stargazers_count": 108,
+    "language": "Jupyter Notebook",
+    "forks_count": 102,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T16:34:05Z",
+    "updated_at": "2026-08-23T19:36:34Z",
+    "pushed_at": "2026-08-17T19:36:07Z"
+  },
+  {
+    "id": 1338666754,
+    "name": "raw-patch-attribution",
+    "full_name": "Asaf-Livne/raw-patch-attribution",
+    "owner": {
+      "login": "Asaf-Livne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92533913?v=4"
+    },
+    "description": "Attribute an image to the model that generated it — from raw pixels, with a ~6M-parameter CNN (RPA).",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "image-forensics",
+      "model-attribution",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/Asaf-Livne/raw-patch-attribution",
+    "stargazers_count": 35,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T17:24:06Z",
+    "updated_at": "2026-08-23T22:55:33Z",
+    "pushed_at": "2026-08-18T17:24:11Z"
+  },
+  {
+    "id": 1339445525,
+    "name": "worldmodels101",
+    "full_name": "NiluK/worldmodels101",
+    "owner": {
+      "login": "NiluK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14311730?v=4"
+    },
+    "description": "Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes.",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "education",
+      "interactive-learning",
+      "jepa",
+      "machine-learning",
+      "model-based-reinforcement-learning",
+      "reinforcement-learning",
+      "representation-learning",
+      "self-supervised-learning",
+      "video-generation",
+      "world-models"
+    ],
+    "html_url": "https://github.com/NiluK/worldmodels101",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T10:39:11Z",
+    "updated_at": "2026-08-24T01:09:15Z",
+    "pushed_at": "2026-08-23T21:16:27Z"
+  },
+  {
+    "id": 1340715286,
+    "name": "build-a-world-model-from-scratch",
+    "full_name": "RajatDandekar/build-a-world-model-from-scratch",
+    "owner": {
+      "login": "RajatDandekar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84974583?v=4"
+    },
+    "description": "Build a World Model from Scratch — the Vizuara AI lecture series: slides, from-scratch code, and Colab notebooks",
+    "topics": [
+      "colab-notebook",
+      "deep-learning",
+      "from-scratch",
+      "lectures",
+      "pytorch",
+      "reinforcement-learning",
+      "world-models"
+    ],
+    "html_url": "https://github.com/RajatDandekar/build-a-world-model-from-scratch",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T13:11:10Z",
+    "updated_at": "2026-08-23T11:55:44Z",
+    "pushed_at": "2026-08-22T05:59:42Z"
+  },
+  {
+    "id": 1340901192,
+    "name": "whisper-subtitle",
+    "full_name": "tainguyen07/whisper-subtitle",
+    "owner": {
+      "login": "tainguyen07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33820160?v=4"
+    },
+    "description": "Automatic subtitle generator built on OpenAI Whisper: batched transcription, VAD chunking, word-level timestamps, SRT/VTT export and a CLI + web UI.",
+    "topics": [
+      "asr",
+      "audio",
+      "deep-learning",
+      "pytorch",
+      "speech-recognition",
+      "subtitles",
+      "whisper"
+    ],
+    "html_url": "https://github.com/tainguyen07/whisper-subtitle",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T16:21:58Z",
+    "updated_at": "2026-08-21T00:43:01Z",
+    "pushed_at": "2026-08-21T00:37:58Z"
+  },
+  {
+    "id": 1340901093,
+    "name": "nlp-intent-classifier",
+    "full_name": "tainguyen07/nlp-intent-classifier",
+    "owner": {
+      "login": "tainguyen07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33820160?v=4"
+    },
+    "description": "Fine-tuned BERT intent classifier for conversational NLU: HuggingFace Transformers training loop, ONNX export, confidence calibration and a serving API.",
+    "topics": [
+      "bert",
+      "deep-learning",
+      "huggingface",
+      "intent-classification",
+      "nlp",
+      "pytorch",
+      "text-classification",
+      "transformers"
+    ],
+    "html_url": "https://github.com/tainguyen07/nlp-intent-classifier",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T16:21:51Z",
+    "updated_at": "2026-08-21T00:42:59Z",
+    "pushed_at": "2026-08-21T00:37:55Z"
+  },
+  {
+    "id": 1340900990,
+    "name": "image-classifier-tf",
+    "full_name": "tainguyen07/image-classifier-tf",
+    "owner": {
+      "login": "tainguyen07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33820160?v=4"
+    },
+    "description": "Transfer-learning image classifier (TensorFlow/Keras) with training pipeline, augmentation, Grad-CAM and a Flask serving API.",
+    "topics": [
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "image-classification",
+      "keras",
+      "machine-learning",
+      "tensorflow",
+      "transfer-learning"
+    ],
+    "html_url": "https://github.com/tainguyen07/image-classifier-tf",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T16:21:43Z",
+    "updated_at": "2026-08-21T00:42:59Z",
+    "pushed_at": "2026-08-21T00:37:51Z"
+  },
+  {
+    "id": 1340313418,
+    "name": "Kimodo-SOMA-RP-final-showcase",
+    "full_name": "Calix-L/Kimodo-SOMA-RP-final-showcase",
+    "owner": {
+      "login": "Calix-L",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256477432?v=4"
+    },
+    "description": "金山青训营结题项目：Kimodo-SOMA-RP 游戏动作域后训练、评测与 Blender 可视化",
+    "topics": [
+      "blender",
+      "deep-learning",
+      "game-animation",
+      "kimodo",
+      "motion-generation",
+      "research",
+      "text-to-motion"
+    ],
+    "html_url": "https://github.com/Calix-L/Kimodo-SOMA-RP-final-showcase",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T05:21:03Z",
+    "updated_at": "2026-08-20T10:02:33Z",
+    "pushed_at": "2026-08-20T09:59:29Z"
+  },
+  {
+    "id": 1340571154,
+    "name": "mixamo-llm-mocap",
+    "full_name": "prim-sheetpiling81/mixamo-llm-mocap",
+    "owner": {
+      "login": "prim-sheetpiling81",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276133044?v=4"
+    },
+    "description": "Turn locked-camera video into clean FK animations on Mixamo characters—no suit, no keyframing, fully scriptable for AI agents.",
+    "topics": [
+      "3dsmax",
+      "agents",
+      "attention-mechanism",
+      "bvh",
+      "deep-learning",
+      "finetuning",
+      "from-scratch",
+      "ggml",
+      "gvhmr",
+      "large-language-models",
+      "mmd",
+      "mocap",
+      "motionbuilder",
+      "retargeting",
+      "romp",
+      "vtuber"
+    ],
+    "html_url": "https://github.com/prim-sheetpiling81/mixamo-llm-mocap",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T10:26:32Z",
+    "updated_at": "2026-08-23T14:49:50Z",
+    "pushed_at": "2026-08-23T07:36:58Z"
+  },
+  {
+    "id": 1343812102,
+    "name": "YOLO-Guide",
+    "full_name": "AhmadJeddi/YOLO-Guide",
+    "owner": {
+      "login": "AhmadJeddi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76421360?v=4"
+    },
+    "description": "A practical and technical guide to the YOLO ecosystem — architecture, major versions, independent branches, benchmarks, and the evolution from anchor-based to anchor-free, end-to-end, NMS-free, and open-vocabulary detection.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "neural-networks",
+      "object-detection",
+      "yolo",
+      "yolo-world",
+      "yolo11",
+      "yolo26",
+      "yoloe",
+      "yolov10",
+      "yolov8"
+    ],
+    "html_url": "https://github.com/AhmadJeddi/YOLO-Guide",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T13:41:29Z",
+    "updated_at": "2026-08-23T18:57:54Z",
+    "pushed_at": "2026-08-23T13:41:35Z"
+  },
+  {
+    "id": 1336978513,
+    "name": "deep-learning-food-classification",
+    "full_name": "Sikandarabbas-dev/deep-learning-food-classification",
+    "owner": {
+      "login": "Sikandarabbas-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/317777074?v=4"
+    },
+    "description": "AI-powered mobile app for dish recognition using Deep Learning (CNN/MobileNetV2, Transfer Learning, TensorFlow Lite) — built with Flutter & Firebase.",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "deep-learning-algorithms",
+      "image-classification",
+      "mobilenetv2",
+      "tensorflow"
+    ],
+    "html_url": "https://github.com/Sikandarabbas-dev/deep-learning-food-classification",
+    "stargazers_count": 2,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T09:56:30Z",
+    "updated_at": "2026-08-19T15:19:50Z",
+    "pushed_at": "2026-08-18T11:28:33Z"
+  },
+  {
+    "id": 1338341875,
+    "name": "Edge-LSTM-Receiver-cpp23-",
+    "full_name": "naderhany12/Edge-LSTM-Receiver-cpp23-",
+    "owner": {
+      "login": "naderhany12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216412316?v=4"
+    },
+    "description": "Zero-allocation, high-performance C++23 Neural Network Receiver Engine for wireless signal detection, optimized for RISC-V edge devices with bit-exact Python parity",
+    "topics": [
+      "bare-metal",
+      "cpp23",
+      "deep-learning",
+      "digital-communications",
+      "edge-ai",
+      "lstm-model",
+      "risc-v",
+      "signal-processing"
+    ],
+    "html_url": "https://github.com/naderhany12/Edge-LSTM-Receiver-cpp23-",
+    "stargazers_count": 2,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T11:47:05Z",
+    "updated_at": "2026-08-21T19:04:56Z",
+    "pushed_at": "2026-08-21T18:44:27Z"
+  },
+  {
+    "id": 1339592614,
+    "name": "resource-efficient-csi-prediction",
+    "full_name": "MHDoh/resource-efficient-csi-prediction",
+    "owner": {
+      "login": "MHDoh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137338957?v=4"
+    },
+    "description": "Official code for 'Resource-Efficient CSI Prediction: A Gated Fusion and Factorized Projection Approach' (IEEE Communications Letters, 2026). GRU + Luong Attention + Gated Fusion + DSLH for MIMO channel prediction. arXiv:2605.06578",
+    "topics": [
+      "3gpp",
+      "5g",
+      "attention-mechanism",
+      "channel-estimation",
+      "channel-prediction",
+      "csi-prediction",
+      "deep-learning",
+      "gated-fusion",
+      "gru",
+      "ieee",
+      "machine-learning",
+      "massive-mimo",
+      "mimo",
+      "neural-network",
+      "pytorch",
+      "quadriga",
+      "resource-efficient",
+      "signal-processing",
+      "time-series-prediction",
+      "wireless-communications"
+    ],
+    "html_url": "https://github.com/MHDoh/resource-efficient-csi-prediction",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T13:03:24Z",
+    "updated_at": "2026-08-19T13:18:55Z",
+    "pushed_at": "2026-08-19T13:09:59Z"
+  },
+  {
+    "id": 1340917709,
+    "name": "Credit-Card-Fraud-Detection",
+    "full_name": "mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection",
+    "owner": {
+      "login": "mirzayasirabdullahbaig07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194883236?v=4"
+    },
+    "description": "A complete pipeline: train in Google Colab → deploy a live app on Streamlit Community Cloud. The app UI is a dark \"security command-center\" theme (radar-sweep header, live risk gauge, color-coded verdicts).",
+    "topics": [
+      "ai",
+      "data-analysis",
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "fraud-detection",
+      "machine-learning",
+      "model-training",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T16:39:24Z",
+    "updated_at": "2026-08-23T10:23:30Z",
+    "pushed_at": "2026-08-21T11:39:55Z"
+  },
+  {
+    "id": 1337355107,
+    "name": "greenai-profiler",
+    "full_name": "Md-Sifat-Bin-Jibon/greenai-profiler",
+    "owner": {
+      "login": "Md-Sifat-Bin-Jibon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174478507?v=4"
+    },
+    "description": "Open-source PyTorch AI model profiler for latency, memory, energy (NVML/RAPL), and layer-wise bottlenecks. Measure green AI / ML efficiency no fabricated joules.",
+    "topics": [
+      "carbon-aware",
+      "deep-learning",
+      "energy-efficiency",
+      "green-ai",
+      "interface-latency",
+      "layer-profiling",
+      "matchine-learning",
+      "ml-benchmark",
+      "mlops",
+      "model-profiling",
+      "nvml",
+      "onnx",
+      "performance",
+      "pytorch",
+      "sustainable-ai"
+    ],
+    "html_url": "https://github.com/Md-Sifat-Bin-Jibon/greenai-profiler",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-17T16:00:37Z",
+    "updated_at": "2026-08-17T17:20:29Z",
+    "pushed_at": "2026-08-17T17:17:18Z"
+  },
+  {
+    "id": 1341756216,
+    "name": "forge-gpt",
+    "full_name": "Amanbig/forge-gpt",
+    "owner": {
+      "login": "Amanbig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93067432?v=4"
+    },
+    "description": "Modular, step-by-step implementation of GPT & Modern LLMs from scratch in PyTorch. Featuring RoPE, RMSNorm, SwiGLU, GQA, KV-Cache, Unit Tests, and an Interactive Web Playground.",
+    "topics": [
+      "bpe-tokenizer",
+      "deep-learning",
+      "educational",
+      "generative-ai",
+      "gpt",
+      "gpt2",
+      "gqa",
+      "grouped-query-attention",
+      "kv-cache",
+      "llama3",
+      "llm-from-scratch",
+      "machine-learning",
+      "python",
+      "pytorch",
+      "rmsnorm",
+      "rope",
+      "swiglu",
+      "transformers"
+    ],
+    "html_url": "https://github.com/Amanbig/forge-gpt",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T11:52:54Z",
+    "updated_at": "2026-08-23T12:33:08Z",
+    "pushed_at": "2026-08-23T12:28:27Z"
+  },
+  {
+    "id": 1339204622,
+    "name": "sciglyph",
+    "full_name": "GuoCheng24/sciglyph",
+    "owner": {
+      "login": "GuoCheng24",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224264187?v=4"
+    },
+    "description": "Publication-quality scientific illustration in pure matplotlib - no BioRender, no Illustrator",
+    "topics": [
+      "bioinformatics",
+      "data-visualization",
+      "deep-learning",
+      "figures",
+      "graphical-abstract",
+      "matplotlib",
+      "publication-figures",
+      "scientific-visualization"
+    ],
+    "html_url": "https://github.com/GuoCheng24/sciglyph",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T06:51:27Z",
+    "updated_at": "2026-08-20T07:34:51Z",
+    "pushed_at": "2026-08-20T07:32:09Z"
+  },
+  {
+    "id": 1342508703,
+    "name": "automotive-surface-defect-classification",
+    "full_name": "Abdulmajeed-Tawfik/automotive-surface-defect-classification",
+    "owner": {
+      "login": "Abdulmajeed-Tawfik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210232567?v=4"
+    },
+    "description": "A deep learning system for classifying automotive steel surface defects using CNNs and EfficientNet transfer learning with explainable AI.",
+    "topics": [
+      "artificial-intelligence",
+      "automotive",
+      "cnn",
+      "couputer-vision",
+      "deep-learning",
+      "defect-detection",
+      "efficientnet",
+      "image-classification",
+      "machine-learning",
+      "pytho",
+      "pytorch",
+      "surface-defect-detection",
+      "transfer-learning"
+    ],
+    "html_url": "https://github.com/Abdulmajeed-Tawfik/automotive-surface-defect-classification",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T06:22:41Z",
+    "updated_at": "2026-08-22T16:06:51Z",
+    "pushed_at": "2026-08-22T07:03:54Z"
+  },
+  {
+    "id": 1343624696,
+    "name": "cat-dog-transfer-learning",
+    "full_name": "billawithaiml/cat-dog-transfer-learning",
+    "owner": {
+      "login": "billawithaiml",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149454290?v=4"
+    },
+    "description": "Cat vs Dog classifier built with Transfer Learning (ResNet18/PyTorch) deployed on Hugging Face Spaces",
+    "topics": [
+      "bangla-tutorial",
+      "cnn-classification",
+      "computervision",
+      "deep-learning",
+      "gradio",
+      "huggingface",
+      "imageclassification",
+      "machine-learning",
+      "pytorch",
+      "resnet18",
+      "transfer-learning"
+    ],
+    "html_url": "https://github.com/billawithaiml/cat-dog-transfer-learning",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T10:04:33Z",
+    "updated_at": "2026-08-23T18:05:32Z",
+    "pushed_at": "2026-08-23T10:16:36Z"
+  },
+  {
+    "id": 1341284150,
+    "name": "pokemon-showdown-bot",
+    "full_name": "prayush-sinha/pokemon-showdown-bot",
+    "owner": {
+      "login": "prayush-sinha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141647125?v=4"
+    },
+    "description": "Autonomous, game-theoretic Pokémon Showdown AI powered by Simultaneous Expectiminimax, Set-Transformer neural policy pruning (ONNX), inverse damage calculations, and Smogon metagame priors.",
+    "topics": [
+      "deep-learning",
+      "expectiminimax",
+      "game-ai",
+      "game-theory",
+      "onnxruntime",
+      "poke-env",
+      "pokemon-showdown-bot",
+      "python3",
+      "set-transformer"
+    ],
+    "html_url": "https://github.com/prayush-sinha/pokemon-showdown-bot",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T01:25:28Z",
+    "updated_at": "2026-08-24T01:41:14Z",
+    "pushed_at": "2026-08-23T17:38:19Z"
+  }
+]
