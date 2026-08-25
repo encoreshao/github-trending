@@ -1,0 +1,511 @@
+[
+  {
+    "id": 1337934963,
+    "name": "asana-sweep",
+    "full_name": "YCyrus/asana-sweep",
+    "owner": {
+      "login": "YCyrus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71805826?v=4"
+    },
+    "description": "Scheduled AI sweep of your Asana tasks - triage, dedupe, and open GitLab issues that trigger an AI coding harness.",
+    "topics": [
+      "ai-agent",
+      "asana",
+      "automation",
+      "claude-code",
+      "claude-code-plugin",
+      "gitlab",
+      "mcp"
+    ],
+    "html_url": "https://github.com/YCyrus/asana-sweep",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T03:36:20Z",
+    "updated_at": "2026-08-24T08:54:04Z",
+    "pushed_at": "2026-08-24T08:52:06Z"
+  },
+  {
+    "id": 1340515369,
+    "name": "GIT-CODE-REVIEW-MCP",
+    "full_name": "Hopcos/GIT-CODE-REVIEW-MCP",
+    "owner": {
+      "login": "Hopcos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8747775?v=4"
+    },
+    "description": "MCP Server for Multi-Project GitLab Merge Request Review  支持对GITLAB多个项目进行MR Review的MCP",
+    "topics": [
+      "codereview",
+      "codereview-mcp",
+      "codereview-tools",
+      "codereviewe",
+      "gitlab",
+      "gitlab-mcp",
+      "mcp",
+      "mcp-server",
+      "review-mcp"
+    ],
+    "html_url": "https://github.com/Hopcos/GIT-CODE-REVIEW-MCP",
+    "stargazers_count": 1,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T09:23:17Z",
+    "updated_at": "2026-08-21T00:54:54Z",
+    "pushed_at": "2026-08-20T15:30:11Z"
+  },
+  {
+    "id": 1342236763,
+    "name": "tagscope",
+    "full_name": "triumphpc/tagscope",
+    "owner": {
+      "login": "triumphpc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/593314?v=4"
+    },
+    "description": "Local, tag-first git browser that shows which version of a service is on which environment — and how far behind it is.",
+    "topics": [
+      "argocd",
+      "devops",
+      "git",
+      "gitlab",
+      "go",
+      "kubernetes",
+      "release-management",
+      "tags"
+    ],
+    "html_url": "https://github.com/triumphpc/tagscope",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T21:30:23Z",
+    "updated_at": "2026-08-21T21:34:43Z",
+    "pushed_at": "2026-08-21T21:34:39Z"
+  },
+  {
+    "id": 1340412366,
+    "name": "theme-foxglider",
+    "full_name": "konstructio/theme-foxglider",
+    "owner": {
+      "login": "konstructio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170355310?v=4"
+    },
+    "description": "Foxglider — sleek pipeline timelines, job gantts, and an org-wide activity feed for your GitLab. A read-only informational platform theme for Konstruct.",
+    "topics": [
+      "gitlab",
+      "konstruct",
+      "labs",
+      "platform-theme"
+    ],
+    "html_url": "https://github.com/konstructio/theme-foxglider",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T07:28:08Z",
+    "updated_at": "2026-08-20T07:53:25Z",
+    "pushed_at": "2026-08-20T07:52:46Z"
+  },
+  {
+    "id": 1338112738,
+    "name": "tally",
+    "full_name": "ParkHaeBeen/tally",
+    "owner": {
+      "login": "ParkHaeBeen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130157565?v=4"
+    },
+    "description": "A macOS menu-bar widget for your open reviews, issues, notes and CI — read-only, no dependencies, pluggable sources",
+    "topics": [
+      "developer-tools",
+      "github",
+      "gitlab",
+      "jira",
+      "macos",
+      "menubar",
+      "productivity",
+      "swift"
+    ],
+    "html_url": "https://github.com/ParkHaeBeen/tally",
+    "stargazers_count": 0,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T07:34:49Z",
+    "updated_at": "2026-08-21T01:34:58Z",
+    "pushed_at": "2026-08-21T01:34:52Z"
+  },
+  {
+    "id": 1342712362,
+    "name": "chrome-show-issue-and-mr-no",
+    "full_name": "jason1105/chrome-show-issue-and-mr-no",
+    "owner": {
+      "login": "jason1105",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6867700?v=4"
+    },
+    "description": "Show GitLab issue/MR numbers directly on pages. Works with self-hosted GitLab.",
+    "topics": [
+      "browser-extension",
+      "chrome-extension",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/jason1105/chrome-show-issue-and-mr-no",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T10:42:44Z",
+    "updated_at": "2026-08-23T10:20:26Z",
+    "pushed_at": "2026-08-23T10:20:13Z"
+  },
+  {
+    "id": 1343016281,
+    "name": "gitlab-github-mirror",
+    "full_name": "mamahoos/gitlab-github-mirror",
+    "owner": {
+      "login": "mamahoos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62762296?v=4"
+    },
+    "description": "Portable GitLab → GitHub read-only mirroring toolkit — CLI, systemd daemon, and hot/cold sync tiers.",
+    "topics": [
+      "automation",
+      "cli",
+      "devops",
+      "git",
+      "git-mirror",
+      "github",
+      "gitlab",
+      "mirror",
+      "python",
+      "self-hosted",
+      "systemd"
+    ],
+    "html_url": "https://github.com/mamahoos/gitlab-github-mirror",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T17:17:30Z",
+    "updated_at": "2026-08-22T17:17:43Z",
+    "pushed_at": "2026-08-22T17:17:57Z"
+  },
+  {
+    "id": 1338581886,
+    "name": "gitlab-heatmap",
+    "full_name": "moghaddas/gitlab-heatmap",
+    "owner": {
+      "login": "moghaddas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1793138?v=4"
+    },
+    "description": "Draw your GitLab commit history as a heatmap on your GitHub profile. Counts commits, not push events.",
+    "topics": [
+      "contribution-graph",
+      "github-action",
+      "gitlab",
+      "heatmap",
+      "profile-readme",
+      "python",
+      "svg"
+    ],
+    "html_url": "https://github.com/moghaddas/gitlab-heatmap",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T15:49:28Z",
+    "updated_at": "2026-08-19T12:05:56Z",
+    "pushed_at": "2026-08-19T12:03:58Z"
+  },
+  {
+    "id": 1344949614,
+    "name": "gitlab-unfurl-teams",
+    "full_name": "thomukas/gitlab-unfurl-teams",
+    "owner": {
+      "login": "thomukas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4820555?v=4"
+    },
+    "description": "Paste a GitLab merge request or issue link into Microsoft Teams and get a card instead of a sign-in page. Per-user OAuth, no shared token, no database. Deployable to AWS, Azure or GCP.",
+    "topics": [
+      "adaptive-cards",
+      "gitlab",
+      "hono",
+      "link-unfurling",
+      "microsoft-teams",
+      "teams-app",
+      "typescript"
+    ],
+    "html_url": "https://github.com/thomukas/gitlab-unfurl-teams",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-24T12:47:24Z",
+    "updated_at": "2026-08-24T14:46:28Z",
+    "pushed_at": "2026-08-24T14:57:43Z"
+  },
+  {
+    "id": 1338692373,
+    "name": "omarchy-gitlab-ci",
+    "full_name": "edgarsilva/omarchy-gitlab-ci",
+    "owner": {
+      "login": "edgarsilva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/518231?v=4"
+    },
+    "description": "Omarchy bar widget for GitLab CI: shows the pipelines you triggered or own, and notifies when one finishes.",
+    "topics": [
+      "gitlab",
+      "gitlab-ci",
+      "hyprland",
+      "omarchy",
+      "omarchy-plugin",
+      "quickshell"
+    ],
+    "html_url": "https://github.com/edgarsilva/omarchy-gitlab-ci",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T17:53:48Z",
+    "updated_at": "2026-08-19T20:50:41Z",
+    "pushed_at": "2026-08-19T20:49:05Z"
+  },
+  {
+    "id": 1341321478,
+    "name": "easy-git",
+    "full_name": "easysir10/easy-git",
+    "owner": {
+      "login": "easysir10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40814063?v=4"
+    },
+    "description": null,
+    "topics": [
+      "beginner-friendly",
+      "cordis",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "git",
+      "git-helper",
+      "github",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/easysir10/easy-git",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T02:27:19Z",
+    "updated_at": "2026-08-21T13:16:49Z",
+    "pushed_at": "2026-08-21T13:15:34Z"
+  },
+  {
+    "id": 1338861207,
+    "name": "messrequess",
+    "full_name": "piligrimnick/messrequess",
+    "owner": {
+      "login": "piligrimnick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20161497?v=4"
+    },
+    "description": "TUI dashboard for GitLab merge requests: whose turn is it, and one-key Claude session with full MR context",
+    "topics": [
+      "claude-code",
+      "code-review",
+      "gitlab",
+      "merge-requests",
+      "ratatui",
+      "rust",
+      "tui"
+    ],
+    "html_url": "https://github.com/piligrimnick/messrequess",
+    "stargazers_count": 0,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T21:43:48Z",
+    "updated_at": "2026-08-19T12:17:15Z",
+    "pushed_at": "2026-08-19T13:48:44Z"
+  },
+  {
+    "id": 1344879299,
+    "name": "augmented-development",
+    "full_name": "Stijnvandenbroek/augmented-development",
+    "owner": {
+      "login": "Stijnvandenbroek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70574420?v=4"
+    },
+    "description": "An augmented development environment: OpenCode wrapped by Headroom with git, uv, RTK, GitLab signing/auth, Artifactory, and custom CA support.",
+    "topics": [
+      "artifactory",
+      "developer-tools",
+      "docker",
+      "gitlab",
+      "headroom",
+      "opencode",
+      "rtk",
+      "uv"
+    ],
+    "html_url": "https://github.com/Stijnvandenbroek/augmented-development",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-08-24T11:29:31Z",
+    "updated_at": "2026-08-24T13:00:58Z",
+    "pushed_at": "2026-08-24T12:57:55Z"
+  },
+  {
+    "id": 1339213684,
+    "name": "gitlab-github-sync",
+    "full_name": "rennerdo30/gitlab-github-sync",
+    "owner": {
+      "login": "rennerdo30",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9086097?v=4"
+    },
+    "description": "Python CLI that mirrors repositories between GitLab and GitHub — code via GitLab native push mirrors, plus issues and merge/pull requests — by driving the official gh and glab CLIs.",
+    "topics": [
+      "automation",
+      "cli",
+      "devops",
+      "github",
+      "gitlab",
+      "mirroring",
+      "python",
+      "repository-sync"
+    ],
+    "html_url": "https://github.com/rennerdo30/gitlab-github-sync",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-08-19T07:02:38Z",
+    "updated_at": "2026-08-20T08:01:54Z",
+    "pushed_at": "2026-08-24T10:16:33Z"
+  },
+  {
+    "id": 1339995103,
+    "name": "gitlab-mcp",
+    "full_name": "CobolJunkie/gitlab-mcp",
+    "owner": {
+      "login": "CobolJunkie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107401086?v=4"
+    },
+    "description": "Multi-harness GitLab MCP server and Agent Skills for Codex, Claude Code, Cline, and Pi.",
+    "topics": [
+      "automation",
+      "developer-tools",
+      "gitlab",
+      "mcp"
+    ],
+    "html_url": "https://github.com/CobolJunkie/gitlab-mcp",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T20:22:31Z",
+    "updated_at": "2026-08-20T11:19:53Z",
+    "pushed_at": "2026-08-19T20:22:37Z"
+  },
+  {
+    "id": 1338643379,
+    "name": "vcs",
+    "full_name": "UnstoppableMango/vcs",
+    "owner": {
+      "login": "UnstoppableMango",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20211602?v=4"
+    },
+    "description": "Version control infrastructure as code",
+    "topics": [
+      "git",
+      "github",
+      "gitlab",
+      "iac",
+      "pulumi",
+      "vcs"
+    ],
+    "html_url": "https://github.com/UnstoppableMango/vcs",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-08-18T16:57:03Z",
+    "updated_at": "2026-08-24T05:57:22Z",
+    "pushed_at": "2026-08-24T20:38:34Z"
+  },
+  {
+    "id": 1337885432,
+    "name": "labfox",
+    "full_name": "Theorvane/labfox",
+    "owner": {
+      "login": "Theorvane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307432618?v=4"
+    },
+    "description": "A cross-platform GitLab workflow client built with Flutter — merge requests, code review, CI/CD and self-hosted support on Android, iOS, Windows and macOS.",
+    "topics": [
+      "ci-cd",
+      "cross-platform",
+      "dart",
+      "flutter",
+      "gitlab",
+      "gitlab-client",
+      "merge-requests",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/Theorvane/labfox",
+    "stargazers_count": 0,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T02:17:10Z",
+    "updated_at": "2026-08-24T17:50:31Z",
+    "pushed_at": "2026-08-24T18:18:39Z"
+  },
+  {
+    "id": 1341119025,
+    "name": "cve-2026-19478",
+    "full_name": "n0xdaemon/cve-2026-19478",
+    "owner": {
+      "login": "n0xdaemon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241735720?v=4"
+    },
+    "description": "CVE-2026-19478: GitLab GraphQL Vulnerability PoC",
+    "topics": [
+      "code-injection",
+      "cve",
+      "gitlab",
+      "graphql"
+    ],
+    "html_url": "https://github.com/n0xdaemon/cve-2026-19478",
+    "stargazers_count": 0,
+    "language": "Ruby",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T20:26:54Z",
+    "updated_at": "2026-08-21T21:07:08Z",
+    "pushed_at": "2026-08-20T21:57:57Z"
+  },
+  {
+    "id": 1343901897,
+    "name": "cross-repo-infra-ci-variables",
+    "full_name": "odwrotkonrad/cross-repo-infra-ci-variables",
+    "owner": {
+      "login": "odwrotkonrad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277278495?v=4"
+    },
+    "description": "Every non-secret CI variable in the group: artifact version refs, per producer and per consumer.",
+    "topics": [
+      "ci",
+      "gitlab",
+      "terraform",
+      "terragrunt",
+      "variables"
+    ],
+    "html_url": "https://github.com/odwrotkonrad/cross-repo-infra-ci-variables",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T15:12:50Z",
+    "updated_at": "2026-08-23T22:48:34Z",
+    "pushed_at": "2026-08-23T22:48:17Z"
+  }
+]

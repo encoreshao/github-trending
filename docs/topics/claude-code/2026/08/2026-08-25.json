@@ -1,0 +1,613 @@
+[
+  {
+    "id": 1342886503,
+    "name": "x64dbg-mcp-server",
+    "full_name": "duty1g/x64dbg-mcp-server",
+    "owner": {
+      "login": "duty1g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3162883?v=4"
+    },
+    "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+    "topics": [
+      "ai-agents",
+      "ai-debugging",
+      "binary-analysis",
+      "claude",
+      "claude-code",
+      "malware-analysis",
+      "malware-research",
+      "malware-scanner",
+      "mcp",
+      "mcp-server",
+      "mcp-servers",
+      "x64dbg",
+      "x64dbg-mcp",
+      "x64dbg-plugin",
+      "x64dbg-tools",
+      "xdbg",
+      "zig",
+      "zig-lang",
+      "ziglang"
+    ],
+    "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
+    "stargazers_count": 1239,
+    "language": "Zig",
+    "forks_count": 124,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T14:28:41Z",
+    "updated_at": "2026-08-25T01:57:07Z",
+    "pushed_at": "2026-08-24T08:42:34Z"
+  },
+  {
+    "id": 1344223757,
+    "name": "watermark-remover",
+    "full_name": "ShadowAqueduct/watermark-remover",
+    "owner": {
+      "login": "ShadowAqueduct",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311792326?v=4"
+    },
+    "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+    "topics": [
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-cli",
+      "codex-skill",
+      "codex-skills",
+      "watermark"
+    ],
+    "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
+    "stargazers_count": 773,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 6,
+    "created_at": "2026-08-23T21:14:28Z",
+    "updated_at": "2026-08-25T01:34:08Z",
+    "pushed_at": "2026-08-23T22:07:11Z"
+  },
+  {
+    "id": 1342930695,
+    "name": "scroll-craft",
+    "full_name": "nateherkai/scroll-craft",
+    "owner": {
+      "login": "nateherkai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253835467?v=4"
+    },
+    "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+    "topics": [
+      "accessibility",
+      "agent-skills",
+      "ai-web-design",
+      "anthropic",
+      "claude-code",
+      "claude-code-plugin",
+      "creative-coding",
+      "design-system",
+      "frontend",
+      "interaction-design",
+      "landing-page",
+      "scroll-animation",
+      "scrollytelling",
+      "typography",
+      "web-design"
+    ],
+    "html_url": "https://github.com/nateherkai/scroll-craft",
+    "stargazers_count": 642,
+    "language": "JavaScript",
+    "forks_count": 115,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T15:25:08Z",
+    "updated_at": "2026-08-25T01:41:32Z",
+    "pushed_at": "2026-08-23T21:29:51Z"
+  },
+  {
+    "id": 1338290116,
+    "name": "zoetrope",
+    "full_name": "furkankly/zoetrope",
+    "owner": {
+      "login": "furkankly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30751755?v=4"
+    },
+    "description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+    "topics": [
+      "agent",
+      "agent-visualization",
+      "claude-code",
+      "flow"
+    ],
+    "html_url": "https://github.com/furkankly/zoetrope",
+    "stargazers_count": 419,
+    "language": "Rust",
+    "forks_count": 22,
+    "open_issues_count": 3,
+    "created_at": "2026-08-18T10:48:39Z",
+    "updated_at": "2026-08-25T01:37:04Z",
+    "pushed_at": "2026-08-22T01:26:24Z"
+  },
+  {
+    "id": 1342943152,
+    "name": "doop",
+    "full_name": "kgoedecke/doop",
+    "owner": {
+      "login": "kgoedecke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5519740?v=4"
+    },
+    "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+    "topics": [
+      "ai-agents",
+      "canvas",
+      "claude",
+      "claude-code",
+      "claude-design",
+      "design",
+      "design-tool",
+      "mcp",
+      "multiplayer"
+    ],
+    "html_url": "https://github.com/kgoedecke/doop",
+    "stargazers_count": 324,
+    "language": "TypeScript",
+    "forks_count": 29,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T15:40:51Z",
+    "updated_at": "2026-08-25T01:58:45Z",
+    "pushed_at": "2026-08-24T23:59:02Z"
+  },
+  {
+    "id": 1343438200,
+    "name": "rome",
+    "full_name": "rome-os/rome",
+    "owner": {
+      "login": "rome-os",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279501698?v=4"
+    },
+    "description": "Rome is the agentic OS.",
+    "topics": [
+      "agent",
+      "agent-os",
+      "claude-code",
+      "codex",
+      "llm"
+    ],
+    "html_url": "https://github.com/rome-os/rome",
+    "stargazers_count": 295,
+    "language": "TypeScript",
+    "forks_count": 16,
+    "open_issues_count": 6,
+    "created_at": "2026-08-23T06:15:15Z",
+    "updated_at": "2026-08-25T01:50:50Z",
+    "pushed_at": "2026-08-25T01:19:48Z"
+  },
+  {
+    "id": 1338409520,
+    "name": "oc",
+    "full_name": "only-cli/oc",
+    "owner": {
+      "login": "only-cli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318230108?v=4"
+    },
+    "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+    "topics": [
+      "ai-agents",
+      "browser-automation",
+      "claude-code",
+      "cli",
+      "cli-app",
+      "cli-tool",
+      "llm",
+      "markdown",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/only-cli/oc",
+    "stargazers_count": 285,
+    "language": "JavaScript",
+    "forks_count": 13,
+    "open_issues_count": 1,
+    "created_at": "2026-08-18T13:00:30Z",
+    "updated_at": "2026-08-25T01:50:56Z",
+    "pushed_at": "2026-08-25T01:51:09Z"
+  },
+  {
+    "id": 1342851168,
+    "name": "solo-skills",
+    "full_name": "bam-bam-2/solo-skills",
+    "owner": {
+      "login": "bam-bam-2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262489252?v=4"
+    },
+    "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "automation",
+      "claude-code",
+      "korean",
+      "productivity",
+      "skills",
+      "solopreneur"
+    ],
+    "html_url": "https://github.com/bam-bam-2/solo-skills",
+    "stargazers_count": 255,
+    "language": "Python",
+    "forks_count": 61,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T13:42:32Z",
+    "updated_at": "2026-08-25T01:34:48Z",
+    "pushed_at": "2026-08-23T11:53:32Z"
+  },
+  {
+    "id": 1342227253,
+    "name": "agenttrail",
+    "full_name": "sodiumsun/agenttrail",
+    "owner": {
+      "login": "sodiumsun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216979453?v=4"
+    },
+    "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
+    "topics": [
+      "agent-monitoring",
+      "agent-observability",
+      "ai-agents",
+      "ai-coding-agents",
+      "claude-code",
+      "coding-agents",
+      "cursor-ai",
+      "dashboard",
+      "developer-tools",
+      "file-watcher",
+      "local-first",
+      "monitoring",
+      "nodejs",
+      "openai-codex",
+      "progress-tracking"
+    ],
+    "html_url": "https://github.com/sodiumsun/agenttrail",
+    "stargazers_count": 178,
+    "language": "HTML",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-08-21T21:14:33Z",
+    "updated_at": "2026-08-25T01:34:47Z",
+    "pushed_at": "2026-08-24T01:28:54Z"
+  },
+  {
+    "id": 1339368171,
+    "name": "EvoTrace",
+    "full_name": "jinzijian/EvoTrace",
+    "owner": {
+      "login": "jinzijian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22198334?v=4"
+    },
+    "description": "Compile real-world Claude Code and Codex trajectories into verified, tradable post-training assets.",
+    "topics": [
+      "agents",
+      "benchmark",
+      "claude-code",
+      "codex-cli",
+      "coding-agents",
+      "developer-tools",
+      "evaluation",
+      "llm-evaluation",
+      "reinforcement-learning",
+      "training-data",
+      "verifiers"
+    ],
+    "html_url": "https://github.com/jinzijian/EvoTrace",
+    "stargazers_count": 141,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 2,
+    "created_at": "2026-08-19T09:26:03Z",
+    "updated_at": "2026-08-24T23:12:18Z",
+    "pushed_at": "2026-08-21T06:17:01Z"
+  },
+  {
+    "id": 1337900872,
+    "name": "polymarket-tennis",
+    "full_name": "livetennisapi/polymarket-tennis",
+    "owner": {
+      "login": "livetennisapi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306618864?v=4"
+    },
+    "description": "Polymarket tennis trading toolkit (Python, MIT, observe-only): discover tennis markets on the Gamma API, match them to live tennis matches, watch market price vs live score, server and break point. The data layer for a Polymarket or Kalshi tennis trading bot.",
+    "topics": [
+      "claude-code",
+      "gamma-api",
+      "kalshi",
+      "live-scores",
+      "polymarket",
+      "polymarket-api",
+      "polymarket-bot",
+      "polymarket-tennis",
+      "prediction-markets",
+      "python",
+      "sports-trading",
+      "tennis",
+      "tennis-api",
+      "tennis-trading",
+      "tennis-trading-bot",
+      "trading-bot"
+    ],
+    "html_url": "https://github.com/livetennisapi/polymarket-tennis",
+    "stargazers_count": 137,
+    "language": "Python",
+    "forks_count": 92,
+    "open_issues_count": 1,
+    "created_at": "2026-08-18T02:41:11Z",
+    "updated_at": "2026-08-25T00:21:05Z",
+    "pushed_at": "2026-08-23T15:14:56Z"
+  },
+  {
+    "id": 1338909303,
+    "name": "factory",
+    "full_name": "addyosmani/factory",
+    "owner": {
+      "login": "addyosmani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110953?v=4"
+    },
+    "description": "A reference software factory for Claude Code and Codex",
+    "topics": [
+      "agentic-engineering",
+      "claude-code",
+      "codex",
+      "software-factory"
+    ],
+    "html_url": "https://github.com/addyosmani/factory",
+    "stargazers_count": 128,
+    "language": "Shell",
+    "forks_count": 8,
+    "open_issues_count": 2,
+    "created_at": "2026-08-18T23:10:20Z",
+    "updated_at": "2026-08-24T19:16:16Z",
+    "pushed_at": "2026-08-21T18:28:27Z"
+  },
+  {
+    "id": 1343320043,
+    "name": "source-reading-methodology",
+    "full_name": "itshen/source-reading-methodology",
+    "owner": {
+      "login": "itshen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3339564?v=4"
+    },
+    "description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-coding",
+      "claude-code",
+      "code-review",
+      "documentation",
+      "llm",
+      "methodology",
+      "source-code-reading",
+      "technical-writing"
+    ],
+    "html_url": "https://github.com/itshen/source-reading-methodology",
+    "stargazers_count": 115,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T02:51:45Z",
+    "updated_at": "2026-08-25T01:57:28Z",
+    "pushed_at": "2026-08-24T15:03:45Z"
+  },
+  {
+    "id": 1341029172,
+    "name": "oa-design",
+    "full_name": "OpenLabs-so/oa-design",
+    "owner": {
+      "login": "OpenLabs-so",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311841701?v=4"
+    },
+    "description": "The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent.",
+    "topics": [
+      "agent-skill",
+      "ai-agents",
+      "analytics",
+      "claude-code",
+      "design-system",
+      "motion",
+      "react",
+      "tailwindcss",
+      "ui"
+    ],
+    "html_url": "https://github.com/OpenLabs-so/oa-design",
+    "stargazers_count": 114,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 3,
+    "created_at": "2026-08-20T18:28:10Z",
+    "updated_at": "2026-08-24T19:52:49Z",
+    "pushed_at": "2026-08-20T19:25:29Z"
+  },
+  {
+    "id": 1340492162,
+    "name": "jiaojie-skill",
+    "full_name": "Jordanwei1/jiaojie-skill",
+    "owner": {
+      "login": "Jordanwei1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87682056?v=4"
+    },
+    "description": "交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "ai-memory",
+      "claude-code",
+      "claude-code-skill",
+      "codex",
+      "codex-skill",
+      "context-engineering",
+      "context-handoff",
+      "cross-model",
+      "cursor",
+      "cursor-skills",
+      "gemini-cli",
+      "gemini-cli-skills",
+      "handoff",
+      "llm",
+      "open-source",
+      "openclaw",
+      "openclaw-skill"
+    ],
+    "html_url": "https://github.com/Jordanwei1/jiaojie-skill",
+    "stargazers_count": 104,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T08:57:52Z",
+    "updated_at": "2026-08-24T08:26:11Z",
+    "pushed_at": "2026-08-20T13:47:18Z"
+  },
+  {
+    "id": 1338095980,
+    "name": "open-sheet",
+    "full_name": "lianghsun/open-sheet",
+    "owner": {
+      "login": "lianghsun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25081193?v=4"
+    },
+    "description": "The spreadsheet framework built for agents — write the model as React, export a live .xlsx. The third medium, after open-slide and open-doc.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "code-generation",
+      "developer-tools",
+      "excel",
+      "financial-modeling",
+      "mcp",
+      "open-source",
+      "react",
+      "spreadsheet",
+      "typescript",
+      "xlsx"
+    ],
+    "html_url": "https://github.com/lianghsun/open-sheet",
+    "stargazers_count": 91,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-08-18T07:15:17Z",
+    "updated_at": "2026-08-25T01:10:38Z",
+    "pushed_at": "2026-08-24T07:32:11Z"
+  },
+  {
+    "id": 1338086501,
+    "name": "deep-research-skill",
+    "full_name": "SeanEllyJames/deep-research-skill",
+    "owner": {
+      "login": "SeanEllyJames",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318136722?v=4"
+    },
+    "description": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "deep-research",
+      "llm",
+      "prompt-engineering",
+      "research",
+      "skill"
+    ],
+    "html_url": "https://github.com/SeanEllyJames/deep-research-skill",
+    "stargazers_count": 87,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T07:04:01Z",
+    "updated_at": "2026-08-25T01:51:39Z",
+    "pushed_at": "2026-08-18T07:38:28Z"
+  },
+  {
+    "id": 1339554313,
+    "name": "arc-skill",
+    "full_name": "pbshgthm/arc-skill",
+    "owner": {
+      "login": "pbshgthm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24489964?v=4"
+    },
+    "description": "An agent skill that plays ARC-AGI-3. One rule: say what an action will do before you spend it. Claude Code on Opus 5 finished all 25 public games at 100.00 RHAE in 7,645 actions.",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "arc-agi",
+      "arc-agi-3",
+      "arc-prize",
+      "benchmark",
+      "claude",
+      "claude-code",
+      "llm-agents"
+    ],
+    "html_url": "https://github.com/pbshgthm/arc-skill",
+    "stargazers_count": 78,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T12:27:21Z",
+    "updated_at": "2026-08-24T20:53:43Z",
+    "pushed_at": "2026-08-19T15:25:02Z"
+  },
+  {
+    "id": 1344968581,
+    "name": "fireworks-open-eli5",
+    "full_name": "yizhiyanhua-ai/fireworks-open-eli5",
+    "owner": {
+      "login": "yizhiyanhua-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
+    },
+    "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "eli5",
+      "offline-first",
+      "visualization"
+    ],
+    "html_url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
+    "stargazers_count": 68,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T13:07:30Z",
+    "updated_at": "2026-08-25T01:59:03Z",
+    "pushed_at": "2026-08-24T13:11:07Z"
+  },
+  {
+    "id": 1344110151,
+    "name": "hermes-conductor",
+    "full_name": "forcewake/hermes-conductor",
+    "owner": {
+      "login": "forcewake",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1325702?v=4"
+    },
+    "description": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them.",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "claude-code",
+      "codex-cli",
+      "hermes-agent",
+      "kanban",
+      "llm",
+      "multi-agent",
+      "nousresearch",
+      "opencode",
+      "orchestration",
+      "worktrees"
+    ],
+    "html_url": "https://github.com/forcewake/hermes-conductor",
+    "stargazers_count": 57,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T18:49:46Z",
+    "updated_at": "2026-08-24T22:44:14Z",
+    "pushed_at": "2026-08-23T21:24:02Z"
+  }
+]

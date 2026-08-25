@@ -1,0 +1,583 @@
+[
+  {
+    "id": 1338470635,
+    "name": "ip-as-logo-skill",
+    "full_name": "s1dashu/ip-as-logo-skill",
+    "owner": {
+      "login": "s1dashu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129982137?v=4"
+    },
+    "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+    "topics": [
+      "codex",
+      "codex-skill",
+      "image-generation",
+      "logo-design",
+      "mascot-design"
+    ],
+    "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
+    "stargazers_count": 4141,
+    "language": null,
+    "forks_count": 202,
+    "open_issues_count": 7,
+    "created_at": "2026-08-18T13:59:23Z",
+    "updated_at": "2026-08-25T01:59:54Z",
+    "pushed_at": "2026-08-22T16:48:59Z"
+  },
+  {
+    "id": 1340743476,
+    "name": "lanshu-create-ai-presenter-video",
+    "full_name": "cclank/lanshu-create-ai-presenter-video",
+    "owner": {
+      "login": "cclank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29557585?v=4"
+    },
+    "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+    "topics": [
+      "ai-video",
+      "codex",
+      "codex-skill",
+      "digital-human",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+    "stargazers_count": 838,
+    "language": "Python",
+    "forks_count": 146,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T13:40:06Z",
+    "updated_at": "2026-08-25T01:45:51Z",
+    "pushed_at": "2026-08-20T13:40:14Z"
+  },
+  {
+    "id": 1344223757,
+    "name": "watermark-remover",
+    "full_name": "ShadowAqueduct/watermark-remover",
+    "owner": {
+      "login": "ShadowAqueduct",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311792326?v=4"
+    },
+    "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+    "topics": [
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-cli",
+      "codex-skill",
+      "codex-skills",
+      "watermark"
+    ],
+    "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
+    "stargazers_count": 773,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 6,
+    "created_at": "2026-08-23T21:14:28Z",
+    "updated_at": "2026-08-25T01:34:08Z",
+    "pushed_at": "2026-08-23T22:07:11Z"
+  },
+  {
+    "id": 1341669331,
+    "name": "no-negative-echo",
+    "full_name": "LB623/no-negative-echo",
+    "owner": {
+      "login": "LB623",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248428362?v=4"
+    },
+    "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+    "topics": [
+      "agent-skills",
+      "chinese",
+      "codex",
+      "codex-skill",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/LB623/no-negative-echo",
+    "stargazers_count": 350,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 1,
+    "created_at": "2026-08-21T10:12:54Z",
+    "updated_at": "2026-08-25T01:43:42Z",
+    "pushed_at": "2026-08-24T07:26:03Z"
+  },
+  {
+    "id": 1343438200,
+    "name": "rome",
+    "full_name": "rome-os/rome",
+    "owner": {
+      "login": "rome-os",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279501698?v=4"
+    },
+    "description": "Rome is the agentic OS.",
+    "topics": [
+      "agent",
+      "agent-os",
+      "claude-code",
+      "codex",
+      "llm"
+    ],
+    "html_url": "https://github.com/rome-os/rome",
+    "stargazers_count": 295,
+    "language": "TypeScript",
+    "forks_count": 16,
+    "open_issues_count": 6,
+    "created_at": "2026-08-23T06:15:15Z",
+    "updated_at": "2026-08-25T01:50:50Z",
+    "pushed_at": "2026-08-25T01:19:48Z"
+  },
+  {
+    "id": 1338909303,
+    "name": "factory",
+    "full_name": "addyosmani/factory",
+    "owner": {
+      "login": "addyosmani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110953?v=4"
+    },
+    "description": "A reference software factory for Claude Code and Codex",
+    "topics": [
+      "agentic-engineering",
+      "claude-code",
+      "codex",
+      "software-factory"
+    ],
+    "html_url": "https://github.com/addyosmani/factory",
+    "stargazers_count": 128,
+    "language": "Shell",
+    "forks_count": 8,
+    "open_issues_count": 2,
+    "created_at": "2026-08-18T23:10:20Z",
+    "updated_at": "2026-08-24T19:16:16Z",
+    "pushed_at": "2026-08-21T18:28:27Z"
+  },
+  {
+    "id": 1340492162,
+    "name": "jiaojie-skill",
+    "full_name": "Jordanwei1/jiaojie-skill",
+    "owner": {
+      "login": "Jordanwei1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87682056?v=4"
+    },
+    "description": "交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "ai-memory",
+      "claude-code",
+      "claude-code-skill",
+      "codex",
+      "codex-skill",
+      "context-engineering",
+      "context-handoff",
+      "cross-model",
+      "cursor",
+      "cursor-skills",
+      "gemini-cli",
+      "gemini-cli-skills",
+      "handoff",
+      "llm",
+      "open-source",
+      "openclaw",
+      "openclaw-skill"
+    ],
+    "html_url": "https://github.com/Jordanwei1/jiaojie-skill",
+    "stargazers_count": 104,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T08:57:52Z",
+    "updated_at": "2026-08-24T08:26:11Z",
+    "pushed_at": "2026-08-20T13:47:18Z"
+  },
+  {
+    "id": 1337857692,
+    "name": "AutoVideo-Agent",
+    "full_name": "wangxin6x/AutoVideo-Agent",
+    "owner": {
+      "login": "wangxin6x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206345670?v=4"
+    },
+    "description": "Agent-friendly Markdown-to-video automation pipeline with reproducible rendering and pluggable media providers.",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-video",
+      "codex",
+      "codex-cli",
+      "codex-skill",
+      "ffmpeg",
+      "python",
+      "video-automation",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/wangxin6x/AutoVideo-Agent",
+    "stargazers_count": 94,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 12,
+    "created_at": "2026-08-18T01:30:30Z",
+    "updated_at": "2026-08-24T23:14:09Z",
+    "pushed_at": "2026-08-18T04:50:41Z"
+  },
+  {
+    "id": 1344968581,
+    "name": "fireworks-open-eli5",
+    "full_name": "yizhiyanhua-ai/fireworks-open-eli5",
+    "owner": {
+      "login": "yizhiyanhua-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
+    },
+    "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "eli5",
+      "offline-first",
+      "visualization"
+    ],
+    "html_url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
+    "stargazers_count": 68,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T13:07:30Z",
+    "updated_at": "2026-08-25T01:59:03Z",
+    "pushed_at": "2026-08-24T13:11:07Z"
+  },
+  {
+    "id": 1340906871,
+    "name": "codex-guard",
+    "full_name": "Akimiya-z/codex-guard",
+    "owner": {
+      "login": "Akimiya-z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235628202?v=4"
+    },
+    "description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
+    "topics": [
+      "ai",
+      "claude-code",
+      "code-review",
+      "codex",
+      "codex-plugin",
+      "coding-agent",
+      "copilot",
+      "dsh-plugin",
+      "github-action",
+      "openai-codex",
+      "quality-gate"
+    ],
+    "html_url": "https://github.com/Akimiya-z/codex-guard",
+    "stargazers_count": 53,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T16:28:08Z",
+    "updated_at": "2026-08-24T23:32:05Z",
+    "pushed_at": "2026-08-24T02:46:15Z"
+  },
+  {
+    "id": 1342134139,
+    "name": "cover",
+    "full_name": "DavidCarliez/cover",
+    "owner": {
+      "login": "DavidCarliez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271374756?v=4"
+    },
+    "description": "Reversible privacy proxy for AI agents: send realistic fakes, restore originals locally.",
+    "topics": [
+      "ai-security",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "data-redaction",
+      "dlp",
+      "llm",
+      "llm-privacy",
+      "local-first",
+      "oh-my-pi",
+      "pi",
+      "pii-detection",
+      "pii-redaction",
+      "privacy",
+      "privacy-proxy",
+      "pseudonymization",
+      "secret-scanning",
+      "security",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/DavidCarliez/cover",
+    "stargazers_count": 41,
+    "language": "Go",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T18:56:30Z",
+    "updated_at": "2026-08-24T20:25:14Z",
+    "pushed_at": "2026-08-24T13:18:16Z"
+  },
+  {
+    "id": 1342150210,
+    "name": "review-skills",
+    "full_name": "amElnagdy/review-skills",
+    "owner": {
+      "login": "amElnagdy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7650147?v=4"
+    },
+    "description": "Two-model debate review of PRs and MRs, plus a babysitter that works the review rounds. Skills for any coding agent.",
+    "topics": [
+      "claude-code",
+      "code-review",
+      "codex",
+      "skills"
+    ],
+    "html_url": "https://github.com/amElnagdy/review-skills",
+    "stargazers_count": 39,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 1,
+    "created_at": "2026-08-21T19:18:55Z",
+    "updated_at": "2026-08-25T00:46:15Z",
+    "pushed_at": "2026-08-21T19:21:33Z"
+  },
+  {
+    "id": 1338600136,
+    "name": "agy-staff",
+    "full_name": "keli-wen/agy-staff",
+    "owner": {
+      "login": "keli-wen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103916249?v=4"
+    },
+    "description": "Hire Google's Antigravity CLI (agy) as a fast Gemini staffer for Claude Code and OpenAI Codex.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "antigravity",
+      "antigravity-cli",
+      "chatgpt",
+      "claude-code",
+      "claude-code-plugin",
+      "cli",
+      "code-review",
+      "codex",
+      "codex-plugin",
+      "developer-tools",
+      "gemini",
+      "llm",
+      "multi-agent",
+      "openai-codex"
+    ],
+    "html_url": "https://github.com/keli-wen/agy-staff",
+    "stargazers_count": 37,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T16:08:25Z",
+    "updated_at": "2026-08-24T21:42:47Z",
+    "pushed_at": "2026-08-19T16:11:15Z"
+  },
+  {
+    "id": 1341372126,
+    "name": "store-screenshots",
+    "full_name": "LeeHueeng/store-screenshots",
+    "owner": {
+      "login": "LeeHueeng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97311614?v=4"
+    },
+    "description": "🖼️ AI agent skill for Claude Code & Codex — turns raw app screenshots into store-ready App Store & Google Play marketing images: device frames (iPhone·iPad·Galaxy·Fold·Flip), app-matched backgrounds, marketing copy, exact store sizes. 앱스토어·플레이스토어 마케팅 스크린샷 자동 생성",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "android",
+      "app-store",
+      "app-store-optimization",
+      "app-store-screenshots",
+      "aso",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skills",
+      "codex",
+      "codex-cli",
+      "developer-tools",
+      "device-frames",
+      "google-play",
+      "ios",
+      "marketing-assets",
+      "play-store",
+      "screenshot-generator",
+      "screenshots"
+    ],
+    "html_url": "https://github.com/LeeHueeng/store-screenshots",
+    "stargazers_count": 32,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T03:48:58Z",
+    "updated_at": "2026-08-24T07:28:09Z",
+    "pushed_at": "2026-08-23T12:19:10Z"
+  },
+  {
+    "id": 1344564813,
+    "name": "skills",
+    "full_name": "mkanat/skills",
+    "owner": {
+      "login": "mkanat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/532587?v=4"
+    },
+    "description": "Code-quality skills by Max Kanat-Alexander.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "code-quality",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "refactoring",
+      "skills-sh"
+    ],
+    "html_url": "https://github.com/mkanat/skills",
+    "stargazers_count": 29,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-08-24T05:13:36Z",
+    "updated_at": "2026-08-25T01:53:19Z",
+    "pushed_at": "2026-08-24T10:13:46Z"
+  },
+  {
+    "id": 1343173231,
+    "name": "agents-fleet",
+    "full_name": "Bil0000/agents-fleet",
+    "owner": {
+      "login": "Bil0000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62337003?v=4"
+    },
+    "description": "A blank, working source of truth for Claude Code and Codex across macOS and Linux.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-mem",
+      "codex",
+      "developer-tools",
+      "dotfiles",
+      "mcp"
+    ],
+    "html_url": "https://github.com/Bil0000/agents-fleet",
+    "stargazers_count": 27,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T21:16:07Z",
+    "updated_at": "2026-08-25T01:50:20Z",
+    "pushed_at": "2026-08-22T22:27:27Z"
+  },
+  {
+    "id": 1342754049,
+    "name": "deepseek-whalechan",
+    "full_name": "Neko3000/deepseek-whalechan",
+    "owner": {
+      "login": "Neko3000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11784922?v=4"
+    },
+    "description": " Keep Whale-chan consistently vivid in every generation: High-consistency character design specification, visual asset library, and agent creation suite.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "comics",
+      "gemini",
+      "graphics",
+      "skills"
+    ],
+    "html_url": "https://github.com/Neko3000/deepseek-whalechan",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-08-22T11:42:41Z",
+    "updated_at": "2026-08-25T00:47:06Z",
+    "pushed_at": "2026-08-23T02:16:32Z"
+  },
+  {
+    "id": 1343514685,
+    "name": "tonghuasun-codex",
+    "full_name": "zhuyifang/tonghuasun-codex",
+    "owner": {
+      "login": "zhuyifang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16346219?v=4"
+    },
+    "description": "将本机同花顺行情、账户资料和实时数据接入 Codex",
+    "topics": [
+      "codex",
+      "market-data",
+      "mcp",
+      "quant-trading",
+      "tonghuashun"
+    ],
+    "html_url": "https://github.com/zhuyifang/tonghuasun-codex",
+    "stargazers_count": 25,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-08-23T07:58:14Z",
+    "updated_at": "2026-08-25T00:20:20Z",
+    "pushed_at": "2026-08-24T14:00:46Z"
+  },
+  {
+    "id": 1339359145,
+    "name": "codex-memory-trim",
+    "full_name": "Yu-Xiao-Sheng/codex-memory-trim",
+    "owner": {
+      "login": "Yu-Xiao-Sheng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46524350?v=4"
+    },
+    "description": "给 Codex 全局记忆定期减负的 skill：检测重复、清理过期线程、压缩冗长表达、添加自定义全局规则 / A skill that puts Codex global memory on a periodic diet: dedupe, prune, compress, add global rules",
+    "topics": [
+      "agent-memory",
+      "ai-tools",
+      "codex",
+      "codex-cli",
+      "memory-management",
+      "openai-codex",
+      "productivity",
+      "skill"
+    ],
+    "html_url": "https://github.com/Yu-Xiao-Sheng/codex-memory-trim",
+    "stargazers_count": 24,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T09:16:39Z",
+    "updated_at": "2026-08-25T01:08:46Z",
+    "pushed_at": "2026-08-21T03:00:46Z"
+  },
+  {
+    "id": 1337914644,
+    "name": "deepseek-harness-gpt-desktop",
+    "full_name": "R3hb/deepseek-harness-gpt-desktop",
+    "owner": {
+      "login": "R3hb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133930259?v=4"
+    },
+    "description": "让 DeepSeek Harness 同时使用 DeepSeek V4 和 ChatGPT 会员里的 GPT-5.6，并打包为 Windows 桌面应用",
+    "topics": [
+      "chatgpt",
+      "codex",
+      "deepseek-harness",
+      "desktop-app",
+      "electron",
+      "windows"
+    ],
+    "html_url": "https://github.com/R3hb/deepseek-harness-gpt-desktop",
+    "stargazers_count": 23,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-18T03:03:59Z",
+    "updated_at": "2026-08-21T08:34:48Z",
+    "pushed_at": "2026-08-21T03:22:55Z"
+  }
+]

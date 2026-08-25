@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1341759590,
+    "name": "threeui",
+    "full_name": "MengTo/threeui",
+    "owner": {
+      "login": "MengTo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1065452?v=4"
+    },
+    "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+    "topics": [
+      "react",
+      "shaders",
+      "threejs",
+      "ui-components",
+      "webgl"
+    ],
+    "html_url": "https://github.com/MengTo/threeui",
+    "stargazers_count": 3523,
+    "language": "HTML",
+    "forks_count": 339,
+    "open_issues_count": 5,
+    "created_at": "2026-08-21T11:56:39Z",
+    "updated_at": "2026-08-25T01:59:49Z",
+    "pushed_at": "2026-08-24T18:41:19Z"
+  },
+  {
+    "id": 1341264609,
+    "name": "cs-board",
+    "full_name": "ChenShuo2004/cs-board",
+    "owner": {
+      "login": "ChenShuo2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220584709?v=4"
+    },
+    "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+    "topics": [
+      "ai-video",
+      "chinese",
+      "fastapi",
+      "index-tts",
+      "react",
+      "tts",
+      "whiteboard-animation"
+    ],
+    "html_url": "https://github.com/ChenShuo2004/cs-board",
+    "stargazers_count": 238,
+    "language": "Python",
+    "forks_count": 50,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T00:50:30Z",
+    "updated_at": "2026-08-25T01:53:08Z",
+    "pushed_at": "2026-08-25T00:44:01Z"
+  },
+  {
+    "id": 1341029172,
+    "name": "oa-design",
+    "full_name": "OpenLabs-so/oa-design",
+    "owner": {
+      "login": "OpenLabs-so",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311841701?v=4"
+    },
+    "description": "The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent.",
+    "topics": [
+      "agent-skill",
+      "ai-agents",
+      "analytics",
+      "claude-code",
+      "design-system",
+      "motion",
+      "react",
+      "tailwindcss",
+      "ui"
+    ],
+    "html_url": "https://github.com/OpenLabs-so/oa-design",
+    "stargazers_count": 114,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 3,
+    "created_at": "2026-08-20T18:28:10Z",
+    "updated_at": "2026-08-24T19:52:49Z",
+    "pushed_at": "2026-08-20T19:25:29Z"
+  },
+  {
+    "id": 1338095980,
+    "name": "open-sheet",
+    "full_name": "lianghsun/open-sheet",
+    "owner": {
+      "login": "lianghsun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25081193?v=4"
+    },
+    "description": "The spreadsheet framework built for agents — write the model as React, export a live .xlsx. The third medium, after open-slide and open-doc.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "code-generation",
+      "developer-tools",
+      "excel",
+      "financial-modeling",
+      "mcp",
+      "open-source",
+      "react",
+      "spreadsheet",
+      "typescript",
+      "xlsx"
+    ],
+    "html_url": "https://github.com/lianghsun/open-sheet",
+    "stargazers_count": 91,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-08-18T07:15:17Z",
+    "updated_at": "2026-08-25T01:10:38Z",
+    "pushed_at": "2026-08-24T07:32:11Z"
+  },
+  {
+    "id": 1338889223,
+    "name": "minimax-music-ui",
+    "full_name": "adambenhassen/minimax-music-ui",
+    "owner": {
+      "login": "adambenhassen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91687975?v=4"
+    },
+    "description": "Suno-style web UI for a self-hosted MiniMax-Music3 inference server",
+    "topics": [
+      "ai-music",
+      "diffusers",
+      "docker",
+      "express",
+      "minimax",
+      "minimax-music",
+      "music-generation",
+      "react",
+      "self-hosted",
+      "sgl-omni",
+      "suno",
+      "tailwindcss",
+      "text-to-music",
+      "typescript",
+      "vite"
+    ],
+    "html_url": "https://github.com/adambenhassen/minimax-music-ui",
+    "stargazers_count": 83,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T22:32:58Z",
+    "updated_at": "2026-08-25T01:11:45Z",
+    "pushed_at": "2026-08-19T03:06:13Z"
+  },
+  {
+    "id": 1342772482,
+    "name": "clipfactory",
+    "full_name": "feyzilim/clipfactory",
+    "owner": {
+      "login": "feyzilim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28608777?v=4"
+    },
+    "description": "Topic + template → short vertical video from your own B-roll: AI script, voice, scene plan, captions, FFmpeg render. Multi-persona, AI shot lists, AI B-roll, batch generation. Source-available (Elastic 2.0).",
+    "topics": [
+      "content-creation",
+      "elevenlabs",
+      "fastapi",
+      "ffmpeg",
+      "openai",
+      "react",
+      "reels",
+      "shorts",
+      "tiktok",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/feyzilim/clipfactory",
+    "stargazers_count": 71,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T12:07:47Z",
+    "updated_at": "2026-08-24T17:28:54Z",
+    "pushed_at": "2026-08-23T12:44:19Z"
+  },
+  {
+    "id": 1341668491,
+    "name": "links-onion-for-tor",
+    "full_name": "me-links-onion-for-tor/links-onion-for-tor",
+    "owner": {
+      "login": "me-links-onion-for-tor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311687128?v=4"
+    },
+    "description": "Links Onion for Tor",
+    "topics": [
+      "links-onion-for-tor",
+      "react",
+      "starter"
+    ],
+    "html_url": "https://github.com/me-links-onion-for-tor/links-onion-for-tor",
+    "stargazers_count": 66,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T10:11:58Z",
+    "updated_at": "2026-08-21T13:44:07Z",
+    "pushed_at": "2026-08-21T10:12:28Z"
+  },
+  {
+    "id": 1343829889,
+    "name": "Mars-Editor-APP",
+    "full_name": "whyubel1eve/Mars-Editor-APP",
+    "owner": {
+      "login": "whyubel1eve",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86407517?v=4"
+    },
+    "description": "Markdown 写作，一键转成公众号排版，可直接推送到草稿箱。macOS / Windows / Linux 桌面应用",
+    "topics": [
+      "desktop-app",
+      "markdown",
+      "markdown-editor",
+      "react",
+      "rust",
+      "tauri",
+      "typescript",
+      "wechat",
+      "wechat-mp",
+      "weixin",
+      "writing"
+    ],
+    "html_url": "https://github.com/whyubel1eve/Mars-Editor-APP",
+    "stargazers_count": 46,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T13:58:41Z",
+    "updated_at": "2026-08-25T01:42:59Z",
+    "pushed_at": "2026-08-24T01:20:49Z"
+  },
+  {
+    "id": 1338136303,
+    "name": "tiance-tweet-card-generator",
+    "full_name": "Leobai03/tiance-tweet-card-generator",
+    "owner": {
+      "login": "Leobai03",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237597792?v=4"
+    },
+    "description": "开源的推文卡片与抖音图文生成器，支持AI素材、自由改写、背景海报与PNG导出",
+    "topics": [
+      "ai-content",
+      "douyin",
+      "image-generator",
+      "react",
+      "vite"
+    ],
+    "html_url": "https://github.com/Leobai03/tiance-tweet-card-generator",
+    "stargazers_count": 37,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T08:02:25Z",
+    "updated_at": "2026-08-24T07:55:55Z",
+    "pushed_at": "2026-08-22T15:14:11Z"
+  },
+  {
+    "id": 1338631832,
+    "name": "Yuntu",
+    "full_name": "Trunks820/Yuntu",
+    "owner": {
+      "login": "Trunks820",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211942029?v=4"
+    },
+    "description": "AI travel planning engine with deterministic route scheduling, verified POIs, and fact-grounded LLM generation.",
+    "topics": [
+      "ai-travel",
+      "fastapi",
+      "llm",
+      "llms",
+      "postgresql",
+      "python",
+      "react",
+      "route-planning",
+      "travel-planner"
+    ],
+    "html_url": "https://github.com/Trunks820/Yuntu",
+    "stargazers_count": 31,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-18T16:43:56Z",
+    "updated_at": "2026-08-21T22:55:08Z",
+    "pushed_at": "2026-08-18T16:46:02Z"
+  },
+  {
+    "id": 1342202970,
+    "name": "nuphus",
+    "full_name": "mrpulor-gh/nuphus",
+    "owner": {
+      "login": "mrpulor-gh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187365610?v=4"
+    },
+    "description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "automation",
+      "computer-use",
+      "desktop-automation",
+      "llm",
+      "local-first",
+      "mobile",
+      "open-source",
+      "privacy",
+      "pwa",
+      "react",
+      "rust",
+      "tauri",
+      "tauri-v2",
+      "typescript",
+      "web-automation",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/mrpulor-gh/nuphus",
+    "stargazers_count": 29,
+    "language": "Rust",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T20:35:53Z",
+    "updated_at": "2026-08-24T18:52:44Z",
+    "pushed_at": "2026-08-24T12:17:59Z"
+  },
+  {
+    "id": 1343147338,
+    "name": "markdown2site",
+    "full_name": "imaketech1/markdown2site",
+    "owner": {
+      "login": "imaketech1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203353427?v=4"
+    },
+    "description": "Build production-ready documentation sites, blogs, and landing pages from markdown with zero build configuration.",
+    "topics": [
+      "library",
+      "markdown",
+      "markdowntosite",
+      "npm",
+      "open-source",
+      "react",
+      "reactjs",
+      "reactlib",
+      "reactlibrary"
+    ],
+    "html_url": "https://github.com/imaketech1/markdown2site",
+    "stargazers_count": 25,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T20:28:44Z",
+    "updated_at": "2026-08-25T01:53:42Z",
+    "pushed_at": "2026-08-22T21:16:50Z"
+  },
+  {
+    "id": 1340334830,
+    "name": "keyline-icons",
+    "full_name": "keyline-icons/keyline-icons",
+    "owner": {
+      "login": "keyline-icons",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316560445?v=4"
+    },
+    "description": "Free MIT icons on one 24×24 grid, in stroke, duotone and fill. Built for shadcn/ui.",
+    "topics": [
+      "design-system",
+      "figma",
+      "icon-set",
+      "icons",
+      "mcp",
+      "react",
+      "shadcn",
+      "shadcn-ui",
+      "svg",
+      "tailwindcss",
+      "typescript"
+    ],
+    "html_url": "https://github.com/keyline-icons/keyline-icons",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T05:50:56Z",
+    "updated_at": "2026-08-25T01:50:52Z",
+    "pushed_at": "2026-08-25T00:04:01Z"
+  },
+  {
+    "id": 1339308976,
+    "name": "post-investment-platform",
+    "full_name": "Oliveluo666/post-investment-platform",
+    "owner": {
+      "login": "Oliveluo666",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318507047?v=4"
+    },
+    "description": "🚀 Open-source post-investment management workbench for VC/PE teams — portfolio overview, financial dashboards, compliance todos, Excel batch import & DOCX export. Built with React + Vite + Ant Design + Tailwind + PostgreSQL.",
+    "topics": [
+      "admin-dashboard",
+      "admin-template",
+      "ant-design",
+      "crm-platform",
+      "dashboard",
+      "echarts",
+      "finance",
+      "finance-dashboard",
+      "finance-management",
+      "fintech",
+      "investment",
+      "investment-portfolio",
+      "postgresql",
+      "react",
+      "saas",
+      "tailwindcss",
+      "vite"
+    ],
+    "html_url": "https://github.com/Oliveluo666/post-investment-platform",
+    "stargazers_count": 22,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T08:33:50Z",
+    "updated_at": "2026-08-24T22:16:27Z",
+    "pushed_at": "2026-08-20T03:20:06Z"
+  },
+  {
+    "id": 1339367346,
+    "name": "PingPulse",
+    "full_name": "alikmndlu/PingPulse",
+    "owner": {
+      "login": "alikmndlu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78807246?v=4"
+    },
+    "description": "Desktop ICMP monitor for IPs and hostnames",
+    "topics": [
+      "desktop",
+      "go",
+      "icmp",
+      "monitoring",
+      "react",
+      "sqlite",
+      "wails"
+    ],
+    "html_url": "https://github.com/alikmndlu/PingPulse",
+    "stargazers_count": 13,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T09:25:05Z",
+    "updated_at": "2026-08-24T20:54:39Z",
+    "pushed_at": "2026-08-24T12:18:01Z"
+  },
+  {
+    "id": 1341086405,
+    "name": "velachess",
+    "full_name": "velachess/velachess",
+    "owner": {
+      "login": "velachess",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318696284?v=4"
+    },
+    "description": "Turn your games into better chess.",
+    "topics": [
+      "chess",
+      "fen",
+      "hono",
+      "ia",
+      "nextjs",
+      "pgn",
+      "postgress",
+      "react",
+      "self-hosted",
+      "stockfish",
+      "typescript",
+      "vite"
+    ],
+    "html_url": "https://github.com/velachess/velachess",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 20,
+    "created_at": "2026-08-20T19:41:10Z",
+    "updated_at": "2026-08-24T22:36:29Z",
+    "pushed_at": "2026-08-24T22:36:18Z"
+  },
+  {
+    "id": 1339646736,
+    "name": "deepseek-harness-neon",
+    "full_name": "xinyuquan985-coder/deepseek-harness-neon",
+    "owner": {
+      "login": "xinyuquan985-coder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290621787?v=4"
+    },
+    "description": "Cyberpunk multi-agent command center for DeepSeek Harness — Chinese-first conversation, code execution, VS debate and trajectory workbenches.",
+    "topics": [
+      "agent-ui",
+      "ai-agents",
+      "cyberpunk",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "llm",
+      "multi-agent",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/xinyuquan985-coder/deepseek-harness-neon",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-08-19T13:57:03Z",
+    "updated_at": "2026-08-24T15:11:40Z",
+    "pushed_at": "2026-08-20T12:23:17Z"
+  },
+  {
+    "id": 1339565442,
+    "name": "npface",
+    "full_name": "scccc6ut/npface",
+    "owner": {
+      "login": "scccc6ut",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50006240?v=4"
+    },
+    "description": "表情头盔 · 会表情的 AI 员工头像 — expressive, zero-dependency helmet avatar for AI agents (MIT)",
+    "topics": [
+      "ai-agent",
+      "animation",
+      "avatar",
+      "emotion",
+      "npcrew",
+      "react",
+      "svg",
+      "typescript"
+    ],
+    "html_url": "https://github.com/scccc6ut/npface",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T12:38:20Z",
+    "updated_at": "2026-08-24T20:21:35Z",
+    "pushed_at": "2026-08-20T01:39:26Z"
+  },
+  {
+    "id": 1343373341,
+    "name": "tickflow-stock-panel",
+    "full_name": "hzy1522/tickflow-stock-panel",
+    "owner": {
+      "login": "hzy1522",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71831334?v=4"
+    },
+    "description": "多市场智能量化工作台（A股/港股/美股）— 基于 shy3130/tickflow-stock-panel 二次开发，新增港美股多市场支持。自托管选股+监控+回测。MIT。",
+    "topics": [
+      "a-shares",
+      "backtesting",
+      "fastapi",
+      "hongkong-stocks",
+      "quantitative-trading",
+      "react",
+      "stock-analysis",
+      "us-stocks"
+    ],
+    "html_url": "https://github.com/hzy1522/tickflow-stock-panel",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T04:37:33Z",
+    "updated_at": "2026-08-25T01:10:19Z",
+    "pushed_at": "2026-08-24T07:59:42Z"
+  },
+  {
+    "id": 1340402771,
+    "name": "hangbang",
+    "full_name": "joeseesun/hangbang",
+    "owner": {
+      "login": "joeseesun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+    },
+    "description": "免费的中文 Tier List 梯队图生成器 | A free browser-based Tier List maker.",
+    "topics": [
+      "content-creation",
+      "image-export",
+      "pwa",
+      "react",
+      "tier-list",
+      "tier-list-maker",
+      "typescript",
+      "vite"
+    ],
+    "html_url": "https://github.com/joeseesun/hangbang",
+    "stargazers_count": 9,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 4,
+    "created_at": "2026-08-20T07:16:34Z",
+    "updated_at": "2026-08-21T06:19:57Z",
+    "pushed_at": "2026-08-20T07:26:48Z"
+  }
+]
