@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1341694596,
+    "name": "pglite-go",
+    "full_name": "moriyoshi/pglite-go",
+    "owner": {
+      "login": "moriyoshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18755?v=4"
+    },
+    "description": "Embedded PostgreSQL for Go — no external server, no libpq, no separate process.",
+    "topics": [
+      "database",
+      "embedded",
+      "golang",
+      "pglite",
+      "postgres",
+      "wasm"
+    ],
+    "html_url": "https://github.com/moriyoshi/pglite-go",
+    "stargazers_count": 8,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T10:41:44Z",
+    "updated_at": "2026-08-22T09:19:25Z",
+    "pushed_at": "2026-08-21T10:43:45Z"
+  },
+  {
+    "id": 1341692576,
+    "name": "dqex",
+    "full_name": "fj1981/dqex",
+    "owner": {
+      "login": "fj1981",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46618492?v=4"
+    },
+    "description": "AI-Native, Offline-First Database Workbench — Import/Export/Migrate/Compare/Snapshot with AI-Assisted SQL (Eino)",
+    "topics": [
+      "agent",
+      "ai",
+      "cli",
+      "database",
+      "database-tools",
+      "eino",
+      "go",
+      "mysql",
+      "oracle",
+      "postgresql",
+      "sql",
+      "sql-generator"
+    ],
+    "html_url": "https://github.com/fj1981/dqex",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 3,
+    "created_at": "2026-08-21T10:39:32Z",
+    "updated_at": "2026-08-25T10:20:13Z",
+    "pushed_at": "2026-08-25T02:22:28Z"
+  },
+  {
+    "id": 1345375453,
+    "name": "Astronomical-Observatory-Management-System",
+    "full_name": "abdurahmankrsk/Astronomical-Observatory-Management-System",
+    "owner": {
+      "login": "abdurahmankrsk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235379764?v=4"
+    },
+    "description": "Java desktop system for managing astronomical observatories, research, experiments, celestial objects, and equipment.",
+    "topics": [
+      "astronomy",
+      "astronomy-astrophysics",
+      "astronomy-software",
+      "database",
+      "desktop-app",
+      "desktop-application",
+      "java",
+      "java-swing",
+      "jdbc",
+      "mysql",
+      "sql"
+    ],
+    "html_url": "https://github.com/abdurahmankrsk/Astronomical-Observatory-Management-System",
+    "stargazers_count": 3,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T20:23:00Z",
+    "updated_at": "2026-08-24T20:31:58Z",
+    "pushed_at": "2026-08-24T20:26:37Z"
+  },
+  {
+    "id": 1339497805,
+    "name": "wharf",
+    "full_name": "drk1rd/wharf",
+    "owner": {
+      "login": "drk1rd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58465650?v=4"
+    },
+    "description": "Open-source, self-hostable database platform — provision PostgreSQL, MySQL, MongoDB, Redis, and ClickHouse via Docker, with a web UI, CLI, and REST API.",
+    "topics": [
+      "cli",
+      "clickhouse",
+      "database",
+      "database-as-a-service",
+      "database-management",
+      "dbaas",
+      "devtools",
+      "docker",
+      "docker-compose",
+      "mongodb",
+      "mysql",
+      "open-source",
+      "postgresql",
+      "react",
+      "redis",
+      "rest-api",
+      "self-hosted",
+      "sqlite",
+      "tls",
+      "typescript"
+    ],
+    "html_url": "https://github.com/drk1rd/wharf",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-19T11:33:21Z",
+    "updated_at": "2026-08-24T02:26:57Z",
+    "pushed_at": "2026-08-22T15:01:28Z"
+  },
+  {
+    "id": 1343112338,
+    "name": "iplist-geofiles",
+    "full_name": "fahrenheitd99/iplist-geofiles",
+    "owner": {
+      "login": "fahrenheitd99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319902680?v=4"
+    },
+    "description": "GeoIP & GeoSite Databases for routing IPv4/Domains based on iplist.opencck",
+    "topics": [
+      "data",
+      "database",
+      "geoip",
+      "geosite",
+      "routing",
+      "v2ray",
+      "v2rayn",
+      "v2rayng"
+    ],
+    "html_url": "https://github.com/fahrenheitd99/iplist-geofiles",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T19:32:59Z",
+    "updated_at": "2026-08-25T21:54:42Z",
+    "pushed_at": "2026-08-25T21:51:55Z"
+  },
+  {
+    "id": 1346077177,
+    "name": "DataManager",
+    "full_name": "ArkMillion/DataManager",
+    "owner": {
+      "login": "ArkMillion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308028544?v=4"
+    },
+    "description": "Zero-Spring data access layer for Java. One API for MySQL, PostgreSQL, SQLite, MongoDB & Redis with annotation-driven schema sync, versioned SQL migrations, and multi-instance aliasing.",
+    "topics": [
+      "bytebuddy",
+      "connection-pool",
+      "dao",
+      "database",
+      "flyway",
+      "hikaricp",
+      "java",
+      "jdbc",
+      "mongodb",
+      "multi-database",
+      "mysql",
+      "orm",
+      "postgresql",
+      "query-builder",
+      "redis",
+      "schema-migration",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/ArkMillion/DataManager",
+    "stargazers_count": 2,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T11:59:23Z",
+    "updated_at": "2026-08-25T16:10:34Z",
+    "pushed_at": "2026-08-25T15:51:21Z"
+  },
+  {
+    "id": 1342966333,
+    "name": "sqlk",
+    "full_name": "aiongo/sqlk",
+    "owner": {
+      "login": "aiongo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/315790584?v=4"
+    },
+    "description": "A SQL query builder for Go, inspired by SqlKata.",
+    "topics": [
+      "database",
+      "go",
+      "golang",
+      "mssql",
+      "mssql-database",
+      "mysql",
+      "oracle",
+      "postgres",
+      "query-builder",
+      "sql-builder",
+      "sql-builders",
+      "sql-query",
+      "sqlgenarator",
+      "sqlite",
+      "sqlite3"
+    ],
+    "html_url": "https://github.com/aiongo/sqlk",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T16:11:04Z",
+    "updated_at": "2026-08-24T18:02:15Z",
+    "pushed_at": "2026-08-24T17:51:08Z"
+  },
+  {
+    "id": 1340260850,
+    "name": "golang-basic-auth",
+    "full_name": "bimaebi/golang-basic-auth",
+    "owner": {
+      "login": "bimaebi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165258786?v=4"
+    },
+    "description": "Golang Rest API Basic Authentication with SQLite",
+    "topics": [
+      "auth",
+      "authentication",
+      "authentication-backend",
+      "database",
+      "go",
+      "golang",
+      "golang-auth",
+      "golang-authentication",
+      "middleware",
+      "practice",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/bimaebi/golang-basic-auth",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T03:58:13Z",
+    "updated_at": "2026-08-23T14:11:50Z",
+    "pushed_at": "2026-08-20T04:03:33Z"
+  },
+  {
+    "id": 1340520449,
+    "name": "inlaysql",
+    "full_name": "inlaySQL/inlaysql",
+    "owner": {
+      "login": "inlaySQL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/317764280?v=4"
+    },
+    "description": "An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid retrieval, and a MySQL wire protocol.",
+    "topics": [
+      "bm25",
+      "database",
+      "embedded-database",
+      "full-text-search",
+      "hnsw",
+      "hybrid-search",
+      "mvcc",
+      "mysql-protocol",
+      "no-std",
+      "rust",
+      "sql",
+      "sqlite",
+      "vector-database",
+      "vector-search",
+      "webassembly"
+    ],
+    "html_url": "https://github.com/inlaySQL/inlaysql",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T09:28:53Z",
+    "updated_at": "2026-08-24T09:26:39Z",
+    "pushed_at": "2026-08-26T00:12:34Z"
+  },
+  {
+    "id": 1344751034,
+    "name": "F0rm",
+    "full_name": "axy3nno/F0rm",
+    "owner": {
+      "login": "axy3nno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261359466?v=4"
+    },
+    "description": "F0rm - мини база данных / локальная социальная сеть в будущем. Build: beta 3",
+    "topics": [
+      "csharp",
+      "database",
+      "local-social",
+      "localnetwork"
+    ],
+    "html_url": "https://github.com/axy3nno/F0rm",
+    "stargazers_count": 2,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T09:03:25Z",
+    "updated_at": "2026-08-25T14:29:08Z",
+    "pushed_at": "2026-08-25T14:16:32Z"
+  },
+  {
+    "id": 1343338463,
+    "name": "GoDB",
+    "full_name": "bimaebi/GoDB",
+    "owner": {
+      "login": "bimaebi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165258786?v=4"
+    },
+    "description": "GoDB is an educational database engine project written entirely in Go. The goal of this project is to understand how database systems work internally by building the core components step by step instead of relying on existing database engines such as PostgreSQL, MySQL, or SQLite.",
+    "topics": [
+      "database",
+      "database-engine",
+      "databases",
+      "go",
+      "godb",
+      "golang",
+      "golang-database",
+      "golang-module",
+      "golang-package",
+      "sql"
+    ],
+    "html_url": "https://github.com/bimaebi/GoDB",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T03:28:30Z",
+    "updated_at": "2026-08-23T14:11:58Z",
+    "pushed_at": "2026-08-23T03:30:12Z"
+  },
+  {
+    "id": 1341332930,
+    "name": "Analizador-Sismico-CHILE",
+    "full_name": "MatyTapia0/Analizador-Sismico-CHILE",
+    "owner": {
+      "login": "MatyTapia0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311243887?v=4"
+    },
+    "description": null,
+    "topics": [
+      "base",
+      "bases-de-datos",
+      "chile",
+      "database",
+      "earthquakes",
+      "poisson-distribution",
+      "python",
+      "seismology",
+      "sqlite3",
+      "terremoto"
+    ],
+    "html_url": "https://github.com/MatyTapia0/Analizador-Sismico-CHILE",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T02:45:03Z",
+    "updated_at": "2026-08-21T04:21:02Z",
+    "pushed_at": "2026-08-21T02:55:25Z"
+  },
+  {
+    "id": 1346243742,
+    "name": "SistemaVentasFerreteria",
+    "full_name": "carlos-albornoz/SistemaVentasFerreteria",
+    "owner": {
+      "login": "carlos-albornoz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224630981?v=4"
+    },
+    "description": null,
+    "topics": [
+      "database",
+      "dotnet",
+      "inventory-management",
+      "sql-server",
+      "visual-basic"
+    ],
+    "html_url": "https://github.com/carlos-albornoz/SistemaVentasFerreteria",
+    "stargazers_count": 1,
+    "language": "Visual Basic .NET",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T14:35:36Z",
+    "updated_at": "2026-08-25T14:47:15Z",
+    "pushed_at": "2026-08-25T14:39:58Z"
+  },
+  {
+    "id": 1341885960,
+    "name": "laravel-transaction-guard",
+    "full_name": "Codegenie-BE/laravel-transaction-guard",
+    "owner": {
+      "login": "Codegenie-BE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139161966?v=4"
+    },
+    "description": "Static analysis for unsafe side effects inside Laravel database transactions.",
+    "topics": [
+      "after-commit",
+      "ci",
+      "codegenie",
+      "database",
+      "developer-tools",
+      "laravel",
+      "php",
+      "queue",
+      "static-analysis",
+      "transactions"
+    ],
+    "html_url": "https://github.com/Codegenie-BE/laravel-transaction-guard",
+    "stargazers_count": 1,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T14:15:22Z",
+    "updated_at": "2026-08-24T20:46:09Z",
+    "pushed_at": "2026-08-24T20:31:15Z"
+  },
+  {
+    "id": 1344787760,
+    "name": "go-database-examples",
+    "full_name": "smallnest/go-database-examples",
+    "owner": {
+      "login": "smallnest",
+      "avatar_url": "https://avatars.githubusercontent.com/u/865763?v=4"
+    },
+    "description": "database examples in go",
+    "topics": [
+      "database",
+      "go",
+      "golang",
+      "orm",
+      "sql"
+    ],
+    "html_url": "https://github.com/smallnest/go-database-examples",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T09:43:15Z",
+    "updated_at": "2026-08-25T03:05:02Z",
+    "pushed_at": "2026-08-25T00:08:27Z"
+  },
+  {
+    "id": 1341805613,
+    "name": "bank-management-system-asp",
+    "full_name": "alextopdev/bank-management-system-asp",
+    "owner": {
+      "login": "alextopdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280383810?v=4"
+    },
+    "description": "Digital banking system application, implementing a monolithic application architecture.",
+    "topics": [
+      "asp-net",
+      "asp-net-mvc",
+      "csharp",
+      "database",
+      "database-management"
+    ],
+    "html_url": "https://github.com/alextopdev/bank-management-system-asp",
+    "stargazers_count": 1,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T12:48:33Z",
+    "updated_at": "2026-08-21T13:39:36Z",
+    "pushed_at": "2026-08-21T13:02:18Z"
+  },
+  {
+    "id": 1341094380,
+    "name": "kube-crisp",
+    "full_name": "mrueg/kube-crisp",
+    "owner": {
+      "login": "mrueg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/489370?v=4"
+    },
+    "description": "Serve any SQL database as Kubernetes custom resources. An aggregated API server that projects rows onto custom resources, with reads, writes, watch and RBAC.",
+    "topics": [
+      "aggregated-apiserver",
+      "apiserver",
+      "custom-resources",
+      "database",
+      "golang",
+      "kubernetes",
+      "kubernetes-operator",
+      "mysql",
+      "postgresql",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/mrueg/kube-crisp",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-20T19:51:46Z",
+    "updated_at": "2026-08-25T19:17:22Z",
+    "pushed_at": "2026-08-25T21:11:59Z"
+  },
+  {
+    "id": 1343531821,
+    "name": "GovnoedPromoAPI",
+    "full_name": "TiDurak/GovnoedPromoAPI",
+    "owner": {
+      "login": "TiDurak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82606298?v=4"
+    },
+    "description": "govnoed.de backend api for debilbot promocodes",
+    "topics": [
+      "database",
+      "rest-api",
+      "sqlite3"
+    ],
+    "html_url": "https://github.com/TiDurak/GovnoedPromoAPI",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T08:17:11Z",
+    "updated_at": "2026-08-23T14:44:12Z",
+    "pushed_at": "2026-08-23T14:44:05Z"
+  },
+  {
+    "id": 1339800774,
+    "name": "sqldatapack",
+    "full_name": "zachtbeer/sqldatapack",
+    "owner": {
+      "login": "zachtbeer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233656951?v=4"
+    },
+    "description": "Export a slice of a SQL Server database to a single SQLite file, edit it, import it back.",
+    "topics": [
+      "database",
+      "dotnet",
+      "sql-server",
+      "sqlite",
+      "test-data"
+    ],
+    "html_url": "https://github.com/zachtbeer/sqldatapack",
+    "stargazers_count": 1,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 37,
+    "created_at": "2026-08-19T16:33:12Z",
+    "updated_at": "2026-08-25T01:37:26Z",
+    "pushed_at": "2026-08-26T00:52:37Z"
+  },
+  {
+    "id": 1342930285,
+    "name": "olist-ecommerce-bi-dashboard",
+    "full_name": "Shubham1919284/olist-ecommerce-bi-dashboard",
+    "owner": {
+      "login": "Shubham1919284",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147346143?v=4"
+    },
+    "description": "End-to-end BI project on Olist e-commerce data — PostgreSQL schema + SQL views, Power BI dashboard with DirectQuery and 26 DAX measures across 9 report pages.",
+    "topics": [
+      "business-analysis",
+      "business-analytics",
+      "business-intelligence",
+      "dashboard",
+      "data-analysis",
+      "data-analytics",
+      "data-science",
+      "data-visualization",
+      "database",
+      "datamodeling",
+      "dsx",
+      "ecommerce",
+      "postgresql",
+      "power-bi",
+      "power-query",
+      "powerbi",
+      "powerquery",
+      "sql",
+      "sqlite3"
+    ],
+    "html_url": "https://github.com/Shubham1919284/olist-ecommerce-bi-dashboard",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T15:24:36Z",
+    "updated_at": "2026-08-23T17:00:37Z",
+    "pushed_at": "2026-08-22T15:46:59Z"
+  }
+]
