@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="assets/index-light.png" alt="GitHub Trending 主页截图" width="800">
+  <img src="assets/index-dark.png" alt="GitHub Trending 主页截图" width="800">
 </p>
 
 ## 概述
