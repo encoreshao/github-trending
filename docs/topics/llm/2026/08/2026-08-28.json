@@ -1,0 +1,598 @@
+[
+  {
+    "id": 1343438200,
+    "name": "rome",
+    "full_name": "rome-os/rome",
+    "owner": {
+      "login": "rome-os",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279501698?v=4"
+    },
+    "description": "Rome is the agentic OS.",
+    "topics": [
+      "agent",
+      "agent-os",
+      "claude-code",
+      "codex",
+      "llm"
+    ],
+    "html_url": "https://github.com/rome-os/rome",
+    "stargazers_count": 375,
+    "language": "TypeScript",
+    "forks_count": 21,
+    "open_issues_count": 13,
+    "created_at": "2026-08-23T06:15:15Z",
+    "updated_at": "2026-08-28T01:37:46Z",
+    "pushed_at": "2026-08-28T00:47:06Z"
+  },
+  {
+    "id": 1343320043,
+    "name": "source-reading-methodology",
+    "full_name": "itshen/source-reading-methodology",
+    "owner": {
+      "login": "itshen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3339564?v=4"
+    },
+    "description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-coding",
+      "claude-code",
+      "code-review",
+      "documentation",
+      "llm",
+      "methodology",
+      "source-code-reading",
+      "technical-writing"
+    ],
+    "html_url": "https://github.com/itshen/source-reading-methodology",
+    "stargazers_count": 125,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T02:51:45Z",
+    "updated_at": "2026-08-26T09:02:10Z",
+    "pushed_at": "2026-08-24T15:03:45Z"
+  },
+  {
+    "id": 1341777694,
+    "name": "modelprint",
+    "full_name": "unclecode/modelprint",
+    "owner": {
+      "login": "unclecode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12494079?v=4"
+    },
+    "description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+    "topics": [
+      "ai-tools",
+      "fingerprinting",
+      "llm",
+      "openrouter"
+    ],
+    "html_url": "https://github.com/unclecode/modelprint",
+    "stargazers_count": 100,
+    "language": "JavaScript",
+    "forks_count": 12,
+    "open_issues_count": 1,
+    "created_at": "2026-08-21T12:16:56Z",
+    "updated_at": "2026-08-27T18:18:03Z",
+    "pushed_at": "2026-08-27T14:13:52Z"
+  },
+  {
+    "id": 1347130943,
+    "name": "cdaf",
+    "full_name": "UditAkhourii/cdaf",
+    "owner": {
+      "login": "UditAkhourii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156824020?v=4"
+    },
+    "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "file-format",
+      "gemini",
+      "llm",
+      "remotion",
+      "sidecar",
+      "token-optimization",
+      "video",
+      "video-understanding"
+    ],
+    "html_url": "https://github.com/UditAkhourii/cdaf",
+    "stargazers_count": 95,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 2,
+    "created_at": "2026-08-26T09:12:41Z",
+    "updated_at": "2026-08-27T21:40:51Z",
+    "pushed_at": "2026-08-27T08:49:14Z"
+  },
+  {
+    "id": 1344110151,
+    "name": "hermes-conductor",
+    "full_name": "forcewake/hermes-conductor",
+    "owner": {
+      "login": "forcewake",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1325702?v=4"
+    },
+    "description": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them.",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "claude-code",
+      "codex-cli",
+      "hermes-agent",
+      "kanban",
+      "llm",
+      "multi-agent",
+      "nousresearch",
+      "opencode",
+      "orchestration",
+      "worktrees"
+    ],
+    "html_url": "https://github.com/forcewake/hermes-conductor",
+    "stargazers_count": 69,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T18:49:46Z",
+    "updated_at": "2026-08-27T21:48:41Z",
+    "pushed_at": "2026-08-25T15:08:02Z"
+  },
+  {
+    "id": 1348826110,
+    "name": "opengrok",
+    "full_name": "OnlyTerp/opengrok",
+    "owner": {
+      "login": "OnlyTerp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121772140?v=4"
+    },
+    "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+    "topics": [
+      "ai-agents",
+      "grok",
+      "llm",
+      "model-router",
+      "openai-compatible",
+      "windows"
+    ],
+    "html_url": "https://github.com/OnlyTerp/opengrok",
+    "stargazers_count": 45,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T18:30:44Z",
+    "updated_at": "2026-08-28T01:53:31Z",
+    "pushed_at": "2026-08-27T20:27:56Z"
+  },
+  {
+    "id": 1342134139,
+    "name": "cover",
+    "full_name": "DavidCarliez/cover",
+    "owner": {
+      "login": "DavidCarliez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271374756?v=4"
+    },
+    "description": "Keep private data, internal infrastructure and secrets out of cloud coding agents without breaking your workflow.",
+    "topics": [
+      "ai-security",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "data-redaction",
+      "dlp",
+      "llm",
+      "llm-privacy",
+      "local-first",
+      "oh-my-pi",
+      "pi",
+      "pii-detection",
+      "pii-redaction",
+      "privacy",
+      "privacy-proxy",
+      "pseudonymization",
+      "secret-scanning",
+      "security",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/DavidCarliez/cover",
+    "stargazers_count": 43,
+    "language": "Go",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T18:56:30Z",
+    "updated_at": "2026-08-27T13:37:28Z",
+    "pushed_at": "2026-08-27T06:42:05Z"
+  },
+  {
+    "id": 1342202970,
+    "name": "nuphus",
+    "full_name": "mrpulor-gh/nuphus",
+    "owner": {
+      "login": "mrpulor-gh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187365610?v=4"
+    },
+    "description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "automation",
+      "computer-use",
+      "desktop-automation",
+      "llm",
+      "local-first",
+      "mobile",
+      "open-source",
+      "privacy",
+      "pwa",
+      "react",
+      "rust",
+      "tauri",
+      "tauri-v2",
+      "typescript",
+      "web-automation",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/mrpulor-gh/nuphus",
+    "stargazers_count": 37,
+    "language": "Rust",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T20:35:53Z",
+    "updated_at": "2026-08-27T17:23:30Z",
+    "pushed_at": "2026-08-27T17:16:41Z"
+  },
+  {
+    "id": 1346917581,
+    "name": "pentest-harness",
+    "full_name": "S1N6H/pentest-harness",
+    "owner": {
+      "login": "S1N6H",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89349529?v=4"
+    },
+    "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+    "topics": [
+      "ai-agent",
+      "anthropic-api",
+      "bug-bounty",
+      "infosec",
+      "llm",
+      "offensive-security",
+      "open-source",
+      "openai-api",
+      "pentesting",
+      "red-team",
+      "security-tools"
+    ],
+    "html_url": "https://github.com/S1N6H/pentest-harness",
+    "stargazers_count": 31,
+    "language": "TypeScript",
+    "forks_count": 14,
+    "open_issues_count": 11,
+    "created_at": "2026-08-26T04:57:19Z",
+    "updated_at": "2026-08-27T23:02:16Z",
+    "pushed_at": "2026-08-27T20:10:02Z"
+  },
+  {
+    "id": 1341872734,
+    "name": "consensus-mcp",
+    "full_name": "Consensus-NLP/consensus-mcp",
+    "owner": {
+      "login": "Consensus-NLP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86272468?v=4"
+    },
+    "description": "Official MCP server for Consensus. Search 220M+ peer-reviewed research papers from Claude, ChatGPT, Cursor, and any MCP client.",
+    "topics": [
+      "academic-research",
+      "ai",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "literature-review",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "research-tools",
+      "scientific-papers"
+    ],
+    "html_url": "https://github.com/Consensus-NLP/consensus-mcp",
+    "stargazers_count": 24,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T14:01:19Z",
+    "updated_at": "2026-08-26T18:40:30Z",
+    "pushed_at": "2026-08-26T16:44:41Z"
+  },
+  {
+    "id": 1343773044,
+    "name": "dsh-lowtide",
+    "full_name": "KelaoHu/dsh-lowtide",
+    "owner": {
+      "login": "KelaoHu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314366432?v=4"
+    },
+    "description": "Time-shifting task delegation for DeepSeek Harness (dsh): plan tasks at leisure, they run unattended off-peak, come back to a report. Human-adjudicated, desktop + web.",
+    "topics": [
+      "ai-agent",
+      "automation",
+      "batch-processing",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "llm",
+      "plugin",
+      "scheduler",
+      "task-queue",
+      "typescript"
+    ],
+    "html_url": "https://github.com/KelaoHu/dsh-lowtide",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T13:00:17Z",
+    "updated_at": "2026-08-27T14:57:14Z",
+    "pushed_at": "2026-08-26T07:15:34Z"
+  },
+  {
+    "id": 1342873008,
+    "name": "mazelingo",
+    "full_name": "Yeq6X/mazelingo",
+    "owner": {
+      "login": "Yeq6X",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59079324?v=4"
+    },
+    "description": "Sentence-level bilingual mix translator — Chrome extension (MV3). Read the web with your two languages mixed sentence by sentence.",
+    "topics": [
+      "chrome-extension",
+      "english",
+      "japanese",
+      "language-learning",
+      "llm",
+      "translation"
+    ],
+    "html_url": "https://github.com/Yeq6X/mazelingo",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T14:11:41Z",
+    "updated_at": "2026-08-27T15:11:31Z",
+    "pushed_at": "2026-08-25T18:00:07Z"
+  },
+  {
+    "id": 1341900733,
+    "name": "clay",
+    "full_name": "sammwyy/clay",
+    "owner": {
+      "login": "sammwyy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44925968?v=4"
+    },
+    "description": "Compact coding-agent harness built for people who prefer to stay in the terminal",
+    "topics": [
+      "agent",
+      "ai",
+      "coding",
+      "harness",
+      "llm"
+    ],
+    "html_url": "https://github.com/sammwyy/clay",
+    "stargazers_count": 23,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T14:30:50Z",
+    "updated_at": "2026-08-27T14:28:30Z",
+    "pushed_at": "2026-08-25T11:40:01Z"
+  },
+  {
+    "id": 1345912780,
+    "name": "agentseed-mcp",
+    "full_name": "Morningstar202604/agentseed-mcp",
+    "owner": {
+      "login": "Morningstar202604",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320475654?v=4"
+    },
+    "description": "Anti-hallucination gate for AI coding agents — 8 MCP tools catch invented APIs (17 languages), fake \"all tests pass\" claims, and slopsquatting packages before they ship. Zero-dependency Agent Plugins 1.0.0 plugin (Skill + MCP server + CLI + CI gate) for Claude Code, Cursor, VS Code, Copilot.",
+    "topics": [
+      "agent-plugins",
+      "anti-hallucination",
+      "claude-code",
+      "code-verification",
+      "coding-agent",
+      "copilot",
+      "cursor",
+      "developer-tools",
+      "guardrails",
+      "hallucination-detection",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "spec-driven-development"
+    ],
+    "html_url": "https://github.com/Morningstar202604/agentseed-mcp",
+    "stargazers_count": 22,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T09:10:06Z",
+    "updated_at": "2026-08-27T15:22:17Z",
+    "pushed_at": "2026-08-27T14:53:45Z"
+  },
+  {
+    "id": 1341716416,
+    "name": "ai-agent-hacking-writeups",
+    "full_name": "shoebpate1/ai-agent-hacking-writeups",
+    "owner": {
+      "login": "shoebpate1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20478531?v=4"
+    },
+    "description": "A collection of public writeups on attacks against AI agents: prompt injection, tool abuse, memory poisoning, and data exfiltration.",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "indirect-prompt-injection",
+      "llm",
+      "mcp",
+      "prompt-injection",
+      "security",
+      "skills"
+    ],
+    "html_url": "https://github.com/shoebpate1/ai-agent-hacking-writeups",
+    "stargazers_count": 21,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T11:07:12Z",
+    "updated_at": "2026-08-25T07:27:26Z",
+    "pushed_at": "2026-08-22T15:29:24Z"
+  },
+  {
+    "id": 1347231294,
+    "name": "wiki-knowledge-agent",
+    "full_name": "atukunare/wiki-knowledge-agent",
+    "owner": {
+      "login": "atukunare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23396169?v=4"
+    },
+    "description": "Turn chat-pasted text/links into a verified, translated, searchable wiki knowledge base. Ad-detection, translate+summarize, local-first alerts, RAG-ready. Platform-independent AI skill (Hermes/Claude/Codex/Cursor), zero dependencies.",
+    "topics": [
+      "ai-agent",
+      "bookmark",
+      "claude-code",
+      "codex",
+      "knowledge-base",
+      "llm",
+      "note-taking",
+      "rag",
+      "skill",
+      "wiki"
+    ],
+    "html_url": "https://github.com/atukunare/wiki-knowledge-agent",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T11:08:16Z",
+    "updated_at": "2026-08-28T00:17:09Z",
+    "pushed_at": "2026-08-27T03:45:13Z"
+  },
+  {
+    "id": 1343138309,
+    "name": "dart-sdk-skills",
+    "full_name": "RandalSchwartz/dart-sdk-skills",
+    "owner": {
+      "login": "RandalSchwartz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6342?v=4"
+    },
+    "description": "Agent skills for Dart & Flutter SDK versioning, language features, widget migrations, and minSdk lookups",
+    "topics": [
+      "agent-skills",
+      "dart",
+      "flutter",
+      "llm",
+      "metaprogramming"
+    ],
+    "html_url": "https://github.com/RandalSchwartz/dart-sdk-skills",
+    "stargazers_count": 18,
+    "language": "Dart",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T20:14:12Z",
+    "updated_at": "2026-08-26T07:28:17Z",
+    "pushed_at": "2026-08-22T22:49:53Z"
+  },
+  {
+    "id": 1341873210,
+    "name": "consensus-api",
+    "full_name": "Consensus-NLP/consensus-api",
+    "owner": {
+      "login": "Consensus-NLP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86272468?v=4"
+    },
+    "description": "REST API for Consensus academic search. Query 220M+ peer-reviewed papers with citations, study metadata, and journal quality signals.",
+    "topics": [
+      "academic-research",
+      "ai-search",
+      "api",
+      "literature-review",
+      "llm",
+      "rag",
+      "research-api",
+      "research-tools",
+      "rest-api",
+      "scientific-papers",
+      "search-api",
+      "semantic-search"
+    ],
+    "html_url": "https://github.com/Consensus-NLP/consensus-api",
+    "stargazers_count": 17,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T14:01:49Z",
+    "updated_at": "2026-08-27T14:40:10Z",
+    "pushed_at": "2026-08-21T15:56:44Z"
+  },
+  {
+    "id": 1342138510,
+    "name": "WicaraLLM",
+    "full_name": "bagusardin25/WicaraLLM",
+    "owner": {
+      "login": "bagusardin25",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147913763?v=4"
+    },
+    "description": "WicaraLLM is our Indonesian Small Language Model (56M parameters), built from scratch and trained on a 1.3B-token Indonesian corpus. Engineered to run efficiently on a single laptop GPU with just 6 GB of VRAM, it combines GQA, RoPE, SwiGLU, and RMSNorm, with supervised fine-tuning for conversational capabilities",
+    "topics": [
+      "indonesia-nlp",
+      "language-model",
+      "llm",
+      "open-weights"
+    ],
+    "html_url": "https://github.com/bagusardin25/WicaraLLM",
+    "stargazers_count": 16,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T19:02:32Z",
+    "updated_at": "2026-08-27T15:52:45Z",
+    "pushed_at": "2026-08-23T19:57:16Z"
+  },
+  {
+    "id": 1341603085,
+    "name": "ai-coding-welfare",
+    "full_name": "panxunying/ai-coding-welfare",
+    "owner": {
+      "login": "panxunying",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9162119?v=4"
+    },
+    "description": "AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
+    "topics": [
+      "ai-coding",
+      "anthropic",
+      "api-proxy",
+      "claude-code",
+      "codex",
+      "free-api",
+      "free-quota",
+      "llm",
+      "new-api",
+      "openai"
+    ],
+    "html_url": "https://github.com/panxunying/ai-coding-welfare",
+    "stargazers_count": 15,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T08:59:30Z",
+    "updated_at": "2026-08-27T22:17:21Z",
+    "pushed_at": "2026-08-27T22:17:17Z"
+  }
+]

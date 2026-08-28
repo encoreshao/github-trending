@@ -1,0 +1,549 @@
+[
+  {
+    "id": 1346840578,
+    "name": "git-rg",
+    "full_name": "SamuelSupe/git-rg",
+    "owner": {
+      "login": "SamuelSupe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193193778?v=4"
+    },
+    "description": "Remote ripgrep for GitHub and GitLab without cloning repository history",
+    "topics": [
+      "cli",
+      "code-search",
+      "github",
+      "gitlab",
+      "go",
+      "ripgrep"
+    ],
+    "html_url": "https://github.com/SamuelSupe/git-rg",
+    "stargazers_count": 4,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T02:57:36Z",
+    "updated_at": "2026-08-26T06:43:20Z",
+    "pushed_at": "2026-08-26T05:18:54Z"
+  },
+  {
+    "id": 1347413041,
+    "name": "merge-medic",
+    "full_name": "stelsp/merge-medic",
+    "owner": {
+      "login": "stelsp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67414792?v=4"
+    },
+    "description": "AI-assisted GitLab MR conflict watcher: free bash+glab polling, edge-triggered fixers, Claude only on real conflict markers, verify gate, live TUI dashboard",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "devtools",
+      "gitlab",
+      "macos",
+      "merge-conflicts"
+    ],
+    "html_url": "https://github.com/stelsp/merge-medic",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T14:07:24Z",
+    "updated_at": "2026-08-27T21:29:56Z",
+    "pushed_at": "2026-08-27T21:20:07Z"
+  },
+  {
+    "id": 1346390717,
+    "name": "opmetrics",
+    "full_name": "FrostBy/opmetrics",
+    "owner": {
+      "login": "FrostBy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2795345?v=4"
+    },
+    "description": "Self-hosted engineering-operations analytics for small software teams: delivery, cost and risk, drillable to the source record. FSL-1.1-ALv2, Apache 2.0 after two years.",
+    "topics": [
+      "analytics-dashboard",
+      "bitbucket",
+      "developer-productivity",
+      "dora-metrics",
+      "engineering-analytics",
+      "engineering-metrics",
+      "fair-source",
+      "github",
+      "gitlab",
+      "jira",
+      "mcp-server",
+      "model-context-protocol",
+      "monorepo",
+      "nestjs",
+      "postgresql",
+      "prisma",
+      "react",
+      "self-hosted",
+      "space-framework",
+      "typescript"
+    ],
+    "html_url": "https://github.com/FrostBy/opmetrics",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T16:48:29Z",
+    "updated_at": "2026-08-26T21:51:15Z",
+    "pushed_at": "2026-08-26T21:34:36Z"
+  },
+  {
+    "id": 1341321478,
+    "name": "easy-git",
+    "full_name": "easysir10/easy-git",
+    "owner": {
+      "login": "easysir10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40814063?v=4"
+    },
+    "description": null,
+    "topics": [
+      "beginner-friendly",
+      "cordis",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "git",
+      "git-helper",
+      "github",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/easysir10/easy-git",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T02:27:19Z",
+    "updated_at": "2026-08-25T03:45:02Z",
+    "pushed_at": "2026-08-21T13:15:34Z"
+  },
+  {
+    "id": 1346456705,
+    "name": "repos-cli",
+    "full_name": "jeffersongoncalves/repos-cli",
+    "owner": {
+      "login": "jeffersongoncalves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/411493?v=4"
+    },
+    "description": "A multi-host bulk git repository manager built with Laravel Zero. Clone, pull, and list open issues across hundreds of repos on GitHub, GitLab, and Bitbucket from your terminal.",
+    "topics": [
+      "bitbucket",
+      "cli",
+      "devtools",
+      "git",
+      "github",
+      "gitlab",
+      "laravel-zero",
+      "php"
+    ],
+    "html_url": "https://github.com/jeffersongoncalves/repos-cli",
+    "stargazers_count": 1,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T17:56:41Z",
+    "updated_at": "2026-08-26T01:21:11Z",
+    "pushed_at": "2026-08-26T01:21:04Z"
+  },
+  {
+    "id": 1348228424,
+    "name": "clean-closed-issue-worktrees",
+    "full_name": "haoranyu/clean-closed-issue-worktrees",
+    "owner": {
+      "login": "haoranyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2560088?v=4"
+    },
+    "description": "Safety-first agent skill for cleaning Git worktrees tied to closed GitHub or GitLab issues",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "git-worktree",
+      "github",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/haoranyu/clean-closed-issue-worktrees",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-08-27T08:07:37Z",
+    "updated_at": "2026-08-27T16:38:08Z",
+    "pushed_at": "2026-08-27T10:25:12Z"
+  },
+  {
+    "id": 1345833853,
+    "name": "dsh-maestro-review",
+    "full_name": "ddtcorex/dsh-maestro-review",
+    "owner": {
+      "login": "ddtcorex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103315997?v=4"
+    },
+    "description": "Pluggable merge-request review pipeline for DeepSeek Harness (webhook → orchestrator → findings) with GitLab + GitHub providers.",
+    "topics": [
+      "ai-review",
+      "code-review",
+      "cordis",
+      "deepseek-harness",
+      "dsh-plugin",
+      "gitlab",
+      "maestro",
+      "merge-request"
+    ],
+    "html_url": "https://github.com/ddtcorex/dsh-maestro-review",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T07:41:06Z",
+    "updated_at": "2026-08-28T00:11:23Z",
+    "pushed_at": "2026-08-28T00:11:18Z"
+  },
+  {
+    "id": 1348310982,
+    "name": "dsh-ui-kanban",
+    "full_name": "JianwuYang/dsh-ui-kanban",
+    "owner": {
+      "login": "JianwuYang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22748492?v=4"
+    },
+    "description": "让 agent 直接干 Jira/GitLab 的活 · DSH 看板插件 | A dsh plugin that turns Jira + GitLab into an agent-workable kanban board",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "gitlab",
+      "jira",
+      "kanban"
+    ],
+    "html_url": "https://github.com/JianwuYang/dsh-ui-kanban",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T09:37:00Z",
+    "updated_at": "2026-08-28T01:56:06Z",
+    "pushed_at": "2026-08-28T01:55:57Z"
+  },
+  {
+    "id": 1342236763,
+    "name": "tagscope",
+    "full_name": "triumphpc/tagscope",
+    "owner": {
+      "login": "triumphpc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/593314?v=4"
+    },
+    "description": "Local, tag-first git browser that shows which version of a service is on which environment — and how far behind it is.",
+    "topics": [
+      "argocd",
+      "devops",
+      "git",
+      "gitlab",
+      "go",
+      "kubernetes",
+      "release-management",
+      "tags"
+    ],
+    "html_url": "https://github.com/triumphpc/tagscope",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-21T21:30:23Z",
+    "updated_at": "2026-08-27T16:29:45Z",
+    "pushed_at": "2026-08-27T16:19:37Z"
+  },
+  {
+    "id": 1343016281,
+    "name": "gitlab-github-mirror",
+    "full_name": "mamahoos/gitlab-github-mirror",
+    "owner": {
+      "login": "mamahoos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62762296?v=4"
+    },
+    "description": "Portable GitLab → GitHub read-only mirroring toolkit — CLI, systemd daemon, and hot/cold sync tiers.",
+    "topics": [
+      "automation",
+      "cli",
+      "devops",
+      "git",
+      "git-mirror",
+      "github",
+      "gitlab",
+      "mirror",
+      "python",
+      "self-hosted",
+      "systemd"
+    ],
+    "html_url": "https://github.com/mamahoos/gitlab-github-mirror",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T17:17:30Z",
+    "updated_at": "2026-08-22T17:17:43Z",
+    "pushed_at": "2026-08-22T17:17:57Z"
+  },
+  {
+    "id": 1342712362,
+    "name": "chrome-show-issue-and-mr-no",
+    "full_name": "jason1105/chrome-show-issue-and-mr-no",
+    "owner": {
+      "login": "jason1105",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6867700?v=4"
+    },
+    "description": "Show GitLab issue/MR numbers directly on pages. Works with self-hosted GitLab.",
+    "topics": [
+      "browser-extension",
+      "chrome-extension",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/jason1105/chrome-show-issue-and-mr-no",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T10:42:44Z",
+    "updated_at": "2026-08-23T10:20:26Z",
+    "pushed_at": "2026-08-23T10:20:13Z"
+  },
+  {
+    "id": 1348478982,
+    "name": "gitlab",
+    "full_name": "nwarila-platform/gitlab",
+    "owner": {
+      "login": "nwarila-platform",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230745524?v=4"
+    },
+    "description": "Infrastructure-as-code deployment and configuration for a self-hosted GitLab instance on the nwarila platform.",
+    "topics": [
+      "ci-cd",
+      "devops",
+      "devsecops",
+      "git",
+      "gitlab",
+      "infrastructure-as-code"
+    ],
+    "html_url": "https://github.com/nwarila-platform/gitlab",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-27T12:41:46Z",
+    "updated_at": "2026-08-27T23:07:45Z",
+    "pushed_at": "2026-08-27T23:07:40Z"
+  },
+  {
+    "id": 1346168099,
+    "name": "gitlab-notifier",
+    "full_name": "Ahmed-Ibrahim-30/gitlab-notifier",
+    "owner": {
+      "login": "Ahmed-Ibrahim-30",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84892637?v=4"
+    },
+    "description": "A Go service that listens to GitLab webhook events  and sends real-time notifications to Slack, Discord, and Microsoft Teams.",
+    "topics": [
+      "discord",
+      "discord-bot",
+      "gitlab",
+      "go",
+      "golang",
+      "slack",
+      "slack-api",
+      "teams",
+      "webhook",
+      "webhooks"
+    ],
+    "html_url": "https://github.com/Ahmed-Ibrahim-30/gitlab-notifier",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T13:26:45Z",
+    "updated_at": "2026-08-25T13:59:21Z",
+    "pushed_at": "2026-08-25T13:45:49Z"
+  },
+  {
+    "id": 1348176516,
+    "name": "backlog-client-ts",
+    "full_name": "booksakura/backlog-client-ts",
+    "owner": {
+      "login": "booksakura",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321683850?v=4"
+    },
+    "description": "Read-only mirror. The canonical repository is hosted on GitLab: https://gitlab.com/booksakura/backlog-client-ts",
+    "topics": [
+      "gitlab",
+      "mirror",
+      "read-only"
+    ],
+    "html_url": "https://github.com/booksakura/backlog-client-ts",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T07:04:09Z",
+    "updated_at": "2026-08-27T07:26:50Z",
+    "pushed_at": "2026-08-27T07:24:17Z"
+  },
+  {
+    "id": 1344949614,
+    "name": "gitlab-unfurl-teams",
+    "full_name": "thomukas/gitlab-unfurl-teams",
+    "owner": {
+      "login": "thomukas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4820555?v=4"
+    },
+    "description": "Paste a GitLab merge request or issue link into Microsoft Teams and get a card instead of a sign-in page. Per-user OAuth, no shared token, no database. Deployable to AWS, Azure or GCP.",
+    "topics": [
+      "adaptive-cards",
+      "gitlab",
+      "hono",
+      "link-unfurling",
+      "microsoft-teams",
+      "teams-app",
+      "typescript"
+    ],
+    "html_url": "https://github.com/thomukas/gitlab-unfurl-teams",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-24T12:47:24Z",
+    "updated_at": "2026-08-24T14:46:28Z",
+    "pushed_at": "2026-08-24T14:57:43Z"
+  },
+  {
+    "id": 1348197094,
+    "name": "pwsh-dotenv",
+    "full_name": "kamiyonanayo/pwsh-dotenv",
+    "owner": {
+      "login": "kamiyonanayo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4702200?v=4"
+    },
+    "description": "Read-only mirror. The canonical repository is hosted on GitLab: https://gitlab.com/kamiyonanayo/pwsh-dotenv",
+    "topics": [
+      "gitlab",
+      "mirror",
+      "read-only"
+    ],
+    "html_url": "https://github.com/kamiyonanayo/pwsh-dotenv",
+    "stargazers_count": 0,
+    "language": "PowerShell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T07:29:39Z",
+    "updated_at": "2026-08-27T07:35:53Z",
+    "pushed_at": "2026-08-27T07:32:56Z"
+  },
+  {
+    "id": 1348736119,
+    "name": "Gitlab-Pipeline-Dash",
+    "full_name": "PavelKhabusov/Gitlab-Pipeline-Dash",
+    "owner": {
+      "login": "PavelKhabusov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38973220?v=4"
+    },
+    "description": "GNOME top-panel indicator for GitLab pipelines: build progress, manual deploys, merge requests from the menu",
+    "topics": [
+      "devops",
+      "gitlab",
+      "gitlab-ci",
+      "gjs",
+      "gnome",
+      "gnome-shell-extension",
+      "pipeline"
+    ],
+    "html_url": "https://github.com/PavelKhabusov/Gitlab-Pipeline-Dash",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T17:01:36Z",
+    "updated_at": "2026-08-27T19:02:10Z",
+    "pushed_at": "2026-08-27T18:52:25Z"
+  },
+  {
+    "id": 1344879299,
+    "name": "augmented-development",
+    "full_name": "Stijnvandenbroek/augmented-development",
+    "owner": {
+      "login": "Stijnvandenbroek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70574420?v=4"
+    },
+    "description": "An augmented development environment: OpenCode wrapped by Headroom with git, uv, RTK, GitLab signing/auth, Artifactory, and custom CA support.",
+    "topics": [
+      "artifactory",
+      "developer-tools",
+      "docker",
+      "gitlab",
+      "headroom",
+      "opencode",
+      "rtk",
+      "uv"
+    ],
+    "html_url": "https://github.com/Stijnvandenbroek/augmented-development",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-08-24T11:29:31Z",
+    "updated_at": "2026-08-26T07:07:09Z",
+    "pushed_at": "2026-08-26T07:04:13Z"
+  },
+  {
+    "id": 1346613738,
+    "name": "migration-architect-releases",
+    "full_name": "JohnGwinnDEV/migration-architect-releases",
+    "owner": {
+      "login": "JohnGwinnDEV",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73663312?v=4"
+    },
+    "description": "Official releases of Migration Architect — local Azure DevOps to GitLab migration assessment. Discover projects and repositories, analyze pipelines, score migration risk, and generate an actionable migration plan.",
+    "topics": [
+      "azure-devops",
+      "azure-pipelines",
+      "cicd",
+      "devops",
+      "gitlab",
+      "migration",
+      "platform-engineering"
+    ],
+    "html_url": "https://github.com/JohnGwinnDEV/migration-architect-releases",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T20:43:16Z",
+    "updated_at": "2026-08-26T18:17:50Z",
+    "pushed_at": "2026-08-26T18:13:04Z"
+  },
+  {
+    "id": 1346110083,
+    "name": "gitlab-ansible",
+    "full_name": "hikiqwz/gitlab-ansible",
+    "owner": {
+      "login": "hikiqwz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61090120?v=4"
+    },
+    "description": null,
+    "topics": [
+      "ansible",
+      "gitlab",
+      "gitlab-ci"
+    ],
+    "html_url": "https://github.com/hikiqwz/gitlab-ansible",
+    "stargazers_count": 0,
+    "language": "Jinja",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T12:32:07Z",
+    "updated_at": "2026-08-25T14:11:35Z",
+    "pushed_at": "2026-08-25T13:48:38Z"
+  }
+]
