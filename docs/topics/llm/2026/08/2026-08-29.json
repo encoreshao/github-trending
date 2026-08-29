@@ -1,0 +1,611 @@
+[
+  {
+    "id": 1349253750,
+    "name": "sepia",
+    "full_name": "Nanako0129/sepia",
+    "owner": {
+      "login": "Nanako0129",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44753291?v=4"
+    },
+    "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "fiction",
+      "grok",
+      "humanizer",
+      "llm",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "html_url": "https://github.com/Nanako0129/sepia",
+    "stargazers_count": 388,
+    "language": "Shell",
+    "forks_count": 20,
+    "open_issues_count": 2,
+    "created_at": "2026-08-28T05:56:49Z",
+    "updated_at": "2026-08-29T01:59:26Z",
+    "pushed_at": "2026-08-28T21:33:38Z"
+  },
+  {
+    "id": 1343438200,
+    "name": "rome",
+    "full_name": "rome-os/rome",
+    "owner": {
+      "login": "rome-os",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279501698?v=4"
+    },
+    "description": "Rome is the agentic OS.",
+    "topics": [
+      "agent",
+      "agent-os",
+      "claude-code",
+      "codex",
+      "llm"
+    ],
+    "html_url": "https://github.com/rome-os/rome",
+    "stargazers_count": 384,
+    "language": "TypeScript",
+    "forks_count": 21,
+    "open_issues_count": 14,
+    "created_at": "2026-08-23T06:15:15Z",
+    "updated_at": "2026-08-28T23:54:33Z",
+    "pushed_at": "2026-08-28T18:33:27Z"
+  },
+  {
+    "id": 1348826110,
+    "name": "opengrok",
+    "full_name": "OnlyTerp/opengrok",
+    "owner": {
+      "login": "OnlyTerp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121772140?v=4"
+    },
+    "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+    "topics": [
+      "ai-agents",
+      "grok",
+      "llm",
+      "model-router",
+      "openai-compatible",
+      "windows"
+    ],
+    "html_url": "https://github.com/OnlyTerp/opengrok",
+    "stargazers_count": 254,
+    "language": "Python",
+    "forks_count": 28,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T18:30:44Z",
+    "updated_at": "2026-08-29T01:59:14Z",
+    "pushed_at": "2026-08-28T20:41:01Z"
+  },
+  {
+    "id": 1346917581,
+    "name": "pentest-harness",
+    "full_name": "S1N6H/pentest-harness",
+    "owner": {
+      "login": "S1N6H",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89349529?v=4"
+    },
+    "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+    "topics": [
+      "ai-agent",
+      "anthropic-api",
+      "bug-bounty",
+      "infosec",
+      "llm",
+      "offensive-security",
+      "open-source",
+      "openai-api",
+      "pentesting",
+      "red-team",
+      "security-tools"
+    ],
+    "html_url": "https://github.com/S1N6H/pentest-harness",
+    "stargazers_count": 212,
+    "language": "TypeScript",
+    "forks_count": 36,
+    "open_issues_count": 11,
+    "created_at": "2026-08-26T04:57:19Z",
+    "updated_at": "2026-08-29T01:55:40Z",
+    "pushed_at": "2026-08-28T16:09:00Z"
+  },
+  {
+    "id": 1343320043,
+    "name": "source-reading-methodology",
+    "full_name": "itshen/source-reading-methodology",
+    "owner": {
+      "login": "itshen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3339564?v=4"
+    },
+    "description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-coding",
+      "claude-code",
+      "code-review",
+      "documentation",
+      "llm",
+      "methodology",
+      "source-code-reading",
+      "technical-writing"
+    ],
+    "html_url": "https://github.com/itshen/source-reading-methodology",
+    "stargazers_count": 127,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T02:51:45Z",
+    "updated_at": "2026-08-28T16:56:50Z",
+    "pushed_at": "2026-08-24T15:03:45Z"
+  },
+  {
+    "id": 1347130943,
+    "name": "cdaf",
+    "full_name": "UditAkhourii/cdaf",
+    "owner": {
+      "login": "UditAkhourii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156824020?v=4"
+    },
+    "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "file-format",
+      "gemini",
+      "llm",
+      "remotion",
+      "sidecar",
+      "token-optimization",
+      "video",
+      "video-understanding"
+    ],
+    "html_url": "https://github.com/UditAkhourii/cdaf",
+    "stargazers_count": 97,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 1,
+    "created_at": "2026-08-26T09:12:41Z",
+    "updated_at": "2026-08-28T10:52:19Z",
+    "pushed_at": "2026-08-28T05:07:23Z"
+  },
+  {
+    "id": 1344110151,
+    "name": "hermes-conductor",
+    "full_name": "forcewake/hermes-conductor",
+    "owner": {
+      "login": "forcewake",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1325702?v=4"
+    },
+    "description": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them.",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "claude-code",
+      "codex-cli",
+      "hermes-agent",
+      "kanban",
+      "llm",
+      "multi-agent",
+      "nousresearch",
+      "opencode",
+      "orchestration",
+      "worktrees"
+    ],
+    "html_url": "https://github.com/forcewake/hermes-conductor",
+    "stargazers_count": 69,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T18:49:46Z",
+    "updated_at": "2026-08-27T21:48:41Z",
+    "pushed_at": "2026-08-25T15:08:02Z"
+  },
+  {
+    "id": 1345827689,
+    "name": "markdown-link-resolver",
+    "full_name": "Encephos/markdown-link-resolver",
+    "owner": {
+      "login": "Encephos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116490753?v=4"
+    },
+    "description": "A zero-dependency Python tool to resolve relative Markdown links and inline images as Base64 strings for RAG and Multimodal LLMs.",
+    "topics": [
+      "base6",
+      "data-preprocessing",
+      "llm",
+      "markdown",
+      "multimodal",
+      "python",
+      "rag",
+      "vision-models",
+      "web-scraping",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/Encephos/markdown-link-resolver",
+    "stargazers_count": 29,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T07:33:54Z",
+    "updated_at": "2026-08-29T00:03:01Z",
+    "pushed_at": "2026-08-26T08:52:47Z"
+  },
+  {
+    "id": 1343773044,
+    "name": "dsh-lowtide",
+    "full_name": "KelaoHu/dsh-lowtide",
+    "owner": {
+      "login": "KelaoHu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314366432?v=4"
+    },
+    "description": "Time-shifting task delegation for DeepSeek Harness (dsh): plan tasks at leisure, they run unattended off-peak, come back to a report. Human-adjudicated, desktop + web.",
+    "topics": [
+      "ai-agent",
+      "automation",
+      "batch-processing",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "llm",
+      "plugin",
+      "scheduler",
+      "task-queue",
+      "typescript"
+    ],
+    "html_url": "https://github.com/KelaoHu/dsh-lowtide",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T13:00:17Z",
+    "updated_at": "2026-08-27T14:57:14Z",
+    "pushed_at": "2026-08-26T07:15:34Z"
+  },
+  {
+    "id": 1342873008,
+    "name": "mazelingo",
+    "full_name": "Yeq6X/mazelingo",
+    "owner": {
+      "login": "Yeq6X",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59079324?v=4"
+    },
+    "description": "Sentence-level bilingual mix translator — Chrome extension (MV3). Read the web with your two languages mixed sentence by sentence.",
+    "topics": [
+      "chrome-extension",
+      "english",
+      "japanese",
+      "language-learning",
+      "llm",
+      "translation"
+    ],
+    "html_url": "https://github.com/Yeq6X/mazelingo",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T14:11:41Z",
+    "updated_at": "2026-08-27T15:11:31Z",
+    "pushed_at": "2026-08-25T18:00:07Z"
+  },
+  {
+    "id": 1347841064,
+    "name": "promptVault",
+    "full_name": "SagarBiswas-MultiHAT/promptVault",
+    "owner": {
+      "login": "SagarBiswas-MultiHAT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192402369?v=4"
+    },
+    "description": "The private, offline-first prompt manager for AI power users. Features AES-256 encrypted local storage, a built-in AI Librarian to evaluate & refine prompts with Gemini & Groq fallback, dynamic {{variable}} templates, Supabase cloud sync, analytics, and instant ⌘K search.",
+    "topics": [
+      "aes-256",
+      "ai-prompts",
+      "ai-tools",
+      "chatgpt",
+      "developer-tools",
+      "encryption",
+      "gemini-api",
+      "groq",
+      "llm",
+      "offline-first",
+      "playwright",
+      "productivity",
+      "prompt-engineering",
+      "prompt-library",
+      "prompt-manager",
+      "pwa",
+      "react19",
+      "supabase",
+      "tailwindcss",
+      "typescript"
+    ],
+    "html_url": "https://github.com/SagarBiswas-MultiHAT/promptVault",
+    "stargazers_count": 20,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T22:17:27Z",
+    "updated_at": "2026-08-28T23:10:37Z",
+    "pushed_at": "2026-08-28T20:45:59Z"
+  },
+  {
+    "id": 1347231294,
+    "name": "wiki-knowledge-agent",
+    "full_name": "atukunare/wiki-knowledge-agent",
+    "owner": {
+      "login": "atukunare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23396169?v=4"
+    },
+    "description": "Your AI forgets. A wiki doesn't. Turn chat-pasted text/links into a verified, translated, searchable wiki knowledge base — verify links, filter ads, summarize in your language, save to a wiki, and alert on time-sensitive items. Zero dependencies (curl + Python stdlib), platform-independent agent skill for Claude Code / Codex / Cursor / Hermes.",
+    "topics": [
+      "ai-agent",
+      "bookmark",
+      "claude-code",
+      "codex",
+      "knowledge-base",
+      "llm",
+      "note-taking",
+      "rag",
+      "skill",
+      "wiki"
+    ],
+    "html_url": "https://github.com/atukunare/wiki-knowledge-agent",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T11:08:16Z",
+    "updated_at": "2026-08-28T05:52:39Z",
+    "pushed_at": "2026-08-28T05:52:31Z"
+  },
+  {
+    "id": 1343138309,
+    "name": "dart-sdk-skills",
+    "full_name": "RandalSchwartz/dart-sdk-skills",
+    "owner": {
+      "login": "RandalSchwartz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6342?v=4"
+    },
+    "description": "Agent skills for Dart & Flutter SDK versioning, language features, widget migrations, and minSdk lookups",
+    "topics": [
+      "agent-skills",
+      "dart",
+      "flutter",
+      "llm",
+      "metaprogramming"
+    ],
+    "html_url": "https://github.com/RandalSchwartz/dart-sdk-skills",
+    "stargazers_count": 18,
+    "language": "Dart",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T20:14:12Z",
+    "updated_at": "2026-08-26T07:28:17Z",
+    "pushed_at": "2026-08-22T22:49:53Z"
+  },
+  {
+    "id": 1346919628,
+    "name": "open-source-ai-models",
+    "full_name": "zidniryi/open-source-ai-models",
+    "owner": {
+      "login": "zidniryi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19811857?v=4"
+    },
+    "description": "A curated directory of open-source & open-weight AI models — compare params, VRAM, context length, and license before picking a model for coding, OCR, vision, image generation, speech, reasoning, and RAG.",
+    "topics": [
+      "ai-models",
+      "artificial-intelligence",
+      "artificial-neural-networks",
+      "awesome-list",
+      "background-removal",
+      "huggingface",
+      "llm",
+      "llms",
+      "local-llm",
+      "machine-learning",
+      "model-directory",
+      "ocr",
+      "open-source-ai"
+    ],
+    "html_url": "https://github.com/zidniryi/open-source-ai-models",
+    "stargazers_count": 14,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T05:00:24Z",
+    "updated_at": "2026-08-28T04:32:25Z",
+    "pushed_at": "2026-08-26T05:57:13Z"
+  },
+  {
+    "id": 1344104026,
+    "name": "AstraLM",
+    "full_name": "Prasun01/AstraLM",
+    "owner": {
+      "login": "Prasun01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87966450?v=4"
+    },
+    "description": "A high-performance, private, on-device AI chat client built with Flutter. AstraLM runs Large Language Models (LLMs) and Vision models 100% locally on device hardware (CPU & GPU) with zero data leaving your phone.(until you choose to use cloud model which is completely OPTIONAL)",
+    "topics": [
+      "ai",
+      "ai-coding",
+      "ai-tools",
+      "api",
+      "gemini-api",
+      "llm",
+      "llm-agents",
+      "llm-tools",
+      "llms",
+      "local",
+      "local-ai",
+      "local-first",
+      "local-llm",
+      "ondevice-ai",
+      "online",
+      "open-source",
+      "openai"
+    ],
+    "html_url": "https://github.com/Prasun01/AstraLM",
+    "stargazers_count": 14,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-08-23T18:43:19Z",
+    "updated_at": "2026-08-28T20:51:41Z",
+    "pushed_at": "2026-08-28T20:44:54Z"
+  },
+  {
+    "id": 1344197854,
+    "name": "agentic-llm-token-and-performance-tests",
+    "full_name": "onurtirpan/agentic-llm-token-and-performance-tests",
+    "owner": {
+      "login": "onurtirpan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5150954?v=4"
+    },
+    "description": "The same HTTP API in 10 languages at 3 sizes, 30 implementations. Token cost for LLM agents, plus cold start, latency, throughput, CPU and memory. All measured, all verified over live HTTP.",
+    "topics": [
+      "ai-agents",
+      "benchmark",
+      "code-generation",
+      "llm",
+      "performance-testing",
+      "programming-languages",
+      "tokenizer"
+    ],
+    "html_url": "https://github.com/onurtirpan/agentic-llm-token-and-performance-tests",
+    "stargazers_count": 14,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T20:38:25Z",
+    "updated_at": "2026-08-28T07:57:09Z",
+    "pushed_at": "2026-08-24T21:50:19Z"
+  },
+  {
+    "id": 1345533091,
+    "name": "claude-md-doctor",
+    "full_name": "agent-clinic/claude-md-doctor",
+    "owner": {
+      "login": "agent-clinic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320826773?v=4"
+    },
+    "description": "Give your CLAUDE.md / AGENTS.md a checkup — audit size vitals, dead references, drifted claims, and backtest every rule against your own session history to see which rules get followed, ignored, or never used. A doctor-style report that cites its evidence.",
+    "topics": [
+      "agent-skills",
+      "agents-md",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-md",
+      "claude-skills",
+      "code-quality",
+      "context-engineering",
+      "developer-tools",
+      "hooks",
+      "llm",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/agent-clinic/claude-md-doctor",
+    "stargazers_count": 13,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T00:43:29Z",
+    "updated_at": "2026-08-29T01:51:53Z",
+    "pushed_at": "2026-08-28T18:54:36Z"
+  },
+  {
+    "id": 1346483147,
+    "name": "pi-delegate-mcp",
+    "full_name": "howznguyen/pi-delegate-mcp",
+    "owner": {
+      "login": "howznguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54036529?v=4"
+    },
+    "description": "MCP server that turns the pi coding agent into a steerable background worker: delegate a task, redirect it mid-run, and keep its context out of your own.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "coding-agent",
+      "deepseek",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "nodejs",
+      "openrouter",
+      "pi",
+      "subagent",
+      "typescript"
+    ],
+    "html_url": "https://github.com/howznguyen/pi-delegate-mcp",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T18:17:41Z",
+    "updated_at": "2026-08-28T14:35:55Z",
+    "pushed_at": "2026-08-25T19:30:24Z"
+  },
+  {
+    "id": 1349027364,
+    "name": "telemood",
+    "full_name": "beniedev/telemood",
+    "owner": {
+      "login": "beniedev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321945707?v=4"
+    },
+    "description": "Dependency-free Telegram interaction core for model-driven bots: ordered bubbles, reactions, regular stickers, and one-shot choices over host-owned sync/async transport.",
+    "topics": [
+      "ai-agent",
+      "asyncio",
+      "chatbot",
+      "llm",
+      "python",
+      "telegram-bot-ai-assistant",
+      "telegram-bot-api"
+    ],
+    "html_url": "https://github.com/beniedev/telemood",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T23:24:26Z",
+    "updated_at": "2026-08-29T01:32:11Z",
+    "pushed_at": "2026-08-29T00:23:43Z"
+  },
+  {
+    "id": 1347943201,
+    "name": "use-conifer",
+    "full_name": "ConiferKit/use-conifer",
+    "owner": {
+      "login": "ConiferKit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284818068?v=4"
+    },
+    "description": "The Conifer SDK — one gateway for cloud, local, and BYOK inference, with exact per-call cost receipts. TypeScript + Python + MCP.",
+    "topics": [
+      "ai-gateway",
+      "anthropic",
+      "llm",
+      "mcp",
+      "openai",
+      "openai-compatible",
+      "python",
+      "sdk",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ConiferKit/use-conifer",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T01:20:51Z",
+    "updated_at": "2026-08-28T23:56:57Z",
+    "pushed_at": "2026-08-28T23:56:47Z"
+  }
+]

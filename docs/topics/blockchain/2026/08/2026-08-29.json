@@ -1,0 +1,573 @@
+[
+  {
+    "id": 1342581677,
+    "name": "depthfeed-go",
+    "full_name": "tigusigalpa/depthfeed-go",
+    "owner": {
+      "login": "tigusigalpa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2721390?v=4"
+    },
+    "description": "An idiomatic Go client for the DepthFeed v3 prediction-market API — typed REST coverage for Polymarket, Kalshi, Limitless, Binance, and sports, plus live WebSocket streaming, SSE parsing, and HMAC webhook verification. Features retry/backoff, cursor pagination, Bearer auth, a mock test server, and concurrent-safe. Production-ready and context-aware",
+    "topics": [
+      "api",
+      "bitcoin",
+      "blockchain",
+      "chainlink",
+      "depthfeed",
+      "go",
+      "golang",
+      "near-protocol",
+      "trading",
+      "trading-toolkit"
+    ],
+    "html_url": "https://github.com/tigusigalpa/depthfeed-go",
+    "stargazers_count": 6,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T08:00:36Z",
+    "updated_at": "2026-08-27T10:34:51Z",
+    "pushed_at": "2026-08-24T10:28:00Z"
+  },
+  {
+    "id": 1343984610,
+    "name": "soroscan",
+    "full_name": "soroscan-io/soroscan",
+    "owner": {
+      "login": "soroscan-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322028828?v=4"
+    },
+    "description": "Stellar block explorer.",
+    "topics": [
+      "block-explorer",
+      "blockchain",
+      "smart-contracts",
+      "soroban",
+      "stellar"
+    ],
+    "html_url": "https://github.com/soroscan-io/soroscan",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-23T16:38:59Z",
+    "updated_at": "2026-08-28T11:52:41Z",
+    "pushed_at": "2026-08-28T15:20:37Z"
+  },
+  {
+    "id": 1347972652,
+    "name": "orbitledger",
+    "full_name": "Westoncallahan/orbitledger",
+    "owner": {
+      "login": "Westoncallahan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4686738?v=4"
+    },
+    "description": "OrbitLedger is a modern Web3 data application designed to organize blockchain transactions, wallet activity, token movements, and network statistics. Its modular TypeScript architecture emphasizes reusable components, clean interfaces, structured data processing, and maintainable development workflows for builders.",
+    "topics": [
+      "blockchain",
+      "blockchain-explorer",
+      "blockchain-wallet",
+      "data",
+      "data-analysis",
+      "data-science",
+      "web3",
+      "web3-security"
+    ],
+    "html_url": "https://github.com/Westoncallahan/orbitledger",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T02:10:43Z",
+    "updated_at": "2026-08-27T04:57:03Z",
+    "pushed_at": "2026-08-27T02:12:07Z"
+  },
+  {
+    "id": 1343822328,
+    "name": "drunix-production-handbook",
+    "full_name": "gunjan1sharma/drunix-production-handbook",
+    "owner": {
+      "login": "gunjan1sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42711225?v=4"
+    },
+    "description": "Battle-tested production runbook, DDD Smart Contract architectures, MVCC concurrency patterns, and Go Gateway client templates for Drunix / Hyperledger Fabric v2.x on GCP.",
+    "topics": [
+      "blockchain",
+      "distributed-systems",
+      "drunix",
+      "fintech",
+      "gcp",
+      "golang",
+      "hyperledger-fabric",
+      "smart-contracts",
+      "zero-trust"
+    ],
+    "html_url": "https://github.com/gunjan1sharma/drunix-production-handbook",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T13:51:14Z",
+    "updated_at": "2026-08-26T17:30:45Z",
+    "pushed_at": "2026-08-24T08:50:30Z"
+  },
+  {
+    "id": 1347578283,
+    "name": "wallet-inspector",
+    "full_name": "Evanwhitaker-dev/wallet-inspector",
+    "owner": {
+      "login": "Evanwhitaker-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15873547?v=4"
+    },
+    "description": "Wallet Inspector is a blockchain research utility designed to organize publicly available wallet activity into readable summaries. It explores address labeling, transaction categorization, balance tracking, historical activity, and visualization while maintaining a modular architecture suitable for educational crypto analytics development.",
+    "topics": [
+      "blockchain",
+      "blockchain-platform",
+      "blockchain-wallet",
+      "wallet",
+      "wallet-finder-crypto",
+      "walletconnect"
+    ],
+    "html_url": "https://github.com/Evanwhitaker-dev/wallet-inspector",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T16:52:54Z",
+    "updated_at": "2026-08-27T04:57:49Z",
+    "pushed_at": "2026-08-26T16:53:29Z"
+  },
+  {
+    "id": 1349035725,
+    "name": "deterministic-succession",
+    "full_name": "cristiandkzk/deterministic-succession",
+    "owner": {
+      "login": "cristiandkzk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219106200?v=4"
+    },
+    "description": "Deterministic rule succession: a chain that carries the rule by which its own rules change. Design, implementation, and the seven times building it corrected the paper.",
+    "topics": [
+      "blockchain",
+      "consensus",
+      "ethereum",
+      "formal-methods",
+      "governance",
+      "protocol-design",
+      "research",
+      "riscv"
+    ],
+    "html_url": "https://github.com/cristiandkzk/deterministic-succession",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T23:40:44Z",
+    "updated_at": "2026-08-29T01:58:14Z",
+    "pushed_at": "2026-08-29T01:58:11Z"
+  },
+  {
+    "id": 1349371622,
+    "name": "atoa-market",
+    "full_name": "kshrs/atoa-market",
+    "owner": {
+      "login": "kshrs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219797174?v=4"
+    },
+    "description": "ATOA (Agent-to-Agent Economy) is a decentralized financial and execution infrastructure enabling autonomous AI agents to publish, bid, verify, and settle complex digital tasks with zero human intervention.",
+    "topics": [
+      "agents",
+      "automation",
+      "blockchain",
+      "marketplace"
+    ],
+    "html_url": "https://github.com/kshrs/atoa-market",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T08:30:15Z",
+    "updated_at": "2026-08-29T00:33:30Z",
+    "pushed_at": "2026-08-29T00:33:25Z"
+  },
+  {
+    "id": 1349565524,
+    "name": "erpc-sdk",
+    "full_name": "elsoul/erpc-sdk",
+    "owner": {
+      "login": "elsoul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42315168?v=4"
+    },
+    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
+    "topics": [
+      "blockchain",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "cloud",
+      "cloudflare",
+      "deno",
+      "ethreum",
+      "gpt",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "pnpm",
+      "react",
+      "rpc",
+      "rust",
+      "solana",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/elsoul/erpc-sdk",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T12:12:14Z",
+    "updated_at": "2026-08-28T21:44:42Z",
+    "pushed_at": "2026-08-28T21:45:39Z"
+  },
+  {
+    "id": 1347574389,
+    "name": "blockforge",
+    "full_name": "Evanwhitaker-dev/blockforge",
+    "owner": {
+      "login": "Evanwhitaker-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15873547?v=4"
+    },
+    "description": "BlockForge is a developer-focused blockchain toolkit containing utilities for transaction inspection, block parsing, address validation, and network data processing. Its modular structure makes experimentation easier while providing reusable components for developers learning blockchain fundamentals and building prototype Web3 applications.",
+    "topics": [
+      "blockchain",
+      "blockchain-technology",
+      "blockforge",
+      "go",
+      "transaction",
+      "transactions"
+    ],
+    "html_url": "https://github.com/Evanwhitaker-dev/blockforge",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T16:48:32Z",
+    "updated_at": "2026-08-27T04:57:33Z",
+    "pushed_at": "2026-08-26T16:50:48Z"
+  },
+  {
+    "id": 1344481790,
+    "name": "basis-cli",
+    "full_name": "basis-network/basis-cli",
+    "owner": {
+      "login": "basis-network",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390429?v=4"
+    },
+    "description": "The Basis Network command-line client. Post-quantum (ML-DSA-65) wallets, queries and transactions.",
+    "topics": [
+      "basis-network",
+      "blockchain",
+      "cli",
+      "colombia",
+      "fips-204",
+      "ml-dsa",
+      "post-quantum",
+      "rust"
+    ],
+    "html_url": "https://github.com/basis-network/basis-cli",
+    "stargazers_count": 2,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-08-24T03:25:31Z",
+    "updated_at": "2026-08-26T02:11:36Z",
+    "pushed_at": "2026-08-26T02:11:18Z"
+  },
+  {
+    "id": 1346913880,
+    "name": "smartcontract-analyzer",
+    "full_name": "Ashutosh0x/smartcontract-analyzer",
+    "owner": {
+      "login": "Ashutosh0x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161562995?v=4"
+    },
+    "description": "Rust-native static security analyzer for Solidity/EVM. 50 detectors across 9 categories: reentrancy, access control, oracle, proxy/upgrade, DeFi, token integration, crypto, EVM compatibility, code quality. Zero-config Foundry/Hardhat. SARIF output.",
+    "topics": [
+      "blockchain",
+      "defi",
+      "ethereum",
+      "evm",
+      "rust",
+      "sarif",
+      "security",
+      "security-audit",
+      "smart-contracts",
+      "solidity",
+      "static-analysis",
+      "vulnerability-detection",
+      "web3"
+    ],
+    "html_url": "https://github.com/Ashutosh0x/smartcontract-analyzer",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 8,
+    "created_at": "2026-08-26T04:52:19Z",
+    "updated_at": "2026-08-28T08:09:08Z",
+    "pushed_at": "2026-08-26T06:17:20Z"
+  },
+  {
+    "id": 1344672041,
+    "name": "Axiom",
+    "full_name": "AybarsBarut/Axiom",
+    "owner": {
+      "login": "AybarsBarut",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57864464?v=4"
+    },
+    "description": "Resource-conscious blockchain core and distributed state machine in Java 21",
+    "topics": [
+      "bft",
+      "blockchain",
+      "consensus",
+      "cryptography",
+      "dag",
+      "distributed-systems",
+      "gradle",
+      "java",
+      "utxo"
+    ],
+    "html_url": "https://github.com/AybarsBarut/Axiom",
+    "stargazers_count": 2,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T07:35:04Z",
+    "updated_at": "2026-08-24T12:49:51Z",
+    "pushed_at": "2026-08-24T07:38:58Z"
+  },
+  {
+    "id": 1347563535,
+    "name": "chainpulse",
+    "full_name": "Evanwhitaker-dev/chainpulse",
+    "owner": {
+      "login": "Evanwhitaker-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15873547?v=4"
+    },
+    "description": "ChainPulse is a lightweight blockchain analytics dashboard for monitoring transaction activity, wallet movements, token transfers, and network statistics. It provides developers with structured data visualizations, configurable filters, and modular components designed for experimentation, research, and open-source Web3 analytics projects.",
+    "topics": [
+      "blockchain",
+      "blockchain-explorer",
+      "blockchain-technology",
+      "dashborad",
+      "lightweight",
+      "lightweight-charts",
+      "lightweight-cryptography"
+    ],
+    "html_url": "https://github.com/Evanwhitaker-dev/chainpulse",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T16:37:31Z",
+    "updated_at": "2026-08-27T04:57:37Z",
+    "pushed_at": "2026-08-26T16:42:09Z"
+  },
+  {
+    "id": 1342320239,
+    "name": "cleanchain",
+    "full_name": "MacJezzl1/cleanchain",
+    "owner": {
+      "login": "MacJezzl1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114586032?v=4"
+    },
+    "description": "♻ CleanChain — Turning Waste Into Wealth. Blockchain incentive infrastructure for waste management: earn $CLEAN for verified recycling (Proof-of-Clean: NFC + AI + peer jury).",
+    "topics": [
+      "blockchain",
+      "esg",
+      "nextjs",
+      "react",
+      "refi",
+      "smart-city",
+      "sustainability",
+      "typescript",
+      "waste-management",
+      "web3"
+    ],
+    "html_url": "https://github.com/MacJezzl1/cleanchain",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T00:14:01Z",
+    "updated_at": "2026-08-25T08:59:49Z",
+    "pushed_at": "2026-08-22T01:36:30Z"
+  },
+  {
+    "id": 1346761991,
+    "name": "ERC-5516",
+    "full_name": "LucasGrasso/ERC-5516",
+    "owner": {
+      "login": "LucasGrasso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66641667?v=4"
+    },
+    "description": "Reference Implementation of ERC-5516",
+    "topics": [
+      "blockchain",
+      "erc5516",
+      "nft",
+      "solidity"
+    ],
+    "html_url": "https://github.com/LucasGrasso/ERC-5516",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T00:51:01Z",
+    "updated_at": "2026-08-28T17:01:58Z",
+    "pushed_at": "2026-08-26T02:04:56Z"
+  },
+  {
+    "id": 1347733922,
+    "name": "Obscura-PQ",
+    "full_name": "n-azimi/Obscura-PQ",
+    "owner": {
+      "login": "n-azimi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56356745?v=4"
+    },
+    "description": "Obscura-PQ: Post-Quantum Privacy-Preserving Protocol for the Algorand Blockchain Using Lattice-Based Linkable Ring Signatures",
+    "topics": [
+      "algorand",
+      "algorand-blockchain",
+      "anonymous-transactions",
+      "blockchain",
+      "blockchain-privacy",
+      "lattice-based-cryptography",
+      "linkable-ring-signature",
+      "on-chain-verification",
+      "post-quantum-cryptography",
+      "privacy-preserving",
+      "smart-contract"
+    ],
+    "html_url": "https://github.com/n-azimi/Obscura-PQ",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T19:45:46Z",
+    "updated_at": "2026-08-26T20:17:34Z",
+    "pushed_at": "2026-08-26T20:03:44Z"
+  },
+  {
+    "id": 1344152389,
+    "name": "txlens",
+    "full_name": "meldrov/txlens",
+    "owner": {
+      "login": "meldrov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9276874?v=4"
+    },
+    "description": "Self-hosted Tenderly-lite for pre-sign checks: decode calldata (proxies, multicall, Safe, Universal Router), simulate via any JSON-RPC, list asset transfers and approvals from debug_traceCall, decode revert reasons, flag risks. No API keys.",
+    "topics": [
+      "abi",
+      "blockchain",
+      "calldata",
+      "cli",
+      "debug-tracecall",
+      "defi",
+      "devtools",
+      "ethereum",
+      "evm",
+      "golang",
+      "json-rpc",
+      "security",
+      "transaction-simulation",
+      "wallet",
+      "web3"
+    ],
+    "html_url": "https://github.com/meldrov/txlens",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T19:39:23Z",
+    "updated_at": "2026-08-25T21:49:32Z",
+    "pushed_at": "2026-08-23T19:43:00Z"
+  },
+  {
+    "id": 1346123229,
+    "name": "timevault",
+    "full_name": "timevaulttv/timevault",
+    "owner": {
+      "login": "timevaulttv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321003031?v=4"
+    },
+    "description": "AI-powered tokenized proof-of-service marketplace on Robinhood Chain. Freelance hours become tradable NFTs, funds lock in smart-contract escrow, and 7 specialized AI agents handle pricing, verification, matching, reputation, and disputes.",
+    "topics": [
+      "ai-agents",
+      "blockchain",
+      "evm",
+      "evm-ai-agent",
+      "evm-blockchain",
+      "evm-compatible",
+      "marketplace",
+      "nft",
+      "smart-contracts",
+      "web3"
+    ],
+    "html_url": "https://github.com/timevaulttv/timevault",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T12:44:59Z",
+    "updated_at": "2026-08-28T19:49:18Z",
+    "pushed_at": "2026-08-28T19:42:02Z"
+  },
+  {
+    "id": 1345154366,
+    "name": "hackindia-appinventiv-ai-hackathon-2026-codemind-ai",
+    "full_name": "HackIndiaXYZ/hackindia-appinventiv-ai-hackathon-2026-codemind-ai",
+    "owner": {
+      "login": "HackIndiaXYZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
+    },
+    "description": "Hackathon team repository for CodeMind AI - [hackindia-team:hackindia-appinventiv-ai-hackathon-2026:codemind-ai]",
+    "topics": [
+      "artificial-intelligence-and-machine-learning",
+      "blockchain",
+      "finance"
+    ],
+    "html_url": "https://github.com/HackIndiaXYZ/hackindia-appinventiv-ai-hackathon-2026-codemind-ai",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T16:11:05Z",
+    "updated_at": "2026-08-24T16:29:27Z",
+    "pushed_at": "2026-08-24T16:11:07Z"
+  },
+  {
+    "id": 1343113060,
+    "name": "solana-flutter-sdk",
+    "full_name": "nemorixgroup/solana-flutter-sdk",
+    "owner": {
+      "login": "nemorixgroup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198267313?v=4"
+    },
+    "description": "Native Flutter/Dart SDK for Solana. Pure Dart, no platform channels. Apache 2.0.",
+    "topics": [
+      "blockchain",
+      "open-source",
+      "sdk",
+      "solana",
+      "solana-payments"
+    ],
+    "html_url": "https://github.com/nemorixgroup/solana-flutter-sdk",
+    "stargazers_count": 1,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-22T19:34:06Z",
+    "updated_at": "2026-08-26T01:10:53Z",
+    "pushed_at": "2026-08-26T00:23:37Z"
+  }
+]
