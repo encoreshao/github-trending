@@ -1,0 +1,601 @@
+[
+  {
+    "id": 1344654488,
+    "name": "gpui-vue",
+    "full_name": "countradooku/gpui-vue",
+    "owner": {
+      "login": "countradooku",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52667211?v=4"
+    },
+    "description": "Native GPU-accelerated Vue 3 renderer for Zed's GPUI",
+    "topics": [
+      "bun",
+      "desktop",
+      "gpu",
+      "gpui",
+      "napi",
+      "rust",
+      "vue"
+    ],
+    "html_url": "https://github.com/countradooku/gpui-vue",
+    "stargazers_count": 28,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T07:13:35Z",
+    "updated_at": "2026-08-28T10:41:31Z",
+    "pushed_at": "2026-08-28T10:40:47Z"
+  },
+  {
+    "id": 1344676556,
+    "name": "aicss",
+    "full_name": "kvnkld/aicss",
+    "owner": {
+      "login": "kvnkld",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208671746?v=4"
+    },
+    "description": "AICSS React components and CLI. Website: aicss.dev",
+    "topics": [
+      "ai-agents",
+      "css",
+      "react",
+      "shadcn-registry",
+      "svelte",
+      "ui",
+      "vue"
+    ],
+    "html_url": "https://github.com/kvnkld/aicss",
+    "stargazers_count": 26,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T07:40:18Z",
+    "updated_at": "2026-08-29T19:39:01Z",
+    "pushed_at": "2026-08-24T12:06:51Z"
+  },
+  {
+    "id": 1344590699,
+    "name": "nova-trade-ai",
+    "full_name": "wangchenxi99/nova-trade-ai",
+    "owner": {
+      "login": "wangchenxi99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55952506?v=4"
+    },
+    "description": "An open-source AI-powered stock research platform featuring CANSLIM analysis, real-time financial data, DeepSeek chat, and one-click Docker deployment.  中文介绍： 开源 AI 智能投研平台，集成真实金融数据、CANSLIM 股票分析、DeepSeek 聊天助手与 Docker 一键部署。",
+    "topics": [
+      "canslim",
+      "deepseek",
+      "docker-compose",
+      "java",
+      "postgresql",
+      "spring-boot-4",
+      "stock-analysis",
+      "stock-analysis-ai",
+      "vue"
+    ],
+    "html_url": "https://github.com/wangchenxi99/nova-trade-ai",
+    "stargazers_count": 12,
+    "language": "Java",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T05:53:04Z",
+    "updated_at": "2026-08-24T11:39:07Z",
+    "pushed_at": "2026-08-24T06:05:33Z"
+  },
+  {
+    "id": 1347141085,
+    "name": "framefolio",
+    "full_name": "wungjyan/framefolio",
+    "owner": {
+      "login": "wungjyan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29590076?v=4"
+    },
+    "description": "A self-hosted photo portfolio with responsive galleries, EXIF metadata, and Docker deployment.（一个支持响应式画廊、EXIF 信息展示与 Docker 部署的自托管摄影作品集。）",
+    "topics": [
+      "docker",
+      "docker-compose",
+      "exif",
+      "nuxt",
+      "photo-gallery",
+      "photography",
+      "portfolio",
+      "self-hosted",
+      "vue",
+      "webp"
+    ],
+    "html_url": "https://github.com/wungjyan/framefolio",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T09:23:36Z",
+    "updated_at": "2026-08-28T06:00:44Z",
+    "pushed_at": "2026-08-28T03:15:45Z"
+  },
+  {
+    "id": 1343743083,
+    "name": "unbg",
+    "full_name": "privatenumber/unbg",
+    "owner": {
+      "login": "privatenumber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1075694?v=4"
+    },
+    "description": "Remove solid backgrounds from matched image pairs while preserving soft edges and partial transparency.",
+    "topics": [
+      "alpha-matting",
+      "background-removal",
+      "cli",
+      "difference-matting",
+      "image-processing",
+      "jpeg",
+      "nodejs",
+      "png",
+      "transparency",
+      "transparent-background",
+      "typescript",
+      "vue",
+      "web-worker",
+      "webassembly",
+      "webp"
+    ],
+    "html_url": "https://github.com/privatenumber/unbg",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T12:23:47Z",
+    "updated_at": "2026-08-29T09:58:44Z",
+    "pushed_at": "2026-08-29T09:58:40Z"
+  },
+  {
+    "id": 1347571449,
+    "name": "http-playground",
+    "full_name": "aruizcastillo/http-playground",
+    "owner": {
+      "login": "aruizcastillo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182524194?v=4"
+    },
+    "description": "Minimal playground for comparing how different frontend and backend technologies communicate over HTTP.",
+    "topics": [
+      "angular",
+      "express",
+      "fiber",
+      "gin",
+      "go",
+      "golang",
+      "node",
+      "vue"
+    ],
+    "html_url": "https://github.com/aruizcastillo/http-playground",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T16:45:27Z",
+    "updated_at": "2026-08-27T06:51:20Z",
+    "pushed_at": "2026-08-26T18:35:49Z"
+  },
+  {
+    "id": 1344516686,
+    "name": "BongoCat-Qingxiao",
+    "full_name": "dream-image/BongoCat-Qingxiao",
+    "owner": {
+      "login": "dream-image",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102407911?v=4"
+    },
+    "description": "BongoCat 清宵互动桌宠 — 基于 Tauri、Rust 和 Vue 的跨平台 desktop pet，支持 Windows/macOS/Linux、键鼠与手柄响应、主动/被动动作、右键互动、对白气泡和自定义模型。",
+    "topics": [
+      "animated-desktop-pet",
+      "bongocat",
+      "custom-model",
+      "desktop-pet",
+      "keyboard-visualizer",
+      "linux",
+      "macos",
+      "mouse-tracker",
+      "qingxiao",
+      "rust",
+      "tauri",
+      "virtual-pet",
+      "vue",
+      "windows"
+    ],
+    "html_url": "https://github.com/dream-image/BongoCat-Qingxiao",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T04:07:26Z",
+    "updated_at": "2026-08-27T15:08:13Z",
+    "pushed_at": "2026-08-27T06:13:17Z"
+  },
+  {
+    "id": 1343743540,
+    "name": "LivePhoneCall",
+    "full_name": "CaineWind/LivePhoneCall",
+    "owner": {
+      "login": "CaineWind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28083937?v=4"
+    },
+    "description": "Local-first bilingual voice agent with streaming Qwen3 ASR/TTS, pluggable LLMs, a Vue PWA, and Docker deployment.",
+    "topics": [
+      "asr",
+      "bilingual",
+      "docker",
+      "fastapi",
+      "pwa",
+      "qwen3",
+      "speech-to-text",
+      "text-to-speech",
+      "tts",
+      "voice-agent",
+      "vue"
+    ],
+    "html_url": "https://github.com/CaineWind/LivePhoneCall",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T12:24:14Z",
+    "updated_at": "2026-08-24T05:23:41Z",
+    "pushed_at": "2026-08-23T12:41:49Z"
+  },
+  {
+    "id": 1343942672,
+    "name": "XingCare",
+    "full_name": "k4ubx7/XingCare",
+    "owner": {
+      "login": "k4ubx7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296399114?v=4"
+    },
+    "description": "Educational Vue/FastAPI demo for structured symptom intake and pluggable AI providers. Not medical advice.",
+    "topics": [
+      "ai-assistant",
+      "fastapi",
+      "healthcare-demo",
+      "open-source",
+      "vite",
+      "vue"
+    ],
+    "html_url": "https://github.com/k4ubx7/XingCare",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T15:56:52Z",
+    "updated_at": "2026-08-27T02:03:13Z",
+    "pushed_at": "2026-08-23T15:57:03Z"
+  },
+  {
+    "id": 1346893886,
+    "name": "mindmap-sdk",
+    "full_name": "tonychang84/mindmap-sdk",
+    "owner": {
+      "login": "tonychang84",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12289715?v=4"
+    },
+    "description": "寻简思维导图 SDK 是一个轻量级、框架无关的思维导图渲染引擎。通过 iframe + postMessage 实现零依赖集成，支持 30+ 种布局结构（思维导图、流程图、组织结构图、时间线等）和 30 套配色方案。内置 AI 对话转导图能力，帮助开发者快速为产品增加思维可视化功能。",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "iframe",
+      "iframe-api",
+      "javascript",
+      "mindmanager",
+      "mindmanager-business-planning",
+      "mindmap",
+      "mindmap-editor",
+      "mindmap-visualizer",
+      "mindmapping",
+      "mindmaps",
+      "mindmatters",
+      "opensource",
+      "postmessage",
+      "react",
+      "sdk",
+      "vue",
+      "web-components"
+    ],
+    "html_url": "https://github.com/tonychang84/mindmap-sdk",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T04:23:09Z",
+    "updated_at": "2026-08-26T09:42:28Z",
+    "pushed_at": "2026-08-26T09:08:34Z"
+  },
+  {
+    "id": 1348051044,
+    "name": "sub2api-usage-float",
+    "full_name": "chopperH0824/sub2api-usage-float",
+    "owner": {
+      "login": "chopperH0824",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129704992?v=4"
+    },
+    "description": "Read-only macOS floating dashboard for Sub2API account usage and quota windows",
+    "topics": [
+      "dashboard",
+      "electron",
+      "macos",
+      "sub2api",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/chopperH0824/sub2api-usage-float",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T04:04:51Z",
+    "updated_at": "2026-08-28T09:57:57Z",
+    "pushed_at": "2026-08-28T10:14:45Z"
+  },
+  {
+    "id": 1343413019,
+    "name": "snotes",
+    "full_name": "xilele777/snotes",
+    "owner": {
+      "login": "xilele777",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182665265?v=4"
+    },
+    "description": "WPS便签复刻版，一个本地优先、支持离线同步的多平台便签应用。",
+    "topics": [
+      "cloudfare-r2",
+      "cross-platform",
+      "indexeddb",
+      "local-first",
+      "markdown",
+      "notes",
+      "productivity",
+      "vue"
+    ],
+    "html_url": "https://github.com/xilele777/snotes",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T05:40:47Z",
+    "updated_at": "2026-08-29T08:14:30Z",
+    "pushed_at": "2026-08-29T08:03:09Z"
+  },
+  {
+    "id": 1344717877,
+    "name": "deepseek-desktop",
+    "full_name": "deepseek-desktop/deepseek-desktop",
+    "owner": {
+      "login": "deepseek-desktop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320788111?v=4"
+    },
+    "description": "Standalone community desktop distribution for DeepSeek Harness",
+    "topics": [
+      "ai-agent",
+      "desktop",
+      "rust",
+      "tauri",
+      "vue"
+    ],
+    "html_url": "https://github.com/deepseek-desktop/deepseek-desktop",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T08:28:21Z",
+    "updated_at": "2026-08-29T11:28:29Z",
+    "pushed_at": "2026-08-29T11:28:25Z"
+  },
+  {
+    "id": 1344616577,
+    "name": "lims",
+    "full_name": "2387452986/lims",
+    "owner": {
+      "login": "2387452986",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189704632?v=4"
+    },
+    "description": "LIMS（试验检测信息管理系统）— Java 21、Spring Boot、Vue 3、PostgreSQL，覆盖委托到归档及质量闭环",
+    "topics": [
+      "java",
+      "lims",
+      "portfolio",
+      "postgresql",
+      "spring-boot",
+      "typescript",
+      "vue",
+      "workflow"
+    ],
+    "html_url": "https://github.com/2387452986/lims",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T06:27:15Z",
+    "updated_at": "2026-08-24T06:54:08Z",
+    "pushed_at": "2026-08-24T06:53:19Z"
+  },
+  {
+    "id": 1350381807,
+    "name": "vue-zmage",
+    "full_name": "gitgundam/vue-zmage",
+    "owner": {
+      "login": "gitgundam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56780502?v=4"
+    },
+    "description": "Vue 3 origin-expand image viewer (port of react-zmage)",
+    "topics": [
+      "image-viewer",
+      "lightbox",
+      "vite",
+      "vue",
+      "vue-component",
+      "vue3",
+      "zmage"
+    ],
+    "html_url": "https://github.com/gitgundam/vue-zmage",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T07:43:44Z",
+    "updated_at": "2026-08-29T10:23:35Z",
+    "pushed_at": "2026-08-29T10:20:28Z"
+  },
+  {
+    "id": 1345215343,
+    "name": "enterprise-post-office-cf",
+    "full_name": "hiFOFA/enterprise-post-office-cf",
+    "owner": {
+      "login": "hiFOFA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218441760?v=4"
+    },
+    "description": "A complete, stable enterprise post office running on the Cloudflare ecosystem. No server of your own.",
+    "topics": [
+      "cloudflare",
+      "cloudflare-d1",
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "d1",
+      "edge",
+      "email",
+      "email-management",
+      "email-routing",
+      "enterprise-email",
+      "javascript",
+      "mailbox",
+      "serverless",
+      "smtp",
+      "typescript",
+      "vue",
+      "vue3",
+      "webmail",
+      "workers",
+      "wrangler"
+    ],
+    "html_url": "https://github.com/hiFOFA/enterprise-post-office-cf",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T17:16:17Z",
+    "updated_at": "2026-08-26T17:40:37Z",
+    "pushed_at": "2026-08-25T16:20:04Z"
+  },
+  {
+    "id": 1348012296,
+    "name": "NamePicker",
+    "full_name": "RafiantoAS/NamePicker",
+    "owner": {
+      "login": "RafiantoAS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155371188?v=4"
+    },
+    "description": "A modern Vue 3 random name picker with animated selection, participant management, configurable picker settings, winner history, statistics dashboard, light/dark themes, LocalStorage persistence, and responsive UI — built as a polished frontend portfolio project.",
+    "topics": [
+      "frontend",
+      "frontend-development",
+      "javascript",
+      "localstorage",
+      "portfolio-project",
+      "random-name-picker",
+      "responsive-design",
+      "ui-ux",
+      "vite",
+      "vue",
+      "vue3",
+      "web-development"
+    ],
+    "html_url": "https://github.com/RafiantoAS/NamePicker",
+    "stargazers_count": 1,
+    "language": "CSS",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T03:06:17Z",
+    "updated_at": "2026-08-27T03:47:49Z",
+    "pushed_at": "2026-08-27T03:45:20Z"
+  },
+  {
+    "id": 1344785024,
+    "name": "ai-drama-canvas",
+    "full_name": "BB20260410/ai-drama-canvas",
+    "owner": {
+      "login": "BB20260410",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275209734?v=4"
+    },
+    "description": "AI 漫剧无限画布：本地优先、Apache-2.0 完全免费开源的 AI 短剧生产工作台",
+    "topics": [
+      "ai",
+      "apache2",
+      "canvas",
+      "electron",
+      "macos",
+      "open-source",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/BB20260410/ai-drama-canvas",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-24T09:40:21Z",
+    "updated_at": "2026-08-26T03:08:44Z",
+    "pushed_at": "2026-08-27T01:28:47Z"
+  },
+  {
+    "id": 1347785440,
+    "name": "cmajor-cloud-chamber",
+    "full_name": "loowps/cmajor-cloud-chamber",
+    "owner": {
+      "login": "loowps",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52254689?v=4"
+    },
+    "description": "🫧 Granular synthesizer with 8 individual play heads, built as a Cmajor patch with a Vue UI.",
+    "topics": [
+      "cmajor",
+      "cmajorpatch",
+      "granular",
+      "synth",
+      "vue",
+      "vue3",
+      "vuejs"
+    ],
+    "html_url": "https://github.com/loowps/cmajor-cloud-chamber",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T20:48:34Z",
+    "updated_at": "2026-08-27T19:42:23Z",
+    "pushed_at": "2026-08-27T19:39:58Z"
+  },
+  {
+    "id": 1345546527,
+    "name": "homepage",
+    "full_name": "BlueChonk/homepage",
+    "owner": {
+      "login": "BlueChonk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109133966?v=4"
+    },
+    "description": "个人主页 — 基于 Vue 3 + Vite 6 的内容驱动型单页应用。",
+    "topics": [
+      "frontend",
+      "homepage",
+      "javascript",
+      "personal-website",
+      "portfolio",
+      "spa",
+      "typescript",
+      "vite",
+      "vite6",
+      "vue",
+      "vue3"
+    ],
+    "html_url": "https://github.com/BlueChonk/homepage",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T01:06:47Z",
+    "updated_at": "2026-08-28T08:25:02Z",
+    "pushed_at": "2026-08-28T08:24:50Z"
+  }
+]

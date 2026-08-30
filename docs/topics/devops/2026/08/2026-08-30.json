@@ -1,0 +1,600 @@
+[
+  {
+    "id": 1343698202,
+    "name": "drain-check",
+    "full_name": "mjavedali/drain-check",
+    "owner": {
+      "login": "mjavedali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30997178?v=4"
+    },
+    "description": "PDB / drain-check before node maintenance  ",
+    "topics": [
+      "cli-tool",
+      "devops",
+      "kubectl-plugins",
+      "kubernetes",
+      "sre"
+    ],
+    "html_url": "https://github.com/mjavedali/drain-check",
+    "stargazers_count": 18,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 3,
+    "created_at": "2026-08-23T11:33:04Z",
+    "updated_at": "2026-08-28T08:39:39Z",
+    "pushed_at": "2026-08-26T10:34:16Z"
+  },
+  {
+    "id": 1347310804,
+    "name": "proxmox-pve-toolkit",
+    "full_name": "a2w-A/proxmox-pve-toolkit",
+    "owner": {
+      "login": "a2w-A",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34476702?v=4"
+    },
+    "description": "Enterprise Proxmox VE 8.x/7.x cluster orchestrator, live node auditor, vzdump snapshot scheduler & hardening engine.",
+    "topics": [
+      "algo2world",
+      "devops",
+      "fastapi",
+      "homelab",
+      "homelab-setup",
+      "infrastructure",
+      "proxmox",
+      "proxmox-api",
+      "proxmox-backup",
+      "proxmox-backup-server",
+      "proxmox-cluster",
+      "proxmox-tools",
+      "proxmox-ve",
+      "sysadmin",
+      "virtualization"
+    ],
+    "html_url": "https://github.com/a2w-A/proxmox-pve-toolkit",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 2,
+    "created_at": "2026-08-26T12:31:16Z",
+    "updated_at": "2026-08-26T15:20:18Z",
+    "pushed_at": "2026-08-26T15:08:54Z"
+  },
+  {
+    "id": 1346757509,
+    "name": "antifailure",
+    "full_name": "antifailure/antifailure",
+    "owner": {
+      "login": "antifailure",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321004801?v=4"
+    },
+    "description": "A disposable copy of your production stack for every pull request: masked Postgres, contained third-party APIs, and agents that use your app like people.",
+    "topics": [
+      "ai-agents",
+      "anonymization",
+      "ci-cd",
+      "data-masking",
+      "database-branching",
+      "database-migrations",
+      "developer-tools",
+      "devops",
+      "ephemeral-environments",
+      "kubernetes",
+      "load-testing",
+      "neon",
+      "playwright",
+      "postgres",
+      "postgresql",
+      "preview-environments",
+      "qa-automation",
+      "release-engineering",
+      "supabase",
+      "test-data-management"
+    ],
+    "html_url": "https://github.com/antifailure/antifailure",
+    "stargazers_count": 11,
+    "language": "Go",
+    "forks_count": 2,
+    "open_issues_count": 2,
+    "created_at": "2026-08-26T00:44:09Z",
+    "updated_at": "2026-08-30T01:13:37Z",
+    "pushed_at": "2026-08-30T01:50:05Z"
+  },
+  {
+    "id": 1348336381,
+    "name": "ghost-hunter",
+    "full_name": "qxmcu/ghost-hunter",
+    "owner": {
+      "login": "qxmcu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205295644?v=4"
+    },
+    "description": "Ghost Hunter is an automated bug-reproduction bot for GitHub. Comment bot/reproduce on an issue and it parses the report with an LLM, spins up an isolated Docker sandbox, runs the actual repro steps, and posts the crash logs straight back to the issue — turning \"can't reproduce\" into a one-line comment.",
+    "topics": [
+      "auto-reproduce-errors",
+      "automation",
+      "awesome",
+      "bug-reproduction",
+      "cli-tool",
+      "devops",
+      "devops-tools",
+      "docker",
+      "fyp",
+      "github-bot",
+      "issue-reproduction",
+      "llm",
+      "newtools",
+      "python",
+      "script",
+      "useful-functions",
+      "useful-scripts",
+      "useful-tools",
+      "useful-utilities"
+    ],
+    "html_url": "https://github.com/qxmcu/ghost-hunter",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T10:06:14Z",
+    "updated_at": "2026-08-29T15:02:07Z",
+    "pushed_at": "2026-08-29T15:53:52Z"
+  },
+  {
+    "id": 1343834969,
+    "name": "Git-Deployment-Competitive",
+    "full_name": "taovietducofficial/Git-Deployment-Competitive",
+    "owner": {
+      "login": "taovietducofficial",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95725645?v=4"
+    },
+    "description": "A production-ready Git & Deployment roadmap for Junior Developers. Learn Git workflow, branching, collaboration, CI/CD fundamentals and real-world deployment practices.",
+    "topics": [
+      "ci-cd",
+      "deployment",
+      "developer-roadmap",
+      "devops",
+      "docker",
+      "docker-compose",
+      "git",
+      "git-workflow",
+      "github",
+      "github-actions",
+      "junior-developer",
+      "learning-by-doing",
+      "software-engineering",
+      "version-control"
+    ],
+    "html_url": "https://github.com/taovietducofficial/Git-Deployment-Competitive",
+    "stargazers_count": 9,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-23T14:04:20Z",
+    "updated_at": "2026-08-29T22:29:53Z",
+    "pushed_at": "2026-08-23T14:09:34Z"
+  },
+  {
+    "id": 1346392627,
+    "name": "ilana",
+    "full_name": "Ferousco-dev/ilana",
+    "owner": {
+      "login": "Ferousco-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247435076?v=4"
+    },
+    "description": "A software engineering process operating system for coding agents. 11 phases, 9 gates, 13 agents, 10 protocols. Built from SEN102/212 at Obafemi Awolowo University, Ile-Ife.",
+    "topics": [
+      "agent-skills",
+      "ai-skill",
+      "claude-code",
+      "claude-skill",
+      "cmmi",
+      "code-review",
+      "codex",
+      "devops",
+      "iso-12207",
+      "oau",
+      "open-source",
+      "process-improvement",
+      "requirements-engineering",
+      "scm",
+      "sdlc",
+      "software-architecture",
+      "software-engineering",
+      "software-quality-assurance",
+      "software-testing",
+      "technical-documentation"
+    ],
+    "html_url": "https://github.com/Ferousco-dev/ilana",
+    "stargazers_count": 7,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 4,
+    "created_at": "2026-08-25T16:50:33Z",
+    "updated_at": "2026-08-26T07:32:13Z",
+    "pushed_at": "2026-08-25T17:41:16Z"
+  },
+  {
+    "id": 1344127213,
+    "name": "repo-heart",
+    "full_name": "OpenAgentHQ/repo-heart",
+    "owner": {
+      "login": "OpenAgentHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300483671?v=4"
+    },
+    "description": "🫀 The autonomous heart of your GitHub repo — 24/7 AI agents that triage issues, review PRs, repair CI & keep docs fresh. Runs entirely in GitHub Actions. No server, no database. Provider-agnostic: Claude, OpenAI, Gemini & more.",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "code-review",
+      "devops",
+      "github-actions",
+      "github-automation",
+      "issue-triage",
+      "llm",
+      "multi-agent",
+      "openai",
+      "python"
+    ],
+    "html_url": "https://github.com/OpenAgentHQ/repo-heart",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 27,
+    "created_at": "2026-08-23T19:08:55Z",
+    "updated_at": "2026-08-27T15:01:36Z",
+    "pushed_at": "2026-08-27T17:24:23Z"
+  },
+  {
+    "id": 1350143069,
+    "name": "jump-skills",
+    "full_name": "fabricioctelles/jump-skills",
+    "owner": {
+      "login": "fabricioctelles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219920630?v=4"
+    },
+    "description": "Jump Skill Ninjas are intelligent meta-skills — master orchestrators that route your requests to the most appropriate specialized skill from a curated library. Instead of manually searching through hundreds of individual skills, you simply describe your task and the Ninja Identifies specialized skills and Loads the full skill in context",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "aws",
+      "azure",
+      "claude-code",
+      "cloud",
+      "cursor",
+      "devops",
+      "firecrawl",
+      "github-copilot",
+      "kiro",
+      "llm",
+      "llms",
+      "ninja",
+      "skills",
+      "skills-library",
+      "skills-sh",
+      "sre"
+    ],
+    "html_url": "https://github.com/fabricioctelles/jump-skills",
+    "stargazers_count": 7,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T00:23:45Z",
+    "updated_at": "2026-08-29T15:10:41Z",
+    "pushed_at": "2026-08-29T15:09:59Z"
+  },
+  {
+    "id": 1350546361,
+    "name": "ethereum-sniper-bot-open-source-8o6c",
+    "full_name": "moysmmus2006/ethereum-sniper-bot-open-source-8o6c",
+    "owner": {
+      "login": "moysmmus2006",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390155?v=4"
+    },
+    "description": "Experimental workspace for distributed workflows.",
+    "topics": [
+      "automation",
+      "devops",
+      "ethereum",
+      "open-source",
+      "sniper"
+    ],
+    "html_url": "https://github.com/moysmmus2006/ethereum-sniper-bot-open-source-8o6c",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T11:57:25Z",
+    "updated_at": "2026-08-29T12:42:41Z",
+    "pushed_at": "2026-08-29T11:57:56Z"
+  },
+  {
+    "id": 1350774786,
+    "name": "base-indexer-cli-erjz",
+    "full_name": "lexpierrediot/base-indexer-cli-erjz",
+    "owner": {
+      "login": "lexpierrediot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390074?v=4"
+    },
+    "description": "Open-source toolkit for on-chain automation.",
+    "topics": [
+      "automation",
+      "base",
+      "devops",
+      "indexer",
+      "open-source"
+    ],
+    "html_url": "https://github.com/lexpierrediot/base-indexer-cli-erjz",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T17:18:14Z",
+    "updated_at": "2026-08-29T18:03:20Z",
+    "pushed_at": "2026-08-29T17:18:29Z"
+  },
+  {
+    "id": 1350525125,
+    "name": "solana-bridge-cli-4nut",
+    "full_name": "auwallpatil/solana-bridge-cli-4nut",
+    "owner": {
+      "login": "auwallpatil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390021?v=4"
+    },
+    "description": "Production-ready scaffold with CI hooks.",
+    "topics": [
+      "automation",
+      "bridge",
+      "devops",
+      "open-source",
+      "solana"
+    ],
+    "html_url": "https://github.com/auwallpatil/solana-bridge-cli-4nut",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T11:24:40Z",
+    "updated_at": "2026-08-29T12:05:27Z",
+    "pushed_at": "2026-08-29T11:24:54Z"
+  },
+  {
+    "id": 1350560656,
+    "name": "arbitrum-sniper-bot-2026-qzul",
+    "full_name": "pezguiddgooms/arbitrum-sniper-bot-2026-qzul",
+    "owner": {
+      "login": "pezguiddgooms",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390171?v=4"
+    },
+    "description": "Production-ready scaffold with CI hooks.",
+    "topics": [
+      "arbitrum",
+      "automation",
+      "devops",
+      "open-source",
+      "sniper"
+    ],
+    "html_url": "https://github.com/pezguiddgooms/arbitrum-sniper-bot-2026-qzul",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T12:20:22Z",
+    "updated_at": "2026-08-29T12:59:54Z",
+    "pushed_at": "2026-08-29T12:20:37Z"
+  },
+  {
+    "id": 1350519567,
+    "name": "ethereum-liquidation-bot-alpha-bt3u",
+    "full_name": "paincarlanequee/ethereum-liquidation-bot-alpha-bt3u",
+    "owner": {
+      "login": "paincarlanequee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390158?v=4"
+    },
+    "description": "Lightweight utilities and automation helpers.",
+    "topics": [
+      "automation",
+      "devops",
+      "ethereum",
+      "liquidation",
+      "open-source"
+    ],
+    "html_url": "https://github.com/paincarlanequee/ethereum-liquidation-bot-alpha-bt3u",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T11:15:44Z",
+    "updated_at": "2026-08-29T11:55:25Z",
+    "pushed_at": "2026-08-29T11:16:15Z"
+  },
+  {
+    "id": 1350767578,
+    "name": "polygon-nft-minter-open-source-uxeq",
+    "full_name": "ncdandosci/polygon-nft-minter-open-source-uxeq",
+    "owner": {
+      "login": "ncdandosci",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390081?v=4"
+    },
+    "description": "Lightweight utilities and automation helpers.",
+    "topics": [
+      "automation",
+      "devops",
+      "nft",
+      "open-source",
+      "polygon"
+    ],
+    "html_url": "https://github.com/ncdandosci/polygon-nft-minter-open-source-uxeq",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T17:07:56Z",
+    "updated_at": "2026-08-29T17:39:59Z",
+    "pushed_at": "2026-08-29T17:08:25Z"
+  },
+  {
+    "id": 1350519479,
+    "name": "solana-nft-minter-cli-k8e6",
+    "full_name": "auwallpatil/solana-nft-minter-cli-k8e6",
+    "owner": {
+      "login": "auwallpatil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390021?v=4"
+    },
+    "description": "Open-source toolkit for on-chain automation.",
+    "topics": [
+      "automation",
+      "devops",
+      "nft",
+      "open-source",
+      "solana"
+    ],
+    "html_url": "https://github.com/auwallpatil/solana-nft-minter-cli-k8e6",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T11:15:38Z",
+    "updated_at": "2026-08-29T11:56:48Z",
+    "pushed_at": "2026-08-29T11:16:07Z"
+  },
+  {
+    "id": 1350519484,
+    "name": "rust-sniper-bot-open-source-o3ij",
+    "full_name": "terr99pav/rust-sniper-bot-open-source-o3ij",
+    "owner": {
+      "login": "terr99pav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390209?v=4"
+    },
+    "description": "Open-source toolkit for on-chain automation.",
+    "topics": [
+      "automation",
+      "devops",
+      "open-source",
+      "rust",
+      "sniper"
+    ],
+    "html_url": "https://github.com/terr99pav/rust-sniper-bot-open-source-o3ij",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T11:15:38Z",
+    "updated_at": "2026-08-29T11:55:31Z",
+    "pushed_at": "2026-08-29T11:16:05Z"
+  },
+  {
+    "id": 1350594956,
+    "name": "ethereum-airdrop-farmer-cli-cvrn",
+    "full_name": "rockyptinske/ethereum-airdrop-farmer-cli-cvrn",
+    "owner": {
+      "login": "rockyptinske",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390203?v=4"
+    },
+    "description": "Lightweight utilities and automation helpers.",
+    "topics": [
+      "airdrop",
+      "automation",
+      "devops",
+      "ethereum",
+      "open-source"
+    ],
+    "html_url": "https://github.com/rockyptinske/ethereum-airdrop-farmer-cli-cvrn",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T13:11:07Z",
+    "updated_at": "2026-08-29T13:54:26Z",
+    "pushed_at": "2026-08-29T13:11:25Z"
+  },
+  {
+    "id": 1346481831,
+    "name": "planizer",
+    "full_name": "mustafaabasaran/planizer",
+    "owner": {
+      "login": "mustafaabasaran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19528715?v=4"
+    },
+    "description": "SQL Server / T-SQL migration linter: validates and explains DDL before it runs — locking (Sch-M), table rewrite vs metadata-only, reversibility, idempotency, failure risk. Deterministic static analysis, offline, CI-ready with SARIF and a GitHub Action. No LLM.",
+    "topics": [
+      "azure-sql",
+      "ci",
+      "code-quality",
+      "csharp",
+      "database",
+      "database-migrations",
+      "dba",
+      "ddl",
+      "devops",
+      "dotnet",
+      "github-actions",
+      "linter",
+      "migrations",
+      "mssql",
+      "sarif",
+      "sql",
+      "sql-linter",
+      "sql-server",
+      "static-analysis",
+      "tsql"
+    ],
+    "html_url": "https://github.com/mustafaabasaran/planizer",
+    "stargazers_count": 5,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T18:16:24Z",
+    "updated_at": "2026-08-28T18:12:06Z",
+    "pushed_at": "2026-08-28T18:07:38Z"
+  },
+  {
+    "id": 1350519613,
+    "name": "arbitrum-liquidation-bot-toolkit-hzej",
+    "full_name": "lynamr/arbitrum-liquidation-bot-toolkit-hzej",
+    "owner": {
+      "login": "lynamr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390065?v=4"
+    },
+    "description": "Open-source toolkit for on-chain automation.",
+    "topics": [
+      "arbitrum",
+      "automation",
+      "devops",
+      "liquidation",
+      "open-source"
+    ],
+    "html_url": "https://github.com/lynamr/arbitrum-liquidation-bot-toolkit-hzej",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T11:15:46Z",
+    "updated_at": "2026-08-29T11:59:12Z",
+    "pushed_at": "2026-08-29T11:16:02Z"
+  },
+  {
+    "id": 1350807524,
+    "name": "bitcoin-liquidation-bot-alpha-p6ff",
+    "full_name": "rockyptinske/bitcoin-liquidation-bot-alpha-p6ff",
+    "owner": {
+      "login": "rockyptinske",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390203?v=4"
+    },
+    "description": "Lightweight utilities and automation helpers.",
+    "topics": [
+      "automation",
+      "bitcoin",
+      "devops",
+      "liquidation",
+      "open-source"
+    ],
+    "html_url": "https://github.com/rockyptinske/bitcoin-liquidation-bot-alpha-p6ff",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T18:06:34Z",
+    "updated_at": "2026-08-29T18:48:59Z",
+    "pushed_at": "2026-08-29T18:07:04Z"
+  }
+]
