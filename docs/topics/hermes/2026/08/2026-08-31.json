@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1345638630,
+    "name": "flop-airdrop-skill",
+    "full_name": "dizcorvus/flop-airdrop-skill",
+    "owner": {
+      "login": "dizcorvus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168964489?v=4"
+    },
+    "description": "Autonomous AI agent skill to position for the $FLOP airdrop. Install in your agent and prompt 'Help me with the $FLOP airdrop'",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "airdrop",
+      "antigravity",
+      "claude-code",
+      "cryptography",
+      "did",
+      "ed25519",
+      "flop-finance",
+      "hermes",
+      "openclaw",
+      "opencode",
+      "technocore",
+      "web3"
+    ],
+    "html_url": "https://github.com/dizcorvus/flop-airdrop-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T03:33:33Z",
+    "updated_at": "2026-08-28T18:20:10Z",
+    "pushed_at": "2026-08-27T02:18:54Z"
+  },
+  {
+    "id": 1350177196,
+    "name": "hermes-patches",
+    "full_name": "shali10/hermes-patches",
+    "owner": {
+      "login": "shali10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99240403?v=4"
+    },
+    "description": "🛠️ Hermes Agent 体验增强补丁与扩展插件 | Non-intrusive patches for Hermes Agent (Token metrics, CJK native tables, menu localization, DB guards)",
+    "topics": [
+      "agent",
+      "cjk",
+      "devops",
+      "durability",
+      "hermes",
+      "hermes-agent",
+      "hermes-patches",
+      "patches",
+      "python",
+      "sqlite",
+      "telegram",
+      "telegram-bot"
+    ],
+    "html_url": "https://github.com/shali10/hermes-patches",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T01:33:57Z",
+    "updated_at": "2026-08-29T13:09:35Z",
+    "pushed_at": "2026-08-29T13:09:00Z"
+  },
+  {
+    "id": 1347765418,
+    "name": "harness-arena",
+    "full_name": "Ondemand-OSS/harness-arena",
+    "owner": {
+      "login": "Ondemand-OSS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321545003?v=4"
+    },
+    "description": "Blind, LMSYS-style arena for comparing AI coding agent harnesses (Claude Code, Codex CLI, OpenClaw, Hermes, OnDemand) instead of models. Same task, same model, isolated runs , humans judge blind, results roll up into an Elo leaderboard. FastAPI + MongoDB backend.",
+    "topics": [
+      "agentic-ai",
+      "arena",
+      "benchmark",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "harness",
+      "harness-ai",
+      "hermes",
+      "leaderboard",
+      "llm",
+      "llm-agents",
+      "llm-evaluation",
+      "open-source",
+      "openclaw",
+      "opencode"
+    ],
+    "html_url": "https://github.com/Ondemand-OSS/harness-arena",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T20:20:45Z",
+    "updated_at": "2026-08-29T08:34:09Z",
+    "pushed_at": "2026-08-29T08:33:13Z"
+  },
+  {
+    "id": 1347189793,
+    "name": "halt-long-horizon-tasks",
+    "full_name": "gootf/halt-long-horizon-tasks",
+    "owner": {
+      "login": "gootf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205808520?v=4"
+    },
+    "description": "A reliability layer for long-running AI agents - progress survives crashes, context loss, and executor changes without relying on chat history. Ships as a normative spec, an installable agent skill, and a stdlib-only Python reference runtime.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-skill",
+      "fault-tolerance",
+      "hermes",
+      "long-horizon-tasks",
+      "process-specification",
+      "resumability",
+      "state-management",
+      "workflow-orchestration"
+    ],
+    "html_url": "https://github.com/gootf/halt-long-horizon-tasks",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T10:18:08Z",
+    "updated_at": "2026-08-26T12:04:51Z",
+    "pushed_at": "2026-08-26T11:05:53Z"
+  },
+  {
+    "id": 1350012282,
+    "name": "talaria",
+    "full_name": "MFoxx/talaria",
+    "owner": {
+      "login": "MFoxx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43418774?v=4"
+    },
+    "description": "Orchestrate coding-agent sessions on remote machines over SSH.",
+    "topics": [
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "networking",
+      "orchestration",
+      "ssh",
+      "ssh-tunnel",
+      "tailscale"
+    ],
+    "html_url": "https://github.com/MFoxx/talaria",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-28T20:33:45Z",
+    "updated_at": "2026-08-30T19:27:14Z",
+    "pushed_at": "2026-08-30T19:26:35Z"
+  },
+  {
+    "id": 1350775328,
+    "name": "skill-vet",
+    "full_name": "ruslanlap/skill-vet",
+    "owner": {
+      "login": "ruslanlap",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106077551?v=4"
+    },
+    "description": "Vet AI agent skills (SKILL.md, MCP bundles, Cursor rules) before your agent runs them. Prompt injection, exfil, cred harvesting — zero deps, one file.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "hermes",
+      "mcp",
+      "prompt-injection",
+      "security",
+      "skill",
+      "static-analysis",
+      "supply-chain-security"
+    ],
+    "html_url": "https://github.com/ruslanlap/skill-vet",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T17:19:01Z",
+    "updated_at": "2026-08-30T07:38:25Z",
+    "pushed_at": "2026-08-30T07:38:21Z"
+  },
+  {
+    "id": 1351282619,
+    "name": "Laevi-hermes-openrouter-dashboard",
+    "full_name": "ViolinKaine/Laevi-hermes-openrouter-dashboard",
+    "owner": {
+      "login": "ViolinKaine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125495038?v=4"
+    },
+    "description": "OpenRouter usage dashboard for the Hermes Agent desktop app — credits, spend, activity, as a native page + statusbar chip",
+    "topics": [
+      "ai-agent",
+      "desktop-plugin",
+      "hermes",
+      "hermes-agent",
+      "openrouter",
+      "plugin",
+      "usage-dashboard"
+    ],
+    "html_url": "https://github.com/ViolinKaine/Laevi-hermes-openrouter-dashboard",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T09:55:28Z",
+    "updated_at": "2026-08-30T12:33:40Z",
+    "pushed_at": "2026-08-30T12:36:10Z"
+  },
+  {
+    "id": 1350261925,
+    "name": "palladia",
+    "full_name": "Nova-Caelum/palladia",
+    "owner": {
+      "login": "Nova-Caelum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309965599?v=4"
+    },
+    "description": "Palladia — a case-interview coach that remembers. Reviewed canonical package: identity, 16 skills, context-injection plugin, config spec, and the runbook that installs them. In development; not yet launched.",
+    "topics": [
+      "ai-agent",
+      "case-interview",
+      "hermes",
+      "nova-caelum",
+      "obsidian"
+    ],
+    "html_url": "https://github.com/Nova-Caelum/palladia",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T04:09:32Z",
+    "updated_at": "2026-08-29T22:51:24Z",
+    "pushed_at": "2026-08-29T22:51:19Z"
+  },
+  {
+    "id": 1347848222,
+    "name": "DropAgentXmain",
+    "full_name": "ImXforever/DropAgentXmain",
+    "owner": {
+      "login": "ImXforever",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285701648?v=4"
+    },
+    "description": "?? DropAgentX v3.0.0 - Social-commerce Telegram bot with AI agent, multi-faceted memory, identity RL, USDT treasury, and A2A/MCP integration",
+    "topics": [
+      "a2a",
+      "ai-agent",
+      "docker",
+      "fastapi",
+      "hermes",
+      "llm",
+      "marketplace",
+      "mcp",
+      "monorepo",
+      "nextjs",
+      "python",
+      "telegram-bot"
+    ],
+    "html_url": "https://github.com/ImXforever/DropAgentXmain",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T22:28:59Z",
+    "updated_at": "2026-08-28T02:43:57Z",
+    "pushed_at": "2026-08-28T22:30:14Z"
+  },
+  {
+    "id": 1346527521,
+    "name": "fintick",
+    "full_name": "msitarzewski/fintick",
+    "owner": {
+      "login": "msitarzewski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1972242?v=4"
+    },
+    "description": "Accountable financial event intelligence: measure the gap between a fast public stream and independent news confirmation.",
+    "topics": [
+      "ai",
+      "bluesky",
+      "event-intelligence",
+      "finance",
+      "hermes",
+      "python",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/msitarzewski/fintick",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T19:05:55Z",
+    "updated_at": "2026-08-28T15:29:37Z",
+    "pushed_at": "2026-08-28T15:25:39Z"
+  },
+  {
+    "id": 1347569699,
+    "name": "hermes-trafilatura",
+    "full_name": "hex-ci/hermes-trafilatura",
+    "owner": {
+      "login": "hex-ci",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13709?v=4"
+    },
+    "description": "Keyless self-hosted content extraction provider for Hermes Agent — Trafilatura + BeautifulSoup fallback, SSRF-safe",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "plugin",
+      "readability",
+      "trafilatura",
+      "web-extract"
+    ],
+    "html_url": "https://github.com/hex-ci/hermes-trafilatura",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T16:43:38Z",
+    "updated_at": "2026-08-26T17:36:03Z",
+    "pushed_at": "2026-08-26T17:15:50Z"
+  },
+  {
+    "id": 1346404396,
+    "name": "oh-my-privacy",
+    "full_name": "BULDEE/oh-my-privacy",
+    "owner": {
+      "login": "BULDEE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220904750?v=4"
+    },
+    "description": "Blocks secrets before they reach an AI agent's context. Claude Code and Hermes Agent hooks, zero dependencies beyond Python 3.11+.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "guardrail",
+      "hermes",
+      "hooks",
+      "llm-security",
+      "plugin",
+      "python",
+      "secrets",
+      "secrets-management",
+      "security"
+    ],
+    "html_url": "https://github.com/BULDEE/oh-my-privacy",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-08-25T17:02:55Z",
+    "updated_at": "2026-08-27T13:09:58Z",
+    "pushed_at": "2026-08-27T13:02:10Z"
+  },
+  {
+    "id": 1345580818,
+    "name": "tabbyx",
+    "full_name": "anyforge/tabbyx",
+    "owner": {
+      "login": "anyforge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208942779?v=4"
+    },
+    "description": "A terminal for a more modern age",
+    "topics": [
+      "hermes",
+      "serial",
+      "sftp",
+      "ssh",
+      "ssh-client",
+      "tabby",
+      "telnet",
+      "terminal"
+    ],
+    "html_url": "https://github.com/anyforge/tabbyx",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 67,
+    "created_at": "2026-08-25T02:04:46Z",
+    "updated_at": "2026-08-27T07:45:38Z",
+    "pushed_at": "2026-08-27T04:58:54Z"
+  },
+  {
+    "id": 1345904432,
+    "name": "cc-switch-headless",
+    "full_name": "tiezbro/cc-switch-headless",
+    "owner": {
+      "login": "tiezbro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230568466?v=4"
+    },
+    "description": "A headless Linux All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Community-maintained for servers without a GUI; not an official CC Switch release.",
+    "topics": [
+      "ai-tools",
+      "cc-switch",
+      "claude-code",
+      "codex",
+      "community",
+      "grok",
+      "grokbuild",
+      "headless",
+      "hermes",
+      "hermes-agent",
+      "linux",
+      "mcp",
+      "open-source",
+      "openclaw",
+      "opencode",
+      "provider-management",
+      "rust",
+      "skills",
+      "skills-management",
+      "systemd"
+    ],
+    "html_url": "https://github.com/tiezbro/cc-switch-headless",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T09:00:36Z",
+    "updated_at": "2026-08-25T10:39:05Z",
+    "pushed_at": "2026-08-25T10:35:23Z"
+  },
+  {
+    "id": 1349195022,
+    "name": "daemonaudit",
+    "full_name": "TLLABS-dev/daemonaudit",
+    "owner": {
+      "login": "TLLABS-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321906196?v=4"
+    },
+    "description": "Red/blue security audit for self-hosted AI agent daemons — finds the secrets, the open doors, and the blast radius.",
+    "topics": [
+      "agent-security",
+      "ai-agents",
+      "blue-team",
+      "cli",
+      "hermes",
+      "llm-security",
+      "mcp",
+      "nous-research",
+      "python",
+      "red-team",
+      "secrets-detection",
+      "security",
+      "security-audit",
+      "security-tools",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/TLLABS-dev/daemonaudit",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T04:22:29Z",
+    "updated_at": "2026-08-29T21:35:30Z",
+    "pushed_at": "2026-08-29T21:27:55Z"
+  },
+  {
+    "id": 1351473940,
+    "name": "osint-skills",
+    "full_name": "ibnaleem/osint-skills",
+    "owner": {
+      "login": "ibnaleem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134088573?v=4"
+    },
+    "description": "OSINT skills for your agents - search, investigate, verify.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "cybersecurity",
+      "grok",
+      "hermes",
+      "hermes-agent",
+      "mcp",
+      "omp",
+      "openclaw",
+      "openclaw-skills",
+      "opencode",
+      "pi",
+      "skills"
+    ],
+    "html_url": "https://github.com/ibnaleem/osint-skills",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T14:40:35Z",
+    "updated_at": "2026-08-30T15:16:31Z",
+    "pushed_at": "2026-08-30T15:16:03Z"
+  },
+  {
+    "id": 1344546265,
+    "name": "opencodex-usage-meter",
+    "full_name": "Vocllum/opencodex-usage-meter",
+    "owner": {
+      "login": "Vocllum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149675937?v=4"
+    },
+    "description": "Hermes Desktop 状态栏中的 OpenCodex 多账户额度与用量监控插件，支持 Provider/子账户固定、后台刷新、重置时间查看与本地只读数据流。",
+    "topics": [
+      "desktop-plugin",
+      "hermes",
+      "hermes-plugin",
+      "opencodex",
+      "quota-monitor",
+      "usage-meter"
+    ],
+    "html_url": "https://github.com/Vocllum/opencodex-usage-meter",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-24T04:45:13Z",
+    "updated_at": "2026-08-25T06:36:33Z",
+    "pushed_at": "2026-08-24T06:44:52Z"
+  },
+  {
+    "id": 1349867809,
+    "name": "hermes-delegate-agy",
+    "full_name": "matheusdmlopes/hermes-delegate-agy",
+    "owner": {
+      "login": "matheusdmlopes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115191427?v=4"
+    },
+    "description": "delegate-agy is a native Hermes Agent tool plugin that delegates complex sub-tasks, deep research, code implementation, and multi-model reviews to local Antigravity CLI (agy) workers.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-desktop",
+      "hermes-plugin"
+    ],
+    "html_url": "https://github.com/matheusdmlopes/hermes-delegate-agy",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T17:26:37Z",
+    "updated_at": "2026-08-29T22:15:01Z",
+    "pushed_at": "2026-08-29T21:55:35Z"
+  },
+  {
+    "id": 1348518506,
+    "name": "clawtalk-plugin-hermes",
+    "full_name": "team-telnyx/clawtalk-plugin-hermes",
+    "owner": {
+      "login": "team-telnyx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10522416?v=4"
+    },
+    "description": "Voice calls, SMS, missions, and push approvals for Hermes Agent, via ClawTalk. Python port of team-telnyx/clawtalk-plugin.",
+    "topics": [
+      "clawtalk",
+      "hermes",
+      "hermes-agent",
+      "plugin",
+      "python",
+      "sms",
+      "telnyx",
+      "voice-ai"
+    ],
+    "html_url": "https://github.com/team-telnyx/clawtalk-plugin-hermes",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T13:22:00Z",
+    "updated_at": "2026-08-27T13:35:24Z",
+    "pushed_at": "2026-08-28T14:59:33Z"
+  },
+  {
+    "id": 1350275088,
+    "name": "multi-model-showcase",
+    "full_name": "matheusdmlopes/multi-model-showcase",
+    "owner": {
+      "login": "matheusdmlopes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115191427?v=4"
+    },
+    "description": "Mini project built entirely by Antigravity models via the delegate_agy Hermes plugin. One test file per model — proves cross-family support end-to-end.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-desktop",
+      "hermes-managed",
+      "hermes-plugin"
+    ],
+    "html_url": "https://github.com/matheusdmlopes/multi-model-showcase",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T04:35:31Z",
+    "updated_at": "2026-08-29T22:15:25Z",
+    "pushed_at": "2026-08-29T20:40:57Z"
+  }
+]
