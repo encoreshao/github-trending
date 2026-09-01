@@ -1,0 +1,529 @@
+[
+  {
+    "id": 1333065091,
+    "name": "deepseek-harness",
+    "full_name": "deepseek-ai/deepseek-harness",
+    "owner": {
+      "login": "deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "description": "DeepSeek Harness: Everything is a Plugin.",
+    "topics": [
+      "ai-agents",
+      "cordis",
+      "dsh",
+      "dsh-plugin"
+    ],
+    "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+    "stargazers_count": 206589,
+    "language": "TypeScript",
+    "forks_count": 23994,
+    "open_issues_count": 0,
+    "created_at": "2026-08-13T11:56:32Z",
+    "updated_at": "2026-09-01T02:03:52Z",
+    "pushed_at": "2026-08-31T16:03:39Z"
+  },
+  {
+    "id": 1266797999,
+    "name": "ponytail",
+    "full_name": "DietrichGebert/ponytail",
+    "owner": {
+      "login": "DietrichGebert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
+    },
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "html_url": "https://github.com/DietrichGebert/ponytail",
+    "stargazers_count": 118378,
+    "language": "JavaScript",
+    "forks_count": 6442,
+    "open_issues_count": 188,
+    "created_at": "2026-06-12T00:52:37Z",
+    "updated_at": "2026-09-01T02:05:00Z",
+    "pushed_at": "2026-08-07T21:44:01Z"
+  },
+  {
+    "id": 1286080397,
+    "name": "colibri",
+    "full_name": "JustVugg/colibri",
+    "owner": {
+      "login": "JustVugg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13022503?v=4"
+    },
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "topics": [],
+    "html_url": "https://github.com/JustVugg/colibri",
+    "stargazers_count": 26549,
+    "language": "C",
+    "forks_count": 2910,
+    "open_issues_count": 93,
+    "created_at": "2026-07-01T12:27:49Z",
+    "updated_at": "2026-09-01T02:04:49Z",
+    "pushed_at": "2026-08-31T18:44:54Z"
+  },
+  {
+    "id": 1300902838,
+    "name": "grok-build",
+    "full_name": "xai-org/grok-build",
+    "owner": {
+      "login": "xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+    "topics": [],
+    "html_url": "https://github.com/xai-org/grok-build",
+    "stargazers_count": 26300,
+    "language": "Rust",
+    "forks_count": 4946,
+    "open_issues_count": 0,
+    "created_at": "2026-07-14T20:04:23Z",
+    "updated_at": "2026-09-01T01:58:46Z",
+    "pushed_at": "2026-08-31T17:40:39Z"
+  },
+  {
+    "id": 1273138090,
+    "name": "Unlimited-OCR",
+    "full_name": "baidu/Unlimited-OCR",
+    "owner": {
+      "login": "baidu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13245940?v=4"
+    },
+    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+    "topics": [],
+    "html_url": "https://github.com/baidu/Unlimited-OCR",
+    "stargazers_count": 24942,
+    "language": "Python",
+    "forks_count": 2587,
+    "open_issues_count": 78,
+    "created_at": "2026-06-18T08:40:15Z",
+    "updated_at": "2026-09-01T01:49:50Z",
+    "pushed_at": "2026-07-29T04:37:03Z"
+  },
+  {
+    "id": 1333321333,
+    "name": "dsh-desktop",
+    "full_name": "anywhere-labs/dsh-desktop",
+    "owner": {
+      "login": "anywhere-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286827603?v=4"
+    },
+    "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+    "topics": [
+      "cordis",
+      "cordis-plugin",
+      "deepseek",
+      "deepseek-harness",
+      "desktop",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-desktop"
+    ],
+    "html_url": "https://github.com/anywhere-labs/dsh-desktop",
+    "stargazers_count": 22476,
+    "language": "TypeScript",
+    "forks_count": 1103,
+    "open_issues_count": 301,
+    "created_at": "2026-08-13T16:30:50Z",
+    "updated_at": "2026-09-01T02:02:32Z",
+    "pushed_at": "2026-08-30T14:54:54Z"
+  },
+  {
+    "id": 1331135699,
+    "name": "watermarks-remover",
+    "full_name": "guillaumemeyer/watermarks-remover",
+    "owner": {
+      "login": "guillaumemeyer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1385518?v=4"
+    },
+    "description": "A privacy-first app that strips AI watermarks from content you own.",
+    "topics": [
+      "agent-skill",
+      "ai",
+      "anthropic",
+      "c2pa",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "openai",
+      "provenance",
+      "synthid",
+      "watermark",
+      "watermark-detection",
+      "watermark-tools",
+      "watermarking",
+      "watermarks"
+    ],
+    "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "stargazers_count": 19689,
+    "language": "Python",
+    "forks_count": 2289,
+    "open_issues_count": 11,
+    "created_at": "2026-08-11T16:32:38Z",
+    "updated_at": "2026-09-01T02:01:33Z",
+    "pushed_at": "2026-09-01T01:55:36Z"
+  },
+  {
+    "id": 1322012299,
+    "name": "anydoc",
+    "full_name": "firecrawl/anydoc",
+    "owner": {
+      "login": "firecrawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
+    },
+    "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+    "topics": [],
+    "html_url": "https://github.com/firecrawl/anydoc",
+    "stargazers_count": 19687,
+    "language": "Rust",
+    "forks_count": 1177,
+    "open_issues_count": 76,
+    "created_at": "2026-08-03T16:36:14Z",
+    "updated_at": "2026-09-01T02:01:37Z",
+    "pushed_at": "2026-08-28T02:13:16Z"
+  },
+  {
+    "id": 1306128367,
+    "name": "openworker",
+    "full_name": "andrewyng/openworker",
+    "owner": {
+      "login": "andrewyng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3710007?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/andrewyng/openworker",
+    "stargazers_count": 17129,
+    "language": "Python",
+    "forks_count": 2389,
+    "open_issues_count": 451,
+    "created_at": "2026-07-20T01:52:32Z",
+    "updated_at": "2026-09-01T01:56:10Z",
+    "pushed_at": "2026-08-31T18:13:02Z"
+  },
+  {
+    "id": 1277477208,
+    "name": "openwiki",
+    "full_name": "langchain-ai/openwiki",
+    "owner": {
+      "login": "langchain-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4"
+    },
+    "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+    "topics": [],
+    "html_url": "https://github.com/langchain-ai/openwiki",
+    "stargazers_count": 15914,
+    "language": "TypeScript",
+    "forks_count": 1152,
+    "open_issues_count": 137,
+    "created_at": "2026-06-22T23:48:26Z",
+    "updated_at": "2026-09-01T01:55:58Z",
+    "pushed_at": "2026-08-31T14:54:32Z"
+  },
+  {
+    "id": 1301140808,
+    "name": "img2threejs",
+    "full_name": "img2threejs/img2threejs",
+    "owner": {
+      "login": "img2threejs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309001690?v=4"
+    },
+    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+    "topics": [
+      "3d",
+      "ai-agents",
+      "claude-code",
+      "computer-graphics",
+      "generative",
+      "image-to-3d",
+      "procedural-generation",
+      "threejs",
+      "typescript",
+      "webgl"
+    ],
+    "html_url": "https://github.com/img2threejs/img2threejs",
+    "stargazers_count": 14749,
+    "language": "Python",
+    "forks_count": 1192,
+    "open_issues_count": 77,
+    "created_at": "2026-07-15T02:58:39Z",
+    "updated_at": "2026-09-01T01:56:20Z",
+    "pushed_at": "2026-08-31T09:28:46Z"
+  },
+  {
+    "id": 1277471539,
+    "name": "gods-eye-view",
+    "full_name": "bilawalsidhu/gods-eye-view",
+    "owner": {
+      "login": "bilawalsidhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106619546?v=4"
+    },
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "topics": [
+      "3d-globe",
+      "cesium",
+      "flight-tracking",
+      "geospatial",
+      "geospatial-intelligence",
+      "gis",
+      "osint",
+      "photogrammetry",
+      "satellite-tracking",
+      "spatial-intelligence",
+      "webgl",
+      "worldview"
+    ],
+    "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "stargazers_count": 14647,
+    "language": "JavaScript",
+    "forks_count": 2923,
+    "open_issues_count": 104,
+    "created_at": "2026-06-22T23:37:22Z",
+    "updated_at": "2026-09-01T02:04:54Z",
+    "pushed_at": "2026-09-01T00:00:35Z"
+  },
+  {
+    "id": 1316527318,
+    "name": "qm",
+    "full_name": "yc-software/qm",
+    "owner": {
+      "login": "yc-software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
+    },
+    "description": "Multiplayer agent harness for work.",
+    "topics": [
+      "ai",
+      "assistant",
+      "harness",
+      "qm"
+    ],
+    "html_url": "https://github.com/yc-software/qm",
+    "stargazers_count": 14396,
+    "language": "TypeScript",
+    "forks_count": 1745,
+    "open_issues_count": 372,
+    "created_at": "2026-07-29T20:03:08Z",
+    "updated_at": "2026-09-01T01:56:51Z",
+    "pushed_at": "2026-08-31T20:44:45Z"
+  },
+  {
+    "id": 1301597356,
+    "name": "Codex-Dream-Skin",
+    "full_name": "Fei-Away/Codex-Dream-Skin",
+    "owner": {
+      "login": "Fei-Away",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100042407?v=4"
+    },
+    "description": "Codex Dream Skin",
+    "topics": [],
+    "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "stargazers_count": 14235,
+    "language": "JavaScript",
+    "forks_count": 1353,
+    "open_issues_count": 49,
+    "created_at": "2026-07-15T12:34:51Z",
+    "updated_at": "2026-09-01T01:49:34Z",
+    "pushed_at": "2026-08-28T02:02:26Z"
+  },
+  {
+    "id": 1267485499,
+    "name": "vorssaint-utils",
+    "full_name": "vorssaintapp/vorssaint-utils",
+    "owner": {
+      "login": "vorssaintapp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320531393?v=4"
+    },
+    "description": "Free and open-source macOS menu bar toolkit.",
+    "topics": [
+      "alt-tab",
+      "app-uninstaller",
+      "appkit",
+      "finder",
+      "free",
+      "keep-awake",
+      "mac-os",
+      "menu-bar",
+      "menubar",
+      "open-source",
+      "swift",
+      "swift-ui",
+      "system-monitor",
+      "uninstaller",
+      "volume-mixer",
+      "window-switcher"
+    ],
+    "html_url": "https://github.com/vorssaintapp/vorssaint-utils",
+    "stargazers_count": 14232,
+    "language": "Swift",
+    "forks_count": 482,
+    "open_issues_count": 339,
+    "created_at": "2026-06-12T15:25:43Z",
+    "updated_at": "2026-09-01T01:56:59Z",
+    "pushed_at": "2026-09-01T02:04:48Z"
+  },
+  {
+    "id": 1333175049,
+    "name": "awesome-dsh-plugin",
+    "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+    "owner": {
+      "login": "awesome-dsh-plugin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316603077?v=4"
+    },
+    "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin"
+    ],
+    "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+    "stargazers_count": 13907,
+    "language": "Python",
+    "forks_count": 2427,
+    "open_issues_count": 365,
+    "created_at": "2026-08-13T13:55:31Z",
+    "updated_at": "2026-09-01T02:04:43Z",
+    "pushed_at": "2026-08-31T13:19:38Z"
+  },
+  {
+    "id": 1265025028,
+    "name": "MiMo-Code",
+    "full_name": "XiaomiMiMo/MiMo-Code",
+    "owner": {
+      "login": "XiaomiMiMo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
+    },
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "mimo",
+      "mimo-code"
+    ],
+    "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "stargazers_count": 12914,
+    "language": "TypeScript",
+    "forks_count": 1335,
+    "open_issues_count": 962,
+    "created_at": "2026-06-10T11:52:41Z",
+    "updated_at": "2026-08-31T23:18:42Z",
+    "pushed_at": "2026-08-31T15:56:17Z"
+  },
+  {
+    "id": 1273824907,
+    "name": "opencodex",
+    "full_name": "lidge-jun/opencodex",
+    "owner": {
+      "login": "lidge-jun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243035832?v=4"
+    },
+    "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+    "topics": [
+      "ai-gateway",
+      "ai-tools",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "deepseek",
+      "developer-tools",
+      "gemini",
+      "grok",
+      "kiro",
+      "llm",
+      "llm-proxy",
+      "ollama",
+      "openai",
+      "openrouter",
+      "proxy",
+      "typescript"
+    ],
+    "html_url": "https://github.com/lidge-jun/opencodex",
+    "stargazers_count": 12739,
+    "language": "TypeScript",
+    "forks_count": 939,
+    "open_issues_count": 103,
+    "created_at": "2026-06-18T23:03:18Z",
+    "updated_at": "2026-09-01T01:59:35Z",
+    "pushed_at": "2026-09-01T01:51:16Z"
+  },
+  {
+    "id": 1263648864,
+    "name": "loop-engineering",
+    "full_name": "cobusgreyling/loop-engineering",
+    "owner": {
+      "login": "cobusgreyling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7868717?v=4"
+    },
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-coding",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "devops-automation",
+      "devtools",
+      "github-actions",
+      "grok",
+      "llm",
+      "loop-engineering",
+      "mcp",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/cobusgreyling/loop-engineering",
+    "stargazers_count": 10781,
+    "language": "TypeScript",
+    "forks_count": 1476,
+    "open_issues_count": 8,
+    "created_at": "2026-06-09T06:28:20Z",
+    "updated_at": "2026-09-01T01:57:51Z",
+    "pushed_at": "2026-08-31T19:37:13Z"
+  },
+  {
+    "id": 1307001698,
+    "name": "FreeToken",
+    "full_name": "FlashML-org/FreeToken",
+    "owner": {
+      "login": "FlashML-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286493426?v=4"
+    },
+    "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+    "topics": [
+      "deepseek-v4",
+      "edge",
+      "glm",
+      "inference",
+      "minimax",
+      "moe",
+      "qwen",
+      "transformer"
+    ],
+    "html_url": "https://github.com/FlashML-org/FreeToken",
+    "stargazers_count": 10650,
+    "language": "Python",
+    "forks_count": 988,
+    "open_issues_count": 252,
+    "created_at": "2026-07-20T20:44:11Z",
+    "updated_at": "2026-09-01T02:00:45Z",
+    "pushed_at": "2026-09-01T00:42:42Z"
+  }
+]
