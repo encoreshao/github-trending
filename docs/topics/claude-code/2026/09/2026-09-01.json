@@ -1,0 +1,594 @@
+[
+  {
+    "id": 1349253750,
+    "name": "sepia",
+    "full_name": "Nanako0129/sepia",
+    "owner": {
+      "login": "Nanako0129",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44753291?v=4"
+    },
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "fiction",
+      "grok",
+      "humanizer",
+      "llm",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "html_url": "https://github.com/Nanako0129/sepia",
+    "stargazers_count": 1240,
+    "language": null,
+    "forks_count": 73,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T05:56:49Z",
+    "updated_at": "2026-09-01T01:58:57Z",
+    "pushed_at": "2026-08-31T12:36:41Z"
+  },
+  {
+    "id": 1349898907,
+    "name": "headcount",
+    "full_name": "cbrock84/headcount",
+    "owner": {
+      "login": "cbrock84",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15268570?v=4"
+    },
+    "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+    "topics": [
+      "agent-marketplace",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "claude-skills",
+      "mcp"
+    ],
+    "html_url": "https://github.com/cbrock84/headcount",
+    "stargazers_count": 855,
+    "language": "Markdown",
+    "forks_count": 129,
+    "open_issues_count": 2,
+    "created_at": "2026-08-28T18:03:04Z",
+    "updated_at": "2026-09-01T01:53:04Z",
+    "pushed_at": "2026-09-01T01:17:11Z"
+  },
+  {
+    "id": 1348572094,
+    "name": "tokentab",
+    "full_name": "damejan80/tokentab",
+    "owner": {
+      "login": "damejan80",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15242181?v=4"
+    },
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "cursor",
+      "python",
+      "token-optimization",
+      "token-usage"
+    ],
+    "html_url": "https://github.com/damejan80/tokentab",
+    "stargazers_count": 681,
+    "language": "Python",
+    "forks_count": 137,
+    "open_issues_count": 1,
+    "created_at": "2026-08-27T14:16:09Z",
+    "updated_at": "2026-09-01T01:53:02Z",
+    "pushed_at": "2026-08-27T14:20:23Z"
+  },
+  {
+    "id": 1348793218,
+    "name": "my-free-code",
+    "full_name": "hkqr/my-free-code",
+    "owner": {
+      "login": "hkqr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153429021?v=4"
+    },
+    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+    "topics": [
+      "ai",
+      "claude-code",
+      "free-claude-api",
+      "multi-provider",
+      "multi-provider-llm"
+    ],
+    "html_url": "https://github.com/hkqr/my-free-code",
+    "stargazers_count": 608,
+    "language": "Python",
+    "forks_count": 211,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T17:59:23Z",
+    "updated_at": "2026-09-01T01:58:29Z",
+    "pushed_at": "2026-08-28T09:02:17Z"
+  },
+  {
+    "id": 1347890919,
+    "name": "fire-your-seo-agency",
+    "full_name": "leopard627/fire-your-seo-agency",
+    "owner": {
+      "login": "leopard627",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16227780?v=4"
+    },
+    "description": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
+    "topics": [
+      "aeo",
+      "ai-search",
+      "claude-code",
+      "claude-skills",
+      "geo",
+      "llmo",
+      "llms-txt",
+      "naver",
+      "seo"
+    ],
+    "html_url": "https://github.com/leopard627/fire-your-seo-agency",
+    "stargazers_count": 380,
+    "language": null,
+    "forks_count": 98,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T23:47:02Z",
+    "updated_at": "2026-08-31T17:52:55Z",
+    "pushed_at": "2026-08-27T06:26:41Z"
+  },
+  {
+    "id": 1348967729,
+    "name": "sun-style-writing",
+    "full_name": "KKKKhazix/sun-style-writing",
+    "owner": {
+      "login": "KKKKhazix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
+    },
+    "description": "从孙割19年白月光的痛彻心扉中蒸馏出来的无上心法",
+    "topics": [
+      "agent-skills",
+      "chinese-writing",
+      "claude-code",
+      "codex",
+      "literary-writing",
+      "prompt-engineering",
+      "writing"
+    ],
+    "html_url": "https://github.com/KKKKhazix/sun-style-writing",
+    "stargazers_count": 351,
+    "language": null,
+    "forks_count": 61,
+    "open_issues_count": 6,
+    "created_at": "2026-08-27T21:39:36Z",
+    "updated_at": "2026-08-31T19:42:19Z",
+    "pushed_at": "2026-08-27T22:14:03Z"
+  },
+  {
+    "id": 1347113909,
+    "name": "gpt-image-skill",
+    "full_name": "GENEXIS-AI/gpt-image-skill",
+    "owner": {
+      "login": "GENEXIS-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131945398?v=4"
+    },
+    "description": "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
+    "topics": [
+      "agent-skills",
+      "chatgpt",
+      "claude-code",
+      "codex",
+      "gpt-image",
+      "image-generation"
+    ],
+    "html_url": "https://github.com/GENEXIS-AI/gpt-image-skill",
+    "stargazers_count": 156,
+    "language": "JavaScript",
+    "forks_count": 19,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T08:52:50Z",
+    "updated_at": "2026-09-01T00:52:12Z",
+    "pushed_at": "2026-08-28T05:15:07Z"
+  },
+  {
+    "id": 1350970233,
+    "name": "forward-implementation-first",
+    "full_name": "Vuk97/forward-implementation-first",
+    "owner": {
+      "login": "Vuk97",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38386018?v=4"
+    },
+    "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "agentskills",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "developer-tools",
+      "llm",
+      "llm-agents",
+      "openai",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/Vuk97/forward-implementation-first",
+    "stargazers_count": 155,
+    "language": "Shell",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T23:16:12Z",
+    "updated_at": "2026-09-01T01:24:08Z",
+    "pushed_at": "2026-08-31T13:46:22Z"
+  },
+  {
+    "id": 1346230651,
+    "name": "open-steps",
+    "full_name": "kharmanskyi/open-steps",
+    "owner": {
+      "login": "kharmanskyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145896518?v=4"
+    },
+    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "claude-skill",
+      "prompt-optimization",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/kharmanskyi/open-steps",
+    "stargazers_count": 135,
+    "language": "Shell",
+    "forks_count": 43,
+    "open_issues_count": 10,
+    "created_at": "2026-08-25T14:24:24Z",
+    "updated_at": "2026-08-31T19:10:16Z",
+    "pushed_at": "2026-08-31T09:54:01Z"
+  },
+  {
+    "id": 1345791392,
+    "name": "OpenTrade-Agent",
+    "full_name": "MariusOTB/OpenTrade-Agent",
+    "owner": {
+      "login": "MariusOTB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128937352?v=4"
+    },
+    "description": "The open-source trading harness for agents",
+    "topics": [
+      "agent",
+      "claude-code",
+      "codex",
+      "robinhood",
+      "robinhood-chain"
+    ],
+    "html_url": "https://github.com/MariusOTB/OpenTrade-Agent",
+    "stargazers_count": 130,
+    "language": "TypeScript",
+    "forks_count": 199,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T06:51:42Z",
+    "updated_at": "2026-08-30T22:51:42Z",
+    "pushed_at": "2026-08-25T07:05:00Z"
+  },
+  {
+    "id": 1349407416,
+    "name": "genart-skill",
+    "full_name": "camilleroux/genart-skill",
+    "owner": {
+      "login": "camilleroux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25977?v=4"
+    },
+    "description": "Generative art skill for Claude Code — deterministic, hash-seeded, onchain-ready",
+    "topics": [
+      "algorithmic-art",
+      "art-blocks",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "claude-skills",
+      "creative-coding",
+      "generative-art",
+      "nft",
+      "onchain-art",
+      "p5js",
+      "pen-plotter",
+      "threejs"
+    ],
+    "html_url": "https://github.com/camilleroux/genart-skill",
+    "stargazers_count": 112,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T09:05:47Z",
+    "updated_at": "2026-09-01T00:52:47Z",
+    "pushed_at": "2026-08-29T20:42:43Z"
+  },
+  {
+    "id": 1346838955,
+    "name": "open-skill-sunset",
+    "full_name": "ooocooc/open-skill-sunset",
+    "owner": {
+      "login": "ooocooc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49831444?v=4"
+    },
+    "description": "Local, read-only audit for stale AGENTS.md, CLAUDE.md, and generic SKILL.md instructions.",
+    "topics": [
+      "agent-skills",
+      "agents-md",
+      "claude-code",
+      "codex",
+      "context-management",
+      "developer-tools",
+      "prompt-engineering",
+      "static-analysis"
+    ],
+    "html_url": "https://github.com/ooocooc/open-skill-sunset",
+    "stargazers_count": 88,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T02:55:18Z",
+    "updated_at": "2026-09-01T01:52:33Z",
+    "pushed_at": "2026-09-01T01:52:26Z"
+  },
+  {
+    "id": 1347032814,
+    "name": "Ronnier-skill",
+    "full_name": "Ayueh0102/Ronnier-skill",
+    "owner": {
+      "login": "Ayueh0102",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110663656?v=4"
+    },
+    "description": "色彩科學／色度學完整中文學習筆記，包裝成 Claude Code skill，也支援 Codex。涵蓋 CIE 色度學、CIEDE2000、CIECAM02、色適應與演色性。",
+    "topics": [
+      "agent-md",
+      "ciecam02",
+      "ciede2000",
+      "cielab",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "color-appearance",
+      "color-science",
+      "colorimetry"
+    ],
+    "html_url": "https://github.com/Ayueh0102/Ronnier-skill",
+    "stargazers_count": 87,
+    "language": "PowerShell",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T07:18:38Z",
+    "updated_at": "2026-08-30T16:00:42Z",
+    "pushed_at": "2026-08-26T09:02:00Z"
+  },
+  {
+    "id": 1351819100,
+    "name": "agent-notion-template-docs",
+    "full_name": "heyman333/agent-notion-template-docs",
+    "owner": {
+      "login": "heyman333",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22214150?v=4"
+    },
+    "description": "Make your AI agent write documents like Notion — Claude Code skill that locks document structure & Notion visual style",
+    "topics": [
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "documentation",
+      "notion",
+      "skill"
+    ],
+    "html_url": "https://github.com/heyman333/agent-notion-template-docs",
+    "stargazers_count": 53,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T23:36:34Z",
+    "updated_at": "2026-09-01T01:20:41Z",
+    "pushed_at": "2026-09-01T00:16:10Z"
+  },
+  {
+    "id": 1350443870,
+    "name": "brink",
+    "full_name": "semihtalii/brink",
+    "owner": {
+      "login": "semihtalii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209684418?v=4"
+    },
+    "description": "Know when you're on the brink — Claude Code, Codex & Cursor usage limits on the edge of your Mac or Windows screen, and which project spent them",
+    "topics": [
+      "claude-code",
+      "codex",
+      "cursor",
+      "dotnet",
+      "liquid-glass",
+      "macos",
+      "menubar",
+      "swift",
+      "swiftui",
+      "usage",
+      "windows",
+      "wpf"
+    ],
+    "html_url": "https://github.com/semihtalii/brink",
+    "stargazers_count": 52,
+    "language": "Swift",
+    "forks_count": 6,
+    "open_issues_count": 5,
+    "created_at": "2026-08-29T09:18:33Z",
+    "updated_at": "2026-08-31T22:36:06Z",
+    "pushed_at": "2026-08-31T14:35:40Z"
+  },
+  {
+    "id": 1351601873,
+    "name": "gameops-investigator",
+    "full_name": "nickname21kmr/gameops-investigator",
+    "owner": {
+      "login": "nickname21kmr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210969119?v=4"
+    },
+    "description": "Evidence-first game operations incident investigation agent with read-only MCP tools and reproducible evaluations.",
+    "topics": [
+      "anomaly-detection",
+      "claude-code",
+      "game-analytics",
+      "llm-evaluation",
+      "mcp",
+      "sqlite",
+      "streamlit",
+      "text-to-sql"
+    ],
+    "html_url": "https://github.com/nickname21kmr/gameops-investigator",
+    "stargazers_count": 52,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T17:28:16Z",
+    "updated_at": "2026-08-31T16:52:24Z",
+    "pushed_at": "2026-08-31T07:23:36Z"
+  },
+  {
+    "id": 1347724565,
+    "name": "omnia-vault",
+    "full_name": "gavishap/omnia-vault",
+    "owner": {
+      "login": "gavishap",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71888304?v=4"
+    },
+    "description": "Omnia Vault - the all-in-one project brain: an Obsidian LLM wiki, Graphify code graphs, a living plan that triages new videos against itself, and a Claude Code ⇄ Codex relay. Everything your project knows, in one clonable vault.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "graphify",
+      "knowledge-graph",
+      "llm-wiki",
+      "obsidian",
+      "project-template",
+      "second-brain"
+    ],
+    "html_url": "https://github.com/gavishap/omnia-vault",
+    "stargazers_count": 45,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T19:34:54Z",
+    "updated_at": "2026-09-01T01:50:18Z",
+    "pushed_at": "2026-08-28T11:52:39Z"
+  },
+  {
+    "id": 1348997813,
+    "name": "Only-Skill-You-Need",
+    "full_name": "Endokelp/Only-Skill-You-Need",
+    "owner": {
+      "login": "Endokelp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183029581?v=4"
+    },
+    "description": "The first Agent Skill a beginner installs. Bootstraps Claude Code, Cursor, and other agents, then routes every task to the current best skill for that job.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "cursor",
+      "python"
+    ],
+    "html_url": "https://github.com/Endokelp/Only-Skill-You-Need",
+    "stargazers_count": 36,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T22:29:17Z",
+    "updated_at": "2026-08-31T01:53:11Z",
+    "pushed_at": "2026-08-27T22:48:43Z"
+  },
+  {
+    "id": 1349471322,
+    "name": "Product-to-Prod",
+    "full_name": "naderelewa/Product-to-Prod",
+    "owner": {
+      "login": "naderelewa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3886776?v=4"
+    },
+    "description": "AI product management skills and plugin for Claude Code, Cowork, Codex and other AI agents: evidence-tagged PRDs, specs, requirements, RICE prioritization, backlog and roadmap scoring, product strategy, GTM launch plans, release verification, benchmark packs, UX/UI design prompts for web and mobile apps. Every claim sourced or labelled unsourced.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-product-management",
+      "backlog",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "go-to-market",
+      "pm-tools",
+      "prioritization",
+      "product-design",
+      "product-discovery",
+      "product-launch",
+      "product-management",
+      "product-manager",
+      "product-requirements",
+      "product-roadmap",
+      "product-strategy",
+      "specs",
+      "user-stories"
+    ],
+    "html_url": "https://github.com/naderelewa/Product-to-Prod",
+    "stargazers_count": 32,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T10:18:19Z",
+    "updated_at": "2026-08-31T15:53:41Z",
+    "pushed_at": "2026-08-28T21:11:20Z"
+  },
+  {
+    "id": 1349818659,
+    "name": "vicoa",
+    "full_name": "vicoa-ai/vicoa",
+    "owner": {
+      "login": "vicoa-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249546925?v=4"
+    },
+    "description": "Vicoa is the ADE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.",
+    "topics": [
+      "ade",
+      "ai-agents",
+      "ai-orchestrator",
+      "android",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "flutter",
+      "ios",
+      "linux",
+      "mobile",
+      "nextjs",
+      "opencode",
+      "python",
+      "self-hosted",
+      "typescript",
+      "vibe-coding",
+      "vicoa",
+      "windows"
+    ],
+    "html_url": "https://github.com/vicoa-ai/vicoa",
+    "stargazers_count": 30,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T16:30:26Z",
+    "updated_at": "2026-08-31T21:07:38Z",
+    "pushed_at": "2026-08-31T15:54:21Z"
+  }
+]

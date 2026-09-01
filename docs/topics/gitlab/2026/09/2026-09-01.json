@@ -1,0 +1,564 @@
+[
+  {
+    "id": 1346840578,
+    "name": "git-rg",
+    "full_name": "SamuelSupe/git-rg",
+    "owner": {
+      "login": "SamuelSupe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193193778?v=4"
+    },
+    "description": "Remote ripgrep for GitHub and GitLab without cloning repository history",
+    "topics": [
+      "cli",
+      "code-search",
+      "github",
+      "gitlab",
+      "go",
+      "ripgrep"
+    ],
+    "html_url": "https://github.com/SamuelSupe/git-rg",
+    "stargazers_count": 4,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T02:57:36Z",
+    "updated_at": "2026-08-26T06:43:20Z",
+    "pushed_at": "2026-08-26T05:18:54Z"
+  },
+  {
+    "id": 1348622526,
+    "name": "package-manager-e1c",
+    "full_name": "yellow-hammer/package-manager-e1c",
+    "owner": {
+      "login": "yellow-hammer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200274647?v=4"
+    },
+    "description": "Расширение 1С:Предприятие 8: менеджер пакетов. Ставит расширения, внешние обработки и отчёты из GitLab Package Registry и GitHub Releases",
+    "topics": [
+      "1c-enterprise",
+      "cicd",
+      "extensions",
+      "github-releases",
+      "gitlab",
+      "package-manager"
+    ],
+    "html_url": "https://github.com/yellow-hammer/package-manager-e1c",
+    "stargazers_count": 4,
+    "language": "1C Enterprise",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T15:03:34Z",
+    "updated_at": "2026-08-31T16:50:08Z",
+    "pushed_at": "2026-08-31T16:09:27Z"
+  },
+  {
+    "id": 1351809932,
+    "name": "vitaline",
+    "full_name": "yagizkambak/vitaline",
+    "owner": {
+      "login": "yagizkambak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22718918?v=4"
+    },
+    "description": "CI pipeline status as a notch-style HUD for GitLab, GitHub Actions, and Azure DevOps — Windows & macOS, built with Tauri + React.",
+    "topics": [
+      "azure-devops",
+      "ci-cd",
+      "desktop-app",
+      "github-actions",
+      "gitlab",
+      "macos",
+      "react",
+      "rust",
+      "tauri",
+      "tray-app",
+      "typescript",
+      "windows"
+    ],
+    "html_url": "https://github.com/yagizkambak/vitaline",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T23:15:53Z",
+    "updated_at": "2026-08-31T14:17:34Z",
+    "pushed_at": "2026-08-31T14:04:32Z"
+  },
+  {
+    "id": 1347413041,
+    "name": "merge-medic",
+    "full_name": "stelsp/merge-medic",
+    "owner": {
+      "login": "stelsp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67414792?v=4"
+    },
+    "description": "AI-assisted GitLab MR conflict watcher: free bash+glab polling, edge-triggered fixers, Claude only on real conflict markers, verify gate, live TUI dashboard",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "devtools",
+      "gitlab",
+      "macos",
+      "merge-conflicts"
+    ],
+    "html_url": "https://github.com/stelsp/merge-medic",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T14:07:24Z",
+    "updated_at": "2026-08-31T12:49:36Z",
+    "pushed_at": "2026-08-31T12:48:06Z"
+  },
+  {
+    "id": 1348228424,
+    "name": "clean-closed-issue-worktrees",
+    "full_name": "haoranyu/clean-closed-issue-worktrees",
+    "owner": {
+      "login": "haoranyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2560088?v=4"
+    },
+    "description": "Safety-first agent skill for cleaning Git worktrees tied to closed GitHub or GitLab issues",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "git-worktree",
+      "github",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/haoranyu/clean-closed-issue-worktrees",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-08-27T08:07:37Z",
+    "updated_at": "2026-08-30T17:51:35Z",
+    "pushed_at": "2026-08-30T17:54:05Z"
+  },
+  {
+    "id": 1346390717,
+    "name": "opmetrics",
+    "full_name": "FrostBy/opmetrics",
+    "owner": {
+      "login": "FrostBy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2795345?v=4"
+    },
+    "description": "Self-hosted engineering-operations analytics for small software teams: delivery, cost and risk, drillable to the source record. FSL-1.1-ALv2, Apache 2.0 after two years.",
+    "topics": [
+      "analytics-dashboard",
+      "bitbucket",
+      "developer-productivity",
+      "dora-metrics",
+      "engineering-analytics",
+      "engineering-metrics",
+      "fair-source",
+      "github",
+      "gitlab",
+      "jira",
+      "mcp-server",
+      "model-context-protocol",
+      "monorepo",
+      "nestjs",
+      "postgresql",
+      "prisma",
+      "react",
+      "self-hosted",
+      "space-framework",
+      "typescript"
+    ],
+    "html_url": "https://github.com/FrostBy/opmetrics",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T16:48:29Z",
+    "updated_at": "2026-08-26T21:51:15Z",
+    "pushed_at": "2026-08-26T21:34:36Z"
+  },
+  {
+    "id": 1349393004,
+    "name": "intellij-gitlab-pipeline-notifier",
+    "full_name": "hpalma/intellij-gitlab-pipeline-notifier",
+    "owner": {
+      "login": "hpalma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199463?v=4"
+    },
+    "description": "An IntelliJ Platform plugin that watches your GitLab pipelines and makes damn sure you notice when one fails.",
+    "topics": [
+      "gitlab",
+      "intellij",
+      "intellij-idea",
+      "intellij-plugin",
+      "pipeline",
+      "pipelines"
+    ],
+    "html_url": "https://github.com/hpalma/intellij-gitlab-pipeline-notifier",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T08:49:51Z",
+    "updated_at": "2026-08-28T18:50:33Z",
+    "pushed_at": "2026-08-28T18:46:10Z"
+  },
+  {
+    "id": 1346456705,
+    "name": "repos-cli",
+    "full_name": "jeffersongoncalves/repos-cli",
+    "owner": {
+      "login": "jeffersongoncalves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/411493?v=4"
+    },
+    "description": "A multi-host bulk git repository manager built with Laravel Zero. Clone, pull, and list open issues across hundreds of repos on GitHub, GitLab, and Bitbucket from your terminal.",
+    "topics": [
+      "bitbucket",
+      "cli",
+      "devtools",
+      "git",
+      "github",
+      "gitlab",
+      "laravel-zero",
+      "php"
+    ],
+    "html_url": "https://github.com/jeffersongoncalves/repos-cli",
+    "stargazers_count": 1,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T17:56:41Z",
+    "updated_at": "2026-08-26T01:21:11Z",
+    "pushed_at": "2026-08-26T01:21:04Z"
+  },
+  {
+    "id": 1351954523,
+    "name": "gitlab2github",
+    "full_name": "radu-matei1enciu/gitlab2github",
+    "owner": {
+      "login": "radu-matei1enciu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201403777?v=4"
+    },
+    "description": "Migrate multiple repositories from GitLab to GitHub in bulk, using a CSV list with Bash and PowerShell scripts for Linux and Windows.",
+    "topics": [
+      "bash",
+      "bash-script",
+      "bash-scripting",
+      "bash-scripts",
+      "gh-cli",
+      "github",
+      "gitlab",
+      "gitlab-migration",
+      "powershell",
+      "powershell-script",
+      "powershell-scripts"
+    ],
+    "html_url": "https://github.com/radu-matei1enciu/gitlab2github",
+    "stargazers_count": 1,
+    "language": "PowerShell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T03:38:33Z",
+    "updated_at": "2026-08-31T13:42:11Z",
+    "pushed_at": "2026-08-31T13:13:45Z"
+  },
+  {
+    "id": 1345833853,
+    "name": "dsh-maestro-review",
+    "full_name": "ddtcorex/dsh-maestro-review",
+    "owner": {
+      "login": "ddtcorex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103315997?v=4"
+    },
+    "description": "Pluggable merge-request review pipeline for DeepSeek Harness (webhook → orchestrator → findings) with GitLab + GitHub providers.",
+    "topics": [
+      "ai-review",
+      "code-review",
+      "cordis",
+      "deepseek-harness",
+      "dsh-plugin",
+      "gitlab",
+      "maestro",
+      "merge-request"
+    ],
+    "html_url": "https://github.com/ddtcorex/dsh-maestro-review",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T07:41:06Z",
+    "updated_at": "2026-08-30T18:13:17Z",
+    "pushed_at": "2026-08-31T16:57:34Z"
+  },
+  {
+    "id": 1348310982,
+    "name": "dsh-ui-kanban",
+    "full_name": "JianwuYang/dsh-ui-kanban",
+    "owner": {
+      "login": "JianwuYang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22748492?v=4"
+    },
+    "description": "让 agent 直接干 Jira/GitLab 的活 · DSH 看板插件 | A dsh plugin that turns Jira + GitLab into an agent-workable kanban board",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "gitlab",
+      "jira",
+      "kanban"
+    ],
+    "html_url": "https://github.com/JianwuYang/dsh-ui-kanban",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T09:37:00Z",
+    "updated_at": "2026-08-31T01:30:13Z",
+    "pushed_at": "2026-08-31T01:30:04Z"
+  },
+  {
+    "id": 1349795725,
+    "name": "shell.online",
+    "full_name": "Rezapah6913/shell.online",
+    "owner": {
+      "login": "Rezapah6913",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308651409?v=4"
+    },
+    "description": "Turn any terminal command into a shareable browser link with a secure, cloud-relayed PTY session.",
+    "topics": [
+      "cli",
+      "cloudflare-workers",
+      "gitlab",
+      "gmail",
+      "google-dorks",
+      "information-gathering",
+      "javascript",
+      "notifications",
+      "outlook-365",
+      "pilot-protocol",
+      "reconnaissance",
+      "sell",
+      "sharepoint-site",
+      "subdomain-enumeration",
+      "vimrc-settings",
+      "web-application-security-scanner",
+      "xterm"
+    ],
+    "html_url": "https://github.com/Rezapah6913/shell.online",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T16:08:19Z",
+    "updated_at": "2026-08-31T02:31:34Z",
+    "pushed_at": "2026-08-31T02:31:19Z"
+  },
+  {
+    "id": 1352601403,
+    "name": "review-gitlab-mr",
+    "full_name": "ahmedgaafer/review-gitlab-mr",
+    "owner": {
+      "login": "ahmedgaafer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23239056?v=4"
+    },
+    "description": "Read-only GitLab merge request review skill for Claude Code and Codex. Severity-triaged report, every finding traced to an openable path:line chain.",
+    "topics": [
+      "agent-skill",
+      "claude-code",
+      "claude-code-plugin",
+      "code-review",
+      "codex",
+      "gitlab",
+      "merge-request"
+    ],
+    "html_url": "https://github.com/ahmedgaafer/review-gitlab-mr",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T16:01:27Z",
+    "updated_at": "2026-08-31T16:30:03Z",
+    "pushed_at": "2026-08-31T16:21:48Z"
+  },
+  {
+    "id": 1348478982,
+    "name": "gitlab",
+    "full_name": "nwarila-platform/gitlab",
+    "owner": {
+      "login": "nwarila-platform",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230745524?v=4"
+    },
+    "description": "Infrastructure-as-code deployment and configuration for a self-hosted GitLab instance on the nwarila platform.",
+    "topics": [
+      "ci-cd",
+      "devops",
+      "devsecops",
+      "git",
+      "gitlab",
+      "infrastructure-as-code"
+    ],
+    "html_url": "https://github.com/nwarila-platform/gitlab",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-08-27T12:41:46Z",
+    "updated_at": "2026-08-31T09:49:46Z",
+    "pushed_at": "2026-08-31T10:16:55Z"
+  },
+  {
+    "id": 1348176516,
+    "name": "backlog-client-ts",
+    "full_name": "booksakura/backlog-client-ts",
+    "owner": {
+      "login": "booksakura",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321683850?v=4"
+    },
+    "description": "Read-only mirror. The canonical repository is hosted on GitLab: https://gitlab.com/booksakura/backlog-client-ts",
+    "topics": [
+      "gitlab",
+      "mirror",
+      "read-only"
+    ],
+    "html_url": "https://github.com/booksakura/backlog-client-ts",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T07:04:09Z",
+    "updated_at": "2026-08-27T07:26:50Z",
+    "pushed_at": "2026-08-27T07:24:17Z"
+  },
+  {
+    "id": 1346168099,
+    "name": "gitlab-notifier",
+    "full_name": "Ahmed-Ibrahim-30/gitlab-notifier",
+    "owner": {
+      "login": "Ahmed-Ibrahim-30",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84892637?v=4"
+    },
+    "description": "A Go service that listens to GitLab webhook events  and sends real-time notifications to Slack, Discord, and Microsoft Teams.",
+    "topics": [
+      "discord",
+      "discord-bot",
+      "gitlab",
+      "go",
+      "golang",
+      "slack",
+      "slack-api",
+      "teams",
+      "webhook",
+      "webhooks"
+    ],
+    "html_url": "https://github.com/Ahmed-Ibrahim-30/gitlab-notifier",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T13:26:45Z",
+    "updated_at": "2026-08-25T13:59:21Z",
+    "pushed_at": "2026-08-25T13:45:49Z"
+  },
+  {
+    "id": 1351795443,
+    "name": "self-documenting-wiki",
+    "full_name": "jeremiegoldberg/self-documenting-wiki",
+    "owner": {
+      "login": "jeremiegoldberg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21313973?v=4"
+    },
+    "description": "Generate a documentation index from what your forge already knows: repository descriptions and topics. Go, standard library only.",
+    "topics": [
+      "automation",
+      "devops",
+      "documentation",
+      "github",
+      "gitlab",
+      "go"
+    ],
+    "html_url": "https://github.com/jeremiegoldberg/self-documenting-wiki",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T22:44:13Z",
+    "updated_at": "2026-08-31T01:33:10Z",
+    "pushed_at": "2026-08-31T01:32:27Z"
+  },
+  {
+    "id": 1350255816,
+    "name": "code-review-reader-electron",
+    "full_name": "anderson-spider/code-review-reader-electron",
+    "owner": {
+      "login": "anderson-spider",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12170946?v=4"
+    },
+    "description": "GitLab MR Code Review Reader powered by Codex App Server",
+    "topics": [
+      "code-review",
+      "codex",
+      "desktop-app",
+      "electron",
+      "gitlab",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/anderson-spider/code-review-reader-electron",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-08-29T03:57:43Z",
+    "updated_at": "2026-08-31T20:54:33Z",
+    "pushed_at": "2026-08-31T20:55:44Z"
+  },
+  {
+    "id": 1348197094,
+    "name": "pwsh-dotenv",
+    "full_name": "kamiyonanayo/pwsh-dotenv",
+    "owner": {
+      "login": "kamiyonanayo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4702200?v=4"
+    },
+    "description": "Read-only mirror. The canonical repository is hosted on GitLab: https://gitlab.com/kamiyonanayo/pwsh-dotenv",
+    "topics": [
+      "gitlab",
+      "mirror",
+      "read-only"
+    ],
+    "html_url": "https://github.com/kamiyonanayo/pwsh-dotenv",
+    "stargazers_count": 0,
+    "language": "PowerShell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T07:29:39Z",
+    "updated_at": "2026-08-27T07:35:53Z",
+    "pushed_at": "2026-08-27T07:32:56Z"
+  },
+  {
+    "id": 1347115748,
+    "name": "majordomo",
+    "full_name": "gnugomez/majordomo",
+    "owner": {
+      "login": "gnugomez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31970428?v=4"
+    },
+    "description": "receive github issue, PRs & mention notifications",
+    "topics": [
+      "desktop-app",
+      "electron",
+      "github",
+      "github-notifications",
+      "gitlab",
+      "react"
+    ],
+    "html_url": "https://github.com/gnugomez/majordomo",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T08:54:55Z",
+    "updated_at": "2026-08-28T13:15:12Z",
+    "pushed_at": "2026-08-27T19:59:34Z"
+  }
+]

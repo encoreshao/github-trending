@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1349601607,
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "owner": {
+      "login": "XiaoDuoYa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113528266?v=4"
+    },
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stargazers_count": 1861,
+    "language": "TypeScript",
+    "forks_count": 200,
+    "open_issues_count": 3,
+    "created_at": "2026-08-28T12:57:24Z",
+    "updated_at": "2026-09-01T01:59:43Z",
+    "pushed_at": "2026-08-31T13:17:49Z"
+  },
+  {
+    "id": 1348826110,
+    "name": "opengrok",
+    "full_name": "OnlyTerp/opengrok",
+    "owner": {
+      "login": "OnlyTerp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121772140?v=4"
+    },
+    "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+    "topics": [
+      "ai-agents",
+      "grok",
+      "llm",
+      "model-router",
+      "openai-compatible",
+      "windows"
+    ],
+    "html_url": "https://github.com/OnlyTerp/opengrok",
+    "stargazers_count": 397,
+    "language": "JavaScript",
+    "forks_count": 48,
+    "open_issues_count": 9,
+    "created_at": "2026-08-27T18:30:44Z",
+    "updated_at": "2026-09-01T01:46:14Z",
+    "pushed_at": "2026-08-31T22:22:56Z"
+  },
+  {
+    "id": 1346337331,
+    "name": "acryl",
+    "full_name": "acryldev/acryl",
+    "owner": {
+      "login": "acryldev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321071188?v=4"
+    },
+    "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+    "topics": [
+      "acryl",
+      "agent-context-relay",
+      "agentic-development-environment",
+      "ai-agents",
+      "cordis",
+      "deepseek-harness"
+    ],
+    "html_url": "https://github.com/acryldev/acryl",
+    "stargazers_count": 233,
+    "language": "TypeScript",
+    "forks_count": 27,
+    "open_issues_count": 1,
+    "created_at": "2026-08-25T15:53:56Z",
+    "updated_at": "2026-08-31T23:59:39Z",
+    "pushed_at": "2026-08-31T19:55:09Z"
+  },
+  {
+    "id": 1346252450,
+    "name": "OpenInstinct",
+    "full_name": "Merit-Systems/OpenInstinct",
+    "owner": {
+      "login": "Merit-Systems",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175159267?v=4"
+    },
+    "description": "iMessage personal assistant + password vault",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "imessage"
+    ],
+    "html_url": "https://github.com/Merit-Systems/OpenInstinct",
+    "stargazers_count": 222,
+    "language": "TypeScript",
+    "forks_count": 29,
+    "open_issues_count": 16,
+    "created_at": "2026-08-25T14:42:47Z",
+    "updated_at": "2026-09-01T00:35:24Z",
+    "pushed_at": "2026-09-01T00:48:26Z"
+  },
+  {
+    "id": 1350970233,
+    "name": "forward-implementation-first",
+    "full_name": "Vuk97/forward-implementation-first",
+    "owner": {
+      "login": "Vuk97",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38386018?v=4"
+    },
+    "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "agentskills",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "developer-tools",
+      "llm",
+      "llm-agents",
+      "openai",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/Vuk97/forward-implementation-first",
+    "stargazers_count": 155,
+    "language": "Shell",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T23:16:12Z",
+    "updated_at": "2026-09-01T01:24:08Z",
+    "pushed_at": "2026-08-31T13:46:22Z"
+  },
+  {
+    "id": 1350914890,
+    "name": "useagent",
+    "full_name": "useagenthq/useagent",
+    "owner": {
+      "login": "useagenthq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319538230?v=4"
+    },
+    "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-coworker",
+      "automation",
+      "autonomous-agents",
+      "bun",
+      "claude",
+      "codex",
+      "coding-agent",
+      "computer-use",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "opencode",
+      "postgres",
+      "sandbox",
+      "self-hosted",
+      "slack-bot",
+      "typescript"
+    ],
+    "html_url": "https://github.com/useagenthq/useagent",
+    "stargazers_count": 151,
+    "language": "TypeScript",
+    "forks_count": 20,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T21:14:31Z",
+    "updated_at": "2026-08-31T20:39:25Z",
+    "pushed_at": "2026-08-31T18:37:06Z"
+  },
+  {
+    "id": 1346230651,
+    "name": "open-steps",
+    "full_name": "kharmanskyi/open-steps",
+    "owner": {
+      "login": "kharmanskyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145896518?v=4"
+    },
+    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "claude-skill",
+      "prompt-optimization",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/kharmanskyi/open-steps",
+    "stargazers_count": 135,
+    "language": "Shell",
+    "forks_count": 43,
+    "open_issues_count": 10,
+    "created_at": "2026-08-25T14:24:24Z",
+    "updated_at": "2026-08-31T19:10:16Z",
+    "pushed_at": "2026-08-31T09:54:01Z"
+  },
+  {
+    "id": 1347130943,
+    "name": "cdaf",
+    "full_name": "UditAkhourii/cdaf",
+    "owner": {
+      "login": "UditAkhourii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156824020?v=4"
+    },
+    "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "file-format",
+      "gemini",
+      "llm",
+      "remotion",
+      "sidecar",
+      "token-optimization",
+      "video",
+      "video-understanding"
+    ],
+    "html_url": "https://github.com/UditAkhourii/cdaf",
+    "stargazers_count": 103,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 1,
+    "created_at": "2026-08-26T09:12:41Z",
+    "updated_at": "2026-08-31T20:52:13Z",
+    "pushed_at": "2026-08-28T05:07:23Z"
+  },
+  {
+    "id": 1349665307,
+    "name": "dot-reflex",
+    "full_name": "usedotai/dot-reflex",
+    "owner": {
+      "login": "usedotai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296000293?v=4"
+    },
+    "description": "Open-source agent execution-recovery controller for coding and tool-using AI agents.",
+    "topics": [
+      "agent-supervision",
+      "ai-agents",
+      "coding-agents",
+      "llm",
+      "open-source",
+      "qlora",
+      "qwen3",
+      "recovery-controller"
+    ],
+    "html_url": "https://github.com/usedotai/dot-reflex",
+    "stargazers_count": 80,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T14:00:16Z",
+    "updated_at": "2026-08-30T09:51:01Z",
+    "pushed_at": "2026-08-28T14:00:48Z"
+  },
+  {
+    "id": 1345718310,
+    "name": "hyperframes-community-skills",
+    "full_name": "heygen-com/hyperframes-community-skills",
+    "owner": {
+      "login": "heygen-com",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65394575?v=4"
+    },
+    "description": "Community-maintained skills for specialized HyperFrames workflows.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "hyperframes",
+      "video-automation"
+    ],
+    "html_url": "https://github.com/heygen-com/hyperframes-community-skills",
+    "stargazers_count": 56,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T05:26:54Z",
+    "updated_at": "2026-08-31T10:45:11Z",
+    "pushed_at": "2026-08-27T19:22:46Z"
+  },
+  {
+    "id": 1350899039,
+    "name": "wikiskill",
+    "full_name": "ashutoshsinghpr7/wikiskill",
+    "owner": {
+      "login": "ashutoshsinghpr7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58114474?v=4"
+    },
+    "description": "WikiSkill (arXiv:2608.27454) for Hermes Agent — self-evolving agent skills via a persistent knowledge wiki. Faithful Algorithm 1 implementation with real agent runs, isolated skill gating, and a documented live run log.",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "ai-agents",
+      "arxiv",
+      "hermes-agent",
+      "llm",
+      "llm-agents",
+      "persistent-knowledge",
+      "self-improving-agents",
+      "skill-evolution"
+    ],
+    "html_url": "https://github.com/ashutoshsinghpr7/wikiskill",
+    "stargazers_count": 45,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 5,
+    "created_at": "2026-08-29T20:44:02Z",
+    "updated_at": "2026-09-01T00:38:36Z",
+    "pushed_at": "2026-08-31T20:28:28Z"
+  },
+  {
+    "id": 1347724565,
+    "name": "omnia-vault",
+    "full_name": "gavishap/omnia-vault",
+    "owner": {
+      "login": "gavishap",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71888304?v=4"
+    },
+    "description": "Omnia Vault - the all-in-one project brain: an Obsidian LLM wiki, Graphify code graphs, a living plan that triages new videos against itself, and a Claude Code ⇄ Codex relay. Everything your project knows, in one clonable vault.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "graphify",
+      "knowledge-graph",
+      "llm-wiki",
+      "obsidian",
+      "project-template",
+      "second-brain"
+    ],
+    "html_url": "https://github.com/gavishap/omnia-vault",
+    "stargazers_count": 45,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T19:34:54Z",
+    "updated_at": "2026-09-01T01:50:18Z",
+    "pushed_at": "2026-08-28T11:52:39Z"
+  },
+  {
+    "id": 1349471322,
+    "name": "Product-to-Prod",
+    "full_name": "naderelewa/Product-to-Prod",
+    "owner": {
+      "login": "naderelewa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3886776?v=4"
+    },
+    "description": "AI product management skills and plugin for Claude Code, Cowork, Codex and other AI agents: evidence-tagged PRDs, specs, requirements, RICE prioritization, backlog and roadmap scoring, product strategy, GTM launch plans, release verification, benchmark packs, UX/UI design prompts for web and mobile apps. Every claim sourced or labelled unsourced.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-product-management",
+      "backlog",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "go-to-market",
+      "pm-tools",
+      "prioritization",
+      "product-design",
+      "product-discovery",
+      "product-launch",
+      "product-management",
+      "product-manager",
+      "product-requirements",
+      "product-roadmap",
+      "product-strategy",
+      "specs",
+      "user-stories"
+    ],
+    "html_url": "https://github.com/naderelewa/Product-to-Prod",
+    "stargazers_count": 32,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T10:18:19Z",
+    "updated_at": "2026-08-31T15:53:41Z",
+    "pushed_at": "2026-08-28T21:11:20Z"
+  },
+  {
+    "id": 1350140870,
+    "name": "content-parity",
+    "full_name": "Zulwatha/content-parity",
+    "owner": {
+      "login": "Zulwatha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120991694?v=4"
+    },
+    "description": "Measure what a website serves to machine readers. Fetches any page as several honest identities, including a cryptographically signed agent, and reports what each one received.",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "golang",
+      "http-signatures",
+      "seo",
+      "web-bot-auth",
+      "web-crawling"
+    ],
+    "html_url": "https://github.com/Zulwatha/content-parity",
+    "stargazers_count": 31,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T00:18:57Z",
+    "updated_at": "2026-08-31T22:22:11Z",
+    "pushed_at": "2026-08-29T15:25:58Z"
+  },
+  {
+    "id": 1349818659,
+    "name": "vicoa",
+    "full_name": "vicoa-ai/vicoa",
+    "owner": {
+      "login": "vicoa-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249546925?v=4"
+    },
+    "description": "Vicoa is the ADE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.",
+    "topics": [
+      "ade",
+      "ai-agents",
+      "ai-orchestrator",
+      "android",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "flutter",
+      "ios",
+      "linux",
+      "mobile",
+      "nextjs",
+      "opencode",
+      "python",
+      "self-hosted",
+      "typescript",
+      "vibe-coding",
+      "vicoa",
+      "windows"
+    ],
+    "html_url": "https://github.com/vicoa-ai/vicoa",
+    "stargazers_count": 30,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T16:30:26Z",
+    "updated_at": "2026-08-31T21:07:38Z",
+    "pushed_at": "2026-08-31T15:54:21Z"
+  },
+  {
+    "id": 1348527401,
+    "name": "dont-reinvent",
+    "full_name": "Emanuelel/dont-reinvent",
+    "owner": {
+      "login": "Emanuelel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26089483?v=4"
+    },
+    "description": "Stop your AI coding agent from reinventing the wheel. A Claude Skill that checks Free vs. Build vs. Buy before writing code, and actually vets what it finds (license, maintenance, security) instead of stopping at star count",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "build-vs-buy",
+      "claude-code",
+      "claude-skill",
+      "mcp",
+      "open-source",
+      "skills"
+    ],
+    "html_url": "https://github.com/Emanuelel/dont-reinvent",
+    "stargazers_count": 27,
+    "language": "HTML",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T13:31:17Z",
+    "updated_at": "2026-08-31T05:50:41Z",
+    "pushed_at": "2026-08-28T10:45:14Z"
+  },
+  {
+    "id": 1345533091,
+    "name": "claude-md-doctor",
+    "full_name": "agent-clinic/claude-md-doctor",
+    "owner": {
+      "login": "agent-clinic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320826773?v=4"
+    },
+    "description": "Give your CLAUDE.md / AGENTS.md a checkup — audit size vitals, dead references, drifted claims, and backtest every rule against your own session history to see which rules get followed, ignored, or never used. A doctor-style report that cites its evidence.",
+    "topics": [
+      "agent-skills",
+      "agents-md",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-md",
+      "claude-skills",
+      "code-quality",
+      "context-engineering",
+      "developer-tools",
+      "hooks",
+      "llm",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/agent-clinic/claude-md-doctor",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T00:43:29Z",
+    "updated_at": "2026-08-30T23:37:27Z",
+    "pushed_at": "2026-08-30T23:36:44Z"
+  },
+  {
+    "id": 1351859098,
+    "name": "codex-cli-portable-setup-kit",
+    "full_name": "2akouwu/codex-cli-portable-setup-kit",
+    "owner": {
+      "login": "2akouwu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14812897?v=4"
+    },
+    "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.",
+    "topics": [
+      "agentic-workflow",
+      "ai-agents",
+      "automation",
+      "codex",
+      "codex-cli",
+      "developer-tools",
+      "execution-first",
+      "hooks",
+      "openai",
+      "powershell",
+      "prompt-engineering",
+      "skills",
+      "windows"
+    ],
+    "html_url": "https://github.com/2akouwu/codex-cli-portable-setup-kit",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T01:02:18Z",
+    "updated_at": "2026-09-01T00:57:48Z",
+    "pushed_at": "2026-08-31T17:40:04Z"
+  },
+  {
+    "id": 1347362588,
+    "name": "cordis-meta-framework-spatiotemporal-composability",
+    "full_name": "acryldev/cordis-meta-framework-spatiotemporal-composability",
+    "owner": {
+      "login": "acryldev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321071188?v=4"
+    },
+    "description": "Cordis meta-framework documentation workspace: spatiotemporal composability paper, visual explainers, subsystem docs and tutorials.",
+    "topics": [
+      "acryl",
+      "ai-agents",
+      "cordis",
+      "documentation",
+      "spatiotemporal-composability"
+    ],
+    "html_url": "https://github.com/acryldev/cordis-meta-framework-spatiotemporal-composability",
+    "stargazers_count": 26,
+    "language": "TypeScript",
+    "forks_count": 13,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T13:22:27Z",
+    "updated_at": "2026-08-29T22:07:41Z",
+    "pushed_at": "2026-08-26T15:55:21Z"
+  },
+  {
+    "id": 1346195779,
+    "name": "bushiershi",
+    "full_name": "jinhanbuilds/bushiershi",
+    "owner": {
+      "login": "jinhanbuilds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268554919?v=4"
+    },
+    "description": "对抗模型输出不良表达习惯的 Agent Skill",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-writing",
+      "chinese-writing",
+      "codex",
+      "content-editing",
+      "llm",
+      "writing-assistant"
+    ],
+    "html_url": "https://github.com/jinhanbuilds/bushiershi",
+    "stargazers_count": 22,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-25T13:53:08Z",
+    "updated_at": "2026-08-29T10:01:55Z",
+    "pushed_at": "2026-08-26T10:02:23Z"
+  }
+]
