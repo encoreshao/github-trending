@@ -1,0 +1,490 @@
+[
+  {
+    "id": 1348577064,
+    "name": "PRAXIST",
+    "full_name": "sapientinc/PRAXIST",
+    "owner": {
+      "login": "sapientinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188930505?v=4"
+    },
+    "description": "Autonomous research system for measurable, computer-executable research.",
+    "topics": [],
+    "html_url": "https://github.com/sapientinc/PRAXIST",
+    "stargazers_count": 6205,
+    "language": "Python",
+    "forks_count": 519,
+    "open_issues_count": 13,
+    "created_at": "2026-08-27T14:20:58Z",
+    "updated_at": "2026-09-02T01:55:25Z",
+    "pushed_at": "2026-09-01T16:26:03Z"
+  },
+  {
+    "id": 1349601607,
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "owner": {
+      "login": "XiaoDuoYa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113528266?v=4"
+    },
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stargazers_count": 2144,
+    "language": "TypeScript",
+    "forks_count": 218,
+    "open_issues_count": 5,
+    "created_at": "2026-08-28T12:57:24Z",
+    "updated_at": "2026-09-02T01:54:54Z",
+    "pushed_at": "2026-09-01T14:27:58Z"
+  },
+  {
+    "id": 1348483831,
+    "name": "fastpotify",
+    "full_name": "crmne/fastpotify",
+    "owner": {
+      "login": "crmne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106617?v=4"
+    },
+    "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+    "topics": [
+      "audio",
+      "cross-platform",
+      "desktop-app",
+      "egui",
+      "gui",
+      "librespot",
+      "linux",
+      "macos",
+      "mpris",
+      "music",
+      "music-player",
+      "rust",
+      "spotify",
+      "spotify-client",
+      "spotify-connect",
+      "windows"
+    ],
+    "html_url": "https://github.com/crmne/fastpotify",
+    "stargazers_count": 1551,
+    "language": "Rust",
+    "forks_count": 64,
+    "open_issues_count": 35,
+    "created_at": "2026-08-27T12:46:32Z",
+    "updated_at": "2026-09-02T01:49:34Z",
+    "pushed_at": "2026-09-01T14:39:43Z"
+  },
+  {
+    "id": 1349253750,
+    "name": "sepia",
+    "full_name": "Nanako0129/sepia",
+    "owner": {
+      "login": "Nanako0129",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44753291?v=4"
+    },
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "fiction",
+      "grok",
+      "humanizer",
+      "llm",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "html_url": "https://github.com/Nanako0129/sepia",
+    "stargazers_count": 1358,
+    "language": "Python",
+    "forks_count": 80,
+    "open_issues_count": 2,
+    "created_at": "2026-08-28T05:56:49Z",
+    "updated_at": "2026-09-02T01:51:16Z",
+    "pushed_at": "2026-09-01T18:07:24Z"
+  },
+  {
+    "id": 1349354292,
+    "name": "metamask-desktop",
+    "full_name": "MetaMask-AI/metamask-desktop",
+    "owner": {
+      "login": "MetaMask-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306329710?v=4"
+    },
+    "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+    "topics": [
+      "bitcoin",
+      "bitcoin-wallet",
+      "crypto",
+      "cryptocoins",
+      "cryptocompare-api",
+      "cryptocurrency",
+      "dapp",
+      "ethereum",
+      "ethereum-blockchain",
+      "ethereum-wallet",
+      "evm",
+      "evm-wallet",
+      "macos",
+      "metamask",
+      "metamask-dapp",
+      "metamask-desktop",
+      "metamask-io",
+      "solana",
+      "web3",
+      "windows"
+    ],
+    "html_url": "https://github.com/MetaMask-AI/metamask-desktop",
+    "stargazers_count": 1229,
+    "language": "CSS",
+    "forks_count": 91,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T08:07:10Z",
+    "updated_at": "2026-09-01T09:22:32Z",
+    "pushed_at": "2026-08-28T08:52:47Z"
+  },
+  {
+    "id": 1346970181,
+    "name": "open-higgsfield",
+    "full_name": "wide-trace/open-higgsfield",
+    "owner": {
+      "login": "wide-trace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321257738?v=4"
+    },
+    "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+    "topics": [],
+    "html_url": "https://github.com/wide-trace/open-higgsfield",
+    "stargazers_count": 1204,
+    "language": "TypeScript",
+    "forks_count": 19,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T06:09:58Z",
+    "updated_at": "2026-09-02T01:51:54Z",
+    "pushed_at": "2026-08-26T08:08:20Z"
+  },
+  {
+    "id": 1348572094,
+    "name": "tokentab",
+    "full_name": "damejan80/tokentab",
+    "owner": {
+      "login": "damejan80",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15242181?v=4"
+    },
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "cursor",
+      "python",
+      "token-optimization",
+      "token-usage"
+    ],
+    "html_url": "https://github.com/damejan80/tokentab",
+    "stargazers_count": 1138,
+    "language": "Python",
+    "forks_count": 210,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T14:16:09Z",
+    "updated_at": "2026-09-02T01:37:11Z",
+    "pushed_at": "2026-08-27T14:20:23Z"
+  },
+  {
+    "id": 1349898907,
+    "name": "headcount",
+    "full_name": "cbrock84/headcount",
+    "owner": {
+      "login": "cbrock84",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15268570?v=4"
+    },
+    "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+    "topics": [
+      "agent-marketplace",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "claude-skills",
+      "mcp"
+    ],
+    "html_url": "https://github.com/cbrock84/headcount",
+    "stargazers_count": 958,
+    "language": "Markdown",
+    "forks_count": 147,
+    "open_issues_count": 1,
+    "created_at": "2026-08-28T18:03:04Z",
+    "updated_at": "2026-09-02T01:57:53Z",
+    "pushed_at": "2026-09-02T00:32:45Z"
+  },
+  {
+    "id": 1348995029,
+    "name": "darwin-vm",
+    "full_name": "jprx/darwin-vm",
+    "owner": {
+      "login": "jprx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36464332?v=4"
+    },
+    "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+    "topics": [],
+    "html_url": "https://github.com/jprx/darwin-vm",
+    "stargazers_count": 884,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 5,
+    "created_at": "2026-08-27T22:24:31Z",
+    "updated_at": "2026-09-02T01:50:28Z",
+    "pushed_at": "2026-09-01T02:09:53Z"
+  },
+  {
+    "id": 1348796050,
+    "name": "shulihuazixuecongshu",
+    "full_name": "tradecatlabs/shulihuazixuecongshu",
+    "owner": {
+      "login": "tradecatlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288998340?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+    "stargazers_count": 844,
+    "language": "Python",
+    "forks_count": 160,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T18:02:35Z",
+    "updated_at": "2026-09-02T01:28:35Z",
+    "pushed_at": "2026-09-01T21:10:35Z"
+  },
+  {
+    "id": 1351835285,
+    "name": "CoomeRtool",
+    "full_name": "GangTailorUpgrade/CoomeRtool",
+    "owner": {
+      "login": "GangTailorUpgrade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270958586?v=4"
+    },
+    "description": "Coomer Tool",
+    "topics": [
+      "coomer",
+      "coomer-download",
+      "coomer-downloader",
+      "coomer-party",
+      "coomer-porn",
+      "coomer-st",
+      "coomer-su",
+      "kemomo",
+      "kemon-party",
+      "kemoni",
+      "kemono",
+      "kemono-downloader",
+      "kemono-oarty",
+      "kemono-party",
+      "kemono-porn",
+      "kemono-su",
+      "kemono-su-downloader",
+      "kemono-xxx",
+      "kemonoparty",
+      "kenmono"
+    ],
+    "html_url": "https://github.com/GangTailorUpgrade/CoomeRtool",
+    "stargazers_count": 824,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T00:12:45Z",
+    "updated_at": "2026-09-02T01:45:58Z",
+    "pushed_at": "2026-08-31T00:32:19Z"
+  },
+  {
+    "id": 1349765459,
+    "name": "boop",
+    "full_name": "chrisgreg/boop",
+    "owner": {
+      "login": "chrisgreg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5280429?v=4"
+    },
+    "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+    "topics": [],
+    "html_url": "https://github.com/chrisgreg/boop",
+    "stargazers_count": 677,
+    "language": "Go",
+    "forks_count": 31,
+    "open_issues_count": 3,
+    "created_at": "2026-08-28T15:38:33Z",
+    "updated_at": "2026-09-01T22:14:05Z",
+    "pushed_at": "2026-08-30T11:34:44Z"
+  },
+  {
+    "id": 1346800521,
+    "name": "shrimply",
+    "full_name": "soirihiroka/shrimply",
+    "owner": {
+      "login": "soirihiroka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133444309?v=4"
+    },
+    "description": "you're telling me a shrimp made this video?",
+    "topics": [],
+    "html_url": "https://github.com/soirihiroka/shrimply",
+    "stargazers_count": 657,
+    "language": "Rust",
+    "forks_count": 35,
+    "open_issues_count": 17,
+    "created_at": "2026-08-26T01:55:08Z",
+    "updated_at": "2026-09-02T01:14:59Z",
+    "pushed_at": "2026-09-01T17:38:46Z"
+  },
+  {
+    "id": 1348793218,
+    "name": "my-free-code",
+    "full_name": "hkqr/my-free-code",
+    "owner": {
+      "login": "hkqr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153429021?v=4"
+    },
+    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+    "topics": [
+      "ai",
+      "claude-code",
+      "free-claude-api",
+      "multi-provider",
+      "multi-provider-llm"
+    ],
+    "html_url": "https://github.com/hkqr/my-free-code",
+    "stargazers_count": 617,
+    "language": "Python",
+    "forks_count": 211,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T17:59:23Z",
+    "updated_at": "2026-09-01T08:06:36Z",
+    "pushed_at": "2026-08-28T09:02:17Z"
+  },
+  {
+    "id": 1348084390,
+    "name": "prod-FARM-IOS-Core",
+    "full_name": "Git-Agni/prod-FARM-IOS-Core",
+    "owner": {
+      "login": "Git-Agni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187279291?v=4"
+    },
+    "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+    "topics": [
+      "appium",
+      "device-farm",
+      "ios-automation",
+      "marketing-automation",
+      "phone-farm",
+      "tiktok-automation-script",
+      "webdriveragent"
+    ],
+    "html_url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+    "stargazers_count": 614,
+    "language": "TypeScript",
+    "forks_count": 114,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T04:55:36Z",
+    "updated_at": "2026-09-02T01:56:58Z",
+    "pushed_at": "2026-09-01T06:16:52Z"
+  },
+  {
+    "id": 1348932500,
+    "name": "hexstellar",
+    "full_name": "brayonpi/hexstellar",
+    "owner": {
+      "login": "brayonpi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100501194?v=4"
+    },
+    "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+    "topics": [],
+    "html_url": "https://github.com/brayonpi/hexstellar",
+    "stargazers_count": 542,
+    "language": "Python",
+    "forks_count": 52,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T20:53:42Z",
+    "updated_at": "2026-09-02T01:55:16Z",
+    "pushed_at": "2026-08-27T21:07:24Z"
+  },
+  {
+    "id": 1346869407,
+    "name": "AI-drama-pound",
+    "full_name": "POUND0423/AI-drama-pound",
+    "owner": {
+      "login": "POUND0423",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174820788?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/POUND0423/AI-drama-pound",
+    "stargazers_count": 529,
+    "language": null,
+    "forks_count": 77,
+    "open_issues_count": 0,
+    "created_at": "2026-08-26T03:43:14Z",
+    "updated_at": "2026-09-01T16:43:35Z",
+    "pushed_at": "2026-08-26T04:15:43Z"
+  },
+  {
+    "id": 1350871465,
+    "name": "DLSS5-Feeder",
+    "full_name": "jlrouzies-fr/DLSS5-Feeder",
+    "owner": {
+      "login": "jlrouzies-fr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57990274?v=4"
+    },
+    "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+    "topics": [],
+    "html_url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+    "stargazers_count": 518,
+    "language": "C++",
+    "forks_count": 24,
+    "open_issues_count": 18,
+    "created_at": "2026-08-29T19:52:37Z",
+    "updated_at": "2026-09-02T01:51:21Z",
+    "pushed_at": "2026-09-01T19:40:55Z"
+  },
+  {
+    "id": 1347829965,
+    "name": "CFBox",
+    "full_name": "PAICNI/CFBox",
+    "owner": {
+      "login": "PAICNI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212681820?v=4"
+    },
+    "description": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+    "topics": [],
+    "html_url": "https://github.com/PAICNI/CFBox",
+    "stargazers_count": 484,
+    "language": "JavaScript",
+    "forks_count": 248,
+    "open_issues_count": 4,
+    "created_at": "2026-08-26T21:58:54Z",
+    "updated_at": "2026-09-02T01:57:09Z",
+    "pushed_at": "2026-09-01T19:43:27Z"
+  },
+  {
+    "id": 1347856248,
+    "name": "refactoring-ui-skill",
+    "full_name": "s0xDk/refactoring-ui-skill",
+    "owner": {
+      "login": "s0xDk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44265?v=4"
+    },
+    "description": "A Claude Code skill that applies the concrete design rules from the book Refactoring UI (Wathan & Schoger) — constrained spacing/type/color/shadow scales, hierarchy through weight and color, and depth through emulated light — to building and fixing interfaces.",
+    "topics": [],
+    "html_url": "https://github.com/s0xDk/refactoring-ui-skill",
+    "stargazers_count": 482,
+    "language": "CSS",
+    "forks_count": 46,
+    "open_issues_count": 1,
+    "created_at": "2026-08-26T22:42:48Z",
+    "updated_at": "2026-09-02T00:50:16Z",
+    "pushed_at": "2026-08-26T22:47:17Z"
+  }
+]
