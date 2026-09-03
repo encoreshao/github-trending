@@ -1,0 +1,612 @@
+[
+  {
+    "id": 1348572094,
+    "name": "tokentab",
+    "full_name": "damejan80/tokentab",
+    "owner": {
+      "login": "damejan80",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15242181?v=4"
+    },
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "cursor",
+      "python",
+      "token-optimization",
+      "token-usage"
+    ],
+    "html_url": "https://github.com/damejan80/tokentab",
+    "stargazers_count": 1147,
+    "language": "Python",
+    "forks_count": 211,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T14:16:09Z",
+    "updated_at": "2026-09-03T01:42:02Z",
+    "pushed_at": "2026-08-27T14:20:23Z"
+  },
+  {
+    "id": 1349410105,
+    "name": "quackd",
+    "full_name": "rokbenko/quackd",
+    "owner": {
+      "login": "rokbenko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115651717?v=4"
+    },
+    "description": "🦆🧠 Give your small robot a brain. Tell a Microduck, a Reachy Mini, a LeRobot arm or any ROS base what you want in plain language. An LLM (Claude, OpenAI, Gemini, Grok, or a local model via Ollama, vLLM or llama.cpp) uses the skills it already has. Simulator, .duck task files, MCP, and flocks where different robots cooperate. Apache 2.0.",
+    "topics": [
+      "claude",
+      "embodied-ai",
+      "hugging-face",
+      "lerobot",
+      "llama-cpp",
+      "llm-agents",
+      "local-llm",
+      "mcp",
+      "microduck",
+      "model-context-protocol",
+      "multi-agent",
+      "ollama",
+      "openai",
+      "physical-ai",
+      "pollen-robotics",
+      "python",
+      "reachy-mini",
+      "robotics",
+      "ros",
+      "sim2real"
+    ],
+    "html_url": "https://github.com/rokbenko/quackd",
+    "stargazers_count": 122,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 3,
+    "created_at": "2026-08-28T09:09:16Z",
+    "updated_at": "2026-09-03T01:01:13Z",
+    "pushed_at": "2026-09-02T17:47:29Z"
+  },
+  {
+    "id": 1350506421,
+    "name": "xdp-dns-evadeproxy",
+    "full_name": "Oihalitz/xdp-dns-evadeproxy",
+    "owner": {
+      "login": "Oihalitz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16503433?v=4"
+    },
+    "description": "Proxy DNS en Rust para evitar bloqueos de operadores mediante reescritura transparente de IPs anycast.",
+    "topics": [
+      "cloudflare",
+      "dns",
+      "dns-proxy",
+      "dns-server",
+      "python",
+      "rust"
+    ],
+    "html_url": "https://github.com/Oihalitz/xdp-dns-evadeproxy",
+    "stargazers_count": 67,
+    "language": "Rust",
+    "forks_count": 5,
+    "open_issues_count": 1,
+    "created_at": "2026-08-29T10:54:29Z",
+    "updated_at": "2026-09-03T01:25:20Z",
+    "pushed_at": "2026-08-31T12:21:53Z"
+  },
+  {
+    "id": 1354997816,
+    "name": "cloudflare-challenge-clearance",
+    "full_name": "Maas6696/cloudflare-challenge-clearance",
+    "owner": {
+      "login": "Maas6696",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306811885?v=4"
+    },
+    "description": "Bypass the Cloudflare challenge (Just a moment / 5s) in Python and get a valid cf_clearance cookie via the Peak API - headless-friendly, proxy-aware.",
+    "topics": [
+      "anti-bot",
+      "captcha-solver",
+      "cf-clearance",
+      "cloudflare",
+      "cloudflare-bypass",
+      "cloudflare-challenge",
+      "cloudflare-scraper",
+      "just-a-moment",
+      "python",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/Maas6696/cloudflare-challenge-clearance",
+    "stargazers_count": 65,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T16:39:22Z",
+    "updated_at": "2026-09-02T17:05:52Z",
+    "pushed_at": "2026-09-02T16:39:33Z"
+  },
+  {
+    "id": 1351719940,
+    "name": "atlas-Assistant",
+    "full_name": "sharith45/atlas-Assistant",
+    "owner": {
+      "login": "sharith45",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180607319?v=4"
+    },
+    "description": "Tu asistente personal, directamente en tu ordenador. Habla contigo por voz, gestiona WhatsApp, atiende llamadas, consulta la web y recuerda lo importante. Una inteligencia artificial diseñada para trabajar de forma local, privada y autónoma, sin depender de la nube.",
+    "topics": [
+      "agent",
+      "agent-skill",
+      "agent-skills",
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "asistente",
+      "claude",
+      "claude-code",
+      "ia",
+      "jarvis",
+      "jarvis-ai-assistant",
+      "local-ai",
+      "personal-assistant",
+      "privacy",
+      "python",
+      "voice-assistant",
+      "whatsapp-bot",
+      "windows-desktop-app"
+    ],
+    "html_url": "https://github.com/sharith45/atlas-Assistant",
+    "stargazers_count": 57,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T20:17:29Z",
+    "updated_at": "2026-09-03T01:55:29Z",
+    "pushed_at": "2026-09-02T20:47:47Z"
+  },
+  {
+    "id": 1350634258,
+    "name": "gsuite2router",
+    "full_name": "mhiqrambg/gsuite2router",
+    "owner": {
+      "login": "mhiqrambg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78313274?v=4"
+    },
+    "description": "CLI tool to bulk-add Google Workspace accounts to 9Router Antigravity provider via automated OAuth login, and clean up quota-exhausted connections.",
+    "topics": [
+      "9router",
+      "automation",
+      "browser-automation",
+      "cli",
+      "google-workspace",
+      "gsuite",
+      "python"
+    ],
+    "html_url": "https://github.com/mhiqrambg/gsuite2router",
+    "stargazers_count": 54,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T14:06:30Z",
+    "updated_at": "2026-09-02T13:54:34Z",
+    "pushed_at": "2026-08-29T16:11:00Z"
+  },
+  {
+    "id": 1348890247,
+    "name": "chalmers-calendar-sync",
+    "full_name": "xieyanran/chalmers-calendar-sync",
+    "owner": {
+      "login": "xieyanran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132805033?v=4"
+    },
+    "description": "Import info  from canvas, timeedit to calender, remind important items",
+    "topics": [
+      "calendar-sync",
+      "canvas-lms",
+      "chalmers",
+      "google-calendar",
+      "ics",
+      "oauth2",
+      "python",
+      "timeedit"
+    ],
+    "html_url": "https://github.com/xieyanran/chalmers-calendar-sync",
+    "stargazers_count": 50,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T19:53:15Z",
+    "updated_at": "2026-09-03T01:00:04Z",
+    "pushed_at": "2026-08-31T16:59:27Z"
+  },
+  {
+    "id": 1348997813,
+    "name": "Only-Skill-You-Need",
+    "full_name": "Endokelp/Only-Skill-You-Need",
+    "owner": {
+      "login": "Endokelp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183029581?v=4"
+    },
+    "description": "The first Agent Skill a beginner installs. Bootstraps Claude Code, Cursor, and other agents, then routes every task to the current best skill for that job.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "cursor",
+      "python"
+    ],
+    "html_url": "https://github.com/Endokelp/Only-Skill-You-Need",
+    "stargazers_count": 36,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T22:29:17Z",
+    "updated_at": "2026-08-31T01:53:11Z",
+    "pushed_at": "2026-08-27T22:48:43Z"
+  },
+  {
+    "id": 1347943201,
+    "name": "use-conifer",
+    "full_name": "ConiferKit/use-conifer",
+    "owner": {
+      "login": "ConiferKit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284818068?v=4"
+    },
+    "description": "The Conifer SDK — one gateway for cloud, local, and BYOK inference, with exact per-call cost receipts. TypeScript + Python + MCP.",
+    "topics": [
+      "ai-gateway",
+      "anthropic",
+      "llm",
+      "mcp",
+      "openai",
+      "openai-compatible",
+      "python",
+      "sdk",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ConiferKit/use-conifer",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T01:20:51Z",
+    "updated_at": "2026-09-02T01:20:17Z",
+    "pushed_at": "2026-09-02T01:19:37Z"
+  },
+  {
+    "id": 1350274410,
+    "name": "memory-bridge",
+    "full_name": "jiabaobei/memory-bridge",
+    "owner": {
+      "login": "jiabaobei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/294371072?v=4"
+    },
+    "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
+    "topics": [
+      "agent",
+      "ai",
+      "cdsmp",
+      "cross-device",
+      "cross-platform",
+      "llm",
+      "mcp",
+      "memory",
+      "python",
+      "semantic-memory"
+    ],
+    "html_url": "https://github.com/jiabaobei/memory-bridge",
+    "stargazers_count": 30,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T04:34:06Z",
+    "updated_at": "2026-09-02T16:42:39Z",
+    "pushed_at": "2026-09-02T14:57:05Z"
+  },
+  {
+    "id": 1349818659,
+    "name": "vicoa",
+    "full_name": "vicoa-ai/vicoa",
+    "owner": {
+      "login": "vicoa-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249546925?v=4"
+    },
+    "description": "Vicoa is the ADE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.",
+    "topics": [
+      "ade",
+      "ai-agents",
+      "ai-orchestrator",
+      "android",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "flutter",
+      "ios",
+      "linux",
+      "mobile",
+      "nextjs",
+      "opencode",
+      "python",
+      "self-hosted",
+      "typescript",
+      "vibe-coding",
+      "vicoa",
+      "windows"
+    ],
+    "html_url": "https://github.com/vicoa-ai/vicoa",
+    "stargazers_count": 30,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T16:30:26Z",
+    "updated_at": "2026-09-02T16:59:30Z",
+    "pushed_at": "2026-09-02T18:25:21Z"
+  },
+  {
+    "id": 1351115950,
+    "name": "CFD-SCIPaper-Agent",
+    "full_name": "Xiuyiw/CFD-SCIPaper-Agent",
+    "owner": {
+      "login": "Xiuyiw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150686301?v=4"
+    },
+    "description": "Author-in-the-loop CLI for traceable CFD project state, evidence-aware topic planning, and reproducible research workflows.",
+    "topics": [
+      "cfd",
+      "computational-fluid-dynamics",
+      "python",
+      "reproducibility",
+      "research-workflow",
+      "scientific-computing",
+      "scientific-writing"
+    ],
+    "html_url": "https://github.com/Xiuyiw/CFD-SCIPaper-Agent",
+    "stargazers_count": 25,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T05:00:19Z",
+    "updated_at": "2026-09-03T01:49:05Z",
+    "pushed_at": "2026-08-31T02:55:58Z"
+  },
+  {
+    "id": 1350243052,
+    "name": "VerdictAI",
+    "full_name": "Morningstar202604/VerdictAI",
+    "owner": {
+      "login": "Morningstar202604",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320475654?v=4"
+    },
+    "description": "⚖️ VerdictAI — Multi-agent courtroom debate & verdict system. 7 AI experts cross-examine real case PDFs, cite real statutes & precedents, and deliver structured verdicts with executable next steps. FastAPI + LangGraph + WebSocket.",
+    "topics": [
+      "adjudication",
+      "ai-agents",
+      "chinese-nlp",
+      "courtroom",
+      "evidence-analysis",
+      "fastapi",
+      "langgraph",
+      "legal-ai",
+      "legal-tech",
+      "llm",
+      "multi-agent",
+      "multi-agent-systems",
+      "python",
+      "rag",
+      "websocket"
+    ],
+    "html_url": "https://github.com/Morningstar202604/VerdictAI",
+    "stargazers_count": 22,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T03:32:54Z",
+    "updated_at": "2026-09-02T10:08:23Z",
+    "pushed_at": "2026-09-02T00:43:30Z"
+  },
+  {
+    "id": 1350224736,
+    "name": "Eclipse-Cleaner",
+    "full_name": "bebkill/Eclipse-Cleaner",
+    "owner": {
+      "login": "bebkill",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154730909?v=4"
+    },
+    "description": "Clean up and stabilize a shaky solar-eclipse timelapse: drop broken frames, lock the solar disk to the center, normalize exposure.",
+    "topics": [
+      "astronomy",
+      "eclipse",
+      "python",
+      "smart-telescope",
+      "timelapse",
+      "video-stabilization"
+    ],
+    "html_url": "https://github.com/bebkill/Eclipse-Cleaner",
+    "stargazers_count": 22,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 4,
+    "created_at": "2026-08-29T03:01:29Z",
+    "updated_at": "2026-09-02T09:57:33Z",
+    "pushed_at": "2026-08-31T20:19:54Z"
+  },
+  {
+    "id": 1354377874,
+    "name": "papergraph-mcp",
+    "full_name": "lotchuazzz-crypto/papergraph-mcp",
+    "owner": {
+      "login": "lotchuazzz-crypto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298805483?v=4"
+    },
+    "description": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
+    "topics": [
+      "ai-agents",
+      "arxiv",
+      "knowledge-graph",
+      "latex",
+      "mathematics",
+      "mcp",
+      "model-context-protocol",
+      "python",
+      "research-tools",
+      "skills"
+    ],
+    "html_url": "https://github.com/lotchuazzz-crypto/papergraph-mcp",
+    "stargazers_count": 21,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T05:59:46Z",
+    "updated_at": "2026-09-03T00:57:29Z",
+    "pushed_at": "2026-09-02T18:44:00Z"
+  },
+  {
+    "id": 1349027364,
+    "name": "telemood",
+    "full_name": "beniedev/telemood",
+    "owner": {
+      "login": "beniedev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321945707?v=4"
+    },
+    "description": "Dependency-free Telegram interaction core for model-driven bots: ordered bubbles, reactions, regular stickers, and one-shot choices over host-owned sync/async transport.",
+    "topics": [
+      "ai-agent",
+      "asyncio",
+      "chatbot",
+      "llm",
+      "python",
+      "telegram-bot-ai-assistant",
+      "telegram-bot-api"
+    ],
+    "html_url": "https://github.com/beniedev/telemood",
+    "stargazers_count": 21,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T23:24:26Z",
+    "updated_at": "2026-09-02T21:21:23Z",
+    "pushed_at": "2026-08-29T00:23:43Z"
+  },
+  {
+    "id": 1348975276,
+    "name": "rigorgate",
+    "full_name": "Galionkh/rigorgate",
+    "owner": {
+      "login": "Galionkh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132222194?v=4"
+    },
+    "description": "Audit-first open-source U.S. equity research and signal-validation engine.",
+    "topics": [
+      "alpaca",
+      "backtesting",
+      "equity-research",
+      "financial-analysis",
+      "python",
+      "quantitative-finance",
+      "sec-edgar",
+      "stock-screener"
+    ],
+    "html_url": "https://github.com/Galionkh/rigorgate",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 10,
+    "created_at": "2026-08-27T21:51:38Z",
+    "updated_at": "2026-09-01T09:36:27Z",
+    "pushed_at": "2026-08-29T15:30:24Z"
+  },
+  {
+    "id": 1348186221,
+    "name": "MangaNana-calibre",
+    "full_name": "jgog2/MangaNana-calibre",
+    "owner": {
+      "login": "jgog2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118329721?v=4"
+    },
+    "description": "A calibre plugin to search MangaDex, download manga volumes, and create eReader-ready CBZ files with metadata, covers, and landscape paired-page support.",
+    "topics": [
+      "calibre",
+      "calibre-metadata",
+      "calibre-plugin",
+      "cbz",
+      "cbz-converter",
+      "cbz-creator",
+      "cbz-generator",
+      "comics",
+      "ereader",
+      "ereader-tools",
+      "kobo",
+      "kobo-ereader",
+      "manga",
+      "manga-downloader",
+      "mangadex",
+      "mangadex-api",
+      "metadata",
+      "python"
+    ],
+    "html_url": "https://github.com/jgog2/MangaNana-calibre",
+    "stargazers_count": 19,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T07:16:26Z",
+    "updated_at": "2026-09-01T23:02:26Z",
+    "pushed_at": "2026-08-31T02:37:24Z"
+  },
+  {
+    "id": 1348704062,
+    "name": "nest-drama",
+    "full_name": "63435212cwu-ops/nest-drama",
+    "owner": {
+      "login": "63435212cwu-ops",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314770438?v=4"
+    },
+    "description": "把小说角色变成\"活人\"：每个角色是一个独立模拟体，只知道他该知道的，怕他该怕的，说他自己的话。 剧情线是引力场，不是铁轨——角色自由行动，世界只用\"世界内的手段\"把故事拉向既定节点。",
+    "topics": [
+      "3d-visualization",
+      "ai-writing",
+      "character-ai",
+      "creative-writing",
+      "llm",
+      "novel-writing",
+      "python",
+      "story-engine",
+      "threejs",
+      "worldbuilding"
+    ],
+    "html_url": "https://github.com/63435212cwu-ops/nest-drama",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T16:26:05Z",
+    "updated_at": "2026-09-02T02:16:53Z",
+    "pushed_at": "2026-08-30T08:34:48Z"
+  },
+  {
+    "id": 1352960352,
+    "name": "WorkBuddy-AppBuilderSkill",
+    "full_name": "sharptoolbox/WorkBuddy-AppBuilderSkill",
+    "owner": {
+      "login": "sharptoolbox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16699853?v=4"
+    },
+    "description": "Ontology-driven WorkBuddy skill for requirements discovery, domain modeling, and app generation | WorkBuddy 需求探索、本体建模与领域应用生成器",
+    "topics": [
+      "code-generation",
+      "domain-modeling",
+      "ontology",
+      "python",
+      "requirements-engineering",
+      "skill",
+      "sqlite",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T23:55:13Z",
+    "updated_at": "2026-09-03T00:50:49Z",
+    "pushed_at": "2026-08-31T23:55:33Z"
+  }
+]

@@ -1,0 +1,526 @@
+[
+  {
+    "id": 1348577064,
+    "name": "PRAXIST",
+    "full_name": "sapientinc/PRAXIST",
+    "owner": {
+      "login": "sapientinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188930505?v=4"
+    },
+    "description": "Autonomous research system for measurable, computer-executable research.",
+    "topics": [],
+    "html_url": "https://github.com/sapientinc/PRAXIST",
+    "stargazers_count": 6683,
+    "language": "Python",
+    "forks_count": 491,
+    "open_issues_count": 21,
+    "created_at": "2026-08-27T14:20:58Z",
+    "updated_at": "2026-09-03T01:51:52Z",
+    "pushed_at": "2026-09-01T16:26:03Z"
+  },
+  {
+    "id": 1348483831,
+    "name": "fastpotify",
+    "full_name": "crmne/fastpotify",
+    "owner": {
+      "login": "crmne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106617?v=4"
+    },
+    "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+    "topics": [
+      "audio",
+      "cross-platform",
+      "desktop-app",
+      "egui",
+      "gui",
+      "librespot",
+      "linux",
+      "macos",
+      "mpris",
+      "music",
+      "music-player",
+      "rust",
+      "spotify",
+      "spotify-client",
+      "spotify-connect",
+      "windows"
+    ],
+    "html_url": "https://github.com/crmne/fastpotify",
+    "stargazers_count": 2285,
+    "language": "Rust",
+    "forks_count": 95,
+    "open_issues_count": 31,
+    "created_at": "2026-08-27T12:46:32Z",
+    "updated_at": "2026-09-03T01:57:15Z",
+    "pushed_at": "2026-09-03T00:15:40Z"
+  },
+  {
+    "id": 1349601607,
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "owner": {
+      "login": "XiaoDuoYa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113528266?v=4"
+    },
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stargazers_count": 2280,
+    "language": "TypeScript",
+    "forks_count": 235,
+    "open_issues_count": 2,
+    "created_at": "2026-08-28T12:57:24Z",
+    "updated_at": "2026-09-03T01:58:08Z",
+    "pushed_at": "2026-09-02T14:27:51Z"
+  },
+  {
+    "id": 1349253750,
+    "name": "sepia",
+    "full_name": "Nanako0129/sepia",
+    "owner": {
+      "login": "Nanako0129",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44753291?v=4"
+    },
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "fiction",
+      "grok",
+      "humanizer",
+      "llm",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "html_url": "https://github.com/Nanako0129/sepia",
+    "stargazers_count": 1596,
+    "language": "Python",
+    "forks_count": 94,
+    "open_issues_count": 1,
+    "created_at": "2026-08-28T05:56:49Z",
+    "updated_at": "2026-09-03T01:58:47Z",
+    "pushed_at": "2026-09-03T01:38:28Z"
+  },
+  {
+    "id": 1349354292,
+    "name": "metamask-desktop",
+    "full_name": "MetaMask-AI/metamask-desktop",
+    "owner": {
+      "login": "MetaMask-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306329710?v=4"
+    },
+    "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+    "topics": [
+      "bitcoin",
+      "bitcoin-wallet",
+      "crypto",
+      "cryptocoins",
+      "cryptocompare-api",
+      "cryptocurrency",
+      "dapp",
+      "ethereum",
+      "ethereum-blockchain",
+      "ethereum-wallet",
+      "evm",
+      "evm-wallet",
+      "macos",
+      "metamask",
+      "metamask-dapp",
+      "metamask-desktop",
+      "metamask-io",
+      "solana",
+      "web3",
+      "windows"
+    ],
+    "html_url": "https://github.com/MetaMask-AI/metamask-desktop",
+    "stargazers_count": 1230,
+    "language": "CSS",
+    "forks_count": 91,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T08:07:10Z",
+    "updated_at": "2026-09-03T00:15:05Z",
+    "pushed_at": "2026-08-28T08:52:47Z"
+  },
+  {
+    "id": 1348572094,
+    "name": "tokentab",
+    "full_name": "damejan80/tokentab",
+    "owner": {
+      "login": "damejan80",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15242181?v=4"
+    },
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "cursor",
+      "python",
+      "token-optimization",
+      "token-usage"
+    ],
+    "html_url": "https://github.com/damejan80/tokentab",
+    "stargazers_count": 1147,
+    "language": "Python",
+    "forks_count": 211,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T14:16:09Z",
+    "updated_at": "2026-09-03T01:42:02Z",
+    "pushed_at": "2026-08-27T14:20:23Z"
+  },
+  {
+    "id": 1349898907,
+    "name": "headcount",
+    "full_name": "cbrock84/headcount",
+    "owner": {
+      "login": "cbrock84",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15268570?v=4"
+    },
+    "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+    "topics": [
+      "agent-marketplace",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "claude-skills",
+      "mcp"
+    ],
+    "html_url": "https://github.com/cbrock84/headcount",
+    "stargazers_count": 1117,
+    "language": "Markdown",
+    "forks_count": 177,
+    "open_issues_count": 3,
+    "created_at": "2026-08-28T18:03:04Z",
+    "updated_at": "2026-09-03T01:28:21Z",
+    "pushed_at": "2026-09-03T01:35:39Z"
+  },
+  {
+    "id": 1348995029,
+    "name": "darwin-vm",
+    "full_name": "jprx/darwin-vm",
+    "owner": {
+      "login": "jprx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36464332?v=4"
+    },
+    "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+    "topics": [],
+    "html_url": "https://github.com/jprx/darwin-vm",
+    "stargazers_count": 950,
+    "language": "Python",
+    "forks_count": 79,
+    "open_issues_count": 5,
+    "created_at": "2026-08-27T22:24:31Z",
+    "updated_at": "2026-09-02T23:57:13Z",
+    "pushed_at": "2026-09-02T19:19:48Z"
+  },
+  {
+    "id": 1351835285,
+    "name": "undress-service",
+    "full_name": "GangTailorUpgrade/undress-service",
+    "owner": {
+      "login": "GangTailorUpgrade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270958586?v=4"
+    },
+    "description": "Dress AI Sponsor",
+    "topics": [
+      "18comic",
+      "coomer",
+      "coomer-downloader",
+      "coomer-party",
+      "coomer-porn",
+      "coomer-su",
+      "doujin-moe",
+      "ehviewer",
+      "ex-hentai",
+      "explicit-content",
+      "hitomi-la",
+      "kemono",
+      "kemono-downloader",
+      "kemono-oarty",
+      "kemono-party",
+      "kemono-porn",
+      "kemono-su",
+      "nudity",
+      "sex",
+      "unrestricted-ai"
+    ],
+    "html_url": "https://github.com/GangTailorUpgrade/undress-service",
+    "stargazers_count": 934,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T00:12:45Z",
+    "updated_at": "2026-09-03T01:23:46Z",
+    "pushed_at": "2026-09-02T13:58:48Z"
+  },
+  {
+    "id": 1348796050,
+    "name": "shulihuazixuecongshu",
+    "full_name": "tradecatlabs/shulihuazixuecongshu",
+    "owner": {
+      "login": "tradecatlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288998340?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+    "stargazers_count": 859,
+    "language": "Python",
+    "forks_count": 163,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T18:02:35Z",
+    "updated_at": "2026-09-03T01:13:05Z",
+    "pushed_at": "2026-09-01T21:10:35Z"
+  },
+  {
+    "id": 1348084390,
+    "name": "prod-FARM-IOS-Core",
+    "full_name": "Git-Agni/prod-FARM-IOS-Core",
+    "owner": {
+      "login": "Git-Agni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187279291?v=4"
+    },
+    "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+    "topics": [
+      "appium",
+      "device-farm",
+      "ios-automation",
+      "marketing-automation",
+      "phone-farm",
+      "tiktok-automation-script",
+      "webdriveragent"
+    ],
+    "html_url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+    "stargazers_count": 766,
+    "language": "TypeScript",
+    "forks_count": 149,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T04:55:36Z",
+    "updated_at": "2026-09-03T01:58:06Z",
+    "pushed_at": "2026-09-01T06:16:52Z"
+  },
+  {
+    "id": 1348932500,
+    "name": "hexstellar",
+    "full_name": "brayonpi/hexstellar",
+    "owner": {
+      "login": "brayonpi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100501194?v=4"
+    },
+    "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+    "topics": [],
+    "html_url": "https://github.com/brayonpi/hexstellar",
+    "stargazers_count": 705,
+    "language": "Python",
+    "forks_count": 52,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T20:53:42Z",
+    "updated_at": "2026-09-03T01:04:01Z",
+    "pushed_at": "2026-08-27T21:07:24Z"
+  },
+  {
+    "id": 1349765459,
+    "name": "boop",
+    "full_name": "chrisgreg/boop",
+    "owner": {
+      "login": "chrisgreg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5280429?v=4"
+    },
+    "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+    "topics": [],
+    "html_url": "https://github.com/chrisgreg/boop",
+    "stargazers_count": 687,
+    "language": "Go",
+    "forks_count": 32,
+    "open_issues_count": 3,
+    "created_at": "2026-08-28T15:38:33Z",
+    "updated_at": "2026-09-02T23:48:50Z",
+    "pushed_at": "2026-08-30T11:34:44Z"
+  },
+  {
+    "id": 1350984217,
+    "name": "DLSS5-Swapper",
+    "full_name": "rakanki911/DLSS5-Swapper",
+    "owner": {
+      "login": "rakanki911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
+    },
+    "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+    "topics": [],
+    "html_url": "https://github.com/rakanki911/DLSS5-Swapper",
+    "stargazers_count": 624,
+    "language": "JavaScript",
+    "forks_count": 36,
+    "open_issues_count": 3,
+    "created_at": "2026-08-29T23:51:32Z",
+    "updated_at": "2026-09-03T01:58:52Z",
+    "pushed_at": "2026-09-03T00:08:09Z"
+  },
+  {
+    "id": 1348793218,
+    "name": "my-free-code",
+    "full_name": "hkqr/my-free-code",
+    "owner": {
+      "login": "hkqr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153429021?v=4"
+    },
+    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+    "topics": [
+      "ai",
+      "claude-code",
+      "free-claude-api",
+      "multi-provider",
+      "multi-provider-llm"
+    ],
+    "html_url": "https://github.com/hkqr/my-free-code",
+    "stargazers_count": 623,
+    "language": "Python",
+    "forks_count": 211,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T17:59:23Z",
+    "updated_at": "2026-09-03T01:32:57Z",
+    "pushed_at": "2026-08-28T09:02:17Z"
+  },
+  {
+    "id": 1350871465,
+    "name": "DLSS5-Feeder",
+    "full_name": "jlrouzies-fr/DLSS5-Feeder",
+    "owner": {
+      "login": "jlrouzies-fr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57990274?v=4"
+    },
+    "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+    "topics": [],
+    "html_url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+    "stargazers_count": 598,
+    "language": "C++",
+    "forks_count": 28,
+    "open_issues_count": 24,
+    "created_at": "2026-08-29T19:52:37Z",
+    "updated_at": "2026-09-03T01:40:46Z",
+    "pushed_at": "2026-09-02T15:53:44Z"
+  },
+  {
+    "id": 1351859098,
+    "name": "reverify",
+    "full_name": "2akouwu/reverify",
+    "owner": {
+      "login": "2akouwu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14812897?v=4"
+    },
+    "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+    "topics": [
+      "agentic-workflow",
+      "ai-agents",
+      "automation",
+      "binary-analysis",
+      "codex",
+      "codex-cli",
+      "ctf",
+      "developer-tools",
+      "disassembler",
+      "execution-first",
+      "frida",
+      "hooks",
+      "malware-analysis",
+      "mcp",
+      "openai",
+      "powershell",
+      "prompt-engineering",
+      "reverse-engineering",
+      "skills",
+      "windows"
+    ],
+    "html_url": "https://github.com/2akouwu/reverify",
+    "stargazers_count": 586,
+    "language": "Python",
+    "forks_count": 119,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T01:02:18Z",
+    "updated_at": "2026-09-03T01:42:08Z",
+    "pushed_at": "2026-09-02T17:09:32Z"
+  },
+  {
+    "id": 1352104394,
+    "name": "cn",
+    "full_name": "shadcn-ui/cn",
+    "owner": {
+      "login": "shadcn-ui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139895814?v=4"
+    },
+    "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+    "topics": [
+      "clsx",
+      "cn",
+      "shadcn",
+      "tailwind-merge",
+      "tailwindcss"
+    ],
+    "html_url": "https://github.com/shadcn-ui/cn",
+    "stargazers_count": 581,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 6,
+    "created_at": "2026-08-31T07:04:03Z",
+    "updated_at": "2026-09-03T01:58:39Z",
+    "pushed_at": "2026-09-02T23:46:57Z"
+  },
+  {
+    "id": 1349507889,
+    "name": "PawWork_ZhuaZhua",
+    "full_name": "Player-YN/PawWork_ZhuaZhua",
+    "owner": {
+      "login": "Player-YN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293915860?v=4"
+    },
+    "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+    "topics": [
+      "ai-agent",
+      "browser-agent",
+      "byok",
+      "chrome-extension",
+      "llm",
+      "pptx",
+      "tldraw",
+      "univer"
+    ],
+    "html_url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+    "stargazers_count": 522,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T10:56:56Z",
+    "updated_at": "2026-09-03T00:31:35Z",
+    "pushed_at": "2026-09-01T15:03:17Z"
+  },
+  {
+    "id": 1353548665,
+    "name": "commerce-agents",
+    "full_name": "anthropics/commerce-agents",
+    "owner": {
+      "login": "anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+    "topics": [],
+    "html_url": "https://github.com/anthropics/commerce-agents",
+    "stargazers_count": 434,
+    "language": "Python",
+    "forks_count": 70,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T12:30:12Z",
+    "updated_at": "2026-09-03T01:59:30Z",
+    "pushed_at": "2026-09-01T20:41:14Z"
+  }
+]

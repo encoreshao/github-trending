@@ -1,0 +1,623 @@
+[
+  {
+    "id": 1349325221,
+    "name": "mcdview",
+    "full_name": "Gheop/mcdview",
+    "owner": {
+      "login": "Gheop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239617?v=4"
+    },
+    "description": "Interactive HTML explorer for PostgreSQL data models. A self-contained page generated from a DDL file",
+    "topics": [
+      "data-model",
+      "database",
+      "database-tools",
+      "dbml",
+      "dependency-free",
+      "diagram",
+      "entity-relationship-diagram",
+      "er-diagram",
+      "erd",
+      "mcd",
+      "mermaid",
+      "mysql",
+      "pgmodeler",
+      "postgresql",
+      "prisma",
+      "schema",
+      "self-hosted",
+      "sql",
+      "sqlite",
+      "visualization"
+    ],
+    "html_url": "https://github.com/Gheop/mcdview",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T07:28:26Z",
+    "updated_at": "2026-09-02T15:24:28Z",
+    "pushed_at": "2026-09-02T13:26:28Z"
+  },
+  {
+    "id": 1351915991,
+    "name": "wedb_embed",
+    "full_name": "webc-site/wedb_embed",
+    "owner": {
+      "login": "webc-site",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286439310?v=4"
+    },
+    "description": "Embedded database engine providing Redis-like APIs, built on fjall / 嵌入式数据库引擎，提供类似 Redis 的接口，底层基于 fjall 开发",
+    "topics": [
+      "cache",
+      "database",
+      "embedded",
+      "embedded-database",
+      "fjall",
+      "key-value",
+      "lsm-tree",
+      "nosql",
+      "redis",
+      "rust"
+    ],
+    "html_url": "https://github.com/webc-site/wedb_embed",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T02:41:36Z",
+    "updated_at": "2026-09-03T00:00:49Z",
+    "pushed_at": "2026-09-03T00:10:57Z"
+  },
+  {
+    "id": 1350743945,
+    "name": "tiberius-ng",
+    "full_name": "MattJackson/tiberius-ng",
+    "owner": {
+      "login": "MattJackson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1085847?v=4"
+    },
+    "description": "TDS 7.2–8.0 (Microsoft SQL Server) driver for Rust — actively-maintained community fork (crate: tiberius-ng)",
+    "topics": [
+      "async",
+      "azure-sql",
+      "database",
+      "database-driver",
+      "mssql",
+      "rust",
+      "rust-lang",
+      "sql-server",
+      "tds",
+      "tiberius",
+      "tokio"
+    ],
+    "html_url": "https://github.com/MattJackson/tiberius-ng",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T16:35:20Z",
+    "updated_at": "2026-09-02T02:45:22Z",
+    "pushed_at": "2026-08-30T18:37:28Z"
+  },
+  {
+    "id": 1351536269,
+    "name": "Blueprint",
+    "full_name": "Aidenable/Blueprint",
+    "owner": {
+      "login": "Aidenable",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155806565?v=4"
+    },
+    "description": "Structural UML schemas for databases",
+    "topics": [
+      "ai",
+      "ai-built",
+      "app",
+      "database",
+      "macos",
+      "schema",
+      "sql",
+      "structure",
+      "uml"
+    ],
+    "html_url": "https://github.com/Aidenable/Blueprint",
+    "stargazers_count": 4,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T16:01:50Z",
+    "updated_at": "2026-09-02T11:47:10Z",
+    "pushed_at": "2026-09-02T11:46:54Z"
+  },
+  {
+    "id": 1350127175,
+    "name": "testate",
+    "full_name": "PT-Perkasa-Pilar-Utama/testate",
+    "owner": {
+      "login": "PT-Perkasa-Pilar-Utama",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187519071?v=4"
+    },
+    "description": "Git for your test database. Snapshot it, break it, put it back in seconds. QA, Developers, Devops internal assistance tools.",
+    "topics": [
+      "checkout",
+      "database",
+      "database-tools",
+      "developer-tools",
+      "devops",
+      "docker",
+      "git",
+      "qa",
+      "rollback",
+      "snapshot"
+    ],
+    "html_url": "https://github.com/PT-Perkasa-Pilar-Utama/testate",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T23:50:29Z",
+    "updated_at": "2026-09-02T12:24:29Z",
+    "pushed_at": "2026-09-02T12:17:22Z"
+  },
+  {
+    "id": 1348136600,
+    "name": "fb-dump",
+    "full_name": "deliciousNesquik/fb-dump",
+    "owner": {
+      "login": "deliciousNesquik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99757380?v=4"
+    },
+    "description": "Dump a Firebird schema as one .sql file per object — deterministic, atomic",
+    "topics": [
+      "database",
+      "ddl",
+      "firebird",
+      "git",
+      "migration",
+      "schema",
+      "versioning"
+    ],
+    "html_url": "https://github.com/deliciousNesquik/fb-dump",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T06:13:11Z",
+    "updated_at": "2026-09-02T23:22:47Z",
+    "pushed_at": "2026-08-28T09:21:28Z"
+  },
+  {
+    "id": 1348117656,
+    "name": "Underbanked-and-Financial-Inclusion---ARTHASETU-2.0-",
+    "full_name": "Apumukherjee819/Underbanked-and-Financial-Inclusion---ARTHASETU-2.0-",
+    "owner": {
+      "login": "Apumukherjee819",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283749710?v=4"
+    },
+    "description": "Adaptive Financial Inclusion Platform for credit-invisible gig workers. Trust scoring using ML (XGBoost, 99.5% accuracy), multi-language onboarding, and a 10-layer post-quantum security architecture (ZKP, FHE, PQC). Built for Youth Economic Lab BUILD $ BANK 2026.",
+    "topics": [
+      "arthasetu",
+      "data-engineering",
+      "data-science",
+      "data-structures",
+      "database",
+      "financial-analysis",
+      "financial-inclusion",
+      "financial-insights",
+      "financial-intelligence",
+      "financial-modeling",
+      "machine-learning",
+      "onboarding",
+      "onboarding-tracker",
+      "pca-analysis",
+      "random-forest-classifier",
+      "regression-analysis",
+      "security-audit",
+      "security-tools",
+      "xgboost",
+      "xgboost-regression"
+    ],
+    "html_url": "https://github.com/Apumukherjee819/Underbanked-and-Financial-Inclusion---ARTHASETU-2.0-",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T05:47:07Z",
+    "updated_at": "2026-09-02T19:32:56Z",
+    "pushed_at": "2026-09-02T19:31:57Z"
+  },
+  {
+    "id": 1350063198,
+    "name": "SQLProvider.Fable",
+    "full_name": "Thorium/SQLProvider.Fable",
+    "owner": {
+      "login": "Thorium",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229355?v=4"
+    },
+    "description": "Fable version of SQLProvider: Compile TypeProvider to other languages.",
+    "topics": [
+      "database",
+      "erlang",
+      "fsharp",
+      "mariadb",
+      "mysql",
+      "nodejs",
+      "postgresql",
+      "rust-lang",
+      "sql",
+      "sqlite",
+      "typeprovider"
+    ],
+    "html_url": "https://github.com/Thorium/SQLProvider.Fable",
+    "stargazers_count": 3,
+    "language": "F#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T21:51:20Z",
+    "updated_at": "2026-09-02T21:06:23Z",
+    "pushed_at": "2026-08-31T23:11:47Z"
+  },
+  {
+    "id": 1348517383,
+    "name": "SBSQL",
+    "full_name": "An-sbkaifazhe/SBSQL",
+    "owner": {
+      "login": "An-sbkaifazhe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321791862?v=4"
+    },
+    "description": "Read-only, zero-trust, filesystem-backed \"database\" (just txt files). It judges your SQL.",
+    "topics": [
+      "database",
+      "gaslight",
+      "joke",
+      "memes",
+      "minimal",
+      "no-dependencies",
+      "prank",
+      "python",
+      "security",
+      "sql"
+    ],
+    "html_url": "https://github.com/An-sbkaifazhe/SBSQL",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T13:20:51Z",
+    "updated_at": "2026-08-29T06:51:00Z",
+    "pushed_at": "2026-08-29T06:49:23Z"
+  },
+  {
+    "id": 1351387418,
+    "name": "fastmcp-sqlite",
+    "full_name": "kenb38291-tech/fastmcp-sqlite",
+    "owner": {
+      "login": "kenb38291-tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322792256?v=4"
+    },
+    "description": "Production-grade, token-optimized FastMCP SQLite Server with sub-millisecond O(1) schema discovery, opcode execution watchdog, and fuzzy self-healing.",
+    "topics": [
+      "ai-agent",
+      "claude",
+      "cursor",
+      "database",
+      "fastmcp",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "sqlite",
+      "sqlite3"
+    ],
+    "html_url": "https://github.com/kenb38291-tech/fastmcp-sqlite",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T12:42:06Z",
+    "updated_at": "2026-09-01T14:58:25Z",
+    "pushed_at": "2026-08-31T19:09:55Z"
+  },
+  {
+    "id": 1349934048,
+    "name": "sqlite-audit",
+    "full_name": "v01dst/sqlite-audit",
+    "owner": {
+      "login": "v01dst",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277605157?v=4"
+    },
+    "description": "Read-only health, profiling, and integrity analysis for SQLite databases",
+    "topics": [
+      "audit",
+      "cli",
+      "data-quality",
+      "database",
+      "devops",
+      "profiling",
+      "python",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/v01dst/sqlite-audit",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T18:46:25Z",
+    "updated_at": "2026-08-28T21:37:58Z",
+    "pushed_at": "2026-08-28T19:18:20Z"
+  },
+  {
+    "id": 1349875637,
+    "name": "telecom-call-center-database",
+    "full_name": "Agus-yanez/telecom-call-center-database",
+    "owner": {
+      "login": "Agus-yanez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178340198?v=4"
+    },
+    "description": "SQL Server database for telecom call-center operations, with stored procedures, SLA logic, ticket state management, triggers, integrity constraints, and executable tests.",
+    "topics": [
+      "database",
+      "database-design",
+      "portfolio",
+      "relational-databases",
+      "sla",
+      "sql",
+      "sql-server",
+      "stored-procedures",
+      "t-sql",
+      "transactions",
+      "triggers"
+    ],
+    "html_url": "https://github.com/Agus-yanez/telecom-call-center-database",
+    "stargazers_count": 2,
+    "language": "TSQL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T17:35:29Z",
+    "updated_at": "2026-08-29T00:51:25Z",
+    "pushed_at": "2026-08-28T18:12:09Z"
+  },
+  {
+    "id": 1348664345,
+    "name": "Rust-KVdb",
+    "full_name": "butaraul/Rust-KVdb",
+    "owner": {
+      "login": "butaraul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248084039?v=4"
+    },
+    "description": "A high-performance, thread-safe, in-memory key-value store with disk-persistent write-ahead logging, snapshot-based recovery, and RESP-compliant wire protocol, built on a custom B-tree index with zero-copy parsing and non-blocking I/O.",
+    "topics": [
+      "b-tree",
+      "caching",
+      "concurrent",
+      "concurrent-programming",
+      "database",
+      "db",
+      "high-performance",
+      "in-memory-database",
+      "key-value-store",
+      "kvdb",
+      "nosql",
+      "redis-protocol",
+      "rust",
+      "storage-engine",
+      "systems-programming",
+      "zero-copy"
+    ],
+    "html_url": "https://github.com/butaraul/Rust-KVdb",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T15:42:58Z",
+    "updated_at": "2026-08-29T13:09:33Z",
+    "pushed_at": "2026-08-29T13:08:24Z"
+  },
+  {
+    "id": 1352259941,
+    "name": "BusinessCentral.DbReader",
+    "full_name": "StefanMaron/BusinessCentral.DbReader",
+    "owner": {
+      "login": "StefanMaron",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24838311?v=4"
+    },
+    "description": "Read Business Central data from a SQL Server backup (.bak) or cloud export (.bacpac), with no SQL Server and no restore",
+    "topics": [
+      "backup",
+      "bacpac",
+      "business-central",
+      "csharp",
+      "database",
+      "dotnet",
+      "dynamics-365",
+      "file-format",
+      "mdf",
+      "sql-server"
+    ],
+    "html_url": "https://github.com/StefanMaron/BusinessCentral.DbReader",
+    "stargazers_count": 2,
+    "language": "C#",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T10:01:47Z",
+    "updated_at": "2026-09-02T17:58:02Z",
+    "pushed_at": "2026-09-01T07:32:53Z"
+  },
+  {
+    "id": 1351770595,
+    "name": "eCommerce-SQL-Database",
+    "full_name": "frafalone-art/eCommerce-SQL-Database",
+    "owner": {
+      "login": "frafalone-art",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252209716?v=4"
+    },
+    "description": "PostgreSQL schema for an e-commerce store — normalized tables, sales history and analytical queries.",
+    "topics": [
+      "database",
+      "database-design",
+      "ecommerce",
+      "portfolio",
+      "postgresql",
+      "schema-design",
+      "sql",
+      "sql-queries"
+    ],
+    "html_url": "https://github.com/frafalone-art/eCommerce-SQL-Database",
+    "stargazers_count": 2,
+    "language": "SQL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T21:51:43Z",
+    "updated_at": "2026-09-02T12:24:47Z",
+    "pushed_at": "2026-08-31T21:22:58Z"
+  },
+  {
+    "id": 1354644610,
+    "name": "sqlserver-scripts",
+    "full_name": "TheMax-Lab/sqlserver-scripts",
+    "owner": {
+      "login": "TheMax-Lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323995299?v=4"
+    },
+    "description": "A curated collection of SQL Server scripts, T-SQL utilities, and administrative tools for database management, performance tuning, and maintenance.",
+    "topics": [
+      "database",
+      "database-administration",
+      "database-diagnostics",
+      "database-scripts",
+      "dba",
+      "performance-tuning",
+      "query-opitmization",
+      "sql",
+      "sql-performance",
+      "sql-server",
+      "tsql"
+    ],
+    "html_url": "https://github.com/TheMax-Lab/sqlserver-scripts",
+    "stargazers_count": 1,
+    "language": "TSQL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T10:46:56Z",
+    "updated_at": "2026-09-02T16:49:15Z",
+    "pushed_at": "2026-09-02T16:48:55Z"
+  },
+  {
+    "id": 1352739655,
+    "name": "ditto-cli",
+    "full_name": "getditto/ditto-cli",
+    "owner": {
+      "login": "getditto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37997887?v=4"
+    },
+    "description": "The official Ditto CLI tool",
+    "topics": [
+      "cli",
+      "crdt",
+      "database",
+      "ditto",
+      "mesh",
+      "mesh-network",
+      "mesh-networks",
+      "mobile-database",
+      "nodejs",
+      "typescript"
+    ],
+    "html_url": "https://github.com/getditto/ditto-cli",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T18:32:12Z",
+    "updated_at": "2026-09-02T22:28:59Z",
+    "pushed_at": "2026-09-02T22:28:44Z"
+  },
+  {
+    "id": 1352751075,
+    "name": "etec-bg-project",
+    "full_name": "cmarttiinss/etec-bg-project",
+    "owner": {
+      "login": "cmarttiinss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176844932?v=4"
+    },
+    "description": "-📚Projetos Escola📚- Este repositório foi criado com o objetivo de armazenar e compartilhar atividades, exercícios e projetos desenvolvidos durante minha formação em Desenvolvimento de Sistemas. Aqui você encontrará trabalhos acadêmicos, práticas de programação e estudos voltados para tecnologia",
+    "topics": [
+      "arduino",
+      "backend",
+      "cpp",
+      "css3",
+      "dart",
+      "database",
+      "frontend",
+      "html5",
+      "javascript",
+      "mysql",
+      "python",
+      "software-development",
+      "sql",
+      "web-development"
+    ],
+    "html_url": "https://github.com/cmarttiinss/etec-bg-project",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T18:45:51Z",
+    "updated_at": "2026-09-02T18:29:33Z",
+    "pushed_at": "2026-09-02T18:28:36Z"
+  },
+  {
+    "id": 1353174759,
+    "name": "electricity-billing-management-system",
+    "full_name": "hawky245/electricity-billing-management-system",
+    "owner": {
+      "login": "hawky245",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101985862?v=4"
+    },
+    "description": "Python and MySQL based electricity billing management system with CRUD operations and bill visualization.",
+    "topics": [
+      "billing-system",
+      "crud",
+      "database",
+      "matplotlib",
+      "mysql",
+      "pymysql",
+      "python",
+      "student-project"
+    ],
+    "html_url": "https://github.com/hawky245/electricity-billing-management-system",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T05:35:49Z",
+    "updated_at": "2026-09-01T16:08:28Z",
+    "pushed_at": "2026-09-01T05:51:49Z"
+  },
+  {
+    "id": 1348723455,
+    "name": "Pet-adoption-system",
+    "full_name": "bhavana2504-cse/Pet-adoption-system",
+    "owner": {
+      "login": "bhavana2504-cse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321691199?v=4"
+    },
+    "description": "A python and MySQL- based pet adoption system that recommends suitable pet based on user preferences.",
+    "topics": [
+      "database",
+      "mysql",
+      "pet-adoption",
+      "python",
+      "recommendation-system"
+    ],
+    "html_url": "https://github.com/bhavana2504-cse/Pet-adoption-system",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T16:47:24Z",
+    "updated_at": "2026-08-30T09:08:14Z",
+    "pushed_at": "2026-08-30T09:07:59Z"
+  }
+]

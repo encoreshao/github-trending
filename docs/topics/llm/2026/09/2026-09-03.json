@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1349253750,
+    "name": "sepia",
+    "full_name": "Nanako0129/sepia",
+    "owner": {
+      "login": "Nanako0129",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44753291?v=4"
+    },
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "fiction",
+      "grok",
+      "humanizer",
+      "llm",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "html_url": "https://github.com/Nanako0129/sepia",
+    "stargazers_count": 1596,
+    "language": "Python",
+    "forks_count": 94,
+    "open_issues_count": 1,
+    "created_at": "2026-08-28T05:56:49Z",
+    "updated_at": "2026-09-03T01:58:47Z",
+    "pushed_at": "2026-09-03T01:38:28Z"
+  },
+  {
+    "id": 1349507889,
+    "name": "PawWork_ZhuaZhua",
+    "full_name": "Player-YN/PawWork_ZhuaZhua",
+    "owner": {
+      "login": "Player-YN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293915860?v=4"
+    },
+    "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+    "topics": [
+      "ai-agent",
+      "browser-agent",
+      "byok",
+      "chrome-extension",
+      "llm",
+      "pptx",
+      "tldraw",
+      "univer"
+    ],
+    "html_url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+    "stargazers_count": 522,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T10:56:56Z",
+    "updated_at": "2026-09-03T00:31:35Z",
+    "pushed_at": "2026-09-01T15:03:17Z"
+  },
+  {
+    "id": 1348826110,
+    "name": "opengrok",
+    "full_name": "OnlyTerp/opengrok",
+    "owner": {
+      "login": "OnlyTerp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121772140?v=4"
+    },
+    "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+    "topics": [
+      "ai-agents",
+      "grok",
+      "llm",
+      "model-router",
+      "openai-compatible",
+      "windows"
+    ],
+    "html_url": "https://github.com/OnlyTerp/opengrok",
+    "stargazers_count": 416,
+    "language": "JavaScript",
+    "forks_count": 51,
+    "open_issues_count": 9,
+    "created_at": "2026-08-27T18:30:44Z",
+    "updated_at": "2026-09-02T22:58:30Z",
+    "pushed_at": "2026-08-31T22:22:56Z"
+  },
+  {
+    "id": 1350914890,
+    "name": "useagent",
+    "full_name": "useagenthq/useagent",
+    "owner": {
+      "login": "useagenthq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319538230?v=4"
+    },
+    "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-coworker",
+      "automation",
+      "autonomous-agents",
+      "bun",
+      "claude",
+      "codex",
+      "coding-agent",
+      "computer-use",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "opencode",
+      "postgres",
+      "sandbox",
+      "self-hosted",
+      "slack-bot",
+      "typescript"
+    ],
+    "html_url": "https://github.com/useagenthq/useagent",
+    "stargazers_count": 275,
+    "language": "TypeScript",
+    "forks_count": 35,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T21:14:31Z",
+    "updated_at": "2026-09-03T01:37:12Z",
+    "pushed_at": "2026-08-31T18:37:06Z"
+  },
+  {
+    "id": 1348178527,
+    "name": "lemmalog",
+    "full_name": "JordyZomer/lemmalog",
+    "owner": {
+      "login": "JordyZomer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17198473?v=4"
+    },
+    "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+    "topics": [
+      "agent-memory",
+      "datalog",
+      "knowledge-graph",
+      "llm",
+      "llm-agents",
+      "mcp",
+      "neurosymbolic"
+    ],
+    "html_url": "https://github.com/JordyZomer/lemmalog",
+    "stargazers_count": 259,
+    "language": "Rust",
+    "forks_count": 18,
+    "open_issues_count": 1,
+    "created_at": "2026-08-27T07:06:55Z",
+    "updated_at": "2026-09-02T18:06:08Z",
+    "pushed_at": "2026-09-02T07:00:09Z"
+  },
+  {
+    "id": 1349285058,
+    "name": "slotstream",
+    "full_name": "carloslfu/slotstream",
+    "owner": {
+      "login": "carloslfu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5993168?v=4"
+    },
+    "description": "Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API.",
+    "topics": [
+      "apple-silicon",
+      "llm",
+      "llm-inference",
+      "local-llm",
+      "macos",
+      "mixture-of-experts",
+      "mlx",
+      "ollama",
+      "qwen",
+      "swift"
+    ],
+    "html_url": "https://github.com/carloslfu/slotstream",
+    "stargazers_count": 246,
+    "language": "Swift",
+    "forks_count": 13,
+    "open_issues_count": 3,
+    "created_at": "2026-08-28T06:42:21Z",
+    "updated_at": "2026-09-03T01:47:19Z",
+    "pushed_at": "2026-09-03T01:47:14Z"
+  },
+  {
+    "id": 1350970233,
+    "name": "forward-implementation-first",
+    "full_name": "Vuk97/forward-implementation-first",
+    "owner": {
+      "login": "Vuk97",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38386018?v=4"
+    },
+    "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "agentskills",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "developer-tools",
+      "llm",
+      "llm-agents",
+      "openai",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/Vuk97/forward-implementation-first",
+    "stargazers_count": 161,
+    "language": "Shell",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T23:16:12Z",
+    "updated_at": "2026-09-02T08:24:25Z",
+    "pushed_at": "2026-08-31T13:46:22Z"
+  },
+  {
+    "id": 1351879111,
+    "name": "reef",
+    "full_name": "Human-Agent-Society/reef",
+    "owner": {
+      "login": "Human-Agent-Society",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268553699?v=4"
+    },
+    "description": "Continual learning infra for self-improving agents",
+    "topics": [
+      "agent-infrastructure",
+      "ai-agents",
+      "continual-learning",
+      "inference",
+      "llm",
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
+    ],
+    "html_url": "https://github.com/Human-Agent-Society/reef",
+    "stargazers_count": 157,
+    "language": "Python",
+    "forks_count": 17,
+    "open_issues_count": 47,
+    "created_at": "2026-08-31T01:39:18Z",
+    "updated_at": "2026-09-03T01:26:44Z",
+    "pushed_at": "2026-09-03T00:38:35Z"
+  },
+  {
+    "id": 1353051646,
+    "name": "awesome-grokbot",
+    "full_name": "kydlikebtc/awesome-grokbot",
+    "owner": {
+      "login": "kydlikebtc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75060932?v=4"
+    },
+    "description": "361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-tools",
+      "awesome",
+      "awesome-list",
+      "bot-templates",
+      "catalog",
+      "cursor",
+      "directory",
+      "grok",
+      "grok-bot",
+      "grokbot",
+      "llm",
+      "prompt-engineering",
+      "xai"
+    ],
+    "html_url": "https://github.com/kydlikebtc/awesome-grokbot",
+    "stargazers_count": 125,
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T02:30:25Z",
+    "updated_at": "2026-09-03T01:03:33Z",
+    "pushed_at": "2026-09-02T13:01:03Z"
+  },
+  {
+    "id": 1350899039,
+    "name": "wikiskill",
+    "full_name": "ashutoshsinghpr7/wikiskill",
+    "owner": {
+      "login": "ashutoshsinghpr7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58114474?v=4"
+    },
+    "description": "WikiSkill (arXiv:2608.27454) for Hermes Agent — self-evolving agent skills via a persistent knowledge wiki. Faithful Algorithm 1 implementation with real agent runs, isolated skill gating, and a documented live run log.",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "ai-agents",
+      "arxiv",
+      "hermes-agent",
+      "llm",
+      "llm-agents",
+      "persistent-knowledge",
+      "self-improving-agents",
+      "skill-evolution"
+    ],
+    "html_url": "https://github.com/ashutoshsinghpr7/wikiskill",
+    "stargazers_count": 88,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 3,
+    "created_at": "2026-08-29T20:44:02Z",
+    "updated_at": "2026-09-02T22:24:09Z",
+    "pushed_at": "2026-09-01T20:05:26Z"
+  },
+  {
+    "id": 1351919577,
+    "name": "LoopArena",
+    "full_name": "AMAP-ML/LoopArena",
+    "owner": {
+      "login": "AMAP-ML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
+    },
+    "description": "Benchmarking models as runtime Controllers for Loop Engineering",
+    "topics": [
+      "benchmark",
+      "coding-agents",
+      "evaluation",
+      "llm",
+      "loop-engineering",
+      "software-engineering"
+    ],
+    "html_url": "https://github.com/AMAP-ML/LoopArena",
+    "stargazers_count": 85,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-08-31T02:47:02Z",
+    "updated_at": "2026-09-02T22:13:30Z",
+    "pushed_at": "2026-09-01T02:50:49Z"
+  },
+  {
+    "id": 1349665307,
+    "name": "dot-reflex",
+    "full_name": "usedotai/dot-reflex",
+    "owner": {
+      "login": "usedotai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296000293?v=4"
+    },
+    "description": "Open-source agent execution-recovery controller for coding and tool-using AI agents.",
+    "topics": [
+      "agent-supervision",
+      "ai-agents",
+      "coding-agents",
+      "llm",
+      "open-source",
+      "qlora",
+      "qwen3",
+      "recovery-controller"
+    ],
+    "html_url": "https://github.com/usedotai/dot-reflex",
+    "stargazers_count": 81,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T14:00:16Z",
+    "updated_at": "2026-09-01T03:29:13Z",
+    "pushed_at": "2026-08-28T14:00:48Z"
+  },
+  {
+    "id": 1350419329,
+    "name": "OrcaReplay",
+    "full_name": "Continuum-AI-Corp/OrcaReplay",
+    "owner": {
+      "login": "Continuum-AI-Corp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273996259?v=4"
+    },
+    "description": "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
+    "topics": [
+      "agent-debugging",
+      "agent-tracing",
+      "ai-agent",
+      "ai-agents",
+      "ai-debugger",
+      "ai-debugging",
+      "anthropic",
+      "llm",
+      "llm-agents",
+      "llm-evaluation",
+      "llm-observability",
+      "mcp",
+      "observability",
+      "openai",
+      "orcarouter"
+    ],
+    "html_url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+    "stargazers_count": 64,
+    "language": "TypeScript",
+    "forks_count": 19,
+    "open_issues_count": 4,
+    "created_at": "2026-08-29T08:41:53Z",
+    "updated_at": "2026-09-02T23:12:37Z",
+    "pushed_at": "2026-09-02T12:48:14Z"
+  },
+  {
+    "id": 1351254750,
+    "name": "atlas",
+    "full_name": "alesha-pro/atlas",
+    "owner": {
+      "login": "alesha-pro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68546545?v=4"
+    },
+    "description": "Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distributions, spectra and outlier channels for every weight tensor",
+    "topics": [
+      "dataviz",
+      "interpretability",
+      "llm",
+      "quantization",
+      "visualization"
+    ],
+    "html_url": "https://github.com/alesha-pro/atlas",
+    "stargazers_count": 58,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T09:10:21Z",
+    "updated_at": "2026-09-03T00:31:38Z",
+    "pushed_at": "2026-09-02T20:10:13Z"
+  },
+  {
+    "id": 1348053574,
+    "name": "agent-me",
+    "full_name": "jzjzzzzzzz/agent-me",
+    "owner": {
+      "login": "jzjzzzzzzz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274318211?v=4"
+    },
+    "description": "Auditable multi-agent RAG reference implementation with a bilingual hands-on engineering curriculum.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-engineering",
+      "education",
+      "fastapi",
+      "llm",
+      "multi-agent",
+      "rag",
+      "react",
+      "retrieval-augmented-generation"
+    ],
+    "html_url": "https://github.com/jzjzzzzzzz/agent-me",
+    "stargazers_count": 46,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 11,
+    "created_at": "2026-08-27T04:08:50Z",
+    "updated_at": "2026-09-02T22:35:14Z",
+    "pushed_at": "2026-09-02T16:23:56Z"
+  },
+  {
+    "id": 1351888900,
+    "name": "1Panel-Gateway",
+    "full_name": "1Panel-dev/1Panel-Gateway",
+    "owner": {
+      "login": "1Panel-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109613420?v=4"
+    },
+    "description": "1Panel AI 网关提供从统一接入、智能路由到合规审计的全链条管控，让企业 AI 落地更安全、更高效、更可控。",
+    "topics": [
+      "1panel",
+      "ai-gateway",
+      "anthropic",
+      "deepseek",
+      "gateway",
+      "litellm",
+      "llm",
+      "newapi",
+      "openai"
+    ],
+    "html_url": "https://github.com/1Panel-dev/1Panel-Gateway",
+    "stargazers_count": 44,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T01:56:02Z",
+    "updated_at": "2026-09-03T01:22:29Z",
+    "pushed_at": "2026-09-03T01:22:22Z"
+  },
+  {
+    "id": 1348274054,
+    "name": "TTPO",
+    "full_name": "ZJU-REAL/TTPO",
+    "owner": {
+      "login": "ZJU-REAL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203928864?v=4"
+    },
+    "description": "TTPO: Test-Time Policy Optimization",
+    "topics": [
+      "llm",
+      "opsd",
+      "post-training",
+      "reasoning",
+      "rl",
+      "test-time-training"
+    ],
+    "html_url": "https://github.com/ZJU-REAL/TTPO",
+    "stargazers_count": 39,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T08:54:33Z",
+    "updated_at": "2026-09-02T18:33:11Z",
+    "pushed_at": "2026-08-28T09:26:18Z"
+  },
+  {
+    "id": 1347934719,
+    "name": "click",
+    "full_name": "grapefruit0205/click",
+    "owner": {
+      "login": "grapefruit0205",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296703567?v=4"
+    },
+    "description": "Codex plugin for coding agents that turns software requests into approved implementation contracts, then keeps implementation and verification inside the agreed boundary.",
+    "topics": [
+      "agent-workflows",
+      "agentic-coding",
+      "ai-agent",
+      "ai-coding",
+      "codex",
+      "codex-cli",
+      "codex-plugin",
+      "coding-agent",
+      "developer-tools",
+      "llm",
+      "openai-codex",
+      "software-engineering",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/grapefruit0205/click",
+    "stargazers_count": 37,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T01:06:45Z",
+    "updated_at": "2026-09-03T00:14:12Z",
+    "pushed_at": "2026-09-03T00:14:43Z"
+  },
+  {
+    "id": 1349656169,
+    "name": "Agent",
+    "full_name": "HowProgrammingWorks/Agent",
+    "owner": {
+      "login": "HowProgrammingWorks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17366055?v=4"
+    },
+    "description": "Small, modular coding-agent harness for Node.js",
+    "topics": [
+      "agent",
+      "ai",
+      "harness",
+      "llm"
+    ],
+    "html_url": "https://github.com/HowProgrammingWorks/Agent",
+    "stargazers_count": 37,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-08-28T13:50:08Z",
+    "updated_at": "2026-09-02T21:45:40Z",
+    "pushed_at": "2026-08-31T01:19:01Z"
+  },
+  {
+    "id": 1347943201,
+    "name": "use-conifer",
+    "full_name": "ConiferKit/use-conifer",
+    "owner": {
+      "login": "ConiferKit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284818068?v=4"
+    },
+    "description": "The Conifer SDK — one gateway for cloud, local, and BYOK inference, with exact per-call cost receipts. TypeScript + Python + MCP.",
+    "topics": [
+      "ai-gateway",
+      "anthropic",
+      "llm",
+      "mcp",
+      "openai",
+      "openai-compatible",
+      "python",
+      "sdk",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ConiferKit/use-conifer",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-08-27T01:20:51Z",
+    "updated_at": "2026-09-02T01:20:17Z",
+    "pushed_at": "2026-09-02T01:19:37Z"
+  }
+]
