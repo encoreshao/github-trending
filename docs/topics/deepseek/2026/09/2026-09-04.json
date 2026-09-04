@@ -1,0 +1,608 @@
+[
+  {
+    "id": 1351888900,
+    "name": "1Panel-Gateway",
+    "full_name": "1Panel-dev/1Panel-Gateway",
+    "owner": {
+      "login": "1Panel-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109613420?v=4"
+    },
+    "description": "1Panel AI 网关提供从统一接入、智能路由到合规审计的全链条管控，让企业 AI 落地更安全、更高效、更可控。",
+    "topics": [
+      "1panel",
+      "ai-gateway",
+      "anthropic",
+      "deepseek",
+      "gateway",
+      "litellm",
+      "llm",
+      "newapi",
+      "openai"
+    ],
+    "html_url": "https://github.com/1Panel-dev/1Panel-Gateway",
+    "stargazers_count": 53,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T01:56:02Z",
+    "updated_at": "2026-09-04T01:30:02Z",
+    "pushed_at": "2026-09-03T01:22:22Z"
+  },
+  {
+    "id": 1353116530,
+    "name": "dsh-token-pet",
+    "full_name": "Jimmy0123-ux/dsh-token-pet",
+    "owner": {
+      "login": "Jimmy0123-ux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178448969?v=4"
+    },
+    "description": "DeepSeek Harness Desktop 悬浮用量小宠物：12 个正式逐帧动作反馈请求、工具、上下文压缩、归档与提示词增强；展示实时上下文占用、跨会话 Lifetime Ledger、服务商/模型统计和小时 Token 趋势；支持可编辑提示词增强、拖拽缩放、低性能模式与后台增量索引。",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "desktop-pet",
+      "dsh",
+      "dsh-plugin",
+      "react",
+      "token-usage",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Jimmy0123-ux/dsh-token-pet",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T04:06:22Z",
+    "updated_at": "2026-09-04T01:16:15Z",
+    "pushed_at": "2026-09-02T02:46:20Z"
+  },
+  {
+    "id": 1350368388,
+    "name": "opencode2dsh",
+    "full_name": "FishBottle7/opencode2dsh",
+    "owner": {
+      "login": "FishBottle7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100136290?v=4"
+    },
+    "description": "DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key",
+    "topics": [
+      "cordis",
+      "cordis-plugin",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "free-api",
+      "free-llm",
+      "free-llm-access",
+      "free-models",
+      "llm",
+      "llm-agents",
+      "llm-provider",
+      "nodejs",
+      "opencode-zen",
+      "typescript"
+    ],
+    "html_url": "https://github.com/FishBottle7/opencode2dsh",
+    "stargazers_count": 20,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T07:22:12Z",
+    "updated_at": "2026-09-03T13:26:25Z",
+    "pushed_at": "2026-09-03T06:31:44Z"
+  },
+  {
+    "id": 1351845049,
+    "name": "BioDSH",
+    "full_name": "sagirimo/BioDSH",
+    "owner": {
+      "login": "sagirimo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64895957?v=4"
+    },
+    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists — built on DeepSeek Harness. One-click installers, a skill store, offline mode.",
+    "topics": [
+      "bioinformatics",
+      "deepseek",
+      "desktop-app",
+      "dsh-plugin",
+      "llm-agent",
+      "single-cell",
+      "tauri"
+    ],
+    "html_url": "https://github.com/sagirimo/BioDSH",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T00:33:35Z",
+    "updated_at": "2026-09-04T01:44:00Z",
+    "pushed_at": "2026-09-02T17:34:25Z"
+  },
+  {
+    "id": 1355842287,
+    "name": "TDHarness-coding",
+    "full_name": "398894496-arch/TDHarness-coding",
+    "owner": {
+      "login": "398894496-arch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283444574?v=4"
+    },
+    "description": "Coding tree on DeepSeek Harness. Small team can run it; not a mature product.",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "coding-agents",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "macos",
+      "nodejs",
+      "sandbox",
+      "windows"
+    ],
+    "html_url": "https://github.com/398894496-arch/TDHarness-coding",
+    "stargazers_count": 13,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T10:45:06Z",
+    "updated_at": "2026-09-04T01:07:55Z",
+    "pushed_at": "2026-09-03T12:23:37Z"
+  },
+  {
+    "id": 1349432048,
+    "name": "deepseek-chan-meme-pack",
+    "full_name": "the-beating-light-of-the-nail/deepseek-chan-meme-pack",
+    "owner": {
+      "login": "the-beating-light-of-the-nail",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59921452?v=4"
+    },
+    "description": "474 DeepSeek-chan memes — DeepSeek娘化拟人 whale-chan (蓝色大肥鱼/鲸鱼娘) quote stickers with EN/中文 backstories + CDN hotlinks. Community gateway to GengJing 梗鲸, the DeepSeek表情包 encyclopedia.",
+    "topics": [
+      "ai-girlification",
+      "biaoqingbao",
+      "blue-fat-fish",
+      "chat-stickers",
+      "chinese-memes",
+      "deepseek",
+      "deepseek-chan",
+      "deepseek-memes",
+      "dsh-meme-pack",
+      "emoji",
+      "llm-memes",
+      "meme",
+      "meme-pack",
+      "memes",
+      "sticker",
+      "sticker-pack",
+      "stickers",
+      "whale-chan",
+      "whale-girl"
+    ],
+    "html_url": "https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T09:36:37Z",
+    "updated_at": "2026-09-03T14:21:49Z",
+    "pushed_at": "2026-09-03T14:20:08Z"
+  },
+  {
+    "id": 1350438132,
+    "name": "job-agent",
+    "full_name": "yjxhn/job-agent",
+    "owner": {
+      "login": "yjxhn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287136438?v=4"
+    },
+    "description": "LLM 驱动的求职 AI Agent：8 平台搜岗 + 精排匹配 + 简历定制 + 材料审核 + 投递追踪 + 模拟面试 + Offer 评估 + 薪资谈判，本地部署",
+    "topics": [
+      "ai-agent",
+      "automation",
+      "crawler",
+      "dashboard",
+      "deepseek",
+      "job-hunting",
+      "job-search",
+      "llm",
+      "python",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/yjxhn/job-agent",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T09:10:07Z",
+    "updated_at": "2026-09-01T08:59:19Z",
+    "pushed_at": "2026-08-30T08:25:37Z"
+  },
+  {
+    "id": 1350609994,
+    "name": "DeepSeek-Balance-Whale-Widget-Bowl",
+    "full_name": "Witherwithwinter/DeepSeek-Balance-Whale-Widget-Bowl",
+    "owner": {
+      "login": "Witherwithwinter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189825951?v=4"
+    },
+    "description": "DeepSeek Harness（DSH）Web 界面右下角的常驻余额挂件。基于 MeteorNOX/DeepSeek-Balance-Whale-Widget 修改的铁盆鲸鱼娘版。",
+    "topics": [
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "floating-widget",
+      "plugin"
+    ],
+    "html_url": "https://github.com/Witherwithwinter/DeepSeek-Balance-Whale-Widget-Bowl",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T13:32:54Z",
+    "updated_at": "2026-09-03T07:45:03Z",
+    "pushed_at": "2026-08-31T17:44:45Z"
+  },
+  {
+    "id": 1354590736,
+    "name": "grok-unleashed",
+    "full_name": "xiaojumaoaihuaban/grok-unleashed",
+    "owner": {
+      "login": "xiaojumaoaihuaban",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170083830?v=4"
+    },
+    "description": "grok-build with the leash off — one binary, any OpenAI-compatible endpoint, zero phone-home. No x.ai account.",
+    "topics": [
+      "ai-agent",
+      "cli",
+      "deepseek",
+      "grok",
+      "llm",
+      "no-telemetry",
+      "ollama",
+      "openai-compatible",
+      "privacy",
+      "terminal"
+    ],
+    "html_url": "https://github.com/xiaojumaoaihuaban/grok-unleashed",
+    "stargazers_count": 7,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T09:45:35Z",
+    "updated_at": "2026-09-04T00:33:17Z",
+    "pushed_at": "2026-09-02T10:43:28Z"
+  },
+  {
+    "id": 1351193969,
+    "name": "aqua-rust-workers",
+    "full_name": "xiaosu4610/aqua-rust-workers",
+    "owner": {
+      "login": "xiaosu4610",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322711997?v=4"
+    },
+    "description": "AQUA — 免费 AI API 网关（OpenAI 兼容 API 聚合代理）· ACU 工程系列旗舰开源项目：聚合 DeepSeek、Qwen 通义千问、GLM 智谱、Llama、Nvidia NIM、Gitee AI、SiliconFlow、讯飞星火等全线模型；Rust→WASM 部署 Cloudflare Workers 全球边缘节点；兼容 ChatGPT 客户端、LobeChat、NextChat、Dify、沉浸式翻译；免注册任意密钥即用、SSE 流式、内置工具 API 与 AI 游戏、支持自部署（AGPL-3.0）求 Star",
+    "topics": [
+      "agpl",
+      "ai-gateway",
+      "api-gateway",
+      "aqua",
+      "chatgpt",
+      "chinese-ai",
+      "cloudflare-workers",
+      "deepseek",
+      "edge-computing",
+      "free-api",
+      "glm",
+      "llm",
+      "llm-proxy",
+      "openai-api",
+      "openai-compatible",
+      "qwen",
+      "rust",
+      "self-hosted",
+      "wasm",
+      "webassembly"
+    ],
+    "html_url": "https://github.com/xiaosu4610/aqua-rust-workers",
+    "stargazers_count": 6,
+    "language": "HTML",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T07:26:50Z",
+    "updated_at": "2026-09-02T12:25:08Z",
+    "pushed_at": "2026-08-31T13:13:17Z"
+  },
+  {
+    "id": 1353732923,
+    "name": "blue-whale-agent",
+    "full_name": "whiteball-shiro/blue-whale-agent",
+    "owner": {
+      "login": "whiteball-shiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254237016?v=4"
+    },
+    "description": "大肥鱼：桌面小鲸鱼，显示 LLM 余额，支持 Codex/本地/云端对话、本地委派分流、文件处理与本地生图。不绑定特定模型，可接任意 OpenAI 兼容接口。",
+    "topics": [
+      "ai",
+      "ai-chat",
+      "always-on-top",
+      "comfyui",
+      "deepseek",
+      "desktop-pet",
+      "electron",
+      "gpu-mutex",
+      "image-generation",
+      "llm",
+      "lm-studio",
+      "local-llm",
+      "mcp",
+      "ollama",
+      "openai-compatible",
+      "tray-app",
+      "vram-management",
+      "whale"
+    ],
+    "html_url": "https://github.com/whiteball-shiro/blue-whale-agent",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T15:32:02Z",
+    "updated_at": "2026-09-03T18:05:12Z",
+    "pushed_at": "2026-09-03T17:59:54Z"
+  },
+  {
+    "id": 1351754550,
+    "name": "dsh-go",
+    "full_name": "JopenChen/dsh-go",
+    "owner": {
+      "login": "JopenChen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34567978?v=4"
+    },
+    "description": "dsh-go 是一个纯 Go、进程内的 DeepSeek Harness Agent 实现 —— 让任意 Go 后端能以内嵌库的方式直接获得一个等价、具备规划能力的 Agent，无需界面、无需独立运行时。它不是又一个 ReAct 骨架，而是对 DSH 全量能力接缝的系统级复刻。",
+    "topics": [
+      "agent",
+      "deepseek",
+      "dsh-plugin",
+      "event-sourcing",
+      "go",
+      "golang",
+      "llm"
+    ],
+    "html_url": "https://github.com/JopenChen/dsh-go",
+    "stargazers_count": 6,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T21:20:29Z",
+    "updated_at": "2026-09-01T06:12:15Z",
+    "pushed_at": "2026-09-01T03:51:39Z"
+  },
+  {
+    "id": 1355765537,
+    "name": "dsh-clawbot",
+    "full_name": "cryjkd/dsh-clawbot",
+    "owner": {
+      "login": "cryjkd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38123501?v=4"
+    },
+    "description": "dsh-clawbot",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "deepseek-harness-plugins",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-market",
+      "dsh-plugins",
+      "dsh-skill"
+    ],
+    "html_url": "https://github.com/cryjkd/dsh-clawbot",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T09:21:21Z",
+    "updated_at": "2026-09-03T22:34:21Z",
+    "pushed_at": "2026-09-03T14:51:05Z"
+  },
+  {
+    "id": 1351419018,
+    "name": "asl-harness",
+    "full_name": "qihangzhang-272/asl-harness",
+    "owner": {
+      "login": "qihangzhang-272",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196874854?v=4"
+    },
+    "description": "Mode-based local Skill environments for Codex, Claude Code, and DeepSeek Harness.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "deepseek",
+      "harness"
+    ],
+    "html_url": "https://github.com/qihangzhang-272/asl-harness",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T13:27:25Z",
+    "updated_at": "2026-09-02T01:44:04Z",
+    "pushed_at": "2026-09-01T09:10:44Z"
+  },
+  {
+    "id": 1350271200,
+    "name": "empty-fort-strategy",
+    "full_name": "HuaJi2077/empty-fort-strategy",
+    "owner": {
+      "login": "HuaJi2077",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221543887?v=4"
+    },
+    "description": "DSH插件，感受空城计的巧妙，消耗多余的Token。",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins"
+    ],
+    "html_url": "https://github.com/HuaJi2077/empty-fort-strategy",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T04:27:45Z",
+    "updated_at": "2026-08-31T06:10:34Z",
+    "pushed_at": "2026-08-29T05:41:35Z"
+  },
+  {
+    "id": 1351220121,
+    "name": "quant-Trader",
+    "full_name": "guge199205-byte/quant-Trader",
+    "owner": {
+      "login": "guge199205-byte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233281617?v=4"
+    },
+    "description": "基于 DeepSeek Agent 的自主交易平台:AI 全程盯盘、分析、决策、下单执行合一,7×24 无人值守。三市场模拟竞技(美股/港股/A股)+ A股实盘(通达信桥)双轨运行;DeepSeek/GLM/Claude/GPT 多模型公平对决;L2 微观因子·分账制·风控网关·交易记忆·Arena 可视化。Docker 一键部署,免费接口初始化数据,个人投资者零门槛开跑;加模型、加市场、改交易思路均无需改代码",
+    "topics": [
+      "a-share",
+      "ai-trading",
+      "deepseek",
+      "docker",
+      "llm-agents",
+      "quantitative-trading",
+      "trading-bot"
+    ],
+    "html_url": "https://github.com/guge199205-byte/quant-Trader",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T08:12:49Z",
+    "updated_at": "2026-09-03T16:21:45Z",
+    "pushed_at": "2026-09-03T16:18:11Z"
+  },
+  {
+    "id": 1352431622,
+    "name": "aihub",
+    "full_name": "whaleal-dev/aihub",
+    "owner": {
+      "login": "whaleal-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296498866?v=4"
+    },
+    "description": "aihub 是面向 JDK 8+ 的 Java 大模型客户端。它只做一件事：把各厂商的 HTTP / SSE API 收成同一套 Java 调用。",
+    "topics": [
+      "anthropic",
+      "dashscope",
+      "deepseek",
+      "embedding",
+      "function-calling",
+      "hunyuan",
+      "java",
+      "ollama",
+      "openai",
+      "sdk",
+      "springboot"
+    ],
+    "html_url": "https://github.com/whaleal-dev/aihub",
+    "stargazers_count": 4,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T13:14:54Z",
+    "updated_at": "2026-09-03T06:59:25Z",
+    "pushed_at": "2026-09-03T07:17:30Z"
+  },
+  {
+    "id": 1352205900,
+    "name": "dsh-developer",
+    "full_name": "builtin-pb/dsh-developer",
+    "owner": {
+      "login": "builtin-pb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239264913?v=4"
+    },
+    "description": "The single plugin you need for DSH — develop, audit, isolate, and future-proof DeepSeek Harness plugins.",
+    "topics": [
+      "agent-skills",
+      "bubblewrap",
+      "codex",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "plugin-development"
+    ],
+    "html_url": "https://github.com/builtin-pb/dsh-developer",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-31T09:04:32Z",
+    "updated_at": "2026-09-03T00:08:39Z",
+    "pushed_at": "2026-09-02T01:39:18Z"
+  },
+  {
+    "id": 1352966878,
+    "name": "dsh-replay-theater",
+    "full_name": "ItBayMax/dsh-replay-theater",
+    "owner": {
+      "login": "ItBayMax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16939509?v=4"
+    },
+    "description": "Replay a DeepSeek Harness session at its original token cadence — an in-app playback theater with play/pause/step/speed/seek.",
+    "topics": [
+      "ai-agents",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "react",
+      "session-replay",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ItBayMax/dsh-replay-theater",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T00:08:03Z",
+    "updated_at": "2026-09-01T01:35:37Z",
+    "pushed_at": "2026-09-01T01:30:24Z"
+  },
+  {
+    "id": 1354758152,
+    "name": "dsh-workspace-hygiene",
+    "full_name": "taoshi1999/dsh-workspace-hygiene",
+    "owner": {
+      "login": "taoshi1999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206673241?v=4"
+    },
+    "description": "DeepSeek Harness plugin for agent workspace hygiene: artifact value assessment, metadata indexing, and auditable cleanup.",
+    "topics": [
+      "ai-agents",
+      "artifact-management",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "workspace-management"
+    ],
+    "html_url": "https://github.com/taoshi1999/dsh-workspace-hygiene",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T12:48:05Z",
+    "updated_at": "2026-09-04T01:51:42Z",
+    "pushed_at": "2026-09-04T01:48:58Z"
+  }
+]

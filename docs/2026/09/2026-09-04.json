@@ -1,0 +1,536 @@
+[
+  {
+    "id": 1349601607,
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "owner": {
+      "login": "XiaoDuoYa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113528266?v=4"
+    },
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stargazers_count": 2404,
+    "language": "TypeScript",
+    "forks_count": 249,
+    "open_issues_count": 4,
+    "created_at": "2026-08-28T12:57:24Z",
+    "updated_at": "2026-09-04T01:58:57Z",
+    "pushed_at": "2026-09-03T13:54:28Z"
+  },
+  {
+    "id": 1349253750,
+    "name": "sepia",
+    "full_name": "Nanako0129/sepia",
+    "owner": {
+      "login": "Nanako0129",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44753291?v=4"
+    },
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "fiction",
+      "grok",
+      "humanizer",
+      "llm",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "html_url": "https://github.com/Nanako0129/sepia",
+    "stargazers_count": 1885,
+    "language": "Python",
+    "forks_count": 113,
+    "open_issues_count": 2,
+    "created_at": "2026-08-28T05:56:49Z",
+    "updated_at": "2026-09-04T01:58:39Z",
+    "pushed_at": "2026-09-04T01:25:07Z"
+  },
+  {
+    "id": 1353548665,
+    "name": "commerce-agents",
+    "full_name": "anthropics/commerce-agents",
+    "owner": {
+      "login": "anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+    "topics": [],
+    "html_url": "https://github.com/anthropics/commerce-agents",
+    "stargazers_count": 1586,
+    "language": "Python",
+    "forks_count": 252,
+    "open_issues_count": 3,
+    "created_at": "2026-09-01T12:30:12Z",
+    "updated_at": "2026-09-04T01:59:13Z",
+    "pushed_at": "2026-09-01T20:41:14Z"
+  },
+  {
+    "id": 1349354292,
+    "name": "metamask-desktop",
+    "full_name": "MetaMask-AI/metamask-desktop",
+    "owner": {
+      "login": "MetaMask-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306329710?v=4"
+    },
+    "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+    "topics": [
+      "bitcoin",
+      "bitcoin-wallet",
+      "crypto",
+      "cryptocoins",
+      "cryptocompare-api",
+      "cryptocurrency",
+      "dapp",
+      "ethereum",
+      "ethereum-blockchain",
+      "ethereum-wallet",
+      "evm",
+      "evm-wallet",
+      "macos",
+      "metamask",
+      "metamask-dapp",
+      "metamask-desktop",
+      "metamask-io",
+      "solana",
+      "web3",
+      "windows"
+    ],
+    "html_url": "https://github.com/MetaMask-AI/metamask-desktop",
+    "stargazers_count": 1230,
+    "language": "CSS",
+    "forks_count": 91,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T08:07:10Z",
+    "updated_at": "2026-09-03T00:15:05Z",
+    "pushed_at": "2026-08-28T08:52:47Z"
+  },
+  {
+    "id": 1349898907,
+    "name": "headcount",
+    "full_name": "cbrock84/headcount",
+    "owner": {
+      "login": "cbrock84",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15268570?v=4"
+    },
+    "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+    "topics": [
+      "agent-marketplace",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "claude-skills",
+      "mcp"
+    ],
+    "html_url": "https://github.com/cbrock84/headcount",
+    "stargazers_count": 1187,
+    "language": "Markdown",
+    "forks_count": 189,
+    "open_issues_count": 1,
+    "created_at": "2026-08-28T18:03:04Z",
+    "updated_at": "2026-09-04T01:55:39Z",
+    "pushed_at": "2026-09-03T02:54:33Z"
+  },
+  {
+    "id": 1350984217,
+    "name": "DLSS5-Swapper",
+    "full_name": "rakanki911/DLSS5-Swapper",
+    "owner": {
+      "login": "rakanki911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
+    },
+    "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+    "topics": [],
+    "html_url": "https://github.com/rakanki911/DLSS5-Swapper",
+    "stargazers_count": 1105,
+    "language": "JavaScript",
+    "forks_count": 49,
+    "open_issues_count": 26,
+    "created_at": "2026-08-29T23:51:32Z",
+    "updated_at": "2026-09-04T01:55:43Z",
+    "pushed_at": "2026-09-03T00:08:09Z"
+  },
+  {
+    "id": 1351835285,
+    "name": "undress-service",
+    "full_name": "GangTailorUpgrade/undress-service",
+    "owner": {
+      "login": "GangTailorUpgrade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270958586?v=4"
+    },
+    "description": "Dress AI Sponsor",
+    "topics": [
+      "18comic",
+      "coomer",
+      "coomer-downloader",
+      "coomer-party",
+      "coomer-porn",
+      "coomer-su",
+      "doujin-moe",
+      "ehviewer",
+      "ex-hentai",
+      "explicit-content",
+      "hitomi-la",
+      "kemono",
+      "kemono-downloader",
+      "kemono-oarty",
+      "kemono-party",
+      "kemono-porn",
+      "kemono-su",
+      "nudity",
+      "sex",
+      "unrestricted-ai"
+    ],
+    "html_url": "https://github.com/GangTailorUpgrade/undress-service",
+    "stargazers_count": 1018,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T00:12:45Z",
+    "updated_at": "2026-09-04T01:44:25Z",
+    "pushed_at": "2026-09-02T13:58:48Z"
+  },
+  {
+    "id": 1352104394,
+    "name": "cn",
+    "full_name": "shadcn-ui/cn",
+    "owner": {
+      "login": "shadcn-ui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139895814?v=4"
+    },
+    "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+    "topics": [
+      "clsx",
+      "cn",
+      "shadcn",
+      "tailwind-merge",
+      "tailwindcss"
+    ],
+    "html_url": "https://github.com/shadcn-ui/cn",
+    "stargazers_count": 964,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 5,
+    "created_at": "2026-08-31T07:04:03Z",
+    "updated_at": "2026-09-04T01:56:41Z",
+    "pushed_at": "2026-09-03T06:46:20Z"
+  },
+  {
+    "id": 1349507889,
+    "name": "PawWork_ZhuaZhua",
+    "full_name": "Player-YN/PawWork_ZhuaZhua",
+    "owner": {
+      "login": "Player-YN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293915860?v=4"
+    },
+    "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+    "topics": [
+      "ai-agent",
+      "browser-agent",
+      "byok",
+      "chrome-extension",
+      "llm",
+      "pptx",
+      "tldraw",
+      "univer"
+    ],
+    "html_url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+    "stargazers_count": 873,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T10:56:56Z",
+    "updated_at": "2026-09-04T01:43:05Z",
+    "pushed_at": "2026-09-01T15:03:17Z"
+  },
+  {
+    "id": 1351859098,
+    "name": "reverify",
+    "full_name": "2akouwu/reverify",
+    "owner": {
+      "login": "2akouwu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14812897?v=4"
+    },
+    "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "anti-hallucination",
+      "binary-analysis",
+      "context-engineering",
+      "ctf",
+      "developer-tools",
+      "disassembler",
+      "frida",
+      "grounding",
+      "hallucination",
+      "hallucination-detection",
+      "llm",
+      "malware-analysis",
+      "mcp",
+      "mcp-server",
+      "python",
+      "reverse-engineering",
+      "security-tools",
+      "verification"
+    ],
+    "html_url": "https://github.com/2akouwu/reverify",
+    "stargazers_count": 790,
+    "language": "Python",
+    "forks_count": 166,
+    "open_issues_count": 4,
+    "created_at": "2026-08-31T01:02:18Z",
+    "updated_at": "2026-09-04T01:52:51Z",
+    "pushed_at": "2026-09-03T23:44:01Z"
+  },
+  {
+    "id": 1349765459,
+    "name": "boop",
+    "full_name": "chrisgreg/boop",
+    "owner": {
+      "login": "chrisgreg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5280429?v=4"
+    },
+    "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+    "topics": [],
+    "html_url": "https://github.com/chrisgreg/boop",
+    "stargazers_count": 707,
+    "language": "Go",
+    "forks_count": 34,
+    "open_issues_count": 3,
+    "created_at": "2026-08-28T15:38:33Z",
+    "updated_at": "2026-09-04T01:27:03Z",
+    "pushed_at": "2026-08-30T11:34:44Z"
+  },
+  {
+    "id": 1350871465,
+    "name": "DLSS5-Feeder",
+    "full_name": "jlrouzies-fr/DLSS5-Feeder",
+    "owner": {
+      "login": "jlrouzies-fr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57990274?v=4"
+    },
+    "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+    "topics": [],
+    "html_url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+    "stargazers_count": 670,
+    "language": "C++",
+    "forks_count": 31,
+    "open_issues_count": 15,
+    "created_at": "2026-08-29T19:52:37Z",
+    "updated_at": "2026-09-04T01:21:49Z",
+    "pushed_at": "2026-09-03T18:22:30Z"
+  },
+  {
+    "id": 1354310030,
+    "name": "m3e-canvas",
+    "full_name": "lnkiai/m3e-canvas",
+    "owner": {
+      "login": "lnkiai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187016380?v=4"
+    },
+    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+    "topics": [
+      "design-tool",
+      "material-3-expressive",
+      "material-design",
+      "material3",
+      "nextjs",
+      "prompt",
+      "react",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/lnkiai/m3e-canvas",
+    "stargazers_count": 490,
+    "language": "TypeScript",
+    "forks_count": 29,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T04:36:34Z",
+    "updated_at": "2026-09-04T01:52:19Z",
+    "pushed_at": "2026-09-03T15:19:08Z"
+  },
+  {
+    "id": 1355442495,
+    "name": "FalconFlank",
+    "full_name": "MSNightmare/FalconFlank",
+    "owner": {
+      "login": "MSNightmare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
+    },
+    "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+    "topics": [],
+    "html_url": "https://github.com/MSNightmare/FalconFlank",
+    "stargazers_count": 420,
+    "language": "C",
+    "forks_count": 108,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T02:48:22Z",
+    "updated_at": "2026-09-04T01:44:47Z",
+    "pushed_at": "2026-09-03T03:44:38Z"
+  },
+  {
+    "id": 1350978527,
+    "name": "open-seo-mcp-skills",
+    "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+    "owner": {
+      "login": "Ryze-AI-Adgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239315082?v=4"
+    },
+    "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+    "topics": [
+      "ai-seo",
+      "backlinks",
+      "claude",
+      "claude-skills",
+      "dataforseo",
+      "generative-engine-optimization",
+      "geo",
+      "keyword-research",
+      "mcp",
+      "mcp-server",
+      "open-source-seo",
+      "rank-tracking",
+      "seo",
+      "seo-audit"
+    ],
+    "html_url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+    "stargazers_count": 416,
+    "language": "Shell",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T23:37:01Z",
+    "updated_at": "2026-09-04T01:25:13Z",
+    "pushed_at": "2026-08-31T03:09:10Z"
+  },
+  {
+    "id": 1349648156,
+    "name": "microduck-replica",
+    "full_name": "fanhao375/microduck-replica",
+    "owner": {
+      "login": "fanhao375",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217579079?v=4"
+    },
+    "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
+    "topics": [],
+    "html_url": "https://github.com/fanhao375/microduck-replica",
+    "stargazers_count": 415,
+    "language": "Python",
+    "forks_count": 74,
+    "open_issues_count": 11,
+    "created_at": "2026-08-28T13:42:48Z",
+    "updated_at": "2026-09-03T23:51:14Z",
+    "pushed_at": "2026-09-03T19:51:21Z"
+  },
+  {
+    "id": 1349741082,
+    "name": "LightNav-0",
+    "full_name": "lightorigins/LightNav-0",
+    "owner": {
+      "login": "lightorigins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182771143?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/lightorigins/LightNav-0",
+    "stargazers_count": 402,
+    "language": "Python",
+    "forks_count": 26,
+    "open_issues_count": 2,
+    "created_at": "2026-08-28T15:13:58Z",
+    "updated_at": "2026-09-04T01:46:24Z",
+    "pushed_at": "2026-09-03T03:45:41Z"
+  },
+  {
+    "id": 1351701238,
+    "name": "dlss5-visual-enhancer",
+    "full_name": "Merserk/dlss5-visual-enhancer",
+    "owner": {
+      "login": "Merserk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119538451?v=4"
+    },
+    "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+    "topics": [
+      "ai-upscaling",
+      "dlss",
+      "dlss-5",
+      "dlssg",
+      "frame-generation",
+      "frame-interpolation",
+      "image-enhancement",
+      "image-upscaling",
+      "neural-rendering",
+      "nvidia",
+      "nvidia-rtx",
+      "video-enhancement",
+      "video-upscaling"
+    ],
+    "html_url": "https://github.com/Merserk/dlss5-visual-enhancer",
+    "stargazers_count": 395,
+    "language": "Python",
+    "forks_count": 36,
+    "open_issues_count": 11,
+    "created_at": "2026-08-30T19:45:52Z",
+    "updated_at": "2026-09-04T01:03:40Z",
+    "pushed_at": "2026-09-03T01:59:07Z"
+  },
+  {
+    "id": 1355092388,
+    "name": "fable51-worlds",
+    "full_name": "PhiloLabs/fable51-worlds",
+    "owner": {
+      "login": "PhiloLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260782224?v=4"
+    },
+    "description": "worlds via code, from fable 5.1",
+    "topics": [
+      "3d-reconstruction",
+      "ai-agents",
+      "claude",
+      "digital-twin",
+      "openstreetmap",
+      "procedural-generation",
+      "san-francisco",
+      "threejs",
+      "urban-simulation",
+      "webgl"
+    ],
+    "html_url": "https://github.com/PhiloLabs/fable51-worlds",
+    "stargazers_count": 383,
+    "language": "JavaScript",
+    "forks_count": 17,
+    "open_issues_count": 2,
+    "created_at": "2026-09-02T18:19:55Z",
+    "updated_at": "2026-09-04T01:47:07Z",
+    "pushed_at": "2026-09-03T19:22:13Z"
+  },
+  {
+    "id": 1352375345,
+    "name": "skill-cabinet",
+    "full_name": "subsy/skill-cabinet",
+    "owner": {
+      "login": "subsy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7700461?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/subsy/skill-cabinet",
+    "stargazers_count": 381,
+    "language": "JavaScript",
+    "forks_count": 25,
+    "open_issues_count": 1,
+    "created_at": "2026-08-31T12:17:01Z",
+    "updated_at": "2026-09-03T17:42:43Z",
+    "pushed_at": "2026-09-02T14:54:47Z"
+  }
+]

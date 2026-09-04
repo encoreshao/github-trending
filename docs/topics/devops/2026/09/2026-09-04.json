@@ -1,0 +1,573 @@
+[
+  {
+    "id": 1350830809,
+    "name": "MobaRust",
+    "full_name": "OthmaneBlial/MobaRust",
+    "owner": {
+      "login": "OthmaneBlial",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26414042?v=4"
+    },
+    "description": "Free, open-source MobaXterm alternative built with Rust: SSH, SFTP, SCP, terminals, tunnels, serial, Telnet, diagnostics, and remote administration.",
+    "topics": [
+      "devops",
+      "free-software",
+      "mobaxterm",
+      "mobaxterm-alternative",
+      "open-source",
+      "open-source-alternative",
+      "remote-access",
+      "remote-desktop",
+      "remote-workstation",
+      "rust",
+      "scp",
+      "sftp",
+      "sftp-client",
+      "ssh",
+      "ssh-client",
+      "ssh-tunneling",
+      "sysadmin",
+      "tauri",
+      "terminal",
+      "terminal-emulator"
+    ],
+    "html_url": "https://github.com/OthmaneBlial/MobaRust",
+    "stargazers_count": 91,
+    "language": "Rust",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T18:43:07Z",
+    "updated_at": "2026-09-03T22:50:49Z",
+    "pushed_at": "2026-08-31T03:46:36Z"
+  },
+  {
+    "id": 1350143069,
+    "name": "jump-skills",
+    "full_name": "fabricioctelles/jump-skills",
+    "owner": {
+      "login": "fabricioctelles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219920630?v=4"
+    },
+    "description": "Jump Skill Ninjas are intelligent meta-skills — master orchestrators that route your requests to the most appropriate specialized skill from a curated library. Instead of manually searching through hundreds of individual skills, you simply describe your task and the Ninja Identifies specialized skills and Loads the full skill in context",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "aws",
+      "azure",
+      "claude-code",
+      "cloud",
+      "cursor",
+      "devops",
+      "firecrawl",
+      "github-copilot",
+      "kiro",
+      "llm",
+      "llms",
+      "ninja",
+      "skills",
+      "skills-library",
+      "skills-sh",
+      "sre"
+    ],
+    "html_url": "https://github.com/fabricioctelles/jump-skills",
+    "stargazers_count": 22,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T00:23:45Z",
+    "updated_at": "2026-09-03T23:45:55Z",
+    "pushed_at": "2026-09-03T01:53:05Z"
+  },
+  {
+    "id": 1352527683,
+    "name": "FaultLens",
+    "full_name": "MangoGreenTeaz/FaultLens",
+    "owner": {
+      "login": "MangoGreenTeaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61741618?v=4"
+    },
+    "description": "Local-first, explainable log incident diagnosis for developers and CI/CD.",
+    "topics": [
+      "ci-cd",
+      "cli",
+      "devops",
+      "github-actions",
+      "go",
+      "golang",
+      "incident-response",
+      "log-analysis",
+      "log-analyzer",
+      "observability",
+      "root-cause-analysis",
+      "sre"
+    ],
+    "html_url": "https://github.com/MangoGreenTeaz/FaultLens",
+    "stargazers_count": 19,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T14:47:08Z",
+    "updated_at": "2026-09-03T20:25:59Z",
+    "pushed_at": "2026-09-03T18:02:10Z"
+  },
+  {
+    "id": 1354510313,
+    "name": "flowkit",
+    "full_name": "R3DRUN3/flowkit",
+    "owner": {
+      "login": "R3DRUN3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102741679?v=4"
+    },
+    "description": "Build, run, and manage your n8n workflows.",
+    "topics": [
+      "ai",
+      "automation",
+      "devops",
+      "docker",
+      "n8n",
+      "orchestration"
+    ],
+    "html_url": "https://github.com/R3DRUN3/flowkit",
+    "stargazers_count": 6,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T08:17:43Z",
+    "updated_at": "2026-09-03T10:10:24Z",
+    "pushed_at": "2026-09-03T10:08:43Z"
+  },
+  {
+    "id": 1349534132,
+    "name": "glovebox",
+    "full_name": "danieloa/glovebox",
+    "owner": {
+      "login": "danieloa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10028809?v=4"
+    },
+    "description": "A glovebox for someone else's Kubernetes cluster: a disposable container with a layered read-only triage toolkit and Claude Code behind guard rails.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "devops",
+      "docker",
+      "eks",
+      "incident-response",
+      "kubectl",
+      "kubernetes",
+      "sre",
+      "troubleshooting"
+    ],
+    "html_url": "https://github.com/danieloa/glovebox",
+    "stargazers_count": 5,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T11:31:30Z",
+    "updated_at": "2026-09-03T00:43:40Z",
+    "pushed_at": "2026-09-02T11:03:31Z"
+  },
+  {
+    "id": 1350177196,
+    "name": "hermes-patches",
+    "full_name": "shali10/hermes-patches",
+    "owner": {
+      "login": "shali10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99240403?v=4"
+    },
+    "description": "🛠️ Hermes Agent 体验增强补丁与扩展插件 | Non-intrusive patches for Hermes Agent (Token metrics, CJK native tables, menu localization, DB guards)",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "cjk",
+      "cjk-support",
+      "devops",
+      "durability",
+      "hermes",
+      "hermes-agent",
+      "hermes-patches",
+      "patches",
+      "python",
+      "sqlite",
+      "telegram",
+      "telegram-bot"
+    ],
+    "html_url": "https://github.com/shali10/hermes-patches",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T01:33:57Z",
+    "updated_at": "2026-09-03T03:06:21Z",
+    "pushed_at": "2026-09-03T03:06:03Z"
+  },
+  {
+    "id": 1350127175,
+    "name": "testate",
+    "full_name": "PT-Perkasa-Pilar-Utama/testate",
+    "owner": {
+      "login": "PT-Perkasa-Pilar-Utama",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187519071?v=4"
+    },
+    "description": "Git for your test database. Snapshot it, break it, put it back in seconds. QA, Developers, Devops internal assistance tools.",
+    "topics": [
+      "checkout",
+      "database",
+      "database-tools",
+      "developer-tools",
+      "devops",
+      "docker",
+      "git",
+      "qa",
+      "rollback",
+      "snapshot"
+    ],
+    "html_url": "https://github.com/PT-Perkasa-Pilar-Utama/testate",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T23:50:29Z",
+    "updated_at": "2026-09-03T14:35:49Z",
+    "pushed_at": "2026-09-03T14:34:44Z"
+  },
+  {
+    "id": 1354548781,
+    "name": "target-bitcoin-liquidat-rn4lz7",
+    "full_name": "lynamr/target-bitcoin-liquidat-rn4lz7",
+    "owner": {
+      "login": "lynamr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390065?v=4"
+    },
+    "description": "Backfill slot for keyword: bitcoin-liquidation-bot",
+    "topics": [
+      "automation",
+      "bitcoin-liquidation-bot",
+      "devops",
+      "open-source",
+      "utilities"
+    ],
+    "html_url": "https://github.com/lynamr/target-bitcoin-liquidat-rn4lz7",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T09:00:09Z",
+    "updated_at": "2026-09-02T13:33:46Z",
+    "pushed_at": "2026-09-02T09:00:33Z"
+  },
+  {
+    "id": 1350571602,
+    "name": "DevOrbit",
+    "full_name": "RainDong19981998/DevOrbit",
+    "owner": {
+      "login": "RainDong19981998",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322487869?v=4"
+    },
+    "description": null,
+    "topics": [
+      "ai-agent",
+      "aiops",
+      "devops",
+      "mcp",
+      "multi-agent",
+      "rag",
+      "software-engineering",
+      "swe-bench"
+    ],
+    "html_url": "https://github.com/RainDong19981998/DevOrbit",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T12:37:57Z",
+    "updated_at": "2026-08-31T02:04:52Z",
+    "pushed_at": "2026-08-29T14:41:58Z"
+  },
+  {
+    "id": 1356035934,
+    "name": "ethereum-indexer-2026-ie2n",
+    "full_name": "auwallpatil/ethereum-indexer-2026-ie2n",
+    "owner": {
+      "login": "auwallpatil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390021?v=4"
+    },
+    "description": "Reference implementation for state-sync patterns.",
+    "topics": [
+      "automation",
+      "devops",
+      "ethereum",
+      "indexer",
+      "open-source"
+    ],
+    "html_url": "https://github.com/auwallpatil/ethereum-indexer-2026-ie2n",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T13:54:46Z",
+    "updated_at": "2026-09-03T18:26:27Z",
+    "pushed_at": "2026-09-03T13:55:17Z"
+  },
+  {
+    "id": 1350519473,
+    "name": "web3-sniper-bot-sdk-58uy",
+    "full_name": "pezguiddgooms/web3-sniper-bot-sdk-58uy",
+    "owner": {
+      "login": "pezguiddgooms",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390171?v=4"
+    },
+    "description": "Experimental workspace for distributed workflows.",
+    "topics": [
+      "automation",
+      "devops",
+      "open-source",
+      "sniper",
+      "web3"
+    ],
+    "html_url": "https://github.com/pezguiddgooms/web3-sniper-bot-sdk-58uy",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T11:15:38Z",
+    "updated_at": "2026-08-29T11:49:34Z",
+    "pushed_at": "2026-08-29T11:16:00Z"
+  },
+  {
+    "id": 1353549465,
+    "name": "target-web3-mev-bot-51sv4j",
+    "full_name": "hirenaqg/target-web3-mev-bot-51sv4j",
+    "owner": {
+      "login": "hirenaqg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390150?v=4"
+    },
+    "description": "Backfill slot for keyword: web3-mev-bot",
+    "topics": [
+      "automation",
+      "devops",
+      "open-source",
+      "utilities",
+      "web3-mev-bot"
+    ],
+    "html_url": "https://github.com/hirenaqg/target-web3-mev-bot-51sv4j",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T12:31:07Z",
+    "updated_at": "2026-09-01T13:35:47Z",
+    "pushed_at": "2026-09-01T12:31:35Z"
+  },
+  {
+    "id": 1354664517,
+    "name": "base-airdrop-farmer-cli-7tl0",
+    "full_name": "auwallpatil/base-airdrop-farmer-cli-7tl0",
+    "owner": {
+      "login": "auwallpatil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390021?v=4"
+    },
+    "description": "Open-source toolkit for on-chain automation.",
+    "topics": [
+      "airdrop",
+      "automation",
+      "base",
+      "devops",
+      "open-source"
+    ],
+    "html_url": "https://github.com/auwallpatil/base-airdrop-farmer-cli-7tl0",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T11:10:17Z",
+    "updated_at": "2026-09-02T19:54:33Z",
+    "pushed_at": "2026-09-02T11:10:33Z"
+  },
+  {
+    "id": 1349406625,
+    "name": "kafka-lifecycle-lab",
+    "full_name": "dockndevai/kafka-lifecycle-lab",
+    "owner": {
+      "login": "dockndevai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249376912?v=4"
+    },
+    "description": "Runnable Strimzi lab + production reference for operating Apache Kafka on Kubernetes the lifecycle way — provision, upgrade, DR with MirrorMaker 2, and read-only agent triage via @dockndevai/mcp-kafka.",
+    "topics": [
+      "devops",
+      "kafka",
+      "kafka-on-kubernetes",
+      "kraft",
+      "kubernetes",
+      "mcp",
+      "mirrormaker2",
+      "model-context-protocol",
+      "platform-engineering",
+      "strimzi"
+    ],
+    "html_url": "https://github.com/dockndevai/kafka-lifecycle-lab",
+    "stargazers_count": 3,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T09:04:39Z",
+    "updated_at": "2026-09-02T11:47:50Z",
+    "pushed_at": "2026-08-28T10:09:52Z"
+  },
+  {
+    "id": 1354550168,
+    "name": "target-polygon-indexer-mrse3x",
+    "full_name": "auwallpatil/target-polygon-indexer-mrse3x",
+    "owner": {
+      "login": "auwallpatil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390021?v=4"
+    },
+    "description": "Backfill slot for keyword: polygon-indexer",
+    "topics": [
+      "automation",
+      "devops",
+      "open-source",
+      "polygon-indexer",
+      "utilities"
+    ],
+    "html_url": "https://github.com/auwallpatil/target-polygon-indexer-mrse3x",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T09:01:44Z",
+    "updated_at": "2026-09-02T14:16:12Z",
+    "pushed_at": "2026-09-02T09:02:03Z"
+  },
+  {
+    "id": 1350519567,
+    "name": "ethereum-liquidation-bot-alpha-bt3u",
+    "full_name": "paincarlanequee/ethereum-liquidation-bot-alpha-bt3u",
+    "owner": {
+      "login": "paincarlanequee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390158?v=4"
+    },
+    "description": "Lightweight utilities and automation helpers.",
+    "topics": [
+      "automation",
+      "devops",
+      "ethereum",
+      "liquidation",
+      "open-source"
+    ],
+    "html_url": "https://github.com/paincarlanequee/ethereum-liquidation-bot-alpha-bt3u",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T11:15:44Z",
+    "updated_at": "2026-08-31T07:27:29Z",
+    "pushed_at": "2026-08-29T11:16:15Z"
+  },
+  {
+    "id": 1351622144,
+    "name": "base-nft-minter-pro-e3yf",
+    "full_name": "lynamr/base-nft-minter-pro-e3yf",
+    "owner": {
+      "login": "lynamr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390065?v=4"
+    },
+    "description": "Reference implementation for state-sync patterns.",
+    "topics": [
+      "automation",
+      "base",
+      "devops",
+      "nft",
+      "open-source"
+    ],
+    "html_url": "https://github.com/lynamr/base-nft-minter-pro-e3yf",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T17:53:36Z",
+    "updated_at": "2026-08-31T07:27:29Z",
+    "pushed_at": "2026-08-30T17:54:06Z"
+  },
+  {
+    "id": 1349269933,
+    "name": "server-control-suite",
+    "full_name": "baska-pro/server-control-suite",
+    "owner": {
+      "login": "baska-pro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222742406?v=4"
+    },
+    "description": "Cross-platform remote management suite for Linux and Windows with Telegram bot control, web dashboard, monitoring, file/process management, alerts, Docker, services and automation.",
+    "topics": [
+      "automation",
+      "devops",
+      "docker",
+      "flask",
+      "linux",
+      "python",
+      "remote-management",
+      "server-management",
+      "system-administration",
+      "system-monitoring",
+      "telegram-bot",
+      "web-dashboard",
+      "windows"
+    ],
+    "html_url": "https://github.com/baska-pro/server-control-suite",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T06:21:31Z",
+    "updated_at": "2026-08-31T06:53:19Z",
+    "pushed_at": "2026-08-30T08:19:54Z"
+  },
+  {
+    "id": 1354549378,
+    "name": "target-rust-mev-bot-i2svn6",
+    "full_name": "pezguiddgooms/target-rust-mev-bot-i2svn6",
+    "owner": {
+      "login": "pezguiddgooms",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390171?v=4"
+    },
+    "description": "Backfill slot for keyword: rust-mev-bot",
+    "topics": [
+      "automation",
+      "devops",
+      "open-source",
+      "rust-mev-bot",
+      "utilities"
+    ],
+    "html_url": "https://github.com/pezguiddgooms/target-rust-mev-bot-i2svn6",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-09-02T09:00:51Z",
+    "updated_at": "2026-09-02T13:33:41Z",
+    "pushed_at": "2026-09-02T09:03:06Z"
+  },
+  {
+    "id": 1350729103,
+    "name": "ethereum-airdrop-farmer-bot-r9ed",
+    "full_name": "terr99pav/ethereum-airdrop-farmer-bot-r9ed",
+    "owner": {
+      "login": "terr99pav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390209?v=4"
+    },
+    "description": "Experimental workspace for distributed workflows.",
+    "topics": [
+      "airdrop",
+      "automation",
+      "devops",
+      "ethereum",
+      "open-source"
+    ],
+    "html_url": "https://github.com/terr99pav/ethereum-airdrop-farmer-bot-r9ed",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T16:14:46Z",
+    "updated_at": "2026-08-29T16:59:08Z",
+    "pushed_at": "2026-08-29T16:15:03Z"
+  }
+]

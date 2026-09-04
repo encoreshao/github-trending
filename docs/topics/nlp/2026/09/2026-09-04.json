@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1349470630,
+    "name": "turnchunk",
+    "full_name": "pavangupta352/turnchunk",
+    "owner": {
+      "login": "pavangupta352",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77353814?v=4"
+    },
+    "description": "Chunking that understands who is speaking. Parse any transcript, chunk it without ever splitting a speaker turn. Zero dependencies.",
+    "topics": [
+      "chunking",
+      "langchain",
+      "llamaindex",
+      "llm",
+      "meeting-notes",
+      "nlp",
+      "rag",
+      "retrieval-augmented-generation",
+      "speaker-diarization",
+      "subtitles",
+      "text-splitter",
+      "transcript",
+      "webvtt",
+      "whisper",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/pavangupta352/turnchunk",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-28T10:17:24Z",
+    "updated_at": "2026-09-02T19:33:54Z",
+    "pushed_at": "2026-09-02T19:35:20Z"
+  },
+  {
+    "id": 1352636146,
+    "name": "yotext",
+    "full_name": "adedejimakinde/yotext",
+    "owner": {
+      "login": "adedejimakinde",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153077464?v=4"
+    },
+    "description": "Orthographic Normalization python library that cleans up Yorùbá text encoding. It also draws the line most preprocessing code misses: underdots change the word, tone marks do not.",
+    "topics": [
+      "african-languages",
+      "computational-linguistics",
+      "low-resource-languages",
+      "nlp",
+      "python",
+      "text-normalization",
+      "unicode",
+      "yoruba"
+    ],
+    "html_url": "https://github.com/adedejimakinde/yotext",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T16:38:18Z",
+    "updated_at": "2026-09-03T03:31:24Z",
+    "pushed_at": "2026-09-01T19:14:13Z"
+  },
+  {
+    "id": 1354905089,
+    "name": "constellation",
+    "full_name": "mrueg/constellation",
+    "owner": {
+      "login": "mrueg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/489370?v=4"
+    },
+    "description": "Turns your GitHub stars into organized star lists using an unsupervised ML model.",
+    "topics": [
+      "bookmarks",
+      "cli",
+      "clustering",
+      "developer-tools",
+      "github",
+      "github-api",
+      "github-stars",
+      "golang",
+      "graphql",
+      "lsa",
+      "machine-learning",
+      "nlp",
+      "star-lists",
+      "stars",
+      "text-clustering",
+      "tf-idf",
+      "unsupervised-learning"
+    ],
+    "html_url": "https://github.com/mrueg/constellation",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-02T15:05:43Z",
+    "updated_at": "2026-09-03T20:18:14Z",
+    "pushed_at": "2026-09-03T20:25:29Z"
+  },
+  {
+    "id": 1351509918,
+    "name": "DynaTokens",
+    "full_name": "cruiseresearchgroup/DynaTokens",
+    "owner": {
+      "login": "cruiseresearchgroup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35094697?v=4"
+    },
+    "description": "[EMNLP 2026] DynaTokens: Controlling Token Dynamics for Continual Video-Language Understanding",
+    "topics": [
+      "adapter",
+      "ai",
+      "continual-learning",
+      "emnlp2026",
+      "fine-tuning",
+      "hypernetworks",
+      "image-qa",
+      "large-language-models",
+      "large-language-models-llms",
+      "llama",
+      "llms",
+      "machine-learning",
+      "multimodal",
+      "nlp",
+      "peft",
+      "question-answering",
+      "video-qa"
+    ],
+    "html_url": "https://github.com/cruiseresearchgroup/DynaTokens",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T15:26:48Z",
+    "updated_at": "2026-08-31T05:56:40Z",
+    "pushed_at": "2026-08-30T15:33:37Z"
+  },
+  {
+    "id": 1350337553,
+    "name": "AI-resume-analyzer",
+    "full_name": "wajidmir23/AI-resume-analyzer",
+    "owner": {
+      "login": "wajidmir23",
+      "avatar_url": "https://avatars.githubusercontent.com/u/258842385?v=4"
+    },
+    "description": "AI-powered resume analyzer that calculates ATS scores, extracts skills, detects missing keywords, and provides improvement suggestion",
+    "topics": [
+      "artificial-intelligence",
+      "ats",
+      "data-science",
+      "machine-learning",
+      "nlp",
+      "python",
+      "resume-analyzer",
+      "scikit-learn",
+      "spacy",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/wajidmir23/AI-resume-analyzer",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T06:29:42Z",
+    "updated_at": "2026-09-03T13:22:51Z",
+    "pushed_at": "2026-09-03T13:18:56Z"
+  },
+  {
+    "id": 1350990965,
+    "name": "llm-semantic-afterlife",
+    "full_name": "AdamCage/llm-semantic-afterlife",
+    "owner": {
+      "login": "AdamCage",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53534064?v=4"
+    },
+    "description": "Long-run semantic dynamics of large language models beyond the context horizon: semantic half-life, diffusion scaling, metastable states and probability currents under an imposed finite sliding context window.",
+    "topics": [
+      "complex-systems",
+      "context-window",
+      "dynamical-systems",
+      "large-language-models",
+      "markov-state-models",
+      "nlp",
+      "reproducible-research",
+      "semantic-drift"
+    ],
+    "html_url": "https://github.com/AdamCage/llm-semantic-afterlife",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-30T00:07:46Z",
+    "updated_at": "2026-09-03T13:56:50Z",
+    "pushed_at": "2026-09-03T14:15:25Z"
+  },
+  {
+    "id": 1352357553,
+    "name": "rag-sandbox",
+    "full_name": "pseudobarbie/rag-sandbox",
+    "owner": {
+      "login": "pseudobarbie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176952433?v=4"
+    },
+    "description": "Retrieval and agent experiments. ",
+    "topics": [
+      "experiments",
+      "learning",
+      "llm",
+      "nlp",
+      "python",
+      "rag",
+      "retrieval"
+    ],
+    "html_url": "https://github.com/pseudobarbie/rag-sandbox",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T11:57:08Z",
+    "updated_at": "2026-08-31T16:04:27Z",
+    "pushed_at": "2026-08-31T12:06:53Z"
+  },
+  {
+    "id": 1355942724,
+    "name": "SupportAI-Helpdesk-Agent",
+    "full_name": "kpravallika7/SupportAI-Helpdesk-Agent",
+    "owner": {
+      "login": "kpravallika7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271748200?v=4"
+    },
+    "description": "AI-powered helpdesk agent using FAQ retrieval, TF-IDF matching, hybrid search, LLM responses, and human escalation.",
+    "topics": [
+      "artificial-intelligence",
+      "chatbot",
+      "customer-support",
+      "groq",
+      "information-retrieval",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "python",
+      "tfidf"
+    ],
+    "html_url": "https://github.com/kpravallika7/SupportAI-Helpdesk-Agent",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T12:18:42Z",
+    "updated_at": "2026-09-03T12:39:19Z",
+    "pushed_at": "2026-09-03T12:31:58Z"
+  },
+  {
+    "id": 1350527994,
+    "name": "Graph-Augmented-Retrieval",
+    "full_name": "Yaseen-2004/Graph-Augmented-Retrieval",
+    "owner": {
+      "login": "Yaseen-2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200828849?v=4"
+    },
+    "description": "Extracts a knowledge graph from plain prose, then answers questions with citations it verifies against their own sources — and refuses what the corpus doesn't cover. Text, video, image and speech. Runs offline on numpy + sqlite.",
+    "topics": [
+      "artificial-intelligence",
+      "bat-aws",
+      "computer-vision",
+      "deep-learning",
+      "docker",
+      "nlp",
+      "nlp-machine-learning",
+      "vr",
+      "vrchat"
+    ],
+    "html_url": "https://github.com/Yaseen-2004/Graph-Augmented-Retrieval",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T11:29:04Z",
+    "updated_at": "2026-08-29T12:27:37Z",
+    "pushed_at": "2026-08-29T12:16:24Z"
+  },
+  {
+    "id": 1355243073,
+    "name": "Tokenization-BigramAutoregression",
+    "full_name": "Thenmani/Tokenization-BigramAutoregression",
+    "owner": {
+      "login": "Thenmani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121702289?v=4"
+    },
+    "description": "Breaking raw text into discrete units (Tokenization), Embedding with numeric ids and Bigram auto regression that predicts the next token using only the single previous token. ",
+    "topics": [
+      "applied-ai",
+      "llm",
+      "nlp",
+      "python"
+    ],
+    "html_url": "https://github.com/Thenmani/Tokenization-BigramAutoregression",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T21:23:46Z",
+    "updated_at": "2026-09-02T22:52:12Z",
+    "pushed_at": "2026-09-02T22:52:08Z"
+  },
+  {
+    "id": 1354152396,
+    "name": "llm-architects",
+    "full_name": "roshanaryal1/llm-architects",
+    "owner": {
+      "login": "roshanaryal1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144027355?v=4"
+    },
+    "description": "A controlled comparison of how frontier LLMs design the same hard, constrained systems-architecture task: consensus, fabrication, and constraint reasoning. Companion paper under review at Cureus J. Computer Science.",
+    "topics": [
+      "apple-silicon",
+      "benchmark",
+      "hallucination",
+      "large-language-models",
+      "llm-as-a-judge",
+      "llm-evaluation",
+      "local-inference",
+      "nlp",
+      "reproducible-research",
+      "systems-architecture"
+    ],
+    "html_url": "https://github.com/roshanaryal1/llm-architects",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-09-02T00:31:15Z",
+    "updated_at": "2026-09-03T14:04:32Z",
+    "pushed_at": "2026-09-03T14:00:41Z"
+  },
+  {
+    "id": 1354801554,
+    "name": "knowlink-view",
+    "full_name": "Wizeeeee/knowlink-view",
+    "owner": {
+      "login": "Wizeeeee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153185459?v=4"
+    },
+    "description": "KnowLink knowledge galaxy - Chrome extension (Manifest V3) for collecting, managing and visualizing knowledge points with AI analysis",
+    "topics": [
+      "ai",
+      "chrome-extension",
+      "knowledge-graph",
+      "knowlink",
+      "manifest-v3",
+      "nlp",
+      "pdf",
+      "visualization"
+    ],
+    "html_url": "https://github.com/Wizeeeee/knowlink-view",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T13:31:25Z",
+    "updated_at": "2026-09-03T14:56:16Z",
+    "pushed_at": "2026-09-03T14:51:25Z"
+  },
+  {
+    "id": 1351541312,
+    "name": "survival-llm-reasoning",
+    "full_name": "rajfirke/survival-llm-reasoning",
+    "owner": {
+      "login": "rajfirke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79653531?v=4"
+    },
+    "description": "Code and data for \"When Does Reasoning Age? Survival Analysis of Step-Level Error Hazard in LLM Chains\" (EMNLP 2026)",
+    "topics": [
+      "chain-of-thought",
+      "emnlp2026",
+      "llm",
+      "nlp",
+      "reasoning",
+      "survival-analysis"
+    ],
+    "html_url": "https://github.com/rajfirke/survival-llm-reasoning",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T16:08:48Z",
+    "updated_at": "2026-08-30T16:56:02Z",
+    "pushed_at": "2026-08-30T16:21:34Z"
+  },
+  {
+    "id": 1350838366,
+    "name": "ahmikat.github.io",
+    "full_name": "ahmikat/ahmikat.github.io",
+    "owner": {
+      "login": "ahmikat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137721178?v=4"
+    },
+    "description": "Academic portfolio of Aftab Hossain Mikat",
+    "topics": [
+      "academic-website",
+      "github-pages",
+      "nlp",
+      "portfolio"
+    ],
+    "html_url": "https://github.com/ahmikat/ahmikat.github.io",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T18:55:46Z",
+    "updated_at": "2026-08-30T09:51:17Z",
+    "pushed_at": "2026-08-30T09:50:23Z"
+  },
+  {
+    "id": 1350318978,
+    "name": "kyrgyz-tokenizer",
+    "full_name": "nik1t7n/kyrgyz-tokenizer",
+    "owner": {
+      "login": "nik1t7n",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90299797?v=4"
+    },
+    "description": "A byte-level BPE tokenizer for Kyrgyz and Russian, trained and evaluated from first principles.",
+    "topics": [
+      "bpe",
+      "kyrgyz",
+      "low-resource-languages",
+      "nlp",
+      "reproducible-research",
+      "russian",
+      "tokenization",
+      "tokenizer"
+    ],
+    "html_url": "https://github.com/nik1t7n/kyrgyz-tokenizer",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T05:57:15Z",
+    "updated_at": "2026-08-29T13:15:08Z",
+    "pushed_at": "2026-08-29T13:14:41Z"
+  },
+  {
+    "id": 1350797293,
+    "name": "citation-diagnostic-engine",
+    "full_name": "astonliu/citation-diagnostic-engine",
+    "owner": {
+      "login": "astonliu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289739754?v=4"
+    },
+    "description": "Checks references in biomedical papers and flags ones that violate one of our taxonomies, showing its reasoning behind the call",
+    "topics": [
+      "bioinformatics",
+      "biomedical-nlp",
+      "citation-analysis",
+      "claim-verification",
+      "crossref",
+      "fact-checking",
+      "information-retrieval",
+      "llm",
+      "nlp",
+      "openalex",
+      "pubmed",
+      "research-integrity",
+      "text-mining"
+    ],
+    "html_url": "https://github.com/astonliu/citation-diagnostic-engine",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T17:51:06Z",
+    "updated_at": "2026-09-02T03:45:06Z",
+    "pushed_at": "2026-08-29T17:51:25Z"
+  },
+  {
+    "id": 1354355704,
+    "name": "correlation-mirage-benchmarks",
+    "full_name": "rajfirke/correlation-mirage-benchmarks",
+    "owner": {
+      "login": "rajfirke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79653531?v=4"
+    },
+    "description": "Code, data, and results for \"The Correlation Mirage: Benchmark Dependence Collapses for Top-Performing LLMs\" (EMNLP 2026). Copula-based tail dependence analysis of LLM benchmark suites.",
+    "topics": [
+      "benchmark-evaluation",
+      "copula",
+      "correlation",
+      "emnlp2026",
+      "llm",
+      "llm-evaluation",
+      "nlp",
+      "reproducibility",
+      "tail-dependence"
+    ],
+    "html_url": "https://github.com/rajfirke/correlation-mirage-benchmarks",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T05:34:38Z",
+    "updated_at": "2026-09-02T05:43:48Z",
+    "pushed_at": "2026-09-02T05:34:51Z"
+  },
+  {
+    "id": 1353577099,
+    "name": "genderfluid-tiny",
+    "full_name": "MaxEdgar/genderfluid-tiny",
+    "owner": {
+      "login": "MaxEdgar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177117535?v=4"
+    },
+    "description": "Offline Python classifier that predicts gender associations from names. 49KB model, no API needed.",
+    "topics": [
+      "ai",
+      "gender-detection",
+      "gender-prediction",
+      "lightweight",
+      "local-ai",
+      "machine-learning",
+      "name-analysis",
+      "name-classification",
+      "name-gender-classifier",
+      "nlp",
+      "offline",
+      "pip",
+      "privacy",
+      "python",
+      "python3",
+      "scikit-learn",
+      "tiny-model"
+    ],
+    "html_url": "https://github.com/MaxEdgar/genderfluid-tiny",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T13:00:38Z",
+    "updated_at": "2026-09-03T14:16:17Z",
+    "pushed_at": "2026-09-03T14:14:32Z"
+  },
+  {
+    "id": 1352218694,
+    "name": "cf-self-explanations",
+    "full_name": "gianniskalyvas/cf-self-explanations",
+    "owner": {
+      "login": "gianniskalyvas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61820968?v=4"
+    },
+    "description": "A empirical study on post-hoc explainability in LLMs using counterfactual explanations.",
+    "topics": [
+      "counterfactual-explanations",
+      "counterfactuals",
+      "explainability",
+      "llm",
+      "nlp",
+      "post-hoc",
+      "scaling",
+      "self-explanations",
+      "xai"
+    ],
+    "html_url": "https://github.com/gianniskalyvas/cf-self-explanations",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T09:18:05Z",
+    "updated_at": "2026-08-31T09:46:10Z",
+    "pushed_at": "2026-08-31T09:43:00Z"
+  },
+  {
+    "id": 1352541008,
+    "name": "yake-ts",
+    "full_name": "seanmozeik/yake-ts",
+    "owner": {
+      "login": "seanmozeik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209650561?v=4"
+    },
+    "description": "Fast, dependency-free YAKE keyword extraction for TypeScript",
+    "topics": [
+      "bun",
+      "keyword-extraction",
+      "nlp",
+      "typescript",
+      "yake"
+    ],
+    "html_url": "https://github.com/seanmozeik/yake-ts",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T14:59:34Z",
+    "updated_at": "2026-08-31T15:18:52Z",
+    "pushed_at": "2026-08-31T14:59:53Z"
+  }
+]
