@@ -1,0 +1,494 @@
+[
+  {
+    "id": 1354310030,
+    "name": "m3e-canvas",
+    "full_name": "lnkiai/m3e-canvas",
+    "owner": {
+      "login": "lnkiai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187016380?v=4"
+    },
+    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+    "topics": [
+      "design-tool",
+      "material-3-expressive",
+      "material-design",
+      "material3",
+      "nextjs",
+      "prompt",
+      "react",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/lnkiai/m3e-canvas",
+    "stargazers_count": 2027,
+    "language": "TypeScript",
+    "forks_count": 143,
+    "open_issues_count": 2,
+    "created_at": "2026-09-02T04:36:34Z",
+    "updated_at": "2026-09-05T01:58:28Z",
+    "pushed_at": "2026-09-05T01:48:40Z"
+  },
+  {
+    "id": 1353548665,
+    "name": "commerce-agents",
+    "full_name": "anthropics/commerce-agents",
+    "owner": {
+      "login": "anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+    "topics": [],
+    "html_url": "https://github.com/anthropics/commerce-agents",
+    "stargazers_count": 1932,
+    "language": "Python",
+    "forks_count": 320,
+    "open_issues_count": 4,
+    "created_at": "2026-09-01T12:30:12Z",
+    "updated_at": "2026-09-05T01:53:42Z",
+    "pushed_at": "2026-09-01T20:41:14Z"
+  },
+  {
+    "id": 1350984217,
+    "name": "DLSS5-Swapper",
+    "full_name": "rakanki911/DLSS5-Swapper",
+    "owner": {
+      "login": "rakanki911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
+    },
+    "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+    "topics": [],
+    "html_url": "https://github.com/rakanki911/DLSS5-Swapper",
+    "stargazers_count": 1509,
+    "language": "JavaScript",
+    "forks_count": 69,
+    "open_issues_count": 48,
+    "created_at": "2026-08-29T23:51:32Z",
+    "updated_at": "2026-09-05T01:52:29Z",
+    "pushed_at": "2026-09-04T15:31:26Z"
+  },
+  {
+    "id": 1352104394,
+    "name": "cn",
+    "full_name": "shadcn-ui/cn",
+    "owner": {
+      "login": "shadcn-ui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139895814?v=4"
+    },
+    "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+    "topics": [
+      "clsx",
+      "cn",
+      "shadcn",
+      "tailwind-merge",
+      "tailwindcss"
+    ],
+    "html_url": "https://github.com/shadcn-ui/cn",
+    "stargazers_count": 1108,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 5,
+    "created_at": "2026-08-31T07:04:03Z",
+    "updated_at": "2026-09-05T01:45:17Z",
+    "pushed_at": "2026-09-04T05:16:53Z"
+  },
+  {
+    "id": 1351835285,
+    "name": "undress-service",
+    "full_name": "GangTailorUpgrade/undress-service",
+    "owner": {
+      "login": "GangTailorUpgrade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270958586?v=4"
+    },
+    "description": "Dress AI Sponsor",
+    "topics": [
+      "18comic",
+      "coomer",
+      "coomer-downloader",
+      "coomer-party",
+      "coomer-porn",
+      "coomer-su",
+      "doujin-moe",
+      "ehviewer",
+      "ex-hentai",
+      "explicit-content",
+      "hitomi-la",
+      "kemono",
+      "kemono-downloader",
+      "kemono-oarty",
+      "kemono-party",
+      "kemono-porn",
+      "kemono-su",
+      "nudity",
+      "sex",
+      "unrestricted-ai"
+    ],
+    "html_url": "https://github.com/GangTailorUpgrade/undress-service",
+    "stargazers_count": 1055,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T00:12:45Z",
+    "updated_at": "2026-09-05T01:30:16Z",
+    "pushed_at": "2026-09-02T13:58:48Z"
+  },
+  {
+    "id": 1351859098,
+    "name": "reverify",
+    "full_name": "2akouwu/reverify",
+    "owner": {
+      "login": "2akouwu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14812897?v=4"
+    },
+    "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "anti-hallucination",
+      "binary-analysis",
+      "context-engineering",
+      "ctf",
+      "developer-tools",
+      "disassembler",
+      "frida",
+      "grounding",
+      "hallucination",
+      "hallucination-detection",
+      "llm",
+      "malware-analysis",
+      "mcp",
+      "mcp-server",
+      "python",
+      "reverse-engineering",
+      "security-tools",
+      "verification"
+    ],
+    "html_url": "https://github.com/2akouwu/reverify",
+    "stargazers_count": 887,
+    "language": "Python",
+    "forks_count": 191,
+    "open_issues_count": 4,
+    "created_at": "2026-08-31T01:02:18Z",
+    "updated_at": "2026-09-05T01:58:36Z",
+    "pushed_at": "2026-09-04T18:28:17Z"
+  },
+  {
+    "id": 1350871465,
+    "name": "DLSS5-Feeder",
+    "full_name": "jlrouzies-fr/DLSS5-Feeder",
+    "owner": {
+      "login": "jlrouzies-fr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57990274?v=4"
+    },
+    "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+    "topics": [],
+    "html_url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+    "stargazers_count": 720,
+    "language": "C++",
+    "forks_count": 33,
+    "open_issues_count": 18,
+    "created_at": "2026-08-29T19:52:37Z",
+    "updated_at": "2026-09-05T01:54:25Z",
+    "pushed_at": "2026-09-04T18:44:26Z"
+  },
+  {
+    "id": 1355017800,
+    "name": "polyledger",
+    "full_name": "nahrek/polyledger",
+    "owner": {
+      "login": "nahrek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138802404?v=4"
+    },
+    "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+    "topics": [
+      "data-science",
+      "hypersync",
+      "polymarket",
+      "polymarketprediction-markets",
+      "prediction-market"
+    ],
+    "html_url": "https://github.com/nahrek/polyledger",
+    "stargazers_count": 614,
+    "language": "Python",
+    "forks_count": 109,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T17:00:13Z",
+    "updated_at": "2026-09-05T01:26:28Z",
+    "pushed_at": "2026-09-02T19:48:22Z"
+  },
+  {
+    "id": 1355442495,
+    "name": "FalconFlank",
+    "full_name": "MSNightmare/FalconFlank",
+    "owner": {
+      "login": "MSNightmare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
+    },
+    "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+    "topics": [],
+    "html_url": "https://github.com/MSNightmare/FalconFlank",
+    "stargazers_count": 503,
+    "language": "C",
+    "forks_count": 132,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T02:48:22Z",
+    "updated_at": "2026-09-05T01:57:49Z",
+    "pushed_at": "2026-09-03T03:44:38Z"
+  },
+  {
+    "id": 1351701238,
+    "name": "dlss5-visual-enhancer",
+    "full_name": "Merserk/dlss5-visual-enhancer",
+    "owner": {
+      "login": "Merserk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119538451?v=4"
+    },
+    "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+    "topics": [
+      "ai-upscaling",
+      "dlss",
+      "dlss-5",
+      "dlssg",
+      "frame-generation",
+      "frame-interpolation",
+      "image-enhancement",
+      "image-upscaling",
+      "neural-rendering",
+      "nvidia",
+      "nvidia-rtx",
+      "video-enhancement",
+      "video-upscaling"
+    ],
+    "html_url": "https://github.com/Merserk/dlss5-visual-enhancer",
+    "stargazers_count": 489,
+    "language": "Python",
+    "forks_count": 39,
+    "open_issues_count": 14,
+    "created_at": "2026-08-30T19:45:52Z",
+    "updated_at": "2026-09-05T01:48:25Z",
+    "pushed_at": "2026-09-04T15:18:22Z"
+  },
+  {
+    "id": 1355259034,
+    "name": "fable-orchestrator",
+    "full_name": "codejunkie99/fable-orchestrator",
+    "owner": {
+      "login": "codejunkie99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52658655?v=4"
+    },
+    "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+    "topics": [],
+    "html_url": "https://github.com/codejunkie99/fable-orchestrator",
+    "stargazers_count": 469,
+    "language": "Shell",
+    "forks_count": 84,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T21:48:23Z",
+    "updated_at": "2026-09-05T01:49:36Z",
+    "pushed_at": "2026-09-04T19:50:23Z"
+  },
+  {
+    "id": 1350978527,
+    "name": "open-seo-mcp-skills",
+    "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+    "owner": {
+      "login": "Ryze-AI-Adgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239315082?v=4"
+    },
+    "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+    "topics": [
+      "ai-seo",
+      "backlinks",
+      "claude",
+      "claude-skills",
+      "dataforseo",
+      "generative-engine-optimization",
+      "geo",
+      "keyword-research",
+      "mcp",
+      "mcp-server",
+      "open-source-seo",
+      "rank-tracking",
+      "seo",
+      "seo-audit"
+    ],
+    "html_url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+    "stargazers_count": 465,
+    "language": "Shell",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T23:37:01Z",
+    "updated_at": "2026-09-05T01:29:33Z",
+    "pushed_at": "2026-08-31T03:09:10Z"
+  },
+  {
+    "id": 1355366032,
+    "name": "DLSS-NR-on-AMD",
+    "full_name": "danielblnc/DLSS-NR-on-AMD",
+    "owner": {
+      "login": "danielblnc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60046864?v=4"
+    },
+    "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+    "topics": [],
+    "html_url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+    "stargazers_count": 458,
+    "language": null,
+    "forks_count": 15,
+    "open_issues_count": 44,
+    "created_at": "2026-09-03T00:42:03Z",
+    "updated_at": "2026-09-05T01:58:04Z",
+    "pushed_at": "2026-09-04T04:54:15Z"
+  },
+  {
+    "id": 1351879111,
+    "name": "reef",
+    "full_name": "Human-Agent-Society/reef",
+    "owner": {
+      "login": "Human-Agent-Society",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268553699?v=4"
+    },
+    "description": "Continual learning infra for self-improving agents",
+    "topics": [
+      "agent-infrastructure",
+      "ai-agents",
+      "continual-learning",
+      "inference",
+      "llm",
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
+    ],
+    "html_url": "https://github.com/Human-Agent-Society/reef",
+    "stargazers_count": 425,
+    "language": "Python",
+    "forks_count": 33,
+    "open_issues_count": 52,
+    "created_at": "2026-08-31T01:39:18Z",
+    "updated_at": "2026-09-05T01:56:20Z",
+    "pushed_at": "2026-09-05T01:49:45Z"
+  },
+  {
+    "id": 1355092388,
+    "name": "fable51-worlds",
+    "full_name": "PhiloLabs/fable51-worlds",
+    "owner": {
+      "login": "PhiloLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260782224?v=4"
+    },
+    "description": "worlds via code, from fable 5.1",
+    "topics": [
+      "3d-reconstruction",
+      "ai-agents",
+      "claude",
+      "digital-twin",
+      "openstreetmap",
+      "procedural-generation",
+      "san-francisco",
+      "threejs",
+      "urban-simulation",
+      "webgl"
+    ],
+    "html_url": "https://github.com/PhiloLabs/fable51-worlds",
+    "stargazers_count": 425,
+    "language": "JavaScript",
+    "forks_count": 20,
+    "open_issues_count": 2,
+    "created_at": "2026-09-02T18:19:55Z",
+    "updated_at": "2026-09-05T01:04:46Z",
+    "pushed_at": "2026-09-05T01:04:41Z"
+  },
+  {
+    "id": 1356159928,
+    "name": "niubigeo",
+    "full_name": "Albert-Weasker/niubigeo",
+    "owner": {
+      "login": "Albert-Weasker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186366929?v=4"
+    },
+    "description": "Open-source AI brand visibility and competitor reports",
+    "topics": [],
+    "html_url": "https://github.com/Albert-Weasker/niubigeo",
+    "stargazers_count": 412,
+    "language": "TypeScript",
+    "forks_count": 33,
+    "open_issues_count": 11,
+    "created_at": "2026-09-03T15:55:54Z",
+    "updated_at": "2026-09-05T01:59:34Z",
+    "pushed_at": "2026-09-04T09:25:29Z"
+  },
+  {
+    "id": 1352375345,
+    "name": "skill-cabinet",
+    "full_name": "subsy/skill-cabinet",
+    "owner": {
+      "login": "subsy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7700461?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/subsy/skill-cabinet",
+    "stargazers_count": 389,
+    "language": "JavaScript",
+    "forks_count": 25,
+    "open_issues_count": 1,
+    "created_at": "2026-08-31T12:17:01Z",
+    "updated_at": "2026-09-04T21:35:13Z",
+    "pushed_at": "2026-09-02T14:54:47Z"
+  },
+  {
+    "id": 1351898444,
+    "name": "DLSS5oneclick",
+    "full_name": "faisalkindi/DLSS5oneclick",
+    "owner": {
+      "login": "faisalkindi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246171974?v=4"
+    },
+    "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
+    "topics": [],
+    "html_url": "https://github.com/faisalkindi/DLSS5oneclick",
+    "stargazers_count": 385,
+    "language": "Rust",
+    "forks_count": 27,
+    "open_issues_count": 15,
+    "created_at": "2026-08-31T02:12:29Z",
+    "updated_at": "2026-09-05T00:54:47Z",
+    "pushed_at": "2026-09-04T16:29:15Z"
+  },
+  {
+    "id": 1350915416,
+    "name": "noty",
+    "full_name": "aimen08/noty",
+    "owner": {
+      "login": "aimen08",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32209952?v=4"
+    },
+    "description": "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies.",
+    "topics": [],
+    "html_url": "https://github.com/aimen08/noty",
+    "stargazers_count": 366,
+    "language": "HTML",
+    "forks_count": 55,
+    "open_issues_count": 4,
+    "created_at": "2026-08-29T21:15:31Z",
+    "updated_at": "2026-09-04T22:15:38Z",
+    "pushed_at": "2026-09-03T15:40:18Z"
+  },
+  {
+    "id": 1350762381,
+    "name": "RTX40MFG-Unlock",
+    "full_name": "dashdogy/RTX40MFG-Unlock",
+    "owner": {
+      "login": "dashdogy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40410952?v=4"
+    },
+    "description": "Experimental DLSS Multi Frame Generation controls for any supported MFG title on RTX 40 series GPUs",
+    "topics": [],
+    "html_url": "https://github.com/dashdogy/RTX40MFG-Unlock",
+    "stargazers_count": 335,
+    "language": "C++",
+    "forks_count": 18,
+    "open_issues_count": 6,
+    "created_at": "2026-08-29T17:00:46Z",
+    "updated_at": "2026-09-05T01:58:09Z",
+    "pushed_at": "2026-09-04T22:14:07Z"
+  }
+]

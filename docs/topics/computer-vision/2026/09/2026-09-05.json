@@ -1,0 +1,591 @@
+[
+  {
+    "id": 1352817754,
+    "name": "franken_drone_geometry_reconstruction",
+    "full_name": "Dicklesworthstone/franken_drone_geometry_reconstruction",
+    "owner": {
+      "login": "Dicklesworthstone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35050222?v=4"
+    },
+    "description": "Agent-native, evidence-grade operating substrate for turning owner-authorized drone video into metrically honest semantic digital twins",
+    "topics": [
+      "3d-reconstruction",
+      "computer-vision",
+      "digital-twin",
+      "drone",
+      "photogrammetry",
+      "rust",
+      "spatial-computing"
+    ],
+    "html_url": "https://github.com/Dicklesworthstone/franken_drone_geometry_reconstruction",
+    "stargazers_count": 27,
+    "language": "C++",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T20:07:48Z",
+    "updated_at": "2026-09-04T20:55:00Z",
+    "pushed_at": "2026-09-04T19:28:28Z"
+  },
+  {
+    "id": 1350674459,
+    "name": "shape-without-scale",
+    "full_name": "Pro2004-a11/shape-without-scale",
+    "owner": {
+      "login": "Pro2004-a11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76739920?v=4"
+    },
+    "description": "One RGB camera, 8.2 mm from motion capture - and no idea how big the room is. Reproducible monocular SfM on TUM fr3, plus the tool that shows what scale alignment is hiding.",
+    "topics": [
+      "3d-reconstruction",
+      "3dgs",
+      "colmap",
+      "computer-vision",
+      "gaussian-splatting",
+      "monocular-slam",
+      "photogrammetry",
+      "structure-from-motion"
+    ],
+    "html_url": "https://github.com/Pro2004-a11/shape-without-scale",
+    "stargazers_count": 23,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T15:00:46Z",
+    "updated_at": "2026-09-04T10:52:53Z",
+    "pushed_at": "2026-08-29T15:17:18Z"
+  },
+  {
+    "id": 1351835744,
+    "name": "GeoNeXt",
+    "full_name": "Creative-Intelligence-Studio/GeoNeXt",
+    "owner": {
+      "login": "Creative-Intelligence-Studio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254149121?v=4"
+    },
+    "description": "Official implementation of GeoNeXt: Video Generative Models as Geometry Learner (ECCV 2026).",
+    "topics": [
+      "3d-vision",
+      "computer-vision",
+      "depth-estimation",
+      "eccv",
+      "geometry",
+      "normal-estimation",
+      "surface"
+    ],
+    "html_url": "https://github.com/Creative-Intelligence-Studio/GeoNeXt",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-08-31T00:13:49Z",
+    "updated_at": "2026-09-05T01:23:10Z",
+    "pushed_at": "2026-09-04T11:05:01Z"
+  },
+  {
+    "id": 1352817606,
+    "name": "franken_surveillance_system",
+    "full_name": "Dicklesworthstone/franken_surveillance_system",
+    "owner": {
+      "login": "Dicklesworthstone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35050222?v=4"
+    },
+    "description": "Pure-Rust, evidence-native, local-first sensor fabric and semantic control plane for owner-authorized cameras and capture drones",
+    "topics": [
+      "computer-vision",
+      "drone-capture",
+      "evidence-native",
+      "local-first",
+      "multimodal",
+      "rust",
+      "security",
+      "sensor-fusion",
+      "surveillance"
+    ],
+    "html_url": "https://github.com/Dicklesworthstone/franken_surveillance_system",
+    "stargazers_count": 19,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T20:07:34Z",
+    "updated_at": "2026-09-05T00:26:36Z",
+    "pushed_at": "2026-09-05T00:26:32Z"
+  },
+  {
+    "id": 1351708782,
+    "name": "alpha-aware-watermark",
+    "full_name": "sharkysan/alpha-aware-watermark",
+    "owner": {
+      "login": "sharkysan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10297624?v=4"
+    },
+    "description": "Alpha-aware, scene-aware temporal video watermark removal with optical-flow alignment and optional ProPainter inpainting.",
+    "topics": [
+      "computer-vision",
+      "gemini",
+      "gemini-ai",
+      "gemini-video",
+      "opencv",
+      "optical-flow",
+      "propainter",
+      "python",
+      "sora",
+      "sora-2",
+      "sora-ai",
+      "sora-video",
+      "video-inpainting",
+      "video-processing",
+      "watermark",
+      "watermark-removal"
+    ],
+    "html_url": "https://github.com/sharkysan/alpha-aware-watermark",
+    "stargazers_count": 14,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-30T19:58:05Z",
+    "updated_at": "2026-09-02T19:06:25Z",
+    "pushed_at": "2026-09-02T19:29:36Z"
+  },
+  {
+    "id": 1350845553,
+    "name": "scanlayer",
+    "full_name": "Hyacinthe-primus/scanlayer",
+    "owner": {
+      "login": "Hyacinthe-primus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197085388?v=4"
+    },
+    "description": "A Python library around Tesseract OCR that turns a scan or photo into a searchable PDF, or exports raw OCR as text, JSON, TSV, or hOCR with automatic deskew, noise reduction, and multi-column reading order.",
+    "topics": [
+      "command-line-tool",
+      "computer-vision",
+      "document-processing",
+      "ocr",
+      "ocr-python",
+      "pdf",
+      "pdf-generation",
+      "pdf-processing",
+      "pytesseract",
+      "python",
+      "tesseract",
+      "tesseract-ocr",
+      "text-recognition"
+    ],
+    "html_url": "https://github.com/Hyacinthe-primus/scanlayer",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-08-29T19:07:31Z",
+    "updated_at": "2026-09-04T19:53:24Z",
+    "pushed_at": "2026-09-04T18:09:22Z"
+  },
+  {
+    "id": 1356941203,
+    "name": "call14",
+    "full_name": "europaprof/call14",
+    "owner": {
+      "login": "europaprof",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234183327?v=4"
+    },
+    "description": "A $20 local-first smart elevator call and tracking system built with ESP8266, Home Assistant, MQTT and computer vision.",
+    "topics": [
+      "computer-vision",
+      "elevator",
+      "esp8266",
+      "esphome",
+      "home-assistant",
+      "iot",
+      "mqtt",
+      "seven-segment-display"
+    ],
+    "html_url": "https://github.com/europaprof/call14",
+    "stargazers_count": 9,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T09:17:40Z",
+    "updated_at": "2026-09-05T01:29:48Z",
+    "pushed_at": "2026-09-04T16:19:06Z"
+  },
+  {
+    "id": 1353924539,
+    "name": "ComfyUI-DLSS5",
+    "full_name": "HECer/ComfyUI-DLSS5",
+    "owner": {
+      "login": "HECer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18690718?v=4"
+    },
+    "description": "Unofficial Windows ComfyUI nodes for NVIDIA DLSS Super Resolution and experimental Neural Rendering, with still and video workflows.",
+    "topics": [
+      "comfyui",
+      "comfyui-custom-nodes",
+      "computer-vision",
+      "dlss",
+      "neural-rendering",
+      "nvidia",
+      "upscaling",
+      "vapoursynth",
+      "video-processing",
+      "windows"
+    ],
+    "html_url": "https://github.com/HECer/ComfyUI-DLSS5",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-09-01T18:54:55Z",
+    "updated_at": "2026-09-04T20:04:28Z",
+    "pushed_at": "2026-09-04T20:04:10Z"
+  },
+  {
+    "id": 1353850739,
+    "name": "AI-Wallpaper-Renamer",
+    "full_name": "AhmadJeddi/AI-Wallpaper-Renamer",
+    "owner": {
+      "login": "AhmadJeddi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76421360?v=4"
+    },
+    "description": "A lightweight local tool that uses Qwen3.5-2B and llama.cpp to analyze wallpaper images and generate clean, descriptive filenames.",
+    "topics": [
+      "ai",
+      "ai-tools",
+      "computer-vision",
+      "image-analysis",
+      "image-organization",
+      "image-processing",
+      "image-renamer",
+      "image-tools",
+      "llama-cpp",
+      "qwen"
+    ],
+    "html_url": "https://github.com/AhmadJeddi/AI-Wallpaper-Renamer",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T17:33:30Z",
+    "updated_at": "2026-09-03T02:01:51Z",
+    "pushed_at": "2026-09-02T12:01:13Z"
+  },
+  {
+    "id": 1352661162,
+    "name": "variopinta",
+    "full_name": "claverru/variopinta",
+    "owner": {
+      "login": "claverru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36412653?v=4"
+    },
+    "description": "CPU image-augmentation pipelines compiled from Python and executed by optimized Rust kernels",
+    "topics": [
+      "augmentation",
+      "computer-vision",
+      "image-processing",
+      "machine-learning",
+      "python",
+      "rust"
+    ],
+    "html_url": "https://github.com/claverru/variopinta",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T17:05:32Z",
+    "updated_at": "2026-09-04T15:54:51Z",
+    "pushed_at": "2026-09-04T15:56:14Z"
+  },
+  {
+    "id": 1356530489,
+    "name": "PromptLens",
+    "full_name": "binghe1980/PromptLens",
+    "owner": {
+      "login": "binghe1980",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151974936?v=4"
+    },
+    "description": "一款把任意图片转换为专业生图提示词的 Chrome / Edge 浏览器插件。支持网页右键识图、本地上传与剪贴板粘贴，生成中文、英文和 JSON 提示词，并提供历史记录与收藏。",
+    "topics": [
+      "chrome-extension",
+      "computer-vision",
+      "edge-extension",
+      "image-to-prompt",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/binghe1980/PromptLens",
+    "stargazers_count": 5,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T23:43:17Z",
+    "updated_at": "2026-09-05T01:54:04Z",
+    "pushed_at": "2026-09-04T15:29:09Z"
+  },
+  {
+    "id": 1353760919,
+    "name": "GESTURE-FX",
+    "full_name": "Amey-Thakur/GESTURE-FX",
+    "owner": {
+      "login": "Amey-Thakur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54937357?v=4"
+    },
+    "description": "Gesture-triggered camera effects in the browser. Frame a shot with your hands and the picture inside becomes a cartoon, with no server, no upload and no manual editing.",
+    "topics": [
+      "amey",
+      "amey-thakur",
+      "ameyarc",
+      "ameythakur",
+      "browser",
+      "client-side",
+      "computer-vision",
+      "creative-coding",
+      "finger-frame",
+      "gesture-recognition",
+      "glitch-effect",
+      "hand-gesture-recognition",
+      "hand-tracking",
+      "mediapipe",
+      "mediarecorder",
+      "real-time",
+      "typescript",
+      "video-effects",
+      "webcam",
+      "webgl"
+    ],
+    "html_url": "https://github.com/Amey-Thakur/GESTURE-FX",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T15:59:41Z",
+    "updated_at": "2026-09-04T01:11:54Z",
+    "pushed_at": "2026-09-04T01:11:50Z"
+  },
+  {
+    "id": 1353643286,
+    "name": "hands",
+    "full_name": "hinow-ai/hands",
+    "owner": {
+      "login": "hinow-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232871763?v=4"
+    },
+    "description": "hands.hinow.ai: browse any website with hand gestures through the webcam. Chrome MV3 extension for people who cannot use a mouse.",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "assistive-technology",
+      "browser-extension",
+      "chrome-extension",
+      "computer-vision",
+      "gesture-control",
+      "gesture-recognition",
+      "hand-gestures",
+      "hand-tracking",
+      "hands-free",
+      "human-computer-interaction",
+      "manifest-v3",
+      "mediapipe",
+      "motor-impairment",
+      "on-device",
+      "privacy-first",
+      "touchless",
+      "web-accessibility",
+      "webcam"
+    ],
+    "html_url": "https://github.com/hinow-ai/hands",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T14:05:06Z",
+    "updated_at": "2026-09-03T11:47:02Z",
+    "pushed_at": "2026-09-01T14:28:53Z"
+  },
+  {
+    "id": 1350984854,
+    "name": "fovea",
+    "full_name": "Wega-Labs/fovea",
+    "owner": {
+      "login": "Wega-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321528468?v=4"
+    },
+    "description": "Your gaze is an input.",
+    "topics": [
+      "accessibility",
+      "computer-vision",
+      "eye-tracking",
+      "gaze-tracking",
+      "human-computer-interaction",
+      "mediapipe",
+      "multimodal"
+    ],
+    "html_url": "https://github.com/Wega-Labs/fovea",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 22,
+    "created_at": "2026-08-29T23:53:03Z",
+    "updated_at": "2026-09-03T21:49:11Z",
+    "pushed_at": "2026-09-03T21:49:06Z"
+  },
+  {
+    "id": 1353188211,
+    "name": "3dgs2mesh-web",
+    "full_name": "rsasaki0109/3dgs2mesh-web",
+    "owner": {
+      "login": "rsasaki0109",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18298605?v=4"
+    },
+    "description": "Browser-based 3D Gaussian Splatting to mesh converter powered by Rust, WebAssembly, and Three.js.",
+    "topics": [
+      "3d-gaussian-splatting",
+      "computer-vision",
+      "gaussian-splatting",
+      "github-pages",
+      "mesh-reconstruction",
+      "rust",
+      "threejs",
+      "webassembly"
+    ],
+    "html_url": "https://github.com/rsasaki0109/3dgs2mesh-web",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T05:53:55Z",
+    "updated_at": "2026-09-02T12:39:33Z",
+    "pushed_at": "2026-09-01T16:48:33Z"
+  },
+  {
+    "id": 1351503651,
+    "name": "vision-classifier",
+    "full_name": "AYazdan21/vision-classifier",
+    "owner": {
+      "login": "AYazdan21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160792338?v=4"
+    },
+    "description": "End-to-end computer vision pipeline on CIFAR-10 with Custom CNN & MobileNetV3 backbones, data augmentation ablations, slice-based auditing, and threshold optimization.",
+    "topics": [
+      "cifar-10",
+      "computer-vision",
+      "deep-learning",
+      "image-classification",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/AYazdan21/vision-classifier",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T15:18:39Z",
+    "updated_at": "2026-08-30T18:22:19Z",
+    "pushed_at": "2026-08-30T18:19:43Z"
+  },
+  {
+    "id": 1351658412,
+    "name": "computer-vision-studies",
+    "full_name": "davidelgado28/computer-vision-studies",
+    "owner": {
+      "login": "davidelgado28",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235790636?v=4"
+    },
+    "description": null,
+    "topics": [
+      "computer-vision",
+      "opencv",
+      "python"
+    ],
+    "html_url": "https://github.com/davidelgado28/computer-vision-studies",
+    "stargazers_count": 3,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-30T18:39:07Z",
+    "updated_at": "2026-09-03T23:52:43Z",
+    "pushed_at": "2026-09-02T17:23:07Z"
+  },
+  {
+    "id": 1351855982,
+    "name": "Simplicity",
+    "full_name": "not-sekiun/Simplicity",
+    "owner": {
+      "login": "not-sekiun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32593795?v=4"
+    },
+    "description": "Simplicity is an AIGC image detection model built off of a linear classifier on a frozen vision foundation model",
+    "topics": [
+      "ai",
+      "ai-image",
+      "ai-image-processing",
+      "classification-model",
+      "computer-vision",
+      "machine-learning",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/not-sekiun/Simplicity",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T00:56:09Z",
+    "updated_at": "2026-09-02T13:14:18Z",
+    "pushed_at": "2026-08-31T15:08:39Z"
+  },
+  {
+    "id": 1353511565,
+    "name": "SpatialMind-AI",
+    "full_name": "Vapa1510/SpatialMind-AI",
+    "owner": {
+      "login": "Vapa1510",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117443665?v=4"
+    },
+    "description": "Intelligent spatial reasoning platform for 4K 3D Gaussian Splatting, multi-spectral vision inspection, and conversational Spatial RAG",
+    "topics": [
+      "3d-gaussian-splatting",
+      "computer-vision",
+      "fastapi",
+      "llama3",
+      "neo4j",
+      "python",
+      "qdrant",
+      "spatial-rag",
+      "threejs",
+      "webgl"
+    ],
+    "html_url": "https://github.com/Vapa1510/SpatialMind-AI",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T11:49:44Z",
+    "updated_at": "2026-09-02T10:11:14Z",
+    "pushed_at": "2026-09-01T22:52:24Z"
+  },
+  {
+    "id": 1355743889,
+    "name": "paper-oss-ranking",
+    "full_name": "rsasaki0109/paper-oss-ranking",
+    "owner": {
+      "login": "rsasaki0109",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18298605?v=4"
+    },
+    "description": "Rankings for research papers by citations and open-source projects by GitHub stars",
+    "topics": [
+      "3d-vision",
+      "autonomous-driving",
+      "computer-vision",
+      "gaussian-splatting",
+      "github-pages",
+      "nerf",
+      "openalex",
+      "ranking",
+      "robotics",
+      "slam"
+    ],
+    "html_url": "https://github.com/rsasaki0109/paper-oss-ranking",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T08:57:51Z",
+    "updated_at": "2026-09-04T11:07:10Z",
+    "pushed_at": "2026-09-04T11:03:19Z"
+  }
+]
