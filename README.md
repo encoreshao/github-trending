@@ -89,6 +89,19 @@ Each page mixes 3-5 sections rather than repeating the same ones everywhere — 
 
 ---
 
+## SEO / Sitemap
+
+`scripts/generate-sitemap.js` writes `public/sitemap.xml`, covering the static routes above plus one `/topics/:slug` entry per topic in `src/data/topics.js` — so new topics show up automatically. `public/robots.txt` points crawlers at it.
+
+```bash
+npm run sitemap   # regenerate public/sitemap.xml on its own
+npm run build     # also runs the generator first, so it's always fresh in dist/
+```
+
+Live at [github.ranbot.online/sitemap.xml](https://github.ranbot.online/sitemap.xml) and [github.ranbot.online/robots.txt](https://github.ranbot.online/robots.txt).
+
+---
+
 ## RanBOT Family
 
 The homepage, Subscribe, and Demo pages cross-promote the wider RanBOT product family:

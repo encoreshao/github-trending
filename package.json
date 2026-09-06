@@ -40,7 +40,8 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node scripts/generate-sitemap.js && vite build",
+    "sitemap": "node scripts/generate-sitemap.js",
     "preview": "vite preview",
     "trending:daily": "node index.js --period=daily",
     "trending:weekly": "node index.js --period=weekly",

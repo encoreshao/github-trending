@@ -89,6 +89,19 @@ npm run dev
 
 ---
 
+## SEO / 站点地图
+
+`scripts/generate-sitemap.js` 会生成 `public/sitemap.xml`，涵盖以上所有静态路由，并为 `src/data/topics.js` 中的每个主题自动生成一条 `/topics/:slug` 记录 —— 新增主题会自动出现在站点地图中。`public/robots.txt` 则指向该站点地图供爬虫发现。
+
+```bash
+npm run sitemap   # 单独重新生成 public/sitemap.xml
+npm run build     # 构建前会先运行生成脚本，确保 dist/ 中的内容始终是最新的
+```
+
+线上地址：[github.ranbot.online/sitemap.xml](https://github.ranbot.online/sitemap.xml) 与 [github.ranbot.online/robots.txt](https://github.ranbot.online/robots.txt)。
+
+---
+
 ## RanBOT 大家族
 
 首页、订阅页和演示页会交叉推广更广泛的 RanBOT 产品家族：
