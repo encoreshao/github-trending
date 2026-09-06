@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1351859098,
+    "name": "reverify",
+    "full_name": "2akouwu/reverify",
+    "owner": {
+      "login": "2akouwu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14812897?v=4"
+    },
+    "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "anti-hallucination",
+      "binary-analysis",
+      "context-engineering",
+      "ctf",
+      "developer-tools",
+      "disassembler",
+      "grounding",
+      "hallucination",
+      "hallucination-detection",
+      "llm",
+      "malware-analysis",
+      "mcp",
+      "mcp-server",
+      "python",
+      "reverse-engineering",
+      "security-tools",
+      "verification"
+    ],
+    "html_url": "https://github.com/2akouwu/reverify",
+    "stargazers_count": 923,
+    "language": "Python",
+    "forks_count": 199,
+    "open_issues_count": 3,
+    "created_at": "2026-08-31T01:02:18Z",
+    "updated_at": "2026-09-05T23:15:44Z",
+    "pushed_at": "2026-09-05T10:55:25Z"
+  },
+  {
+    "id": 1351879111,
+    "name": "reef",
+    "full_name": "Human-Agent-Society/reef",
+    "owner": {
+      "login": "Human-Agent-Society",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268553699?v=4"
+    },
+    "description": "Continual learning infra for self-improving agents",
+    "topics": [
+      "agent-infrastructure",
+      "ai-agents",
+      "continual-learning",
+      "inference",
+      "llm",
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
+    ],
+    "html_url": "https://github.com/Human-Agent-Society/reef",
+    "stargazers_count": 481,
+    "language": "Python",
+    "forks_count": 38,
+    "open_issues_count": 56,
+    "created_at": "2026-08-31T01:39:18Z",
+    "updated_at": "2026-09-06T00:25:01Z",
+    "pushed_at": "2026-09-06T00:24:56Z"
+  },
+  {
+    "id": 1355092388,
+    "name": "fable51-worlds",
+    "full_name": "PhiloLabs/fable51-worlds",
+    "owner": {
+      "login": "PhiloLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260782224?v=4"
+    },
+    "description": "worlds via code, from fable 5.1",
+    "topics": [
+      "3d-reconstruction",
+      "ai-agents",
+      "claude",
+      "digital-twin",
+      "openstreetmap",
+      "procedural-generation",
+      "san-francisco",
+      "threejs",
+      "urban-simulation",
+      "webgl"
+    ],
+    "html_url": "https://github.com/PhiloLabs/fable51-worlds",
+    "stargazers_count": 438,
+    "language": "JavaScript",
+    "forks_count": 21,
+    "open_issues_count": 2,
+    "created_at": "2026-09-02T18:19:55Z",
+    "updated_at": "2026-09-06T01:45:25Z",
+    "pushed_at": "2026-09-05T01:04:41Z"
+  },
+  {
+    "id": 1353051646,
+    "name": "awesome-grokbot",
+    "full_name": "kydlikebtc/awesome-grokbot",
+    "owner": {
+      "login": "kydlikebtc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75060932?v=4"
+    },
+    "description": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-tools",
+      "awesome",
+      "awesome-list",
+      "bot-templates",
+      "catalog",
+      "cursor",
+      "directory",
+      "grok",
+      "grok-bot",
+      "grokbot",
+      "llm",
+      "prompt-engineering",
+      "xai"
+    ],
+    "html_url": "https://github.com/kydlikebtc/awesome-grokbot",
+    "stargazers_count": 325,
+    "language": "Python",
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T02:30:25Z",
+    "updated_at": "2026-09-06T00:19:29Z",
+    "pushed_at": "2026-09-05T09:07:03Z"
+  },
+  {
+    "id": 1354991682,
+    "name": "awesome-ai-agent-platforms",
+    "full_name": "Agenta-AI/awesome-ai-agent-platforms",
+    "owner": {
+      "login": "Agenta-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127993667?v=4"
+    },
+    "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+    "topics": [
+      "agent-frameworks",
+      "ai-agent-platforms",
+      "ai-agents",
+      "ai-coworker",
+      "awesome",
+      "awesome-list",
+      "browser-agents",
+      "coding-agents",
+      "llm",
+      "open-source",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+    "stargazers_count": 205,
+    "language": "Astro",
+    "forks_count": 4,
+    "open_issues_count": 3,
+    "created_at": "2026-09-02T16:32:59Z",
+    "updated_at": "2026-09-05T20:17:55Z",
+    "pushed_at": "2026-09-03T16:17:23Z"
+  },
+  {
+    "id": 1351167897,
+    "name": "Needle",
+    "full_name": "AbuZar-Ansarii/Needle",
+    "owner": {
+      "login": "AbuZar-Ansarii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176877646?v=4"
+    },
+    "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "cactus-needle",
+      "llm",
+      "llm-agents",
+      "llm-tools"
+    ],
+    "html_url": "https://github.com/AbuZar-Ansarii/Needle",
+    "stargazers_count": 84,
+    "language": "Python",
+    "forks_count": 23,
+    "open_issues_count": 1,
+    "created_at": "2026-08-30T06:43:48Z",
+    "updated_at": "2026-09-05T16:24:56Z",
+    "pushed_at": "2026-09-02T16:30:27Z"
+  },
+  {
+    "id": 1354377874,
+    "name": "papergraph-mcp",
+    "full_name": "lotchuazzz-crypto/papergraph-mcp",
+    "owner": {
+      "login": "lotchuazzz-crypto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298805483?v=4"
+    },
+    "description": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
+    "topics": [
+      "ai-agents",
+      "arxiv",
+      "knowledge-graph",
+      "latex",
+      "mathematics",
+      "mcp",
+      "model-context-protocol",
+      "python",
+      "research-tools",
+      "skills"
+    ],
+    "html_url": "https://github.com/lotchuazzz-crypto/papergraph-mcp",
+    "stargazers_count": 78,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T05:59:46Z",
+    "updated_at": "2026-09-06T01:45:14Z",
+    "pushed_at": "2026-09-04T13:44:57Z"
+  },
+  {
+    "id": 1354518773,
+    "name": "subpool",
+    "full_name": "gesta-run/subpool",
+    "owner": {
+      "login": "gesta-run",
+      "avatar_url": "https://avatars.githubusercontent.com/u/304205673?v=4"
+    },
+    "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "gateway",
+      "pooling"
+    ],
+    "html_url": "https://github.com/gesta-run/subpool",
+    "stargazers_count": 65,
+    "language": "Go",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T08:27:21Z",
+    "updated_at": "2026-09-05T20:01:29Z",
+    "pushed_at": "2026-09-04T08:34:44Z"
+  },
+  {
+    "id": 1356156490,
+    "name": "Penelopa.ai",
+    "full_name": "chigwell/Penelopa.ai",
+    "owner": {
+      "login": "chigwell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36392751?v=4"
+    },
+    "description": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills, checks, prompts, and recommendations.",
+    "topics": [
+      "agent-improvement",
+      "agent-observability",
+      "ai-agents",
+      "ai-recommendations",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "continuous-improvement",
+      "developer-productivity",
+      "prompt-engineering",
+      "reusable-skills",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/chigwell/Penelopa.ai",
+    "stargazers_count": 61,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T15:52:25Z",
+    "updated_at": "2026-09-06T01:06:53Z",
+    "pushed_at": "2026-09-04T18:15:14Z"
+  },
+  {
+    "id": 1353821164,
+    "name": "marketing-mindset",
+    "full_name": "axelfreeman/marketing-mindset",
+    "owner": {
+      "login": "axelfreeman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202555858?v=4"
+    },
+    "description": "The marketing OS for AI agents — think like a marketer first, get tactics as the output.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "b2b-sales",
+      "claude-code",
+      "cursor-ide",
+      "cursor-rules",
+      "go-to-market",
+      "growth-hacking",
+      "indie-hacking",
+      "llm-prompting",
+      "marketing",
+      "marketing-strategy",
+      "solopreneur"
+    ],
+    "html_url": "https://github.com/axelfreeman/marketing-mindset",
+    "stargazers_count": 52,
+    "language": "HTML",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T17:02:00Z",
+    "updated_at": "2026-09-05T05:44:11Z",
+    "pushed_at": "2026-09-04T16:05:40Z"
+  },
+  {
+    "id": 1352472707,
+    "name": "agentic-resource-discovery",
+    "full_name": "neuronto/agentic-resource-discovery",
+    "owner": {
+      "login": "neuronto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20460266?v=4"
+    },
+    "description": "Neuronto Agentic Resource Discovery (ARD) Index. Federated search across every public ARD registry, plus a verified tool index read from each MCP server's own tools/list, hybrid lexical and semantic retrieval, and ARD-Bench.",
+    "topics": [
+      "a2a",
+      "agent-discovery",
+      "agent-registry",
+      "agentic-ai",
+      "agentic-resource-discovery",
+      "ai-agent-discovery",
+      "ai-agent-tools",
+      "ai-agents",
+      "ard",
+      "benchmark",
+      "discovery",
+      "federated-search",
+      "hybrid-search",
+      "llm-tools",
+      "mcp",
+      "mcp-registry",
+      "mcp-server",
+      "mcp-tools",
+      "model-context-protocol",
+      "openapi"
+    ],
+    "html_url": "https://github.com/neuronto/agentic-resource-discovery",
+    "stargazers_count": 52,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T13:53:20Z",
+    "updated_at": "2026-09-05T01:30:47Z",
+    "pushed_at": "2026-09-05T01:30:43Z"
+  },
+  {
+    "id": 1357631540,
+    "name": "deedchain",
+    "full_name": "PillCrew/deedchain",
+    "owner": {
+      "login": "PillCrew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135708893?v=4"
+    },
+    "description": "Benchmark of report fidelity for browser agents: does the agent's final report tell the truth about what it actually did?",
+    "topics": [
+      "ai-agents",
+      "benchmark",
+      "browser-use",
+      "evaluation",
+      "llm-agents",
+      "report-fidelity",
+      "truthfulness",
+      "web-agents"
+    ],
+    "html_url": "https://github.com/PillCrew/deedchain",
+    "stargazers_count": 50,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T22:09:56Z",
+    "updated_at": "2026-09-06T01:54:41Z",
+    "pushed_at": "2026-09-04T22:46:54Z"
+  },
+  {
+    "id": 1354497019,
+    "name": "oh-my-fable",
+    "full_name": "Junhan2/oh-my-fable",
+    "owner": {
+      "login": "Junhan2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102278409?v=4"
+    },
+    "description": "Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too.",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "fable-5",
+      "fable5",
+      "prompt-engineering",
+      "prompting"
+    ],
+    "html_url": "https://github.com/Junhan2/oh-my-fable",
+    "stargazers_count": 50,
+    "language": "Shell",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T08:02:08Z",
+    "updated_at": "2026-09-05T04:10:31Z",
+    "pushed_at": "2026-09-03T23:27:06Z"
+  },
+  {
+    "id": 1355333063,
+    "name": "claimchain",
+    "full_name": "PillCrew/claimchain",
+    "owner": {
+      "login": "PillCrew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135708893?v=4"
+    },
+    "description": "Verify that an AI agent's on-chain claims are actually true. A claim-level groundedness checker for Solana / memecoin agents.",
+    "topics": [
+      "ai-agents",
+      "crypto-trading",
+      "dexscreener",
+      "elizaos",
+      "fact-checking",
+      "groundedness",
+      "hallucination-detection",
+      "memecoin",
+      "solana",
+      "verification"
+    ],
+    "html_url": "https://github.com/PillCrew/claimchain",
+    "stargazers_count": 49,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T23:40:59Z",
+    "updated_at": "2026-09-05T23:35:58Z",
+    "pushed_at": "2026-09-04T23:09:38Z"
+  },
+  {
+    "id": 1353585964,
+    "name": "meta-ads-skill",
+    "full_name": "boringmarketer/meta-ads-skill",
+    "owner": {
+      "login": "boringmarketer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212546731?v=4"
+    },
+    "description": "Teach your AI coding agent to run Meta ads: API setup, programmatic campaigns, browser control, and conversion tracking that's actually proven to work.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "conversions-api",
+      "facebook-ads",
+      "marketing-api",
+      "meta-ads"
+    ],
+    "html_url": "https://github.com/boringmarketer/meta-ads-skill",
+    "stargazers_count": 44,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T13:10:02Z",
+    "updated_at": "2026-09-05T13:49:16Z",
+    "pushed_at": "2026-09-01T13:10:06Z"
+  },
+  {
+    "id": 1353140432,
+    "name": "handraise",
+    "full_name": "Sy-D/handraise",
+    "owner": {
+      "login": "Sy-D",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8460326?v=4"
+    },
+    "description": "Human escalation for Solari browser agents — hand off the live session, solve the blocker, resume in the same session.",
+    "topics": [
+      "agent-infrastructure",
+      "ai-agents",
+      "browser-automation",
+      "hitl",
+      "human-in-the-loop",
+      "playwright",
+      "solari"
+    ],
+    "html_url": "https://github.com/Sy-D/handraise",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T04:44:11Z",
+    "updated_at": "2026-09-04T12:15:54Z",
+    "pushed_at": "2026-09-03T06:01:51Z"
+  },
+  {
+    "id": 1356918624,
+    "name": "Apeireth",
+    "full_name": "Apeireth/Apeireth",
+    "owner": {
+      "login": "Apeireth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318249439?v=4"
+    },
+    "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+    "topics": [
+      "agi",
+      "ai-agents",
+      "autonomous-agents",
+      "cognitive-architecture",
+      "microkernel",
+      "operating-system",
+      "pure-safe-rust",
+      "rust",
+      "topological-memory",
+      "zero-trust"
+    ],
+    "html_url": "https://github.com/Apeireth/Apeireth",
+    "stargazers_count": 28,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T08:55:31Z",
+    "updated_at": "2026-09-06T01:35:11Z",
+    "pushed_at": "2026-09-05T08:20:48Z"
+  },
+  {
+    "id": 1354880180,
+    "name": "research-work-system",
+    "full_name": "ZLZY-zlzy/research-work-system",
+    "owner": {
+      "login": "ZLZY-zlzy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266639327?v=4"
+    },
+    "description": "面向 VC/PE 投资人的 AI 调研工作体系：7 步流水线 × 三方案（A 企业 / B 行业技术 / C 混合）+ 9 项执行规范 + 8 套模板 + 工具脚本 + 5 个真实案例与长期记忆库，让「看公司、看行业、看赛道」从凭经验变成按流程",
+    "topics": [
+      "ai-agents",
+      "investment",
+      "markdown",
+      "methodology",
+      "research",
+      "vc-pe"
+    ],
+    "html_url": "https://github.com/ZLZY-zlzy/research-work-system",
+    "stargazers_count": 24,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T14:42:37Z",
+    "updated_at": "2026-09-06T00:00:22Z",
+    "pushed_at": "2026-09-02T14:42:45Z"
+  },
+  {
+    "id": 1353589716,
+    "name": "zodchiy",
+    "full_name": "Socialpranker/zodchiy",
+    "owner": {
+      "login": "Socialpranker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273312799?v=4"
+    },
+    "description": "An architectural audit where a finding is admissible only once its cost is measured from git history. A doctrine for coding agents plus a stdlib-only measurement CLI.",
+    "topics": [
+      "ai-agents",
+      "architecture",
+      "claude-code",
+      "code-analysis",
+      "code-quality",
+      "developer-tools",
+      "git-history",
+      "sarif",
+      "static-analysis",
+      "technical-debt"
+    ],
+    "html_url": "https://github.com/Socialpranker/zodchiy",
+    "stargazers_count": 23,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T13:13:50Z",
+    "updated_at": "2026-09-02T05:02:53Z",
+    "pushed_at": "2026-09-01T16:19:00Z"
+  },
+  {
+    "id": 1355842287,
+    "name": "TDHarness-coding",
+    "full_name": "398894496-arch/TDHarness-coding",
+    "owner": {
+      "login": "398894496-arch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283444574?v=4"
+    },
+    "description": "Coding tree on DeepSeek Harness. Small team can run it; not a mature product.",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "coding-agents",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "macos",
+      "nodejs",
+      "sandbox",
+      "windows"
+    ],
+    "html_url": "https://github.com/398894496-arch/TDHarness-coding",
+    "stargazers_count": 19,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T10:45:06Z",
+    "updated_at": "2026-09-05T19:34:29Z",
+    "pushed_at": "2026-09-03T12:23:37Z"
+  }
+]
