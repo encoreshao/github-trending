@@ -1,0 +1,620 @@
+[
+  {
+    "id": 1351888900,
+    "name": "1Panel-Gateway",
+    "full_name": "1Panel-dev/1Panel-Gateway",
+    "owner": {
+      "login": "1Panel-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109613420?v=4"
+    },
+    "description": "1Panel AI 网关提供从统一接入、智能路由到合规审计的全链条管控，让企业 AI 落地更安全、更高效、更可控。",
+    "topics": [
+      "1panel",
+      "ai-gateway",
+      "anthropic",
+      "deepseek",
+      "gateway",
+      "litellm",
+      "llm",
+      "newapi",
+      "openai"
+    ],
+    "html_url": "https://github.com/1Panel-dev/1Panel-Gateway",
+    "stargazers_count": 57,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T01:56:02Z",
+    "updated_at": "2026-09-05T17:34:10Z",
+    "pushed_at": "2026-09-04T10:28:30Z"
+  },
+  {
+    "id": 1353116530,
+    "name": "dsh-token-pet",
+    "full_name": "Jimmy0123-ux/dsh-token-pet",
+    "owner": {
+      "login": "Jimmy0123-ux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178448969?v=4"
+    },
+    "description": "DeepSeek Harness Desktop 悬浮用量小宠物：12 个正式逐帧动作反馈请求、工具、上下文压缩、归档与提示词增强；展示实时上下文占用、跨会话 Lifetime Ledger、服务商/模型统计和小时 Token 趋势；支持可编辑提示词增强、拖拽缩放、低性能模式与后台增量索引。",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "desktop-pet",
+      "dsh",
+      "dsh-plugin",
+      "react",
+      "token-usage",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Jimmy0123-ux/dsh-token-pet",
+    "stargazers_count": 50,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T04:06:22Z",
+    "updated_at": "2026-09-07T01:52:26Z",
+    "pushed_at": "2026-09-02T02:46:20Z"
+  },
+  {
+    "id": 1354517933,
+    "name": "CodingPlanQuota",
+    "full_name": "MeIotCOM/CodingPlanQuota",
+    "owner": {
+      "login": "MeIotCOM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57650051?v=4"
+    },
+    "description": "Check AI coding-plan quotas (5h / weekly / monthly) on the go — Zhipu GLM, Kimi, MiniMax, ZenMux, OpenCode Go, Volcengine Ark, DeepSeek & custom relays. No backend; keys never leave your device. Android / iOS / HarmonyOS NEXT, built with uni-app x.",
+    "topics": [
+      "android",
+      "claude-code",
+      "coding-plan",
+      "deepseek",
+      "harmonyos",
+      "ios",
+      "kimi",
+      "minimax",
+      "mobile-app",
+      "offline-first",
+      "quota-monitor",
+      "quota-tracker",
+      "uni-app-x",
+      "uts",
+      "volcengine",
+      "vue",
+      "zhipu"
+    ],
+    "html_url": "https://github.com/MeIotCOM/CodingPlanQuota",
+    "stargazers_count": 38,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T08:26:21Z",
+    "updated_at": "2026-09-07T01:32:37Z",
+    "pushed_at": "2026-09-03T10:37:08Z"
+  },
+  {
+    "id": 1354590736,
+    "name": "grok-unleashed",
+    "full_name": "xiaojumaoaihuaban/grok-unleashed",
+    "owner": {
+      "login": "xiaojumaoaihuaban",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170083830?v=4"
+    },
+    "description": "grok-build with the leash off — one binary, any OpenAI-compatible endpoint, zero phone-home. No x.ai account.",
+    "topics": [
+      "ai-agent",
+      "cli",
+      "deepseek",
+      "grok",
+      "llm",
+      "no-telemetry",
+      "ollama",
+      "openai-compatible",
+      "privacy",
+      "terminal"
+    ],
+    "html_url": "https://github.com/xiaojumaoaihuaban/grok-unleashed",
+    "stargazers_count": 36,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T09:45:35Z",
+    "updated_at": "2026-09-07T00:39:19Z",
+    "pushed_at": "2026-09-02T10:43:28Z"
+  },
+  {
+    "id": 1355788866,
+    "name": "dsh-raw-html-v2",
+    "full_name": "plolpl789/dsh-raw-html-v2",
+    "owner": {
+      "login": "plolpl789",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188015371?v=4"
+    },
+    "description": "VCP visual-synesthesia plugin v2 for DeepSeek Harness (official Slot API): raw-HTML vcp-root cards, streaming render, KaTeX/Mermaid/SVG, builtin fonts",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "visual-synesthesia"
+    ],
+    "html_url": "https://github.com/plolpl789/dsh-raw-html-v2",
+    "stargazers_count": 24,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T09:46:04Z",
+    "updated_at": "2026-09-06T19:56:12Z",
+    "pushed_at": "2026-09-04T03:35:35Z"
+  },
+  {
+    "id": 1358805501,
+    "name": "FreeDeepseekAPI-EN",
+    "full_name": "atharvotech/FreeDeepseekAPI-EN",
+    "owner": {
+      "login": "atharvotech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148798365?v=4"
+    },
+    "description": "Local OpenAI-compatible API proxy for DeepSeek Web Chat (Global English Version). Connects DeepSeek to Open WebUI, Claude Code, and OpenAI SDK tools. Maintained by Atharvotech.",
+    "topics": [
+      "api",
+      "atharvotech",
+      "deepseek",
+      "deepseek-api",
+      "deepseek-harness",
+      "deepseek-harness-plugins",
+      "deepseek-v3",
+      "deepseek-v4",
+      "english",
+      "free",
+      "free-api",
+      "free-api-key",
+      "free-apikey",
+      "free-models",
+      "freeapi",
+      "javascript",
+      "llm",
+      "local-server",
+      "openai-api",
+      "unlimited-tokens"
+    ],
+    "html_url": "https://github.com/atharvotech/FreeDeepseekAPI-EN",
+    "stargazers_count": 21,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T05:07:53Z",
+    "updated_at": "2026-09-06T18:06:10Z",
+    "pushed_at": "2026-09-06T05:09:09Z"
+  },
+  {
+    "id": 1359439962,
+    "name": "pd-bridge",
+    "full_name": "chadhurley25075-png/pd-bridge",
+    "owner": {
+      "login": "chadhurley25075-png",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325742731?v=4"
+    },
+    "description": "Heterogeneous prefill/decode for DeepSeek-V4-Flash: CUDA prefill (DGX Spark, vLLM) -> Metal decode (Mac Studio, oMLX) over plain 10GbE",
+    "topics": [
+      "apple-silicon",
+      "deepseek",
+      "dgx-spark",
+      "heterogeneous-inference",
+      "kv-cache",
+      "llm-inference",
+      "mlx",
+      "omlx",
+      "prefill-decode",
+      "vllm"
+    ],
+    "html_url": "https://github.com/chadhurley25075-png/pd-bridge",
+    "stargazers_count": 21,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T19:07:06Z",
+    "updated_at": "2026-09-07T01:58:50Z",
+    "pushed_at": "2026-09-07T01:58:47Z"
+  },
+  {
+    "id": 1355842287,
+    "name": "TDHarness-coding",
+    "full_name": "398894496-arch/TDHarness-coding",
+    "owner": {
+      "login": "398894496-arch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283444574?v=4"
+    },
+    "description": "Coding tree on DeepSeek Harness. Small team can run it; not a mature product.",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "coding-agents",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "macos",
+      "nodejs",
+      "sandbox",
+      "windows"
+    ],
+    "html_url": "https://github.com/398894496-arch/TDHarness-coding",
+    "stargazers_count": 20,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T10:45:06Z",
+    "updated_at": "2026-09-07T01:33:00Z",
+    "pushed_at": "2026-09-03T12:23:37Z"
+  },
+  {
+    "id": 1351845049,
+    "name": "BioDSH",
+    "full_name": "sagirimo/BioDSH",
+    "owner": {
+      "login": "sagirimo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64895957?v=4"
+    },
+    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists — built on DeepSeek Harness. One-click installers, a skill store, offline mode.",
+    "topics": [
+      "bioinformatics",
+      "deepseek",
+      "desktop-app",
+      "dsh-plugin",
+      "llm-agent",
+      "single-cell",
+      "tauri"
+    ],
+    "html_url": "https://github.com/sagirimo/BioDSH",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T00:33:35Z",
+    "updated_at": "2026-09-04T07:43:16Z",
+    "pushed_at": "2026-09-02T17:34:25Z"
+  },
+  {
+    "id": 1355685152,
+    "name": "dsh-deepseek-usage-panel",
+    "full_name": "WeiyangPro/dsh-deepseek-usage-panel",
+    "owner": {
+      "login": "WeiyangPro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128820279?v=4"
+    },
+    "description": "一个用于DeepSeek Harness（DSH）的用量监测面板（目前仅支持DeepSeek官方模型）",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "dsh-plugins"
+    ],
+    "html_url": "https://github.com/WeiyangPro/dsh-deepseek-usage-panel",
+    "stargazers_count": 16,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T08:00:55Z",
+    "updated_at": "2026-09-05T10:13:43Z",
+    "pushed_at": "2026-09-05T10:14:04Z"
+  },
+  {
+    "id": 1351929360,
+    "name": "travel-agent",
+    "full_name": "Prism-Shadow/travel-agent",
+    "owner": {
+      "login": "Prism-Shadow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236323912?v=4"
+    },
+    "description": "An open-source travel agent that works on real websites: plan trips, book in a browser beside the chat, stop at the payment page. Desktop app for macOS, Windows and Linux.",
+    "topics": [
+      "agentic-ai",
+      "ai-agent",
+      "anthropic",
+      "browser-automation",
+      "chrome-extension",
+      "deepseek",
+      "desktop-app",
+      "electron",
+      "llm",
+      "playwright",
+      "travel",
+      "travel-agent",
+      "trip-planning",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Prism-Shadow/travel-agent",
+    "stargazers_count": 15,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 2,
+    "created_at": "2026-08-31T03:01:14Z",
+    "updated_at": "2026-09-07T01:43:38Z",
+    "pushed_at": "2026-09-07T00:12:27Z"
+  },
+  {
+    "id": 1357276778,
+    "name": "dsh-stream-market",
+    "full_name": "Minglink/dsh-stream-market",
+    "owner": {
+      "login": "Minglink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108618469?v=4"
+    },
+    "description": "DeepSeek Harness 内置可视化插件市场 — 极速秒开、官方 dsh:// 联动、深度本地管理与原子化彻底卸载",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "deepseek-plugin",
+      "dsh-extension",
+      "dsh-plugin",
+      "marketplace"
+    ],
+    "html_url": "https://github.com/Minglink/dsh-stream-market",
+    "stargazers_count": 10,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T15:04:47Z",
+    "updated_at": "2026-09-04T16:27:51Z",
+    "pushed_at": "2026-09-04T16:27:47Z"
+  },
+  {
+    "id": 1355621257,
+    "name": "zalo-flow",
+    "full_name": "aizaloapp/zalo-flow",
+    "owner": {
+      "login": "aizaloapp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321262740?v=4"
+    },
+    "description": "The Open-Source Automation & Omnichannel Webhook Gateway for Personal Zalo",
+    "topics": [
+      "automation",
+      "chatbot",
+      "chatwoot",
+      "crm",
+      "deepseek",
+      "gemini",
+      "zalo",
+      "zalo-bot"
+    ],
+    "html_url": "https://github.com/aizaloapp/zalo-flow",
+    "stargazers_count": 9,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T06:54:32Z",
+    "updated_at": "2026-09-07T01:54:18Z",
+    "pushed_at": "2026-09-07T01:58:11Z"
+  },
+  {
+    "id": 1358470511,
+    "name": "engraft-ngram",
+    "full_name": "fulvian/engraft-ngram",
+    "owner": {
+      "login": "fulvian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16386986?v=4"
+    },
+    "description": "ENGRAFT: add facts to an LLM by editing 8 rows of its n-gram (Engram) memory table — no fine-tuning, gradient on a CPU replica, verified on llama.cpp GGUF (Qwen3.8-Flash-Next).",
+    "topics": [
+      "deepseek",
+      "engram",
+      "gguf",
+      "interpretability",
+      "knowledge-editing",
+      "knowledge-injection",
+      "llama-cpp",
+      "llm",
+      "memory-editing",
+      "mixture-of-experts",
+      "model-editing",
+      "ngram",
+      "parameter-efficient",
+      "qwen"
+    ],
+    "html_url": "https://github.com/fulvian/engraft-ngram",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T18:45:02Z",
+    "updated_at": "2026-09-06T20:31:55Z",
+    "pushed_at": "2026-09-05T20:55:56Z"
+  },
+  {
+    "id": 1353598712,
+    "name": "memra",
+    "full_name": "avifenesh/memra",
+    "owner": {
+      "login": "avifenesh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4"
+    },
+    "description": "Rust + CUDA LLM inference engine for Blackwell (Tuned specifically on RTX PRO 6000, RTX 5090, B200): OpenAI-compatible (+converse and ant) serving, per-model X hardware exactness gates. NVFP4/mixed (fp8 hybrid, 4o6, etc - correctness, performance, hardware specific adapted) main quant support.",
+    "topics": [
+      "b200",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "deepseek-v4",
+      "gemma",
+      "gguf",
+      "glm",
+      "inference",
+      "inference-engine",
+      "llm",
+      "llm-serving",
+      "mixture-of-experts",
+      "nvfp4",
+      "openai-api",
+      "qwen",
+      "rtx-5090",
+      "rtx-pro-6000",
+      "rust",
+      "speculative-decoding"
+    ],
+    "html_url": "https://github.com/avifenesh/memra",
+    "stargazers_count": 8,
+    "language": "OpenEdge ABL",
+    "forks_count": 1,
+    "open_issues_count": 35,
+    "created_at": "2026-09-01T13:22:37Z",
+    "updated_at": "2026-09-07T00:44:21Z",
+    "pushed_at": "2026-09-07T01:55:00Z"
+  },
+  {
+    "id": 1355765537,
+    "name": "dsh-clawbot",
+    "full_name": "cryjkd/dsh-clawbot",
+    "owner": {
+      "login": "cryjkd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38123501?v=4"
+    },
+    "description": "在 DeepSeek Harness（DSH）里接入微信官方 ilink 机器人网关：扫码绑定后，AI 能主动给自己发微信通知；每次回复后自动推送任务完成摘要；目标完成/阻断时自动通知；需要批准/选择时主动微信提醒。自带设置界面（设置 → ClawBot：扫码二维码、微信在线/断线状态、手动发送、三个自动通知开关、监听开关、解除绑定、自定义图标）。  底层走腾讯官方 ilink 网关（https://ilinkai.weixin.qq.com），无第三方破解、无自建中转，消息只发给绑定的账号自己。",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "deepseek-harness-plugins",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-market",
+      "dsh-skill"
+    ],
+    "html_url": "https://github.com/cryjkd/dsh-clawbot",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T09:21:21Z",
+    "updated_at": "2026-09-05T08:46:51Z",
+    "pushed_at": "2026-09-05T08:48:46Z"
+  },
+  {
+    "id": 1353732923,
+    "name": "blue-whale-agent",
+    "full_name": "whiteball-shiro/blue-whale-agent",
+    "owner": {
+      "login": "whiteball-shiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254237016?v=4"
+    },
+    "description": "大肥鱼：桌面小鲸鱼，显示 LLM 余额，支持 Codex/本地/云端对话、本地委派分流、文件处理与本地生图。不绑定特定模型，可接任意 OpenAI 兼容接口。",
+    "topics": [
+      "ai",
+      "ai-chat",
+      "always-on-top",
+      "comfyui",
+      "deepseek",
+      "desktop-pet",
+      "electron",
+      "gpu-mutex",
+      "image-generation",
+      "llm",
+      "lm-studio",
+      "local-llm",
+      "mcp",
+      "ollama",
+      "openai-compatible",
+      "tray-app",
+      "vram-management",
+      "whale"
+    ],
+    "html_url": "https://github.com/whiteball-shiro/blue-whale-agent",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T15:32:02Z",
+    "updated_at": "2026-09-04T15:09:42Z",
+    "pushed_at": "2026-09-03T17:59:54Z"
+  },
+  {
+    "id": 1353746630,
+    "name": "LoveBrain",
+    "full_name": "bystery/LoveBrain",
+    "owner": {
+      "login": "bystery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164818002?v=4"
+    },
+    "description": "LoveBrain恋爱军师 | 长按消息即得 4 种真诚回复建议，长期关系记忆越用越懂你｜零遥测·全本地·开源",
+    "topics": [
+      "accessibility-service",
+      "ai-assistant",
+      "android",
+      "deepseek",
+      "floating-window",
+      "jetpack-compose",
+      "kotlin",
+      "llm",
+      "on-device",
+      "privacy-first",
+      "relationship"
+    ],
+    "html_url": "https://github.com/bystery/LoveBrain",
+    "stargazers_count": 5,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-01T15:45:57Z",
+    "updated_at": "2026-09-05T15:59:32Z",
+    "pushed_at": "2026-09-04T02:39:02Z"
+  },
+  {
+    "id": 1352431622,
+    "name": "aihub",
+    "full_name": "whaleal-dev/aihub",
+    "owner": {
+      "login": "whaleal-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296498866?v=4"
+    },
+    "description": "aihub 是面向 JDK 8+ 的 Java 大模型客户端。它只做一件事：把各厂商的 HTTP / SSE API 收成同一套 Java 调用。",
+    "topics": [
+      "anthropic",
+      "dashscope",
+      "deepseek",
+      "embedding",
+      "function-calling",
+      "hunyuan",
+      "java",
+      "ollama",
+      "openai",
+      "sdk",
+      "springboot"
+    ],
+    "html_url": "https://github.com/whaleal-dev/aihub",
+    "stargazers_count": 4,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T13:14:54Z",
+    "updated_at": "2026-09-03T06:59:25Z",
+    "pushed_at": "2026-09-03T07:17:30Z"
+  },
+  {
+    "id": 1352966878,
+    "name": "dsh-replay-theater",
+    "full_name": "ItBayMax/dsh-replay-theater",
+    "owner": {
+      "login": "ItBayMax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16939509?v=4"
+    },
+    "description": "Replay a DeepSeek Harness session at its original token cadence — an in-app playback theater with play/pause/step/speed/seek.",
+    "topics": [
+      "ai-agents",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "react",
+      "session-replay",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ItBayMax/dsh-replay-theater",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T00:08:03Z",
+    "updated_at": "2026-09-01T01:35:37Z",
+    "pushed_at": "2026-09-01T01:30:24Z"
+  }
+]

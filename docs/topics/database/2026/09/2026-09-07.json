@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1351915991,
+    "name": "wedb_embed",
+    "full_name": "webc-site/wedb_embed",
+    "owner": {
+      "login": "webc-site",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286439310?v=4"
+    },
+    "description": "Embedded database engine providing Redis-like APIs, built on fjall / 嵌入式数据库引擎，提供类似 Redis 的接口，底层基于 fjall 开发",
+    "topics": [
+      "cache",
+      "database",
+      "embedded",
+      "embedded-database",
+      "fjall",
+      "key-value",
+      "lsm-tree",
+      "nosql",
+      "redis",
+      "rust"
+    ],
+    "html_url": "https://github.com/webc-site/wedb_embed",
+    "stargazers_count": 9,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T02:41:36Z",
+    "updated_at": "2026-09-04T17:27:44Z",
+    "pushed_at": "2026-09-04T10:42:06Z"
+  },
+  {
+    "id": 1357140016,
+    "name": "kuttidb",
+    "full_name": "kuttidb/kuttidb",
+    "owner": {
+      "login": "kuttidb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324911780?v=4"
+    },
+    "description": "Lightweight, crash-recoverable event cache with durable queues, exchanges, streams, and atomic cache-plus-event commits—all in one C binary.",
+    "topics": [
+      "background-jobs",
+      "c",
+      "cache",
+      "database",
+      "docker",
+      "embedded",
+      "event-driven",
+      "key-value-store",
+      "kubernetes",
+      "message-queue",
+      "message-queues",
+      "redis-alternative",
+      "self-hosted",
+      "single-binary",
+      "streams",
+      "work-queue"
+    ],
+    "html_url": "https://github.com/kuttidb/kuttidb",
+    "stargazers_count": 6,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T12:55:56Z",
+    "updated_at": "2026-09-06T14:34:08Z",
+    "pushed_at": "2026-09-05T21:24:05Z"
+  },
+  {
+    "id": 1356186648,
+    "name": "model",
+    "full_name": "el1s7/model",
+    "owner": {
+      "login": "el1s7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53352199?v=4"
+    },
+    "description": "A minimal Python ORM for MariaDB/MySQL and SQLite. Made for humans.",
+    "topics": [
+      "database",
+      "database-migrations",
+      "database-schema",
+      "mysql",
+      "orm",
+      "python",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/el1s7/model",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T16:24:41Z",
+    "updated_at": "2026-09-06T10:24:49Z",
+    "pushed_at": "2026-09-03T17:06:43Z"
+  },
+  {
+    "id": 1352259941,
+    "name": "BusinessCentral.DbReader",
+    "full_name": "StefanMaron/BusinessCentral.DbReader",
+    "owner": {
+      "login": "StefanMaron",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24838311?v=4"
+    },
+    "description": "Read Business Central data from a SQL Server backup (.bak) or cloud export (.bacpac), with no SQL Server and no restore",
+    "topics": [
+      "backup",
+      "bacpac",
+      "business-central",
+      "csharp",
+      "database",
+      "dotnet",
+      "dynamics-365",
+      "file-format",
+      "mdf",
+      "sql-server"
+    ],
+    "html_url": "https://github.com/StefanMaron/BusinessCentral.DbReader",
+    "stargazers_count": 3,
+    "language": "C#",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T10:01:47Z",
+    "updated_at": "2026-09-05T17:52:04Z",
+    "pushed_at": "2026-09-05T17:52:37Z"
+  },
+  {
+    "id": 1357207921,
+    "name": "4-Hours-Of-PHP",
+    "full_name": "zeeshan020dev/4-Hours-Of-PHP",
+    "owner": {
+      "login": "zeeshan020dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216012693?v=4"
+    },
+    "description": "Beginner-friendly PHP tutorial with hands-on examples covering PHP fundamentals, forms, arrays, functions, sessions, password hashing, MySQL, MySQLi, phpMyAdmin, and database operations. Learn PHP in about 4 hours.",
+    "topics": [
+      "backend-development",
+      "beginner-friendly",
+      "database",
+      "database-programming",
+      "learn-php",
+      "mysql",
+      "mysqli",
+      "password-hashing",
+      "php",
+      "php-basics",
+      "php-development",
+      "php-examples",
+      "php-for-beginners",
+      "php-learning",
+      "php-programming",
+      "php-tutorial",
+      "phpmyadmin",
+      "programming",
+      "web-development",
+      "xampp"
+    ],
+    "html_url": "https://github.com/zeeshan020dev/4-Hours-Of-PHP",
+    "stargazers_count": 3,
+    "language": "PHP",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T14:01:52Z",
+    "updated_at": "2026-09-06T11:20:12Z",
+    "pushed_at": "2026-09-06T11:20:07Z"
+  },
+  {
+    "id": 1356200264,
+    "name": "fb-restore",
+    "full_name": "deliciousNesquik/fb-restore",
+    "owner": {
+      "login": "deliciousNesquik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99757380?v=4"
+    },
+    "description": "Apply an fb-dump tree or script to a Firebird database — dependency-ordered, all or nothing",
+    "topics": [
+      "database",
+      "ddl",
+      "firebird",
+      "metadata",
+      "migration",
+      "restore",
+      "schema",
+      "versioning"
+    ],
+    "html_url": "https://github.com/deliciousNesquik/fb-restore",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T16:38:47Z",
+    "updated_at": "2026-09-04T20:05:35Z",
+    "pushed_at": "2026-09-04T11:44:24Z"
+  },
+  {
+    "id": 1355952760,
+    "name": "sqlens-for-laravel",
+    "full_name": "pushery/sqlens-for-laravel",
+    "owner": {
+      "login": "pushery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272318911?v=4"
+    },
+    "description": "Database safety for Laravel on PostgreSQL and MySQL. SQLens lints the SQL your migrations actually emit for lock and downtime risk, audits live schemas, detects drift and security issues, classifies deploy risk, and provides deterministic CI-ready guards with explicit pass, fail, or undetermined results.",
+    "topics": [
+      "database",
+      "database-audit",
+      "laravel",
+      "laravel-framework",
+      "laravel-package",
+      "livewire",
+      "livewire-v4",
+      "livewire4",
+      "migration",
+      "migrations",
+      "mysql",
+      "mysql-database",
+      "php",
+      "php8",
+      "postgresql",
+      "postgresql-database",
+      "schema",
+      "sql",
+      "sql-linter",
+      "wirekit"
+    ],
+    "html_url": "https://github.com/pushery/sqlens-for-laravel",
+    "stargazers_count": 2,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T12:29:27Z",
+    "updated_at": "2026-09-06T13:53:53Z",
+    "pushed_at": "2026-09-06T13:53:49Z"
+  },
+  {
+    "id": 1359524044,
+    "name": "branchbase",
+    "full_name": "oscarbol09/branchbase",
+    "owner": {
+      "login": "oscarbol09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80536682?v=4"
+    },
+    "description": "Zero-config, Git-native local database branching for PostgreSQL, MySQL, and SQLite.",
+    "topics": [
+      "branching",
+      "database",
+      "developer-tools",
+      "devops",
+      "docker",
+      "git",
+      "golang",
+      "postgres",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/oscarbol09/branchbase",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-06T21:28:46Z",
+    "updated_at": "2026-09-06T22:42:55Z",
+    "pushed_at": "2026-09-06T22:24:17Z"
+  },
+  {
+    "id": 1353575357,
+    "name": "mybatis-sql-tuner-ai",
+    "full_name": "sweetpark/mybatis-sql-tuner-ai",
+    "owner": {
+      "login": "sweetpark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98140369?v=4"
+    },
+    "description": "AI-Assisted MyBatis SQL Tuning & Static Analysis Tool for IntelliJ IDEA (Ollama / OpenAI, EXPLAIN Automation, 100% Coverage)",
+    "topics": [
+      "ai",
+      "database",
+      "intellij-plugin",
+      "java",
+      "mybatis",
+      "ollama",
+      "openai",
+      "sql-analyzer",
+      "sql-tuner",
+      "static-analysis"
+    ],
+    "html_url": "https://github.com/sweetpark/mybatis-sql-tuner-ai",
+    "stargazers_count": 2,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-09-01T12:58:49Z",
+    "updated_at": "2026-09-04T12:53:44Z",
+    "pushed_at": "2026-09-04T12:52:45Z"
+  },
+  {
+    "id": 1357570669,
+    "name": "Inventory-Management-System",
+    "full_name": "SUMAIRDERO7/Inventory-Management-System",
+    "owner": {
+      "login": "SUMAIRDERO7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189377018?v=4"
+    },
+    "description": "Production-oriented inventory management system with FastAPI, SQLAlchemy, SQLite, and Streamlit.",
+    "topics": [
+      "api",
+      "backend",
+      "database",
+      "fastapi",
+      "full-stack",
+      "inventory-management",
+      "pytest",
+      "python",
+      "rest-api",
+      "software-engineering",
+      "sqlalchemy",
+      "sqlite",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/SUMAIRDERO7/Inventory-Management-System",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T20:31:32Z",
+    "updated_at": "2026-09-05T04:55:42Z",
+    "pushed_at": "2026-09-05T04:55:38Z"
+  },
+  {
+    "id": 1352751075,
+    "name": "etec-bg-project",
+    "full_name": "cmarttiinss/etec-bg-project",
+    "owner": {
+      "login": "cmarttiinss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176844932?v=4"
+    },
+    "description": "-📚Projetos Escola📚- Este repositório foi criado com o objetivo de armazenar e compartilhar atividades, exercícios e projetos desenvolvidos durante minha formação em Desenvolvimento de Sistemas. Aqui você encontrará trabalhos acadêmicos, práticas de programação e estudos voltados para tecnologia",
+    "topics": [
+      "arduino",
+      "backend",
+      "cpp",
+      "css3",
+      "dart",
+      "database",
+      "frontend",
+      "html5",
+      "javascript",
+      "mysql",
+      "python",
+      "software-development",
+      "sql",
+      "web-development"
+    ],
+    "html_url": "https://github.com/cmarttiinss/etec-bg-project",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-08-31T18:45:51Z",
+    "updated_at": "2026-09-02T18:29:33Z",
+    "pushed_at": "2026-09-02T18:28:36Z"
+  },
+  {
+    "id": 1356147964,
+    "name": "firedac-na-pratica-exemplos",
+    "full_name": "regyssilveira/firedac-na-pratica-exemplos",
+    "owner": {
+      "login": "regyssilveira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5432481?v=4"
+    },
+    "description": "Exemplos oficiais do livro FireDAC na Prática, de Regys Silveira",
+    "topics": [
+      "database",
+      "delphi",
+      "firebird",
+      "firedac",
+      "object-pascal"
+    ],
+    "html_url": "https://github.com/regyssilveira/firedac-na-pratica-exemplos",
+    "stargazers_count": 1,
+    "language": "Pascal",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T15:43:05Z",
+    "updated_at": "2026-09-05T00:07:27Z",
+    "pushed_at": "2026-09-05T00:07:24Z"
+  },
+  {
+    "id": 1358991833,
+    "name": "Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "full_name": "shokribardiya/Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "owner": {
+      "login": "shokribardiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153763700?v=4"
+    },
+    "description": "More complete guide on redme.This system is designed for data control and pattern recognition. This is the second version; to access the software for a ten-day demo, please visit the website below and send a message to the email address listed there.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "airflow",
+      "data",
+      "data-analysis",
+      "data-science",
+      "data-structures",
+      "data-visualization",
+      "database",
+      "dataset",
+      "spy"
+    ],
+    "html_url": "https://github.com/shokribardiya/Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T09:34:19Z",
+    "updated_at": "2026-09-06T10:32:58Z",
+    "pushed_at": "2026-09-06T10:32:19Z"
+  },
+  {
+    "id": 1353174759,
+    "name": "electricity-billing-management-system",
+    "full_name": "hawky245/electricity-billing-management-system",
+    "owner": {
+      "login": "hawky245",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101985862?v=4"
+    },
+    "description": "Python and MySQL based electricity billing management system with CRUD operations and bill visualization.",
+    "topics": [
+      "billing-system",
+      "crud",
+      "database",
+      "matplotlib",
+      "mysql",
+      "pymysql",
+      "python",
+      "student-project"
+    ],
+    "html_url": "https://github.com/hawky245/electricity-billing-management-system",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T05:35:49Z",
+    "updated_at": "2026-09-01T16:08:28Z",
+    "pushed_at": "2026-09-01T05:51:49Z"
+  },
+  {
+    "id": 1354830335,
+    "name": "nabla",
+    "full_name": "tomaquet18/nabla",
+    "owner": {
+      "login": "tomaquet18",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44406987?v=4"
+    },
+    "description": "Non-blocking incremental materialized views for PostgreSQL, with real-time delta subscriptions. A PostgreSQL 17 extension in Rust.",
+    "topics": [
+      "change-data-capture",
+      "database",
+      "incremental-view-maintenance",
+      "logical-decoding",
+      "materialized-views",
+      "pgrx",
+      "postgresql",
+      "rust"
+    ],
+    "html_url": "https://github.com/tomaquet18/nabla",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T13:57:20Z",
+    "updated_at": "2026-09-03T10:02:09Z",
+    "pushed_at": "2026-09-03T10:00:22Z"
+  },
+  {
+    "id": 1358880523,
+    "name": "South-African-National-Team-Players-by-Club",
+    "full_name": "neosiwela18-droid/South-African-National-Team-Players-by-Club",
+    "owner": {
+      "login": "neosiwela18-droid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262331356?v=4"
+    },
+    "description": "All data for this Proj was found on public websites like kaggle.",
+    "topics": [
+      "data",
+      "data-analysis",
+      "data-analytics",
+      "data-visualization",
+      "database"
+    ],
+    "html_url": "https://github.com/neosiwela18-droid/South-African-National-Team-Players-by-Club",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T07:08:57Z",
+    "updated_at": "2026-09-06T07:19:50Z",
+    "pushed_at": "2026-09-06T07:17:29Z"
+  },
+  {
+    "id": 1354644610,
+    "name": "sqlserver-scripts",
+    "full_name": "TheMax-Lab/sqlserver-scripts",
+    "owner": {
+      "login": "TheMax-Lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323995299?v=4"
+    },
+    "description": "SQL Server diagnostic and DBA scripts for performance tuning, query troubleshooting, indexing, database health, integrity, and maintenance.",
+    "topics": [
+      "database",
+      "database-administration",
+      "database-diagnostics",
+      "database-scripts",
+      "dba",
+      "mssql",
+      "performance-tuning",
+      "query-optimization",
+      "sql",
+      "sql-performance",
+      "sql-server",
+      "sqlserver",
+      "t-sql",
+      "tsql"
+    ],
+    "html_url": "https://github.com/TheMax-Lab/sqlserver-scripts",
+    "stargazers_count": 1,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T10:46:56Z",
+    "updated_at": "2026-09-04T13:36:02Z",
+    "pushed_at": "2026-09-04T13:34:28Z"
+  },
+  {
+    "id": 1352739655,
+    "name": "ditto-cli",
+    "full_name": "getditto/ditto-cli",
+    "owner": {
+      "login": "getditto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37997887?v=4"
+    },
+    "description": "The official Ditto CLI tool",
+    "topics": [
+      "cli",
+      "crdt",
+      "database",
+      "ditto",
+      "mesh",
+      "mesh-network",
+      "mesh-networks",
+      "mobile-database",
+      "nodejs",
+      "typescript"
+    ],
+    "html_url": "https://github.com/getditto/ditto-cli",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-08-31T18:32:12Z",
+    "updated_at": "2026-09-03T13:08:30Z",
+    "pushed_at": "2026-09-04T08:35:52Z"
+  },
+  {
+    "id": 1354328531,
+    "name": "mysql-database-examples",
+    "full_name": "chasewright12/mysql-database-examples",
+    "owner": {
+      "login": "chasewright12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322615441?v=4"
+    },
+    "description": "MySQL examples for future projects, featuring real-world scenarios such as e-commerce, grocery stores, retail stores, restaurants, and supermarkets.",
+    "topics": [
+      "data-structures",
+      "database",
+      "docker",
+      "docker-container",
+      "mysql"
+    ],
+    "html_url": "https://github.com/chasewright12/mysql-database-examples",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T04:59:47Z",
+    "updated_at": "2026-09-06T08:13:38Z",
+    "pushed_at": "2026-09-06T00:22:15Z"
+  },
+  {
+    "id": 1353809141,
+    "name": "Cafeteria-Management-System",
+    "full_name": "abdokaled207-lang/Cafeteria-Management-System",
+    "owner": {
+      "login": "abdokaled207-lang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263776713?v=4"
+    },
+    "description": "University Cafeteria Management System — C++ + MySQL",
+    "topics": [
+      "c-plus-plus",
+      "cafeteria",
+      "console-application",
+      "database",
+      "mysql",
+      "university-project"
+    ],
+    "html_url": "https://github.com/abdokaled207-lang/Cafeteria-Management-System",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-01T16:50:00Z",
+    "updated_at": "2026-09-01T17:51:38Z",
+    "pushed_at": "2026-09-01T16:50:10Z"
+  }
+]
