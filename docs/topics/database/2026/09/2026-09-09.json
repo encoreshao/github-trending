@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1357140016,
+    "name": "kuttidb",
+    "full_name": "kuttidb/kuttidb",
+    "owner": {
+      "login": "kuttidb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324911780?v=4"
+    },
+    "description": "Lightweight, crash-recoverable event cache with durable queues, exchanges, streams, and atomic cache-plus-event commits—all in one C binary.",
+    "topics": [
+      "background-jobs",
+      "c",
+      "cache",
+      "database",
+      "docker",
+      "embedded",
+      "event-driven",
+      "key-value-store",
+      "kubernetes",
+      "message-queue",
+      "message-queues",
+      "redis-alternative",
+      "self-hosted",
+      "single-binary",
+      "streams",
+      "work-queue"
+    ],
+    "html_url": "https://github.com/kuttidb/kuttidb",
+    "stargazers_count": 7,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T12:55:56Z",
+    "updated_at": "2026-09-07T20:30:17Z",
+    "pushed_at": "2026-09-07T20:29:41Z"
+  },
+  {
+    "id": 1356186648,
+    "name": "model",
+    "full_name": "el1s7/model",
+    "owner": {
+      "login": "el1s7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53352199?v=4"
+    },
+    "description": "A minimal Python ORM for MariaDB/MySQL and SQLite. Made for humans.",
+    "topics": [
+      "database",
+      "database-migrations",
+      "database-schema",
+      "mysql",
+      "orm",
+      "python",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/el1s7/model",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T16:24:41Z",
+    "updated_at": "2026-09-06T10:24:49Z",
+    "pushed_at": "2026-09-03T17:06:43Z"
+  },
+  {
+    "id": 1359524044,
+    "name": "branchbase",
+    "full_name": "oscarbol09/branchbase",
+    "owner": {
+      "login": "oscarbol09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80536682?v=4"
+    },
+    "description": "Zero-config, Git-native local database branching for PostgreSQL, MySQL, and SQLite.",
+    "topics": [
+      "branching",
+      "database",
+      "developer-tools",
+      "devops",
+      "docker",
+      "git",
+      "golang",
+      "postgres",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/oscarbol09/branchbase",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-06T21:28:46Z",
+    "updated_at": "2026-09-07T02:50:21Z",
+    "pushed_at": "2026-09-06T22:24:17Z"
+  },
+  {
+    "id": 1357207921,
+    "name": "4-Hours-Of-PHP",
+    "full_name": "zeeshan020dev/4-Hours-Of-PHP",
+    "owner": {
+      "login": "zeeshan020dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216012693?v=4"
+    },
+    "description": "Beginner-friendly PHP tutorial with hands-on examples covering PHP fundamentals, forms, arrays, functions, sessions, password hashing, MySQL, MySQLi, phpMyAdmin, and database operations. Learn PHP in about 4 hours.",
+    "topics": [
+      "backend-development",
+      "beginner-friendly",
+      "database",
+      "database-programming",
+      "learn-php",
+      "mysql",
+      "mysqli",
+      "password-hashing",
+      "php",
+      "php-basics",
+      "php-development",
+      "php-examples",
+      "php-for-beginners",
+      "php-learning",
+      "php-programming",
+      "php-tutorial",
+      "phpmyadmin",
+      "programming",
+      "web-development",
+      "xampp"
+    ],
+    "html_url": "https://github.com/zeeshan020dev/4-Hours-Of-PHP",
+    "stargazers_count": 3,
+    "language": "PHP",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T14:01:52Z",
+    "updated_at": "2026-09-06T11:20:12Z",
+    "pushed_at": "2026-09-06T11:20:07Z"
+  },
+  {
+    "id": 1356200264,
+    "name": "fb-restore",
+    "full_name": "deliciousNesquik/fb-restore",
+    "owner": {
+      "login": "deliciousNesquik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99757380?v=4"
+    },
+    "description": "Apply an fb-dump tree or script to a Firebird database — dependency-ordered, all or nothing",
+    "topics": [
+      "database",
+      "ddl",
+      "firebird",
+      "metadata",
+      "migration",
+      "restore",
+      "schema",
+      "versioning"
+    ],
+    "html_url": "https://github.com/deliciousNesquik/fb-restore",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T16:38:47Z",
+    "updated_at": "2026-09-07T06:21:43Z",
+    "pushed_at": "2026-09-07T06:22:05Z"
+  },
+  {
+    "id": 1354830335,
+    "name": "nabla",
+    "full_name": "tomaquet18/nabla",
+    "owner": {
+      "login": "tomaquet18",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44406987?v=4"
+    },
+    "description": "Non-blocking incremental materialized views for PostgreSQL, with real-time delta subscriptions. A PostgreSQL 17 extension in Rust.",
+    "topics": [
+      "change-data-capture",
+      "database",
+      "incremental-view-maintenance",
+      "logical-decoding",
+      "materialized-views",
+      "pgrx",
+      "postgresql",
+      "rust"
+    ],
+    "html_url": "https://github.com/tomaquet18/nabla",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T13:57:20Z",
+    "updated_at": "2026-09-08T09:18:08Z",
+    "pushed_at": "2026-09-03T10:00:22Z"
+  },
+  {
+    "id": 1355952760,
+    "name": "sqlens-for-laravel",
+    "full_name": "pushery/sqlens-for-laravel",
+    "owner": {
+      "login": "pushery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272318911?v=4"
+    },
+    "description": "Database safety for Laravel on PostgreSQL and MySQL. SQLens lints the SQL your migrations actually emit for lock and downtime risk, audits live schemas, detects drift and security issues, classifies deploy risk, and provides deterministic CI-ready guards with explicit pass, fail, or undetermined results.",
+    "topics": [
+      "database",
+      "database-audit",
+      "laravel",
+      "laravel-framework",
+      "laravel-package",
+      "livewire",
+      "livewire-v4",
+      "livewire4",
+      "migration",
+      "migrations",
+      "mysql",
+      "mysql-database",
+      "php",
+      "php8",
+      "postgresql",
+      "postgresql-database",
+      "schema",
+      "sql",
+      "sql-linter",
+      "wirekit"
+    ],
+    "html_url": "https://github.com/pushery/sqlens-for-laravel",
+    "stargazers_count": 2,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T12:29:27Z",
+    "updated_at": "2026-09-08T15:02:03Z",
+    "pushed_at": "2026-09-08T14:57:32Z"
+  },
+  {
+    "id": 1356308296,
+    "name": "lyrarma-cloud",
+    "full_name": "ersh04/lyrarma-cloud",
+    "owner": {
+      "login": "ersh04",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273403468?v=4"
+    },
+    "description": "Modern open-source cloud storage",
+    "topics": [
+      "cloud",
+      "database",
+      "docker",
+      "docker-compose",
+      "docker-container",
+      "go",
+      "golang",
+      "postgres",
+      "postgresql",
+      "web",
+      "website"
+    ],
+    "html_url": "https://github.com/ersh04/lyrarma-cloud",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T18:32:51Z",
+    "updated_at": "2026-09-07T17:04:06Z",
+    "pushed_at": "2026-09-06T10:35:56Z"
+  },
+  {
+    "id": 1357570669,
+    "name": "Inventory-Management-System",
+    "full_name": "SUMAIRDERO7/Inventory-Management-System",
+    "owner": {
+      "login": "SUMAIRDERO7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189377018?v=4"
+    },
+    "description": "Production-oriented inventory management system with FastAPI, SQLAlchemy, SQLite, and Streamlit.",
+    "topics": [
+      "api",
+      "backend",
+      "database",
+      "fastapi",
+      "full-stack",
+      "inventory-management",
+      "pytest",
+      "python",
+      "rest-api",
+      "software-engineering",
+      "sqlalchemy",
+      "sqlite",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/SUMAIRDERO7/Inventory-Management-System",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T20:31:32Z",
+    "updated_at": "2026-09-05T04:55:42Z",
+    "pushed_at": "2026-09-05T04:55:38Z"
+  },
+  {
+    "id": 1356147964,
+    "name": "firedac-na-pratica-exemplos",
+    "full_name": "regyssilveira/firedac-na-pratica-exemplos",
+    "owner": {
+      "login": "regyssilveira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5432481?v=4"
+    },
+    "description": "Exemplos oficiais do livro FireDAC na Prática, de Regys Silveira",
+    "topics": [
+      "database",
+      "delphi",
+      "firebird",
+      "firedac",
+      "object-pascal"
+    ],
+    "html_url": "https://github.com/regyssilveira/firedac-na-pratica-exemplos",
+    "stargazers_count": 1,
+    "language": "Pascal",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T15:43:05Z",
+    "updated_at": "2026-09-05T00:07:27Z",
+    "pushed_at": "2026-09-05T00:07:24Z"
+  },
+  {
+    "id": 1358991833,
+    "name": "Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "full_name": "shokribardiya/Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "owner": {
+      "login": "shokribardiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153763700?v=4"
+    },
+    "description": "More complete guide on redme.This system is designed for data control and pattern recognition. This is the second version; to access the software for a ten-day demo, please visit the website below and send a message to the email address listed there.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "airflow",
+      "data",
+      "data-analysis",
+      "data-science",
+      "data-structures",
+      "data-visualization",
+      "database",
+      "dataset",
+      "spy"
+    ],
+    "html_url": "https://github.com/shokribardiya/Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T09:34:19Z",
+    "updated_at": "2026-09-06T10:32:58Z",
+    "pushed_at": "2026-09-06T10:32:19Z"
+  },
+  {
+    "id": 1354644610,
+    "name": "sqlserver-scripts",
+    "full_name": "TheMax-Lab/sqlserver-scripts",
+    "owner": {
+      "login": "TheMax-Lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323995299?v=4"
+    },
+    "description": "SQL Server diagnostic and DBA scripts for performance tuning, query troubleshooting, indexing, database health, integrity, and maintenance.",
+    "topics": [
+      "database",
+      "database-administration",
+      "database-diagnostics",
+      "database-scripts",
+      "dba",
+      "mssql",
+      "performance-tuning",
+      "query-optimization",
+      "sql",
+      "sql-performance",
+      "sql-server",
+      "sqlserver",
+      "t-sql",
+      "tsql"
+    ],
+    "html_url": "https://github.com/TheMax-Lab/sqlserver-scripts",
+    "stargazers_count": 1,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T10:46:56Z",
+    "updated_at": "2026-09-08T15:16:28Z",
+    "pushed_at": "2026-09-07T09:43:50Z"
+  },
+  {
+    "id": 1358880523,
+    "name": "South-African-National-Team-Players-by-Club",
+    "full_name": "neosiwela18-droid/South-African-National-Team-Players-by-Club",
+    "owner": {
+      "login": "neosiwela18-droid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262331356?v=4"
+    },
+    "description": "All data for this Proj was found on public websites like kaggle.",
+    "topics": [
+      "data",
+      "data-analysis",
+      "data-analytics",
+      "data-visualization",
+      "database"
+    ],
+    "html_url": "https://github.com/neosiwela18-droid/South-African-National-Team-Players-by-Club",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T07:08:57Z",
+    "updated_at": "2026-09-06T07:19:50Z",
+    "pushed_at": "2026-09-06T07:17:29Z"
+  },
+  {
+    "id": 1354328531,
+    "name": "mysql-database-examples",
+    "full_name": "chasewright12/mysql-database-examples",
+    "owner": {
+      "login": "chasewright12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322615441?v=4"
+    },
+    "description": "MySQL examples for future projects, featuring real-world scenarios such as e-commerce, grocery stores, retail stores, restaurants, and supermarkets.",
+    "topics": [
+      "data-structures",
+      "database",
+      "docker",
+      "docker-container",
+      "mysql"
+    ],
+    "html_url": "https://github.com/chasewright12/mysql-database-examples",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T04:59:47Z",
+    "updated_at": "2026-09-06T08:13:38Z",
+    "pushed_at": "2026-09-06T00:22:15Z"
+  },
+  {
+    "id": 1358711400,
+    "name": "atlas",
+    "full_name": "tkachyn/atlas",
+    "owner": {
+      "login": "tkachyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38844841?v=4"
+    },
+    "description": "A Redis-inspired in-memory key-value server in Go with TCP networking, TTL expiration, concurrent clients, and append-only persistence.",
+    "topics": [
+      "backend",
+      "concurrency",
+      "database",
+      "go",
+      "golang",
+      "in-memory-database",
+      "key-value-store",
+      "networking",
+      "systems-programming",
+      "tcp-server",
+      "ttl"
+    ],
+    "html_url": "https://github.com/tkachyn/atlas",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T02:12:17Z",
+    "updated_at": "2026-09-06T04:12:49Z",
+    "pushed_at": "2026-09-06T02:16:40Z"
+  },
+  {
+    "id": 1361580600,
+    "name": "postgresql-mcp",
+    "full_name": "wuyongan/postgresql-mcp",
+    "owner": {
+      "login": "wuyongan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178557751?v=4"
+    },
+    "description": "A PostgreSQL Model Context Protocol (MCP) server that provides tools for AI agents to query, analyze, and monitor PostgreSQL databases via HTTP.",
+    "topics": [
+      "database",
+      "http-server",
+      "mcp",
+      "model-context-protocol",
+      "postgresql",
+      "python"
+    ],
+    "html_url": "https://github.com/wuyongan/postgresql-mcp",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T15:40:05Z",
+    "updated_at": "2026-09-08T17:22:37Z",
+    "pushed_at": "2026-09-09T00:03:43Z"
+  },
+  {
+    "id": 1360174595,
+    "name": "finance-tracker-app",
+    "full_name": "AnimaMagnus/finance-tracker-app",
+    "owner": {
+      "login": "AnimaMagnus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275102903?v=4"
+    },
+    "description": "A full-stack, containerized web application for tracking personal finances, built with Python.",
+    "topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "python",
+      "sqlite3"
+    ],
+    "html_url": "https://github.com/AnimaMagnus/finance-tracker-app",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T12:00:02Z",
+    "updated_at": "2026-09-07T13:38:58Z",
+    "pushed_at": "2026-09-07T12:00:48Z"
+  },
+  {
+    "id": 1355324771,
+    "name": "Spindle",
+    "full_name": "DoanTrungHuy/Spindle",
+    "owner": {
+      "login": "DoanTrungHuy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89284282?v=4"
+    },
+    "description": "A high-performance, multithreaded in-memory Key-Value store written in modern C++20. Features custom slab allocation, user-space spinlocks, and a reactor pattern for microsecond latencies.",
+    "topics": [
+      "cpp20",
+      "database",
+      "in-memory-database",
+      "key-value-store",
+      "multithreading",
+      "networking",
+      "slab-allocator",
+      "spinlock"
+    ],
+    "html_url": "https://github.com/DoanTrungHuy/Spindle",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-09-02T23:27:25Z",
+    "updated_at": "2026-09-06T10:10:41Z",
+    "pushed_at": "2026-09-06T22:06:30Z"
+  },
+  {
+    "id": 1360895159,
+    "name": "MineralDB",
+    "full_name": "H3w4Ng2h0U/MineralDB",
+    "owner": {
+      "login": "H3w4Ng2h0U",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192081540?v=4"
+    },
+    "description": "礦物化學成分資料庫：111 種常見礦物的化學式、主量元素與微量元素參考數據，支持全稱/簡稱/化學式/元素搜索，可自行添加未發表數據並批量導入 CSV/Excel | Mineral chemistry reference database: formula, major & trace element data, search by name/abbrev/formula/element, CSV/Excel batch import",
+    "topics": [
+      "csv-import",
+      "database",
+      "geochemistry",
+      "mineralogy",
+      "minerals",
+      "reference-data"
+    ],
+    "html_url": "https://github.com/H3w4Ng2h0U/MineralDB",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T03:51:19Z",
+    "updated_at": "2026-09-08T04:54:12Z",
+    "pushed_at": "2026-09-08T04:52:51Z"
+  },
+  {
+    "id": 1354499174,
+    "name": "db-assistant",
+    "full_name": "Matt-G20/db-assistant",
+    "owner": {
+      "login": "Matt-G20",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216682829?v=4"
+    },
+    "description": "AI-powered database assistant with a REST API: schema introspection + delivery, LLM analysis, safe query generation. Phase 1 (extraction + FastAPI layer) complete — PostgreSQL & SQL Server. Learning project, built from scratch.",
+    "topics": [
+      "ai",
+      "database",
+      "fastapi",
+      "lerarning-project",
+      "oop",
+      "postgresql",
+      "python",
+      "sql-server"
+    ],
+    "html_url": "https://github.com/Matt-G20/db-assistant",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T08:04:46Z",
+    "updated_at": "2026-09-07T16:34:36Z",
+    "pushed_at": "2026-09-02T12:12:27Z"
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "id": 1355421445,
+    "name": "hermes-paper-agent",
+    "full_name": "vaelkeep/hermes-paper-agent",
+    "owner": {
+      "login": "vaelkeep",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322616871?v=4"
+    },
+    "description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+    "topics": [
+      "agent",
+      "cron",
+      "daily-briefing",
+      "hermes",
+      "llm",
+      "local-llm",
+      "newspaper",
+      "personal-dashboard",
+      "python",
+      "self-hosted",
+      "static-site",
+      "typography"
+    ],
+    "html_url": "https://github.com/vaelkeep/hermes-paper-agent",
+    "stargazers_count": 60,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T02:15:43Z",
+    "updated_at": "2026-09-08T17:41:04Z",
+    "pushed_at": "2026-09-03T23:26:25Z"
+  },
+  {
+    "id": 1357382890,
+    "name": "hermes-desktop-web-mobile-pwa",
+    "full_name": "mdg-qc/hermes-desktop-web-mobile-pwa",
+    "owner": {
+      "login": "mdg-qc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99652049?v=4"
+    },
+    "description": "Hermes Desktop - Web / Mobile (PWA) Ver. Unofficial community wrapper of the Hermes desktop chat UI as a Web & Mobile (PWA) app; Docker image.",
+    "topics": [
+      "community",
+      "docker",
+      "hermes",
+      "pwa",
+      "react",
+      "unofficial"
+    ],
+    "html_url": "https://github.com/mdg-qc/hermes-desktop-web-mobile-pwa",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-09-04T16:46:55Z",
+    "updated_at": "2026-09-05T12:21:25Z",
+    "pushed_at": "2026-09-05T06:39:55Z"
+  },
+  {
+    "id": 1357673245,
+    "name": "vault-drop",
+    "full_name": "red4711/vault-drop",
+    "owner": {
+      "login": "red4711",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10916821?v=4"
+    },
+    "description": "Inline credential-drop forms for Hermes WebUI — secrets go straight to your local vault (Dropvault/Vaultwarden), never through the chat.",
+    "topics": [
+      "bitwarden",
+      "extension",
+      "hermes",
+      "hermes-webui",
+      "secrets",
+      "sidecar",
+      "vaultwarden"
+    ],
+    "html_url": "https://github.com/red4711/vault-drop",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T23:30:09Z",
+    "updated_at": "2026-09-08T23:25:01Z",
+    "pushed_at": "2026-09-06T06:31:58Z"
+  },
+  {
+    "id": 1359392252,
+    "name": "skuggsja",
+    "full_name": "0merUfuk/skuggsja",
+    "owner": {
+      "login": "0merUfuk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147669914?v=4"
+    },
+    "description": "A local, read-only retrospective for Claude Code, Codex, Hermes and Cursor histories. One binary, embedded UI, zero outbound at runtime.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "cursor",
+      "golang",
+      "hermes",
+      "local-first",
+      "privacy"
+    ],
+    "html_url": "https://github.com/0merUfuk/skuggsja",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T17:57:07Z",
+    "updated_at": "2026-09-08T21:22:45Z",
+    "pushed_at": "2026-09-08T21:22:26Z"
+  },
+  {
+    "id": 1357834101,
+    "name": "vera-memory",
+    "full_name": "acculoe/vera-memory",
+    "owner": {
+      "login": "acculoe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279594430?v=4"
+    },
+    "description": "VERA Memory V5 — persistent SQLite+FTS5 memory with governed identity, session briefing, and local ONNX semantic search for Hermes AI agents. MIT licensed.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "embeddings",
+      "hermes",
+      "memory",
+      "onnx",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/acculoe/vera-memory",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T04:47:00Z",
+    "updated_at": "2026-09-06T01:50:36Z",
+    "pushed_at": "2026-09-05T06:03:10Z"
+  },
+  {
+    "id": 1361070259,
+    "name": "hot-potato",
+    "full_name": "kanekoshoyu/hot-potato",
+    "owner": {
+      "login": "kanekoshoyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12782422?v=4"
+    },
+    "description": "🥔 Let agents pass that hot potato",
+    "topics": [
+      "agents",
+      "ai",
+      "hermes",
+      "openclaw",
+      "skills"
+    ],
+    "html_url": "https://github.com/kanekoshoyu/hot-potato",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T07:37:47Z",
+    "updated_at": "2026-09-08T17:33:15Z",
+    "pushed_at": "2026-09-08T09:34:17Z"
+  },
+  {
+    "id": 1359098025,
+    "name": "phone-codex",
+    "full_name": "dll61/phone-codex",
+    "owner": {
+      "login": "dll61",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189571506?v=4"
+    },
+    "description": "手机 Telegram 遥控 OpenAI Codex｜Hermes Gateway + codex_app_server｜踩坑: danger-no-sandbox / 重复回复 / home channel / BotFather",
+    "topics": [
+      "agent",
+      "chatgpt",
+      "codex",
+      "documentation",
+      "hermes",
+      "hermes-agent",
+      "llm-agent",
+      "openai-codex",
+      "telegram",
+      "telegram-bot"
+    ],
+    "html_url": "https://github.com/dll61/phone-codex",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T12:00:24Z",
+    "updated_at": "2026-09-06T12:12:19Z",
+    "pushed_at": "2026-09-06T12:12:15Z"
+  },
+  {
+    "id": 1357028471,
+    "name": "In-Ear-Hermes",
+    "full_name": "step-into-ai/In-Ear-Hermes",
+    "owner": {
+      "login": "step-into-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173475175?v=4"
+    },
+    "description": "Self-hosted Android voice assistant for one-command Bluetooth headset gestures, powered by Hermes.",
+    "topics": [
+      "android",
+      "bluetooth",
+      "hermes",
+      "self-hosted",
+      "tailscale",
+      "voice-assistant"
+    ],
+    "html_url": "https://github.com/step-into-ai/In-Ear-Hermes",
+    "stargazers_count": 1,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-09-04T10:54:03Z",
+    "updated_at": "2026-09-06T20:34:58Z",
+    "pushed_at": "2026-09-04T11:26:56Z"
+  },
+  {
+    "id": 1361181444,
+    "name": "mi-sleep-sync",
+    "full_name": "zelton02/mi-sleep-sync",
+    "owner": {
+      "login": "zelton02",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66425905?v=4"
+    },
+    "description": "Self-hosted Mi Fitness sleep sync with stages, SQLite/JSON storage, and optional Hermes integration.",
+    "topics": [
+      "hermes",
+      "mi-fitness",
+      "python",
+      "self-hosted",
+      "sleep-tracking",
+      "xiaomi"
+    ],
+    "html_url": "https://github.com/zelton02/mi-sleep-sync",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T09:32:59Z",
+    "updated_at": "2026-09-08T09:36:03Z",
+    "pushed_at": "2026-09-08T09:33:04Z"
+  },
+  {
+    "id": 1358225044,
+    "name": "hermes-agent-ru-locale",
+    "full_name": "Dyuha-stv/hermes-agent-ru-locale",
+    "owner": {
+      "login": "Dyuha-stv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285428729?v=4"
+    },
+    "description": "Русская локаль интерфейса для Hermes Desktop (Nous Research): перевод ~3500 строк UI и подписей настроек, интеграция одной командой. Неофициальный проект.",
+    "topics": [
+      "ai-agent",
+      "hermes",
+      "hermes-agent",
+      "i18n",
+      "locale",
+      "localization",
+      "nous-research",
+      "ru",
+      "russian",
+      "translation"
+    ],
+    "html_url": "https://github.com/Dyuha-stv/hermes-agent-ru-locale",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T13:32:52Z",
+    "updated_at": "2026-09-06T00:06:26Z",
+    "pushed_at": "2026-09-06T00:06:23Z"
+  },
+  {
+    "id": 1357010316,
+    "name": "529kit",
+    "full_name": "velesnitski/529kit",
+    "owner": {
+      "login": "velesnitski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6872240?v=4"
+    },
+    "description": "Ollama + Hermes local fallback kit for when every cloud LLM is down — drill-first, honest about the ceiling",
+    "topics": [
+      "gpt-oss",
+      "hermes",
+      "llm-fallback",
+      "local-llm",
+      "offline-ai",
+      "ollama"
+    ],
+    "html_url": "https://github.com/velesnitski/529kit",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T10:33:44Z",
+    "updated_at": "2026-09-04T12:59:13Z",
+    "pushed_at": "2026-09-04T12:59:06Z"
+  },
+  {
+    "id": 1355015938,
+    "name": "templeton-production-loop-hermes",
+    "full_name": "templetongroup/templeton-production-loop-hermes",
+    "owner": {
+      "login": "templetongroup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111453366?v=4"
+    },
+    "description": "Templeton Production Loop — Hermes edition: human-gated GitHub issue-to-PR automation and artifact proof runner.",
+    "topics": [
+      "hermes",
+      "skill",
+      "templeton-skills"
+    ],
+    "html_url": "https://github.com/templetongroup/templeton-production-loop-hermes",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-02T16:58:08Z",
+    "updated_at": "2026-09-08T16:41:35Z",
+    "pushed_at": "2026-09-02T16:58:13Z"
+  },
+  {
+    "id": 1357086050,
+    "name": "bybots",
+    "full_name": "Mazzana/bybots",
+    "owner": {
+      "login": "Mazzana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7453843?v=4"
+    },
+    "description": "Open-source Web and desktop workspace for building, running, and supervising Hermes AI Bots.",
+    "topics": [
+      "ai-agents",
+      "electron",
+      "hermes",
+      "open-source",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Mazzana/bybots",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-09-04T11:58:54Z",
+    "updated_at": "2026-09-05T02:23:32Z",
+    "pushed_at": "2026-09-05T02:23:30Z"
+  },
+  {
+    "id": 1358059143,
+    "name": "prompt-snippets",
+    "full_name": "Heybinshao/prompt-snippets",
+    "owner": {
+      "login": "Heybinshao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44917766?v=4"
+    },
+    "description": "【Hermes 桌面端插件 v1.4.4】自定义提示词片段——快捷键内联浮层（官方 / 弹层同款）+ 拖拽排序，多会话精确路由，en/zh/繁體",
+    "topics": [
+      "desktop-plugin",
+      "hermes",
+      "hermes-agent",
+      "productivity",
+      "prompt",
+      "snippets"
+    ],
+    "html_url": "https://github.com/Heybinshao/prompt-snippets",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T10:02:24Z",
+    "updated_at": "2026-09-07T17:12:47Z",
+    "pushed_at": "2026-09-07T17:08:16Z"
+  },
+  {
+    "id": 1359626305,
+    "name": "keys-CyboPal-ONE-Hermes-DevKit-LiveSimulator-Nemotron3Nano-Omni-for-DGX-Spark",
+    "full_name": "drowzeys/keys-CyboPal-ONE-Hermes-DevKit-LiveSimulator-Nemotron3Nano-Omni-for-DGX-Spark",
+    "owner": {
+      "login": "drowzeys",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264866615?v=4"
+    },
+    "description": "Hermes DevKit + live CyboPal ONE simulator + Nemotron 3 Nano Omni on DGX Spark. Program, test, control, and author skills before the hardware ships.",
+    "topics": [
+      "cybopal",
+      "dgx-spark",
+      "grok",
+      "hermes",
+      "nemotron",
+      "simulator"
+    ],
+    "html_url": "https://github.com/drowzeys/keys-CyboPal-ONE-Hermes-DevKit-LiveSimulator-Nemotron3Nano-Omni-for-DGX-Spark",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T01:12:36Z",
+    "updated_at": "2026-09-07T03:05:57Z",
+    "pushed_at": "2026-09-07T03:05:52Z"
+  },
+  {
+    "id": 1360040123,
+    "name": "ha-control",
+    "full_name": "Yiivgeny/ha-control",
+    "owner": {
+      "login": "Yiivgeny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1321010?v=4"
+    },
+    "description": "Five generic MCP tools and a native LLM API for Home Assistant administration",
+    "topics": [
+      "hacs",
+      "hermes",
+      "home-assistant",
+      "home-assistant-addons",
+      "mcp"
+    ],
+    "html_url": "https://github.com/Yiivgeny/ha-control",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T09:41:01Z",
+    "updated_at": "2026-09-07T13:13:46Z",
+    "pushed_at": "2026-09-07T13:13:04Z"
+  },
+  {
+    "id": 1361070550,
+    "name": "pebble-hermes-bridge",
+    "full_name": "parthchandak02/pebble-hermes-bridge",
+    "owner": {
+      "login": "parthchandak02",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25555581?v=4"
+    },
+    "description": "Connect a Pebble Index 01 smart ring to a Hermes Agent - webhook bridge with HMAC/Bearer auth, guardrail prompts, launchd install",
+    "topics": [
+      "bridge",
+      "hermes",
+      "index01",
+      "pebble",
+      "smart-ring",
+      "voice-agent",
+      "webhook"
+    ],
+    "html_url": "https://github.com/parthchandak02/pebble-hermes-bridge",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T07:38:08Z",
+    "updated_at": "2026-09-08T07:38:32Z",
+    "pushed_at": "2026-09-08T07:38:12Z"
+  },
+  {
+    "id": 1360727937,
+    "name": "aftergraph-cron-fabric",
+    "full_name": "Aftergraph/aftergraph-cron-fabric",
+    "owner": {
+      "login": "Aftergraph",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324824287?v=4"
+    },
+    "description": "Aftergraph Cron Fabric: Telegram-first drift monitors, event dedupe, enforced read-only sensors.",
+    "topics": [
+      "aftergraph",
+      "cron",
+      "drift-detection",
+      "hermes",
+      "telegram"
+    ],
+    "html_url": "https://github.com/Aftergraph/aftergraph-cron-fabric",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-07T23:03:42Z",
+    "updated_at": "2026-09-08T23:21:52Z",
+    "pushed_at": "2026-09-08T23:21:37Z"
+  },
+  {
+    "id": 1355833910,
+    "name": "hermes-plugin-durable-memory",
+    "full_name": "RuBAN-GT/hermes-plugin-durable-memory",
+    "owner": {
+      "login": "RuBAN-GT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4778223?v=4"
+    },
+    "description": "Profile-isolated, approval-gated durable memory plugin for Hermes Agent.",
+    "topics": [
+      "ai-memory",
+      "durable-memory",
+      "hermes",
+      "hermes-agent",
+      "plugin",
+      "postgresql",
+      "python"
+    ],
+    "html_url": "https://github.com/RuBAN-GT/hermes-plugin-durable-memory",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T10:35:09Z",
+    "updated_at": "2026-09-05T23:02:17Z",
+    "pushed_at": "2026-09-05T23:02:13Z"
+  },
+  {
+    "id": 1360705740,
+    "name": "webview-reader-kit",
+    "full_name": "shadbakht/webview-reader-kit",
+    "owner": {
+      "login": "shadbakht",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14010680?v=4"
+    },
+    "description": "String/DOM helpers you splice into a React Native WebView reader without a bundler (the Hermes-safe way), plus a bookmark-vs-jump state machine. Extracted from Immerse.",
+    "topics": [
+      "codegen",
+      "hermes",
+      "react-native",
+      "reader",
+      "text-to-speech",
+      "typescript",
+      "webview"
+    ],
+    "html_url": "https://github.com/shadbakht/webview-reader-kit",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T22:19:58Z",
+    "updated_at": "2026-09-07T22:20:16Z",
+    "pushed_at": "2026-09-07T22:20:02Z"
+  }
+]
