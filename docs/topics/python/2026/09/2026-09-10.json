@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1359247858,
+    "name": "cloudflare-turnstile-solver",
+    "full_name": "biusberline/cloudflare-turnstile-solver",
+    "owner": {
+      "login": "biusberline",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8263411?v=4"
+    },
+    "description": "A small Python library and CLI for working with Cloudflare Turnstile on your own pages - read the sitekey, build the token, verify the result.",
+    "topics": [
+      "automation",
+      "cloudflare",
+      "python",
+      "solver",
+      "turnstile"
+    ],
+    "html_url": "https://github.com/biusberline/cloudflare-turnstile-solver",
+    "stargazers_count": 316,
+    "language": "Python",
+    "forks_count": 26,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T14:58:51Z",
+    "updated_at": "2026-09-09T18:06:34Z",
+    "pushed_at": "2026-09-06T16:34:42Z"
+  },
+  {
+    "id": 1358160514,
+    "name": "global-timezone-tracker",
+    "full_name": "ramazancetinkaya/global-timezone-tracker",
+    "owner": {
+      "login": "ramazancetinkaya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75214035?v=4"
+    },
+    "description": "Automated world timezone and DST status tracker with ready-to-consume JSON datasets.",
+    "topics": [
+      "daylight-saving-time",
+      "dst",
+      "github-actions",
+      "gmt",
+      "gmt-offset",
+      "gmt-offsets",
+      "iso-3166",
+      "python",
+      "pytz",
+      "time-zone",
+      "time-zones",
+      "timezone",
+      "timezone-data",
+      "timezone-database",
+      "timezones",
+      "utc",
+      "utc-offset",
+      "utc-offsets",
+      "world-clock",
+      "world-time"
+    ],
+    "html_url": "https://github.com/ramazancetinkaya/global-timezone-tracker",
+    "stargazers_count": 88,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T12:19:59Z",
+    "updated_at": "2026-09-08T20:51:09Z",
+    "pushed_at": "2026-09-06T03:30:29Z"
+  },
+  {
+    "id": 1358275774,
+    "name": "image-to-css-art",
+    "full_name": "AvroraCL/image-to-css-art",
+    "owner": {
+      "login": "AvroraCL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205043051?v=4"
+    },
+    "description": "将参考图片离线描摹为纯 HTML + CSS 单文件插画的 Agent 插件，支持轮廓提取、局部渐变与输出审计。",
+    "topics": [
+      "agent-skills",
+      "codex-plugin",
+      "css-art",
+      "html-css",
+      "python"
+    ],
+    "html_url": "https://github.com/AvroraCL/image-to-css-art",
+    "stargazers_count": 87,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T14:32:15Z",
+    "updated_at": "2026-09-09T16:21:29Z",
+    "pushed_at": "2026-09-09T16:18:43Z"
+  },
+  {
+    "id": 1355421445,
+    "name": "hermes-paper-agent",
+    "full_name": "vaelkeep/hermes-paper-agent",
+    "owner": {
+      "login": "vaelkeep",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322616871?v=4"
+    },
+    "description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+    "topics": [
+      "agent",
+      "cron",
+      "daily-briefing",
+      "hermes",
+      "llm",
+      "local-llm",
+      "newspaper",
+      "personal-dashboard",
+      "python",
+      "self-hosted",
+      "static-site",
+      "typography"
+    ],
+    "html_url": "https://github.com/vaelkeep/hermes-paper-agent",
+    "stargazers_count": 63,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T02:15:43Z",
+    "updated_at": "2026-09-09T23:03:32Z",
+    "pushed_at": "2026-09-03T23:26:25Z"
+  },
+  {
+    "id": 1358948316,
+    "name": "hanshuang-codex",
+    "full_name": "aimeoa/hanshuang-codex",
+    "owner": {
+      "login": "aimeoa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154602560?v=4"
+    },
+    "description": "针对GPT 5.6,V4flash的破甲实验项目",
+    "topics": [
+      "ai",
+      "codex",
+      "codex-cli",
+      "desktop-app",
+      "jailbreak",
+      "llm",
+      "openai-codex",
+      "prompt-injection",
+      "pyside6",
+      "python"
+    ],
+    "html_url": "https://github.com/aimeoa/hanshuang-codex",
+    "stargazers_count": 61,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 1,
+    "created_at": "2026-09-06T08:42:57Z",
+    "updated_at": "2026-09-10T01:55:42Z",
+    "pushed_at": "2026-09-09T11:09:37Z"
+  },
+  {
+    "id": 1355378705,
+    "name": "vulnometry",
+    "full_name": "san3ncrypt3d/vulnometry",
+    "owner": {
+      "login": "san3ncrypt3d",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32395477?v=4"
+    },
+    "description": "Measure what a vulnerability is worth to your business, not how severe it is in the abstract. Business Exposure Index scoring over NVD, EPSS, CISA KEV, OSV and GHSA.",
+    "topics": [
+      "cve",
+      "devsecops",
+      "epss",
+      "kev",
+      "mcp",
+      "osv",
+      "python",
+      "risk-management",
+      "sbom",
+      "security",
+      "vulnerability-management",
+      "vulnerability-scanner"
+    ],
+    "html_url": "https://github.com/san3ncrypt3d/vulnometry",
+    "stargazers_count": 56,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T01:04:32Z",
+    "updated_at": "2026-09-10T01:46:35Z",
+    "pushed_at": "2026-09-10T01:46:29Z"
+  },
+  {
+    "id": 1360813538,
+    "name": "note-bridge-desktop",
+    "full_name": "lingxuanqjc-alt/note-bridge-desktop",
+    "owner": {
+      "login": "lingxuanqjc-alt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275312785?v=4"
+    },
+    "description": "Windows 笔记导出与迁移工具：七平台适配、四格式导出、离线阅读，明确验证范围与失败状态。",
+    "topics": [
+      "data-migration",
+      "local-first",
+      "note-export",
+      "note-taking",
+      "notes",
+      "python",
+      "webview2",
+      "windows"
+    ],
+    "html_url": "https://github.com/lingxuanqjc-alt/note-bridge-desktop",
+    "stargazers_count": 54,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T01:44:22Z",
+    "updated_at": "2026-09-10T00:43:11Z",
+    "pushed_at": "2026-09-09T17:07:03Z"
+  },
+  {
+    "id": 1357729892,
+    "name": "mini-harness",
+    "full_name": "mini-harness/mini-harness",
+    "owner": {
+      "login": "mini-harness",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325139937?v=4"
+    },
+    "description": "A small, complete Python agent harness: tools, compaction, retries, and a single-file TUI. Built to learn and use as a baseline.",
+    "topics": [
+      "agent-harness",
+      "coding-agent",
+      "python"
+    ],
+    "html_url": "https://github.com/mini-harness/mini-harness",
+    "stargazers_count": 44,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T01:28:05Z",
+    "updated_at": "2026-09-10T01:10:04Z",
+    "pushed_at": "2026-09-05T04:06:27Z"
+  },
+  {
+    "id": 1358978740,
+    "name": "factcircuit",
+    "full_name": "superwesleyhys-ux/factcircuit",
+    "owner": {
+      "login": "superwesleyhys-ux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251160695?v=4"
+    },
+    "description": "FactCircuit: an auditable claim-and-evidence verification loop with immutable provenance, staged checks, bounded retrieval, and reproducible evaluation.",
+    "topics": [
+      "accuracy-decline",
+      "ai-safety",
+      "audit-trail",
+      "fact-checking",
+      "factcircuit",
+      "information-retrieval",
+      "llm-evaluation",
+      "news-verification",
+      "provenance",
+      "python",
+      "reproducible-research"
+    ],
+    "html_url": "https://github.com/superwesleyhys-ux/factcircuit",
+    "stargazers_count": 42,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-09-06T09:15:33Z",
+    "updated_at": "2026-09-10T00:47:57Z",
+    "pushed_at": "2026-09-08T18:14:00Z"
+  },
+  {
+    "id": 1357557853,
+    "name": "MemoryMint",
+    "full_name": "anasse-hassala/MemoryMint",
+    "owner": {
+      "login": "anasse-hassala",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9011789?v=4"
+    },
+    "description": "Grades the retrieval policies that decide what a long-running agent remembers - comparative scorecards over fixed, inspectable sessions",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "benchmarking",
+      "developer-tools",
+      "golang",
+      "llm-evaluation",
+      "policy-evaluation",
+      "python",
+      "regression-testing",
+      "retrieval"
+    ],
+    "html_url": "https://github.com/anasse-hassala/MemoryMint",
+    "stargazers_count": 41,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T20:13:24Z",
+    "updated_at": "2026-09-09T17:40:29Z",
+    "pushed_at": "2026-09-08T06:52:24Z"
+  },
+  {
+    "id": 1358840837,
+    "name": "ram0verflow",
+    "full_name": "ram0verflow/ram0verflow",
+    "owner": {
+      "login": "ram0verflow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64720360?v=4"
+    },
+    "description": "A small Bitcoin-like chain whose canonical ledger is my README. Proof of work is subset-sum, not hashing.",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "cryptography",
+      "github-actions",
+      "profile-readme",
+      "proof-of-work",
+      "python",
+      "subset-sum"
+    ],
+    "html_url": "https://github.com/ram0verflow/ram0verflow",
+    "stargazers_count": 37,
+    "language": "Python",
+    "forks_count": 17,
+    "open_issues_count": 246,
+    "created_at": "2026-09-06T06:07:03Z",
+    "updated_at": "2026-09-10T01:57:14Z",
+    "pushed_at": "2026-09-10T01:57:09Z"
+  },
+  {
+    "id": 1355507861,
+    "name": "PromptLedger",
+    "full_name": "cyptnpassira/PromptLedger",
+    "owner": {
+      "login": "cyptnpassira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6305864?v=4"
+    },
+    "description": "PromptLedger - version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experiment reports. Python core plus a Go companion CLI.",
+    "topics": [
+      "benchmark",
+      "diff",
+      "evaluation",
+      "experiments",
+      "go",
+      "llm",
+      "machine-learning",
+      "prompt-engineering",
+      "promptledger",
+      "python",
+      "reporting",
+      "reproducibility",
+      "snapshots",
+      "templates",
+      "versioning"
+    ],
+    "html_url": "https://github.com/cyptnpassira/PromptLedger",
+    "stargazers_count": 35,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T04:26:04Z",
+    "updated_at": "2026-09-09T17:34:06Z",
+    "pushed_at": "2026-09-03T08:24:07Z"
+  },
+  {
+    "id": 1359448945,
+    "name": "game-sensitivity-coach",
+    "full_name": "DenisSergeevitch/game-sensitivity-coach",
+    "owner": {
+      "login": "DenisSergeevitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2140110?v=4"
+    },
+    "description": "An agent skill for evidence-based mouse sensitivity tuning, cross-game conversion, and gameplay review. Works with Codex, Claude Code, and Agent Skills hosts.",
+    "topics": [
+      "agent-skills",
+      "aim-training",
+      "claude-code",
+      "codex",
+      "ffmpeg",
+      "gaming",
+      "mouse-sensitivity",
+      "python",
+      "windows"
+    ],
+    "html_url": "https://github.com/DenisSergeevitch/game-sensitivity-coach",
+    "stargazers_count": 34,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T19:20:41Z",
+    "updated_at": "2026-09-08T14:51:08Z",
+    "pushed_at": "2026-09-06T19:21:19Z"
+  },
+  {
+    "id": 1360858142,
+    "name": "fantasy-football-manager",
+    "full_name": "krmisystems/fantasy-football-manager",
+    "owner": {
+      "login": "krmisystems",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326306102?v=4"
+    },
+    "description": "ESPN draft and lineup tools for Codex and other MCP clients, with browser sign-in, approval modes, per-team limits, and server monitoring.",
+    "topics": [
+      "browser-automation",
+      "codex",
+      "codex-plugin",
+      "espn",
+      "fantasy-draft",
+      "fantasy-football",
+      "lineup-optimization",
+      "mcp",
+      "mcp-server",
+      "monte-carlo",
+      "python",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/krmisystems/fantasy-football-manager",
+    "stargazers_count": 32,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T02:55:36Z",
+    "updated_at": "2026-09-09T21:09:35Z",
+    "pushed_at": "2026-09-09T21:08:28Z"
+  },
+  {
+    "id": 1362996218,
+    "name": "voxweave",
+    "full_name": "chenkb98/voxweave",
+    "owner": {
+      "login": "chenkb98",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239023730?v=4"
+    },
+    "description": "Streaming speech language model plumbing: audio frames, turns, conversation schemas, batching, and adapters.",
+    "topics": [
+      "audio-language-model",
+      "inference",
+      "python",
+      "speech",
+      "streaming"
+    ],
+    "html_url": "https://github.com/chenkb98/voxweave",
+    "stargazers_count": 32,
+    "language": "Python",
+    "forks_count": 240,
+    "open_issues_count": 3,
+    "created_at": "2026-09-09T17:16:26Z",
+    "updated_at": "2026-09-09T22:41:05Z",
+    "pushed_at": "2026-09-09T17:19:22Z"
+  },
+  {
+    "id": 1362960126,
+    "name": "speechturn",
+    "full_name": "howervoo/speechturn",
+    "owner": {
+      "login": "howervoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240197673?v=4"
+    },
+    "description": "语音大模型研究工具包：音频指令数据、声学适配器、CPU 微型训练与推理、流式事件和评测。",
+    "topics": [
+      "audio",
+      "evaluation",
+      "python",
+      "pytorch",
+      "speech-language-model"
+    ],
+    "html_url": "https://github.com/howervoo/speechturn",
+    "stargazers_count": 32,
+    "language": "Python",
+    "forks_count": 240,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T16:44:31Z",
+    "updated_at": "2026-09-09T21:03:09Z",
+    "pushed_at": "2026-09-09T16:44:36Z"
+  },
+  {
+    "id": 1362928535,
+    "name": "speechloom",
+    "full_name": "fufuchiu/speechloom",
+    "owner": {
+      "login": "fufuchiu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233662060?v=4"
+    },
+    "description": "End-to-end speech model research: waveform encoding, causal decoding, codec tokens, joint losses and streaming.",
+    "topics": [
+      "audio",
+      "end-to-end-learning",
+      "python",
+      "pytorch",
+      "speech-language-model",
+      "streaming"
+    ],
+    "html_url": "https://github.com/fufuchiu/speechloom",
+    "stargazers_count": 31,
+    "language": "Python",
+    "forks_count": 241,
+    "open_issues_count": 8,
+    "created_at": "2026-09-09T16:17:52Z",
+    "updated_at": "2026-09-09T19:41:33Z",
+    "pushed_at": "2026-09-09T16:54:46Z"
+  },
+  {
+    "id": 1356015607,
+    "name": "CacheCraft",
+    "full_name": "mpaymenremora/CacheCraft",
+    "owner": {
+      "login": "mpaymenremora",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10965303?v=4"
+    },
+    "description": "Semantic cache strategy bench: replay recorded request traces through candidate caching policies and measure which one actually pays off.",
+    "topics": [
+      "ai-infrastructure",
+      "benchmarking",
+      "cache",
+      "cli",
+      "devtools",
+      "evaluation",
+      "go",
+      "jaccard",
+      "latency",
+      "llm",
+      "observability",
+      "optimization",
+      "python",
+      "quality",
+      "replay",
+      "semantic-caching",
+      "tokenization",
+      "tracing"
+    ],
+    "html_url": "https://github.com/mpaymenremora/CacheCraft",
+    "stargazers_count": 30,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T13:34:21Z",
+    "updated_at": "2026-09-09T17:58:45Z",
+    "pushed_at": "2026-09-04T09:04:40Z"
+  },
+  {
+    "id": 1358794688,
+    "name": "remedi",
+    "full_name": "sreenidhbonagiri/remedi",
+    "owner": {
+      "login": "sreenidhbonagiri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67754320?v=4"
+    },
+    "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "css",
+      "digital-health",
+      "fastapi",
+      "health",
+      "health-data",
+      "health-tech",
+      "healthcare",
+      "healthcare-ai",
+      "html",
+      "javascript",
+      "langgraph",
+      "medicine",
+      "open-source",
+      "openfda",
+      "pytest",
+      "python",
+      "python3",
+      "reportlab"
+    ],
+    "html_url": "https://github.com/sreenidhbonagiri/remedi",
+    "stargazers_count": 29,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-06T04:46:45Z",
+    "updated_at": "2026-09-09T20:11:51Z",
+    "pushed_at": "2026-09-06T20:52:19Z"
+  },
+  {
+    "id": 1357390407,
+    "name": "s3-files-ai-sdk",
+    "full_name": "tomiholtz/s3-files-ai-sdk",
+    "owner": {
+      "login": "tomiholtz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24504460?v=4"
+    },
+    "description": "Give Vercel AI SDK agents a real persistent filesystem with Amazon S3 Files.",
+    "topics": [
+      "ai",
+      "android",
+      "benchmark",
+      "devtools",
+      "edge",
+      "evaluation",
+      "inference",
+      "jvm",
+      "kotlin",
+      "latency",
+      "machine-learning",
+      "manifest",
+      "on-device",
+      "performance",
+      "python",
+      "reporting",
+      "tflite",
+      "thermal"
+    ],
+    "html_url": "https://github.com/tomiholtz/s3-files-ai-sdk",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T16:55:00Z",
+    "updated_at": "2026-09-09T14:08:50Z",
+    "pushed_at": "2026-09-04T16:58:19Z"
+  }
+]

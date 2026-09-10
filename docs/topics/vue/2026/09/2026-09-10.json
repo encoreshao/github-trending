@@ -1,0 +1,584 @@
+[
+  {
+    "id": 1357997871,
+    "name": "xiaokeai",
+    "full_name": "liupig/xiaokeai",
+    "owner": {
+      "login": "liupig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24448394?v=4"
+    },
+    "description": "开源免费的本地 3D 陪玩 / 虚拟陪玩：桌面 3D 角色语音聊天、口型表情动作运镜，还能对面抽塔罗。virtual companion",
+    "topics": [
+      "ai-companion",
+      "chatbot",
+      "desktop-pet",
+      "electron",
+      "fastapi",
+      "local-first",
+      "mmd",
+      "speech",
+      "tarot",
+      "threejs",
+      "virtual-companion",
+      "vrm",
+      "vtuber",
+      "vue"
+    ],
+    "html_url": "https://github.com/liupig/xiaokeai",
+    "stargazers_count": 35,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T08:51:00Z",
+    "updated_at": "2026-09-10T00:41:31Z",
+    "pushed_at": "2026-09-08T06:51:04Z"
+  },
+  {
+    "id": 1358326505,
+    "name": "workers-personal-agent",
+    "full_name": "DomWane/workers-personal-agent",
+    "owner": {
+      "login": "DomWane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82064987?v=4"
+    },
+    "description": "Personal AI agent on Cloudflare Workers: Durable Object per conversation, markdown memory in R2, vector recall in SQLite, fan-out deep research. Free-tier hosting, measured limits.",
+    "topics": [
+      "ai-agent",
+      "cloudflare-workers",
+      "deep-research",
+      "durable-objects",
+      "evals",
+      "personal-assistant",
+      "rag",
+      "vue",
+      "workers-ai"
+    ],
+    "html_url": "https://github.com/DomWane/workers-personal-agent",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T15:36:43Z",
+    "updated_at": "2026-09-09T17:23:25Z",
+    "pushed_at": "2026-09-09T10:52:21Z"
+  },
+  {
+    "id": 1358630778,
+    "name": "Cascade",
+    "full_name": "alexsoft-hq/Cascade",
+    "owner": {
+      "login": "alexsoft-hq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320907586?v=4"
+    },
+    "description": "Code-to-column change-impact knowledge graph for AI coding agents: the round trip from a screen to a database column and back, over MCP",
+    "topics": [
+      "impact-analysis",
+      "knowledge-graph",
+      "mcp",
+      "model-context-protocol",
+      "mybatis",
+      "spring-boot",
+      "sql-lineage",
+      "static-analysis",
+      "vue"
+    ],
+    "html_url": "https://github.com/alexsoft-hq/Cascade",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T23:21:58Z",
+    "updated_at": "2026-09-10T00:52:39Z",
+    "pushed_at": "2026-09-10T00:56:43Z"
+  },
+  {
+    "id": 1358835593,
+    "name": "ui",
+    "full_name": "Hikarinagi/ui",
+    "owner": {
+      "login": "Hikarinagi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214466518?v=4"
+    },
+    "description": "Hina UI: a Vue 3 component library",
+    "topics": [
+      "reka-ui",
+      "tailwindcss",
+      "typrescript",
+      "ui-library",
+      "vue"
+    ],
+    "html_url": "https://github.com/Hikarinagi/ui",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T05:59:07Z",
+    "updated_at": "2026-09-09T16:11:34Z",
+    "pushed_at": "2026-09-09T16:48:43Z"
+  },
+  {
+    "id": 1355775357,
+    "name": "module-federation-example",
+    "full_name": "hendrialqori/module-federation-example",
+    "owner": {
+      "login": "hendrialqori",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44539133?v=4"
+    },
+    "description": "Cross-Framework Micro Frontend with Vite Module Federation",
+    "topics": [
+      "micro-frontend",
+      "module-federation",
+      "react",
+      "vue"
+    ],
+    "html_url": "https://github.com/hendrialqori/module-federation-example",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T09:31:56Z",
+    "updated_at": "2026-09-09T10:33:30Z",
+    "pushed_at": "2026-09-09T10:32:12Z"
+  },
+  {
+    "id": 1361020122,
+    "name": "imqi1-cms",
+    "full_name": "imqi1-github/imqi1-cms",
+    "owner": {
+      "login": "imqi1-github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142153050?v=4"
+    },
+    "description": "ImQi1 CMS —— 个人博客与内容管理系统（Nuxt 4 + Prisma + PostgreSQL），imqi1.com 完整源码",
+    "topics": [
+      "blog",
+      "markdown",
+      "nuxt",
+      "postgresql",
+      "prisma",
+      "redis",
+      "tailwindcss",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/imqi1-github/imqi1-cms",
+    "stargazers_count": 4,
+    "language": "Vue",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T06:41:34Z",
+    "updated_at": "2026-09-09T13:01:47Z",
+    "pushed_at": "2026-09-09T13:00:53Z"
+  },
+  {
+    "id": 1358963206,
+    "name": "agentx-website",
+    "full_name": "agentx-xai/agentx-website",
+    "owner": {
+      "login": "agentx-xai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325562759?v=4"
+    },
+    "description": "AgentX product website and Registry Web Console",
+    "topics": [
+      "agentx",
+      "ai-agents",
+      "developer-tools",
+      "github-pages",
+      "vue",
+      "web-console"
+    ],
+    "html_url": "https://github.com/agentx-xai/agentx-website",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 7,
+    "created_at": "2026-09-06T08:56:38Z",
+    "updated_at": "2026-09-09T10:10:20Z",
+    "pushed_at": "2026-09-09T10:10:22Z"
+  },
+  {
+    "id": 1360366295,
+    "name": "flexclash",
+    "full_name": "zhuyikai2002/flexclash",
+    "owner": {
+      "login": "zhuyikai2002",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85660417?v=4"
+    },
+    "description": "FlexClash — lightweight Mihomo (Clash Meta) proxy client built on Tauri 2 + Vue 3",
+    "topics": [
+      "clash",
+      "mihomo",
+      "mihomo-client",
+      "proxy",
+      "rust",
+      "tauri",
+      "tauri-app",
+      "vue"
+    ],
+    "html_url": "https://github.com/zhuyikai2002/flexclash",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T15:06:36Z",
+    "updated_at": "2026-09-09T09:38:04Z",
+    "pushed_at": "2026-09-08T18:46:34Z"
+  },
+  {
+    "id": 1361054911,
+    "name": "prompt-tool",
+    "full_name": "baoxinwen/prompt-tool",
+    "owner": {
+      "login": "baoxinwen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84140746?v=4"
+    },
+    "description": "本地优先的 Windows 桌面提示词管理工具（Tauri 2 + Vue 3）：全局热键呼出、剪贴板历史、变量占位符、云同步与自动更新",
+    "topics": [
+      "clipboard",
+      "desktop-app",
+      "local-first",
+      "productivity",
+      "prompt-management",
+      "tauri",
+      "vue",
+      "windows"
+    ],
+    "html_url": "https://github.com/baoxinwen/prompt-tool",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T07:21:06Z",
+    "updated_at": "2026-09-09T11:11:30Z",
+    "pushed_at": "2026-09-09T10:33:10Z"
+  },
+  {
+    "id": 1359511289,
+    "name": "nuxt-auth-starter",
+    "full_name": "aruizcastillo/nuxt-auth-starter",
+    "owner": {
+      "login": "aruizcastillo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182524194?v=4"
+    },
+    "description": "An opinionated Nuxt starter with Better Auth, Drizzle, PostgreSQL, i18n, and shadcn-vue.",
+    "topics": [
+      "auth",
+      "better-auth",
+      "drizzle",
+      "i18n",
+      "nuxt",
+      "postgresql",
+      "shadcn-vue",
+      "starter",
+      "tailwindcss",
+      "template",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/aruizcastillo/nuxt-auth-starter",
+    "stargazers_count": 2,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T21:05:24Z",
+    "updated_at": "2026-09-09T18:55:20Z",
+    "pushed_at": "2026-09-10T00:41:54Z"
+  },
+  {
+    "id": 1357007232,
+    "name": "JobTrail",
+    "full_name": "baozha2023/JobTrail",
+    "owner": {
+      "login": "baozha2023",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208792845?v=4"
+    },
+    "description": "职迹：一款本地优先的 Windows 求职管理桌面应用，用于跟踪岗位、公司、简历、面试日程和投递进度。",
+    "topics": [
+      "career-management",
+      "desktop-app",
+      "electron",
+      "job-tracker",
+      "local-first",
+      "mcp",
+      "resume-manager",
+      "sqlite",
+      "typescript",
+      "vue",
+      "windows"
+    ],
+    "html_url": "https://github.com/baozha2023/JobTrail",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-04T10:30:14Z",
+    "updated_at": "2026-09-09T12:04:29Z",
+    "pushed_at": "2026-09-09T06:25:39Z"
+  },
+  {
+    "id": 1358528860,
+    "name": "vue-toast-alerts",
+    "full_name": "babatundelmd/vue-toast-alerts",
+    "owner": {
+      "login": "babatundelmd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52851438?v=4"
+    },
+    "description": "Vue toast notification library with animations, stacking, and custom themes",
+    "topics": [
+      "component",
+      "playwright",
+      "plugin",
+      "vitest",
+      "vue",
+      "vue3",
+      "vuejs"
+    ],
+    "html_url": "https://github.com/babatundelmd/vue-toast-alerts",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T20:14:42Z",
+    "updated_at": "2026-09-06T21:26:32Z",
+    "pushed_at": "2026-09-05T20:26:13Z"
+  },
+  {
+    "id": 1358990362,
+    "name": "md-kanban",
+    "full_name": "Abdulkader-Safi/md-kanban",
+    "owner": {
+      "login": "Abdulkader-Safi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53955839?v=4"
+    },
+    "description": "A project kanban that tracks what your AI agents are doing. Each project is a folder, each task is a markdown file.",
+    "topics": [
+      "ai-agents",
+      "electron",
+      "kanban",
+      "local-first",
+      "markdown",
+      "project-management",
+      "task-tracking",
+      "vite",
+      "vue"
+    ],
+    "html_url": "https://github.com/Abdulkader-Safi/md-kanban",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T09:32:10Z",
+    "updated_at": "2026-09-09T09:55:32Z",
+    "pushed_at": "2026-09-09T09:55:15Z"
+  },
+  {
+    "id": 1355662985,
+    "name": "craftlist",
+    "full_name": "mcbbugu/craftlist",
+    "owner": {
+      "login": "mcbbugu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35242765?v=4"
+    },
+    "description": "Independent product sites, listed by pull request",
+    "topics": [
+      "catalog",
+      "directory",
+      "handmade",
+      "indiehackers",
+      "vue"
+    ],
+    "html_url": "https://github.com/mcbbugu/craftlist",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T07:37:45Z",
+    "updated_at": "2026-09-03T07:38:22Z",
+    "pushed_at": "2026-09-03T07:38:00Z"
+  },
+  {
+    "id": 1359488385,
+    "name": "LibraCord",
+    "full_name": "RoxyBoxxy/LibraCord",
+    "owner": {
+      "login": "RoxyBoxxy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8870878?v=4"
+    },
+    "description": "A self-hosted and federated Discord alternative built with Vue, Electron, Socket.IO, and LiveKit.",
+    "topics": [
+      "chat",
+      "community",
+      "discord-alternative",
+      "docker",
+      "electron",
+      "federated",
+      "fediverse",
+      "instant-messaging",
+      "libracord",
+      "livekit",
+      "nodejs",
+      "open-source",
+      "screen-sharing",
+      "self-hosted",
+      "socket-io",
+      "sqlite",
+      "video-chat",
+      "voice-chat",
+      "vue",
+      "webrtc"
+    ],
+    "html_url": "https://github.com/RoxyBoxxy/LibraCord",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T20:25:00Z",
+    "updated_at": "2026-09-07T20:32:58Z",
+    "pushed_at": "2026-09-09T23:28:19Z"
+  },
+  {
+    "id": 1356337621,
+    "name": "fairteiler-aachen",
+    "full_name": "DeastinY/fairteiler-aachen",
+    "owner": {
+      "login": "DeastinY",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5399476?v=4"
+    },
+    "description": "🥕 Is there food in the Fairteiler right now? Anonymous crowd-reported live status for Aachen's public food-share points. PWA, 9 languages, no tracking. Companion to foodsharing.de",
+    "topics": [
+      "aachen",
+      "agpl",
+      "civic-tech",
+      "fastapi",
+      "food-waste",
+      "foodsharing",
+      "i18n",
+      "leaflet",
+      "offline-first",
+      "pwa",
+      "vue",
+      "web-push"
+    ],
+    "html_url": "https://github.com/DeastinY/fairteiler-aachen",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-03T19:07:04Z",
+    "updated_at": "2026-09-04T13:58:41Z",
+    "pushed_at": "2026-09-04T08:39:12Z"
+  },
+  {
+    "id": 1357092034,
+    "name": "effect-stack",
+    "full_name": "samuelbriole/effect-stack",
+    "owner": {
+      "login": "samuelbriole",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6950802?v=4"
+    },
+    "description": "A family of Effect-native libraries with headless, framework-agnostic cores and first-party adapters.",
+    "topics": [
+      "effect",
+      "effect-ts",
+      "react",
+      "router",
+      "solid",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/samuelbriole/effect-stack",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-04T12:05:42Z",
+    "updated_at": "2026-09-08T08:48:25Z",
+    "pushed_at": "2026-09-09T07:27:27Z"
+  },
+  {
+    "id": 1359950746,
+    "name": "ionic-framework-mcp",
+    "full_name": "capawesome-team/ionic-framework-mcp",
+    "owner": {
+      "login": "capawesome-team",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105555861?v=4"
+    },
+    "description": "Unofficial Ionic Framework MCP Server by Capawesome: client package, install guides and registry manifest.",
+    "topics": [
+      "ai",
+      "android",
+      "angular",
+      "capacitor",
+      "capawesome",
+      "documentation",
+      "ionic",
+      "ionic-framework",
+      "ios",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "react",
+      "vue"
+    ],
+    "html_url": "https://github.com/capawesome-team/ionic-framework-mcp",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T08:12:02Z",
+    "updated_at": "2026-09-09T04:56:12Z",
+    "pushed_at": "2026-09-08T16:04:51Z"
+  },
+  {
+    "id": 1358928981,
+    "name": "little-lobster",
+    "full_name": "alexanderop/little-lobster",
+    "owner": {
+      "login": "alexanderop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33398393?v=4"
+    },
+    "description": "A Vue 3 and Phaser underwater platform adventure with Vitest and browser regression tests.",
+    "topics": [
+      "browser-game",
+      "phaser",
+      "pnpm",
+      "typescript",
+      "vitest",
+      "vue"
+    ],
+    "html_url": "https://github.com/alexanderop/little-lobster",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T08:17:46Z",
+    "updated_at": "2026-09-06T14:57:28Z",
+    "pushed_at": "2026-09-06T14:56:56Z"
+  },
+  {
+    "id": 1360935251,
+    "name": "better-yugioh-card",
+    "full_name": "ASTion24/better-yugioh-card",
+    "owner": {
+      "login": "ASTion24",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108278210?v=4"
+    },
+    "description": "轻量级游戏王卡片与竞技构筑工作台：识图、构筑、试手、换备、制卡与打印。",
+    "topics": [
+      "card-maker",
+      "deck-builder",
+      "image-recognition",
+      "print",
+      "vite",
+      "vue",
+      "yugioh"
+    ],
+    "html_url": "https://github.com/ASTion24/better-yugioh-card",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-09-08T04:51:25Z",
+    "updated_at": "2026-09-08T09:48:50Z",
+    "pushed_at": "2026-09-08T09:47:49Z"
+  }
+]

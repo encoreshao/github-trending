@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1357140016,
+    "name": "kuttidb",
+    "full_name": "kuttidb/kuttidb",
+    "owner": {
+      "login": "kuttidb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324911780?v=4"
+    },
+    "description": "Lightweight, crash-recoverable event cache with durable queues, exchanges, streams, and atomic cache-plus-event commits—all in one C binary.",
+    "topics": [
+      "background-jobs",
+      "c",
+      "cache",
+      "database",
+      "docker",
+      "embedded",
+      "event-driven",
+      "key-value-store",
+      "kubernetes",
+      "message-queue",
+      "message-queues",
+      "redis-alternative",
+      "self-hosted",
+      "single-binary",
+      "streams",
+      "work-queue"
+    ],
+    "html_url": "https://github.com/kuttidb/kuttidb",
+    "stargazers_count": 7,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T12:55:56Z",
+    "updated_at": "2026-09-10T01:49:08Z",
+    "pushed_at": "2026-09-10T01:49:07Z"
+  },
+  {
+    "id": 1356186648,
+    "name": "model",
+    "full_name": "el1s7/model",
+    "owner": {
+      "login": "el1s7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53352199?v=4"
+    },
+    "description": "A minimal Python ORM for MariaDB/MySQL and SQLite. Made for humans.",
+    "topics": [
+      "database",
+      "database-migrations",
+      "database-schema",
+      "mysql",
+      "orm",
+      "python",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/el1s7/model",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T16:24:41Z",
+    "updated_at": "2026-09-06T10:24:49Z",
+    "pushed_at": "2026-09-03T17:06:43Z"
+  },
+  {
+    "id": 1359524044,
+    "name": "branchbase",
+    "full_name": "oscarbol09/branchbase",
+    "owner": {
+      "login": "oscarbol09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80536682?v=4"
+    },
+    "description": "Zero-config, Git-native local database branching for PostgreSQL, MySQL, and SQLite.",
+    "topics": [
+      "branching",
+      "database",
+      "developer-tools",
+      "devops",
+      "docker",
+      "git",
+      "golang",
+      "postgres",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/oscarbol09/branchbase",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-06T21:28:46Z",
+    "updated_at": "2026-09-07T02:50:21Z",
+    "pushed_at": "2026-09-06T22:24:17Z"
+  },
+  {
+    "id": 1357207921,
+    "name": "4-Hours-Of-PHP",
+    "full_name": "zeeshan020dev/4-Hours-Of-PHP",
+    "owner": {
+      "login": "zeeshan020dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216012693?v=4"
+    },
+    "description": "Beginner-friendly PHP tutorial with hands-on examples covering PHP fundamentals, forms, arrays, functions, sessions, password hashing, MySQL, MySQLi, phpMyAdmin, and database operations. Learn PHP in about 4 hours.",
+    "topics": [
+      "backend-development",
+      "beginner-friendly",
+      "database",
+      "database-programming",
+      "learn-php",
+      "mysql",
+      "mysqli",
+      "password-hashing",
+      "php",
+      "php-basics",
+      "php-development",
+      "php-examples",
+      "php-for-beginners",
+      "php-learning",
+      "php-programming",
+      "php-tutorial",
+      "phpmyadmin",
+      "programming",
+      "web-development",
+      "xampp"
+    ],
+    "html_url": "https://github.com/zeeshan020dev/4-Hours-Of-PHP",
+    "stargazers_count": 3,
+    "language": "PHP",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T14:01:52Z",
+    "updated_at": "2026-09-06T11:20:12Z",
+    "pushed_at": "2026-09-06T11:20:07Z"
+  },
+  {
+    "id": 1355952760,
+    "name": "sqlens-for-laravel",
+    "full_name": "pushery/sqlens-for-laravel",
+    "owner": {
+      "login": "pushery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272318911?v=4"
+    },
+    "description": "Database safety for Laravel on PostgreSQL and MySQL. SQLens lints the SQL your migrations actually emit for lock and downtime risk, audits live schemas, detects drift and security issues, classifies deploy risk, and provides deterministic CI-ready guards with explicit pass, fail, or undetermined results.",
+    "topics": [
+      "database",
+      "database-audit",
+      "laravel",
+      "laravel-framework",
+      "laravel-package",
+      "livewire",
+      "livewire-v4",
+      "livewire4",
+      "migration",
+      "migrations",
+      "mysql",
+      "mysql-database",
+      "php",
+      "php8",
+      "postgresql",
+      "postgresql-database",
+      "schema",
+      "sql",
+      "sql-linter",
+      "wirekit"
+    ],
+    "html_url": "https://github.com/pushery/sqlens-for-laravel",
+    "stargazers_count": 2,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T12:29:27Z",
+    "updated_at": "2026-09-08T15:02:03Z",
+    "pushed_at": "2026-09-08T14:57:32Z"
+  },
+  {
+    "id": 1356200264,
+    "name": "fb-restore",
+    "full_name": "deliciousNesquik/fb-restore",
+    "owner": {
+      "login": "deliciousNesquik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99757380?v=4"
+    },
+    "description": "Apply an fb-dump tree or script to a Firebird database — dependency-ordered, all or nothing",
+    "topics": [
+      "database",
+      "ddl",
+      "firebird",
+      "metadata",
+      "migration",
+      "restore",
+      "schema",
+      "versioning"
+    ],
+    "html_url": "https://github.com/deliciousNesquik/fb-restore",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T16:38:47Z",
+    "updated_at": "2026-09-07T06:21:43Z",
+    "pushed_at": "2026-09-07T06:22:05Z"
+  },
+  {
+    "id": 1361869527,
+    "name": "consize",
+    "full_name": "consize-oss/consize",
+    "owner": {
+      "login": "consize-oss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326664993?v=4"
+    },
+    "description": "The automated safety engine for Kubernetes cost optimization. Consize safely rightsizes workloads using guarded rollouts and automated SLI-verified rollbacks ✅",
+    "topics": [
+      "aws",
+      "database",
+      "finops",
+      "gcp",
+      "kubernetes",
+      "observability"
+    ],
+    "html_url": "https://github.com/consize-oss/consize",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 4,
+    "created_at": "2026-09-08T20:22:28Z",
+    "updated_at": "2026-09-09T22:37:24Z",
+    "pushed_at": "2026-09-09T22:40:41Z"
+  },
+  {
+    "id": 1356308296,
+    "name": "lyrarma-cloud",
+    "full_name": "ersh04/lyrarma-cloud",
+    "owner": {
+      "login": "ersh04",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273403468?v=4"
+    },
+    "description": "Modern open-source cloud storage",
+    "topics": [
+      "cloud",
+      "database",
+      "docker",
+      "docker-compose",
+      "docker-container",
+      "go",
+      "golang",
+      "postgres",
+      "postgresql",
+      "web",
+      "website"
+    ],
+    "html_url": "https://github.com/ersh04/lyrarma-cloud",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T18:32:51Z",
+    "updated_at": "2026-09-07T17:04:06Z",
+    "pushed_at": "2026-09-06T10:35:56Z"
+  },
+  {
+    "id": 1357570669,
+    "name": "Inventory-Management-System",
+    "full_name": "SUMAIRDERO7/Inventory-Management-System",
+    "owner": {
+      "login": "SUMAIRDERO7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189377018?v=4"
+    },
+    "description": "Production-oriented inventory management system with FastAPI, SQLAlchemy, SQLite, and Streamlit.",
+    "topics": [
+      "api",
+      "backend",
+      "database",
+      "fastapi",
+      "full-stack",
+      "inventory-management",
+      "pytest",
+      "python",
+      "rest-api",
+      "software-engineering",
+      "sqlalchemy",
+      "sqlite",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/SUMAIRDERO7/Inventory-Management-System",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T20:31:32Z",
+    "updated_at": "2026-09-05T04:55:42Z",
+    "pushed_at": "2026-09-05T04:55:38Z"
+  },
+  {
+    "id": 1356147964,
+    "name": "firedac-na-pratica-exemplos",
+    "full_name": "regyssilveira/firedac-na-pratica-exemplos",
+    "owner": {
+      "login": "regyssilveira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5432481?v=4"
+    },
+    "description": "Exemplos oficiais do livro FireDAC na Prática, de Regys Silveira",
+    "topics": [
+      "database",
+      "delphi",
+      "firebird",
+      "firedac",
+      "object-pascal"
+    ],
+    "html_url": "https://github.com/regyssilveira/firedac-na-pratica-exemplos",
+    "stargazers_count": 1,
+    "language": "Pascal",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T15:43:05Z",
+    "updated_at": "2026-09-05T00:07:27Z",
+    "pushed_at": "2026-09-05T00:07:24Z"
+  },
+  {
+    "id": 1355475959,
+    "name": "Data-Warehouse",
+    "full_name": "morgan-swe/Data-Warehouse",
+    "owner": {
+      "login": "morgan-swe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211747435?v=4"
+    },
+    "description": "A full-stack, enterprise-grade Data Engineering and BI Analytics platform built using Microsoft SQL Server. The project models and consolidates different sales, customer, and product data from two source systems (ERP and CRM) into an integrated analytical data warehouse.",
+    "topics": [
+      "data-analysis",
+      "data-engineering",
+      "data-science",
+      "database",
+      "etl",
+      "microsoft-sql-server"
+    ],
+    "html_url": "https://github.com/morgan-swe/Data-Warehouse",
+    "stargazers_count": 1,
+    "language": "TSQL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T03:39:26Z",
+    "updated_at": "2026-09-09T04:08:45Z",
+    "pushed_at": "2026-09-07T20:35:16Z"
+  },
+  {
+    "id": 1358880523,
+    "name": "South-African-National-Team-Players-by-Club",
+    "full_name": "neosiwela18-droid/South-African-National-Team-Players-by-Club",
+    "owner": {
+      "login": "neosiwela18-droid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262331356?v=4"
+    },
+    "description": "All data for this Proj was found on public websites like kaggle.",
+    "topics": [
+      "data",
+      "data-analysis",
+      "data-analytics",
+      "data-visualization",
+      "database"
+    ],
+    "html_url": "https://github.com/neosiwela18-droid/South-African-National-Team-Players-by-Club",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T07:08:57Z",
+    "updated_at": "2026-09-06T07:19:50Z",
+    "pushed_at": "2026-09-06T07:17:29Z"
+  },
+  {
+    "id": 1362926292,
+    "name": "mini-db",
+    "full_name": "ronakgh97/mini-db",
+    "owner": {
+      "login": "ronakgh97",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219775283?v=4"
+    },
+    "description": "Unfathomably fast key/value storage with WAL backend",
+    "topics": [
+      "database",
+      "database-design",
+      "keyvaluestore",
+      "performance-engineering",
+      "write-ahead-log"
+    ],
+    "html_url": "https://github.com/ronakgh97/mini-db",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T16:16:05Z",
+    "updated_at": "2026-09-09T17:09:09Z",
+    "pushed_at": "2026-09-09T16:29:59Z"
+  },
+  {
+    "id": 1358991833,
+    "name": "Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "full_name": "shokribardiya/Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "owner": {
+      "login": "shokribardiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153763700?v=4"
+    },
+    "description": "More complete guide on redme.This system is designed for data control and pattern recognition. This is the second version; to access the software for a ten-day demo, please visit the website below and send a message to the email address listed there.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "airflow",
+      "data",
+      "data-analysis",
+      "data-science",
+      "data-structures",
+      "data-visualization",
+      "database",
+      "dataset",
+      "spy"
+    ],
+    "html_url": "https://github.com/shokribardiya/Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T09:34:19Z",
+    "updated_at": "2026-09-06T10:32:58Z",
+    "pushed_at": "2026-09-06T10:32:19Z"
+  },
+  {
+    "id": 1359143540,
+    "name": "Yelp_API_ETL",
+    "full_name": "VikasKumar281/Yelp_API_ETL",
+    "owner": {
+      "login": "VikasKumar281",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179719586?v=4"
+    },
+    "description": "Python ETL pipeline that extracts business data from the Yelp Fusion API, transforms nested JSON responses, and loads structured records into PostgreSQL with upsert support and modular data-processing components.",
+    "topics": [
+      "api-integration",
+      "argparse",
+      "data-engineering",
+      "data-ingestion",
+      "data-pipeline",
+      "data-transformation",
+      "data-warehouse",
+      "database",
+      "etl",
+      "json",
+      "postgresql",
+      "psycopg2",
+      "python",
+      "rest-api",
+      "sql",
+      "upsert",
+      "yelp-api"
+    ],
+    "html_url": "https://github.com/VikasKumar281/Yelp_API_ETL",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T12:57:33Z",
+    "updated_at": "2026-09-09T11:46:44Z",
+    "pushed_at": "2026-09-06T14:19:12Z"
+  },
+  {
+    "id": 1362807152,
+    "name": "tinykv",
+    "full_name": "pastbologanesh0101/tinykv",
+    "owner": {
+      "login": "pastbologanesh0101",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253739077?v=4"
+    },
+    "description": "Persistent key/value store from scratch: B+ tree storage engine, paged file format, write-ahead log for crash recovery. Pure Python, zero deps.",
+    "topics": [
+      "btree",
+      "database",
+      "dbms",
+      "from-scratch",
+      "key-value-store",
+      "python",
+      "storage-engine",
+      "write-ahead-log"
+    ],
+    "html_url": "https://github.com/pastbologanesh0101/tinykv",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T14:39:18Z",
+    "updated_at": "2026-09-09T14:46:29Z",
+    "pushed_at": "2026-09-09T14:39:24Z"
+  },
+  {
+    "id": 1358711400,
+    "name": "atlas",
+    "full_name": "tkachyn/atlas",
+    "owner": {
+      "login": "tkachyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38844841?v=4"
+    },
+    "description": "A Redis-inspired in-memory key-value server in Go with TCP networking, TTL expiration, concurrent clients, and append-only persistence.",
+    "topics": [
+      "backend",
+      "concurrency",
+      "database",
+      "go",
+      "golang",
+      "in-memory-database",
+      "key-value-store",
+      "networking",
+      "systems-programming",
+      "tcp-server",
+      "ttl"
+    ],
+    "html_url": "https://github.com/tkachyn/atlas",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T02:12:17Z",
+    "updated_at": "2026-09-10T01:35:36Z",
+    "pushed_at": "2026-09-10T01:35:32Z"
+  },
+  {
+    "id": 1361580600,
+    "name": "postgresql-mcp",
+    "full_name": "wuyongan/postgresql-mcp",
+    "owner": {
+      "login": "wuyongan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178557751?v=4"
+    },
+    "description": "A PostgreSQL Model Context Protocol (MCP) server that provides tools for AI agents to query, analyze, and monitor PostgreSQL databases via HTTP.",
+    "topics": [
+      "database",
+      "http-server",
+      "mcp",
+      "model-context-protocol",
+      "postgresql",
+      "python"
+    ],
+    "html_url": "https://github.com/wuyongan/postgresql-mcp",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T15:40:05Z",
+    "updated_at": "2026-09-09T16:37:47Z",
+    "pushed_at": "2026-09-09T16:18:02Z"
+  },
+  {
+    "id": 1360174595,
+    "name": "finance-tracker-app",
+    "full_name": "AnimaMagnus/finance-tracker-app",
+    "owner": {
+      "login": "AnimaMagnus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275102903?v=4"
+    },
+    "description": "A full-stack, containerized web application for tracking personal finances, built with Python.",
+    "topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "python",
+      "sqlite3"
+    ],
+    "html_url": "https://github.com/AnimaMagnus/finance-tracker-app",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T12:00:02Z",
+    "updated_at": "2026-09-07T13:38:58Z",
+    "pushed_at": "2026-09-07T12:00:48Z"
+  },
+  {
+    "id": 1356482057,
+    "name": "dictionary-of-postgres",
+    "full_name": "SamRome1/dictionary-of-postgres",
+    "owner": {
+      "login": "SamRome1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135672110?v=4"
+    },
+    "description": "Postgres jargon, explained in plain English. 117 terms with how it works, why it matters, and SQL examples.",
+    "topics": [
+      "database",
+      "glossary",
+      "learning",
+      "postgres",
+      "postgresql",
+      "sql",
+      "supabase"
+    ],
+    "html_url": "https://github.com/SamRome1/dictionary-of-postgres",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T22:23:09Z",
+    "updated_at": "2026-09-03T22:44:27Z",
+    "pushed_at": "2026-09-03T22:23:13Z"
+  }
+]

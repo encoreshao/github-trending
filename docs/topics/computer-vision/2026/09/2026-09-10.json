@@ -1,0 +1,606 @@
+[
+  {
+    "id": 1356530489,
+    "name": "PromptLens",
+    "full_name": "binghe1980/PromptLens",
+    "owner": {
+      "login": "binghe1980",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151974936?v=4"
+    },
+    "description": "一款把任意图片转换为专业生图提示词的 Chrome / Edge 浏览器插件。支持网页右键识图、本地上传与剪贴板粘贴，生成中文、英文和 JSON 提示词，并提供历史记录与收藏。",
+    "topics": [
+      "chrome-extension",
+      "computer-vision",
+      "edge-extension",
+      "image-to-prompt",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/binghe1980/PromptLens",
+    "stargazers_count": 55,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T23:43:17Z",
+    "updated_at": "2026-09-08T17:21:33Z",
+    "pushed_at": "2026-09-08T05:15:21Z"
+  },
+  {
+    "id": 1357366139,
+    "name": "epi-detect",
+    "full_name": "Pravatta/epi-detect",
+    "owner": {
+      "login": "Pravatta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181990866?v=4"
+    },
+    "description": "Detecção de EPI (colete refletivo e capacete) em vídeo com YOLOv8-pose. Roda em CPU.",
+    "topics": [
+      "computer-vision",
+      "opencv",
+      "pose-estimation",
+      "ppe-detection",
+      "python",
+      "workplace-safety",
+      "yolov8"
+    ],
+    "html_url": "https://github.com/Pravatta/epi-detect",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T16:29:33Z",
+    "updated_at": "2026-09-10T00:49:09Z",
+    "pushed_at": "2026-09-04T16:55:51Z"
+  },
+  {
+    "id": 1359118242,
+    "name": "efficient-gaussian-appearance",
+    "full_name": "nerficg-project/efficient-gaussian-appearance",
+    "owner": {
+      "login": "nerficg-project",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188445810?v=4"
+    },
+    "description": " Faster-GS with JIT-compiled view-dependent appearance models and a WebGL viewer, described in the paper \"Compact Neural Appearance Models for Efficient Gaussian Splatting\"",
+    "topics": [
+      "compute-graphics",
+      "computer-vision",
+      "gaussian-splatting",
+      "novel-view-synthesis"
+    ],
+    "html_url": "https://github.com/nerficg-project/efficient-gaussian-appearance",
+    "stargazers_count": 17,
+    "language": "Cuda",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T12:25:11Z",
+    "updated_at": "2026-09-08T18:56:32Z",
+    "pushed_at": "2026-09-07T10:02:39Z"
+  },
+  {
+    "id": 1356941203,
+    "name": "call14",
+    "full_name": "europaprof/call14",
+    "owner": {
+      "login": "europaprof",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234183327?v=4"
+    },
+    "description": "A $20 local-first smart elevator call and tracking system built with ESP8266, Home Assistant, MQTT and computer vision.",
+    "topics": [
+      "computer-vision",
+      "elevator",
+      "esp8266",
+      "esphome",
+      "home-assistant",
+      "iot",
+      "mqtt",
+      "seven-segment-display"
+    ],
+    "html_url": "https://github.com/europaprof/call14",
+    "stargazers_count": 12,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T09:17:40Z",
+    "updated_at": "2026-09-08T19:33:29Z",
+    "pushed_at": "2026-09-07T16:41:03Z"
+  },
+  {
+    "id": 1359202101,
+    "name": "TransNormal-2",
+    "full_name": "longxiang-ai/TransNormal-2",
+    "owner": {
+      "login": "longxiang-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68198130?v=4"
+    },
+    "description": "Official implementation of \"TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Precise Normal Estimation\". Single-step surface normal estimation for general scenes and transparent objects. Code and model weights will be released progressively.",
+    "topics": [
+      "3d-perception",
+      "computer-vision",
+      "deep-learning",
+      "diffusion-models",
+      "flux",
+      "generative-models",
+      "monocular-geometry-estimation",
+      "normal-estimation",
+      "pytorch",
+      "rectified-flow",
+      "surface-normal-estimation",
+      "transparent-objects"
+    ],
+    "html_url": "https://github.com/longxiang-ai/TransNormal-2",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T14:07:11Z",
+    "updated_at": "2026-09-10T01:35:56Z",
+    "pushed_at": "2026-09-09T08:15:58Z"
+  },
+  {
+    "id": 1361836913,
+    "name": "awesome-gpt-image-2.5",
+    "full_name": "LaplaceYoung/awesome-gpt-image-2.5",
+    "owner": {
+      "login": "LaplaceYoung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219803883?v=4"
+    },
+    "description": "Curated prompts, official samples, templates, and model notes for ChatGPT Images 2.5 / GPT-Image-2.5 Flare & Sunburst",
+    "topics": [
+      "ai-art",
+      "chatgpt-images",
+      "computer-vision",
+      "generative-ai",
+      "gpt-image",
+      "gpt-image-2-5",
+      "image-generation",
+      "openai",
+      "prompt-engineering",
+      "prompt-library"
+    ],
+    "html_url": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5",
+    "stargazers_count": 7,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T19:45:04Z",
+    "updated_at": "2026-09-09T14:44:37Z",
+    "pushed_at": "2026-09-09T05:32:11Z"
+  },
+  {
+    "id": 1356721817,
+    "name": "DReSG",
+    "full_name": "vpx-ecnu/DReSG",
+    "owner": {
+      "login": "vpx-ecnu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122854983?v=4"
+    },
+    "description": "[PG 2026] Official implementation of DReSG: Diffusion Residuals for Stylized Gaussian Splatting.",
+    "topics": [
+      "3d-gaussian-splatting",
+      "computer-graphics",
+      "computer-vision",
+      "diffusion-models",
+      "neural-rendering",
+      "style-transfer"
+    ],
+    "html_url": "https://github.com/vpx-ecnu/DReSG",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T05:15:35Z",
+    "updated_at": "2026-09-06T16:34:06Z",
+    "pushed_at": "2026-09-05T03:44:12Z"
+  },
+  {
+    "id": 1356199936,
+    "name": "FaceMask-Detection-AI",
+    "full_name": "HadeedJalani/FaceMask-Detection-AI",
+    "owner": {
+      "login": "HadeedJalani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221401408?v=4"
+    },
+    "description": "Real-time face mask detection using YOLO, OpenCV, PyTorch and ByteTrack, with image/video/webcam inference, multi-object tracking, evaluation metrics, and automated testing.",
+    "topics": [
+      "byte-tracking",
+      "computer-vision",
+      "deep-learning",
+      "face-mask-detection",
+      "image-processing",
+      "machine-learning",
+      "model-evaluation",
+      "object-detection",
+      "opencv",
+      "python",
+      "pytorch",
+      "real-time-detection",
+      "ultralytics",
+      "video-processing",
+      "yolo"
+    ],
+    "html_url": "https://github.com/HadeedJalani/FaceMask-Detection-AI",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T16:38:31Z",
+    "updated_at": "2026-09-05T14:45:00Z",
+    "pushed_at": "2026-09-03T16:43:43Z"
+  },
+  {
+    "id": 1356265034,
+    "name": "Samanvaya",
+    "full_name": "ashishsinghbora/Samanvaya",
+    "owner": {
+      "login": "ashishsinghbora",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135435891?v=4"
+    },
+    "description": "Planetary image registration engine for lunar optical and NIR datasets under extreme shadow reversals",
+    "topics": [
+      "chandrayaan-2",
+      "computer-vision",
+      "geotiff",
+      "image-registration",
+      "isro",
+      "loftr",
+      "lunar-science",
+      "phase-congruency",
+      "photogrammetry",
+      "planetary-science",
+      "pytorch",
+      "remote-sensing"
+    ],
+    "html_url": "https://github.com/ashishsinghbora/Samanvaya",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-09-03T17:46:08Z",
+    "updated_at": "2026-09-09T19:04:26Z",
+    "pushed_at": "2026-09-09T19:03:58Z"
+  },
+  {
+    "id": 1358990410,
+    "name": "awesome-video-summarization",
+    "full_name": "oguzhankir/awesome-video-summarization",
+    "owner": {
+      "login": "oguzhankir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86883236?v=4"
+    },
+    "description": "A curated, mathematically rigorous survey and resource catalog for unsupervised, self-supervised, and multimodal foundation-model video summarization.",
+    "topics": [
+      "awesome-list",
+      "clip",
+      "computer-vision",
+      "contrastive-learning",
+      "deep-reinforcement-learning",
+      "foundation-models",
+      "keyframe-extraction",
+      "multimodal-learning",
+      "pytorch",
+      "self-supervised-learning",
+      "unsupervised-learning",
+      "video-benchmark",
+      "video-processing",
+      "video-understanding",
+      "vision-language-models"
+    ],
+    "html_url": "https://github.com/oguzhankir/awesome-video-summarization",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T09:32:14Z",
+    "updated_at": "2026-09-09T21:08:00Z",
+    "pushed_at": "2026-09-07T22:40:46Z"
+  },
+  {
+    "id": 1357284193,
+    "name": "Detection-by-Shadow",
+    "full_name": "alex-krasnoshtanov/Detection-by-Shadow",
+    "owner": {
+      "login": "alex-krasnoshtanov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145783662?v=4"
+    },
+    "description": "Locating a pedestrian entirely outside the camera frame from the shadow they cast into it. BrabantHack 2026 DEMCON challenge.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "hackathon",
+      "machine-learning",
+      "object-detection",
+      "pytorch",
+      "resnet",
+      "shadow-detection"
+    ],
+    "html_url": "https://github.com/alex-krasnoshtanov/Detection-by-Shadow",
+    "stargazers_count": 3,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T15:11:15Z",
+    "updated_at": "2026-09-07T15:46:33Z",
+    "pushed_at": "2026-09-04T20:24:22Z"
+  },
+  {
+    "id": 1357672392,
+    "name": "pelakx-license-plate-detection",
+    "full_name": "ParsaVictor/pelakx-license-plate-detection",
+    "owner": {
+      "login": "ParsaVictor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176056946?v=4"
+    },
+    "description": "🚗 PelakX — Multi-country License Plate Intelligence (ALPR): real-time vehicle detection, tracking, script-aware OCR, plate-category & region recognition for any country's grammar — deepest support for Iran 🇮🇷 today (taxi/government/police/diplomatic/free-zone plates, province lookup), extensible to yours. YOLO + OCR + country grammar.",
+    "topics": [
+      "alpr",
+      "anpr",
+      "automatic-number-plate-recognition",
+      "computer-vision",
+      "deep-learning",
+      "farsi",
+      "iran",
+      "iranian-license-plate",
+      "license-plate-detection",
+      "license-plate-recognition",
+      "lpr",
+      "number-plate-recognition",
+      "ocr",
+      "opencv",
+      "persian",
+      "plate-detection",
+      "real-time",
+      "traffic-monitoring",
+      "vehicle-detection",
+      "yolo"
+    ],
+    "html_url": "https://github.com/ParsaVictor/pelakx-license-plate-detection",
+    "stargazers_count": 3,
+    "language": "Jupyter Notebook",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-09-04T23:28:13Z",
+    "updated_at": "2026-09-08T08:29:54Z",
+    "pushed_at": "2026-09-09T22:55:29Z"
+  },
+  {
+    "id": 1360486670,
+    "name": "best-yolo",
+    "full_name": "LIANGFENG1007/best-yolo",
+    "owner": {
+      "login": "LIANGFENG1007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292772460?v=4"
+    },
+    "description": "基于 Qwen-VL 的 YOLO 数据集自动标注与人工精修桌面工具",
+    "topics": [
+      "computer-vision",
+      "dataset",
+      "image-annotation",
+      "pyside6",
+      "qwen-vl",
+      "ubuntu",
+      "yolo"
+    ],
+    "html_url": "https://github.com/LIANGFENG1007/best-yolo",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T17:16:17Z",
+    "updated_at": "2026-09-08T13:06:10Z",
+    "pushed_at": "2026-09-08T12:36:52Z"
+  },
+  {
+    "id": 1355743889,
+    "name": "paper-oss-ranking",
+    "full_name": "rsasaki0109/paper-oss-ranking",
+    "owner": {
+      "login": "rsasaki0109",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18298605?v=4"
+    },
+    "description": "Rankings for research papers by citations and open-source projects by GitHub stars",
+    "topics": [
+      "3d-vision",
+      "autonomous-driving",
+      "computer-vision",
+      "gaussian-splatting",
+      "github-pages",
+      "nerf",
+      "openalex",
+      "ranking",
+      "robotics",
+      "slam"
+    ],
+    "html_url": "https://github.com/rsasaki0109/paper-oss-ranking",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T08:57:51Z",
+    "updated_at": "2026-09-09T07:58:31Z",
+    "pushed_at": "2026-09-09T07:58:27Z"
+  },
+  {
+    "id": 1355400043,
+    "name": "FaceRecognition-Ionic-Capacitor",
+    "full_name": "Faceplugin-ltd/FaceRecognition-Ionic-Capacitor",
+    "owner": {
+      "login": "Faceplugin-ltd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160751046?v=4"
+    },
+    "description": "Face Recognition & Liveness SDK for Ionic Capacitor with face detection, face matching, 1:N identification, face landmarks and attributes. On-device Android & iOS.",
+    "topics": [
+      "android",
+      "biometric-authentication",
+      "biometrics",
+      "capacitor",
+      "capacitor-plugin",
+      "computer-vision",
+      "face-detection",
+      "face-identification",
+      "face-liveness",
+      "face-liveness-detection",
+      "face-matching",
+      "face-recognition",
+      "face-recognition-sdk",
+      "face-verification",
+      "ionic",
+      "ionic-capacitor",
+      "ios",
+      "liveness-detection",
+      "liveness-detection-sdk"
+    ],
+    "html_url": "https://github.com/Faceplugin-ltd/FaceRecognition-Ionic-Capacitor",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-03T01:40:14Z",
+    "updated_at": "2026-09-08T18:59:47Z",
+    "pushed_at": "2026-09-08T18:58:23Z"
+  },
+  {
+    "id": 1362103742,
+    "name": "Realsense-mediapipe-3d-detection",
+    "full_name": "monicaffy108-alt/Realsense-mediapipe-3d-detection",
+    "owner": {
+      "login": "monicaffy108-alt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285931751?v=4"
+    },
+    "description": "Real-time 3D object detection and position estimation using Intel RealSense depth camera + Google MediaPipe. Supports pose, hand, face, and 80+ object detection with XYZ coordinate visualization.",
+    "topics": [
+      "3d-vision",
+      "computer-vision",
+      "depth-camera",
+      "face-detection",
+      "hand-tracking",
+      "mediapipe",
+      "object-detection",
+      "opencv",
+      "pose-estimation",
+      "python",
+      "real-time",
+      "realsense"
+    ],
+    "html_url": "https://github.com/monicaffy108-alt/Realsense-mediapipe-3d-detection",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T02:15:28Z",
+    "updated_at": "2026-09-09T02:28:36Z",
+    "pushed_at": "2026-09-09T02:24:50Z"
+  },
+  {
+    "id": 1362628703,
+    "name": "Awesome-Shelf-Execution-n-Retail-Auditing",
+    "full_name": "ishandutta2007/Awesome-Shelf-Execution-n-Retail-Auditing",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top Shelf Execution & Retail Auditing (Opensource) 🌟 Star if you like it! 🌟",
+    "topics": [
+      "awesome-list",
+      "computer-vision",
+      "curated-list",
+      "planogram-compliance",
+      "retail-auditing",
+      "shelf-execution",
+      "sku-recognition"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-Shelf-Execution-n-Retail-Auditing",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T12:07:10Z",
+    "updated_at": "2026-09-09T14:52:21Z",
+    "pushed_at": "2026-09-09T14:43:39Z"
+  },
+  {
+    "id": 1359265187,
+    "name": "Image-Denoising-Using-Gaussian-Low-Pass-Filter",
+    "full_name": "Arjun-08/Image-Denoising-Using-Gaussian-Low-Pass-Filter",
+    "owner": {
+      "login": "Arjun-08",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88790572?v=4"
+    },
+    "description": "Image denoising using Gaussian low-pass filtering with experiments on different smoothing parameters, MSE/SSIM evaluation, and visual analysis of denoising results.",
+    "topics": [
+      "computer-vision",
+      "digital-image-processing",
+      "gaussian-blur",
+      "gaussian-filter",
+      "image-denoising",
+      "image-processing",
+      "low-pass-filter",
+      "mse",
+      "noise-reduction",
+      "opencv",
+      "ssim"
+    ],
+    "html_url": "https://github.com/Arjun-08/Image-Denoising-Using-Gaussian-Low-Pass-Filter",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T15:16:22Z",
+    "updated_at": "2026-09-09T13:54:11Z",
+    "pushed_at": "2026-09-06T15:30:09Z"
+  },
+  {
+    "id": 1361522383,
+    "name": "sportX",
+    "full_name": "prabhusuryakant781-svg/sportX",
+    "owner": {
+      "login": "prabhusuryakant781-svg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233561425?v=4"
+    },
+    "description": "SportX - AI-Powered Student Fitness & Sports Companion (Team HACKPACK)",
+    "topics": [
+      "cloud-functions",
+      "computer-vision",
+      "firebase",
+      "fitness",
+      "mediapipe",
+      "react",
+      "sports",
+      "student-fitness"
+    ],
+    "html_url": "https://github.com/prabhusuryakant781-svg/sportX",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T14:52:55Z",
+    "updated_at": "2026-09-09T17:31:29Z",
+    "pushed_at": "2026-09-09T17:31:07Z"
+  },
+  {
+    "id": 1357394727,
+    "name": "packfix",
+    "full_name": "abhigyanmahanta/packfix",
+    "owner": {
+      "login": "abhigyanmahanta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324956592?v=4"
+    },
+    "description": "Verify AI-generated product imagery actually preserved the real packaging — SIFT/RANSAC inlier gate, PASS/FAIL per pack per frame.",
+    "topics": [
+      "brand-safety",
+      "computer-vision",
+      "generative-ai",
+      "image-quality",
+      "opencv",
+      "python",
+      "quality-assurance",
+      "sift"
+    ],
+    "html_url": "https://github.com/abhigyanmahanta/packfix",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T16:59:29Z",
+    "updated_at": "2026-09-06T18:00:21Z",
+    "pushed_at": "2026-09-04T16:59:34Z"
+  }
+]
