@@ -1,0 +1,611 @@
+[
+  {
+    "id": 1361877986,
+    "name": "OHnews",
+    "full_name": "OrangeLatte/OHnews",
+    "owner": {
+      "login": "OrangeLatte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257588840?v=4"
+    },
+    "description": "AI-native news intelligence terminal: cognitive-loop analysis over multi-source news with LangGraph agents, structured information extraction, and evidence-anchored judgments",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "artificial-intelligence",
+      "deep-research",
+      "fastapi",
+      "information-extraction",
+      "langgraph",
+      "llm",
+      "media-monitoring",
+      "narrative-analysis",
+      "natural-language-processing",
+      "news-aggregator",
+      "news-intelligence",
+      "nextjs",
+      "osint",
+      "prompt-engineering",
+      "python",
+      "rag",
+      "sqlite",
+      "typescript"
+    ],
+    "html_url": "https://github.com/OrangeLatte/OHnews",
+    "stargazers_count": 21,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T20:33:01Z",
+    "updated_at": "2026-09-11T01:57:11Z",
+    "pushed_at": "2026-09-09T13:50:07Z"
+  },
+  {
+    "id": 1360934358,
+    "name": "SyncWorld",
+    "full_name": "UMass-Embodied-AGI/SyncWorld",
+    "owner": {
+      "login": "UMass-Embodied-AGI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126135718?v=4"
+    },
+    "description": "Source codes for the paper \"SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators\"",
+    "topics": [
+      "artificial-intelligence",
+      "embodied-ai",
+      "robotics",
+      "video-generation",
+      "world-models"
+    ],
+    "html_url": "https://github.com/UMass-Embodied-AGI/SyncWorld",
+    "stargazers_count": 16,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T04:50:12Z",
+    "updated_at": "2026-09-11T01:26:24Z",
+    "pushed_at": "2026-09-10T16:29:20Z"
+  },
+  {
+    "id": 1359059989,
+    "name": "Vortex",
+    "full_name": "Delinor-Hens/Vortex",
+    "owner": {
+      "login": "Delinor-Hens",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276714146?v=4"
+    },
+    "description": "ИИ под названием Vortex для любых задач. Сейчас уже доступна рабочая версия проекта, которая ежедневно улучшается",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "core",
+      "cpp",
+      "cpp11",
+      "cpython",
+      "desktop-app",
+      "gui",
+      "llm",
+      "local-ai",
+      "local-first",
+      "localization",
+      "python"
+    ],
+    "html_url": "https://github.com/Delinor-Hens/Vortex",
+    "stargazers_count": 14,
+    "language": "C++",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-09-06T11:05:41Z",
+    "updated_at": "2026-09-09T05:22:58Z",
+    "pushed_at": "2026-09-09T05:22:26Z"
+  },
+  {
+    "id": 1359187566,
+    "name": "declarative-attention",
+    "full_name": "lucidrains/declarative-attention",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of the procedure in Language Models Can Control Their Own Attention, from Namgyu Ho et al. of KAIST AI",
+    "topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning"
+    ],
+    "html_url": "https://github.com/lucidrains/declarative-attention",
+    "stargazers_count": 13,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T13:52:58Z",
+    "updated_at": "2026-09-09T15:21:25Z",
+    "pushed_at": "2026-09-09T15:11:03Z"
+  },
+  {
+    "id": 1356626567,
+    "name": "eight-market-quant-ai",
+    "full_name": "Felix-Theodore-Zeng/eight-market-quant-ai",
+    "owner": {
+      "login": "Felix-Theodore-Zeng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116344132?v=4"
+    },
+    "description": "Eight-market data collection, quantitative analytics, technical structure, and Hermes AI forecasting system",
+    "topics": [
+      "artificial-intelligence",
+      "duckdb",
+      "finance",
+      "market-data",
+      "python",
+      "quantitative-analysis"
+    ],
+    "html_url": "https://github.com/Felix-Theodore-Zeng/eight-market-quant-ai",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T02:37:07Z",
+    "updated_at": "2026-09-06T00:43:19Z",
+    "pushed_at": "2026-09-04T13:15:37Z"
+  },
+  {
+    "id": 1360990221,
+    "name": "paper-pipeline",
+    "full_name": "MATBckh22/paper-pipeline",
+    "owner": {
+      "login": "MATBckh22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96516914?v=4"
+    },
+    "description": "一个可复现和可控的学术论文写作工具链，用于规划和起草学术论文。它能够对引用、论点强度、行文表达以及 LaTeX 完整性进行系统性检查。A reproducible and controllable toolchain to plan, draft, and gate an academic paper draft. It performs systematic checks on citations, claim strength, prose, and LaTeX integrity.",
+    "topics": [
+      "academic-writing",
+      "ai-writing",
+      "artificial-intelligence",
+      "latex",
+      "writing-assistant",
+      "writing-tool"
+    ],
+    "html_url": "https://github.com/MATBckh22/paper-pipeline",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T06:06:29Z",
+    "updated_at": "2026-09-09T12:03:00Z",
+    "pushed_at": "2026-09-09T10:56:27Z"
+  },
+  {
+    "id": 1358258586,
+    "name": "no-contact-no-worries",
+    "full_name": "lucidrains/no-contact-no-worries",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of NoContactNoWorries, Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "dexterity"
+    ],
+    "html_url": "https://github.com/lucidrains/no-contact-no-worries",
+    "stargazers_count": 4,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T14:13:55Z",
+    "updated_at": "2026-09-06T10:29:00Z",
+    "pushed_at": "2026-09-05T14:15:08Z"
+  },
+  {
+    "id": 1363001950,
+    "name": "quasimetric-attention",
+    "full_name": "lucidrains/quasimetric-attention",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of a transformer whose attention operates in quasimetric space",
+    "topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning",
+      "quasimetric-space"
+    ],
+    "html_url": "https://github.com/lucidrains/quasimetric-attention",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T17:21:27Z",
+    "updated_at": "2026-09-10T22:45:17Z",
+    "pushed_at": "2026-09-10T22:45:10Z"
+  },
+  {
+    "id": 1360344248,
+    "name": "LLM-VLM-Guide",
+    "full_name": "AhmadJeddi/LLM-VLM-Guide",
+    "owner": {
+      "login": "AhmadJeddi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76421360?v=4"
+    },
+    "description": "A beginner-first guide to how language and multimodal models work — from language models and Transformers to LLMs, VLMs, audio, video, and modern model families.",
+    "topics": [
+      "artificial-intelligence",
+      "attention",
+      "deep-learning",
+      "generative-ai",
+      "guide",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "multimodal-ai",
+      "natural-language-processing",
+      "vision-language-models",
+      "vlm"
+    ],
+    "html_url": "https://github.com/AhmadJeddi/LLM-VLM-Guide",
+    "stargazers_count": 4,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T14:44:38Z",
+    "updated_at": "2026-09-09T03:45:52Z",
+    "pushed_at": "2026-09-07T14:44:44Z"
+  },
+  {
+    "id": 1357618602,
+    "name": "mongotar",
+    "full_name": "sebastiancarlos/mongotar",
+    "owner": {
+      "login": "sebastiancarlos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88276600?v=4"
+    },
+    "description": "🌱 mongotar: files to prompt, and back.",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "cli",
+      "code2prompt",
+      "developer-tools",
+      "files-to-prompt",
+      "genai",
+      "generative-ai",
+      "llm",
+      "python",
+      "skills",
+      "tar",
+      "txtar",
+      "unix"
+    ],
+    "html_url": "https://github.com/sebastiancarlos/mongotar",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T21:46:18Z",
+    "updated_at": "2026-09-06T17:52:56Z",
+    "pushed_at": "2026-09-06T17:52:53Z"
+  },
+  {
+    "id": 1359510243,
+    "name": "mizban",
+    "full_name": "rDaeeMaMMaD/mizban",
+    "owner": {
+      "login": "rDaeeMaMMaD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324852330?v=4"
+    },
+    "description": "Mizban: self-hosted AI API gateway for OpenAI, ChatGPT, DeepSeek, Gemini, OpenRouter, NVIDIA. PHP + MySQL, queue, load balancer, cPanel-ready. Open source.",
+    "topics": [
+      "ai",
+      "api",
+      "api-gateway",
+      "artificial-intelligence",
+      "chatgpt",
+      "cpanel",
+      "deepseek",
+      "gateway",
+      "gemini",
+      "llm",
+      "mysql",
+      "nvidia",
+      "openai",
+      "openrouter",
+      "opensource",
+      "persian",
+      "php",
+      "proxy",
+      "queue",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/rDaeeMaMMaD/mizban",
+    "stargazers_count": 3,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T21:03:30Z",
+    "updated_at": "2026-09-07T15:40:38Z",
+    "pushed_at": "2026-09-06T22:17:23Z"
+  },
+  {
+    "id": 1360014880,
+    "name": "snake_ai",
+    "full_name": "yolowex/snake_ai",
+    "owner": {
+      "login": "yolowex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122750743?v=4"
+    },
+    "description": "A polished pygame Snake game with a trainable DQN agent. Clean separation between pure game engine, UI, and training code. Includes automatic weight loading, AI recording to GIF, and a ready-to-use 22-feature observation space.",
+    "topics": [
+      "artificial-intelligence",
+      "deep-q-learning",
+      "dqn",
+      "game-ai",
+      "gymnasium",
+      "machine-learning",
+      "mlp",
+      "neural-network",
+      "numpy",
+      "pygame",
+      "pygame-ce",
+      "python",
+      "pytorch",
+      "reinforcement-learning",
+      "rl",
+      "snake-game"
+    ],
+    "html_url": "https://github.com/yolowex/snake_ai",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T09:14:56Z",
+    "updated_at": "2026-09-07T18:58:26Z",
+    "pushed_at": "2026-09-07T10:23:42Z"
+  },
+  {
+    "id": 1357019651,
+    "name": "endocrine-LLM",
+    "full_name": "Timinesh/endocrine-LLM",
+    "owner": {
+      "login": "Timinesh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102747096?v=4"
+    },
+    "description": "A computational neuroendocrine system modeling interacting hormones and neurotransmitters to dynamically modulate the behavior of a LLM.",
+    "topics": [
+      "ai-research",
+      "artificial-intelligence",
+      "computaional-biology",
+      "computational-neuroscience",
+      "gemini",
+      "hormone-modeling",
+      "llm",
+      "mathematical-modelling",
+      "neuroendocrinology",
+      "systems-biology"
+    ],
+    "html_url": "https://github.com/Timinesh/endocrine-LLM",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T10:44:19Z",
+    "updated_at": "2026-09-08T02:52:32Z",
+    "pushed_at": "2026-09-08T02:52:27Z"
+  },
+  {
+    "id": 1361345808,
+    "name": "Codex-Mobile",
+    "full_name": "ThT0AltayHR/Codex-Mobile",
+    "owner": {
+      "login": "ThT0AltayHR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273600329?v=4"
+    },
+    "description": "OpenAI Codex'i Android'e taşıyan native AI developer workspace: Kotlin, Jetpack Compose, GitHub entegrasyonu ve ARM64 Codex runtime.",
+    "topics": [
+      "ai",
+      "ai-assistant",
+      "ai-developer",
+      "android",
+      "android-app",
+      "android-studio",
+      "apk",
+      "arm64",
+      "artificial-intelligence",
+      "cli",
+      "codex",
+      "codex-cli",
+      "developer-productivity",
+      "developer-tools",
+      "github-actions",
+      "jetpack-compose",
+      "kotlin",
+      "mobile-development",
+      "openai",
+      "openai-codex"
+    ],
+    "html_url": "https://github.com/ThT0AltayHR/Codex-Mobile",
+    "stargazers_count": 2,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T12:15:47Z",
+    "updated_at": "2026-09-10T19:51:56Z",
+    "pushed_at": "2026-09-10T19:52:06Z"
+  },
+  {
+    "id": 1357781704,
+    "name": "miniLLM",
+    "full_name": "Kai26-Han/miniLLM",
+    "owner": {
+      "login": "Kai26-Han",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277873112?v=4"
+    },
+    "description": "从 0 训练一个 200M 参数模型全流程（train a 200M‑parameter model from scratch）",
+    "topics": [
+      "ai-model",
+      "artificial-intelligence",
+      "llm"
+    ],
+    "html_url": "https://github.com/Kai26-Han/miniLLM",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T03:09:18Z",
+    "updated_at": "2026-09-10T01:21:08Z",
+    "pushed_at": "2026-09-10T01:21:00Z"
+  },
+  {
+    "id": 1357436678,
+    "name": "minimal-harness",
+    "full_name": "mytechnotalent/minimal-harness",
+    "owner": {
+      "login": "mytechnotalent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7095767?v=4"
+    },
+    "description": "A modified Meta-Harness where agents propose, test, challenge, and adjudicate coding harnesses for iterative improvement.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-governance",
+      "ai-model",
+      "ai-safety",
+      "ai-security",
+      "ai-tools",
+      "artificial-intelligence",
+      "harness",
+      "harness-ai",
+      "harness-engineering",
+      "meta-harness",
+      "metaharness"
+    ],
+    "html_url": "https://github.com/mytechnotalent/minimal-harness",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T17:46:53Z",
+    "updated_at": "2026-09-08T22:17:31Z",
+    "pushed_at": "2026-09-04T18:17:40Z"
+  },
+  {
+    "id": 1356562218,
+    "name": "qrzone",
+    "full_name": "haihaipypy/qrzone",
+    "owner": {
+      "login": "haihaipypy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75718085?v=4"
+    },
+    "description": "AI & parametric QR code generator — create scannable artistic QR codes right in your browser. Next.js, fully static, no backend. 🀄AI 艺术二维码 & 参数化二维码生成器，纯浏览器运行，无需后端。",
+    "topics": [
+      "artificial-intelligence",
+      "cloudflare-pages",
+      "edgeone-makers",
+      "qrcode",
+      "tailwindcss",
+      "typescript"
+    ],
+    "html_url": "https://github.com/haihaipypy/qrzone",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T00:43:08Z",
+    "updated_at": "2026-09-07T09:38:48Z",
+    "pushed_at": "2026-09-04T08:46:50Z"
+  },
+  {
+    "id": 1357161753,
+    "name": "kajarai",
+    "full_name": "KajarnakLOKOSSOU2008/kajarai",
+    "owner": {
+      "login": "KajarnakLOKOSSOU2008",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259126133?v=4"
+    },
+    "description": "Open-source personal AI assistant for learning, coding, documents and opportunity management. Prototype/MVP by Kajarnak Tech — runs without any API key (mock AI provider).",
+    "topics": [
+      "africa",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "education",
+      "fastapi",
+      "llm",
+      "opensource",
+      "python",
+      "rag",
+      "react"
+    ],
+    "html_url": "https://github.com/KajarnakLOKOSSOU2008/kajarai",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T13:18:18Z",
+    "updated_at": "2026-09-07T12:43:43Z",
+    "pushed_at": "2026-09-04T13:18:35Z"
+  },
+  {
+    "id": 1363125190,
+    "name": "contract-intelligence-rag-system",
+    "full_name": "shilpasiddaraj494-pixel/contract-intelligence-rag-system",
+    "owner": {
+      "login": "shilpasiddaraj494-pixel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259221342?v=4"
+    },
+    "description": "AI-powered contract intelligence system using ML, LangChain, FAISS, Qwen, FastAPI and a custom web interface.",
+    "topics": [
+      "artificial-intelligence",
+      "contract-analysis",
+      "document-intelligence",
+      "faiss",
+      "fastapi",
+      "huggingface",
+      "langchain",
+      "machine-learning",
+      "natural-language-processing",
+      "qwen",
+      "rag"
+    ],
+    "html_url": "https://github.com/shilpasiddaraj494-pixel/contract-intelligence-rag-system",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T19:17:23Z",
+    "updated_at": "2026-09-10T14:05:30Z",
+    "pushed_at": "2026-09-09T20:15:19Z"
+  },
+  {
+    "id": 1356979322,
+    "name": "chat-commands",
+    "full_name": "sanchitbishwakarma/chat-commands",
+    "owner": {
+      "login": "sanchitbishwakarma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156568930?v=4"
+    },
+    "description": "A collection of reusable command-style prompts for ChatGPT and AI assistants.",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatgpt",
+      "developer-tools",
+      "learning-notes",
+      "productivity",
+      "prompt-engineering",
+      "prompts",
+      "simple"
+    ],
+    "html_url": "https://github.com/sanchitbishwakarma/chat-commands",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T09:58:57Z",
+    "updated_at": "2026-09-05T18:10:46Z",
+    "pushed_at": "2026-09-04T11:10:33Z"
+  }
+]

@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1357140016,
+    "name": "kuttidb",
+    "full_name": "kuttidb/kuttidb",
+    "owner": {
+      "login": "kuttidb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324911780?v=4"
+    },
+    "description": "Lightweight, crash-recoverable event cache with durable queues, exchanges, streams, and atomic cache-plus-event commits—all in one C binary.",
+    "topics": [
+      "background-jobs",
+      "c",
+      "cache",
+      "database",
+      "docker",
+      "embedded",
+      "event-driven",
+      "key-value-store",
+      "kubernetes",
+      "message-queue",
+      "message-queues",
+      "redis-alternative",
+      "self-hosted",
+      "single-binary",
+      "streams",
+      "work-queue"
+    ],
+    "html_url": "https://github.com/kuttidb/kuttidb",
+    "stargazers_count": 7,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T12:55:56Z",
+    "updated_at": "2026-09-10T20:00:05Z",
+    "pushed_at": "2026-09-10T20:00:45Z"
+  },
+  {
+    "id": 1361869527,
+    "name": "consize",
+    "full_name": "consize-oss/consize",
+    "owner": {
+      "login": "consize-oss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326664993?v=4"
+    },
+    "description": "The automated safety engine for Kubernetes cost optimization. Consize safely rightsizes workloads using guarded rollouts and automated SLI-verified rollbacks ✅",
+    "topics": [
+      "aws",
+      "database",
+      "finops",
+      "gcp",
+      "kubernetes",
+      "observability"
+    ],
+    "html_url": "https://github.com/consize-oss/consize",
+    "stargazers_count": 6,
+    "language": "Go",
+    "forks_count": 4,
+    "open_issues_count": 4,
+    "created_at": "2026-09-08T20:22:28Z",
+    "updated_at": "2026-09-10T14:35:31Z",
+    "pushed_at": "2026-09-10T13:54:43Z"
+  },
+  {
+    "id": 1359524044,
+    "name": "branchbase",
+    "full_name": "oscarbol09/branchbase",
+    "owner": {
+      "login": "oscarbol09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80536682?v=4"
+    },
+    "description": "Zero-config, Git-native local database branching for PostgreSQL, MySQL, and SQLite.",
+    "topics": [
+      "branching",
+      "database",
+      "developer-tools",
+      "devops",
+      "docker",
+      "git",
+      "golang",
+      "postgres",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/oscarbol09/branchbase",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-06T21:28:46Z",
+    "updated_at": "2026-09-07T02:50:21Z",
+    "pushed_at": "2026-09-06T22:24:17Z"
+  },
+  {
+    "id": 1357207921,
+    "name": "4-Hours-Of-PHP",
+    "full_name": "zeeshan020dev/4-Hours-Of-PHP",
+    "owner": {
+      "login": "zeeshan020dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216012693?v=4"
+    },
+    "description": "Beginner-friendly PHP tutorial with hands-on examples covering PHP fundamentals, forms, arrays, functions, sessions, password hashing, MySQL, MySQLi, phpMyAdmin, and database operations. Learn PHP in about 4 hours.",
+    "topics": [
+      "backend-development",
+      "beginner-friendly",
+      "database",
+      "database-programming",
+      "learn-php",
+      "mysql",
+      "mysqli",
+      "password-hashing",
+      "php",
+      "php-basics",
+      "php-development",
+      "php-examples",
+      "php-for-beginners",
+      "php-learning",
+      "php-programming",
+      "php-tutorial",
+      "phpmyadmin",
+      "programming",
+      "web-development",
+      "xampp"
+    ],
+    "html_url": "https://github.com/zeeshan020dev/4-Hours-Of-PHP",
+    "stargazers_count": 3,
+    "language": "PHP",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T14:01:52Z",
+    "updated_at": "2026-09-06T11:20:12Z",
+    "pushed_at": "2026-09-06T11:20:07Z"
+  },
+  {
+    "id": 1362569783,
+    "name": "prisma-true-rollback-cli",
+    "full_name": "victor-lis-bronzo/prisma-true-rollback-cli",
+    "owner": {
+      "login": "victor-lis-bronzo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109773129?v=4"
+    },
+    "description": "CLI for a true, destructive rollback of the most recently applied Prisma migration in development environments.",
+    "topics": [
+      "cli",
+      "database",
+      "database-migrations",
+      "developer-tools",
+      "migration",
+      "mysql",
+      "nodejs",
+      "npx",
+      "orm",
+      "postgresql",
+      "prisma",
+      "prisma-migrate",
+      "rollback",
+      "sqlite",
+      "typescript"
+    ],
+    "html_url": "https://github.com/victor-lis-bronzo/prisma-true-rollback-cli",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T11:07:01Z",
+    "updated_at": "2026-09-10T23:36:13Z",
+    "pushed_at": "2026-09-10T23:10:54Z"
+  },
+  {
+    "id": 1359361010,
+    "name": "jeeves",
+    "full_name": "jay123anta/jeeves",
+    "owner": {
+      "login": "jay123anta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62276865?v=4"
+    },
+    "description": "A chat window for your own database. Users ask in plain English; the AI receives only your schema structure - never a row. Drop-in Blade widget, hosted or self-hosted models, PostgreSQL/MySQL/MariaDB/SQLite.",
+    "topics": [
+      "ai",
+      "blade-components",
+      "chat-widget",
+      "chatbot",
+      "database",
+      "gdpr",
+      "gemini",
+      "laravel",
+      "laravel-package",
+      "llm",
+      "local-llm",
+      "natural-language",
+      "nl2sql",
+      "ollama",
+      "openai",
+      "php",
+      "privacy",
+      "self-hosted",
+      "sql",
+      "text-to-sql"
+    ],
+    "html_url": "https://github.com/jay123anta/jeeves",
+    "stargazers_count": 2,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T17:14:04Z",
+    "updated_at": "2026-09-11T00:49:32Z",
+    "pushed_at": "2026-09-10T16:14:33Z"
+  },
+  {
+    "id": 1357570669,
+    "name": "Inventory-Management-System",
+    "full_name": "SUMAIRDERO7/Inventory-Management-System",
+    "owner": {
+      "login": "SUMAIRDERO7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189377018?v=4"
+    },
+    "description": "Production-oriented inventory management system with FastAPI, SQLAlchemy, SQLite, and Streamlit.",
+    "topics": [
+      "api",
+      "backend",
+      "database",
+      "fastapi",
+      "full-stack",
+      "inventory-management",
+      "pytest",
+      "python",
+      "rest-api",
+      "software-engineering",
+      "sqlalchemy",
+      "sqlite",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/SUMAIRDERO7/Inventory-Management-System",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T20:31:32Z",
+    "updated_at": "2026-09-05T04:55:42Z",
+    "pushed_at": "2026-09-05T04:55:38Z"
+  },
+  {
+    "id": 1358880523,
+    "name": "South-African-National-Team-Players-by-Club",
+    "full_name": "neosiwela18-droid/South-African-National-Team-Players-by-Club",
+    "owner": {
+      "login": "neosiwela18-droid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262331356?v=4"
+    },
+    "description": "All data for this Proj was found on public websites like kaggle.",
+    "topics": [
+      "data",
+      "data-analysis",
+      "data-analytics",
+      "data-visualization",
+      "database"
+    ],
+    "html_url": "https://github.com/neosiwela18-droid/South-African-National-Team-Players-by-Club",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T07:08:57Z",
+    "updated_at": "2026-09-06T07:19:50Z",
+    "pushed_at": "2026-09-06T07:17:29Z"
+  },
+  {
+    "id": 1362926292,
+    "name": "mini-db",
+    "full_name": "ronakgh97/mini-db",
+    "owner": {
+      "login": "ronakgh97",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219775283?v=4"
+    },
+    "description": "Unfathomably fast key/value storage with WAL backend",
+    "topics": [
+      "database",
+      "database-design",
+      "keyvaluestore",
+      "performance-engineering",
+      "write-ahead-log"
+    ],
+    "html_url": "https://github.com/ronakgh97/mini-db",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T16:16:05Z",
+    "updated_at": "2026-09-10T11:45:32Z",
+    "pushed_at": "2026-09-10T11:45:13Z"
+  },
+  {
+    "id": 1360081646,
+    "name": "vaulted",
+    "full_name": "alpkeskin/vaulted",
+    "owner": {
+      "login": "alpkeskin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49457057?v=4"
+    },
+    "description": "Field-level encryption for databases, in Rust: versioned ciphertext, blind indexes, key rotation",
+    "topics": [
+      "aes-gcm",
+      "blind-index",
+      "cryptography",
+      "database",
+      "encryption",
+      "field-level-encryption",
+      "key-rotation",
+      "postgresql",
+      "rust",
+      "security"
+    ],
+    "html_url": "https://github.com/alpkeskin/vaulted",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T10:22:45Z",
+    "updated_at": "2026-09-10T08:18:10Z",
+    "pushed_at": "2026-09-08T16:55:02Z"
+  },
+  {
+    "id": 1364066996,
+    "name": "Credit-Card-Fraud-Detection-Transaction-Risk-Analysis",
+    "full_name": "mdshafi-786/Credit-Card-Fraud-Detection-Transaction-Risk-Analysis",
+    "owner": {
+      "login": "mdshafi-786",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185689749?v=4"
+    },
+    "description": "Real-time credit card fraud detection & transaction risk analysis using Random Forest + XGBoost with a Streamlit dashboard, Flask API, and automated alert system.",
+    "topics": [
+      "creditcardfrauddetection",
+      "dashboard",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "flask",
+      "fraud-detection",
+      "machine-learning",
+      "plotly",
+      "python",
+      "random-forest",
+      "risk-analysis",
+      "sckit-learn",
+      "streamlit",
+      "xgboost"
+    ],
+    "html_url": "https://github.com/mdshafi-786/Credit-Card-Fraud-Detection-Transaction-Risk-Analysis",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T12:06:28Z",
+    "updated_at": "2026-09-10T15:06:05Z",
+    "pushed_at": "2026-09-10T15:02:56Z"
+  },
+  {
+    "id": 1358991833,
+    "name": "Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "full_name": "shokribardiya/Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "owner": {
+      "login": "shokribardiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153763700?v=4"
+    },
+    "description": "More complete guide on redme.This system is designed for data control and pattern recognition. This is the second version; to access the software for a ten-day demo, please visit the website below and send a message to the email address listed there.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "airflow",
+      "data",
+      "data-analysis",
+      "data-science",
+      "data-structures",
+      "data-visualization",
+      "database",
+      "dataset",
+      "spy"
+    ],
+    "html_url": "https://github.com/shokribardiya/Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T09:34:19Z",
+    "updated_at": "2026-09-06T10:32:58Z",
+    "pushed_at": "2026-09-06T10:32:19Z"
+  },
+  {
+    "id": 1362807152,
+    "name": "tinykv",
+    "full_name": "pastbologanesh0101/tinykv",
+    "owner": {
+      "login": "pastbologanesh0101",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253739077?v=4"
+    },
+    "description": "Persistent key/value store from scratch: B+ tree storage engine, paged file format, write-ahead log for crash recovery. Pure Python, zero deps.",
+    "topics": [
+      "btree",
+      "database",
+      "dbms",
+      "from-scratch",
+      "key-value-store",
+      "python",
+      "storage-engine",
+      "write-ahead-log"
+    ],
+    "html_url": "https://github.com/pastbologanesh0101/tinykv",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T14:39:18Z",
+    "updated_at": "2026-09-09T14:46:29Z",
+    "pushed_at": "2026-09-09T14:39:24Z"
+  },
+  {
+    "id": 1359143540,
+    "name": "Yelp_API_ETL",
+    "full_name": "VikasKumar281/Yelp_API_ETL",
+    "owner": {
+      "login": "VikasKumar281",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179719586?v=4"
+    },
+    "description": "Python ETL pipeline that extracts business data from the Yelp Fusion API, transforms nested JSON responses, and loads structured records into PostgreSQL with upsert support and modular data-processing components.",
+    "topics": [
+      "api-integration",
+      "argparse",
+      "data-engineering",
+      "data-ingestion",
+      "data-pipeline",
+      "data-transformation",
+      "data-warehouse",
+      "database",
+      "etl",
+      "json",
+      "postgresql",
+      "psycopg2",
+      "python",
+      "rest-api",
+      "sql",
+      "upsert",
+      "yelp-api"
+    ],
+    "html_url": "https://github.com/VikasKumar281/Yelp_API_ETL",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T12:57:33Z",
+    "updated_at": "2026-09-09T11:46:44Z",
+    "pushed_at": "2026-09-06T14:19:12Z"
+  },
+  {
+    "id": 1358711400,
+    "name": "atlas",
+    "full_name": "tkachyn/atlas",
+    "owner": {
+      "login": "tkachyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38844841?v=4"
+    },
+    "description": "A Redis-inspired in-memory key-value server in Go with TCP networking, TTL expiration, concurrent clients, and append-only persistence.",
+    "topics": [
+      "backend",
+      "concurrency",
+      "database",
+      "go",
+      "golang",
+      "in-memory-database",
+      "key-value-store",
+      "networking",
+      "systems-programming",
+      "tcp-server",
+      "ttl"
+    ],
+    "html_url": "https://github.com/tkachyn/atlas",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T02:12:17Z",
+    "updated_at": "2026-09-10T16:21:36Z",
+    "pushed_at": "2026-09-10T16:18:15Z"
+  },
+  {
+    "id": 1363657488,
+    "name": "cpp_db_server_tcp",
+    "full_name": "kuc-arc-f/cpp_db_server_tcp",
+    "owner": {
+      "login": "kuc-arc-f",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1024717?v=4"
+    },
+    "description": "C++ DB Server TCP , IN memory database SQLite",
+    "topics": [
+      "cplusplus",
+      "cpp",
+      "database",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/kuc-arc-f/cpp_db_server_tcp",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T07:07:06Z",
+    "updated_at": "2026-09-10T22:24:18Z",
+    "pushed_at": "2026-09-10T22:24:14Z"
+  },
+  {
+    "id": 1360174595,
+    "name": "finance-tracker-app",
+    "full_name": "AnimaMagnus/finance-tracker-app",
+    "owner": {
+      "login": "AnimaMagnus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275102903?v=4"
+    },
+    "description": "A full-stack, containerized web application for tracking personal finances, built with Python.",
+    "topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "python",
+      "sqlite3"
+    ],
+    "html_url": "https://github.com/AnimaMagnus/finance-tracker-app",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T12:00:02Z",
+    "updated_at": "2026-09-07T13:38:58Z",
+    "pushed_at": "2026-09-07T12:00:48Z"
+  },
+  {
+    "id": 1363931875,
+    "name": "mariadb-windows-builds",
+    "full_name": "markusfoo/mariadb-windows-builds",
+    "owner": {
+      "login": "markusfoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189266945?v=4"
+    },
+    "description": "Always-fresh CI builds of MariaDB for Windows x64 - AVX2 / AVX / generic (SSE2) portable ZIPs. Version-agnostic: auto-detects and builds every new upstream release, rolling previews included.",
+    "topics": [
+      "avx",
+      "avx2",
+      "builds",
+      "cmake",
+      "continuous-integration",
+      "database",
+      "github-actions",
+      "mariadb",
+      "mariadb-server",
+      "sql",
+      "windows",
+      "x64"
+    ],
+    "html_url": "https://github.com/markusfoo/mariadb-windows-builds",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-10T10:36:35Z",
+    "updated_at": "2026-09-10T15:31:46Z",
+    "pushed_at": "2026-09-10T16:39:04Z"
+  },
+  {
+    "id": 1357900409,
+    "name": "atlas",
+    "full_name": "MAD-py/atlas",
+    "owner": {
+      "login": "MAD-py",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52325575?v=4"
+    },
+    "description": "Embedded document database for Go — SQLite-like, but for JSON documents.",
+    "topics": [
+      "database",
+      "document-database",
+      "embedded-database",
+      "go",
+      "golang"
+    ],
+    "html_url": "https://github.com/MAD-py/atlas",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T06:33:18Z",
+    "updated_at": "2026-09-06T02:07:13Z",
+    "pushed_at": "2026-09-06T01:55:26Z"
+  },
+  {
+    "id": 1360895159,
+    "name": "MineralDB",
+    "full_name": "H3w4Ng2h0U/MineralDB",
+    "owner": {
+      "login": "H3w4Ng2h0U",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192081540?v=4"
+    },
+    "description": "礦物化學成分資料庫：111 種常見礦物的化學式、主量元素與微量元素參考數據，支持全稱/簡稱/化學式/元素搜索，可自行添加未發表數據並批量導入 CSV/Excel | Mineral chemistry reference database: formula, major & trace element data, search by name/abbrev/formula/element, CSV/Excel batch import",
+    "topics": [
+      "csv-import",
+      "database",
+      "geochemistry",
+      "mineralogy",
+      "minerals",
+      "reference-data"
+    ],
+    "html_url": "https://github.com/H3w4Ng2h0U/MineralDB",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T03:51:19Z",
+    "updated_at": "2026-09-08T04:54:12Z",
+    "pushed_at": "2026-09-08T04:52:51Z"
+  }
+]

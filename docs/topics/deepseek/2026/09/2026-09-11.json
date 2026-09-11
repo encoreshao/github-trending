@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1363388578,
+    "name": "routeVSCODE",
+    "full_name": "yudaprasetya007/routeVSCODE",
+    "owner": {
+      "login": "yudaprasetya007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51563371?v=4"
+    },
+    "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+    "topics": [
+      "9router",
+      "ai",
+      "chatgpt",
+      "claude",
+      "copilot",
+      "deepseek",
+      "local-proxy",
+      "model-switcher",
+      "vscode",
+      "vscode-extension"
+    ],
+    "html_url": "https://github.com/yudaprasetya007/routeVSCODE",
+    "stargazers_count": 326,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T01:25:00Z",
+    "updated_at": "2026-09-10T01:40:38Z",
+    "pushed_at": "2026-09-10T01:25:05Z"
+  },
+  {
+    "id": 1359439962,
+    "name": "pd-bridge",
+    "full_name": "chadhurley25075-png/pd-bridge",
+    "owner": {
+      "login": "chadhurley25075-png",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325742731?v=4"
+    },
+    "description": "Heterogeneous prefill/decode for DeepSeek-V4-Flash: CUDA prefill (DGX Spark, vLLM) -> Metal decode (Mac Studio, oMLX) over plain 10GbE",
+    "topics": [
+      "apple-silicon",
+      "deepseek",
+      "dgx-spark",
+      "heterogeneous-inference",
+      "kv-cache",
+      "llm-inference",
+      "mlx",
+      "omlx",
+      "prefill-decode",
+      "vllm"
+    ],
+    "html_url": "https://github.com/chadhurley25075-png/pd-bridge",
+    "stargazers_count": 108,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T19:07:06Z",
+    "updated_at": "2026-09-10T18:47:31Z",
+    "pushed_at": "2026-09-08T23:34:46Z"
+  },
+  {
+    "id": 1362369513,
+    "name": "dsh-cloud",
+    "full_name": "eskim2001/dsh-cloud",
+    "owner": {
+      "login": "eskim2001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98219327?v=4"
+    },
+    "description": "dshcloud：部署并托管 DeepSeek Harness (dsh) 实例的多租户平台，支持自托管或云端部署。Deploy and host DeepSeek Harness (dsh) instances — self-hosted on your own server or cloud-hosted: a multi-tenant platform with isolated Docker containers, persistent workspaces and resource quotas.",
+    "topics": [
+      "access-control",
+      "agent-harness",
+      "agent-platform",
+      "agent-workspaces",
+      "ai-agents",
+      "ai-infrastructure",
+      "coding-agent",
+      "container-isolation",
+      "deepseek",
+      "deepseek-harness",
+      "docker",
+      "dsh",
+      "multi-tenant",
+      "nodejs",
+      "postgresql",
+      "saas",
+      "self-hosted",
+      "traefik",
+      "typescript"
+    ],
+    "html_url": "https://github.com/eskim2001/dsh-cloud",
+    "stargazers_count": 61,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T07:47:57Z",
+    "updated_at": "2026-09-10T07:37:25Z",
+    "pushed_at": "2026-09-10T07:37:11Z"
+  },
+  {
+    "id": 1358805501,
+    "name": "FreeDeepseekAPI-EN",
+    "full_name": "atharvotech/FreeDeepseekAPI-EN",
+    "owner": {
+      "login": "atharvotech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148798365?v=4"
+    },
+    "description": "Local OpenAI-compatible API proxy for DeepSeek Web Chat (Global English Version). Connects DeepSeek to Open WebUI, Claude Code, and OpenAI SDK tools. Maintained by Atharvotech.",
+    "topics": [
+      "api",
+      "atharvotech",
+      "deepseek",
+      "deepseek-api",
+      "deepseek-harness",
+      "deepseek-harness-plugins",
+      "deepseek-v3",
+      "deepseek-v4",
+      "english",
+      "free",
+      "free-api",
+      "free-api-key",
+      "free-apikey",
+      "free-models",
+      "freeapi",
+      "javascript",
+      "llm",
+      "local-server",
+      "openai-api",
+      "unlimited-tokens"
+    ],
+    "html_url": "https://github.com/atharvotech/FreeDeepseekAPI-EN",
+    "stargazers_count": 26,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T05:07:53Z",
+    "updated_at": "2026-09-10T12:41:33Z",
+    "pushed_at": "2026-09-06T05:09:09Z"
+  },
+  {
+    "id": 1358470511,
+    "name": "engraft-ngram",
+    "full_name": "fulvian/engraft-ngram",
+    "owner": {
+      "login": "fulvian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16386986?v=4"
+    },
+    "description": "ENGRAFT: add facts to an LLM by editing 8 rows of its n-gram (Engram) memory table — no fine-tuning, gradient on a CPU replica, verified on llama.cpp GGUF (Qwen3.8-Flash-Next).",
+    "topics": [
+      "deepseek",
+      "engram",
+      "gguf",
+      "interpretability",
+      "knowledge-editing",
+      "knowledge-injection",
+      "llama-cpp",
+      "llm",
+      "memory-editing",
+      "mixture-of-experts",
+      "model-editing",
+      "ngram",
+      "parameter-efficient",
+      "qwen"
+    ],
+    "html_url": "https://github.com/fulvian/engraft-ngram",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T18:45:02Z",
+    "updated_at": "2026-09-10T12:40:03Z",
+    "pushed_at": "2026-09-07T09:21:14Z"
+  },
+  {
+    "id": 1362645474,
+    "name": "research-solution-supervisor",
+    "full_name": "bydtesla1609/research-solution-supervisor",
+    "owner": {
+      "login": "bydtesla1609",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252294066?v=4"
+    },
+    "description": "监督 AI 是否真正推进研究方案的跨平台 Agent Skill",
+    "topics": [
+      "agent-skills",
+      "ai-supervision",
+      "claude-code",
+      "codex-skill",
+      "deepseek",
+      "prompt-engineering",
+      "research-workflow"
+    ],
+    "html_url": "https://github.com/bydtesla1609/research-solution-supervisor",
+    "stargazers_count": 13,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T12:22:32Z",
+    "updated_at": "2026-09-11T01:16:02Z",
+    "pushed_at": "2026-09-09T12:40:34Z"
+  },
+  {
+    "id": 1357276778,
+    "name": "dsh-stream-market",
+    "full_name": "Minglink/dsh-stream-market",
+    "owner": {
+      "login": "Minglink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108618469?v=4"
+    },
+    "description": "DeepSeek Harness 内置可视化插件市场 — 极速秒开、官方 dsh:// 联动、深度本地管理与原子化彻底卸载",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "deepseek-plugin",
+      "dsh-extension",
+      "dsh-plugin",
+      "marketplace"
+    ],
+    "html_url": "https://github.com/Minglink/dsh-stream-market",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T15:04:47Z",
+    "updated_at": "2026-09-09T08:41:02Z",
+    "pushed_at": "2026-09-04T16:27:47Z"
+  },
+  {
+    "id": 1359677910,
+    "name": "dsh-plugin-manager",
+    "full_name": "PelyDeng/dsh-plugin-manager",
+    "owner": {
+      "login": "PelyDeng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41360929?v=4"
+    },
+    "description": "Deploy and manage DeepSeek Harness apps with shared authentication, plugin packaging, and Docker deployment.",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-bundle",
+      "dsh-plugin",
+      "dsh-plugin-manager",
+      "dsh-plugins",
+      "plugin-manager",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/PelyDeng/dsh-plugin-manager",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T02:40:18Z",
+    "updated_at": "2026-09-10T13:07:28Z",
+    "pushed_at": "2026-09-10T13:05:38Z"
+  },
+  {
+    "id": 1356954832,
+    "name": "deepseek-harness-docker",
+    "full_name": "misaka-link/deepseek-harness-docker",
+    "owner": {
+      "login": "misaka-link",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57578572?v=4"
+    },
+    "description": "dsh一键docker梭哈！集成可视化Admin管理后台、访问认证、容器内Chromium浏览器桌面(noVNC)与插件应用市场，免回环开箱即用",
+    "topics": [
+      "admin",
+      "agent",
+      "chromium",
+      "deepseek",
+      "deepseek-harness",
+      "docker",
+      "novnc"
+    ],
+    "html_url": "https://github.com/misaka-link/deepseek-harness-docker",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T09:32:33Z",
+    "updated_at": "2026-09-10T16:04:39Z",
+    "pushed_at": "2026-09-10T16:01:27Z"
+  },
+  {
+    "id": 1363844227,
+    "name": "ai-security-tool",
+    "full_name": "ZeroDayEvil/ai-security-tool",
+    "owner": {
+      "login": "ZeroDayEvil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256233687?v=4"
+    },
+    "description": "Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI.",
+    "topics": [
+      "ai-agent",
+      "ctf",
+      "cve",
+      "cve-scanner",
+      "cybersecurity",
+      "deepseek",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "nvd",
+      "openai",
+      "osv",
+      "pentesting",
+      "rdp",
+      "sbom",
+      "security-tools",
+      "sftp",
+      "ssh-client",
+      "terminal",
+      "vnc"
+    ],
+    "html_url": "https://github.com/ZeroDayEvil/ai-security-tool",
+    "stargazers_count": 6,
+    "language": "HTML",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:38:49Z",
+    "updated_at": "2026-09-11T01:51:30Z",
+    "pushed_at": "2026-09-11T01:51:28Z"
+  },
+  {
+    "id": 1357184326,
+    "name": "deepseek-v4-flash-0731-2x-dgx-spark",
+    "full_name": "alexellis/deepseek-v4-flash-0731-2x-dgx-spark",
+    "owner": {
+      "login": "alexellis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6358735?v=4"
+    },
+    "description": "DeepSeek-V4-Flash-0731 on 2x DGX Spark: TP2, NVFP4 KV, DSpark, and 1M context",
+    "topics": [
+      "deepseek",
+      "dgx-spark",
+      "local-ai",
+      "nvfp4",
+      "speculative-decoding",
+      "vllm"
+    ],
+    "html_url": "https://github.com/alexellis/deepseek-v4-flash-0731-2x-dgx-spark",
+    "stargazers_count": 6,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-04T13:40:03Z",
+    "updated_at": "2026-09-10T12:21:01Z",
+    "pushed_at": "2026-09-04T18:45:26Z"
+  },
+  {
+    "id": 1360829766,
+    "name": "codex-switch",
+    "full_name": "aipmer/codex-switch",
+    "owner": {
+      "login": "aipmer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19226317?v=4"
+    },
+    "description": "macOS Codex 多供应商一键切换：OpenAI 官方 / DeepSeek / Kimi Code 秒切，历史会话跨供应商无缝续聊。One-click provider switching for Codex CLI with seamless cross-provider session resume.",
+    "topics": [
+      "chatgpt",
+      "cli",
+      "codex",
+      "deepseek",
+      "developer-tools",
+      "kimi",
+      "llm",
+      "macos",
+      "openai",
+      "shell-script"
+    ],
+    "html_url": "https://github.com/aipmer/codex-switch",
+    "stargazers_count": 6,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-09-08T02:10:42Z",
+    "updated_at": "2026-09-10T03:06:40Z",
+    "pushed_at": "2026-09-10T03:06:39Z"
+  },
+  {
+    "id": 1358328016,
+    "name": "DeepSeekHarnessGuide",
+    "full_name": "super-mortal/DeepSeekHarnessGuide",
+    "owner": {
+      "login": "super-mortal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221256438?v=4"
+    },
+    "description": "DeepSeek Harness 蓝皮书",
+    "topics": [
+      "agent",
+      "ai-programming",
+      "chinese",
+      "deep-learning",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "guide",
+      "llm",
+      "tutorial",
+      "vitepress"
+    ],
+    "html_url": "https://github.com/super-mortal/DeepSeekHarnessGuide",
+    "stargazers_count": 5,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T15:38:42Z",
+    "updated_at": "2026-09-07T13:54:38Z",
+    "pushed_at": "2026-09-07T07:47:17Z"
+  },
+  {
+    "id": 1362066995,
+    "name": "agent-llm-case",
+    "full_name": "itwanger/agent-llm-case",
+    "owner": {
+      "login": "itwanger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6011374?v=4"
+    },
+    "description": "大模型与 AI Agent 实战测试案例集：收录提示词、可运行代码、效果截图与测试记录，按 DeepSeek、ChatGPT、GLM 等分类，支持同题复现与对比。Hands-on LLM & AI agent test cases.",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "coding-agent",
+      "deepseek",
+      "generative-ai",
+      "glm",
+      "javascript",
+      "llm",
+      "llm-evaluation",
+      "prompt-engineering",
+      "threejs",
+      "typescript"
+    ],
+    "html_url": "https://github.com/itwanger/agent-llm-case",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T01:17:01Z",
+    "updated_at": "2026-09-10T07:50:52Z",
+    "pushed_at": "2026-09-10T04:21:41Z"
+  },
+  {
+    "id": 1361209681,
+    "name": "learn-deepseek-harness",
+    "full_name": "richardds5/learn-deepseek-harness",
+    "owner": {
+      "login": "richardds5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1763325?v=4"
+    },
+    "description": "Learn DeepSeek Harness -- a nano agent harness, built from 0 to 1",
+    "topics": [
+      "agent",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/richardds5/learn-deepseek-harness",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T10:02:04Z",
+    "updated_at": "2026-09-09T08:27:55Z",
+    "pushed_at": "2026-09-08T10:16:06Z"
+  },
+  {
+    "id": 1360847167,
+    "name": "DineFlow-AI",
+    "full_name": "du-labs1/DineFlow-AI",
+    "owner": {
+      "login": "du-labs1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196642381?v=4"
+    },
+    "description": "基于 Spring Boot 与 LangGraph 的智能点餐 Agent 系统，融合 LLM、工具调用与业务流程编排，实现智能问答与订单服务自动化。",
+    "topics": [
+      "ai-agent",
+      "deepseek",
+      "fastapi",
+      "java",
+      "langgraph",
+      "llm",
+      "ollama",
+      "python",
+      "spring-boot",
+      "wechat-mini-program"
+    ],
+    "html_url": "https://github.com/du-labs1/DineFlow-AI",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T02:38:31Z",
+    "updated_at": "2026-09-10T11:56:16Z",
+    "pushed_at": "2026-09-08T11:11:53Z"
+  },
+  {
+    "id": 1361363342,
+    "name": "linktokenview-docs",
+    "full_name": "yinyuepingguo/linktokenview-docs",
+    "owner": {
+      "login": "yinyuepingguo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11852468?v=4"
+    },
+    "description": "LinkTokenView（联视未来）国产大模型 Token API 聚合平台，提供 OpenAI 兼容接口，统一调用 DeepSeek v4.1、Kimi、GLM、通义千问 等模型，支持 Token Plan 与 Coding Plan。支持Codex、Claude、Harness、WorkBuddy等各类Agent工具。已上线deepseek-v4.1-flash。",
+    "topics": [
+      "agent",
+      "ai",
+      "claude",
+      "codex",
+      "coding-plan",
+      "codingplan",
+      "deepseek",
+      "discount",
+      "gemini",
+      "glm",
+      "gpt",
+      "kimi",
+      "llm",
+      "model",
+      "openai",
+      "token",
+      "token-plan",
+      "tokenplan",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/yinyuepingguo/linktokenview-docs",
+    "stargazers_count": 4,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T12:30:53Z",
+    "updated_at": "2026-09-10T09:00:09Z",
+    "pushed_at": "2026-09-10T08:52:59Z"
+  },
+  {
+    "id": 1362423255,
+    "name": "dsh-ming-life",
+    "full_name": "dataelement/dsh-ming-life",
+    "owner": {
+      "login": "dataelement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103249391?v=4"
+    },
+    "description": "东方玄学人生工作台 — DSH (DeepSeek Harness) 插件：排盘算事实，规则标信号，DSH 写解读",
+    "topics": [
+      "bazi",
+      "deepseek",
+      "dsh",
+      "fortune-telling",
+      "plugin",
+      "react",
+      "ziwei"
+    ],
+    "html_url": "https://github.com/dataelement/dsh-ming-life",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T08:42:12Z",
+    "updated_at": "2026-09-10T15:09:09Z",
+    "pushed_at": "2026-09-10T03:14:53Z"
+  },
+  {
+    "id": 1360365316,
+    "name": "FreeToken",
+    "full_name": "ishandutta2007/FreeToken",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Code for https://arxiv.org/pdf/2608.16157",
+    "topics": [
+      "awesome-list",
+      "curated-list",
+      "deepseek",
+      "edge-ai",
+      "gpu-offloading",
+      "llm-inference",
+      "mixture-of-experts"
+    ],
+    "html_url": "https://github.com/ishandutta2007/FreeToken",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T15:05:34Z",
+    "updated_at": "2026-09-08T01:00:40Z",
+    "pushed_at": "2026-09-07T16:35:26Z"
+  },
+  {
+    "id": 1358831734,
+    "name": "DeepSeekHarnessGUI",
+    "full_name": "itchenshi/DeepSeekHarnessGUI",
+    "owner": {
+      "login": "itchenshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74160272?v=4"
+    },
+    "description": "DeepSeek Harness 桌面壳 —— 内嵌 Web UI、自动保持最新引擎、自带数据目录管理与系统托盘。",
+    "topics": [
+      "agent-framework",
+      "ai-agent",
+      "automation",
+      "cross-platform",
+      "deepseek",
+      "deepseek-harness",
+      "desktop-app",
+      "electron"
+    ],
+    "html_url": "https://github.com/itchenshi/DeepSeekHarnessGUI",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T05:53:22Z",
+    "updated_at": "2026-09-10T11:45:14Z",
+    "pushed_at": "2026-09-10T11:44:50Z"
+  }
+]
