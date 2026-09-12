@@ -1,0 +1,577 @@
+[
+  {
+    "id": 1359247858,
+    "name": "cloudflare-turnstile-solver",
+    "full_name": "biusberline/cloudflare-turnstile-solver",
+    "owner": {
+      "login": "biusberline",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8263411?v=4"
+    },
+    "description": "A small Python library and CLI for working with Cloudflare Turnstile on your own pages - read the sitekey, build the token, verify the result.",
+    "topics": [
+      "automation",
+      "cloudflare",
+      "python",
+      "solver",
+      "turnstile"
+    ],
+    "html_url": "https://github.com/biusberline/cloudflare-turnstile-solver",
+    "stargazers_count": 317,
+    "language": "Python",
+    "forks_count": 26,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T14:58:51Z",
+    "updated_at": "2026-09-11T13:25:08Z",
+    "pushed_at": "2026-09-06T16:34:42Z"
+  },
+  {
+    "id": 1360813538,
+    "name": "note-bridge-desktop",
+    "full_name": "lingxuanqjc-alt/note-bridge-desktop",
+    "owner": {
+      "login": "lingxuanqjc-alt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275312785?v=4"
+    },
+    "description": "Windows 笔记导出与迁移工具：七平台适配、四格式导出、离线阅读，明确验证范围与失败状态。",
+    "topics": [
+      "data-migration",
+      "local-first",
+      "note-export",
+      "note-taking",
+      "notes",
+      "python",
+      "webview2",
+      "windows"
+    ],
+    "html_url": "https://github.com/lingxuanqjc-alt/note-bridge-desktop",
+    "stargazers_count": 111,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T01:44:22Z",
+    "updated_at": "2026-09-12T01:54:25Z",
+    "pushed_at": "2026-09-09T17:07:03Z"
+  },
+  {
+    "id": 1358948316,
+    "name": "hanshuang-codex",
+    "full_name": "aimeoa/hanshuang-codex",
+    "owner": {
+      "login": "aimeoa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154602560?v=4"
+    },
+    "description": "针对GPT 6.0,V4flash的破甲实验项目",
+    "topics": [
+      "ai",
+      "codex",
+      "codex-cli",
+      "desktop-app",
+      "jailbreak",
+      "llm",
+      "openai-codex",
+      "prompt-injection",
+      "pyside6",
+      "python"
+    ],
+    "html_url": "https://github.com/aimeoa/hanshuang-codex",
+    "stargazers_count": 106,
+    "language": "Python",
+    "forks_count": 21,
+    "open_issues_count": 3,
+    "created_at": "2026-09-06T08:42:57Z",
+    "updated_at": "2026-09-12T01:47:24Z",
+    "pushed_at": "2026-09-10T14:03:04Z"
+  },
+  {
+    "id": 1358275774,
+    "name": "image-to-css-art",
+    "full_name": "AvroraCL/image-to-css-art",
+    "owner": {
+      "login": "AvroraCL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205043051?v=4"
+    },
+    "description": "将参考图片离线描摹为纯 HTML + CSS 单文件插画的 Agent 插件，支持轮廓提取、局部渐变与输出审计。",
+    "topics": [
+      "agent-skills",
+      "codex-plugin",
+      "css-art",
+      "html-css",
+      "python"
+    ],
+    "html_url": "https://github.com/AvroraCL/image-to-css-art",
+    "stargazers_count": 90,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T14:32:15Z",
+    "updated_at": "2026-09-11T01:25:46Z",
+    "pushed_at": "2026-09-09T16:18:43Z"
+  },
+  {
+    "id": 1358160514,
+    "name": "global-timezone-tracker",
+    "full_name": "ramazancetinkaya/global-timezone-tracker",
+    "owner": {
+      "login": "ramazancetinkaya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75214035?v=4"
+    },
+    "description": "Automated world timezone and DST status tracker with ready-to-consume JSON datasets.",
+    "topics": [
+      "daylight-saving-time",
+      "dst",
+      "github-actions",
+      "gmt",
+      "gmt-offset",
+      "gmt-offsets",
+      "iso-3166",
+      "python",
+      "pytz",
+      "time-zone",
+      "time-zones",
+      "timezone",
+      "timezone-data",
+      "timezone-database",
+      "timezones",
+      "utc",
+      "utc-offset",
+      "utc-offsets",
+      "world-clock",
+      "world-time"
+    ],
+    "html_url": "https://github.com/ramazancetinkaya/global-timezone-tracker",
+    "stargazers_count": 88,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T12:19:59Z",
+    "updated_at": "2026-09-08T20:51:09Z",
+    "pushed_at": "2026-09-06T03:30:29Z"
+  },
+  {
+    "id": 1358978740,
+    "name": "factcircuit",
+    "full_name": "superwesleyhys-ux/factcircuit",
+    "owner": {
+      "login": "superwesleyhys-ux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251160695?v=4"
+    },
+    "description": "FactCircuit: an auditable claim-and-evidence verification loop with immutable provenance, staged checks, bounded retrieval, and reproducible evaluation.",
+    "topics": [
+      "accuracy-decline",
+      "ai-safety",
+      "audit-trail",
+      "fact-checking",
+      "factcircuit",
+      "information-retrieval",
+      "llm-evaluation",
+      "news-verification",
+      "provenance",
+      "python",
+      "reproducible-research"
+    ],
+    "html_url": "https://github.com/superwesleyhys-ux/factcircuit",
+    "stargazers_count": 79,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 2,
+    "created_at": "2026-09-06T09:15:33Z",
+    "updated_at": "2026-09-12T01:36:31Z",
+    "pushed_at": "2026-09-11T21:59:34Z"
+  },
+  {
+    "id": 1358492453,
+    "name": "RotationLedger",
+    "full_name": "VanTaS15/RotationLedger",
+    "owner": {
+      "login": "VanTaS15",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22029244?v=4"
+    },
+    "description": "Track the lifetime of leaked secrets through git history - detect credential-shaped strings offline and report how long each stayed exposed.",
+    "topics": [
+      "cli",
+      "credentials",
+      "entropy",
+      "git-history",
+      "ops",
+      "python",
+      "reports",
+      "rotation",
+      "secrets",
+      "security"
+    ],
+    "html_url": "https://github.com/VanTaS15/RotationLedger",
+    "stargazers_count": 65,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T19:16:54Z",
+    "updated_at": "2026-09-11T19:43:31Z",
+    "pushed_at": "2026-09-11T05:56:35Z"
+  },
+  {
+    "id": 1357729892,
+    "name": "mini-harness",
+    "full_name": "mini-harness/mini-harness",
+    "owner": {
+      "login": "mini-harness",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325139937?v=4"
+    },
+    "description": "A small, complete Python agent harness: tools, compaction, retries, and a single-file TUI. Built to learn and use as a baseline.",
+    "topics": [
+      "agent-harness",
+      "coding-agent",
+      "python"
+    ],
+    "html_url": "https://github.com/mini-harness/mini-harness",
+    "stargazers_count": 60,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T01:28:05Z",
+    "updated_at": "2026-09-12T00:02:02Z",
+    "pushed_at": "2026-09-11T16:24:05Z"
+  },
+  {
+    "id": 1358840837,
+    "name": "ram0verflow",
+    "full_name": "ram0verflow/ram0verflow",
+    "owner": {
+      "login": "ram0verflow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64720360?v=4"
+    },
+    "description": "A small Bitcoin-like chain whose canonical ledger is my README. Proof of work is subset-sum, not hashing.",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "cryptography",
+      "github-actions",
+      "profile-readme",
+      "proof-of-work",
+      "python",
+      "subset-sum"
+    ],
+    "html_url": "https://github.com/ram0verflow/ram0verflow",
+    "stargazers_count": 47,
+    "language": "Python",
+    "forks_count": 29,
+    "open_issues_count": 731,
+    "created_at": "2026-09-06T06:07:03Z",
+    "updated_at": "2026-09-12T01:54:40Z",
+    "pushed_at": "2026-09-12T01:54:35Z"
+  },
+  {
+    "id": 1359448945,
+    "name": "game-sensitivity-coach",
+    "full_name": "DenisSergeevitch/game-sensitivity-coach",
+    "owner": {
+      "login": "DenisSergeevitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2140110?v=4"
+    },
+    "description": "An agent skill for evidence-based mouse sensitivity tuning, cross-game conversion, and gameplay review. Works with Codex, Claude Code, and Agent Skills hosts.",
+    "topics": [
+      "agent-skills",
+      "aim-training",
+      "claude-code",
+      "codex",
+      "ffmpeg",
+      "gaming",
+      "mouse-sensitivity",
+      "python",
+      "windows"
+    ],
+    "html_url": "https://github.com/DenisSergeevitch/game-sensitivity-coach",
+    "stargazers_count": 36,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T19:20:41Z",
+    "updated_at": "2026-09-11T19:01:49Z",
+    "pushed_at": "2026-09-06T19:21:19Z"
+  },
+  {
+    "id": 1360858142,
+    "name": "fantasy-football-manager",
+    "full_name": "krmisystems/fantasy-football-manager",
+    "owner": {
+      "login": "krmisystems",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326306102?v=4"
+    },
+    "description": "ESPN draft and lineup tools for Codex and other MCP clients, with browser sign-in, approval modes, per-team limits, and server monitoring.",
+    "topics": [
+      "browser-automation",
+      "codex",
+      "codex-plugin",
+      "espn",
+      "fantasy-draft",
+      "fantasy-football",
+      "lineup-optimization",
+      "mcp",
+      "mcp-server",
+      "monte-carlo",
+      "python",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/krmisystems/fantasy-football-manager",
+    "stargazers_count": 32,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T02:55:36Z",
+    "updated_at": "2026-09-11T04:33:17Z",
+    "pushed_at": "2026-09-11T04:33:13Z"
+  },
+  {
+    "id": 1362996218,
+    "name": "voxweave",
+    "full_name": "chenkb98/voxweave",
+    "owner": {
+      "login": "chenkb98",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239023730?v=4"
+    },
+    "description": "Streaming speech language model plumbing: audio frames, turns, conversation schemas, batching, and adapters.",
+    "topics": [
+      "audio-language-model",
+      "inference",
+      "python",
+      "speech",
+      "streaming"
+    ],
+    "html_url": "https://github.com/chenkb98/voxweave",
+    "stargazers_count": 32,
+    "language": "Python",
+    "forks_count": 253,
+    "open_issues_count": 18,
+    "created_at": "2026-09-09T17:16:26Z",
+    "updated_at": "2026-09-10T07:09:11Z",
+    "pushed_at": "2026-09-10T07:08:57Z"
+  },
+  {
+    "id": 1358794688,
+    "name": "remedi",
+    "full_name": "sreenidhbonagiri/remedi",
+    "owner": {
+      "login": "sreenidhbonagiri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67754320?v=4"
+    },
+    "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "css",
+      "digital-health",
+      "fastapi",
+      "health",
+      "health-data",
+      "health-tech",
+      "healthcare",
+      "healthcare-ai",
+      "html",
+      "javascript",
+      "langgraph",
+      "medicine",
+      "open-source",
+      "openfda",
+      "pytest",
+      "python",
+      "python3",
+      "reportlab"
+    ],
+    "html_url": "https://github.com/sreenidhbonagiri/remedi",
+    "stargazers_count": 32,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-06T04:46:45Z",
+    "updated_at": "2026-09-11T08:04:10Z",
+    "pushed_at": "2026-09-06T20:52:19Z"
+  },
+  {
+    "id": 1362960126,
+    "name": "speechturn",
+    "full_name": "howervoo/speechturn",
+    "owner": {
+      "login": "howervoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240197673?v=4"
+    },
+    "description": "语音大模型研究工具包：音频指令数据、声学适配器、CPU 微型训练与推理、流式事件和评测。",
+    "topics": [
+      "audio",
+      "evaluation",
+      "python",
+      "pytorch",
+      "speech-language-model"
+    ],
+    "html_url": "https://github.com/howervoo/speechturn",
+    "stargazers_count": 32,
+    "language": "Python",
+    "forks_count": 252,
+    "open_issues_count": 15,
+    "created_at": "2026-09-09T16:44:31Z",
+    "updated_at": "2026-09-10T06:58:46Z",
+    "pushed_at": "2026-09-10T06:58:40Z"
+  },
+  {
+    "id": 1362928535,
+    "name": "speechloom",
+    "full_name": "fufuchiu/speechloom",
+    "owner": {
+      "login": "fufuchiu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233662060?v=4"
+    },
+    "description": "End-to-end speech model research: waveform encoding, causal decoding, codec tokens, joint losses and streaming.",
+    "topics": [
+      "audio",
+      "end-to-end-learning",
+      "python",
+      "pytorch",
+      "speech-language-model",
+      "streaming"
+    ],
+    "html_url": "https://github.com/fufuchiu/speechloom",
+    "stargazers_count": 31,
+    "language": "Python",
+    "forks_count": 255,
+    "open_issues_count": 24,
+    "created_at": "2026-09-09T16:17:52Z",
+    "updated_at": "2026-09-11T16:49:55Z",
+    "pushed_at": "2026-09-11T16:49:50Z"
+  },
+  {
+    "id": 1363431253,
+    "name": "MotionClone",
+    "full_name": "blixvip/MotionClone",
+    "owner": {
+      "login": "blixvip",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247529250?v=4"
+    },
+    "description": "Rebuild reference videos as editable motion projects. Local Windows app.",
+    "topics": [
+      "hyperframes",
+      "motion-graphics",
+      "python",
+      "svg",
+      "video"
+    ],
+    "html_url": "https://github.com/blixvip/MotionClone",
+    "stargazers_count": 30,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T02:29:35Z",
+    "updated_at": "2026-09-12T01:51:10Z",
+    "pushed_at": "2026-09-11T23:02:16Z"
+  },
+  {
+    "id": 1366426802,
+    "name": "stampede",
+    "full_name": "Argona7/stampede",
+    "owner": {
+      "login": "Argona7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146877884?v=4"
+    },
+    "description": "Read-only explorer of observed wallet rotations on Robinhood Chain (PONS v2): terminal + web, replay of a recorded sample without API keys",
+    "topics": [
+      "fastapi",
+      "memecoin",
+      "on-chain-analysis",
+      "pons",
+      "python",
+      "robinhood-chain",
+      "textual",
+      "threejs",
+      "typescript",
+      "wallet-rotations"
+    ],
+    "html_url": "https://github.com/Argona7/stampede",
+    "stargazers_count": 30,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T16:23:28Z",
+    "updated_at": "2026-09-12T01:57:03Z",
+    "pushed_at": "2026-09-11T21:42:08Z"
+  },
+  {
+    "id": 1365145733,
+    "name": "catalogflow",
+    "full_name": "qwq77777764/catalogflow",
+    "owner": {
+      "login": "qwq77777764",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223405864?v=4"
+    },
+    "description": "Safety-first, human-approved product catalog pipeline for WooCommerce",
+    "topics": [
+      "ai-assisted",
+      "catalog-management",
+      "codex",
+      "ecommerce",
+      "human-in-the-loop",
+      "python",
+      "woocommerce"
+    ],
+    "html_url": "https://github.com/qwq77777764/catalogflow",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T01:11:33Z",
+    "updated_at": "2026-09-11T17:56:41Z",
+    "pushed_at": "2026-09-11T07:43:59Z"
+  },
+  {
+    "id": 1361956002,
+    "name": "datacenter-twin-lab",
+    "full_name": "mohammadrezwankhan/datacenter-twin-lab",
+    "owner": {
+      "login": "mohammadrezwankhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33260510?v=4"
+    },
+    "description": "Reproducible local-first power-continuity what-if simulator. Synthetic scenarios, browser Python demo, sensitivity analysis and reports.",
+    "topics": [
+      "data-center",
+      "electrical-engineering",
+      "engineering-education",
+      "power-systems",
+      "python",
+      "reproducible-research",
+      "simulation",
+      "synthetic-data"
+    ],
+    "html_url": "https://github.com/mohammadrezwankhan/datacenter-twin-lab",
+    "stargazers_count": 24,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T22:15:31Z",
+    "updated_at": "2026-09-11T20:02:16Z",
+    "pushed_at": "2026-09-09T11:47:08Z"
+  },
+  {
+    "id": 1364984373,
+    "name": "nadir-core",
+    "full_name": "thedhruvhegde/nadir-core",
+    "owner": {
+      "login": "thedhruvhegde",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69629876?v=4"
+    },
+    "description": "Open-core ADAS drift scoring and a free local dashcam mount-health agent (Pulse). Shadow mode. Apache-2.0.",
+    "topics": [
+      "adas",
+      "calibration",
+      "computer-vision",
+      "fleet",
+      "open-source",
+      "python",
+      "sensor-fusion",
+      "telematics"
+    ],
+    "html_url": "https://github.com/thedhruvhegde/nadir-core",
+    "stargazers_count": 22,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 4,
+    "created_at": "2026-09-10T22:06:02Z",
+    "updated_at": "2026-09-12T01:59:13Z",
+    "pushed_at": "2026-09-12T01:22:19Z"
+  }
+]

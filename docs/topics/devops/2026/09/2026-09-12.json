@@ -1,0 +1,554 @@
+[
+  {
+    "id": 1361497109,
+    "name": "catalog",
+    "full_name": "fossaryhq/catalog",
+    "owner": {
+      "login": "fossaryhq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324084289?v=4"
+    },
+    "description": "Public catalog of self-hosted applications with reviewed Docker Compose recipes",
+    "topics": [
+      "catalog",
+      "deployment",
+      "devops",
+      "docker",
+      "docker-compose",
+      "homelab",
+      "open-source",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/fossaryhq/catalog",
+    "stargazers_count": 89,
+    "language": "Shell",
+    "forks_count": 9,
+    "open_issues_count": 3,
+    "created_at": "2026-09-08T14:30:51Z",
+    "updated_at": "2026-09-11T19:35:05Z",
+    "pushed_at": "2026-09-11T20:56:00Z"
+  },
+  {
+    "id": 1364644814,
+    "name": "DevOps",
+    "full_name": "Codeprojectingfuture/DevOps",
+    "owner": {
+      "login": "Codeprojectingfuture",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324982484?v=4"
+    },
+    "description": "CI/CD workflow for a Java Spring Boot application with automated testing, code quality analysis, containerization, and deployment automation.",
+    "topics": [
+      "cicd",
+      "devops",
+      "docker",
+      "jenkins"
+    ],
+    "html_url": "https://github.com/Codeprojectingfuture/DevOps",
+    "stargazers_count": 10,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T17:30:15Z",
+    "updated_at": "2026-09-10T18:07:11Z",
+    "pushed_at": "2026-09-10T17:31:14Z"
+  },
+  {
+    "id": 1357868144,
+    "name": "ZD-claude-plugin",
+    "full_name": "Adilmunawar/ZD-claude-plugin",
+    "owner": {
+      "login": "Adilmunawar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127094634?v=4"
+    },
+    "description": "Claude Code plugins for agricultural geospatial engineering. agents, skills and guardrails for satellite ML, PostGIS/Earth Engine, Next.js and mobile apps, deployment and ops. One install, 14 modules, tested hooks, npm CLI.",
+    "topics": [
+      "agriculture",
+      "agritech",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-plugins",
+      "developer-tools",
+      "devops",
+      "geospatial",
+      "gis",
+      "google-earth-engine",
+      "nextjs",
+      "postgis",
+      "precision-agriculture",
+      "remote-sensing",
+      "satellite-imagery"
+    ],
+    "html_url": "https://github.com/Adilmunawar/ZD-claude-plugin",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T05:49:00Z",
+    "updated_at": "2026-09-07T12:24:27Z",
+    "pushed_at": "2026-09-07T12:23:56Z"
+  },
+  {
+    "id": 1362681271,
+    "name": "deploy-pulse",
+    "full_name": "knownasrazi/deploy-pulse",
+    "owner": {
+      "login": "knownasrazi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175929790?v=4"
+    },
+    "description": "Deployment pulse dashboard - mock status, logs, and health for your stack.",
+    "topics": [
+      "dashboard",
+      "deploy",
+      "devops",
+      "pulse",
+      "status"
+    ],
+    "html_url": "https://github.com/knownasrazi/deploy-pulse",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T12:56:27Z",
+    "updated_at": "2026-09-10T12:36:59Z",
+    "pushed_at": "2026-09-10T06:47:18Z"
+  },
+  {
+    "id": 1360604272,
+    "name": "docker-stats-wrapper",
+    "full_name": "p3rception/docker-stats-wrapper",
+    "owner": {
+      "login": "p3rception",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45295394?v=4"
+    },
+    "description": "A nicer docker stats: inline, colored, sortable, filterable - zero dependencies",
+    "topics": [
+      "cli",
+      "devops",
+      "docker",
+      "docker-stats",
+      "monitoring",
+      "tui"
+    ],
+    "html_url": "https://github.com/p3rception/docker-stats-wrapper",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T19:39:18Z",
+    "updated_at": "2026-09-09T12:39:08Z",
+    "pushed_at": "2026-09-09T12:19:20Z"
+  },
+  {
+    "id": 1362314893,
+    "name": "deploygo",
+    "full_name": "YongHangPu/deploygo",
+    "owner": {
+      "login": "YongHangPu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33919488?v=4"
+    },
+    "description": "一套轻量、可落地的零停机发布方案。覆盖了构建产物整理、Nginx 缓存策略、内置发布流程，以及开箱即用的前端版本更新提示组件。核心策略不绑定框架，Vue / React / Angular 等所有项目均可适用。",
+    "topics": [
+      "deployment",
+      "deployment-tools",
+      "devops",
+      "devtools",
+      "nginx",
+      "release-management",
+      "rust",
+      "spa",
+      "ssh",
+      "static-site",
+      "tauri",
+      "typescript",
+      "update-notification",
+      "vue3"
+    ],
+    "html_url": "https://github.com/YongHangPu/deploygo",
+    "stargazers_count": 5,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T06:51:25Z",
+    "updated_at": "2026-09-10T13:15:43Z",
+    "pushed_at": "2026-09-10T08:25:20Z"
+  },
+  {
+    "id": 1362216518,
+    "name": "nextship",
+    "full_name": "gowtham472/nextship",
+    "owner": {
+      "login": "gowtham472",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124136120?v=4"
+    },
+    "description": "Deploy Next.js to your own DigitalOcean account. No Dockerfile, no config edits, no infrastructure code.",
+    "topics": [
+      "cli",
+      "deployment",
+      "devops",
+      "digitalocean",
+      "docker",
+      "nextjs",
+      "nextjs-adapter",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/gowtham472/nextship",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T04:55:04Z",
+    "updated_at": "2026-09-11T17:03:52Z",
+    "pushed_at": "2026-09-11T17:03:48Z"
+  },
+  {
+    "id": 1358004195,
+    "name": "target-bitcoin-swap-too-yetkj3",
+    "full_name": "lynamr/target-bitcoin-swap-too-yetkj3",
+    "owner": {
+      "login": "lynamr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390065?v=4"
+    },
+    "description": "Backfill slot for keyword: bitcoin-swap-tool",
+    "topics": [
+      "automation",
+      "bitcoin-swap-tool",
+      "devops",
+      "open-source",
+      "utilities"
+    ],
+    "html_url": "https://github.com/lynamr/target-bitcoin-swap-too-yetkj3",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-09-05T09:00:12Z",
+    "updated_at": "2026-09-05T12:47:20Z",
+    "pushed_at": "2026-09-05T09:01:43Z"
+  },
+  {
+    "id": 1360457279,
+    "name": "polygon-liquidation-bot-alpha-hfj0",
+    "full_name": "auwallpatil/polygon-liquidation-bot-alpha-hfj0",
+    "owner": {
+      "login": "auwallpatil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390021?v=4"
+    },
+    "description": "Production-ready scaffold with CI hooks.",
+    "topics": [
+      "automation",
+      "devops",
+      "liquidation",
+      "open-source",
+      "polygon"
+    ],
+    "html_url": "https://github.com/auwallpatil/polygon-liquidation-bot-alpha-hfj0",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T16:43:15Z",
+    "updated_at": "2026-09-07T19:50:52Z",
+    "pushed_at": "2026-09-07T16:43:43Z"
+  },
+  {
+    "id": 1360457248,
+    "name": "polygon-indexer-pro-s8f8",
+    "full_name": "pezguiddgooms/polygon-indexer-pro-s8f8",
+    "owner": {
+      "login": "pezguiddgooms",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390171?v=4"
+    },
+    "description": "Experimental workspace for distributed workflows.",
+    "topics": [
+      "automation",
+      "devops",
+      "indexer",
+      "open-source",
+      "polygon"
+    ],
+    "html_url": "https://github.com/pezguiddgooms/polygon-indexer-pro-s8f8",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-09-07T16:43:13Z",
+    "updated_at": "2026-09-07T21:57:08Z",
+    "pushed_at": "2026-09-07T16:44:32Z"
+  },
+  {
+    "id": 1359524044,
+    "name": "branchbase",
+    "full_name": "oscarbol09/branchbase",
+    "owner": {
+      "login": "oscarbol09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80536682?v=4"
+    },
+    "description": "Zero-config, Git-native local database branching for PostgreSQL, MySQL, and SQLite.",
+    "topics": [
+      "branching",
+      "database",
+      "developer-tools",
+      "devops",
+      "docker",
+      "git",
+      "golang",
+      "postgres",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/oscarbol09/branchbase",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 9,
+    "created_at": "2026-09-06T21:28:46Z",
+    "updated_at": "2026-09-11T17:16:00Z",
+    "pushed_at": "2026-09-11T17:15:57Z"
+  },
+  {
+    "id": 1358867090,
+    "name": "spring-config-contract",
+    "full_name": "inryeok-office/spring-config-contract",
+    "owner": {
+      "login": "inryeok-office",
+      "avatar_url": "https://avatars.githubusercontent.com/u/301952838?v=4"
+    },
+    "description": "Keep Spring Boot configuration and deployment environments in sync.",
+    "topics": [
+      "configuration",
+      "developer-tools",
+      "devops",
+      "docker",
+      "gradle",
+      "java",
+      "kotlin",
+      "spring-boot"
+    ],
+    "html_url": "https://github.com/inryeok-office/spring-config-contract",
+    "stargazers_count": 3,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 12,
+    "created_at": "2026-09-06T06:48:21Z",
+    "updated_at": "2026-09-09T00:59:23Z",
+    "pushed_at": "2026-09-10T11:16:29Z"
+  },
+  {
+    "id": 1360417330,
+    "name": "target-python-bridge-8q8rx9",
+    "full_name": "hirenaqg/target-python-bridge-8q8rx9",
+    "owner": {
+      "login": "hirenaqg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390150?v=4"
+    },
+    "description": "Backfill slot for keyword: python-bridge",
+    "topics": [
+      "automation",
+      "devops",
+      "open-source",
+      "python-bridge",
+      "utilities"
+    ],
+    "html_url": "https://github.com/hirenaqg/target-python-bridge-8q8rx9",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T16:00:13Z",
+    "updated_at": "2026-09-07T16:41:43Z",
+    "pushed_at": "2026-09-07T16:00:42Z"
+  },
+  {
+    "id": 1361811025,
+    "name": "daily-engineering-log",
+    "full_name": "BerattCelikk/daily-engineering-log",
+    "owner": {
+      "login": "BerattCelikk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138959468?v=4"
+    },
+    "description": "⚡ Production-grade system architectures, native Mermaid diagrams, and clean reference implementations across Cloud, DevOps, Go, Python, and Linux systems.",
+    "topics": [
+      "architecture",
+      "awesome-list",
+      "cloud-native",
+      "devops",
+      "docker",
+      "golang",
+      "kubernetes",
+      "postgresql",
+      "python",
+      "reference-architecture",
+      "system-design",
+      "terraform"
+    ],
+    "html_url": "https://github.com/BerattCelikk/daily-engineering-log",
+    "stargazers_count": 2,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 22,
+    "created_at": "2026-09-08T19:17:48Z",
+    "updated_at": "2026-09-11T12:20:18Z",
+    "pushed_at": "2026-09-11T12:20:16Z"
+  },
+  {
+    "id": 1361634690,
+    "name": "laravel-free-stack",
+    "full_name": "7wp81x/laravel-free-stack",
+    "owner": {
+      "login": "7wp81x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57308381?v=4"
+    },
+    "description": "Zero-cost Laravel deployment stack using Render, Supabase, and Docker with free-tier survival scripts included.",
+    "topics": [
+      "cloudflare-r2",
+      "deployment",
+      "devops",
+      "docker",
+      "free-tier",
+      "laravel",
+      "laravel-deployment",
+      "nginx",
+      "php",
+      "php-docker",
+      "render",
+      "supabase",
+      "supervisor"
+    ],
+    "html_url": "https://github.com/7wp81x/laravel-free-stack",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T16:25:29Z",
+    "updated_at": "2026-09-08T16:45:48Z",
+    "pushed_at": "2026-09-08T16:29:25Z"
+  },
+  {
+    "id": 1358555517,
+    "name": "rust-nft-minter-cli-auoo",
+    "full_name": "hirenaqg/rust-nft-minter-cli-auoo",
+    "owner": {
+      "login": "hirenaqg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390150?v=4"
+    },
+    "description": "Experimental workspace for distributed workflows.",
+    "topics": [
+      "automation",
+      "devops",
+      "nft",
+      "open-source",
+      "rust"
+    ],
+    "html_url": "https://github.com/hirenaqg/rust-nft-minter-cli-auoo",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T20:58:06Z",
+    "updated_at": "2026-09-06T02:55:05Z",
+    "pushed_at": "2026-09-05T20:58:34Z"
+  },
+  {
+    "id": 1358169483,
+    "name": "target-defi-liquidation-ao60go",
+    "full_name": "hirenaqg/target-defi-liquidation-ao60go",
+    "owner": {
+      "login": "hirenaqg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390150?v=4"
+    },
+    "description": "Backfill slot for keyword: defi-liquidation-bot",
+    "topics": [
+      "automation",
+      "defi-liquidation-bot",
+      "devops",
+      "open-source",
+      "utilities"
+    ],
+    "html_url": "https://github.com/hirenaqg/target-defi-liquidation-ao60go",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T12:31:43Z",
+    "updated_at": "2026-09-05T15:41:22Z",
+    "pushed_at": "2026-09-05T12:32:05Z"
+  },
+  {
+    "id": 1358555556,
+    "name": "web3-bridge-bot-hic3",
+    "full_name": "lynamr/web3-bridge-bot-hic3",
+    "owner": {
+      "login": "lynamr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390065?v=4"
+    },
+    "description": "Lightweight utilities and automation helpers.",
+    "topics": [
+      "automation",
+      "bridge",
+      "devops",
+      "open-source",
+      "web3"
+    ],
+    "html_url": "https://github.com/lynamr/web3-bridge-bot-hic3",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T20:58:10Z",
+    "updated_at": "2026-09-06T02:54:58Z",
+    "pushed_at": "2026-09-05T20:58:41Z"
+  },
+  {
+    "id": 1358967479,
+    "name": "target-python-mev-bot-l5mugl",
+    "full_name": "lynamr/target-python-mev-bot-l5mugl",
+    "owner": {
+      "login": "lynamr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390065?v=4"
+    },
+    "description": "Backfill slot for keyword: python-mev-bot",
+    "topics": [
+      "automation",
+      "devops",
+      "open-source",
+      "python-mev-bot",
+      "utilities"
+    ],
+    "html_url": "https://github.com/lynamr/target-python-mev-bot-l5mugl",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T09:00:11Z",
+    "updated_at": "2026-09-06T10:40:02Z",
+    "pushed_at": "2026-09-06T09:00:39Z"
+  },
+  {
+    "id": 1363378773,
+    "name": "starfix",
+    "full_name": "MarcMao0819/starfix",
+    "owner": {
+      "login": "MarcMao0819",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269389239?v=4"
+    },
+    "description": "牵星 StarFix · 让一个长期在线的 AI 舰长指挥一支终端 AI 舰队：规程 / 监听 / 终端投递 / 任务激活器 / 上下文交接 / 方法论与战例 / 舰长 Benchmark / 轨迹编译。StarFix: a battle-tested playbook + scripts for one long-lived AI captain navigating a fleet of terminal AI workers by fixing on facts.",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "benchmark",
+      "claude-code",
+      "codex",
+      "devops",
+      "multi-agent",
+      "playbook"
+    ],
+    "html_url": "https://github.com/MarcMao0819/starfix",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T01:09:25Z",
+    "updated_at": "2026-09-12T01:59:58Z",
+    "pushed_at": "2026-09-12T01:59:54Z"
+  }
+]

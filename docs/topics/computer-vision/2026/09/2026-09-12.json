@@ -1,0 +1,595 @@
+[
+  {
+    "id": 1364984373,
+    "name": "nadir-core",
+    "full_name": "thedhruvhegde/nadir-core",
+    "owner": {
+      "login": "thedhruvhegde",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69629876?v=4"
+    },
+    "description": "Open-core ADAS drift scoring and a free local dashcam mount-health agent (Pulse). Shadow mode. Apache-2.0.",
+    "topics": [
+      "adas",
+      "calibration",
+      "computer-vision",
+      "fleet",
+      "open-source",
+      "python",
+      "sensor-fusion",
+      "telematics"
+    ],
+    "html_url": "https://github.com/thedhruvhegde/nadir-core",
+    "stargazers_count": 22,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 4,
+    "created_at": "2026-09-10T22:06:02Z",
+    "updated_at": "2026-09-12T01:59:13Z",
+    "pushed_at": "2026-09-12T01:22:19Z"
+  },
+  {
+    "id": 1359118242,
+    "name": "efficient-gaussian-appearance",
+    "full_name": "nerficg-project/efficient-gaussian-appearance",
+    "owner": {
+      "login": "nerficg-project",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188445810?v=4"
+    },
+    "description": " Faster-GS with JIT-compiled view-dependent appearance models and a WebGL viewer, described in the paper \"Compact Neural Appearance Models for Efficient Gaussian Splatting\"",
+    "topics": [
+      "compute-graphics",
+      "computer-vision",
+      "gaussian-splatting",
+      "novel-view-synthesis"
+    ],
+    "html_url": "https://github.com/nerficg-project/efficient-gaussian-appearance",
+    "stargazers_count": 18,
+    "language": "Cuda",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T12:25:11Z",
+    "updated_at": "2026-09-11T15:54:07Z",
+    "pushed_at": "2026-09-07T10:02:39Z"
+  },
+  {
+    "id": 1359202101,
+    "name": "TransNormal-2",
+    "full_name": "longxiang-ai/TransNormal-2",
+    "owner": {
+      "login": "longxiang-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68198130?v=4"
+    },
+    "description": "Official implementation of \"TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Precise Normal Estimation\". Single-step surface normal estimation for general scenes and transparent objects. Code and model weights will be released progressively.",
+    "topics": [
+      "3d-perception",
+      "computer-vision",
+      "deep-learning",
+      "diffusion-models",
+      "flux",
+      "generative-models",
+      "monocular-geometry-estimation",
+      "normal-estimation",
+      "pytorch",
+      "rectified-flow",
+      "surface-normal-estimation",
+      "transparent-objects"
+    ],
+    "html_url": "https://github.com/longxiang-ai/TransNormal-2",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-06T14:07:11Z",
+    "updated_at": "2026-09-11T22:45:35Z",
+    "pushed_at": "2026-09-10T11:42:12Z"
+  },
+  {
+    "id": 1361836913,
+    "name": "awesome-gpt-image-2.5",
+    "full_name": "LaplaceYoung/awesome-gpt-image-2.5",
+    "owner": {
+      "login": "LaplaceYoung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219803883?v=4"
+    },
+    "description": "Curated prompts, official samples, templates, and model notes for ChatGPT Images 2.5 / GPT-Image-2.5 Flare & Sunburst",
+    "topics": [
+      "ai-art",
+      "chatgpt-images",
+      "computer-vision",
+      "generative-ai",
+      "gpt-image",
+      "gpt-image-2-5",
+      "image-generation",
+      "openai",
+      "prompt-engineering",
+      "prompt-library"
+    ],
+    "html_url": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5",
+    "stargazers_count": 7,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T19:45:04Z",
+    "updated_at": "2026-09-09T14:44:37Z",
+    "pushed_at": "2026-09-09T05:32:11Z"
+  },
+  {
+    "id": 1359929004,
+    "name": "retrolens-ai",
+    "full_name": "UdhayaKarthikeyanN/retrolens-ai",
+    "owner": {
+      "login": "UdhayaKarthikeyanN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88259418?v=4"
+    },
+    "description": "Real-time webcam AR app — hand gestures control retro visual filters and a twisting portal effect. OpenCV + MediaPipe, 100% local.",
+    "topics": [
+      "augmented-reality",
+      "computer-vision",
+      "gesture-recognition",
+      "hand-tracking",
+      "mediapipe",
+      "opencv",
+      "python",
+      "webcam"
+    ],
+    "html_url": "https://github.com/UdhayaKarthikeyanN/retrolens-ai",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T07:52:11Z",
+    "updated_at": "2026-09-11T10:56:20Z",
+    "pushed_at": "2026-09-08T06:17:13Z"
+  },
+  {
+    "id": 1364180444,
+    "name": "RTI",
+    "full_name": "eduardzamfir/RTI",
+    "owner": {
+      "login": "eduardzamfir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98836997?v=4"
+    },
+    "description": "[arXiv 2026] Code for \"Elastic Token Compression for Pixel-Space Diffusion Transformers\"",
+    "topics": [
+      "computer-vision",
+      "diffusion-models",
+      "efficiency",
+      "generative-ai",
+      "jit",
+      "minit2i",
+      "pixel-space",
+      "transformers"
+    ],
+    "html_url": "https://github.com/eduardzamfir/RTI",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T13:09:53Z",
+    "updated_at": "2026-09-12T01:29:54Z",
+    "pushed_at": "2026-09-10T13:14:11Z"
+  },
+  {
+    "id": 1358990410,
+    "name": "awesome-video-summarization",
+    "full_name": "oguzhankir/awesome-video-summarization",
+    "owner": {
+      "login": "oguzhankir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86883236?v=4"
+    },
+    "description": "A curated, mathematically rigorous survey and resource catalog for unsupervised, self-supervised, and multimodal foundation-model video summarization.",
+    "topics": [
+      "awesome-list",
+      "clip",
+      "computer-vision",
+      "contrastive-learning",
+      "deep-reinforcement-learning",
+      "foundation-models",
+      "keyframe-extraction",
+      "multimodal-learning",
+      "pytorch",
+      "self-supervised-learning",
+      "unsupervised-learning",
+      "video-benchmark",
+      "video-processing",
+      "video-understanding",
+      "vision-language-models"
+    ],
+    "html_url": "https://github.com/oguzhankir/awesome-video-summarization",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T09:32:14Z",
+    "updated_at": "2026-09-09T21:08:00Z",
+    "pushed_at": "2026-09-07T22:40:46Z"
+  },
+  {
+    "id": 1362997798,
+    "name": "da-qiyaas",
+    "full_name": "goobolabs/da-qiyaas",
+    "owner": {
+      "login": "goobolabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138872151?v=4"
+    },
+    "description": "Da’qiyaas is an AI-powered age estimation app that predicts age from a live camera or uploaded photo. Built with Next.js,   Flask, and a model trained on UTKFace.",
+    "topics": [
+      "computer-vision",
+      "fastapi",
+      "nextjs",
+      "pytorch",
+      "utkface-dataset"
+    ],
+    "html_url": "https://github.com/goobolabs/da-qiyaas",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T17:17:52Z",
+    "updated_at": "2026-09-10T07:04:20Z",
+    "pushed_at": "2026-09-09T23:48:24Z"
+  },
+  {
+    "id": 1364935239,
+    "name": "expo-background-removal",
+    "full_name": "rbayuokt/expo-background-removal",
+    "owner": {
+      "login": "rbayuokt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49748249?v=4"
+    },
+    "description": "On-device background removal and subject cutout for Expo. Apple Vision on iOS, Google ML Kit on Android, transparent PNG out.",
+    "topics": [
+      "android",
+      "background-removal",
+      "background-remover",
+      "computer-vision",
+      "cutout",
+      "expo",
+      "foreground-extraction",
+      "image-segmentation",
+      "ios",
+      "mlkit",
+      "on-device-ml",
+      "photo-editing",
+      "react-native",
+      "remove-background",
+      "subject-extraction",
+      "subject-segmentation",
+      "transparent-png",
+      "vision-framewor",
+      "visionkit"
+    ],
+    "html_url": "https://github.com/rbayuokt/expo-background-removal",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T21:15:38Z",
+    "updated_at": "2026-09-11T11:31:25Z",
+    "pushed_at": "2026-09-11T00:37:02Z"
+  },
+  {
+    "id": 1360486670,
+    "name": "best-yolo",
+    "full_name": "LIANGFENG1007/best-yolo",
+    "owner": {
+      "login": "LIANGFENG1007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292772460?v=4"
+    },
+    "description": "基于 Qwen-VL 的 YOLO 数据集自动标注与人工精修桌面工具",
+    "topics": [
+      "computer-vision",
+      "dataset",
+      "image-annotation",
+      "pyside6",
+      "qwen-vl",
+      "ubuntu",
+      "yolo"
+    ],
+    "html_url": "https://github.com/LIANGFENG1007/best-yolo",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T17:16:17Z",
+    "updated_at": "2026-09-08T13:06:10Z",
+    "pushed_at": "2026-09-08T12:36:52Z"
+  },
+  {
+    "id": 1362628703,
+    "name": "Awesome-Shelf-Execution-n-Retail-Auditing",
+    "full_name": "ishandutta2007/Awesome-Shelf-Execution-n-Retail-Auditing",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top Shelf Execution & Retail Auditing (Opensource) 🌟 Star if you like it! 🌟",
+    "topics": [
+      "awesome-list",
+      "computer-vision",
+      "curated-list",
+      "planogram-compliance",
+      "retail-auditing",
+      "shelf-execution",
+      "sku-recognition"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-Shelf-Execution-n-Retail-Auditing",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T12:07:10Z",
+    "updated_at": "2026-09-09T14:52:21Z",
+    "pushed_at": "2026-09-09T14:43:39Z"
+  },
+  {
+    "id": 1362103742,
+    "name": "Realsense-mediapipe-3d-detection",
+    "full_name": "monicaffy108-alt/Realsense-mediapipe-3d-detection",
+    "owner": {
+      "login": "monicaffy108-alt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285931751?v=4"
+    },
+    "description": "Real-time 3D object detection and position estimation using Intel RealSense depth camera + Google MediaPipe. Supports pose, hand, face, and 80+ object detection with XYZ coordinate visualization.",
+    "topics": [
+      "3d-vision",
+      "computer-vision",
+      "depth-camera",
+      "face-detection",
+      "hand-tracking",
+      "mediapipe",
+      "object-detection",
+      "opencv",
+      "pose-estimation",
+      "python",
+      "real-time",
+      "realsense"
+    ],
+    "html_url": "https://github.com/monicaffy108-alt/Realsense-mediapipe-3d-detection",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T02:15:28Z",
+    "updated_at": "2026-09-09T02:28:36Z",
+    "pushed_at": "2026-09-09T02:24:50Z"
+  },
+  {
+    "id": 1362480384,
+    "name": "wowfishbot",
+    "full_name": "nanidev/wowfishbot",
+    "owner": {
+      "login": "nanidev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12063660?v=4"
+    },
+    "description": "WoW Fish Bot is a configurable Windows desktop automation tool for World of Warcraft fishing. It combines sound-triggered catch detection, bobber recognition, and customizable timing controls to help streamline fishing in both classic and newer WoW versions. ",
+    "topics": [
+      "automation",
+      "computer-vision",
+      "csharp",
+      "dotnet",
+      "fishbot",
+      "fishing",
+      "windows",
+      "world-of-warcraft",
+      "wow"
+    ],
+    "html_url": "https://github.com/nanidev/wowfishbot",
+    "stargazers_count": 2,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T09:35:05Z",
+    "updated_at": "2026-09-11T10:54:29Z",
+    "pushed_at": "2026-09-11T10:54:25Z"
+  },
+  {
+    "id": 1359265187,
+    "name": "Image-Denoising-Using-Gaussian-Low-Pass-Filter",
+    "full_name": "Arjun-08/Image-Denoising-Using-Gaussian-Low-Pass-Filter",
+    "owner": {
+      "login": "Arjun-08",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88790572?v=4"
+    },
+    "description": "Image denoising using Gaussian low-pass filtering with experiments on different smoothing parameters, MSE/SSIM evaluation, and visual analysis of denoising results.",
+    "topics": [
+      "computer-vision",
+      "digital-image-processing",
+      "gaussian-blur",
+      "gaussian-filter",
+      "image-denoising",
+      "image-processing",
+      "low-pass-filter",
+      "mse",
+      "noise-reduction",
+      "opencv",
+      "ssim"
+    ],
+    "html_url": "https://github.com/Arjun-08/Image-Denoising-Using-Gaussian-Low-Pass-Filter",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T15:16:22Z",
+    "updated_at": "2026-09-09T13:54:11Z",
+    "pushed_at": "2026-09-06T15:30:09Z"
+  },
+  {
+    "id": 1361522383,
+    "name": "sportX",
+    "full_name": "prabhusuryakant781-svg/sportX",
+    "owner": {
+      "login": "prabhusuryakant781-svg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233561425?v=4"
+    },
+    "description": "SportX - AI-Powered Student Fitness & Sports Companion (Team HACKPACK)",
+    "topics": [
+      "cloud-functions",
+      "computer-vision",
+      "firebase",
+      "fitness",
+      "mediapipe",
+      "react",
+      "sports",
+      "student-fitness"
+    ],
+    "html_url": "https://github.com/prabhusuryakant781-svg/sportX",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T14:52:55Z",
+    "updated_at": "2026-09-11T20:04:54Z",
+    "pushed_at": "2026-09-11T20:04:48Z"
+  },
+  {
+    "id": 1359281623,
+    "name": "Adaptive-High-Boost-Image-Sharpening",
+    "full_name": "Arjun-08/Adaptive-High-Boost-Image-Sharpening",
+    "owner": {
+      "login": "Arjun-08",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88790572?v=4"
+    },
+    "description": "Adaptive High-Boost Image Sharpening using Laplacian Filtering with constant and spatially varying gain.",
+    "topics": [
+      "adaptive-filtering",
+      "computer-vision",
+      "high-boost-filtering",
+      "high-pass-filter",
+      "image-processing",
+      "image-sharpening",
+      "laplacian-filter",
+      "opencv",
+      "python"
+    ],
+    "html_url": "https://github.com/Arjun-08/Adaptive-High-Boost-Image-Sharpening",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T15:37:28Z",
+    "updated_at": "2026-09-09T13:54:08Z",
+    "pushed_at": "2026-09-06T15:48:06Z"
+  },
+  {
+    "id": 1359315624,
+    "name": "Rice-Leaf-Disease-Classifier-Generative-Augmentation",
+    "full_name": "GRAHHGH/Rice-Leaf-Disease-Classifier-Generative-Augmentation",
+    "owner": {
+      "login": "GRAHHGH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170385684?v=4"
+    },
+    "description": "Fine-grained image classification pipeline for rice leaf diseases using EfficientNet-B3. Achieves 86.7% accuracy and 85.7% Macro-F1 on imbalanced data via gradual unfreezing, Mixup, and TTA.",
+    "topics": [
+      "agriculture",
+      "computer-vision",
+      "data-augmentation",
+      "efficientnet",
+      "fine-grained-classification",
+      "image-classification",
+      "plant-disease-detection",
+      "pytorch",
+      "transfer-learning"
+    ],
+    "html_url": "https://github.com/GRAHHGH/Rice-Leaf-Disease-Classifier-Generative-Augmentation",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T16:17:52Z",
+    "updated_at": "2026-09-07T16:14:32Z",
+    "pushed_at": "2026-09-06T16:36:16Z"
+  },
+  {
+    "id": 1364541796,
+    "name": "MicroSAM-LoRA",
+    "full_name": "ujjawalsingh10/MicroSAM-LoRA",
+    "owner": {
+      "login": "ujjawalsingh10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19973541?v=4"
+    },
+    "description": "VGG16-UNet vs LoRA-fine-tuned MedSAM for prostate segmentation on micro-ultrasound",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "huggingface-transformers",
+      "lora",
+      "medical-image-segmentation",
+      "medical-imaging",
+      "medsam",
+      "parameter-efficient-fine-tuning",
+      "prostate-segmentation",
+      "pytorch",
+      "segment-anything",
+      "ultrasound",
+      "unet"
+    ],
+    "html_url": "https://github.com/ujjawalsingh10/MicroSAM-LoRA",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T16:25:57Z",
+    "updated_at": "2026-09-11T05:48:40Z",
+    "pushed_at": "2026-09-10T16:51:15Z"
+  },
+  {
+    "id": 1361534492,
+    "name": "vipe-gs",
+    "full_name": "mammadalimammadaliyevpython-dot/vipe-gs",
+    "owner": {
+      "login": "mammadalimammadaliyevpython-dot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324366390?v=4"
+    },
+    "description": "Drone stills -> ViPE -> COLMAP -> 3D Gaussian Splatting -> rendered fly-through. One-command, six-stage resumable pipeline, verified end-to-end on a free Colab T4.",
+    "topics": [
+      "3d-reconstruction",
+      "colmap",
+      "computer-vision",
+      "drone",
+      "gaussian-splatting",
+      "gsplat",
+      "photogrammetry",
+      "slam",
+      "vipe"
+    ],
+    "html_url": "https://github.com/mammadalimammadaliyevpython-dot/vipe-gs",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T15:03:15Z",
+    "updated_at": "2026-09-11T15:27:43Z",
+    "pushed_at": "2026-09-08T15:03:40Z"
+  },
+  {
+    "id": 1361380887,
+    "name": "generative-deep-learning-cifar10",
+    "full_name": "Sash-Ellie/generative-deep-learning-cifar10",
+    "owner": {
+      "login": "Sash-Ellie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229915128?v=4"
+    },
+    "description": "Generative adversarial network implemented in PyTorch for CIFAR-10 image generation and deep learning experimentation.",
+    "topics": [
+      "cifar10",
+      "computer-vision",
+      "dcgan",
+      "deep-learning",
+      "gan",
+      "generative-ai",
+      "jupyter-notebook",
+      "neural-networks",
+      "python",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/Sash-Ellie/generative-deep-learning-cifar10",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T12:46:35Z",
+    "updated_at": "2026-09-08T14:20:53Z",
+    "pushed_at": "2026-09-08T12:55:00Z"
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "id": 1358873730,
+    "name": "codereview-ai",
+    "full_name": "zhansan379/codereview-ai",
+    "owner": {
+      "login": "zhansan379",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142391390?v=4"
+    },
+    "description": "适用于GitHub与GitLab的本地部署AI代码审查：接入Webhook，输出行内评论。支持LiteLLM模型，搭载智能代理与semgrep检测层，配备Vue管理后台。Self-hosted AI code review for GitHub and GitLab: webhook in, inline comments out. LiteLLM models, agentic + semgrep layers, Vue admin panel.",
+    "topics": [
+      "ai-code-review",
+      "code-review",
+      "fastapi",
+      "github-webhook",
+      "gitlab",
+      "litellm",
+      "self-hosted",
+      "vue3"
+    ],
+    "html_url": "https://github.com/zhansan379/codereview-ai",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T06:58:24Z",
+    "updated_at": "2026-09-11T16:35:04Z",
+    "pushed_at": "2026-09-11T10:51:03Z"
+  },
+  {
+    "id": 1363216490,
+    "name": "scankeep",
+    "full_name": "dongdongheo/scankeep",
+    "owner": {
+      "login": "dongdongheo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84834732?v=4"
+    },
+    "description": "Web UI to run, schedule, and manage SonarQube scan operation.",
+    "topics": [
+      "cron",
+      "github",
+      "gitlab",
+      "sast",
+      "security-scanner",
+      "sonarqube"
+    ],
+    "html_url": "https://github.com/dongdongheo/scankeep",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-09-09T21:05:56Z",
+    "updated_at": "2026-09-09T21:32:36Z",
+    "pushed_at": "2026-09-09T21:26:18Z"
+  },
+  {
+    "id": 1359829980,
+    "name": "lines",
+    "full_name": "TGPSKI/lines",
+    "owner": {
+      "login": "TGPSKI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12532803?v=4"
+    },
+    "description": "Merge-queue policy lab: design a strategy, calibrate it against your own logs, and watch it run",
+    "topics": [
+      "ci-cd",
+      "developer-productivity",
+      "discrete-event-simulation",
+      "gitlab",
+      "merge-queue",
+      "merge-train",
+      "monorepo",
+      "policy-simulation",
+      "python",
+      "qontract-reconcile",
+      "queue",
+      "queueing-theory",
+      "simulation"
+    ],
+    "html_url": "https://github.com/TGPSKI/lines",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T06:07:38Z",
+    "updated_at": "2026-09-07T06:58:52Z",
+    "pushed_at": "2026-09-07T06:58:48Z"
+  },
+  {
+    "id": 1365538653,
+    "name": "gitlab-mr-review-automation",
+    "full_name": "swlee3306/gitlab-mr-review-automation",
+    "owner": {
+      "login": "swlee3306",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63589323?v=4"
+    },
+    "description": "Read-only GitLab review workflow: SHA freshness, deduplication, fenced retries and local synthetic demos.",
+    "topics": [
+      "automation",
+      "code-review",
+      "gitlab",
+      "python",
+      "sqlite",
+      "testing"
+    ],
+    "html_url": "https://github.com/swlee3306/gitlab-mr-review-automation",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T07:14:11Z",
+    "updated_at": "2026-09-11T12:08:16Z",
+    "pushed_at": "2026-09-11T09:34:46Z"
+  },
+  {
+    "id": 1361011446,
+    "name": "gmr",
+    "full_name": "type-tiger/gmr",
+    "owner": {
+      "login": "type-tiger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222793108?v=4"
+    },
+    "description": "GitLab merge requests from the terminal via your logged-in browser — no API token needed. Works behind Cloudflare Access / Zero Trust where lab/glab fail.",
+    "topics": [
+      "applescript",
+      "cli",
+      "cloudflare-access",
+      "gitlab",
+      "merge-request"
+    ],
+    "html_url": "https://github.com/type-tiger/gmr",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T06:31:16Z",
+    "updated_at": "2026-09-08T06:32:42Z",
+    "pushed_at": "2026-09-08T06:32:17Z"
+  },
+  {
+    "id": 1359364106,
+    "name": "git-handbook",
+    "full_name": "SAGARCHRY0777/git-handbook",
+    "owner": {
+      "login": "SAGARCHRY0777",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154221073?v=4"
+    },
+    "description": "Git, GitHub and GitLab: the mental model, the state transitions, and how to get out of trouble.",
+    "topics": [
+      "cheatsheet",
+      "devops",
+      "git",
+      "git-tutorial",
+      "github",
+      "gitlab",
+      "handbook",
+      "version-control"
+    ],
+    "html_url": "https://github.com/SAGARCHRY0777/git-handbook",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T17:18:22Z",
+    "updated_at": "2026-09-06T17:18:31Z",
+    "pushed_at": "2026-09-06T17:18:26Z"
+  },
+  {
+    "id": 1363516984,
+    "name": "gitwall",
+    "full_name": "prokopsimek/gitwall",
+    "owner": {
+      "login": "prokopsimek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5487217?v=4"
+    },
+    "description": "Open pull requests and issues from GitHub and GitLab in your macOS menu bar and desktop widgets",
+    "topics": [
+      "github",
+      "gitlab",
+      "macos",
+      "menu-bar",
+      "pull-requests",
+      "swiftui",
+      "widgetkit"
+    ],
+    "html_url": "https://github.com/prokopsimek/gitwall",
+    "stargazers_count": 0,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T04:31:50Z",
+    "updated_at": "2026-09-11T21:09:37Z",
+    "pushed_at": "2026-09-11T21:09:35Z"
+  },
+  {
+    "id": 1361483465,
+    "name": "gitlab-component",
+    "full_name": "gocov/gitlab-component",
+    "owner": {
+      "login": "gocov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/315394539?v=4"
+    },
+    "description": "Upload test coverage to gocov from GitLab CI — a CI/CD Catalog component. Diff coverage on merge requests, coverage gates and badges, with or without a token.",
+    "topics": [
+      "ci-cd-component",
+      "code-coverage",
+      "coverage",
+      "gitlab",
+      "gitlab-ci",
+      "gocov"
+    ],
+    "html_url": "https://github.com/gocov/gitlab-component",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T14:19:11Z",
+    "updated_at": "2026-09-08T20:54:39Z",
+    "pushed_at": "2026-09-08T20:53:21Z"
+  },
+  {
+    "id": 1360192727,
+    "name": "mirror-to-org",
+    "full_name": "jbonadiman/mirror-to-org",
+    "owner": {
+      "login": "jbonadiman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18357636?v=4"
+    },
+    "description": "Mirror GitHub, GitLab, and Forgejo repositories into owner-named orgs on your own Forgejo instance",
+    "topics": [
+      "cli",
+      "devops",
+      "forgejo",
+      "git",
+      "gitea",
+      "github",
+      "gitlab",
+      "golang",
+      "mirror",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/jbonadiman/mirror-to-org",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T12:19:49Z",
+    "updated_at": "2026-09-07T12:51:50Z",
+    "pushed_at": "2026-09-07T13:04:03Z"
+  },
+  {
+    "id": 1360187017,
+    "name": "omarchy-gitlab",
+    "full_name": "dreadnought-0/omarchy-gitlab",
+    "owner": {
+      "login": "dreadnought-0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119451567?v=4"
+    },
+    "description": "Self-hosted GitLab in the Omarchy bar: pipelines with job logs, merge requests, issues, runners and todos — plus the local repos on disk with uncommitted work, with diff review, commit and push.",
+    "topics": [
+      "ci-cd",
+      "git",
+      "gitlab",
+      "omarchy",
+      "omarchy-plugin",
+      "quickshell",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/dreadnought-0/omarchy-gitlab",
+    "stargazers_count": 0,
+    "language": "QML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T12:13:31Z",
+    "updated_at": "2026-09-07T23:33:24Z",
+    "pushed_at": "2026-09-07T23:33:11Z"
+  },
+  {
+    "id": 1359514819,
+    "name": "rekapkerja",
+    "full_name": "Lisvindanu/rekapkerja",
+    "owner": {
+      "login": "Lisvindanu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116244150?v=4"
+    },
+    "description": "Tarik commit kamu dari GitHub atau GitLab, jadiin laporan kerja yang enak dibaca — dan bisa dicetak buat dikasih ke bos. Jalan lokal, token disimpan di brankas kredensial OS.",
+    "topics": [
+      "developer-tools",
+      "github-api",
+      "gitlab",
+      "go",
+      "productivity",
+      "react",
+      "report-generator",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/Lisvindanu/rekapkerja",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T21:11:00Z",
+    "updated_at": "2026-09-06T21:11:14Z",
+    "pushed_at": "2026-09-06T21:11:04Z"
+  },
+  {
+    "id": 1363198247,
+    "name": "al",
+    "full_name": "alderon07/al",
+    "owner": {
+      "login": "alderon07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43505852?v=4"
+    },
+    "description": "Terminal-first Bash alias manager with fuzzy search, safe editing, health checks, command history suggestions, private backups, and conflict-aware dotfiles sync.",
+    "topics": [
+      "alias-manager",
+      "bash",
+      "bash-aliases",
+      "bitbucket",
+      "bubbletea",
+      "cli",
+      "developer-tools",
+      "dotfiles",
+      "dotfiles-manager",
+      "fuzzy-search",
+      "git",
+      "github",
+      "gitlab",
+      "golang",
+      "linux",
+      "macos",
+      "shell",
+      "shell-aliases",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/alderon07/al",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T20:41:06Z",
+    "updated_at": "2026-09-10T18:34:37Z",
+    "pushed_at": "2026-09-10T18:34:31Z"
+  },
+  {
+    "id": 1358555552,
+    "name": "gitlab-bot",
+    "full_name": "mas-aleksey/gitlab-bot",
+    "owner": {
+      "login": "mas-aleksey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11443320?v=4"
+    },
+    "description": "Telegram bot for GitLab: approve and merge MRs, run pipelines, play manual jobs, cut tags and drive releases. Multi-user, self-hosted, long-polling.",
+    "topics": [
+      "aiogram",
+      "ci-cd",
+      "devops",
+      "gitlab",
+      "gitlab-ci",
+      "merge-requests",
+      "python",
+      "self-hosted",
+      "telegram-bot"
+    ],
+    "html_url": "https://github.com/mas-aleksey/gitlab-bot",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T20:58:09Z",
+    "updated_at": "2026-09-05T22:07:38Z",
+    "pushed_at": "2026-09-05T21:06:58Z"
+  },
+  {
+    "id": 1362998214,
+    "name": "agentctl",
+    "full_name": "ChStark/agentctl",
+    "owner": {
+      "login": "ChStark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5211079?v=4"
+    },
+    "description": "Turns GitLab milestones into merged merge requests — isolated Kubernetes pods pick up groups of related issues, open MRs, and self-merge the ones that pass CI",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "devops",
+      "gitlab",
+      "go",
+      "kubernetes",
+      "llm"
+    ],
+    "html_url": "https://github.com/ChStark/agentctl",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T17:18:15Z",
+    "updated_at": "2026-09-09T17:19:38Z",
+    "pushed_at": "2026-09-09T17:18:19Z"
+  },
+  {
+    "id": 1360677102,
+    "name": "GL-Forge",
+    "full_name": "J-a-c-c-o/GL-Forge",
+    "owner": {
+      "login": "J-a-c-c-o",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46869236?v=4"
+    },
+    "description": "A Rust CLI for bulk-provisioning nested GitLab groups, template repositories, and user permissions directly from LMS or CSV exports.",
+    "topics": [
+      "automatio",
+      "bulk-managemen",
+      "canvas-lm",
+      "cli",
+      "gitlab",
+      "gitlab-api",
+      "lms",
+      "provisioning",
+      "rust"
+    ],
+    "html_url": "https://github.com/J-a-c-c-o/GL-Forge",
+    "stargazers_count": 0,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T21:27:50Z",
+    "updated_at": "2026-09-07T22:02:29Z",
+    "pushed_at": "2026-09-07T22:01:48Z"
+  },
+  {
+    "id": 1359582261,
+    "name": "gitlab-stand-manager",
+    "full_name": "aevahonin/gitlab-stand-manager",
+    "owner": {
+      "login": "aevahonin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131350621?v=4"
+    },
+    "description": "Manage a Docker Compose stand over SSH from GitLab CI: diff-based auto-deploy, dynamic child pipelines, full stand backups. No agents on the host.",
+    "topics": [
+      "docker",
+      "docker-compose",
+      "docker-container",
+      "docker-image",
+      "docker-registry",
+      "gitlab",
+      "gitlab-ci",
+      "ssh",
+      "ssh-tunnel"
+    ],
+    "html_url": "https://github.com/aevahonin/gitlab-stand-manager",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T23:36:17Z",
+    "updated_at": "2026-09-06T23:49:01Z",
+    "pushed_at": "2026-09-06T23:48:58Z"
+  },
+  {
+    "id": 1365676060,
+    "name": "review-agent",
+    "full_name": "Animnia/review-agent",
+    "owner": {
+      "login": "Animnia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137913418?v=4"
+    },
+    "description": "Evidence-based code review in your terminal: resumable checkpoints, local traces, explicit consent, and PR-wide token/cost budgets.",
+    "topics": [
+      "cli",
+      "code-review",
+      "developer-tools",
+      "gitlab",
+      "llm",
+      "tui"
+    ],
+    "html_url": "https://github.com/Animnia/review-agent",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T08:40:03Z",
+    "updated_at": "2026-09-11T09:27:45Z",
+    "pushed_at": "2026-09-11T09:27:41Z"
+  },
+  {
+    "id": 1359402104,
+    "name": "gitlift",
+    "full_name": "spaaleks/gitlift",
+    "owner": {
+      "login": "spaaleks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46940849?v=4"
+    },
+    "description": "Create and manage repositories with predefined settings, branch rules, Actions, permissions and CI/CD variables you always use.",
+    "topics": [
+      "github",
+      "github-config",
+      "gitlab",
+      "gitlab-configuration",
+      "tui"
+    ],
+    "html_url": "https://github.com/spaaleks/gitlift",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T18:11:22Z",
+    "updated_at": "2026-09-06T19:10:41Z",
+    "pushed_at": "2026-09-06T19:10:37Z"
+  },
+  {
+    "id": 1362336088,
+    "name": "userscripts",
+    "full_name": "ihoru/userscripts",
+    "owner": {
+      "login": "ihoru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/361908?v=4"
+    },
+    "description": "Browser userscripts to automate repetitive tasks with Tampermonkey, one-click installation, and automatic updates.",
+    "topics": [
+      "browser-automation",
+      "duocards",
+      "github-pages",
+      "gitlab",
+      "javascript",
+      "productivity",
+      "tampermonkey",
+      "timer",
+      "toptracker",
+      "userscripts"
+    ],
+    "html_url": "https://github.com/ihoru/userscripts",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T07:13:17Z",
+    "updated_at": "2026-09-10T19:37:33Z",
+    "pushed_at": "2026-09-10T19:37:28Z"
+  },
+  {
+    "id": 1362789513,
+    "name": "oss-command-center",
+    "full_name": "Guts1005/oss-command-center",
+    "owner": {
+      "login": "Guts1005",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87996366?v=4"
+    },
+    "description": "Local-first, high-density telemetry command center for open-source contributors to track, triage, and manage PRs across GitHub & GitLab.",
+    "topics": [
+      "developer-tools",
+      "github",
+      "gitlab",
+      "open-source",
+      "react",
+      "sqlite-wal",
+      "telemetry",
+      "triage"
+    ],
+    "html_url": "https://github.com/Guts1005/oss-command-center",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T14:25:56Z",
+    "updated_at": "2026-09-10T11:23:29Z",
+    "pushed_at": "2026-09-10T11:23:24Z"
+  }
+]

@@ -1,0 +1,575 @@
+[
+  {
+    "id": 1359163705,
+    "name": "chinese-law-corpus",
+    "full_name": "lttxzmj/chinese-law-corpus",
+    "owner": {
+      "login": "lttxzmj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9152528?v=4"
+    },
+    "description": "中国法律法规与案例结构化语料库：412 部现行法律/司法解释逐条 JSON + 278 指导性案例 + 445 公报案例，CC0",
+    "topics": [
+      "china",
+      "chinese",
+      "chinese-nlp",
+      "corpus",
+      "court-cases",
+      "dataset",
+      "json",
+      "law",
+      "legal",
+      "legal-tech",
+      "nlp",
+      "rag"
+    ],
+    "html_url": "https://github.com/lttxzmj/chinese-law-corpus",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T13:23:36Z",
+    "updated_at": "2026-09-11T22:17:03Z",
+    "pushed_at": "2026-09-09T05:54:56Z"
+  },
+  {
+    "id": 1362928184,
+    "name": "genpark-byte-pair-encoding-bpe-tokenizer-skill",
+    "full_name": "alphaparkinc/genpark-byte-pair-encoding-bpe-tokenizer-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Autonomous Agent Byte-Pair Encoding (BPE) Subword Tokenizer Training & Compression Engine",
+    "topics": [
+      "agentic-ai",
+      "bpe",
+      "byte-pair-encoding",
+      "genpark-skill",
+      "nlp",
+      "subword-tokenization"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-byte-pair-encoding-bpe-tokenizer-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T16:17:38Z",
+    "updated_at": "2026-09-09T16:26:53Z",
+    "pushed_at": "2026-09-09T16:17:54Z"
+  },
+  {
+    "id": 1362929532,
+    "name": "genpark-levenshtein-damerau-fuzzy-string-aligner-skill",
+    "full_name": "Alpha-Park/genpark-levenshtein-damerau-fuzzy-string-aligner-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Autonomous Agent Damerau-Levenshtein Edit Distance & Optimal Transposition String Alignment Engine",
+    "topics": [
+      "agentic-ai",
+      "damerau-levenshtein",
+      "edit-distance",
+      "fuzzy-matching",
+      "genpark-skill",
+      "nlp"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-levenshtein-damerau-fuzzy-string-aligner-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T16:18:42Z",
+    "updated_at": "2026-09-09T16:21:17Z",
+    "pushed_at": "2026-09-09T16:18:54Z"
+  },
+  {
+    "id": 1361944385,
+    "name": "dd-to-signal",
+    "full_name": "GeoCodeCrafter/dd-to-signal",
+    "owner": {
+      "login": "GeoCodeCrafter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190285143?v=4"
+    },
+    "description": "Diff every SEC filing against the last one, and see what companies quietly rewrote.",
+    "topics": [
+      "10-k",
+      "diff",
+      "equity-research",
+      "finance",
+      "fundamental-analysis",
+      "investing",
+      "nlp",
+      "python",
+      "sec-edgar",
+      "secedgar"
+    ],
+    "html_url": "https://github.com/GeoCodeCrafter/dd-to-signal",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T21:58:41Z",
+    "updated_at": "2026-09-11T14:44:06Z",
+    "pushed_at": "2026-09-08T21:58:46Z"
+  },
+  {
+    "id": 1362928738,
+    "name": "genpark-byte-pair-encoding-bpe-tokenizer-skill",
+    "full_name": "Alpha-Park/genpark-byte-pair-encoding-bpe-tokenizer-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Autonomous Agent Byte-Pair Encoding (BPE) Subword Tokenizer Training & Compression Engine",
+    "topics": [
+      "agentic-ai",
+      "bpe",
+      "byte-pair-encoding",
+      "genpark-skill",
+      "nlp",
+      "subword-tokenization"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-byte-pair-encoding-bpe-tokenizer-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T16:18:01Z",
+    "updated_at": "2026-09-09T16:37:49Z",
+    "pushed_at": "2026-09-09T16:18:14Z"
+  },
+  {
+    "id": 1362926136,
+    "name": "genpark-cocke-younger-kasami-cyk-pcfg-parser-skill",
+    "full_name": "Alpha-Park/genpark-cocke-younger-kasami-cyk-pcfg-parser-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Autonomous Agent CYK (Cocke-Younger-Kasami) Probabilistic Context-Free Grammar (PCFG) Parser",
+    "topics": [
+      "agentic-ai",
+      "cyk-parser",
+      "genpark-skill",
+      "nlp",
+      "pcfg",
+      "syntactic-parsing"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-cocke-younger-kasami-cyk-pcfg-parser-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T16:15:57Z",
+    "updated_at": "2026-09-09T16:17:55Z",
+    "pushed_at": "2026-09-09T16:16:11Z"
+  },
+  {
+    "id": 1362925675,
+    "name": "genpark-cocke-younger-kasami-cyk-pcfg-parser-skill",
+    "full_name": "alphaparkinc/genpark-cocke-younger-kasami-cyk-pcfg-parser-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Autonomous Agent CYK (Cocke-Younger-Kasami) Probabilistic Context-Free Grammar (PCFG) Parser",
+    "topics": [
+      "agentic-ai",
+      "cyk-parser",
+      "genpark-skill",
+      "nlp",
+      "pcfg",
+      "syntactic-parsing"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-cocke-younger-kasami-cyk-pcfg-parser-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T16:15:38Z",
+    "updated_at": "2026-09-09T16:19:02Z",
+    "pushed_at": "2026-09-09T16:15:50Z"
+  },
+  {
+    "id": 1362926891,
+    "name": "genpark-aho-corasick-multi-pattern-automaton-skill",
+    "full_name": "Alpha-Park/genpark-aho-corasick-multi-pattern-automaton-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Autonomous Agent Aho-Corasick Multi-Pattern String Matching Trie Automaton with Failure Links",
+    "topics": [
+      "agentic-ai",
+      "aho-corasick",
+      "automata-theory",
+      "genpark-skill",
+      "nlp",
+      "string-matching"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-aho-corasick-multi-pattern-automaton-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T16:16:38Z",
+    "updated_at": "2026-09-09T16:22:18Z",
+    "pushed_at": "2026-09-09T16:16:51Z"
+  },
+  {
+    "id": 1362926512,
+    "name": "genpark-aho-corasick-multi-pattern-automaton-skill",
+    "full_name": "alphaparkinc/genpark-aho-corasick-multi-pattern-automaton-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Autonomous Agent Aho-Corasick Multi-Pattern String Matching Trie Automaton with Failure Links",
+    "topics": [
+      "agentic-ai",
+      "aho-corasick",
+      "automata-theory",
+      "genpark-skill",
+      "nlp",
+      "string-matching"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-aho-corasick-multi-pattern-automaton-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T16:16:18Z",
+    "updated_at": "2026-09-09T16:21:15Z",
+    "pushed_at": "2026-09-09T16:16:30Z"
+  },
+  {
+    "id": 1362929160,
+    "name": "genpark-levenshtein-damerau-fuzzy-string-aligner-skill",
+    "full_name": "alphaparkinc/genpark-levenshtein-damerau-fuzzy-string-aligner-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Autonomous Agent Damerau-Levenshtein Edit Distance & Optimal Transposition String Alignment Engine",
+    "topics": [
+      "agentic-ai",
+      "damerau-levenshtein",
+      "edit-distance",
+      "fuzzy-matching",
+      "genpark-skill",
+      "nlp"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-levenshtein-damerau-fuzzy-string-aligner-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T16:18:22Z",
+    "updated_at": "2026-09-09T16:23:59Z",
+    "pushed_at": "2026-09-09T16:18:35Z"
+  },
+  {
+    "id": 1363465269,
+    "name": "genpark-beam-search-autoregressive-decoder-skill",
+    "full_name": "Alpha-Park/genpark-beam-search-autoregressive-decoder-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Production-grade genpark-beam-search-autoregressive-decoder-skill skill for AI agents",
+    "topics": [
+      "agentic-ai",
+      "autoregressive-decoding",
+      "beam-search",
+      "genpark-skill",
+      "llm-inference",
+      "nlp",
+      "text-generation"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-beam-search-autoregressive-decoder-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T03:18:11Z",
+    "updated_at": "2026-09-10T03:18:34Z",
+    "pushed_at": "2026-09-10T03:18:26Z"
+  },
+  {
+    "id": 1363463849,
+    "name": "genpark-cky-probabilistic-grammar-parser-skill",
+    "full_name": "alphaparkinc/genpark-cky-probabilistic-grammar-parser-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Production-grade genpark-cky-probabilistic-grammar-parser-skill skill for AI agents",
+    "topics": [
+      "agentic-ai",
+      "cky-parser",
+      "dynamic-programming",
+      "genpark-skill",
+      "nlp",
+      "pcfg",
+      "probabilistic-grammar"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-cky-probabilistic-grammar-parser-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T03:16:17Z",
+    "updated_at": "2026-09-10T03:16:39Z",
+    "pushed_at": "2026-09-10T03:16:33Z"
+  },
+  {
+    "id": 1363465015,
+    "name": "genpark-beam-search-autoregressive-decoder-skill",
+    "full_name": "alphaparkinc/genpark-beam-search-autoregressive-decoder-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Production-grade genpark-beam-search-autoregressive-decoder-skill skill for AI agents",
+    "topics": [
+      "agentic-ai",
+      "autoregressive-decoding",
+      "beam-search",
+      "genpark-skill",
+      "llm-inference",
+      "nlp",
+      "text-generation"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-beam-search-autoregressive-decoder-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T03:17:49Z",
+    "updated_at": "2026-09-10T03:18:09Z",
+    "pushed_at": "2026-09-10T03:18:03Z"
+  },
+  {
+    "id": 1363464173,
+    "name": "genpark-cky-probabilistic-grammar-parser-skill",
+    "full_name": "Alpha-Park/genpark-cky-probabilistic-grammar-parser-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Production-grade genpark-cky-probabilistic-grammar-parser-skill skill for AI agents",
+    "topics": [
+      "agentic-ai",
+      "cky-parser",
+      "dynamic-programming",
+      "genpark-skill",
+      "nlp",
+      "pcfg",
+      "probabilistic-grammar"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-cky-probabilistic-grammar-parser-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T03:16:41Z",
+    "updated_at": "2026-09-10T03:17:02Z",
+    "pushed_at": "2026-09-10T03:16:56Z"
+  },
+  {
+    "id": 1362781114,
+    "name": "bert-spam-classifier",
+    "full_name": "arielshakaramiro/bert-spam-classifier",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Fine-tuning BERT (bert-base-uncased) for SMS spam/ham classification, benchmarked against a Naive Bayes baseline and BERT as a frozen feature extractor on the same test set. Includes verified evaluation metrics and confusion matrix.",
+    "topics": [
+      "bert",
+      "fine-tuning",
+      "huggingface-transformers",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "pytorch",
+      "scikit-learn",
+      "spam-detection",
+      "text-classification"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/bert-spam-classifier",
+    "stargazers_count": 5,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T14:19:17Z",
+    "updated_at": "2026-09-11T16:53:44Z",
+    "pushed_at": "2026-09-09T14:30:30Z"
+  },
+  {
+    "id": 1360538229,
+    "name": "knap",
+    "full_name": "olaflaitinen/knap",
+    "owner": {
+      "login": "olaflaitinen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176420103?v=4"
+    },
+    "description": "A byte level BPE tokenizer written from scratch in pure Mojo. Implements the seven encodings OpenAI models use, runs with no Python interpreter in the process, and publishes its evidence: 191.7 million tokens and every token id checked against the reference implementation.",
+    "topics": [
+      "bpe",
+      "byte-pair-encoding",
+      "differential-testing",
+      "fuzzing",
+      "gpt",
+      "llm",
+      "max",
+      "modular",
+      "mojo",
+      "mojo-lang",
+      "nlp",
+      "openai",
+      "simd",
+      "text-processing",
+      "tiktoken",
+      "tokenizer",
+      "unicode"
+    ],
+    "html_url": "https://github.com/olaflaitinen/knap",
+    "stargazers_count": 4,
+    "language": "Mojo",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T18:15:30Z",
+    "updated_at": "2026-09-11T10:56:19Z",
+    "pushed_at": "2026-09-11T05:15:21Z"
+  },
+  {
+    "id": 1360134515,
+    "name": "sentiment-analysis-lstm-glove",
+    "full_name": "arielshakaramiro/sentiment-analysis-lstm-glove",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Sentiment analysis on IMDB reviews using pretrained GloVe embeddings + Bidirectional LSTM in PyTorch (87.75% test accuracy). Includes a FastAPI + ngrok notebook to deploy the trained model as a REST API.",
+    "topics": [
+      "deep-learning",
+      "fastapi",
+      "glove",
+      "lstm",
+      "machine-learning",
+      "nlp",
+      "python",
+      "pytorch",
+      "sentiment-analysis",
+      "word-embeddings"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/sentiment-analysis-lstm-glove",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T11:20:33Z",
+    "updated_at": "2026-09-11T16:54:39Z",
+    "pushed_at": "2026-09-07T12:22:13Z"
+  },
+  {
+    "id": 1366399543,
+    "name": "transformer-self-attention-intent-classifier",
+    "full_name": "arielshakaramiro/transformer-self-attention-intent-classifier",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Transformer Encoder for Indonesian intent classification — implementing Positional Encoding & Multi-Head Self-Attention from scratch, compared against fine-tuned BERT via 5-fold cross-validation. Includes overfitting investigation, early stopping, and FastAPI serving.",
+    "topics": [
+      "bert",
+      "cross-validation",
+      "deep-learning",
+      "fastapi",
+      "indonesian-nlp",
+      "intent-classification",
+      "nlp",
+      "overfitting",
+      "pytorch",
+      "self-attention",
+      "transfer-learning",
+      "transformers"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/transformer-self-attention-intent-classifier",
+    "stargazers_count": 3,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T15:58:45Z",
+    "updated_at": "2026-09-11T16:52:43Z",
+    "pushed_at": "2026-09-11T16:45:39Z"
+  },
+  {
+    "id": 1366575661,
+    "name": "HAL-Harvest-Advisory-with-Linguistic-Intelligence",
+    "full_name": "abeerrai01/HAL-Harvest-Advisory-with-Linguistic-Intelligence",
+    "owner": {
+      "login": "abeerrai01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143290372?v=4"
+    },
+    "description": "Voice-first AI farming assistant combining satellite imagery, soil health data, weather, mandi prices, and regional-language speech to deliver personalized agricultural advice.",
+    "topics": [
+      "agriculture",
+      "agriculture-ai",
+      "agriculture-farm-rural-business",
+      "agritech",
+      "artificial-intelligence",
+      "gemini",
+      "gemini-api",
+      "genrerative-ai",
+      "machine-learning",
+      "multi-agent",
+      "multimodal-ai",
+      "multimodal-large-language-models",
+      "nlp",
+      "remote-sensing",
+      "satellite-imagery",
+      "sentinel-2",
+      "voice-assistant",
+      "voice-cloning"
+    ],
+    "html_url": "https://github.com/abeerrai01/HAL-Harvest-Advisory-with-Linguistic-Intelligence",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T18:41:18Z",
+    "updated_at": "2026-09-11T19:35:57Z",
+    "pushed_at": "2026-09-11T18:59:00Z"
+  },
+  {
+    "id": 1365465534,
+    "name": "apple-support-ai-agent",
+    "full_name": "arish096/apple-support-ai-agent",
+    "owner": {
+      "login": "arish096",
+      "avatar_url": "https://avatars.githubusercontent.com/u/295182403?v=4"
+    },
+    "description": "AI-powered Apple customer support agent with intent classification, historical retrieval, grounded replies, and safe escalation.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "customer-support",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "python",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/arish096/apple-support-ai-agent",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T06:28:32Z",
+    "updated_at": "2026-09-11T11:41:17Z",
+    "pushed_at": "2026-09-11T09:24:56Z"
+  }
+]

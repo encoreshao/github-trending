@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1362658862,
+    "name": "maskit",
+    "full_name": "xiaYuTian11/maskit",
+    "owner": {
+      "login": "xiaYuTian11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38251546?v=4"
+    },
+    "description": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
+    "topics": [
+      "anthropic",
+      "claude-code",
+      "cursor",
+      "data-masking",
+      "llm",
+      "mitmproxy",
+      "openai",
+      "pii",
+      "privacy",
+      "proxy",
+      "security",
+      "tauri"
+    ],
+    "html_url": "https://github.com/xiaYuTian11/maskit",
+    "stargazers_count": 148,
+    "language": "Python",
+    "forks_count": 27,
+    "open_issues_count": 3,
+    "created_at": "2026-09-09T12:36:06Z",
+    "updated_at": "2026-09-12T00:53:10Z",
+    "pushed_at": "2026-09-11T15:51:19Z"
+  },
+  {
+    "id": 1366032081,
+    "name": "meme-radar",
+    "full_name": "nhovongoc0-max/meme-radar",
+    "owner": {
+      "login": "nhovongoc0-max",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277285323?v=4"
+    },
+    "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+    "topics": [
+      "bsc",
+      "crypto",
+      "gmgn",
+      "meme",
+      "security",
+      "solana",
+      "token-scanner"
+    ],
+    "html_url": "https://github.com/nhovongoc0-max/meme-radar",
+    "stargazers_count": 83,
+    "language": "JavaScript",
+    "forks_count": 45,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T12:14:57Z",
+    "updated_at": "2026-09-12T01:50:40Z",
+    "pushed_at": "2026-09-11T12:19:58Z"
+  },
+  {
+    "id": 1358492453,
+    "name": "RotationLedger",
+    "full_name": "VanTaS15/RotationLedger",
+    "owner": {
+      "login": "VanTaS15",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22029244?v=4"
+    },
+    "description": "Track the lifetime of leaked secrets through git history - detect credential-shaped strings offline and report how long each stayed exposed.",
+    "topics": [
+      "cli",
+      "credentials",
+      "entropy",
+      "git-history",
+      "ops",
+      "python",
+      "reports",
+      "rotation",
+      "secrets",
+      "security"
+    ],
+    "html_url": "https://github.com/VanTaS15/RotationLedger",
+    "stargazers_count": 65,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T19:16:54Z",
+    "updated_at": "2026-09-11T19:43:31Z",
+    "pushed_at": "2026-09-11T05:56:35Z"
+  },
+  {
+    "id": 1360918247,
+    "name": "awesome-rust-migrations",
+    "full_name": "kevincouton/awesome-rust-migrations",
+    "owner": {
+      "login": "kevincouton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10117080?v=4"
+    },
+    "description": "The curated hub for migrating to Rust and eliminating memory-safety vulnerabilities: AI-assisted rewrites, C2Rust case studies, production adoptions at scale, interop tooling, and the evidence behind it. Originally based on malisper/awesome-ai-rust-rewrites (CC0).",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "c2rust",
+      "memory-safety",
+      "migration",
+      "rust",
+      "security"
+    ],
+    "html_url": "https://github.com/kevincouton/awesome-rust-migrations",
+    "stargazers_count": 32,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-08T04:26:07Z",
+    "updated_at": "2026-09-11T22:37:30Z",
+    "pushed_at": "2026-09-11T07:12:03Z"
+  },
+  {
+    "id": 1363729398,
+    "name": "helloworld-bruteforced",
+    "full_name": "anhol0/helloworld-bruteforced",
+    "owner": {
+      "login": "anhol0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127053891?v=4"
+    },
+    "description": "One of the most cursed ways of writing Hello World program in C",
+    "topics": [
+      "brute",
+      "brute-force",
+      "brute-force-attack",
+      "brute-force-attacks",
+      "bruteforce",
+      "bruteforce-attacks",
+      "hello",
+      "hello-world",
+      "helloworld",
+      "linux",
+      "memory",
+      "obfuscation",
+      "security"
+    ],
+    "html_url": "https://github.com/anhol0/helloworld-bruteforced",
+    "stargazers_count": 29,
+    "language": "C",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T08:15:53Z",
+    "updated_at": "2026-09-11T21:01:42Z",
+    "pushed_at": "2026-09-11T14:52:38Z"
+  },
+  {
+    "id": 1358198137,
+    "name": "stylesmuggler-mitigation",
+    "full_name": "disrex-group/stylesmuggler-mitigation",
+    "owner": {
+      "login": "disrex-group",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144544824?v=4"
+    },
+    "description": "Emergency mitigation for StyleSmuggler, the unpatched Magento/Adobe Commerce RCE (Sansec, 2026-09-05). Web-server rules + CLI guard + compromise scanner.",
+    "topics": [
+      "adobe-commerce",
+      "ecommerce-security",
+      "incident-response",
+      "magento",
+      "magento-security",
+      "magento2",
+      "mitigation",
+      "rce",
+      "security",
+      "stylesmuggler"
+    ],
+    "html_url": "https://github.com/disrex-group/stylesmuggler-mitigation",
+    "stargazers_count": 23,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-05T13:03:44Z",
+    "updated_at": "2026-09-09T09:31:12Z",
+    "pushed_at": "2026-09-08T10:56:56Z"
+  },
+  {
+    "id": 1359407767,
+    "name": "satellite",
+    "full_name": "OrbSec/satellite",
+    "owner": {
+      "login": "OrbSec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325743213?v=4"
+    },
+    "description": "Orb44 Watch satellite - inside pulse from your VPS (load, listeners, hardening). Pairs with https://orb44.com",
+    "topics": [
+      "cli",
+      "orb44",
+      "perimeter",
+      "satellite",
+      "security"
+    ],
+    "html_url": "https://github.com/OrbSec/satellite",
+    "stargazers_count": 22,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T18:19:45Z",
+    "updated_at": "2026-09-11T16:14:33Z",
+    "pushed_at": "2026-09-11T16:14:32Z"
+  },
+  {
+    "id": 1358912285,
+    "name": "Arbitra",
+    "full_name": "Ali-Adel-Nour/Arbitra",
+    "owner": {
+      "login": "Ali-Adel-Nour",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57529627?v=4"
+    },
+    "description": "The AI-operated escrow court and reputation protocol for the agentic economy.",
+    "topics": [
+      "ai-agents",
+      "api",
+      "blockchain",
+      "economics",
+      "escrow",
+      "event-driven",
+      "event-driven-architecture",
+      "evm",
+      "finance",
+      "graph",
+      "hardhat",
+      "ipfs",
+      "javascript",
+      "mcp-server",
+      "nextjs",
+      "nodejs",
+      "rest-api",
+      "security",
+      "solidity",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Ali-Adel-Nour/Arbitra",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T07:56:01Z",
+    "updated_at": "2026-09-11T18:02:48Z",
+    "pushed_at": "2026-09-11T18:02:46Z"
+  },
+  {
+    "id": 1365867810,
+    "name": "CVE-2026-41089-Netlogon-RCE-PoC",
+    "full_name": "SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC",
+    "owner": {
+      "login": "SyntaxMethod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/327702698?v=4"
+    },
+    "description": "CVE-2026-41089 Netlogon RCE PoC — security research, vulnerability validation & defensive testing.",
+    "topics": [
+      "active-directory",
+      "active-directory-security",
+      "cve",
+      "cve-2026-41089",
+      "cybersecurity",
+      "cybersecurity-education",
+      "cybersecurity-tools",
+      "netlogon",
+      "netlogon-rce",
+      "penetration-testing",
+      "rce",
+      "red-team-tools",
+      "security",
+      "security-researchers",
+      "vulnerability",
+      "vulnerability-scanner",
+      "vulnerability-scanners",
+      "windows",
+      "windows-11",
+      "windows-desktop"
+    ],
+    "html_url": "https://github.com/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T10:34:35Z",
+    "updated_at": "2026-09-12T01:58:46Z",
+    "pushed_at": "2026-09-11T18:14:44Z"
+  },
+  {
+    "id": 1364647994,
+    "name": "DevSecOps-Lab",
+    "full_name": "Codeprojectingfuture/DevSecOps-Lab",
+    "owner": {
+      "login": "Codeprojectingfuture",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324982484?v=4"
+    },
+    "description": "End-to-end DevSecOps Task Manager demonstrating automated testing, security scanning, containerization, monitoring, and cloud deployment.",
+    "topics": [
+      "ci-cd",
+      "devsecops",
+      "nodejs",
+      "security"
+    ],
+    "html_url": "https://github.com/Codeprojectingfuture/DevSecOps-Lab",
+    "stargazers_count": 9,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T17:32:19Z",
+    "updated_at": "2026-09-10T18:07:42Z",
+    "pushed_at": "2026-09-10T17:33:50Z"
+  },
+  {
+    "id": 1359172531,
+    "name": "genpark-semgrep-security-ast-pattern-matcher-skill",
+    "full_name": "alphaparkinc/genpark-semgrep-security-ast-pattern-matcher-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "GenPark AI Agent Skill - AST security pattern matcher for injection vulnerabilities, insecure deserialization, secret leakage, and safe code rewrite synthesis.",
+    "topics": [
+      "ast-matcher",
+      "cwe",
+      "genpark-agent",
+      "mcp-server",
+      "security",
+      "semgrep",
+      "vulnerability-scanner"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-semgrep-security-ast-pattern-matcher-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T13:34:35Z",
+    "updated_at": "2026-09-06T13:35:00Z",
+    "pushed_at": "2026-09-06T13:34:52Z"
+  },
+  {
+    "id": 1359172856,
+    "name": "genpark-semgrep-security-ast-pattern-matcher-skill",
+    "full_name": "Alpha-Park/genpark-semgrep-security-ast-pattern-matcher-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "GenPark AI Agent Skill - AST security pattern matcher for injection vulnerabilities, insecure deserialization, secret leakage, and safe code rewrite synthesis.",
+    "topics": [
+      "ast-matcher",
+      "cwe",
+      "genpark-agent",
+      "mcp-server",
+      "security",
+      "semgrep",
+      "vulnerability-scanner"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-semgrep-security-ast-pattern-matcher-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T13:35:01Z",
+    "updated_at": "2026-09-06T13:35:27Z",
+    "pushed_at": "2026-09-06T13:35:18Z"
+  },
+  {
+    "id": 1359819145,
+    "name": "StyleSmuggler-Helper-Scripts",
+    "full_name": "muench-dev/StyleSmuggler-Helper-Scripts",
+    "owner": {
+      "login": "muench-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171435509?v=4"
+    },
+    "description": "Collection of information and scripts around the Magento StyleSmuggler security issue",
+    "topics": [
+      "magento2",
+      "security",
+      "stylesmuggler"
+    ],
+    "html_url": "https://github.com/muench-dev/StyleSmuggler-Helper-Scripts",
+    "stargazers_count": 8,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T05:54:39Z",
+    "updated_at": "2026-09-08T12:05:21Z",
+    "pushed_at": "2026-09-07T21:32:54Z"
+  },
+  {
+    "id": 1359216925,
+    "name": "genpark-pii-secret-redaction-masking-skill",
+    "full_name": "Alpha-Park/genpark-pii-secret-redaction-masking-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "GenPark AI Agent Skill - High-speed PII and secret redaction engine with reversible token vault and credential sanitization.",
+    "topics": [
+      "data-privacy",
+      "genpark-agent",
+      "mcp-server",
+      "pii-redaction",
+      "secret-masking",
+      "security",
+      "vault"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-pii-secret-redaction-masking-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T14:23:15Z",
+    "updated_at": "2026-09-06T14:23:39Z",
+    "pushed_at": "2026-09-06T14:23:31Z"
+  },
+  {
+    "id": 1359214777,
+    "name": "genpark-prompt-injection-jailbreak-detector-skill",
+    "full_name": "alphaparkinc/genpark-prompt-injection-jailbreak-detector-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "GenPark AI Agent Skill - Heuristic and statistical prompt injection and jailbreak detector with semantic delimiter protection and adversarial pattern scoring.",
+    "topics": [
+      "ai-safety",
+      "genpark-agent",
+      "guardrails",
+      "jailbreak-defense",
+      "mcp-server",
+      "prompt-injection",
+      "security"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-prompt-injection-jailbreak-detector-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T14:20:24Z",
+    "updated_at": "2026-09-06T14:22:26Z",
+    "pushed_at": "2026-09-06T14:22:19Z"
+  },
+  {
+    "id": 1359215086,
+    "name": "genpark-prompt-injection-jailbreak-detector-skill",
+    "full_name": "Alpha-Park/genpark-prompt-injection-jailbreak-detector-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "GenPark AI Agent Skill - Heuristic and statistical prompt injection and jailbreak detector with semantic delimiter protection and adversarial pattern scoring.",
+    "topics": [
+      "ai-safety",
+      "genpark-agent",
+      "guardrails",
+      "jailbreak-defense",
+      "mcp-server",
+      "prompt-injection",
+      "security"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-prompt-injection-jailbreak-detector-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T14:20:48Z",
+    "updated_at": "2026-09-06T14:22:49Z",
+    "pushed_at": "2026-09-06T14:22:42Z"
+  },
+  {
+    "id": 1359215406,
+    "name": "genpark-pii-secret-redaction-masking-skill",
+    "full_name": "alphaparkinc/genpark-pii-secret-redaction-masking-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "GenPark AI Agent Skill - High-speed PII and secret redaction engine with reversible token vault and credential sanitization.",
+    "topics": [
+      "data-privacy",
+      "genpark-agent",
+      "mcp-server",
+      "pii-redaction",
+      "secret-masking",
+      "security",
+      "vault"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-pii-secret-redaction-masking-skill",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T14:21:14Z",
+    "updated_at": "2026-09-06T14:23:17Z",
+    "pushed_at": "2026-09-06T14:23:07Z"
+  },
+  {
+    "id": 1358509658,
+    "name": "unveil",
+    "full_name": "henio828/unveil",
+    "owner": {
+      "login": "henio828",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325401491?v=4"
+    },
+    "description": "Find text that hides from humans but speaks to machines. Defensive scanner for indirect prompt injection in untrusted content.",
+    "topics": [
+      "ai-agents",
+      "ai-safety",
+      "coding-agents",
+      "llm",
+      "prompt-injection",
+      "python",
+      "security",
+      "static-analysis",
+      "supply-chain-security",
+      "unicode"
+    ],
+    "html_url": "https://github.com/henio828/unveil",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-05T19:43:30Z",
+    "updated_at": "2026-09-08T22:53:48Z",
+    "pushed_at": "2026-09-06T10:14:48Z"
+  },
+  {
+    "id": 1359011158,
+    "name": "soup-wall",
+    "full_name": "MakazhanAlpamys/soup-wall",
+    "owner": {
+      "login": "MakazhanAlpamys",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188336071?v=4"
+    },
+    "description": "Soup Wall: a local firewall for what an AI agent does - tool calls, tool results, MCP handshakes, subagents. Deterministic, shadow-first, no account, no network.",
+    "topics": [
+      "agent-security",
+      "ai-agents",
+      "appsec",
+      "claude-code",
+      "firewall",
+      "llm-security",
+      "mcp",
+      "prompt-injection",
+      "rust",
+      "security"
+    ],
+    "html_url": "https://github.com/MakazhanAlpamys/soup-wall",
+    "stargazers_count": 8,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-06T10:01:10Z",
+    "updated_at": "2026-09-10T12:21:38Z",
+    "pushed_at": "2026-09-10T10:03:22Z"
+  },
+  {
+    "id": 1361907599,
+    "name": "sandbin",
+    "full_name": "ayazdoruck/sandbin",
+    "owner": {
+      "login": "ayazdoruck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175192368?v=4"
+    },
+    "description": "Runs untrusted code and survives it. No Docker, no root, no VM.",
+    "topics": [
+      "bubblewrap",
+      "cgroups",
+      "code-execution",
+      "linux-namespaces",
+      "sandbox",
+      "seccomp",
+      "security"
+    ],
+    "html_url": "https://github.com/ayazdoruck/sandbin",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-08T21:09:35Z",
+    "updated_at": "2026-09-11T17:20:19Z",
+    "pushed_at": "2026-09-11T14:29:31Z"
+  }
+]
