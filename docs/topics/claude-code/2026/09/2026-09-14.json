@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1361693766,
+    "name": "anything2explainer",
+    "full_name": "Vincentwei1021/anything2explainer",
+    "owner": {
+      "login": "Vincentwei1021",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18239147?v=4"
+    },
+    "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "claude-code-skill",
+      "codex",
+      "edge-tts",
+      "educational-video",
+      "explainer-video",
+      "kokoro",
+      "motion-graphics",
+      "multi-agent",
+      "react",
+      "remotion",
+      "text-to-video",
+      "tts",
+      "typescript",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/Vincentwei1021/anything2explainer",
+    "stargazers_count": 1174,
+    "language": "TypeScript",
+    "forks_count": 209,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T17:19:54Z",
+    "updated_at": "2026-09-14T01:58:57Z",
+    "pushed_at": "2026-09-13T03:23:06Z"
+  },
+  {
+    "id": 1360488682,
+    "name": "tokentab",
+    "full_name": "crwdla/tokentab",
+    "owner": {
+      "login": "crwdla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1875146?v=4"
+    },
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "topics": [
+      "ai",
+      "ai-token-monitor",
+      "claude-code",
+      "token-optimization",
+      "token-usage"
+    ],
+    "html_url": "https://github.com/crwdla/tokentab",
+    "stargazers_count": 858,
+    "language": "Python",
+    "forks_count": 212,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T17:18:31Z",
+    "updated_at": "2026-09-14T01:54:42Z",
+    "pushed_at": "2026-09-07T17:20:54Z"
+  },
+  {
+    "id": 1362509712,
+    "name": "gongwen-gbt9704-skill",
+    "full_name": "mizzlelover/gongwen-gbt9704-skill",
+    "owner": {
+      "login": "mizzlelover",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220598337?v=4"
+    },
+    "description": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
+    "topics": [
+      "ai-skill",
+      "ceb",
+      "chinese-official-document",
+      "claude-code",
+      "cross-platform",
+      "document-formatting",
+      "docx",
+      "gbt-9704-2012",
+      "kimi",
+      "opencode",
+      "trae-code",
+      "traework",
+      "word",
+      "workbuddy",
+      "wps",
+      "zcode"
+    ],
+    "html_url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+    "stargazers_count": 578,
+    "language": "JavaScript",
+    "forks_count": 120,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T10:04:14Z",
+    "updated_at": "2026-09-14T01:58:19Z",
+    "pushed_at": "2026-09-13T00:12:46Z"
+  },
+  {
+    "id": 1365350772,
+    "name": "reelbench-skills",
+    "full_name": "eternityspring/reelbench-skills",
+    "owner": {
+      "login": "eternityspring",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5795147?v=4"
+    },
+    "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+    "topics": [
+      "ai-video",
+      "claude-code",
+      "claude-skills",
+      "ffmpeg",
+      "shot-analysis",
+      "video-analysis"
+    ],
+    "html_url": "https://github.com/eternityspring/reelbench-skills",
+    "stargazers_count": 536,
+    "language": "HTML",
+    "forks_count": 73,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T04:55:49Z",
+    "updated_at": "2026-09-14T02:00:18Z",
+    "pushed_at": "2026-09-14T00:51:09Z"
+  },
+  {
+    "id": 1366546611,
+    "name": "ai-data-extractor",
+    "full_name": "kruzovic7/ai-data-extractor",
+    "owner": {
+      "login": "kruzovic7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/250558869?v=4"
+    },
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "topics": [
+      "ai",
+      "ai-data-extraction",
+      "claude-code",
+      "cursor"
+    ],
+    "html_url": "https://github.com/kruzovic7/ai-data-extractor",
+    "stargazers_count": 406,
+    "language": "Python",
+    "forks_count": 131,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T18:12:58Z",
+    "updated_at": "2026-09-14T01:54:36Z",
+    "pushed_at": "2026-09-11T18:20:56Z"
+  },
+  {
+    "id": 1363399964,
+    "name": "3dviz-pro-max",
+    "full_name": "viettranx/3dviz-pro-max",
+    "owner": {
+      "login": "viettranx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3197896?v=4"
+    },
+    "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+    "topics": [
+      "3d",
+      "agent-skill",
+      "blender",
+      "claude-code",
+      "codex",
+      "gltf",
+      "threejs",
+      "visualization"
+    ],
+    "html_url": "https://github.com/viettranx/3dviz-pro-max",
+    "stargazers_count": 217,
+    "language": "JavaScript",
+    "forks_count": 32,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T01:42:59Z",
+    "updated_at": "2026-09-14T01:36:18Z",
+    "pushed_at": "2026-09-11T01:01:12Z"
+  },
+  {
+    "id": 1362658862,
+    "name": "maskit",
+    "full_name": "xiaYuTian11/maskit",
+    "owner": {
+      "login": "xiaYuTian11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38251546?v=4"
+    },
+    "description": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
+    "topics": [
+      "anthropic",
+      "claude-code",
+      "cursor",
+      "data-masking",
+      "llm",
+      "mitmproxy",
+      "openai",
+      "pii",
+      "privacy",
+      "proxy",
+      "security",
+      "tauri"
+    ],
+    "html_url": "https://github.com/xiaYuTian11/maskit",
+    "stargazers_count": 201,
+    "language": "Python",
+    "forks_count": 37,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T12:36:06Z",
+    "updated_at": "2026-09-14T00:46:54Z",
+    "pushed_at": "2026-09-13T12:10:40Z"
+  },
+  {
+    "id": 1360725349,
+    "name": "linkedin-agent-skill",
+    "full_name": "Jakeschincariol/linkedin-agent-skill",
+    "owner": {
+      "login": "Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+    },
+    "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
+    "topics": [
+      "agent-skills",
+      "ai-humanizer",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "content-marketing",
+      "linkedin"
+    ],
+    "html_url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+    "stargazers_count": 187,
+    "language": "Python",
+    "forks_count": 33,
+    "open_issues_count": 2,
+    "created_at": "2026-09-07T22:58:16Z",
+    "updated_at": "2026-09-14T01:56:21Z",
+    "pushed_at": "2026-09-13T14:14:22Z"
+  },
+  {
+    "id": 1363827742,
+    "name": "tracecrate",
+    "full_name": "FankChen/tracecrate",
+    "owner": {
+      "login": "FankChen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122890530?v=4"
+    },
+    "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "local-first",
+      "observability",
+      "opentelemetry",
+      "privacy",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/FankChen/tracecrate",
+    "stargazers_count": 116,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 5,
+    "created_at": "2026-09-10T09:27:41Z",
+    "updated_at": "2026-09-13T16:51:08Z",
+    "pushed_at": "2026-09-13T13:44:14Z"
+  },
+  {
+    "id": 1359835005,
+    "name": "Awesome-OKF",
+    "full_name": "Albertchamberlain/Awesome-OKF",
+    "owner": {
+      "login": "Albertchamberlain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47343901?v=4"
+    },
+    "description": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai-agents",
+      "ai-memory",
+      "awesome",
+      "awesome-list",
+      "claude-code",
+      "knowledge-base",
+      "knowledge-graph",
+      "knowledge-management",
+      "llm",
+      "llm-wiki",
+      "markdown",
+      "mcp",
+      "okf",
+      "open-knowledge-format",
+      "structured-knowledge",
+      "yaml"
+    ],
+    "html_url": "https://github.com/Albertchamberlain/Awesome-OKF",
+    "stargazers_count": 104,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T06:12:39Z",
+    "updated_at": "2026-09-13T11:40:14Z",
+    "pushed_at": "2026-09-08T08:28:22Z"
+  },
+  {
+    "id": 1362684183,
+    "name": "SureForge",
+    "full_name": "Da7-Tech/SureForge",
+    "owner": {
+      "login": "Da7-Tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286182457?v=4"
+    },
+    "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "codex",
+      "cursor",
+      "devin",
+      "hermes-agent",
+      "prompt",
+      "skills",
+      "verification",
+      "workflow"
+    ],
+    "html_url": "https://github.com/Da7-Tech/SureForge",
+    "stargazers_count": 102,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 1,
+    "created_at": "2026-09-09T12:59:04Z",
+    "updated_at": "2026-09-13T23:21:58Z",
+    "pushed_at": "2026-09-09T13:34:54Z"
+  },
+  {
+    "id": 1364985464,
+    "name": "agent-launcher",
+    "full_name": "agent-launch/agent-launcher",
+    "owner": {
+      "login": "agent-launch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310759893?v=4"
+    },
+    "description": "Configure and run existing coding-agent CLIs from one desktop app.",
+    "topics": [
+      "ai-agent",
+      "claude-code",
+      "cli",
+      "codex",
+      "cross-platform",
+      "desktop-app",
+      "developer-tools",
+      "electron",
+      "gemini-cli",
+      "macos"
+    ],
+    "html_url": "https://github.com/agent-launch/agent-launcher",
+    "stargazers_count": 101,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 3,
+    "created_at": "2026-09-10T22:07:14Z",
+    "updated_at": "2026-09-14T01:40:06Z",
+    "pushed_at": "2026-09-10T22:21:23Z"
+  },
+  {
+    "id": 1361658245,
+    "name": "spotkit",
+    "full_name": "Devesh-Shirsath/spotkit",
+    "owner": {
+      "login": "Devesh-Shirsath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43561270?v=4"
+    },
+    "description": "Spotkit — a Claude Code skill that turns a feature description into minimal, abstract SVG product illustrations that all belong to one design system.",
+    "topics": [
+      "ai-tools",
+      "anthropic",
+      "claude-code",
+      "claude-skill",
+      "design-automation",
+      "design-system",
+      "design-tools",
+      "empty-state",
+      "figma",
+      "generative-design",
+      "illustration",
+      "product-design",
+      "product-illustration",
+      "saas",
+      "spot-illustration",
+      "svg",
+      "svg-illustrations",
+      "ui-design",
+      "ui-illustration"
+    ],
+    "html_url": "https://github.com/Devesh-Shirsath/spotkit",
+    "stargazers_count": 64,
+    "language": "HTML",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-09-08T16:46:34Z",
+    "updated_at": "2026-09-13T15:59:31Z",
+    "pushed_at": "2026-09-11T07:52:08Z"
+  },
+  {
+    "id": 1360946079,
+    "name": "ai-memory-skillpack",
+    "full_name": "tudoumashu/ai-memory-skillpack",
+    "owner": {
+      "login": "tudoumashu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104258564?v=4"
+    },
+    "description": "Bounded project-memory skills for Codex CLI and Claude Code.",
+    "topics": [
+      "agent-memory",
+      "claude-code",
+      "codex",
+      "llm",
+      "skills"
+    ],
+    "html_url": "https://github.com/tudoumashu/ai-memory-skillpack",
+    "stargazers_count": 62,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T05:07:25Z",
+    "updated_at": "2026-09-13T19:27:58Z",
+    "pushed_at": "2026-09-08T06:30:12Z"
+  },
+  {
+    "id": 1361195954,
+    "name": "agentic-stack-desktop",
+    "full_name": "codejunkie99/agentic-stack-desktop",
+    "owner": {
+      "login": "codejunkie99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52658655?v=4"
+    },
+    "description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "knowledge-graph",
+      "local-first",
+      "macos",
+      "mcp",
+      "opencode",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/codejunkie99/agentic-stack-desktop",
+    "stargazers_count": 59,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T09:48:30Z",
+    "updated_at": "2026-09-13T18:07:55Z",
+    "pushed_at": "2026-09-10T07:19:05Z"
+  },
+  {
+    "id": 1360367824,
+    "name": "second-brain-os",
+    "full_name": "undefined-ui/second-brain-os",
+    "owner": {
+      "login": "undefined-ui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85617033?v=4"
+    },
+    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "knowledge-graph",
+      "knowledge-management",
+      "llm",
+      "mcp",
+      "obsidian",
+      "personal-knowledge-base",
+      "pkm",
+      "second-brain"
+    ],
+    "html_url": "https://github.com/undefined-ui/second-brain-os",
+    "stargazers_count": 59,
+    "language": "HTML",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T15:08:13Z",
+    "updated_at": "2026-09-12T07:28:12Z",
+    "pushed_at": "2026-09-10T16:37:36Z"
+  },
+  {
+    "id": 1360940959,
+    "name": "ai-level-check",
+    "full_name": "Raymondhou0917/ai-level-check",
+    "owner": {
+      "login": "Raymondhou0917",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14795468?v=4"
+    },
+    "description": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
+    "topics": [
+      "ai",
+      "claude-code",
+      "productivity",
+      "skill",
+      "traditional-chinese"
+    ],
+    "html_url": "https://github.com/Raymondhou0917/ai-level-check",
+    "stargazers_count": 39,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-09-08T04:59:51Z",
+    "updated_at": "2026-09-13T03:45:41Z",
+    "pushed_at": "2026-09-13T03:45:37Z"
+  },
+  {
+    "id": 1362261456,
+    "name": "clawd-conduit",
+    "full_name": "ssssssanjiu/clawd-conduit",
+    "owner": {
+      "login": "ssssssanjiu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243310559?v=4"
+    },
+    "description": "Full-lifecycle wiring between Claude Code and the Clawd on Desk pet — all 15 hook events, with permission prompts answered straight from the desktop",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "desktop-pet",
+      "developer-tools",
+      "dotfiles",
+      "hooks",
+      "macos"
+    ],
+    "html_url": "https://github.com/ssssssanjiu/clawd-conduit",
+    "stargazers_count": 35,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T05:54:41Z",
+    "updated_at": "2026-09-13T22:53:34Z",
+    "pushed_at": "2026-09-09T07:59:06Z"
+  },
+  {
+    "id": 1366071746,
+    "name": "crossmatch",
+    "full_name": "filip131311/crossmatch",
+    "owner": {
+      "login": "filip131311",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159789821?v=4"
+    },
+    "description": "Find where your iOS and Android apps disagree, and get a side-by-side video of every difference.",
+    "topics": [
+      "android",
+      "argent",
+      "claude-code",
+      "cross-platform",
+      "feature-parity",
+      "ios",
+      "qa"
+    ],
+    "html_url": "https://github.com/filip131311/crossmatch",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-11T12:36:37Z",
+    "updated_at": "2026-09-12T21:22:30Z",
+    "pushed_at": "2026-09-11T15:19:58Z"
+  },
+  {
+    "id": 1366190855,
+    "name": "youtube-scout",
+    "full_name": "AgriciDaniel/youtube-scout",
+    "owner": {
+      "login": "AgriciDaniel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
+    },
+    "description": "Claude Code skill: one topic in, one ranked YouTube research workbook out. Searches YouTube Data API v3, ranks by views, engagement, momentum or breakout, and writes Videos, Channels, Summary, Comments and Transcripts sheets with hooks and replay hotspots. Appends into an existing social ads sheet.",
+    "topics": [
+      "agent-skill",
+      "ai-marketing",
+      "claude-code",
+      "claude-skill",
+      "cli",
+      "competitor-research",
+      "creator-research",
+      "hooks",
+      "marketing-research",
+      "openpyxl",
+      "python",
+      "shorts",
+      "social-ads",
+      "spreadsheet",
+      "transcripts",
+      "xlsx",
+      "youtube",
+      "youtube-data-api",
+      "youtube-research",
+      "yt-dlp"
+    ],
+    "html_url": "https://github.com/AgriciDaniel/youtube-scout",
+    "stargazers_count": 34,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T13:38:59Z",
+    "updated_at": "2026-09-13T23:22:11Z",
+    "pushed_at": "2026-09-11T21:01:19Z"
+  }
+]

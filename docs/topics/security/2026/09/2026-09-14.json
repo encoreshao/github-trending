@@ -1,0 +1,600 @@
+[
+  {
+    "id": 1366032081,
+    "name": "meme-radar",
+    "full_name": "nhovongoc0-max/meme-radar",
+    "owner": {
+      "login": "nhovongoc0-max",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277285323?v=4"
+    },
+    "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+    "topics": [
+      "bsc",
+      "crypto",
+      "gmgn",
+      "meme",
+      "security",
+      "solana",
+      "token-scanner"
+    ],
+    "html_url": "https://github.com/nhovongoc0-max/meme-radar",
+    "stargazers_count": 239,
+    "language": "JavaScript",
+    "forks_count": 100,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T12:14:57Z",
+    "updated_at": "2026-09-14T01:43:15Z",
+    "pushed_at": "2026-09-11T12:19:58Z"
+  },
+  {
+    "id": 1362658862,
+    "name": "maskit",
+    "full_name": "xiaYuTian11/maskit",
+    "owner": {
+      "login": "xiaYuTian11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38251546?v=4"
+    },
+    "description": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
+    "topics": [
+      "anthropic",
+      "claude-code",
+      "cursor",
+      "data-masking",
+      "llm",
+      "mitmproxy",
+      "openai",
+      "pii",
+      "privacy",
+      "proxy",
+      "security",
+      "tauri"
+    ],
+    "html_url": "https://github.com/xiaYuTian11/maskit",
+    "stargazers_count": 201,
+    "language": "Python",
+    "forks_count": 37,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T12:36:06Z",
+    "updated_at": "2026-09-14T00:46:54Z",
+    "pushed_at": "2026-09-13T12:10:40Z"
+  },
+  {
+    "id": 1365867810,
+    "name": "CVE-2026-41089-Netlogon-RCE-PoC",
+    "full_name": "SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC",
+    "owner": {
+      "login": "SyntaxMethod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/327702698?v=4"
+    },
+    "description": "CVE-2026-41089 Netlogon RCE PoC — security research, vulnerability validation & defensive testing.",
+    "topics": [
+      "active-directory",
+      "active-directory-security",
+      "cve",
+      "cve-2026-41089",
+      "cybersecurity",
+      "cybersecurity-education",
+      "cybersecurity-tools",
+      "netlogon",
+      "netlogon-rce",
+      "penetration-testing",
+      "rce",
+      "red-team-tools",
+      "security",
+      "security-researchers",
+      "vulnerability",
+      "vulnerability-scanner",
+      "vulnerability-scanners",
+      "windows",
+      "windows-11",
+      "windows-desktop"
+    ],
+    "html_url": "https://github.com/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC",
+    "stargazers_count": 99,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T10:34:35Z",
+    "updated_at": "2026-09-14T01:46:29Z",
+    "pushed_at": "2026-09-11T18:14:44Z"
+  },
+  {
+    "id": 1363729398,
+    "name": "helloworld-bruteforced",
+    "full_name": "anhol0/helloworld-bruteforced",
+    "owner": {
+      "login": "anhol0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127053891?v=4"
+    },
+    "description": "One of the most cursed ways of writing Hello World program in C",
+    "topics": [
+      "brute",
+      "brute-force",
+      "brute-force-attack",
+      "brute-force-attacks",
+      "bruteforce",
+      "bruteforce-attacks",
+      "hello",
+      "hello-world",
+      "helloworld",
+      "linux",
+      "memory",
+      "obfuscation",
+      "security"
+    ],
+    "html_url": "https://github.com/anhol0/helloworld-bruteforced",
+    "stargazers_count": 37,
+    "language": "C",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T08:15:53Z",
+    "updated_at": "2026-09-13T16:34:10Z",
+    "pushed_at": "2026-09-11T14:52:38Z"
+  },
+  {
+    "id": 1360918247,
+    "name": "awesome-rust-migrations",
+    "full_name": "kevincouton/awesome-rust-migrations",
+    "owner": {
+      "login": "kevincouton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10117080?v=4"
+    },
+    "description": "The curated hub for migrating to Rust and eliminating memory-safety vulnerabilities: AI-assisted rewrites, C2Rust case studies, production adoptions at scale, interop tooling, and the evidence behind it. Originally based on malisper/awesome-ai-rust-rewrites (CC0).",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "c2rust",
+      "memory-safety",
+      "migration",
+      "rust",
+      "security"
+    ],
+    "html_url": "https://github.com/kevincouton/awesome-rust-migrations",
+    "stargazers_count": 36,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-08T04:26:07Z",
+    "updated_at": "2026-09-13T16:37:53Z",
+    "pushed_at": "2026-09-11T07:12:03Z"
+  },
+  {
+    "id": 1364323587,
+    "name": "veil",
+    "full_name": "Mouseww/veil",
+    "owner": {
+      "login": "Mouseww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
+    },
+    "description": "使用大模型时，隐藏你的密码、token 等敏感信息。适配市面上各种工具，一键安装即可用。 / Hide passwords, tokens and secrets from the model. Works with everyday tools — one-click install.",
+    "topics": [
+      "anthropic",
+      "openai",
+      "privacy",
+      "proxy",
+      "rust",
+      "security"
+    ],
+    "html_url": "https://github.com/Mouseww/veil",
+    "stargazers_count": 22,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T14:22:18Z",
+    "updated_at": "2026-09-14T01:56:26Z",
+    "pushed_at": "2026-09-13T01:52:08Z"
+  },
+  {
+    "id": 1366128623,
+    "name": "strata",
+    "full_name": "m0m0x01d/strata",
+    "owner": {
+      "login": "m0m0x01d",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73800989?v=4"
+    },
+    "description": "See why a web vulnerability works, not just how to trigger it — a single-file, zero-dependency security lab that renders a vulnerable app as a 7-layer cross-section. 17 labs, attacker & defender modes, AI-authorable.",
+    "topics": [
+      "appsec",
+      "ctf",
+      "education",
+      "javascript",
+      "owasp",
+      "security",
+      "security-training",
+      "single-file",
+      "sql-injection",
+      "ssrf",
+      "vulnerable-app",
+      "web-security",
+      "xss",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/m0m0x01d/strata",
+    "stargazers_count": 18,
+    "language": "HTML",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T13:06:26Z",
+    "updated_at": "2026-09-13T14:03:56Z",
+    "pushed_at": "2026-09-12T05:21:37Z"
+  },
+  {
+    "id": 1365236132,
+    "name": "rolle",
+    "full_name": "nateships/rolle",
+    "owner": {
+      "login": "nateships",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72530590?v=4"
+    },
+    "description": "Assume any role, any cloud. Short-lived AWS, Azure, and Google Cloud credentials for your tools.",
+    "topics": [
+      "assume-role",
+      "aws",
+      "aws-sso",
+      "azure",
+      "cli",
+      "cloud",
+      "credentials",
+      "desktop-app",
+      "developer-tools",
+      "devops",
+      "gcp",
+      "go",
+      "golang",
+      "google-cloud",
+      "iam",
+      "identity-center",
+      "react",
+      "security",
+      "sso",
+      "wails"
+    ],
+    "html_url": "https://github.com/nateships/rolle",
+    "stargazers_count": 12,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-11T03:02:00Z",
+    "updated_at": "2026-09-13T18:56:24Z",
+    "pushed_at": "2026-09-13T18:56:28Z"
+  },
+  {
+    "id": 1364647994,
+    "name": "DevSecOps-Lab",
+    "full_name": "Codeprojectingfuture/DevSecOps-Lab",
+    "owner": {
+      "login": "Codeprojectingfuture",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324982484?v=4"
+    },
+    "description": "End-to-end DevSecOps Task Manager demonstrating automated testing, security scanning, containerization, monitoring, and cloud deployment.",
+    "topics": [
+      "ci-cd",
+      "devsecops",
+      "nodejs",
+      "security"
+    ],
+    "html_url": "https://github.com/Codeprojectingfuture/DevSecOps-Lab",
+    "stargazers_count": 9,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T17:32:19Z",
+    "updated_at": "2026-09-10T18:07:42Z",
+    "pushed_at": "2026-09-10T17:33:50Z"
+  },
+  {
+    "id": 1359819145,
+    "name": "StyleSmuggler-Helper-Scripts",
+    "full_name": "muench-dev/StyleSmuggler-Helper-Scripts",
+    "owner": {
+      "login": "muench-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171435509?v=4"
+    },
+    "description": "Collection of information and scripts around the Magento StyleSmuggler security issue",
+    "topics": [
+      "magento2",
+      "security",
+      "stylesmuggler"
+    ],
+    "html_url": "https://github.com/muench-dev/StyleSmuggler-Helper-Scripts",
+    "stargazers_count": 9,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T05:54:39Z",
+    "updated_at": "2026-09-12T07:40:21Z",
+    "pushed_at": "2026-09-07T21:32:54Z"
+  },
+  {
+    "id": 1365684044,
+    "name": "Bug-Bounty-Skills",
+    "full_name": "S1N6H/Bug-Bounty-Skills",
+    "owner": {
+      "login": "S1N6H",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89349529?v=4"
+    },
+    "description": "Every great bug bounty skill on GitHub, one repo, refreshed daily — auto-harvested, deduplicated, and credited to every source author",
+    "topics": [
+      "agent-skills",
+      "bugbounty",
+      "claude-code",
+      "claude-skills",
+      "osint",
+      "pentesting",
+      "red-team",
+      "security"
+    ],
+    "html_url": "https://github.com/S1N6H/Bug-Bounty-Skills",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T08:44:50Z",
+    "updated_at": "2026-09-12T07:36:07Z",
+    "pushed_at": "2026-09-11T11:34:53Z"
+  },
+  {
+    "id": 1360179971,
+    "name": "AegisAI",
+    "full_name": "bai-yi-meng/AegisAI",
+    "owner": {
+      "login": "bai-yi-meng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196451189?v=4"
+    },
+    "description": "基于大模型的网络安全渗透测试系统 · LLM-driven automated penetration testing platform",
+    "topics": [
+      "llm",
+      "pentest",
+      "security"
+    ],
+    "html_url": "https://github.com/bai-yi-meng/AegisAI",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T12:06:11Z",
+    "updated_at": "2026-09-11T11:41:23Z",
+    "pushed_at": "2026-09-07T12:20:26Z"
+  },
+  {
+    "id": 1361907599,
+    "name": "sandbin",
+    "full_name": "ayazdoruck/sandbin",
+    "owner": {
+      "login": "ayazdoruck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175192368?v=4"
+    },
+    "description": "Runs untrusted code and survives it. No Docker, no root, no VM.",
+    "topics": [
+      "bubblewrap",
+      "cgroups",
+      "code-execution",
+      "linux-namespaces",
+      "sandbox",
+      "seccomp",
+      "security"
+    ],
+    "html_url": "https://github.com/ayazdoruck/sandbin",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-08T21:09:35Z",
+    "updated_at": "2026-09-12T20:15:55Z",
+    "pushed_at": "2026-09-11T14:29:31Z"
+  },
+  {
+    "id": 1359876281,
+    "name": "exploit-mikrotik-2026",
+    "full_name": "BlackHatExploitation/exploit-mikrotik-2026",
+    "owner": {
+      "login": "BlackHatExploitation",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188622654?v=4"
+    },
+    "description": "CVE-2026-67276 MikroTik RouterOS SSH Authentication Bypass Exploit",
+    "topics": [
+      "authentication-bypass",
+      "cve",
+      "exploit",
+      "mikrotik",
+      "penetration-testing",
+      "routeros",
+      "security",
+      "ssh"
+    ],
+    "html_url": "https://github.com/BlackHatExploitation/exploit-mikrotik-2026",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-09-07T06:56:34Z",
+    "updated_at": "2026-09-12T06:56:45Z",
+    "pushed_at": "2026-09-07T06:59:07Z"
+  },
+  {
+    "id": 1365962019,
+    "name": "ghidra-ai-copilot",
+    "full_name": "PirusPoker/ghidra-ai-copilot",
+    "owner": {
+      "login": "PirusPoker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281142215?v=4"
+    },
+    "description": "AI reverse-engineering assistant for Ghidra - analyze functions with Claude, right inside the tool.",
+    "topics": [
+      "ai",
+      "anthropic",
+      "claude",
+      "decompiler",
+      "ghidra",
+      "pyghidra",
+      "reverse-engineering",
+      "security"
+    ],
+    "html_url": "https://github.com/PirusPoker/ghidra-ai-copilot",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T11:33:06Z",
+    "updated_at": "2026-09-13T09:08:34Z",
+    "pushed_at": "2026-09-11T11:42:57Z"
+  },
+  {
+    "id": 1361458758,
+    "name": "locksmith",
+    "full_name": "exabrial/locksmith",
+    "owner": {
+      "login": "exabrial",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1392297?v=4"
+    },
+    "description": "A Maven Extension to retrieve secrets from the MacOS Keychain, or a Unix Socket",
+    "topics": [
+      "ffm",
+      "fips-140-3",
+      "java",
+      "macos-keychain",
+      "maven",
+      "maven-extension",
+      "maven-plugin",
+      "panama",
+      "password-manager",
+      "secrets-management",
+      "security"
+    ],
+    "html_url": "https://github.com/exabrial/locksmith",
+    "stargazers_count": 5,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-08T13:58:13Z",
+    "updated_at": "2026-09-11T08:38:34Z",
+    "pushed_at": "2026-09-09T15:45:12Z"
+  },
+  {
+    "id": 1362877188,
+    "name": "dede",
+    "full_name": "cumakurt/dede",
+    "owner": {
+      "login": "cumakurt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91676004?v=4"
+    },
+    "description": "Offline-first, multi-language SAST with semantic data-flow analysis, deterministic security rules, SARIF/PDF reporting, Docker isolation, and optional local Ollama enrichment.",
+    "topics": [
+      "agpl-3",
+      "application-security",
+      "code-scanning",
+      "dataflow-analysis",
+      "devsecops",
+      "docker",
+      "local-llm",
+      "offline-first",
+      "ollama",
+      "sarif",
+      "sast",
+      "security",
+      "security-scanner",
+      "security-tools",
+      "semantic-analysis",
+      "semgrep",
+      "software-composition-analysis",
+      "source-code-analysis",
+      "static-analysis",
+      "taint-analysis"
+    ],
+    "html_url": "https://github.com/cumakurt/dede",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T15:35:52Z",
+    "updated_at": "2026-09-13T20:34:47Z",
+    "pushed_at": "2026-09-13T07:01:31Z"
+  },
+  {
+    "id": 1364015273,
+    "name": "tyro-camo",
+    "full_name": "hasinhayder/tyro-camo",
+    "owner": {
+      "login": "hasinhayder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/490779?v=4"
+    },
+    "description": "Stop leaking sensitive JavaScript file names in DevTools. Hide compiled Laravel & Vite assets under natural, interesting codenames.",
+    "topics": [
+      "assets",
+      "blade",
+      "camouflage",
+      "laravel",
+      "laravel-vite",
+      "obfuscation",
+      "rollup",
+      "security",
+      "typescript",
+      "vite",
+      "vite-plugin"
+    ],
+    "html_url": "https://github.com/hasinhayder/tyro-camo",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T11:33:31Z",
+    "updated_at": "2026-09-12T05:48:55Z",
+    "pushed_at": "2026-09-11T16:25:11Z"
+  },
+  {
+    "id": 1367172142,
+    "name": "livewire-ban",
+    "full_name": "niladam/livewire-ban",
+    "owner": {
+      "login": "niladam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4151765?v=4"
+    },
+    "description": "Automatically ban IP addresses that trigger Livewire exceptions (or attacks) a real browser never produces.",
+    "topics": [
+      "filamentphp",
+      "laravel",
+      "laravel-package",
+      "livewire",
+      "php",
+      "security"
+    ],
+    "html_url": "https://github.com/niladam/livewire-ban",
+    "stargazers_count": 4,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T10:02:28Z",
+    "updated_at": "2026-09-13T15:17:17Z",
+    "pushed_at": "2026-09-13T04:48:27Z"
+  },
+  {
+    "id": 1361884255,
+    "name": "carnet",
+    "full_name": "carnet-mcp/carnet",
+    "owner": {
+      "login": "carnet-mcp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326268084?v=4"
+    },
+    "description": "An MCP tool. Connect your assistant to /mcp and every tool call goes through a broker — scoped per caller, under a credential they never hold, revocable, metered and audited.",
+    "topics": [
+      "ai-agents",
+      "audit-log",
+      "broker",
+      "llm-tools",
+      "mcp",
+      "model-context-protocol",
+      "oauth2",
+      "python",
+      "security",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/carnet-mcp/carnet",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T20:40:15Z",
+    "updated_at": "2026-09-10T16:26:23Z",
+    "pushed_at": "2026-09-10T16:23:36Z"
+  }
+]

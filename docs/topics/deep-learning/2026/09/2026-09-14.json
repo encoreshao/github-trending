@@ -1,0 +1,561 @@
+[
+  {
+    "id": 1365285536,
+    "name": "zipcodec",
+    "full_name": "lucadellalib/zipcodec",
+    "owner": {
+      "login": "lucadellalib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34525085?v=4"
+    },
+    "description": "A 6.25 Hz, 0.80 kbit/s streaming neural audio codec based on WavLM",
+    "topics": [
+      "codec",
+      "deep-learning",
+      "neural-speech-coding",
+      "pytorch",
+      "speech-synthesis",
+      "vector-quantization",
+      "vocos",
+      "wavlm"
+    ],
+    "html_url": "https://github.com/lucadellalib/zipcodec",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T03:56:45Z",
+    "updated_at": "2026-09-14T00:06:56Z",
+    "pushed_at": "2026-09-11T04:50:39Z"
+  },
+  {
+    "id": 1360344248,
+    "name": "LLM-VLM-Guide",
+    "full_name": "AhmadJeddi/LLM-VLM-Guide",
+    "owner": {
+      "login": "AhmadJeddi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76421360?v=4"
+    },
+    "description": "A beginner-first guide to how language and multimodal models work — from language models and Transformers to LLMs, VLMs, audio, video, and modern model families.",
+    "topics": [
+      "artificial-intelligence",
+      "attention",
+      "deep-learning",
+      "generative-ai",
+      "guide",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "multimodal-ai",
+      "natural-language-processing",
+      "vision-language-models",
+      "vlm"
+    ],
+    "html_url": "https://github.com/AhmadJeddi/LLM-VLM-Guide",
+    "stargazers_count": 8,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T14:44:38Z",
+    "updated_at": "2026-09-13T08:08:15Z",
+    "pushed_at": "2026-09-07T14:44:44Z"
+  },
+  {
+    "id": 1363806885,
+    "name": "genpark-adamw-decoupled-weight-decay-skill",
+    "full_name": "Alpha-Park/genpark-adamw-decoupled-weight-decay-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "AdamW optimizer engine decoupling L2 weight decay regularization from adaptive gradient first and second moments.",
+    "topics": [
+      "adamw",
+      "agentic-ai",
+      "deep-learning",
+      "genpark-skill",
+      "gradient-descent",
+      "optimizer",
+      "weight-decay"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-adamw-decoupled-weight-decay-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:13:43Z",
+    "updated_at": "2026-09-10T09:17:46Z",
+    "pushed_at": "2026-09-10T09:17:42Z"
+  },
+  {
+    "id": 1365359846,
+    "name": "maquinas-escuchan-gaia2026",
+    "full_name": "omarvlo/maquinas-escuchan-gaia2026",
+    "owner": {
+      "login": "omarvlo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69394469?v=4"
+    },
+    "description": "Material de la conferencia \"¿Las máquinas escuchan?\" — GAIA, ESCOM-IPN, septiembre 2026",
+    "topics": [
+      "audio",
+      "deep-learning",
+      "mir",
+      "music-information-retrieval"
+    ],
+    "html_url": "https://github.com/omarvlo/maquinas-escuchan-gaia2026",
+    "stargazers_count": 7,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T05:03:54Z",
+    "updated_at": "2026-09-11T22:47:49Z",
+    "pushed_at": "2026-09-11T22:47:45Z"
+  },
+  {
+    "id": 1363809807,
+    "name": "genpark-lookahead-k-step-optimizer-skill",
+    "full_name": "Alpha-Park/genpark-lookahead-k-step-optimizer-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Lookahead optimizer wrapper stabilizing optimization trajectories by interpolating fast and slow weights every k steps.",
+    "topics": [
+      "agentic-ai",
+      "deep-learning",
+      "genpark-skill",
+      "lookahead",
+      "loss-landscape",
+      "optimizer",
+      "stability"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-lookahead-k-step-optimizer-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:15:47Z",
+    "updated_at": "2026-09-10T09:16:34Z",
+    "pushed_at": "2026-09-10T09:16:03Z"
+  },
+  {
+    "id": 1363810321,
+    "name": "genpark-lion-evolved-sign-momentum-skill",
+    "full_name": "alphaparkinc/genpark-lion-evolved-sign-momentum-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Lion (EvoLved Sign Momentum) optimizer utilizing sign operations for memory-efficient uniform gradient updates.",
+    "topics": [
+      "agentic-ai",
+      "deep-learning",
+      "genpark-skill",
+      "gradient-descent",
+      "lion-optimizer",
+      "memory-efficient",
+      "sign-momentum"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-lion-evolved-sign-momentum-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:16:08Z",
+    "updated_at": "2026-09-10T09:17:52Z",
+    "pushed_at": "2026-09-10T09:16:23Z"
+  },
+  {
+    "id": 1363807359,
+    "name": "genpark-sgdr-cosine-annealing-restarts-skill",
+    "full_name": "alphaparkinc/genpark-sgdr-cosine-annealing-restarts-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "SGDR: Stochastic Gradient Descent with Warm Restarts and Cosine Annealing learning rate schedule engine.",
+    "topics": [
+      "agentic-ai",
+      "cosine-annealing",
+      "deep-learning",
+      "genpark-skill",
+      "learning-rate-schedule",
+      "sgdr",
+      "warm-restarts"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-sgdr-cosine-annealing-restarts-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:14:04Z",
+    "updated_at": "2026-09-10T09:15:01Z",
+    "pushed_at": "2026-09-10T09:14:18Z"
+  },
+  {
+    "id": 1363808752,
+    "name": "genpark-l2-gradient-clipping-norm-skill",
+    "full_name": "Alpha-Park/genpark-l2-gradient-clipping-norm-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Global L2 norm adaptive gradient clipping engine to mitigate exploding gradients during deep neural network training.",
+    "topics": [
+      "agentic-ai",
+      "deep-learning",
+      "exploding-gradients",
+      "genpark-skill",
+      "gradient-clipping",
+      "l2-norm",
+      "training-stability"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-l2-gradient-clipping-norm-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:15:03Z",
+    "updated_at": "2026-09-10T09:16:34Z",
+    "pushed_at": "2026-09-10T09:15:19Z"
+  },
+  {
+    "id": 1368988490,
+    "name": "RLT",
+    "full_name": "lucidrains/RLT",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton ",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "recurrence",
+      "transformers",
+      "yoco"
+    ],
+    "html_url": "https://github.com/lucidrains/RLT",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T23:00:33Z",
+    "updated_at": "2026-09-14T01:56:08Z",
+    "pushed_at": "2026-09-14T01:54:43Z"
+  },
+  {
+    "id": 1363808275,
+    "name": "genpark-l2-gradient-clipping-norm-skill",
+    "full_name": "alphaparkinc/genpark-l2-gradient-clipping-norm-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Global L2 norm adaptive gradient clipping engine to mitigate exploding gradients during deep neural network training.",
+    "topics": [
+      "agentic-ai",
+      "deep-learning",
+      "exploding-gradients",
+      "genpark-skill",
+      "gradient-clipping",
+      "l2-norm",
+      "training-stability"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-l2-gradient-clipping-norm-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:14:43Z",
+    "updated_at": "2026-09-10T09:16:41Z",
+    "pushed_at": "2026-09-10T09:14:57Z"
+  },
+  {
+    "id": 1363809327,
+    "name": "genpark-lookahead-k-step-optimizer-skill",
+    "full_name": "alphaparkinc/genpark-lookahead-k-step-optimizer-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Lookahead optimizer wrapper stabilizing optimization trajectories by interpolating fast and slow weights every k steps.",
+    "topics": [
+      "agentic-ai",
+      "deep-learning",
+      "genpark-skill",
+      "lookahead",
+      "loss-landscape",
+      "optimizer",
+      "stability"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-lookahead-k-step-optimizer-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:15:26Z",
+    "updated_at": "2026-09-10T09:16:29Z",
+    "pushed_at": "2026-09-10T09:15:41Z"
+  },
+  {
+    "id": 1363806418,
+    "name": "genpark-adamw-decoupled-weight-decay-skill",
+    "full_name": "alphaparkinc/genpark-adamw-decoupled-weight-decay-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "AdamW optimizer engine decoupling L2 weight decay regularization from adaptive gradient first and second moments.",
+    "topics": [
+      "adamw",
+      "agentic-ai",
+      "deep-learning",
+      "genpark-skill",
+      "gradient-descent",
+      "optimizer",
+      "weight-decay"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-adamw-decoupled-weight-decay-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:13:22Z",
+    "updated_at": "2026-09-10T09:17:47Z",
+    "pushed_at": "2026-09-10T09:17:40Z"
+  },
+  {
+    "id": 1363807768,
+    "name": "genpark-sgdr-cosine-annealing-restarts-skill",
+    "full_name": "Alpha-Park/genpark-sgdr-cosine-annealing-restarts-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "SGDR: Stochastic Gradient Descent with Warm Restarts and Cosine Annealing learning rate schedule engine.",
+    "topics": [
+      "agentic-ai",
+      "cosine-annealing",
+      "deep-learning",
+      "genpark-skill",
+      "learning-rate-schedule",
+      "sgdr",
+      "warm-restarts"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-sgdr-cosine-annealing-restarts-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:14:23Z",
+    "updated_at": "2026-09-10T09:15:05Z",
+    "pushed_at": "2026-09-10T09:14:38Z"
+  },
+  {
+    "id": 1363810804,
+    "name": "genpark-lion-evolved-sign-momentum-skill",
+    "full_name": "Alpha-Park/genpark-lion-evolved-sign-momentum-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Lion (EvoLved Sign Momentum) optimizer utilizing sign operations for memory-efficient uniform gradient updates.",
+    "topics": [
+      "agentic-ai",
+      "deep-learning",
+      "genpark-skill",
+      "gradient-descent",
+      "lion-optimizer",
+      "memory-efficient",
+      "sign-momentum"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-lion-evolved-sign-momentum-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:16:28Z",
+    "updated_at": "2026-09-10T09:18:25Z",
+    "pushed_at": "2026-09-10T09:16:43Z"
+  },
+  {
+    "id": 1368133749,
+    "name": "computer-vision-image-processing",
+    "full_name": "arielshakaramiro/computer-vision-image-processing",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Hands-on Computer Vision & Image Processing with OpenCV — from digital image fundamentals to a deployed FastAPI service (Colab + ngrok)",
+    "topics": [
+      "api",
+      "computer-vision",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "fastapi",
+      "google-colab",
+      "image-processing",
+      "machine-learning",
+      "ngrok",
+      "opencv",
+      "python"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/computer-vision-image-processing",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T07:02:27Z",
+    "updated_at": "2026-09-13T20:20:43Z",
+    "pushed_at": "2026-09-13T16:32:49Z"
+  },
+  {
+    "id": 1366399543,
+    "name": "transformer-self-attention-intent-classifier",
+    "full_name": "arielshakaramiro/transformer-self-attention-intent-classifier",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Transformer Encoder for Indonesian intent classification — implementing Positional Encoding & Multi-Head Self-Attention from scratch, compared against fine-tuned BERT via 5-fold cross-validation. Includes overfitting investigation, early stopping, and FastAPI serving.",
+    "topics": [
+      "bert",
+      "cross-validation",
+      "deep-learning",
+      "fastapi",
+      "indonesian-nlp",
+      "intent-classification",
+      "nlp",
+      "overfitting",
+      "pytorch",
+      "self-attention",
+      "transfer-learning",
+      "transformers"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/transformer-self-attention-intent-classifier",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T15:58:45Z",
+    "updated_at": "2026-09-13T07:17:00Z",
+    "pushed_at": "2026-09-12T13:58:54Z"
+  },
+  {
+    "id": 1363001950,
+    "name": "quasimetric-attention",
+    "full_name": "lucidrains/quasimetric-attention",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of a transformer whose attention operates in quasimetric space",
+    "topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning",
+      "quasimetric-space"
+    ],
+    "html_url": "https://github.com/lucidrains/quasimetric-attention",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T17:21:27Z",
+    "updated_at": "2026-09-11T13:12:20Z",
+    "pushed_at": "2026-09-11T13:12:16Z"
+  },
+  {
+    "id": 1361825126,
+    "name": "CuQwen",
+    "full_name": "talhatahir-10xe/CuQwen",
+    "owner": {
+      "login": "talhatahir-10xe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77788288?v=4"
+    },
+    "description": "High-performance CUDA inference engine for Qwen models, written from scratch in C++/CUDA",
+    "topics": [
+      "cplusplus",
+      "cuda",
+      "cuda-kernels",
+      "cuda-programming",
+      "deep-learning",
+      "fp16-optimization",
+      "gpu-acceleration",
+      "hpc",
+      "llm",
+      "llm-inference",
+      "nvidia",
+      "nvidia-gpu",
+      "qwen",
+      "qwen2-5",
+      "transformers"
+    ],
+    "html_url": "https://github.com/talhatahir-10xe/CuQwen",
+    "stargazers_count": 4,
+    "language": "Cuda",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T19:32:20Z",
+    "updated_at": "2026-09-13T13:30:03Z",
+    "pushed_at": "2026-09-13T12:55:44Z"
+  },
+  {
+    "id": 1368157268,
+    "name": "flowers102-efficientnet-classifier",
+    "full_name": "arielshakaramiro/flowers102-efficientnet-classifier",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Transfer-learning image classifier for the Oxford Flowers 102 dataset using EfficientNet-B1 in PyTorch, with a GPU-verified training notebook and FastAPI serving.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "efficientnet",
+      "fastapi",
+      "image-classification",
+      "oxford-flowers-102",
+      "pytorch",
+      "transfer-learning"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/flowers102-efficientnet-classifier",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T07:34:29Z",
+    "updated_at": "2026-09-14T01:17:41Z",
+    "pushed_at": "2026-09-14T00:41:52Z"
+  },
+  {
+    "id": 1360134515,
+    "name": "sentiment-analysis-lstm-glove",
+    "full_name": "arielshakaramiro/sentiment-analysis-lstm-glove",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Sentiment analysis on IMDB reviews using pretrained GloVe embeddings + Bidirectional LSTM in PyTorch (87.75% test accuracy). Includes a FastAPI + ngrok notebook to deploy the trained model as a REST API.",
+    "topics": [
+      "deep-learning",
+      "fastapi",
+      "glove",
+      "lstm",
+      "machine-learning",
+      "nlp",
+      "python",
+      "pytorch",
+      "sentiment-analysis",
+      "word-embeddings"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/sentiment-analysis-lstm-glove",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T11:20:33Z",
+    "updated_at": "2026-09-12T13:58:48Z",
+    "pushed_at": "2026-09-12T13:58:45Z"
+  }
+]

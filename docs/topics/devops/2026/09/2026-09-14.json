@@ -1,0 +1,589 @@
+[
+  {
+    "id": 1361497109,
+    "name": "catalog",
+    "full_name": "fossaryhq/catalog",
+    "owner": {
+      "login": "fossaryhq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324084289?v=4"
+    },
+    "description": "Public catalog of self-hosted applications with reviewed Docker Compose recipes",
+    "topics": [
+      "catalog",
+      "deployment",
+      "devops",
+      "docker",
+      "docker-compose",
+      "homelab",
+      "open-source",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/fossaryhq/catalog",
+    "stargazers_count": 89,
+    "language": "Shell",
+    "forks_count": 14,
+    "open_issues_count": 1,
+    "created_at": "2026-09-08T14:30:51Z",
+    "updated_at": "2026-09-12T02:25:00Z",
+    "pushed_at": "2026-09-12T02:24:58Z"
+  },
+  {
+    "id": 1365236132,
+    "name": "rolle",
+    "full_name": "nateships/rolle",
+    "owner": {
+      "login": "nateships",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72530590?v=4"
+    },
+    "description": "Assume any role, any cloud. Short-lived AWS, Azure, and Google Cloud credentials for your tools.",
+    "topics": [
+      "assume-role",
+      "aws",
+      "aws-sso",
+      "azure",
+      "cli",
+      "cloud",
+      "credentials",
+      "desktop-app",
+      "developer-tools",
+      "devops",
+      "gcp",
+      "go",
+      "golang",
+      "google-cloud",
+      "iam",
+      "identity-center",
+      "react",
+      "security",
+      "sso",
+      "wails"
+    ],
+    "html_url": "https://github.com/nateships/rolle",
+    "stargazers_count": 12,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-11T03:02:00Z",
+    "updated_at": "2026-09-13T18:56:24Z",
+    "pushed_at": "2026-09-13T18:56:28Z"
+  },
+  {
+    "id": 1364644814,
+    "name": "DevOps",
+    "full_name": "Codeprojectingfuture/DevOps",
+    "owner": {
+      "login": "Codeprojectingfuture",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324982484?v=4"
+    },
+    "description": "CI/CD workflow for a Java Spring Boot application with automated testing, code quality analysis, containerization, and deployment automation.",
+    "topics": [
+      "cicd",
+      "devops",
+      "docker",
+      "jenkins"
+    ],
+    "html_url": "https://github.com/Codeprojectingfuture/DevOps",
+    "stargazers_count": 10,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T17:30:15Z",
+    "updated_at": "2026-09-10T18:07:11Z",
+    "pushed_at": "2026-09-10T17:31:14Z"
+  },
+  {
+    "id": 1366880579,
+    "name": "pg-circuit",
+    "full_name": "PG-Circuit/pg-circuit",
+    "owner": {
+      "login": "PG-Circuit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328114643?v=4"
+    },
+    "description": "Circuit breaker for production PostgreSQL. Native extension that can ALLOW, WARN, or BLOCK dangerous SQL based on live database state. Apache 2.0.",
+    "topics": [
+      "apache2",
+      "c",
+      "circuit-breaker",
+      "database-safety",
+      "database-security",
+      "dba",
+      "devops",
+      "observability",
+      "open-source",
+      "postgres",
+      "postgresql",
+      "postgresql-extension",
+      "production",
+      "query-firewall",
+      "runtime-protection",
+      "sql",
+      "sql-guardrails",
+      "sre"
+    ],
+    "html_url": "https://github.com/PG-Circuit/pg-circuit",
+    "stargazers_count": 10,
+    "language": "C",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T02:46:09Z",
+    "updated_at": "2026-09-13T11:28:36Z",
+    "pushed_at": "2026-09-12T19:40:21Z"
+  },
+  {
+    "id": 1362681271,
+    "name": "deploy-pulse",
+    "full_name": "knownasrazi/deploy-pulse",
+    "owner": {
+      "login": "knownasrazi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175929790?v=4"
+    },
+    "description": "Deployment pulse dashboard - mock status, logs, and health for your stack.",
+    "topics": [
+      "dashboard",
+      "deploy",
+      "devops",
+      "pulse",
+      "status"
+    ],
+    "html_url": "https://github.com/knownasrazi/deploy-pulse",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T12:56:27Z",
+    "updated_at": "2026-09-13T07:58:54Z",
+    "pushed_at": "2026-09-10T06:47:18Z"
+  },
+  {
+    "id": 1362216518,
+    "name": "nextship",
+    "full_name": "gowtham472/nextship",
+    "owner": {
+      "login": "gowtham472",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124136120?v=4"
+    },
+    "description": "Deploy Next.js to your own DigitalOcean account. No Dockerfile, no config edits, no infrastructure code.",
+    "topics": [
+      "cli",
+      "deployment",
+      "devops",
+      "digitalocean",
+      "docker",
+      "nextjs",
+      "nextjs-adapter",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/gowtham472/nextship",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T04:55:04Z",
+    "updated_at": "2026-09-13T14:49:36Z",
+    "pushed_at": "2026-09-13T14:49:32Z"
+  },
+  {
+    "id": 1360604272,
+    "name": "docker-stats-wrapper",
+    "full_name": "p3rception/docker-stats-wrapper",
+    "owner": {
+      "login": "p3rception",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45295394?v=4"
+    },
+    "description": "A nicer docker stats: inline, colored, sortable, filterable - zero dependencies",
+    "topics": [
+      "cli",
+      "devops",
+      "docker",
+      "docker-stats",
+      "monitoring",
+      "tui"
+    ],
+    "html_url": "https://github.com/p3rception/docker-stats-wrapper",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T19:39:18Z",
+    "updated_at": "2026-09-09T12:39:08Z",
+    "pushed_at": "2026-09-09T12:19:20Z"
+  },
+  {
+    "id": 1362314893,
+    "name": "deploygo",
+    "full_name": "YongHangPu/deploygo",
+    "owner": {
+      "login": "YongHangPu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33919488?v=4"
+    },
+    "description": "一套轻量、可落地的零停机发布方案。覆盖了构建产物整理、Nginx 缓存策略、内置发布流程，以及开箱即用的前端版本更新提示组件。核心策略不绑定框架，Vue / React / Angular 等所有项目均可适用。",
+    "topics": [
+      "deployment",
+      "deployment-tools",
+      "devops",
+      "devtools",
+      "nginx",
+      "release-management",
+      "rust",
+      "spa",
+      "ssh",
+      "static-site",
+      "tauri",
+      "typescript",
+      "update-notification",
+      "vue3"
+    ],
+    "html_url": "https://github.com/YongHangPu/deploygo",
+    "stargazers_count": 5,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-09T06:51:25Z",
+    "updated_at": "2026-09-13T16:09:48Z",
+    "pushed_at": "2026-09-13T16:09:45Z"
+  },
+  {
+    "id": 1360457279,
+    "name": "polygon-liquidation-bot-alpha-hfj0",
+    "full_name": "auwallpatil/polygon-liquidation-bot-alpha-hfj0",
+    "owner": {
+      "login": "auwallpatil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390021?v=4"
+    },
+    "description": "Production-ready scaffold with CI hooks.",
+    "topics": [
+      "automation",
+      "devops",
+      "liquidation",
+      "open-source",
+      "polygon"
+    ],
+    "html_url": "https://github.com/auwallpatil/polygon-liquidation-bot-alpha-hfj0",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T16:43:15Z",
+    "updated_at": "2026-09-07T19:50:52Z",
+    "pushed_at": "2026-09-07T16:43:43Z"
+  },
+  {
+    "id": 1360457248,
+    "name": "polygon-indexer-pro-s8f8",
+    "full_name": "pezguiddgooms/polygon-indexer-pro-s8f8",
+    "owner": {
+      "login": "pezguiddgooms",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390171?v=4"
+    },
+    "description": "Experimental workspace for distributed workflows.",
+    "topics": [
+      "automation",
+      "devops",
+      "indexer",
+      "open-source",
+      "polygon"
+    ],
+    "html_url": "https://github.com/pezguiddgooms/polygon-indexer-pro-s8f8",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-09-07T16:43:13Z",
+    "updated_at": "2026-09-07T21:57:08Z",
+    "pushed_at": "2026-09-07T16:44:32Z"
+  },
+  {
+    "id": 1360417330,
+    "name": "target-python-bridge-8q8rx9",
+    "full_name": "hirenaqg/target-python-bridge-8q8rx9",
+    "owner": {
+      "login": "hirenaqg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390150?v=4"
+    },
+    "description": "Backfill slot for keyword: python-bridge",
+    "topics": [
+      "automation",
+      "devops",
+      "open-source",
+      "python-bridge",
+      "utilities"
+    ],
+    "html_url": "https://github.com/hirenaqg/target-python-bridge-8q8rx9",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-07T16:00:13Z",
+    "updated_at": "2026-09-07T16:41:43Z",
+    "pushed_at": "2026-09-07T16:00:42Z"
+  },
+  {
+    "id": 1361811025,
+    "name": "daily-engineering-log",
+    "full_name": "BerattCelikk/daily-engineering-log",
+    "owner": {
+      "login": "BerattCelikk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138959468?v=4"
+    },
+    "description": "⚡ Production-grade system architectures, native Mermaid diagrams, and clean reference implementations across Cloud, DevOps, Go, Python, and Linux systems.",
+    "topics": [
+      "architecture",
+      "awesome-list",
+      "cloud-native",
+      "devops",
+      "docker",
+      "golang",
+      "kubernetes",
+      "postgresql",
+      "python",
+      "reference-architecture",
+      "system-design",
+      "terraform"
+    ],
+    "html_url": "https://github.com/BerattCelikk/daily-engineering-log",
+    "stargazers_count": 2,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 22,
+    "created_at": "2026-09-08T19:17:48Z",
+    "updated_at": "2026-09-13T19:59:19Z",
+    "pushed_at": "2026-09-13T19:59:18Z"
+  },
+  {
+    "id": 1361634690,
+    "name": "laravel-free-stack",
+    "full_name": "7wp81x/laravel-free-stack",
+    "owner": {
+      "login": "7wp81x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57308381?v=4"
+    },
+    "description": "Zero-cost Laravel deployment stack using Render, Supabase, and Docker.",
+    "topics": [
+      "cloudflare-r2",
+      "deployment",
+      "devops",
+      "docker",
+      "free-tier",
+      "laravel",
+      "laravel-deployment",
+      "nginx",
+      "php",
+      "php-docker",
+      "render",
+      "supabase",
+      "supervisor"
+    ],
+    "html_url": "https://github.com/7wp81x/laravel-free-stack",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T16:25:29Z",
+    "updated_at": "2026-09-13T04:10:19Z",
+    "pushed_at": "2026-09-08T16:29:25Z"
+  },
+  {
+    "id": 1361149475,
+    "name": "target-base-nft-minter-3rhtt4",
+    "full_name": "auwallpatil/target-base-nft-minter-3rhtt4",
+    "owner": {
+      "login": "auwallpatil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320390021?v=4"
+    },
+    "description": "Backfill slot for keyword: base-nft-minter",
+    "topics": [
+      "automation",
+      "base-nft-minter",
+      "devops",
+      "open-source",
+      "utilities"
+    ],
+    "html_url": "https://github.com/auwallpatil/target-base-nft-minter-3rhtt4",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-08T09:00:08Z",
+    "updated_at": "2026-09-08T09:38:19Z",
+    "pushed_at": "2026-09-08T09:00:28Z"
+  },
+  {
+    "id": 1364920284,
+    "name": "kuben",
+    "full_name": "Teamtem-dev/kuben",
+    "owner": {
+      "login": "Teamtem-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299533732?v=4"
+    },
+    "description": "The developer platform for Kubernetes. Deploy from Git or any container image, get isolated environments, automatic HTTPS, releases, previews and observability — while Kubernetes remains the source of truth. One lightweight Rust binary.",
+    "topics": [
+      "axum",
+      "cloud-native",
+      "developer-platform",
+      "devops",
+      "gitops",
+      "helm",
+      "heroku-alternative",
+      "kube-rs",
+      "kubernetes",
+      "kubernetes-operator",
+      "paas",
+      "platform-engineering",
+      "rust",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/Teamtem-dev/kuben",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-10T21:00:47Z",
+    "updated_at": "2026-09-14T00:23:25Z",
+    "pushed_at": "2026-09-14T00:38:31Z"
+  },
+  {
+    "id": 1363378773,
+    "name": "starfix",
+    "full_name": "MarcMao0819/starfix",
+    "owner": {
+      "login": "MarcMao0819",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269389239?v=4"
+    },
+    "description": "牵星 StarFix · 让一个长期在线的 AI 舰长指挥一支终端 AI 舰队：规程 / 监听 / 终端投递 / 任务激活器 / 上下文交接 / 方法论与战例 / 舰长 Benchmark / 轨迹编译。StarFix: a battle-tested playbook + scripts for one long-lived AI captain navigating a fleet of terminal AI workers by fixing on facts.",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "benchmark",
+      "claude-code",
+      "codex",
+      "devops",
+      "multi-agent",
+      "playbook"
+    ],
+    "html_url": "https://github.com/MarcMao0819/starfix",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T01:09:25Z",
+    "updated_at": "2026-09-12T02:00:45Z",
+    "pushed_at": "2026-09-12T02:00:41Z"
+  },
+  {
+    "id": 1363847787,
+    "name": "lab",
+    "full_name": "Mukesh-Pant/lab",
+    "owner": {
+      "login": "Mukesh-Pant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123819527?v=4"
+    },
+    "description": "Personal hands-on lab: Kubernetes, Docker, Linux, IaC, scripting, and cloud experiments. Ongoing reference repo — code first, notes as I go.",
+    "topics": [
+      "bicep",
+      "cka",
+      "cloud",
+      "devops",
+      "docker",
+      "kubernetes",
+      "learning-in-public",
+      "linux",
+      "terraform"
+    ],
+    "html_url": "https://github.com/Mukesh-Pant/lab",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:41:09Z",
+    "updated_at": "2026-09-10T10:24:06Z",
+    "pushed_at": "2026-09-10T10:18:40Z"
+  },
+  {
+    "id": 1365630982,
+    "name": "remnawave-updater",
+    "full_name": "bruhxax/remnawave-updater",
+    "owner": {
+      "login": "bruhxax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209713662?v=4"
+    },
+    "description": "A safe terminal-based updater for Remnawave Panel, Nodes and Subscription Page with backups, health checks and version tracking.",
+    "topics": [
+      "automation",
+      "cli",
+      "devops",
+      "docker",
+      "linux",
+      "python",
+      "remnawave",
+      "remnawave-node",
+      "remnawave-panel",
+      "remnawave-updater",
+      "self-hosted",
+      "terminal",
+      "updater",
+      "vpn",
+      "xray"
+    ],
+    "html_url": "https://github.com/bruhxax/remnawave-updater",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T08:12:11Z",
+    "updated_at": "2026-09-11T16:16:06Z",
+    "pushed_at": "2026-09-11T10:37:42Z"
+  },
+  {
+    "id": 1364813352,
+    "name": "h8ber-mate",
+    "full_name": "mainmain-rl/h8ber-mate",
+    "owner": {
+      "login": "mainmain-rl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43751519?v=4"
+    },
+    "description": "h8ber-mate (pronounced “hiber mate”) is a Kubernetes-native application that automatically scales down your deployments during off-hours and scales them back up when needed. Save resources, reduce costs, and optimize your cluster utilization without manual intervention.",
+    "topics": [
+      "cost-optimization",
+      "devops",
+      "finops",
+      "hibernate",
+      "kubernetes",
+      "scale-to-zero"
+    ],
+    "html_url": "https://github.com/mainmain-rl/h8ber-mate",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T19:29:13Z",
+    "updated_at": "2026-09-10T21:32:25Z",
+    "pushed_at": "2026-09-10T20:37:58Z"
+  },
+  {
+    "id": 1366899423,
+    "name": "Ansible-Windows-Patch",
+    "full_name": "FelipeFranca07/Ansible-Windows-Patch",
+    "owner": {
+      "login": "FelipeFranca07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324289856?v=4"
+    },
+    "description": "Windows Update mensal via Ansible/WinRM orquestrado a partir de um agente Linux - sem WSUS/SCCM",
+    "topics": [
+      "ansible",
+      "automation",
+      "azure-pipelines",
+      "devops",
+      "patch-management",
+      "windows",
+      "winrm"
+    ],
+    "html_url": "https://github.com/FelipeFranca07/Ansible-Windows-Patch",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T03:18:09Z",
+    "updated_at": "2026-09-14T01:01:56Z",
+    "pushed_at": "2026-09-14T01:01:53Z"
+  }
+]
