@@ -1,0 +1,617 @@
+[
+  {
+    "id": 1366184741,
+    "name": "SQL_Engine",
+    "full_name": "harshitthek/SQL_Engine",
+    "owner": {
+      "login": "harshitthek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164781433?v=4"
+    },
+    "description": "Production Text-to-SQL engine fine-tuned on Spider with Qwen2.5-Coder-1.5B (QLoRA), multi-database execution, FastAPI serving, and Gradio workstation UI.",
+    "topics": [
+      "database",
+      "fastapi",
+      "gradio",
+      "postgresql",
+      "pytorch",
+      "qlora",
+      "qwen2-5",
+      "spider-benchmark",
+      "sqlite",
+      "text-to-sql"
+    ],
+    "html_url": "https://github.com/harshitthek/SQL_Engine",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T13:35:43Z",
+    "updated_at": "2026-09-13T19:50:38Z",
+    "pushed_at": "2026-09-13T19:50:34Z"
+  },
+  {
+    "id": 1366316907,
+    "name": "kvllay",
+    "full_name": "thekeny/kvllay",
+    "owner": {
+      "login": "thekeny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100033213?v=4"
+    },
+    "description": "In-memory key-value store",
+    "topics": [
+      "cache",
+      "caching",
+      "cpp",
+      "database",
+      "in-memory",
+      "key-value",
+      "storage"
+    ],
+    "html_url": "https://github.com/thekeny/kvllay",
+    "stargazers_count": 2,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T14:49:07Z",
+    "updated_at": "2026-09-14T19:57:05Z",
+    "pushed_at": "2026-09-16T20:29:01Z"
+  },
+  {
+    "id": 1365650691,
+    "name": "rowset-studio",
+    "full_name": "rowsetdev/rowset-studio",
+    "owner": {
+      "login": "rowsetdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329526187?v=4"
+    },
+    "description": "A fast, local-first database IDE for querying, exploring schemas, editing data, comparing databases, and managing safer SQL workflows across PostgreSQL, MySQL, SQL Server, MongoDB, Redis, and more.",
+    "topics": [
+      "cassandra",
+      "clickhouse",
+      "database",
+      "database-client",
+      "database-management",
+      "desktop-app",
+      "developer-tools",
+      "duckdb",
+      "elasticsearch",
+      "golang",
+      "mongodb",
+      "mysql",
+      "postgresql",
+      "react",
+      "redis",
+      "self-hosted",
+      "sql",
+      "sql-editor",
+      "sql-server",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/rowsetdev/rowset-studio",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T08:24:45Z",
+    "updated_at": "2026-09-16T08:24:10Z",
+    "pushed_at": "2026-09-15T21:45:59Z"
+  },
+  {
+    "id": 1365386468,
+    "name": "beagle4j",
+    "full_name": "beagle4j/beagle4j",
+    "owner": {
+      "login": "beagle4j",
+      "avatar_url": "https://avatars.githubusercontent.com/u/327798504?v=4"
+    },
+    "description": "Finds the database bugs that compile, pass your tests, and fall over in production: N+1 queries, repeated reads, and transactions you thought you had.",
+    "topics": [
+      "database",
+      "developer-tools",
+      "hibernate",
+      "java",
+      "jdbc",
+      "jpa",
+      "mybatis",
+      "n-plus-one",
+      "observability",
+      "orm",
+      "performance",
+      "spring-boot",
+      "static-analysis"
+    ],
+    "html_url": "https://github.com/beagle4j/beagle4j",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T05:26:44Z",
+    "updated_at": "2026-09-14T07:39:52Z",
+    "pushed_at": "2026-09-11T10:21:50Z"
+  },
+  {
+    "id": 1365731057,
+    "name": "smartstock-inventory-management",
+    "full_name": "markbryson/smartstock-inventory-management",
+    "owner": {
+      "login": "markbryson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285007539?v=4"
+    },
+    "description": "Python and SQLite inventory management system for products, sales, users, and reporting.",
+    "topics": [
+      "crud",
+      "database",
+      "datamanagement",
+      "desktop-application",
+      "inventory-management",
+      "inventory-system",
+      "python",
+      "software-engineering",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/markbryson/smartstock-inventory-management",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T09:12:07Z",
+    "updated_at": "2026-09-11T21:39:30Z",
+    "pushed_at": "2026-09-11T09:55:29Z"
+  },
+  {
+    "id": 1365716607,
+    "name": "document_AI_pipelines",
+    "full_name": "DrAdrianDC/document_AI_pipelines",
+    "owner": {
+      "login": "DrAdrianDC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157868503?v=4"
+    },
+    "description": "Document AI pipelines that turn messy PDFs and HTML into contract-tested JSONL corpora. First two projects: FDA oncology approvals (318) and pharmacogenomic biomarker labels (597), with a scored BM25 baseline and byte-identical CI rebuilds.",
+    "topics": [
+      "data-engineering",
+      "data-pipelines",
+      "database",
+      "document-ai",
+      "fda",
+      "healthcare-ai",
+      "information-retrieval",
+      "nlp",
+      "python"
+    ],
+    "html_url": "https://github.com/DrAdrianDC/document_AI_pipelines",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T09:03:18Z",
+    "updated_at": "2026-09-11T09:34:50Z",
+    "pushed_at": "2026-09-11T09:07:06Z"
+  },
+  {
+    "id": 1368540478,
+    "name": "titan",
+    "full_name": "rbilleci/titan",
+    "owner": {
+      "login": "rbilleci",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7469913?v=4"
+    },
+    "description": "Compile supported Java and JDBC routines into PostgreSQL/MySQL stored procedures. Generate reviewable SQL and migration packages with Gradle.",
+    "topics": [
+      "database",
+      "gradle",
+      "java",
+      "jdbc",
+      "mysql",
+      "postgresql",
+      "sql",
+      "stored-procedures",
+      "transpiler"
+    ],
+    "html_url": "https://github.com/rbilleci/titan",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T15:45:47Z",
+    "updated_at": "2026-09-14T19:23:37Z",
+    "pushed_at": "2026-09-14T18:12:21Z"
+  },
+  {
+    "id": 1364066996,
+    "name": "Credit-Card-Fraud-Detection-Transaction-Risk-Analysis",
+    "full_name": "mdshafi-786/Credit-Card-Fraud-Detection-Transaction-Risk-Analysis",
+    "owner": {
+      "login": "mdshafi-786",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185689749?v=4"
+    },
+    "description": "Real-time credit card fraud detection & transaction risk analysis using Random Forest + XGBoost with a Streamlit dashboard, Flask API, and automated alert system.",
+    "topics": [
+      "creditcardfrauddetection",
+      "dashboard",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "flask",
+      "fraud-detection",
+      "machine-learning",
+      "plotly",
+      "python",
+      "random-forest",
+      "risk-analysis",
+      "sckit-learn",
+      "streamlit",
+      "xgboost"
+    ],
+    "html_url": "https://github.com/mdshafi-786/Credit-Card-Fraud-Detection-Transaction-Risk-Analysis",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T12:06:28Z",
+    "updated_at": "2026-09-15T14:09:39Z",
+    "pushed_at": "2026-09-15T14:09:35Z"
+  },
+  {
+    "id": 1370829986,
+    "name": "powerdesigner-mcp",
+    "full_name": "NovolineGast/powerdesigner-mcp",
+    "owner": {
+      "login": "NovolineGast",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67531093?v=4"
+    },
+    "description": "MCP server that lets AI agents operate PowerDesigner 16.5 via COM Automation - 55+ tools, dry-run, atomic patches, native DDL, CDM/LDM/PDM pipeline",
+    "topics": [
+      "ai-tools",
+      "cdm",
+      "claude",
+      "cursor",
+      "database",
+      "database-design",
+      "ddl",
+      "mcp",
+      "modeling",
+      "pdm",
+      "powerdesigner"
+    ],
+    "html_url": "https://github.com/NovolineGast/powerdesigner-mcp",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T03:30:26Z",
+    "updated_at": "2026-09-16T21:30:02Z",
+    "pushed_at": "2026-09-16T21:29:58Z"
+  },
+  {
+    "id": 1363531588,
+    "name": "RadixDB",
+    "full_name": "IllayDevel/RadixDB",
+    "owner": {
+      "login": "IllayDevel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29147553?v=4"
+    },
+    "description": "SQL database written in Rust with MVCC transactions, compressed hybrid row/column storage, PL/SQL, ACL, ORM, and native extensions.",
+    "topics": [
+      "analytics",
+      "columnar-storage",
+      "database",
+      "database-engine",
+      "embedded-database",
+      "hybrid-storage",
+      "mvcc",
+      "native-extensions",
+      "olap",
+      "oltp",
+      "orm",
+      "plsql",
+      "relational-database",
+      "rust",
+      "sql",
+      "transactional-database"
+    ],
+    "html_url": "https://github.com/IllayDevel/RadixDB",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T04:51:10Z",
+    "updated_at": "2026-09-16T03:24:12Z",
+    "pushed_at": "2026-09-16T03:24:08Z"
+  },
+  {
+    "id": 1370459063,
+    "name": "retuple",
+    "full_name": "humaid0x/retuple",
+    "owner": {
+      "login": "humaid0x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52884469?v=4"
+    },
+    "description": "A minimal, local-first desktop database client",
+    "topics": [
+      "database",
+      "databaseclient",
+      "dbclient",
+      "nosql",
+      "sql"
+    ],
+    "html_url": "https://github.com/humaid0x/retuple",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T19:33:27Z",
+    "updated_at": "2026-09-15T06:03:32Z",
+    "pushed_at": "2026-09-14T19:54:14Z"
+  },
+  {
+    "id": 1365210167,
+    "name": "Supply-Chain-And-Logistics-Analytics",
+    "full_name": "subachansubedi/Supply-Chain-And-Logistics-Analytics",
+    "owner": {
+      "login": "subachansubedi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252086904?v=4"
+    },
+    "description": "Samsung Supply Chain & Logistics Analytics dashboard built with Power BI, SQL, DAX, Power Query, and a star-schema data model. Analyzes procurement, production, inventory, suppliers, shipments, sales, profitability, and operational risks using validated KPIs and business-focused insights.",
+    "topics": [
+      "business-analytics",
+      "business-intelligence",
+      "dashboard",
+      "dashboard-design",
+      "data-analysis",
+      "data-analytics",
+      "data-engineering",
+      "data-science",
+      "data-visualization",
+      "database",
+      "dataset",
+      "excel",
+      "powerbi",
+      "sql"
+    ],
+    "html_url": "https://github.com/subachansubedi/Supply-Chain-And-Logistics-Analytics",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T02:23:53Z",
+    "updated_at": "2026-09-16T21:33:25Z",
+    "pushed_at": "2026-09-16T21:33:22Z"
+  },
+  {
+    "id": 1363931875,
+    "name": "mariadb-windows-builds",
+    "full_name": "markusfoo/mariadb-windows-builds",
+    "owner": {
+      "login": "markusfoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189266945?v=4"
+    },
+    "description": "Always-fresh CI builds of MariaDB for Windows x64 - AVX2 / AVX / generic (SSE2) portable ZIPs. Version-agnostic: auto-detects and builds every new upstream release, rolling previews included.",
+    "topics": [
+      "avx",
+      "avx2",
+      "builds",
+      "cmake",
+      "continuous-integration",
+      "database",
+      "github-actions",
+      "mariadb",
+      "mariadb-server",
+      "sql",
+      "windows",
+      "x64"
+    ],
+    "html_url": "https://github.com/markusfoo/mariadb-windows-builds",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-10T10:36:35Z",
+    "updated_at": "2026-09-10T15:31:46Z",
+    "pushed_at": "2026-09-16T11:44:22Z"
+  },
+  {
+    "id": 1363791649,
+    "name": "ecommerce-database",
+    "full_name": "abdallasaidbigpartner-web/ecommerce-database",
+    "owner": {
+      "login": "abdallasaidbigpartner-web",
+      "avatar_url": "https://avatars.githubusercontent.com/u/258640985?v=4"
+    },
+    "description": "Multi-table PostgreSQL database with triggers, constraints, and views - demonstrating defense-in-depth data integrity, verified with automated tests.",
+    "topics": [
+      "database",
+      "database-design",
+      "postgresql",
+      "sql",
+      "triggers"
+    ],
+    "html_url": "https://github.com/abdallasaidbigpartner-web/ecommerce-database",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:03:08Z",
+    "updated_at": "2026-09-15T01:45:18Z",
+    "pushed_at": "2026-09-15T01:45:15Z"
+  },
+  {
+    "id": 1365796351,
+    "name": "contextGate",
+    "full_name": "SamuelSupe/contextGate",
+    "owner": {
+      "login": "SamuelSupe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193193778?v=4"
+    },
+    "description": "Semantic Data Gateway for AI Agents: databases and HTTP APIs, shared business ontologies, verified query templates, controlled MCP access and audit logs. Built in Go.",
+    "topics": [
+      "ai-agents",
+      "database",
+      "golang",
+      "mcp",
+      "mcp-server",
+      "oauth2",
+      "ontology",
+      "opentelemetry",
+      "read-only",
+      "self-hosted",
+      "semantic-layer"
+    ],
+    "html_url": "https://github.com/SamuelSupe/contextGate",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T09:52:06Z",
+    "updated_at": "2026-09-16T14:33:22Z",
+    "pushed_at": "2026-09-16T14:34:09Z"
+  },
+  {
+    "id": 1363657488,
+    "name": "cpp_db_server_tcp",
+    "full_name": "kuc-arc-f/cpp_db_server_tcp",
+    "owner": {
+      "login": "kuc-arc-f",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1024717?v=4"
+    },
+    "description": "C++ DB Server TCP , IN memory database SQLite",
+    "topics": [
+      "cplusplus",
+      "cpp",
+      "database",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/kuc-arc-f/cpp_db_server_tcp",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T07:07:06Z",
+    "updated_at": "2026-09-16T06:17:58Z",
+    "pushed_at": "2026-09-16T06:17:54Z"
+  },
+  {
+    "id": 1369638317,
+    "name": "setrixdb",
+    "full_name": "setrixdb/setrixdb",
+    "owner": {
+      "login": "setrixdb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329471185?v=4"
+    },
+    "description": "SetrixDB — exact set operations over uint64 IDs. In-memory, purely arithmetic Go engine with SIMD/AVX-512 and sharding/cluster; microsecond intersections, beside your database. Open source (Apache-2.0).",
+    "topics": [
+      "avx512",
+      "bitmap",
+      "bitset",
+      "data-structures",
+      "database",
+      "edge-computing",
+      "golang",
+      "high-performance",
+      "in-memory",
+      "mphf",
+      "perfect-hash",
+      "set-intersection",
+      "set-operations",
+      "simd"
+    ],
+    "html_url": "https://github.com/setrixdb/setrixdb",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-09-14T09:15:00Z",
+    "updated_at": "2026-09-16T07:57:43Z",
+    "pushed_at": "2026-09-15T23:36:10Z"
+  },
+  {
+    "id": 1368459673,
+    "name": "offline-first-sync-engine",
+    "full_name": "FakhareArjumand/offline-first-sync-engine",
+    "owner": {
+      "login": "FakhareArjumand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248577812?v=4"
+    },
+    "description": "A bidirectional sync engine for offline-first applications. Keeps local SQLite databases in sync with remote PostgreSQL backends using timestamp conflict resolution.",
+    "topics": [
+      "bidirectional-sync",
+      "dart",
+      "database",
+      "flutter-desktop",
+      "offline-first",
+      "postgresql",
+      "python-backend",
+      "sqlite-sync",
+      "system-architecture"
+    ],
+    "html_url": "https://github.com/FakhareArjumand/offline-first-sync-engine",
+    "stargazers_count": 1,
+    "language": "Makefile",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T14:24:23Z",
+    "updated_at": "2026-09-14T07:34:47Z",
+    "pushed_at": "2026-09-14T07:34:11Z"
+  },
+  {
+    "id": 1368386236,
+    "name": "ChironDB",
+    "full_name": "Gaussian-id/ChironDB",
+    "owner": {
+      "login": "Gaussian-id",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271668633?v=4"
+    },
+    "description": "ChironDB is a Rust-native vector database for AI and RAG applications, combining dense, sparse, and hybrid search with recall SLO monitoring. Supports a pgvector-compatible SQL subset, REST, gRPC, and ChironWire in a single binary.",
+    "topics": [
+      "ai",
+      "database",
+      "docker",
+      "graph-database",
+      "multimodal",
+      "rag",
+      "rag-chatbot",
+      "rust",
+      "self-hosted",
+      "vector-database"
+    ],
+    "html_url": "https://github.com/Gaussian-id/ChironDB",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T12:55:52Z",
+    "updated_at": "2026-09-14T16:08:38Z",
+    "pushed_at": "2026-09-13T13:10:27Z"
+  },
+  {
+    "id": 1372312725,
+    "name": "varve",
+    "full_name": "monotykamary/varve",
+    "owner": {
+      "login": "monotykamary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1130103?v=4"
+    },
+    "description": "Time settles into layers. An experimental Rust time-series database with DuckDB SQL, tiered Parquet storage, async S3 WAL/checkpoints, continuous numeric aggregates, and lifecycle scheduling.",
+    "topics": [
+      "apache-arrow",
+      "continuous-aggregates",
+      "data-retention",
+      "database",
+      "duckdb",
+      "local-first",
+      "parquet",
+      "rust",
+      "s3",
+      "time-series",
+      "wal"
+    ],
+    "html_url": "https://github.com/monotykamary/varve",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T00:34:08Z",
+    "updated_at": "2026-09-17T01:35:32Z",
+    "pushed_at": "2026-09-16T18:09:11Z"
+  }
+]

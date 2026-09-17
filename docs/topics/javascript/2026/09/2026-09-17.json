@@ -1,0 +1,592 @@
+[
+  {
+    "id": 1365843029,
+    "name": "image-gen-open-source",
+    "full_name": "koppkvn/image-gen-open-source",
+    "owner": {
+      "login": "koppkvn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187021493?v=4"
+    },
+    "description": "A local image workspace for generating, editing, and comparing AI images with Codex, OpenAI, and Google. Bring your own accounts and API keys.",
+    "topics": [
+      "codex",
+      "gemini",
+      "image-generation",
+      "javascript",
+      "local-first",
+      "openai"
+    ],
+    "html_url": "https://github.com/koppkvn/image-gen-open-source",
+    "stargazers_count": 26,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T10:19:58Z",
+    "updated_at": "2026-09-12T22:29:52Z",
+    "pushed_at": "2026-09-11T10:24:20Z"
+  },
+  {
+    "id": 1365112780,
+    "name": "web-cli",
+    "full_name": "selenaking2025/web-cli",
+    "owner": {
+      "login": "selenaking2025",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256490061?v=4"
+    },
+    "description": "Local browser automation for AI assistants and scripts. Reuse your logged-in Chrome session and run ordinary tasks in the background.",
+    "topics": [
+      "ai-agents",
+      "browser-automation",
+      "chrome-extension",
+      "cli",
+      "javascript"
+    ],
+    "html_url": "https://github.com/selenaking2025/web-cli",
+    "stargazers_count": 22,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T00:33:22Z",
+    "updated_at": "2026-09-14T06:26:58Z",
+    "pushed_at": "2026-09-11T09:45:16Z"
+  },
+  {
+    "id": 1366128623,
+    "name": "strata",
+    "full_name": "m0m0x01d/strata",
+    "owner": {
+      "login": "m0m0x01d",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73800989?v=4"
+    },
+    "description": "See why a web vulnerability works, not just how to trigger it — a single-file, zero-dependency security lab that renders a vulnerable app as a 7-layer cross-section. 17 labs, attacker & defender modes, AI-authorable.",
+    "topics": [
+      "appsec",
+      "ctf",
+      "education",
+      "javascript",
+      "owasp",
+      "security",
+      "security-training",
+      "single-file",
+      "sql-injection",
+      "ssrf",
+      "vulnerable-app",
+      "web-security",
+      "xss",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/m0m0x01d/strata",
+    "stargazers_count": 21,
+    "language": "HTML",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T13:06:26Z",
+    "updated_at": "2026-09-16T08:58:27Z",
+    "pushed_at": "2026-09-12T05:21:37Z"
+  },
+  {
+    "id": 1367926694,
+    "name": "thank-you-for-the-fish",
+    "full_name": "AmethystineAlpaca/thank-you-for-the-fish",
+    "owner": {
+      "login": "AmethystineAlpaca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29018540?v=4"
+    },
+    "description": "🐟 A free, open-source idle fishing game for your Mac desktop. A tiny boat, automatic catches, 100 sea creatures and four traits. 小憩海湾：Mac 桌面放置钓鱼小游戏，上班摸鱼，真的有鱼。",
+    "topics": [
+      "cozy-game",
+      "desktop-game",
+      "fishing-game",
+      "idle-game",
+      "indie-game",
+      "javascript",
+      "js",
+      "macos",
+      "macos-app",
+      "singleplayer",
+      "slacking-off",
+      "slacking-off-time"
+    ],
+    "html_url": "https://github.com/AmethystineAlpaca/thank-you-for-the-fish",
+    "stargazers_count": 21,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T02:31:11Z",
+    "updated_at": "2026-09-16T06:10:00Z",
+    "pushed_at": "2026-09-15T16:44:52Z"
+  },
+  {
+    "id": 1363347612,
+    "name": "earth-moon-solar",
+    "full_name": "ethanplusai/earth-moon-solar",
+    "owner": {
+      "login": "ethanplusai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249879463?v=4"
+    },
+    "description": "Explore Earth, the Moon, and all eight planets in an interactive Three.js solar system with NASA imagery and JPL orbital data.",
+    "topics": [
+      "astronomy",
+      "earth",
+      "javascript",
+      "moon",
+      "nasa",
+      "solar-system",
+      "threejs",
+      "webgl"
+    ],
+    "html_url": "https://github.com/ethanplusai/earth-moon-solar",
+    "stargazers_count": 18,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T00:25:23Z",
+    "updated_at": "2026-09-13T10:20:25Z",
+    "pushed_at": "2026-09-10T00:25:30Z"
+  },
+  {
+    "id": 1367573330,
+    "name": "NetraUploader",
+    "full_name": "netrair/NetraUploader",
+    "owner": {
+      "login": "netrair",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314641490?v=4"
+    },
+    "description": "Telegram file uploader bot powered by Cloudflare Workers",
+    "topics": [
+      "cloudflare-workers",
+      "file-upload",
+      "javascript",
+      "telegram",
+      "telegrambot"
+    ],
+    "html_url": "https://github.com/netrair/NetraUploader",
+    "stargazers_count": 17,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T18:14:23Z",
+    "updated_at": "2026-09-16T15:12:59Z",
+    "pushed_at": "2026-09-15T04:57:25Z"
+  },
+  {
+    "id": 1365442989,
+    "name": "Naomi",
+    "full_name": "AuvroIslam/Naomi",
+    "owner": {
+      "login": "AuvroIslam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181924875?v=4"
+    },
+    "description": "A patient AI companion that helps your grandma navigate her computer, get things done, and stay connected. (Bangla support coming soon)",
+    "topics": [
+      "ai-agents",
+      "ai-assistants",
+      "computer-vision",
+      "desktop-app",
+      "electron",
+      "javascript",
+      "node-js",
+      "privacy",
+      "visual-guidance"
+    ],
+    "html_url": "https://github.com/AuvroIslam/Naomi",
+    "stargazers_count": 12,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-11T06:12:29Z",
+    "updated_at": "2026-09-14T18:56:19Z",
+    "pushed_at": "2026-09-13T15:00:42Z"
+  },
+  {
+    "id": 1366646102,
+    "name": "RibbonWeb",
+    "full_name": "wieslawsoltes/RibbonWeb",
+    "owner": {
+      "login": "wieslawsoltes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2297442?v=4"
+    },
+    "description": "Standalone ribbon Web Component with accessible controls, MVVM commands and bindings, RibbonX subset support, and Blazor integration.",
+    "topics": [
+      "accessibility",
+      "blazor",
+      "dotnet",
+      "javascript",
+      "mvvm",
+      "ribbon",
+      "ribbonx",
+      "toolbar",
+      "typescript",
+      "ui-components",
+      "web-components"
+    ],
+    "html_url": "https://github.com/wieslawsoltes/RibbonWeb",
+    "stargazers_count": 10,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T20:05:42Z",
+    "updated_at": "2026-09-15T14:02:07Z",
+    "pushed_at": "2026-09-14T12:32:58Z"
+  },
+  {
+    "id": 1364980989,
+    "name": "GreenShort",
+    "full_name": "quasvx/GreenShort",
+    "owner": {
+      "login": "quasvx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224169287?v=4"
+    },
+    "description": "Self-hosted URL shortener running entirely on Cloudflare's edge. Built with Pages, D1, Workers AI and Analytics Engine. Custom or AI-generated slugs, password protection, expiring links, link hubs with themes, multi-language UI and real-time click analytics. Zero servers, zero cost on the free tier, no external dependencies. MIT-NC licensed. 8424⬇️",
+    "topics": [
+      "ai-slug-generator",
+      "analytics-engine",
+      "captcha",
+      "cloudflare",
+      "cloudflare-d1",
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "edge-computing",
+      "html",
+      "javascript",
+      "link-in-bio",
+      "link-shortener",
+      "linktree-alternative",
+      "open-source",
+      "open-source-project",
+      "self-hosted",
+      "serverless",
+      "url-shortener",
+      "url-shortener-api",
+      "url-shorteners"
+    ],
+    "html_url": "https://github.com/quasvx/GreenShort",
+    "stargazers_count": 10,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T22:02:18Z",
+    "updated_at": "2026-09-16T23:32:22Z",
+    "pushed_at": "2026-09-16T21:34:27Z"
+  },
+  {
+    "id": 1364912036,
+    "name": "TreeDataGridWeb",
+    "full_name": "wieslawsoltes/TreeDataGridWeb",
+    "owner": {
+      "login": "wieslawsoltes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2297442?v=4"
+    },
+    "description": "Virtualized tree data grid for JavaScript and TypeScript, with a native Web Component, observable models, editing, and variable row heights.",
+    "topics": [
+      "data-binding",
+      "datagrid",
+      "dotnet",
+      "javascript",
+      "tree-grid",
+      "treedatagrid",
+      "typescript",
+      "ui-components",
+      "virtual-scrolling",
+      "web-components"
+    ],
+    "html_url": "https://github.com/wieslawsoltes/TreeDataGridWeb",
+    "stargazers_count": 9,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T20:53:03Z",
+    "updated_at": "2026-09-15T14:01:26Z",
+    "pushed_at": "2026-09-14T12:32:14Z"
+  },
+  {
+    "id": 1364888341,
+    "name": "Dockyard",
+    "full_name": "wieslawsoltes/Dockyard",
+    "owner": {
+      "login": "wieslawsoltes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2297442?v=4"
+    },
+    "description": "AvalonDock-inspired JavaScript docking library and Web Component with floating panes, auto-hide, layout persistence, and .NET-style APIs.",
+    "topics": [
+      "avalondock",
+      "dock-layout",
+      "docking",
+      "dotnet",
+      "javascript",
+      "layout-manager",
+      "mvvm",
+      "typescript",
+      "ui-components",
+      "web-components"
+    ],
+    "html_url": "https://github.com/wieslawsoltes/Dockyard",
+    "stargazers_count": 9,
+    "language": "HTML",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T20:31:35Z",
+    "updated_at": "2026-09-15T13:57:48Z",
+    "pushed_at": "2026-09-14T12:31:52Z"
+  },
+  {
+    "id": 1365208930,
+    "name": "venue-studio",
+    "full_name": "topninja/venue-studio",
+    "owner": {
+      "login": "topninja",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47001971?v=4"
+    },
+    "description": "Professional browser-based venue seating map editor with built-in arena layouts",
+    "topics": [
+      "github-pages",
+      "javascript",
+      "seating-chart",
+      "venue-management"
+    ],
+    "html_url": "https://github.com/topninja/venue-studio",
+    "stargazers_count": 9,
+    "language": "CSS",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T02:21:56Z",
+    "updated_at": "2026-09-11T08:37:30Z",
+    "pushed_at": "2026-09-11T02:27:08Z"
+  },
+  {
+    "id": 1363980268,
+    "name": "mermaid-element",
+    "full_name": "bramus/mermaid-element",
+    "owner": {
+      "login": "bramus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213073?v=4"
+    },
+    "description": "A custom element to display Mermaid Diagrams with dynamic version support.",
+    "topics": [
+      "custom-element",
+      "javascript",
+      "mermaid",
+      "mermaid-diagrams"
+    ],
+    "html_url": "https://github.com/bramus/mermaid-element",
+    "stargazers_count": 8,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T11:10:53Z",
+    "updated_at": "2026-09-13T20:42:23Z",
+    "pushed_at": "2026-09-11T08:08:59Z"
+  },
+  {
+    "id": 1367508859,
+    "name": "lulu-board",
+    "full_name": "lulufoo/lulu-board",
+    "owner": {
+      "login": "lulufoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31003004?v=4"
+    },
+    "description": "One text protocol for boards — AI writes it, you edit on the canvas, both stay in sync.",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "board",
+      "canvas",
+      "cursor",
+      "diagram",
+      "javascript",
+      "llm",
+      "typescript",
+      "visualization",
+      "whiteboard"
+    ],
+    "html_url": "https://github.com/lulufoo/lulu-board",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T17:00:41Z",
+    "updated_at": "2026-09-16T12:42:30Z",
+    "pushed_at": "2026-09-16T12:42:26Z"
+  },
+  {
+    "id": 1364345176,
+    "name": "campuspulse",
+    "full_name": "xkkkkkkm/campuspulse",
+    "owner": {
+      "login": "xkkkkkkm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165786438?v=4"
+    },
+    "description": "Discover campus events, find teammates and stay connected. A bilingual full-stack app with Spring Boot, MySQL, LangGraph support and Docker Compose.",
+    "topics": [
+      "campus-events",
+      "docker-compose",
+      "event-management",
+      "fastapi",
+      "full-stack",
+      "i18n",
+      "java",
+      "javascript",
+      "langchain",
+      "langgraph",
+      "mysql",
+      "python",
+      "recommendation-system",
+      "spring-boot",
+      "team-collaboration"
+    ],
+    "html_url": "https://github.com/xkkkkkkm/campuspulse",
+    "stargazers_count": 6,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 23,
+    "created_at": "2026-09-10T14:32:49Z",
+    "updated_at": "2026-09-16T10:52:41Z",
+    "pushed_at": "2026-09-14T07:35:42Z"
+  },
+  {
+    "id": 1366475845,
+    "name": "DynamicDataWeb",
+    "full_name": "wieslawsoltes/DynamicDataWeb",
+    "owner": {
+      "login": "wieslawsoltes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2297442?v=4"
+    },
+    "description": "Reactive collections for JavaScript and TypeScript, powered by RxJS: keyed caches, ordered lists, incremental operators, and DynamicData-style APIs.",
+    "topics": [
+      "cache",
+      "collections",
+      "data-binding",
+      "dotnet",
+      "dynamicdata",
+      "javascript",
+      "observable",
+      "reactive-programming",
+      "rxjs",
+      "typescript"
+    ],
+    "html_url": "https://github.com/wieslawsoltes/DynamicDataWeb",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T17:07:18Z",
+    "updated_at": "2026-09-15T14:01:18Z",
+    "pushed_at": "2026-09-14T12:32:42Z"
+  },
+  {
+    "id": 1372716755,
+    "name": "qingzhu-sword-array",
+    "full_name": "jindx1020-crypto/qingzhu-sword-array",
+    "owner": {
+      "login": "jindx1020-crypto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/250727969?v=4"
+    },
+    "description": "青竹剑阵 · 虚天殿篇：无需安装、浏览器离线游玩的像素御剑同人游戏。原创代码 GPL-3.0-only。",
+    "topics": [
+      "browser-game",
+      "fan-game",
+      "game",
+      "javascript",
+      "offline",
+      "pixel-art"
+    ],
+    "html_url": "https://github.com/jindx1020-crypto/qingzhu-sword-array",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T08:02:20Z",
+    "updated_at": "2026-09-16T18:56:39Z",
+    "pushed_at": "2026-09-16T08:31:05Z"
+  },
+  {
+    "id": 1366707991,
+    "name": "ReactiveWeb",
+    "full_name": "wieslawsoltes/ReactiveWeb",
+    "owner": {
+      "login": "wieslawsoltes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2297442?v=4"
+    },
+    "description": "ReactiveUI-inspired MVVM for JavaScript, TypeScript, HTML, and React, powered by RxJS with reactive properties, commands, bindings, and DynamicData.",
+    "topics": [
+      "data-binding",
+      "dotnet",
+      "dynamicdata",
+      "javascript",
+      "mvvm",
+      "react",
+      "reactive-programming",
+      "reactiveui",
+      "rxjs",
+      "source-generators",
+      "typescript",
+      "web-components"
+    ],
+    "html_url": "https://github.com/wieslawsoltes/ReactiveWeb",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T21:30:45Z",
+    "updated_at": "2026-09-14T12:36:40Z",
+    "pushed_at": "2026-09-14T12:36:35Z"
+  },
+  {
+    "id": 1368586741,
+    "name": "mimic",
+    "full_name": "moreveal/mimic",
+    "owner": {
+      "login": "moreveal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71901974?v=4"
+    },
+    "description": "Run website JavaScript. Keep browser state. Skip the rendering pipeline. Public Beta for Windows and Linux.",
+    "topics": [
+      "browser-automation",
+      "cdp",
+      "javascript",
+      "playwright",
+      "public-beta",
+      "puppeteer",
+      "runtime",
+      "v8"
+    ],
+    "html_url": "https://github.com/moreveal/mimic",
+    "stargazers_count": 6,
+    "language": "Astro",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T16:21:37Z",
+    "updated_at": "2026-09-16T14:59:22Z",
+    "pushed_at": "2026-09-16T15:06:56Z"
+  },
+  {
+    "id": 1365910034,
+    "name": "cloudflare-solver",
+    "full_name": "GunturBalantara/cloudflare-solver",
+    "owner": {
+      "login": "GunturBalantara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322666228?v=4"
+    },
+    "description": "Browser-based Cloudflare Turnstile and challenge automation toolkit for authorized testing with Node.js and Chromium.",
+    "topics": [
+      "automation",
+      "browser-automation",
+      "chromium",
+      "cloudflare",
+      "javascript",
+      "nodejs",
+      "puppeteer",
+      "qa",
+      "testing",
+      "turnstile"
+    ],
+    "html_url": "https://github.com/GunturBalantara/cloudflare-solver",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T11:00:19Z",
+    "updated_at": "2026-09-15T01:03:55Z",
+    "pushed_at": "2026-09-11T11:39:55Z"
+  }
+]

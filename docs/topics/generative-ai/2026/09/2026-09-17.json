@@ -1,0 +1,603 @@
+[
+  {
+    "id": 1366280840,
+    "name": "ms-cookbook",
+    "full_name": "modelscope/ms-cookbook",
+    "owner": {
+      "login": "modelscope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109945100?v=4"
+    },
+    "description": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
+    "topics": [
+      "ai-agents",
+      "cookbook",
+      "diffusion-models",
+      "fine-tuning",
+      "generative-ai",
+      "llm",
+      "mcp",
+      "model-evaluation",
+      "modelscope",
+      "rag"
+    ],
+    "html_url": "https://github.com/modelscope/ms-cookbook",
+    "stargazers_count": 178,
+    "language": "HTML",
+    "forks_count": 29,
+    "open_issues_count": 1,
+    "created_at": "2026-09-11T14:27:35Z",
+    "updated_at": "2026-09-17T01:52:04Z",
+    "pushed_at": "2026-09-16T15:51:23Z"
+  },
+  {
+    "id": 1364180444,
+    "name": "RTI",
+    "full_name": "eduardzamfir/RTI",
+    "owner": {
+      "login": "eduardzamfir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98836997?v=4"
+    },
+    "description": "[arXiv 2026] Code for \"Elastic Token Compression for Pixel-Space Diffusion Transformers\"",
+    "topics": [
+      "computer-vision",
+      "diffusion-models",
+      "efficiency",
+      "generative-ai",
+      "jit",
+      "minit2i",
+      "pixel-space",
+      "transformers"
+    ],
+    "html_url": "https://github.com/eduardzamfir/RTI",
+    "stargazers_count": 14,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T13:09:53Z",
+    "updated_at": "2026-09-13T23:46:30Z",
+    "pushed_at": "2026-09-10T13:14:11Z"
+  },
+  {
+    "id": 1364308924,
+    "name": "shepherd2",
+    "full_name": "coleygroup/shepherd2",
+    "owner": {
+      "login": "coleygroup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55363694?v=4"
+    },
+    "description": "ShEPhERD-2 code: Interaction Profiles as a Universal Language for Generative Molecular Design",
+    "topics": [
+      "drug-design",
+      "drug-discovery",
+      "generative-ai"
+    ],
+    "html_url": "https://github.com/coleygroup/shepherd2",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T14:14:58Z",
+    "updated_at": "2026-09-16T21:57:31Z",
+    "pushed_at": "2026-09-16T21:57:59Z"
+  },
+  {
+    "id": 1372071122,
+    "name": "AnyWorld",
+    "full_name": "iamarxs/AnyWorld",
+    "owner": {
+      "login": "iamarxs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103537100?v=4"
+    },
+    "description": "A multiplayer browser game implemented with Python, where an AI acts as the dungeon master and players type out their actions in their own words!",
+    "topics": [
+      "ai-dungeon",
+      "ai-game",
+      "ai-rpg",
+      "browser-game",
+      "collaborative",
+      "cooperative-game",
+      "dungeon-master",
+      "fastapi",
+      "generative-ai",
+      "interactive-fiction",
+      "llm",
+      "local-ai",
+      "multiplayer",
+      "openai-compatible",
+      "python",
+      "rpg",
+      "self-hosted",
+      "text-adventure",
+      "websocket"
+    ],
+    "html_url": "https://github.com/iamarxs/AnyWorld",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T20:20:52Z",
+    "updated_at": "2026-09-16T23:53:28Z",
+    "pushed_at": "2026-09-16T23:39:42Z"
+  },
+  {
+    "id": 1367212715,
+    "name": "anime-80s-skill",
+    "full_name": "m-mahadi/anime-80s-skill",
+    "owner": {
+      "login": "m-mahadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119507414?v=4"
+    },
+    "description": "Turn any brand, product, event or phrase into an original 1980s anime printed piece: posters, packaging, merch, magazine covers and riso flyers in limited inks.",
+    "topics": [
+      "anime",
+      "claude-code",
+      "claude-skill",
+      "generative-ai",
+      "packaging-design",
+      "poster-design",
+      "retro-design",
+      "risograph",
+      "screenprint"
+    ],
+    "html_url": "https://github.com/m-mahadi/anime-80s-skill",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T10:56:48Z",
+    "updated_at": "2026-09-14T06:36:02Z",
+    "pushed_at": "2026-09-12T10:59:07Z"
+  },
+  {
+    "id": 1363422902,
+    "name": "gpt-image-2.5-prompt",
+    "full_name": "yangbishang/gpt-image-2.5-prompt",
+    "owner": {
+      "login": "yangbishang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25996503?v=4"
+    },
+    "description": "A curated library of 100+ GPT Image 2.5 prompts with outputs, parameters, provenance, and Flare vs Sunburst comparisons.",
+    "topics": [
+      "ai-image-generator",
+      "awesome-list",
+      "flare",
+      "generative-ai",
+      "gpt-image",
+      "gpt-image-2-5",
+      "image-editing",
+      "image-generation",
+      "openai",
+      "prompt-engineering",
+      "prompt-library",
+      "sunburst"
+    ],
+    "html_url": "https://github.com/yangbishang/gpt-image-2.5-prompt",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T02:17:22Z",
+    "updated_at": "2026-09-11T04:03:35Z",
+    "pushed_at": "2026-09-10T14:48:01Z"
+  },
+  {
+    "id": 1363831004,
+    "name": "AIImageEditor",
+    "full_name": "Bochidaru/AIImageEditor",
+    "owner": {
+      "login": "Bochidaru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127021682?v=4"
+    },
+    "description": "Modular, memory-aware AI image editing toolkit powered by SAM2, FLUX, OmniPaint, and Real-ESRGAN",
+    "topics": [
+      "diffusion-models",
+      "flux",
+      "generative-ai",
+      "upscale-photo"
+    ],
+    "html_url": "https://github.com/Bochidaru/AIImageEditor",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T09:29:58Z",
+    "updated_at": "2026-09-15T18:22:52Z",
+    "pushed_at": "2026-09-12T03:22:02Z"
+  },
+  {
+    "id": 1366001120,
+    "name": "rpg-campaign-factory",
+    "full_name": "lballoriani/rpg-campaign-factory",
+    "owner": {
+      "login": "lballoriani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274750445?v=4"
+    },
+    "description": "Multi-agent AI pipeline that generates complete, bilingual (IT/EN) tabletop RPG campaigns as print-ready PDFs. Sample content on the open D&D 5e SRD (CC-BY).",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "content-generation",
+      "dnd",
+      "generative-ai",
+      "llm",
+      "multi-agent",
+      "python",
+      "ttrpg"
+    ],
+    "html_url": "https://github.com/lballoriani/rpg-campaign-factory",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T11:56:51Z",
+    "updated_at": "2026-09-16T09:46:22Z",
+    "pushed_at": "2026-09-11T12:31:20Z"
+  },
+  {
+    "id": 1369992834,
+    "name": "Minerals",
+    "full_name": "manishmandia133/Minerals",
+    "owner": {
+      "login": "manishmandia133",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206361696?v=4"
+    },
+    "description": "Smart Technology & Patent Tracker for Critical Minerals",
+    "topics": [
+      "critical-minerals",
+      "generative-ai",
+      "patent-analysis",
+      "rag-chatbot"
+    ],
+    "html_url": "https://github.com/manishmandia133/Minerals",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T13:52:32Z",
+    "updated_at": "2026-09-16T20:30:18Z",
+    "pushed_at": "2026-09-16T20:30:13Z"
+  },
+  {
+    "id": 1366142926,
+    "name": "promptfoo-cicd-framework",
+    "full_name": "VenkateshDoijode/promptfoo-cicd-framework",
+    "owner": {
+      "login": "VenkateshDoijode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33220328?v=4"
+    },
+    "description": "AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supports prompt validation, security testing, custom assertions, API-based model testing, and quality gates for enterprise GenAI applications.",
+    "topics": [
+      "ai",
+      "ai-testing",
+      "ci-cd",
+      "cicd",
+      "evaluation-framework",
+      "framework",
+      "generative-ai",
+      "jenkins",
+      "jenkins-pipeline",
+      "llm",
+      "llm-agents",
+      "llm-evaluation",
+      "llm-security",
+      "llm-tools",
+      "llmops",
+      "prompt-engineering",
+      "prompt-injection",
+      "promptfoo"
+    ],
+    "html_url": "https://github.com/VenkateshDoijode/promptfoo-cicd-framework",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T13:13:48Z",
+    "updated_at": "2026-09-13T06:28:44Z",
+    "pushed_at": "2026-09-12T01:43:57Z"
+  },
+  {
+    "id": 1364799173,
+    "name": "AI-Playground-API",
+    "full_name": "whoismehfooz/AI-Playground-API",
+    "owner": {
+      "login": "whoismehfooz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/258054997?v=4"
+    },
+    "description": "👉 A production-oriented FastAPI backend for LLM generation, structured AI output, token usage, cost estimation, and provider error handling.",
+    "topics": [
+      "ai-api",
+      "ai-backend",
+      "fastapi",
+      "generative-ai",
+      "github-actions",
+      "llm",
+      "opeanai",
+      "pydantic",
+      "pytest",
+      "pytho"
+    ],
+    "html_url": "https://github.com/whoismehfooz/AI-Playground-API",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T19:18:36Z",
+    "updated_at": "2026-09-15T19:00:04Z",
+    "pushed_at": "2026-09-15T13:22:46Z"
+  },
+  {
+    "id": 1370186988,
+    "name": "pixellab-cli",
+    "full_name": "protonspy/pixellab-cli",
+    "owner": {
+      "login": "protonspy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133387879?v=4"
+    },
+    "description": "Generate 2D game assets from the command line: sprites, eight-direction characters, animations, tilesets and atlases. Every paid call is estimated before it runs and recorded after it resolves.",
+    "topics": [
+      "cli",
+      "game-assets",
+      "gamedev",
+      "generative-ai",
+      "phaser",
+      "pixel-art",
+      "pixellab",
+      "python",
+      "sprite-sheet",
+      "tilemap"
+    ],
+    "html_url": "https://github.com/protonspy/pixellab-cli",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-14T16:04:48Z",
+    "updated_at": "2026-09-17T00:41:20Z",
+    "pushed_at": "2026-09-17T01:27:18Z"
+  },
+  {
+    "id": 1367979801,
+    "name": "EduPath-AI",
+    "full_name": "mshakeelrasheed/EduPath-AI",
+    "owner": {
+      "login": "mshakeelrasheed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204192568?v=4"
+    },
+    "description": "EduPath AI is an intelligent, privacy-first academic companion and longitudinal career navigator engineered for higher education. Powered by Google Gemini and Retrieval-Augmented Generation (RAG) via ChromaDB, the platform transforms static academic records into an actionable, four-year roadmap tailored to each student's goals.",
+    "topics": [
+      "ai-agents",
+      "career-development",
+      "chromadb",
+      "generative-ai",
+      "llm",
+      "rag",
+      "reportlab",
+      "transcript-analysis"
+    ],
+    "html_url": "https://github.com/mshakeelrasheed/EduPath-AI",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T03:50:48Z",
+    "updated_at": "2026-09-13T08:07:08Z",
+    "pushed_at": "2026-09-13T04:57:31Z"
+  },
+  {
+    "id": 1367157580,
+    "name": "nl-point-in-time-feature-stores-hybrid-ai-decisions",
+    "full_name": "ElliotOne/nl-point-in-time-feature-stores-hybrid-ai-decisions",
+    "owner": {
+      "login": "ElliotOne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52137131?v=4"
+    },
+    "description": "Point-in-time feature store for leakage-safe, fresh, and auditable hybrid AI decision systems using Feast.",
+    "topics": [
+      "ai",
+      "data-engineering",
+      "feast",
+      "feature-engineering",
+      "feature-store",
+      "generative-ai",
+      "machine-learning",
+      "mlops",
+      "point-in-time",
+      "python"
+    ],
+    "html_url": "https://github.com/ElliotOne/nl-point-in-time-feature-stores-hybrid-ai-decisions",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T09:41:20Z",
+    "updated_at": "2026-09-13T13:56:03Z",
+    "pushed_at": "2026-09-12T09:44:29Z"
+  },
+  {
+    "id": 1368581836,
+    "name": "ai-canvas",
+    "full_name": "BiranSama/ai-canvas",
+    "owner": {
+      "login": "BiranSama",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139343297?v=4"
+    },
+    "description": "Your canvas is the AI's context. A local-first visual creation instrument with natural-language editing, structured scenes, reversible Agent actions, and reference-aware image generation. Built by a human + Codex.",
+    "topics": [
+      "ai-agent",
+      "generative-ai",
+      "image-editor",
+      "local-first"
+    ],
+    "html_url": "https://github.com/BiranSama/ai-canvas",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T16:17:31Z",
+    "updated_at": "2026-09-15T05:50:10Z",
+    "pushed_at": "2026-09-15T05:46:43Z"
+  },
+  {
+    "id": 1369914186,
+    "name": "Smart_MCQ_Solver",
+    "full_name": "bhushan-ssh/Smart_MCQ_Solver",
+    "owner": {
+      "login": "bhushan-ssh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251127549?v=4"
+    },
+    "description": "An AI-powered Smart MCQ Solver that uses Deep Learning and Generative AI to analyze multiple-choice questions and provide accurate answers with an interactive Streamlit interface.",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "generative-ai",
+      "machine-learning",
+      "mcq-solver",
+      "nlp",
+      "python",
+      "question-answering",
+      "smart-mcq-solver"
+    ],
+    "html_url": "https://github.com/bhushan-ssh/Smart_MCQ_Solver",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T12:53:40Z",
+    "updated_at": "2026-09-15T14:16:56Z",
+    "pushed_at": "2026-09-15T14:16:52Z"
+  },
+  {
+    "id": 1370588675,
+    "name": "cli",
+    "full_name": "vidofy/cli",
+    "owner": {
+      "login": "vidofy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329282381?v=4"
+    },
+    "description": "Generate AI video, images and voice from your terminal — Veo 3.1, Kling 3.0, Flux 2, Seedance 2.5, Wan 2.7, Hailuo 2.3 and 570+ models, billed to your own Vidofy account. Scriptable, pipeable, CI-ready.",
+    "topics": [
+      "cli",
+      "cli-tool",
+      "flux",
+      "generative-ai",
+      "image-generation",
+      "image-to-video",
+      "kling",
+      "nodejs",
+      "npm",
+      "seedance",
+      "terminal",
+      "text-to-image",
+      "text-to-speech",
+      "text-to-video",
+      "veo",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/vidofy/cli",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T21:40:12Z",
+    "updated_at": "2026-09-16T23:32:30Z",
+    "pushed_at": "2026-09-16T23:32:26Z"
+  },
+  {
+    "id": 1363474900,
+    "name": "Awesome-Enterprise-AI-Platform",
+    "full_name": "ishandutta2007/Awesome-Enterprise-AI-Platform",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top Enterprise AI Platform (Opensource) 🌟 Star if you like it! 🌟",
+    "topics": [
+      "awesome-list",
+      "curated-list",
+      "enterprise-ai",
+      "generative-ai",
+      "llmops",
+      "mlops"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-Enterprise-AI-Platform",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T03:32:08Z",
+    "updated_at": "2026-09-10T09:17:08Z",
+    "pushed_at": "2026-09-10T09:16:53Z"
+  },
+  {
+    "id": 1370588923,
+    "name": "mcp",
+    "full_name": "vidofy/mcp",
+    "owner": {
+      "login": "vidofy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329282381?v=4"
+    },
+    "description": "MCP server for Vidofy — generate video, images, audio and speech from Claude, ChatGPT, Cursor, Codex or any MCP client. Veo 3.1, Kling 3.0, Flux 2, Seedance 2.5 and 570+ models, billed to your own Vidofy account.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt",
+      "claude",
+      "claude-ai",
+      "codex",
+      "cursor",
+      "cursor-ai",
+      "flux",
+      "generative-ai",
+      "image-generation-ai",
+      "image-generator",
+      "kling",
+      "kling-ai",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "model-context-protocol",
+      "veo",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/vidofy/mcp",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T21:40:33Z",
+    "updated_at": "2026-09-16T18:02:13Z",
+    "pushed_at": "2026-09-16T18:02:09Z"
+  },
+  {
+    "id": 1368816457,
+    "name": "farmstead-aibuilder",
+    "full_name": "shtanko-michael/farmstead-aibuilder",
+    "owner": {
+      "login": "shtanko-michael",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30750111?v=4"
+    },
+    "description": "Minecraft mod that generates buildings from a text prompt: /aibuild create a medieval tavern — aim the hologram, watch it built block by block. NeoForge 1.21.1. Мод для генерации построек по описанию.",
+    "topics": [
+      "ai",
+      "ai-builder",
+      "building",
+      "generative-ai",
+      "llm",
+      "minecraft",
+      "minecraft-1-21",
+      "minecraft-mod",
+      "minecraft-server",
+      "neoforge",
+      "procedural-generation",
+      "text-to-3d"
+    ],
+    "html_url": "https://github.com/shtanko-michael/farmstead-aibuilder",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T19:52:46Z",
+    "updated_at": "2026-09-14T09:30:03Z",
+    "pushed_at": "2026-09-13T20:31:29Z"
+  }
+]

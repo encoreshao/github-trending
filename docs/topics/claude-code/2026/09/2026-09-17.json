@@ -1,0 +1,621 @@
+[
+  {
+    "id": 1366546611,
+    "name": "ai-data-extractor",
+    "full_name": "kruzovic7/ai-data-extractor",
+    "owner": {
+      "login": "kruzovic7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/250558869?v=4"
+    },
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "topics": [
+      "ai",
+      "ai-data-extraction",
+      "claude-code",
+      "cursor"
+    ],
+    "html_url": "https://github.com/kruzovic7/ai-data-extractor",
+    "stargazers_count": 826,
+    "language": "Python",
+    "forks_count": 132,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T18:12:58Z",
+    "updated_at": "2026-09-16T23:33:32Z",
+    "pushed_at": "2026-09-11T18:20:56Z"
+  },
+  {
+    "id": 1363399964,
+    "name": "3dviz-pro-max",
+    "full_name": "viettranx/3dviz-pro-max",
+    "owner": {
+      "login": "viettranx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3197896?v=4"
+    },
+    "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+    "topics": [
+      "3d",
+      "agent-skill",
+      "blender",
+      "claude-code",
+      "codex",
+      "gltf",
+      "threejs",
+      "visualization"
+    ],
+    "html_url": "https://github.com/viettranx/3dviz-pro-max",
+    "stargazers_count": 426,
+    "language": "JavaScript",
+    "forks_count": 49,
+    "open_issues_count": 1,
+    "created_at": "2026-09-10T01:42:59Z",
+    "updated_at": "2026-09-16T18:39:11Z",
+    "pushed_at": "2026-09-11T01:01:12Z"
+  },
+  {
+    "id": 1364985464,
+    "name": "agent-launcher",
+    "full_name": "agent-launch/agent-launcher",
+    "owner": {
+      "login": "agent-launch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310759893?v=4"
+    },
+    "description": "Configure and run existing coding-agent CLIs from one desktop app.",
+    "topics": [
+      "ai-agent",
+      "claude-code",
+      "cli",
+      "codex",
+      "cross-platform",
+      "desktop-app",
+      "developer-tools",
+      "electron",
+      "gemini-cli",
+      "macos"
+    ],
+    "html_url": "https://github.com/agent-launch/agent-launcher",
+    "stargazers_count": 215,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 4,
+    "created_at": "2026-09-10T22:07:14Z",
+    "updated_at": "2026-09-17T01:40:36Z",
+    "pushed_at": "2026-09-10T22:21:23Z"
+  },
+  {
+    "id": 1368857095,
+    "name": "gap-trap",
+    "full_name": "pliablepixels/gap-trap",
+    "owner": {
+      "login": "pliablepixels",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4116654?v=4"
+    },
+    "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+    "topics": [
+      "agent-skills",
+      "agentic-coding",
+      "agents-md",
+      "ai-agents",
+      "ai-coding",
+      "ci-cd",
+      "claude-code",
+      "claude-skills",
+      "code-quality",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "github-actions",
+      "llm",
+      "mutation-testing",
+      "quality-gates",
+      "tdd",
+      "testing",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/pliablepixels/gap-trap",
+    "stargazers_count": 156,
+    "language": "Shell",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T20:29:08Z",
+    "updated_at": "2026-09-16T23:34:27Z",
+    "pushed_at": "2026-09-16T10:45:42Z"
+  },
+  {
+    "id": 1363827742,
+    "name": "tracecrate",
+    "full_name": "FankChen/tracecrate",
+    "owner": {
+      "login": "FankChen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122890530?v=4"
+    },
+    "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "local-first",
+      "observability",
+      "opentelemetry",
+      "privacy",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/FankChen/tracecrate",
+    "stargazers_count": 134,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 5,
+    "created_at": "2026-09-10T09:27:41Z",
+    "updated_at": "2026-09-17T00:24:57Z",
+    "pushed_at": "2026-09-13T13:44:14Z"
+  },
+  {
+    "id": 1368373280,
+    "name": "claude-code-tips-tricks",
+    "full_name": "onmyway133/claude-code-tips-tricks",
+    "owner": {
+      "login": "onmyway133",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2284279?v=4"
+    },
+    "description": "My favorite Claude Code tips & tricks",
+    "topics": [
+      "claude-code",
+      "mcp",
+      "skills",
+      "tips"
+    ],
+    "html_url": "https://github.com/onmyway133/claude-code-tips-tricks",
+    "stargazers_count": 87,
+    "language": null,
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T12:38:38Z",
+    "updated_at": "2026-09-16T23:32:15Z",
+    "pushed_at": "2026-09-14T19:40:46Z"
+  },
+  {
+    "id": 1367131646,
+    "name": "workbuddy2api-hub",
+    "full_name": "ardeyouxipianyi/workbuddy2api-hub",
+    "owner": {
+      "login": "ardeyouxipianyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189708448?v=4"
+    },
+    "description": "WorkBuddy 国际国内多账号反代网关 — 双域独立路由与切换、稳定设备指纹防风控、国内成长任务全自动完成、后台定时调度器、Web监控看板，支持 Codex / Claude Code / DSH与标准 OpenAI 客户端。",
+    "topics": [
+      "api-gateway",
+      "claude-code",
+      "codebuddy",
+      "codex",
+      "deepseek",
+      "openai-api",
+      "reverse-proxy",
+      "tencent",
+      "vibe-coding",
+      "workbuddy",
+      "workbuddy2api"
+    ],
+    "html_url": "https://github.com/ardeyouxipianyi/workbuddy2api-hub",
+    "stargazers_count": 62,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 6,
+    "created_at": "2026-09-12T09:03:40Z",
+    "updated_at": "2026-09-16T22:46:47Z",
+    "pushed_at": "2026-09-16T16:02:08Z"
+  },
+  {
+    "id": 1365267950,
+    "name": "AgentsDock",
+    "full_name": "ZhengyiLuo/AgentsDock",
+    "owner": {
+      "login": "ZhengyiLuo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13114740?v=4"
+    },
+    "description": null,
+    "topics": [
+      "agentic-ide",
+      "agentic-research",
+      "ai-agents",
+      "ai-research",
+      "claude-code",
+      "codex",
+      "cross-platform",
+      "developer-tools",
+      "electron",
+      "react-native",
+      "remote-development",
+      "research-tools",
+      "self-hosted",
+      "tmux",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ZhengyiLuo/AgentsDock",
+    "stargazers_count": 48,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 7,
+    "created_at": "2026-09-11T03:39:34Z",
+    "updated_at": "2026-09-16T21:31:46Z",
+    "pushed_at": "2026-09-16T05:58:24Z"
+  },
+  {
+    "id": 1371165789,
+    "name": "GPUtw-Skill",
+    "full_name": "GPUtw-ai/GPUtw-Skill",
+    "owner": {
+      "login": "GPUtw-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329454314?v=4"
+    },
+    "description": "GPUtw.ai official AI knowledge package — teach Claude Code, Codex CLI, Cursor, Copilot and Gemini CLI to use the GPUtw GPU cloud REST API",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "gpu-cloud",
+      "gputw",
+      "openai-codex",
+      "taiwan"
+    ],
+    "html_url": "https://github.com/GPUtw-ai/GPUtw-Skill",
+    "stargazers_count": 43,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T08:53:50Z",
+    "updated_at": "2026-09-16T23:53:47Z",
+    "pushed_at": "2026-09-15T18:06:53Z"
+  },
+  {
+    "id": 1366190855,
+    "name": "youtube-scout",
+    "full_name": "AgriciDaniel/youtube-scout",
+    "owner": {
+      "login": "AgriciDaniel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
+    },
+    "description": "Claude Code skill: one topic in, one ranked YouTube research workbook out. Searches YouTube Data API v3, ranks by views, engagement, momentum or breakout, and writes Videos, Channels, Summary, Comments and Transcripts sheets with hooks and replay hotspots. Appends into an existing social ads sheet.",
+    "topics": [
+      "agent-skill",
+      "ai-marketing",
+      "claude-code",
+      "claude-skill",
+      "cli",
+      "competitor-research",
+      "creator-research",
+      "hooks",
+      "marketing-research",
+      "openpyxl",
+      "python",
+      "shorts",
+      "social-ads",
+      "spreadsheet",
+      "transcripts",
+      "xlsx",
+      "youtube",
+      "youtube-data-api",
+      "youtube-research",
+      "yt-dlp"
+    ],
+    "html_url": "https://github.com/AgriciDaniel/youtube-scout",
+    "stargazers_count": 40,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-11T13:38:59Z",
+    "updated_at": "2026-09-16T13:24:02Z",
+    "pushed_at": "2026-09-11T21:01:19Z"
+  },
+  {
+    "id": 1366071746,
+    "name": "crossmatch",
+    "full_name": "filip131311/crossmatch",
+    "owner": {
+      "login": "filip131311",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159789821?v=4"
+    },
+    "description": "Find where your iOS and Android apps disagree, and get a side-by-side video of every difference.",
+    "topics": [
+      "android",
+      "argent",
+      "claude-code",
+      "cross-platform",
+      "feature-parity",
+      "ios",
+      "qa"
+    ],
+    "html_url": "https://github.com/filip131311/crossmatch",
+    "stargazers_count": 36,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-11T12:36:37Z",
+    "updated_at": "2026-09-16T19:36:14Z",
+    "pushed_at": "2026-09-11T15:19:58Z"
+  },
+  {
+    "id": 1370752473,
+    "name": "EvoOntology",
+    "full_name": "ruc-datalab/EvoOntology",
+    "owner": {
+      "login": "ruc-datalab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76154266?v=4"
+    },
+    "description": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "claude-code",
+      "codex",
+      "data-analysis",
+      "data-science",
+      "harness",
+      "llm",
+      "llm-agents",
+      "ontology",
+      "plugin",
+      "self-evolving"
+    ],
+    "html_url": "https://github.com/ruc-datalab/EvoOntology",
+    "stargazers_count": 31,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T01:57:40Z",
+    "updated_at": "2026-09-17T01:54:47Z",
+    "pushed_at": "2026-09-15T07:29:50Z"
+  },
+  {
+    "id": 1370212922,
+    "name": "cachebeat",
+    "full_name": "ARahim3/cachebeat",
+    "owner": {
+      "login": "ARahim3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41390319?v=4"
+    },
+    "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
+    "topics": [
+      "ai",
+      "anthropic",
+      "caching",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "cli",
+      "cost-optimization",
+      "developer-tools",
+      "llm",
+      "llm-tools",
+      "productivity",
+      "prompt-caching",
+      "token-optimization"
+    ],
+    "html_url": "https://github.com/ARahim3/cachebeat",
+    "stargazers_count": 30,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T16:22:40Z",
+    "updated_at": "2026-09-17T01:50:02Z",
+    "pushed_at": "2026-09-15T18:44:30Z"
+  },
+  {
+    "id": 1363797905,
+    "name": "jolo",
+    "full_name": "jolo-build/jolo",
+    "owner": {
+      "login": "jolo-build",
+      "avatar_url": "https://avatars.githubusercontent.com/u/327196250?v=4"
+    },
+    "description": "A coding workspace for AI agents, with a desktop app, terminal CLI, and shared tasks.",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "bun",
+      "claude-code",
+      "codex-cli",
+      "coding-agents",
+      "developer-tools",
+      "electron",
+      "llm"
+    ],
+    "html_url": "https://github.com/jolo-build/jolo",
+    "stargazers_count": 30,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-10T09:07:35Z",
+    "updated_at": "2026-09-15T04:43:34Z",
+    "pushed_at": "2026-09-15T04:43:30Z"
+  },
+  {
+    "id": 1368190389,
+    "name": "daidocs",
+    "full_name": "Kerneta/daidocs",
+    "owner": {
+      "login": "Kerneta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308136068?v=4"
+    },
+    "description": "Open plain-text file format for AI memory. Your assistant's long-term memory as .dai files on your disk: readable by Claude, GPT, Gemini, Cursor, local models and grep (all LLM models work). MCP server + hooks for Claude Code, Claude Desktop, Cursor, Windsurf, Codex. 83% LongMemEval-S (GPT-4o), 92% (Claude Fable 5), 10x fewer tokens.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "ai-memory",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "context-engineering",
+      "cursor",
+      "file-format",
+      "llm",
+      "local-first",
+      "long-term-memory",
+      "longmemeval",
+      "mcp",
+      "mcp-server",
+      "memory",
+      "open-standard",
+      "persistent-memory",
+      "plain-text"
+    ],
+    "html_url": "https://github.com/Kerneta/daidocs",
+    "stargazers_count": 29,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T08:29:01Z",
+    "updated_at": "2026-09-16T20:27:15Z",
+    "pushed_at": "2026-09-16T09:56:19Z"
+  },
+  {
+    "id": 1368469045,
+    "name": "cc-arcade",
+    "full_name": "sezaakgun/cc-arcade",
+    "owner": {
+      "login": "sezaakgun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32770709?v=4"
+    },
+    "description": "Games above the Claude Code prompt: snake, Tetris, 2048, Minesweeper, Flappy, Pong, a typing test and Space Invaders, plus a pet that grows as Claude tests, commits and edits",
+    "topics": [
+      "2048",
+      "arcade",
+      "ascii-art",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cli",
+      "doom",
+      "games",
+      "minesweeper",
+      "snake",
+      "terminal-game",
+      "tui",
+      "typescript",
+      "typing-test",
+      "virtual-pet"
+    ],
+    "html_url": "https://github.com/sezaakgun/cc-arcade",
+    "stargazers_count": 29,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-09-13T14:36:00Z",
+    "updated_at": "2026-09-16T16:30:18Z",
+    "pushed_at": "2026-09-15T00:19:51Z"
+  },
+  {
+    "id": 1367182251,
+    "name": "WebGPT",
+    "full_name": "Nhahan/WebGPT",
+    "owner": {
+      "login": "Nhahan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81916648?v=4"
+    },
+    "description": "A Codex skill that delegates work to ChatGPT on the web.",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "cli",
+      "codex",
+      "codex-cli",
+      "skill"
+    ],
+    "html_url": "https://github.com/Nhahan/WebGPT",
+    "stargazers_count": 28,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T10:17:14Z",
+    "updated_at": "2026-09-16T20:12:52Z",
+    "pushed_at": "2026-09-15T11:59:20Z"
+  },
+  {
+    "id": 1366848971,
+    "name": "agent-skill-sync",
+    "full_name": "kina-cmd/agent-skill-sync",
+    "owner": {
+      "login": "kina-cmd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54349349?v=4"
+    },
+    "description": "Scan, classify (A/B/C/D) and sync AI-agent SKILL.md files across toolchains (Codex, Claude Code, WorkBuddy). Zero-dependency Python CLI.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "python",
+      "skills",
+      "sync"
+    ],
+    "html_url": "https://github.com/kina-cmd/agent-skill-sync",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T01:50:30Z",
+    "updated_at": "2026-09-17T01:35:18Z",
+    "pushed_at": "2026-09-12T04:08:28Z"
+  },
+  {
+    "id": 1363656474,
+    "name": "mistok-chytalnia",
+    "full_name": "OuFinx/mistok-chytalnia",
+    "owner": {
+      "login": "OuFinx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12039911?v=4"
+    },
+    "description": "Скіли, методики й сирі матеріали архівного пошуку по українських селах. Напрацьовано для «Містка», викладено для всіх / Claude Code skills and methods for archival research on Ukrainian villages",
+    "topics": [
+      "archival-research",
+      "claude-code",
+      "claude-skills",
+      "digital-humanities",
+      "genealogy",
+      "ukraine"
+    ],
+    "html_url": "https://github.com/OuFinx/mistok-chytalnia",
+    "stargazers_count": 24,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T07:06:08Z",
+    "updated_at": "2026-09-15T18:30:38Z",
+    "pushed_at": "2026-09-14T16:49:12Z"
+  },
+  {
+    "id": 1363689547,
+    "name": "ui",
+    "full_name": "Halaska-Studio/ui",
+    "owner": {
+      "login": "Halaska-Studio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283849249?v=4"
+    },
+    "description": "UI by Halaska: a single-file React UI kit for AI products, built on shadcn/ui. 38 UX patterns and ~100 components.",
+    "topics": [
+      "ai-products",
+      "claude-code",
+      "cursor",
+      "design-system",
+      "react",
+      "shadcn-ui",
+      "ui-kit",
+      "ux-patterns"
+    ],
+    "html_url": "https://github.com/Halaska-Studio/ui",
+    "stargazers_count": 24,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-10T07:38:36Z",
+    "updated_at": "2026-09-16T21:54:06Z",
+    "pushed_at": "2026-09-10T13:53:24Z"
+  }
+]
