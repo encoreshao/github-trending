@@ -1,0 +1,593 @@
+[
+  {
+    "id": 1373869741,
+    "name": "ai-model-world",
+    "full_name": "liyupi/ai-model-world",
+    "owner": {
+      "login": "liyupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26037703?v=4"
+    },
+    "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
+    "topics": [
+      "ai",
+      "ai-models",
+      "benchmark",
+      "chinese",
+      "data-visualization",
+      "deepseek",
+      "large-language-models",
+      "leaderboard",
+      "llm",
+      "llm-benchmarks",
+      "llm-leaderboard",
+      "model-comparison",
+      "nextjs",
+      "pixel-art",
+      "react",
+      "static-site",
+      "tailwindcss",
+      "typescript"
+    ],
+    "html_url": "https://github.com/liyupi/ai-model-world",
+    "stargazers_count": 87,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 1,
+    "created_at": "2026-09-17T03:12:17Z",
+    "updated_at": "2026-09-19T01:30:01Z",
+    "pushed_at": "2026-09-18T17:10:40Z"
+  },
+  {
+    "id": 1367141132,
+    "name": "fly-connectome-template",
+    "full_name": "cobanov/fly-connectome-template",
+    "owner": {
+      "login": "cobanov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29142615?v=4"
+    },
+    "description": "Real fly anatomy and model-output starter. Custom license requires web UI and repository attribution.",
+    "topics": [
+      "connectome",
+      "drosophila",
+      "flybody",
+      "malecns",
+      "neuroscience",
+      "react",
+      "scientific-visualization",
+      "source-available",
+      "template",
+      "threejs",
+      "typescript",
+      "vite"
+    ],
+    "html_url": "https://github.com/cobanov/fly-connectome-template",
+    "stargazers_count": 64,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T09:17:25Z",
+    "updated_at": "2026-09-19T01:31:55Z",
+    "pushed_at": "2026-09-12T09:26:46Z"
+  },
+  {
+    "id": 1368814114,
+    "name": "sfinterface-numbers",
+    "full_name": "wherescz/sfinterface-numbers",
+    "owner": {
+      "login": "wherescz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96392276?v=4"
+    },
+    "description": "Numbers that move the way they should. A React component from The San Francisco Interface.",
+    "topics": [
+      "animation",
+      "counter",
+      "number-animation",
+      "odometer",
+      "react",
+      "react-component"
+    ],
+    "html_url": "https://github.com/wherescz/sfinterface-numbers",
+    "stargazers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T19:50:59Z",
+    "updated_at": "2026-09-18T16:38:59Z",
+    "pushed_at": "2026-09-14T13:49:00Z"
+  },
+  {
+    "id": 1367195148,
+    "name": "moodstone",
+    "full_name": "karacca/moodstone",
+    "owner": {
+      "login": "karacca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47274419?v=4"
+    },
+    "description": "Animated, procedurally generated agent avatars for React Native.",
+    "topics": [
+      "agent-ui",
+      "ai-agent",
+      "ai-agents",
+      "android",
+      "animated-svg",
+      "animation",
+      "avatar",
+      "avatars",
+      "expo",
+      "generative-art",
+      "ios",
+      "llm",
+      "procedural-generation",
+      "react",
+      "react-native",
+      "react-native-skia",
+      "reanimated",
+      "skia",
+      "svg",
+      "typescript"
+    ],
+    "html_url": "https://github.com/karacca/moodstone",
+    "stargazers_count": 40,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T10:34:11Z",
+    "updated_at": "2026-09-18T14:14:23Z",
+    "pushed_at": "2026-09-12T20:17:32Z"
+  },
+  {
+    "id": 1369664553,
+    "name": "medula",
+    "full_name": "posva/medula",
+    "owner": {
+      "login": "posva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/664177?v=4"
+    },
+    "description": "🧬 control your app from inside it",
+    "topics": [
+      "ai",
+      "codex",
+      "debug",
+      "devtools",
+      "mcp",
+      "next",
+      "react",
+      "vue"
+    ],
+    "html_url": "https://github.com/posva/medula",
+    "stargazers_count": 30,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T09:36:29Z",
+    "updated_at": "2026-09-18T12:31:12Z",
+    "pushed_at": "2026-09-16T14:19:06Z"
+  },
+  {
+    "id": 1367325952,
+    "name": "AniTrack",
+    "full_name": "muthokaricky-alt/AniTrack",
+    "owner": {
+      "login": "muthokaricky-alt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243061814?v=4"
+    },
+    "description": "Anime and Manga tracker built with React + Vite.",
+    "topics": [
+      "anime",
+      "manga",
+      "react",
+      "vite"
+    ],
+    "html_url": "https://github.com/muthokaricky-alt/AniTrack",
+    "stargazers_count": 20,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T13:32:42Z",
+    "updated_at": "2026-09-19T01:10:33Z",
+    "pushed_at": "2026-09-18T22:10:30Z"
+  },
+  {
+    "id": 1372773261,
+    "name": "calamansi-ui",
+    "full_name": "fujiDevv/calamansi-ui",
+    "owner": {
+      "login": "fujiDevv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46517393?v=4"
+    },
+    "description": "A tiny, open-source animated React UI component registry for Next.js and Tailwind CSS.",
+    "topics": [
+      "components",
+      "nextjs",
+      "open-source",
+      "react",
+      "react-components",
+      "shadcn",
+      "shadcn-ui",
+      "ui",
+      "ui-components"
+    ],
+    "html_url": "https://github.com/fujiDevv/calamansi-ui",
+    "stargazers_count": 20,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-16T08:56:26Z",
+    "updated_at": "2026-09-18T15:12:16Z",
+    "pushed_at": "2026-09-18T10:22:54Z"
+  },
+  {
+    "id": 1370285970,
+    "name": "todoist-enhancements",
+    "full_name": "julesvbertolino/todoist-enhancements",
+    "owner": {
+      "login": "julesvbertolino",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271253367?v=4"
+    },
+    "description": "Enhanced for Todoist: an independent project, not created by, affiliated with, or supported by Todoist. A different front end built around planning a week. Runs in the browser, no backend, your token stays on your device.",
+    "topics": [
+      "local-first",
+      "productivity",
+      "pwa",
+      "react",
+      "task-management",
+      "todoist",
+      "typescript"
+    ],
+    "html_url": "https://github.com/julesvbertolino/todoist-enhancements",
+    "stargazers_count": 16,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 6,
+    "created_at": "2026-09-14T17:12:58Z",
+    "updated_at": "2026-09-18T18:54:19Z",
+    "pushed_at": "2026-09-18T14:30:22Z"
+  },
+  {
+    "id": 1370163227,
+    "name": "personal-investment-twin",
+    "full_name": "g1304458637-afk/personal-investment-twin",
+    "owner": {
+      "login": "g1304458637-afk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310382482?v=4"
+    },
+    "description": "投镜 · Personal Investment Twin — an AI investment decision coach: rebuilds your investment episodes from your own trading history, attributes P&L with deterministic computation, and reminds you before you repeat past mistakes. No stock picks, no prediction, no auto-trading.",
+    "topics": [
+      "behavioral-finance",
+      "decision-attribution",
+      "desktop-app",
+      "investment",
+      "llm",
+      "python",
+      "react",
+      "tauri"
+    ],
+    "html_url": "https://github.com/g1304458637-afk/personal-investment-twin",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T15:48:20Z",
+    "updated_at": "2026-09-18T10:14:17Z",
+    "pushed_at": "2026-09-15T04:11:29Z"
+  },
+  {
+    "id": 1372393634,
+    "name": "hermes-skill-deck",
+    "full_name": "runninwithitmarketing/hermes-skill-deck",
+    "owner": {
+      "login": "runninwithitmarketing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221353711?v=4"
+    },
+    "description": "Local macOS dashboard for your Hermes Agent skills — auto-syncs SKILL.md files from ~/.hermes, customizable top menu bar (pick your own on first launch), custom skill boxes, and a Terminal Mode AI agent. Tauri + FastAPI + React.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "dashboard",
+      "deepseek",
+      "fastapi",
+      "macos",
+      "openai",
+      "react",
+      "skills",
+      "tailwindcss",
+      "tauri",
+      "vite"
+    ],
+    "html_url": "https://github.com/runninwithitmarketing/hermes-skill-deck",
+    "stargazers_count": 11,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T01:52:32Z",
+    "updated_at": "2026-09-19T01:57:35Z",
+    "pushed_at": "2026-09-18T02:19:51Z"
+  },
+  {
+    "id": 1370598842,
+    "name": "portfolio",
+    "full_name": "I-am-Tofunmi/portfolio",
+    "owner": {
+      "login": "I-am-Tofunmi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231803222?v=4"
+    },
+    "description": "Personal developer portfolio — React, Node.js, NestJS, and Tailwind CSS. Showcasing projects, experience, and skills.",
+    "topics": [
+      "full-stack-developer",
+      "nestjs",
+      "nodejs",
+      "portfolio",
+      "react",
+      "tailwindcss",
+      "vite"
+    ],
+    "html_url": "https://github.com/I-am-Tofunmi/portfolio",
+    "stargazers_count": 11,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T21:55:15Z",
+    "updated_at": "2026-09-16T21:05:30Z",
+    "pushed_at": "2026-09-15T14:20:36Z"
+  },
+  {
+    "id": 1367331643,
+    "name": "website-to-code",
+    "full_name": "AVIVASHISHTA29/website-to-code",
+    "owner": {
+      "login": "AVIVASHISHTA29",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19833894?v=4"
+    },
+    "description": "Turning cool websites into code you can use — one interaction per episode, rebuilt from the real numbers off the live page.",
+    "topics": [
+      "creative-coding",
+      "frontend",
+      "react",
+      "ui-animation",
+      "web-design"
+    ],
+    "html_url": "https://github.com/AVIVASHISHTA29/website-to-code",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T13:39:22Z",
+    "updated_at": "2026-09-18T10:44:57Z",
+    "pushed_at": "2026-09-16T14:50:03Z"
+  },
+  {
+    "id": 1368246941,
+    "name": "wahana",
+    "full_name": "ashafizullah/wahana",
+    "owner": {
+      "login": "ashafizullah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29304713?v=4"
+    },
+    "description": "Desktop client for WAHA (WhatsApp HTTP API) — macOS & Windows, built with Tauri",
+    "topics": [
+      "desktop-app",
+      "react",
+      "rust",
+      "tauri",
+      "typescript",
+      "waha",
+      "whatsapp"
+    ],
+    "html_url": "https://github.com/ashafizullah/wahana",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T09:38:08Z",
+    "updated_at": "2026-09-18T07:41:45Z",
+    "pushed_at": "2026-09-17T23:06:56Z"
+  },
+  {
+    "id": 1367471751,
+    "name": "duo-responsive",
+    "full_name": "Aparajith24/duo-responsive",
+    "owner": {
+      "login": "Aparajith24",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87831591?v=4"
+    },
+    "description": "Hook + components that detect Apple iPhone Duo fold state (folded/unfolded)",
+    "topics": [
+      "apple",
+      "iphone-duo",
+      "npm",
+      "npm-package",
+      "react",
+      "reactjs",
+      "tailwindcss",
+      "tailwindcss-plugin"
+    ],
+    "html_url": "https://github.com/Aparajith24/duo-responsive",
+    "stargazers_count": 9,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T16:19:44Z",
+    "updated_at": "2026-09-13T22:03:07Z",
+    "pushed_at": "2026-09-13T04:27:11Z"
+  },
+  {
+    "id": 1367996381,
+    "name": "NEXUS",
+    "full_name": "TW4RDYDEV/NEXUS",
+    "owner": {
+      "login": "TW4RDYDEV",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199357425?v=4"
+    },
+    "description": "Local-first offensive security engagement platform for mapping assets, credentials, sessions, pivots, findings, evidence, and attack paths.",
+    "topics": [
+      "attack-graph",
+      "ctf",
+      "cybersecurity",
+      "netexec",
+      "network-security",
+      "nmap",
+      "nuclei",
+      "offensive-security",
+      "penetration-testing",
+      "pentesting",
+      "react",
+      "reconnaissance",
+      "red-team",
+      "rust",
+      "security-research",
+      "security-tools",
+      "sqlite",
+      "tauri",
+      "twardyexe",
+      "typescript"
+    ],
+    "html_url": "https://github.com/TW4RDYDEV/NEXUS",
+    "stargazers_count": 9,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T04:16:55Z",
+    "updated_at": "2026-09-16T11:39:44Z",
+    "pushed_at": "2026-09-13T04:26:48Z"
+  },
+  {
+    "id": 1367157696,
+    "name": "real-live",
+    "full_name": "yaolifeng0629/real-live",
+    "owner": {
+      "login": "yaolifeng0629",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88535417?v=4"
+    },
+    "description": "Fullscreen live camera monitor for the browser. Local webcam preview with mirror, snapshot, and camera switching — video never leaves the device.",
+    "topics": [
+      "camera",
+      "fullscreen",
+      "getusermedia",
+      "live-preview",
+      "nextjs",
+      "react",
+      "snapshot",
+      "typescript",
+      "webcam",
+      "webrtc"
+    ],
+    "html_url": "https://github.com/yaolifeng0629/real-live",
+    "stargazers_count": 8,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T09:41:32Z",
+    "updated_at": "2026-09-14T13:32:15Z",
+    "pushed_at": "2026-09-12T10:08:04Z"
+  },
+  {
+    "id": 1368536832,
+    "name": "portfolio",
+    "full_name": "tunardev/portfolio",
+    "owner": {
+      "login": "tunardev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85560090?v=4"
+    },
+    "description": "Personal site and blog. Next.js 16, React 19, TypeScript.",
+    "topics": [
+      "neural-network",
+      "nextjs",
+      "personal-website",
+      "portfolio",
+      "react",
+      "svg",
+      "typescript"
+    ],
+    "html_url": "https://github.com/tunardev/portfolio",
+    "stargazers_count": 8,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T15:43:17Z",
+    "updated_at": "2026-09-14T07:57:45Z",
+    "pushed_at": "2026-09-13T21:00:13Z"
+  },
+  {
+    "id": 1373761193,
+    "name": "plasma-ui",
+    "full_name": "CruxGarden/plasma-ui",
+    "owner": {
+      "login": "CruxGarden",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197685536?v=4"
+    },
+    "description": "Liquid glass panels for React",
+    "topics": [
+      "liquid-glass",
+      "mit-license",
+      "react",
+      "ui-components"
+    ],
+    "html_url": "https://github.com/CruxGarden/plasma-ui",
+    "stargazers_count": 8,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T00:28:18Z",
+    "updated_at": "2026-09-18T18:44:35Z",
+    "pushed_at": "2026-09-18T18:44:32Z"
+  },
+  {
+    "id": 1368254580,
+    "name": "naive-icons",
+    "full_name": "guokaigdg/naive-icons",
+    "owner": {
+      "login": "guokaigdg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9608847?v=4"
+    },
+    "description": "A library of hand-drawn SVG icons in a naive folk art style. 手绘 naive folk art 风格的 SVG 图标库",
+    "topics": [
+      "icons",
+      "naive",
+      "react"
+    ],
+    "html_url": "https://github.com/guokaigdg/naive-icons",
+    "stargazers_count": 8,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T09:49:27Z",
+    "updated_at": "2026-09-18T13:13:02Z",
+    "pushed_at": "2026-09-18T13:13:02Z"
+  },
+  {
+    "id": 1372530202,
+    "name": "splitz",
+    "full_name": "ngthson553-create/splitz",
+    "owner": {
+      "login": "ngthson553-create",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286624578?v=4"
+    },
+    "description": "Open-source Splitwise alternative. Offline-first group expense splitting with minimal transfers, VietQR settlement and no account required. React + TypeScript + Supabase.",
+    "topics": [
+      "bill-splitting",
+      "expense-splitting",
+      "expense-tracker",
+      "local-first",
+      "offline-first",
+      "open-source",
+      "personal-finance",
+      "pwa",
+      "react",
+      "split-bill",
+      "splitwise",
+      "splitwise-alternative",
+      "supabase",
+      "typescript",
+      "vietnam",
+      "vietqr"
+    ],
+    "html_url": "https://github.com/ngthson553-create/splitz",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 7,
+    "created_at": "2026-09-16T04:50:56Z",
+    "updated_at": "2026-09-18T12:08:44Z",
+    "pushed_at": "2026-09-16T06:02:35Z"
+  }
+]

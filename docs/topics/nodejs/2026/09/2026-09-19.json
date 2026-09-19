@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1368223687,
+    "name": "aside-codemode",
+    "full_name": "lidge-jun/aside-codemode",
+    "owner": {
+      "login": "lidge-jun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243035832?v=4"
+    },
+    "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "aside",
+      "browser-agent",
+      "browser-automation",
+      "cli",
+      "code-mode",
+      "codex",
+      "developer-tools",
+      "llm-tools",
+      "nodejs",
+      "npm-package",
+      "playwright",
+      "ripgrep",
+      "sandbox"
+    ],
+    "html_url": "https://github.com/lidge-jun/aside-codemode",
+    "stargazers_count": 114,
+    "language": "JavaScript",
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T09:08:26Z",
+    "updated_at": "2026-09-18T11:51:58Z",
+    "pushed_at": "2026-09-18T09:25:27Z"
+  },
+  {
+    "id": 1375069018,
+    "name": "idempotency-shield",
+    "full_name": "dashscope-sdk/idempotency-shield",
+    "owner": {
+      "login": "dashscope-sdk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Express middleware that makes handlers safe to retry — replays the cached response for a duplicate Idempotency-Key instead of re-running it, with pluggable in-memory or Redis storage.",
+    "topics": [
+      "express",
+      "express-js",
+      "expressjs",
+      "nodejs"
+    ],
+    "html_url": "https://github.com/dashscope-sdk/idempotency-shield",
+    "stargazers_count": 61,
+    "language": "TypeScript",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T20:48:37Z",
+    "updated_at": "2026-09-19T01:21:37Z",
+    "pushed_at": "2026-09-17T20:48:41Z"
+  },
+  {
+    "id": 1373231997,
+    "name": "node-webgl",
+    "full_name": "RenaudRohlinger/node-webgl",
+    "owner": {
+      "login": "RenaudRohlinger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15867665?v=4"
+    },
+    "description": "Headless WebGL 1 & 2 for Node.js, powered by ANGLE (Metal, D3D11, Vulkan). Render any WebGL or three.js scene without a browser.",
+    "topics": [
+      "angle",
+      "gpu",
+      "headless",
+      "nodejs",
+      "rendering",
+      "threejs",
+      "webgl",
+      "webgl2"
+    ],
+    "html_url": "https://github.com/RenaudRohlinger/node-webgl",
+    "stargazers_count": 38,
+    "language": "C",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T15:16:39Z",
+    "updated_at": "2026-09-18T17:06:04Z",
+    "pushed_at": "2026-09-17T11:57:51Z"
+  },
+  {
+    "id": 1376258916,
+    "name": "NullMotion",
+    "full_name": "blixvip/NullMotion",
+    "owner": {
+      "login": "blixvip",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247529250?v=4"
+    },
+    "description": "Launch-film preview: a finished motion-graphics ad over the black-and-white HyperFrames drafts it grew from, with frame-accurate MP4 export.",
+    "topics": [
+      "animation",
+      "gsap",
+      "hyperframes",
+      "motion-graphics",
+      "nodejs",
+      "video",
+      "webcodecs"
+    ],
+    "html_url": "https://github.com/blixvip/NullMotion",
+    "stargazers_count": 37,
+    "language": "HTML",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T18:09:18Z",
+    "updated_at": "2026-09-19T01:52:32Z",
+    "pushed_at": "2026-09-18T18:18:45Z"
+  },
+  {
+    "id": 1368473574,
+    "name": "zapret-gui-nodejs",
+    "full_name": "AvenCores/zapret-gui-nodejs",
+    "owner": {
+      "login": "AvenCores",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64781822?v=4"
+    },
+    "description": "🛡 Обход блокировок DPI и Telegram при помощи Zapret и Telegram прокси 🌍",
+    "topics": [
+      "batchfile",
+      "dpi",
+      "dpi-bypassing",
+      "electron",
+      "electron-app",
+      "gplv3",
+      "gui",
+      "gui-application",
+      "nodejs",
+      "powershell",
+      "powershell-script",
+      "typescript",
+      "zapret-discord-fix",
+      "zapret-rutor-fix",
+      "zapret-telegram-fix",
+      "zapret-youtube-fix",
+      "zapretui",
+      "zapretwindows",
+      "zapretyan-go",
+      "zapretzen"
+    ],
+    "html_url": "https://github.com/AvenCores/zapret-gui-nodejs",
+    "stargazers_count": 28,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T14:41:29Z",
+    "updated_at": "2026-09-18T21:59:23Z",
+    "pushed_at": "2026-09-18T13:55:13Z"
+  },
+  {
+    "id": 1366883527,
+    "name": "PELLET",
+    "full_name": "0xwast3/PELLET",
+    "owner": {
+      "login": "0xwast3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320452965?v=4"
+    },
+    "description": "Dormant wallets waking, and where the money went after. CLI-first wake terminal for Robinhood Chain.",
+    "topics": [
+      "cli",
+      "crypto",
+      "nodejs",
+      "owl",
+      "robinhood-chain",
+      "smart-money",
+      "terminal",
+      "tui",
+      "whale-tracking"
+    ],
+    "html_url": "https://github.com/0xwast3/PELLET",
+    "stargazers_count": 18,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T02:51:19Z",
+    "updated_at": "2026-09-14T17:04:38Z",
+    "pushed_at": "2026-09-14T16:24:22Z"
+  },
+  {
+    "id": 1372855284,
+    "name": "panelalpha-engine",
+    "full_name": "panelalpha/panelalpha-engine",
+    "owner": {
+      "login": "panelalpha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138688133?v=4"
+    },
+    "description": "The easiest way to self-host projects on your own server. Connect your AI agent and let it deploy, maintain and manage multiple projects on any stack, while keeping your server organized and under control. Easy for anyone, not just sysadmins.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-driven",
+      "deployment",
+      "docker",
+      "docker-compose",
+      "git",
+      "laravel",
+      "mariadb",
+      "mysql",
+      "nextjs",
+      "nodejs",
+      "panelalpha",
+      "php",
+      "postgresql",
+      "python",
+      "repositories",
+      "self-hosted",
+      "self-hosting",
+      "wordpress"
+    ],
+    "html_url": "https://github.com/panelalpha/panelalpha-engine",
+    "stargazers_count": 12,
+    "language": "PHP",
+    "forks_count": 1,
+    "open_issues_count": 14,
+    "created_at": "2026-09-16T10:13:46Z",
+    "updated_at": "2026-09-18T06:35:14Z",
+    "pushed_at": "2026-09-16T16:34:28Z"
+  },
+  {
+    "id": 1366974240,
+    "name": "vmup",
+    "full_name": "nyxsky404/vmup",
+    "owner": {
+      "login": "nyxsky404",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189461188?v=4"
+    },
+    "description": "Send screenshots and files to remote hosts over SSH for AI agents (Claude Code, Codex, Cursor, and more)",
+    "topics": [
+      "agents",
+      "cli",
+      "clipboard",
+      "coding-agents",
+      "nodejs",
+      "rsync",
+      "scp",
+      "ssh",
+      "typescript"
+    ],
+    "html_url": "https://github.com/nyxsky404/vmup",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-12T05:21:38Z",
+    "updated_at": "2026-09-18T08:38:44Z",
+    "pushed_at": "2026-09-17T09:48:50Z"
+  },
+  {
+    "id": 1370598842,
+    "name": "portfolio",
+    "full_name": "I-am-Tofunmi/portfolio",
+    "owner": {
+      "login": "I-am-Tofunmi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231803222?v=4"
+    },
+    "description": "Personal developer portfolio — React, Node.js, NestJS, and Tailwind CSS. Showcasing projects, experience, and skills.",
+    "topics": [
+      "full-stack-developer",
+      "nestjs",
+      "nodejs",
+      "portfolio",
+      "react",
+      "tailwindcss",
+      "vite"
+    ],
+    "html_url": "https://github.com/I-am-Tofunmi/portfolio",
+    "stargazers_count": 11,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T21:55:15Z",
+    "updated_at": "2026-09-16T21:05:30Z",
+    "pushed_at": "2026-09-15T14:20:36Z"
+  },
+  {
+    "id": 1368509096,
+    "name": "chahui",
+    "full_name": "PainterAnkry/chahui",
+    "owner": {
+      "login": "PainterAnkry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108811591?v=4"
+    },
+    "description": "茶绘 · 多人实时协作绘画聊天室（Electron 桌面端 + Node 服务端，SAI2 风格笔刷体系）",
+    "topics": [
+      "canvas",
+      "collaborative",
+      "drawing",
+      "electron",
+      "nodejs",
+      "paint",
+      "sai",
+      "websocket"
+    ],
+    "html_url": "https://github.com/PainterAnkry/chahui",
+    "stargazers_count": 9,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T15:22:58Z",
+    "updated_at": "2026-09-18T20:06:25Z",
+    "pushed_at": "2026-09-18T15:12:03Z"
+  },
+  {
+    "id": 1373118421,
+    "name": "SoDam_O-Brain-Codex",
+    "full_name": "sodam-ai/SoDam_O-Brain-Codex",
+    "owner": {
+      "login": "sodam-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172583822?v=4"
+    },
+    "description": "Codex 대화의 결정·제약·선호를 로컬 SQLite에 기억하고 검색·2D/3D 그래프·타임라인·백업으로 관리하는 로컬 우선 MCP 플러그인",
+    "topics": [
+      "codex",
+      "codex-plugin",
+      "dashboard",
+      "embeddings",
+      "force-graph",
+      "knowledge-graph",
+      "local-first",
+      "mcp",
+      "memory",
+      "nodejs",
+      "rag",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/sodam-ai/SoDam_O-Brain-Codex",
+    "stargazers_count": 8,
+    "language": "HTML",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T13:57:40Z",
+    "updated_at": "2026-09-16T23:45:09Z",
+    "pushed_at": "2026-09-16T14:00:34Z"
+  },
+  {
+    "id": 1368306073,
+    "name": "clauderipple",
+    "full_name": "PBJ-2/clauderipple",
+    "owner": {
+      "login": "PBJ-2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285703651?v=4"
+    },
+    "description": "Use GPT, DeepSeek, Kimi, Grok and 400+ models inside the Claude Desktop app while staying signed in to your Claude subscription — no third-party gateway (3P) mode. Puts Claude inside Codex too. One local proxy. Not affiliated with Anthropic or OpenAI.",
+    "topics": [
+      "ai-coding-assistant",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "claude-desktop",
+      "codex",
+      "deepseek",
+      "developer-tools",
+      "gpt",
+      "kimi",
+      "llm",
+      "mcp",
+      "model-router",
+      "nodejs",
+      "openai",
+      "openrouter",
+      "proxy",
+      "typescript"
+    ],
+    "html_url": "https://github.com/PBJ-2/clauderipple",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-13T11:06:55Z",
+    "updated_at": "2026-09-19T01:08:09Z",
+    "pushed_at": "2026-09-19T01:08:05Z"
+  },
+  {
+    "id": 1369836195,
+    "name": "git2zentao",
+    "full_name": "1414894911/git2zentao",
+    "owner": {
+      "login": "1414894911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43004720?v=4"
+    },
+    "description": "Git 提交一键转禅道任务：自动汇总需求、按 T1~T7 难度阶梯定工时、日期铺排与任务闭环，生成经得起审计的工时汇报。AI Agent 技能包，支持 Gitea/GitHub/Gitee，MIT 开源。",
+    "topics": [
+      "ai-agent",
+      "automation",
+      "git",
+      "nodejs",
+      "playwright",
+      "timesheet",
+      "worklog",
+      "zentao"
+    ],
+    "html_url": "https://github.com/1414894911/git2zentao",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T11:49:59Z",
+    "updated_at": "2026-09-16T08:40:29Z",
+    "pushed_at": "2026-09-15T01:52:08Z"
+  },
+  {
+    "id": 1368648057,
+    "name": "discord-live-voice-bot",
+    "full_name": "jevgpt/discord-live-voice-bot",
+    "owner": {
+      "login": "jevgpt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106440606?v=4"
+    },
+    "description": "Discord voice bot with real-time speech: listens to a voice channel, talks back, plays its own music with ducking, and runs 53 server tools behind a voice-based owner gate. Falls back to a fully local pipeline (Whisper + Chatterbox) when the API is down. English and Turkish.",
+    "topics": [
+      "discord-bot",
+      "discordjs",
+      "music-bot",
+      "nodejs",
+      "openai",
+      "realtime",
+      "speech-to-speech",
+      "text-to-speech",
+      "voice-assistant",
+      "whisper"
+    ],
+    "html_url": "https://github.com/jevgpt/discord-live-voice-bot",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T17:16:37Z",
+    "updated_at": "2026-09-18T22:58:42Z",
+    "pushed_at": "2026-09-18T22:58:38Z"
+  },
+  {
+    "id": 1375579368,
+    "name": "jev-cli",
+    "full_name": "Nasrallah-AL/jev-cli",
+    "owner": {
+      "login": "Nasrallah-AL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114925308?v=4"
+    },
+    "description": "Command-line tool for TypeSafe's Jev AI model",
+    "topics": [
+      "ai",
+      "cli",
+      "fact-checking",
+      "guardrails",
+      "jev",
+      "llm-tools",
+      "nodejs",
+      "prompt-injection",
+      "semantic-search",
+      "typesafe",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Nasrallah-AL/jev-cli",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T08:16:41Z",
+    "updated_at": "2026-09-18T19:14:12Z",
+    "pushed_at": "2026-09-18T14:27:55Z"
+  },
+  {
+    "id": 1368339664,
+    "name": "skipper",
+    "full_name": "bilol-makhmudov/skipper",
+    "owner": {
+      "login": "bilol-makhmudov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68492019?v=4"
+    },
+    "description": "Mission control for Claude Code: see and steer every session, subagent, /loop and todo list from one local dashboard. Zero dependencies.",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "ai-tools",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "coding-agents",
+      "dashboard",
+      "developer-tools",
+      "devtools",
+      "llm-tools",
+      "local-first",
+      "multi-agent",
+      "nodejs",
+      "productivity",
+      "subagents"
+    ],
+    "html_url": "https://github.com/bilol-makhmudov/skipper",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 4,
+    "created_at": "2026-09-13T11:53:59Z",
+    "updated_at": "2026-09-18T20:49:33Z",
+    "pushed_at": "2026-09-17T16:24:25Z"
+  },
+  {
+    "id": 1369177200,
+    "name": "RemyStack-sdk",
+    "full_name": "Nicolas-Pedernera/RemyStack-sdk",
+    "owner": {
+      "login": "Nicolas-Pedernera",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300781681?v=4"
+    },
+    "description": "Official Node.js/TypeScript SDK for RemyStack — B2B integration orchestration for LatAm (payments + e-invoicing) with built-in retries.",
+    "topics": [
+      "css",
+      "docker",
+      "javascript",
+      "mit-license",
+      "node-js",
+      "nodejs",
+      "postgresql",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Nicolas-Pedernera/RemyStack-sdk",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T02:47:13Z",
+    "updated_at": "2026-09-15T21:38:04Z",
+    "pushed_at": "2026-09-14T04:01:07Z"
+  },
+  {
+    "id": 1375240430,
+    "name": "whale-persona",
+    "full_name": "shenA2024/whale-persona",
+    "owner": {
+      "login": "shenA2024",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174338298?v=4"
+    },
+    "description": "多宿主人设引擎：一份 config.json 让 DSH 与 ZCode 共用同一套人设、工作契约、思维链语言与长期记忆；记忆由 AI 提议、人工确认后才生效（代码强制）。A persona engine for AI coding harnesses (DeepSeek Harness + ZCode).",
+    "topics": [
+      "ai-agent",
+      "deepseek-harness",
+      "dsh",
+      "llm",
+      "memory",
+      "nodejs",
+      "persona",
+      "plugin",
+      "prompt-engineering",
+      "system-prompt",
+      "zcode"
+    ],
+    "html_url": "https://github.com/shenA2024/whale-persona",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T01:35:30Z",
+    "updated_at": "2026-09-18T16:49:05Z",
+    "pushed_at": "2026-09-18T16:49:01Z"
+  },
+  {
+    "id": 1374252740,
+    "name": "Certification-Exams-Dumps-FREE",
+    "full_name": "swarnava-dutta/Certification-Exams-Dumps-FREE",
+    "owner": {
+      "login": "swarnava-dutta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46235752?v=4"
+    },
+    "description": "This repo helps you to fetch dumps for any exam | Examtopics.com Alternative | Absolutely FREE 💯",
+    "topics": [
+      "aws-certification",
+      "azure-certification",
+      "certification",
+      "cloud-certification",
+      "exam-dumps",
+      "exam-preparation",
+      "nodejs",
+      "pdf-generator",
+      "practice-questions",
+      "study-tools"
+    ],
+    "html_url": "https://github.com/swarnava-dutta/Certification-Exams-Dumps-FREE",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T10:13:05Z",
+    "updated_at": "2026-09-17T15:34:52Z",
+    "pushed_at": "2026-09-17T14:21:09Z"
+  },
+  {
+    "id": 1374687850,
+    "name": "ielts-writing-studio",
+    "full_name": "wang-qingfeng-dev/ielts-writing-studio",
+    "owner": {
+      "login": "wang-qingfeng-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/304914205?v=4"
+    },
+    "description": "句进：面向中文学习者的雅思 Task 2 写作工作台。三栏对照、AI 练习估分、联动批改与复习卡，支持本地 Ollama 和兼容 API。",
+    "topics": [
+      "ielts",
+      "language-learning",
+      "nodejs",
+      "ollama",
+      "writing"
+    ],
+    "html_url": "https://github.com/wang-qingfeng-dev/ielts-writing-studio",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T15:56:57Z",
+    "updated_at": "2026-09-18T08:40:29Z",
+    "pushed_at": "2026-09-18T07:28:10Z"
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "id": 1369799711,
+    "name": "flybrain-robot-bridge",
+    "full_name": "Frankweb33/flybrain-robot-bridge",
+    "owner": {
+      "login": "Frankweb33",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259645792?v=4"
+    },
+    "description": "Experimental Drosophila-inspired camera-to-robot bridge. Working mock neural backend, optical flow, IMU feedback and UDP motor control. MaleCNS integration planned.",
+    "topics": [
+      "biomimetic-robotics",
+      "brain-simulation",
+      "computer-vision",
+      "connectome",
+      "drosophila",
+      "esp32",
+      "neuroscience",
+      "robotics"
+    ],
+    "html_url": "https://github.com/Frankweb33/flybrain-robot-bridge",
+    "stargazers_count": 206,
+    "language": "Python",
+    "forks_count": 36,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T11:21:32Z",
+    "updated_at": "2026-09-19T00:09:36Z",
+    "pushed_at": "2026-09-16T09:21:44Z"
+  },
+  {
+    "id": 1369959763,
+    "name": "runntime",
+    "full_name": "software-mansion/runntime",
+    "owner": {
+      "login": "software-mansion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56880679?v=4"
+    },
+    "description": "High-performance neural networks engine for web, built on top of TypeGPU",
+    "topics": [
+      "ai",
+      "computer-vision",
+      "edge",
+      "llm",
+      "ml",
+      "nlp",
+      "on-device",
+      "speech",
+      "speech-to-text",
+      "webml"
+    ],
+    "html_url": "https://github.com/software-mansion/runntime",
+    "stargazers_count": 43,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-14T13:28:27Z",
+    "updated_at": "2026-09-18T16:54:13Z",
+    "pushed_at": "2026-09-18T11:37:31Z"
+  },
+  {
+    "id": 1370617579,
+    "name": "egodup",
+    "full_name": "Fenon-Robotics/egodup",
+    "owner": {
+      "login": "Fenon-Robotics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319700097?v=4"
+    },
+    "description": "Local-first detection and temporal localization of reused footage in egocentric video.",
+    "topics": [
+      "computer-vision",
+      "copy-detection",
+      "digital-forensics",
+      "egocentric-video",
+      "faiss",
+      "pytorch",
+      "video-similarity"
+    ],
+    "html_url": "https://github.com/Fenon-Robotics/egodup",
+    "stargazers_count": 35,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T22:20:23Z",
+    "updated_at": "2026-09-17T07:40:31Z",
+    "pushed_at": "2026-09-14T23:02:17Z"
+  },
+  {
+    "id": 1369457847,
+    "name": "awesome-ai-food-scanner",
+    "full_name": "designproart/awesome-ai-food-scanner",
+    "owner": {
+      "login": "designproart",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328992268?v=4"
+    },
+    "description": "🌟 A curated showcase and architecture overview of AI-powered computer vision tools for instant food recognition, calorie estimation, and macro analysis from photos.",
+    "topics": [
+      "ai-scanner",
+      "computer-vision",
+      "deep-learning",
+      "food-recognition",
+      "image-segmentation",
+      "nutrition-analysis"
+    ],
+    "html_url": "https://github.com/designproart/awesome-ai-food-scanner",
+    "stargazers_count": 15,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T07:18:00Z",
+    "updated_at": "2026-09-18T14:46:46Z",
+    "pushed_at": "2026-09-14T07:19:35Z"
+  },
+  {
+    "id": 1367932755,
+    "name": "wmdrift",
+    "full_name": "j1s4nn/wmdrift",
+    "owner": {
+      "login": "j1s4nn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231989888?v=4"
+    },
+    "description": "Diagnostics for autoregressive video world models - quantifies camera drift, temporal jitter, memory attenuation, and quality decay from rollouts.",
+    "topics": [
+      "clip",
+      "computer-vision",
+      "diagnostics",
+      "evaluation",
+      "lpips",
+      "opencv",
+      "pytorch",
+      "video-generation",
+      "visual-odometry",
+      "world-models"
+    ],
+    "html_url": "https://github.com/j1s4nn/wmdrift",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T02:40:32Z",
+    "updated_at": "2026-09-18T16:56:52Z",
+    "pushed_at": "2026-09-16T06:39:02Z"
+  },
+  {
+    "id": 1373043882,
+    "name": "ai-apis-you-can-ship-today",
+    "full_name": "cporter202/ai-apis-you-can-ship-today",
+    "owner": {
+      "login": "cporter202",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163957687?v=4"
+    },
+    "description": "This GitHub repo is a powerhouse collection of AI APIs you can start using immediately to ship real products — from LLM tools to computer vision and agents. One of the most valuable AI API lists on GitHub.",
+    "topics": [
+      "agents",
+      "ai",
+      "apify",
+      "apis",
+      "awesome-list",
+      "chatgpt",
+      "computer-vision",
+      "developers",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "openai"
+    ],
+    "html_url": "https://github.com/cporter202/ai-apis-you-can-ship-today",
+    "stargazers_count": 9,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T13:01:02Z",
+    "updated_at": "2026-09-18T15:11:00Z",
+    "pushed_at": "2026-09-16T13:11:39Z"
+  },
+  {
+    "id": 1375615157,
+    "name": "geo-sleuth",
+    "full_name": "Oldcircle/geo-sleuth",
+    "owner": {
+      "login": "Oldcircle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72587513?v=4"
+    },
+    "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "computer-vision",
+      "cursor",
+      "gemini-cli",
+      "geoguessr",
+      "geoint",
+      "geolocation",
+      "github-copilot",
+      "image-geolocation",
+      "opencode",
+      "openstreetmap",
+      "osint",
+      "photo-geolocation",
+      "reverse-image-search",
+      "satellite-imagery"
+    ],
+    "html_url": "https://github.com/Oldcircle/geo-sleuth",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T08:51:34Z",
+    "updated_at": "2026-09-19T01:16:29Z",
+    "pushed_at": "2026-09-18T10:44:39Z"
+  },
+  {
+    "id": 1368157268,
+    "name": "flowers102-efficientnet-classifier",
+    "full_name": "arielshakaramiro/flowers102-efficientnet-classifier",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Transfer-learning image classifier for the Oxford Flowers 102 dataset using EfficientNet-B1 in PyTorch, with a GPU-verified training notebook and FastAPI serving.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "efficientnet",
+      "fastapi",
+      "image-classification",
+      "oxford-flowers-102",
+      "pytorch",
+      "transfer-learning"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/flowers102-efficientnet-classifier",
+    "stargazers_count": 6,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T07:34:29Z",
+    "updated_at": "2026-09-17T19:17:40Z",
+    "pushed_at": "2026-09-14T00:41:52Z"
+  },
+  {
+    "id": 1368133749,
+    "name": "computer-vision-image-processing",
+    "full_name": "arielshakaramiro/computer-vision-image-processing",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Hands-on Computer Vision & Image Processing with OpenCV — from digital image fundamentals to a deployed FastAPI service (Colab + ngrok)",
+    "topics": [
+      "api",
+      "computer-vision",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "fastapi",
+      "google-colab",
+      "image-processing",
+      "machine-learning",
+      "ngrok",
+      "opencv",
+      "python"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/computer-vision-image-processing",
+    "stargazers_count": 6,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T07:02:27Z",
+    "updated_at": "2026-09-17T19:17:44Z",
+    "pushed_at": "2026-09-13T16:32:49Z"
+  },
+  {
+    "id": 1369077698,
+    "name": "single-object-detection-car",
+    "full_name": "arielshakaramiro/single-object-detection-car",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Single object detector (MobileNetV2 backbone) trained through 3 documented iterations — includes an honest look at where and why the model's localization breaks down",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "fastapi",
+      "mobilenetv2",
+      "object-detection",
+      "pytorch",
+      "transfer-learning"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/single-object-detection-car",
+    "stargazers_count": 5,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T00:43:30Z",
+    "updated_at": "2026-09-17T19:17:39Z",
+    "pushed_at": "2026-09-14T01:01:16Z"
+  },
+  {
+    "id": 1371092012,
+    "name": "semantic-segmentation-unet",
+    "full_name": "arielshakaramiro/semantic-segmentation-unet",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "U-Net semantic segmentation on CARLA driving-scene images, built from scratch in PyTorch and served through a FastAPI endpoint.",
+    "topics": [
+      "autonomous-driving",
+      "carla-simulator",
+      "computer-vision",
+      "deep-learning",
+      "fastapi",
+      "image-segmentation",
+      "pytorch",
+      "sematic-segmentation",
+      "unet"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/semantic-segmentation-unet",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T07:47:48Z",
+    "updated_at": "2026-09-18T17:20:22Z",
+    "pushed_at": "2026-09-18T17:20:18Z"
+  },
+  {
+    "id": 1368432039,
+    "name": "Real-Time-Smoke-Fire-Detection-System",
+    "full_name": "mirzayasirabdullahbaig07/Real-Time-Smoke-Fire-Detection-System",
+    "owner": {
+      "login": "mirzayasirabdullahbaig07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194883236?v=4"
+    },
+    "description": "This end-to-end Computer Vision application uses custom-trained YOLO11 weights to detect fire and smoke across multiple input sources, including images, videos, and live webcam streams.",
+    "topics": [
+      "ai",
+      "computer-vision",
+      "cv",
+      "fire-detection",
+      "machine-learning",
+      "python",
+      "streamlit",
+      "yolo11"
+    ],
+    "html_url": "https://github.com/mirzayasirabdullahbaig07/Real-Time-Smoke-Fire-Detection-System",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T13:51:30Z",
+    "updated_at": "2026-09-15T06:06:46Z",
+    "pushed_at": "2026-09-13T14:13:12Z"
+  },
+  {
+    "id": 1371809903,
+    "name": "MarigoldV2-Nuke",
+    "full_name": "tardis7732/MarigoldV2-Nuke",
+    "owner": {
+      "login": "tardis7732",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52117406?v=4"
+    },
+    "description": "Marigold V2 normals and relative depth for Nuke, with native OFX inference and depth.Z output.",
+    "topics": [
+      "computer-vision",
+      "cuda",
+      "marigold",
+      "nuke",
+      "openfx",
+      "surface-normals"
+    ],
+    "html_url": "https://github.com/tardis7732/MarigoldV2-Nuke",
+    "stargazers_count": 4,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T16:46:44Z",
+    "updated_at": "2026-09-17T01:02:04Z",
+    "pushed_at": "2026-09-16T08:03:20Z"
+  },
+  {
+    "id": 1372759834,
+    "name": "sn-classification-ztf",
+    "full_name": "riku-1825/sn-classification-ztf",
+    "owner": {
+      "login": "riku-1825",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211513181?v=4"
+    },
+    "description": "Built automated anomaly- detection and light-curve  classification pipelines using recurrent neural networks to sort real-time alerts into Type Ia, Ib/c, and II supernovae.",
+    "topics": [
+      "astrophysics",
+      "computer-vision",
+      "deep-learning",
+      "supernovae"
+    ],
+    "html_url": "https://github.com/riku-1825/sn-classification-ztf",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T08:43:34Z",
+    "updated_at": "2026-09-17T08:58:02Z",
+    "pushed_at": "2026-09-17T08:57:58Z"
+  },
+  {
+    "id": 1375520452,
+    "name": "Aniflow",
+    "full_name": "aashish254/Aniflow",
+    "owner": {
+      "login": "aashish254",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145881415?v=4"
+    },
+    "description": "🎬 Autonomous AI Studio for Manhwa & Webtoon Recaps — Vision Pipeline (YOLOv8 + Magi v2), Multi-Voice TTS & Video Synthesis",
+    "topics": [
+      "ai-video-generator",
+      "automation",
+      "computer-vision",
+      "edge-tts",
+      "manga-ocr",
+      "manhwa",
+      "moviepy",
+      "python",
+      "text-to-speech",
+      "webtoon",
+      "yolov8"
+    ],
+    "html_url": "https://github.com/aashish254/Aniflow",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T07:18:40Z",
+    "updated_at": "2026-09-18T16:23:49Z",
+    "pushed_at": "2026-09-18T16:23:44Z"
+  },
+  {
+    "id": 1374040090,
+    "name": "mask-detection-yolov8",
+    "full_name": "arielshakaramiro/mask-detection-yolov8",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Real-time face mask detection with YOLOv8, iteratively rebalanced across five model versions after real-world testing exposed a class bias, with an MQTT-based deployment demo.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "mask-detection",
+      "mqtt",
+      "object-detection",
+      "pytorch",
+      "roboflow",
+      "ultralytics",
+      "yolov8"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/mask-detection-yolov8",
+    "stargazers_count": 3,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T06:38:01Z",
+    "updated_at": "2026-09-17T23:18:35Z",
+    "pushed_at": "2026-09-17T06:48:07Z"
+  },
+  {
+    "id": 1374226351,
+    "name": "ClickVOS-Traffic",
+    "full_name": "525421zhr-max/ClickVOS-Traffic",
+    "owner": {
+      "login": "525421zhr-max",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322342404?v=4"
+    },
+    "description": "基于 SAM2 的交通视频交互式分割与半自动标注工具（大创项目，持续开发中）",
+    "topics": [
+      "annotation-tool",
+      "computer-vision",
+      "gradio",
+      "pytorch",
+      "sam2",
+      "traffic-video",
+      "video-segmentation"
+    ],
+    "html_url": "https://github.com/525421zhr-max/ClickVOS-Traffic",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T09:46:33Z",
+    "updated_at": "2026-09-18T11:22:05Z",
+    "pushed_at": "2026-09-18T11:22:01Z"
+  },
+  {
+    "id": 1369329061,
+    "name": "agrivision-bench",
+    "full_name": "kissanai/agrivision-bench",
+    "owner": {
+      "login": "kissanai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141335076?v=4"
+    },
+    "description": "Open benchmarks for agricultural vision systems — scored on precision under abstention. Diagnosis track v1.0: three suites, 1,468 cases, frozen contract.",
+    "topics": [
+      "abstention",
+      "agriculture",
+      "benchmark",
+      "computer-vision",
+      "crop-disease",
+      "evaluation",
+      "plant-pathology"
+    ],
+    "html_url": "https://github.com/kissanai/agrivision-bench",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T05:24:17Z",
+    "updated_at": "2026-09-18T11:40:21Z",
+    "pushed_at": "2026-09-14T05:26:20Z"
+  },
+  {
+    "id": 1369041036,
+    "name": "TrustID-Smart-Identity-Verification-System",
+    "full_name": "gulshanverse/TrustID-Smart-Identity-Verification-System",
+    "owner": {
+      "login": "gulshanverse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222682437?v=4"
+    },
+    "description": "TrustID is an AI-assisted identity and document screening platform built for faster, evidence-driven and auditable verification workflows.",
+    "topics": [
+      "blockchain",
+      "computer-vision",
+      "cybersecurity",
+      "document-verification",
+      "fastapi",
+      "fraud-detection",
+      "ml",
+      "nextjs",
+      "nodejs",
+      "ocr",
+      "postgresql",
+      "sih2026"
+    ],
+    "html_url": "https://github.com/gulshanverse/TrustID-Smart-Identity-Verification-System",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T00:00:22Z",
+    "updated_at": "2026-09-18T21:50:48Z",
+    "pushed_at": "2026-09-18T21:50:44Z"
+  },
+  {
+    "id": 1374244568,
+    "name": "veritrust",
+    "full_name": "YashGupta2116/veritrust",
+    "owner": {
+      "login": "YashGupta2116",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158163628?v=4"
+    },
+    "description": "Coding interview platform that turns browser, editor, and webcam signals into an explainable integrity confidence score. Every flag comes with its evidence, and a human reviewer makes the final call. Built with Next.js, Express, Node.js, Python, and LiveKit.",
+    "topics": [
+      "anomoly-detection",
+      "code-execution",
+      "computer-vision",
+      "docker",
+      "explainable-ai",
+      "express",
+      "hackathon",
+      "human-in-the-loop",
+      "interview-integrity",
+      "livekit",
+      "mediapipe",
+      "monaco-editor",
+      "nextjs",
+      "nodejs",
+      "proctoring",
+      "python",
+      "telemetry",
+      "webrtc",
+      "yolo"
+    ],
+    "html_url": "https://github.com/YashGupta2116/veritrust",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T10:04:53Z",
+    "updated_at": "2026-09-18T22:48:27Z",
+    "pushed_at": "2026-09-18T22:48:24Z"
+  }
+]

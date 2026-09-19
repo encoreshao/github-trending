@@ -1,0 +1,617 @@
+[
+  {
+    "id": 1374058281,
+    "name": "awesome-typesafe",
+    "full_name": "AbdelStark/awesome-typesafe",
+    "owner": {
+      "login": "AbdelStark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45264458?v=4"
+    },
+    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
+    "topics": [
+      "ai-agents",
+      "awesome-list",
+      "jev",
+      "llm",
+      "machine-learning",
+      "structured-output",
+      "system-one-models",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/AbdelStark/awesome-typesafe",
+    "stargazers_count": 232,
+    "language": "CSS",
+    "forks_count": 34,
+    "open_issues_count": 2,
+    "created_at": "2026-09-17T06:56:37Z",
+    "updated_at": "2026-09-19T01:58:34Z",
+    "pushed_at": "2026-09-18T18:08:09Z"
+  },
+  {
+    "id": 1373440611,
+    "name": "typesafe-computer-use",
+    "full_name": "awlevin/typesafe-computer-use",
+    "owner": {
+      "login": "awlevin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8488209?v=4"
+    },
+    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "computer-use",
+      "macos",
+      "ocr",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/awlevin/typesafe-computer-use",
+    "stargazers_count": 229,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 4,
+    "created_at": "2026-09-16T17:48:45Z",
+    "updated_at": "2026-09-19T01:52:27Z",
+    "pushed_at": "2026-09-18T23:33:50Z"
+  },
+  {
+    "id": 1369759058,
+    "name": "QCode",
+    "full_name": "Qiuner/QCode",
+    "owner": {
+      "login": "Qiuner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149919158?v=4"
+    },
+    "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "deepseek",
+      "developer-tools",
+      "gamification",
+      "godot",
+      "learn-to-code",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/Qiuner/QCode",
+    "stargazers_count": 192,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 16,
+    "created_at": "2026-09-14T10:50:30Z",
+    "updated_at": "2026-09-19T01:59:00Z",
+    "pushed_at": "2026-09-18T16:07:12Z"
+  },
+  {
+    "id": 1369710615,
+    "name": "ToolReplay",
+    "full_name": "Matthew0822/ToolReplay",
+    "owner": {
+      "login": "Matthew0822",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15010780?v=4"
+    },
+    "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
+    "topics": [
+      "ai-agents",
+      "audit",
+      "cli",
+      "determinism",
+      "hash-chain",
+      "jsonl",
+      "permissions",
+      "python",
+      "replay",
+      "scope",
+      "security",
+      "tool-call"
+    ],
+    "html_url": "https://github.com/Matthew0822/ToolReplay",
+    "stargazers_count": 180,
+    "language": "Python",
+    "forks_count": 21,
+    "open_issues_count": 1,
+    "created_at": "2026-09-14T10:11:00Z",
+    "updated_at": "2026-09-18T16:34:26Z",
+    "pushed_at": "2026-09-14T12:09:08Z"
+  },
+  {
+    "id": 1368857095,
+    "name": "gap-trap",
+    "full_name": "pliablepixels/gap-trap",
+    "owner": {
+      "login": "pliablepixels",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4116654?v=4"
+    },
+    "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+    "topics": [
+      "agent-skills",
+      "agentic-coding",
+      "agents-md",
+      "ai-agents",
+      "ai-coding",
+      "ci-cd",
+      "claude-code",
+      "claude-skills",
+      "code-quality",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "github-actions",
+      "llm",
+      "mutation-testing",
+      "quality-gates",
+      "tdd",
+      "testing",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/pliablepixels/gap-trap",
+    "stargazers_count": 171,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T20:29:08Z",
+    "updated_at": "2026-09-18T20:49:56Z",
+    "pushed_at": "2026-09-17T23:44:28Z"
+  },
+  {
+    "id": 1373978991,
+    "name": "jev-review",
+    "full_name": "NiazMorshed2007/jev-review",
+    "owner": {
+      "login": "NiazMorshed2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77217706?v=4"
+    },
+    "description": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+    "topics": [
+      "agent-plugin",
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "jev",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "opencode",
+      "software-quality",
+      "typescript"
+    ],
+    "html_url": "https://github.com/NiazMorshed2007/jev-review",
+    "stargazers_count": 123,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 2,
+    "created_at": "2026-09-17T05:24:51Z",
+    "updated_at": "2026-09-19T01:41:37Z",
+    "pushed_at": "2026-09-17T17:15:20Z"
+  },
+  {
+    "id": 1375694187,
+    "name": "awesome-jev",
+    "full_name": "cobanov/awesome-jev",
+    "owner": {
+      "login": "cobanov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29142615?v=4"
+    },
+    "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "confidence-aware-ai",
+      "decision-intelligence",
+      "jev",
+      "llm-guardrails",
+      "model-routing",
+      "open-source",
+      "structured-output",
+      "system-one-models",
+      "typesafe-ai"
+    ],
+    "html_url": "https://github.com/cobanov/awesome-jev",
+    "stargazers_count": 118,
+    "language": null,
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T10:12:18Z",
+    "updated_at": "2026-09-19T01:45:18Z",
+    "pushed_at": "2026-09-18T23:29:37Z"
+  },
+  {
+    "id": 1368223687,
+    "name": "aside-codemode",
+    "full_name": "lidge-jun/aside-codemode",
+    "owner": {
+      "login": "lidge-jun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243035832?v=4"
+    },
+    "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "aside",
+      "browser-agent",
+      "browser-automation",
+      "cli",
+      "code-mode",
+      "codex",
+      "developer-tools",
+      "llm-tools",
+      "nodejs",
+      "npm-package",
+      "playwright",
+      "ripgrep",
+      "sandbox"
+    ],
+    "html_url": "https://github.com/lidge-jun/aside-codemode",
+    "stargazers_count": 114,
+    "language": "JavaScript",
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T09:08:26Z",
+    "updated_at": "2026-09-18T11:51:58Z",
+    "pushed_at": "2026-09-18T09:25:27Z"
+  },
+  {
+    "id": 1370509929,
+    "name": "Superpowers_Multi_AI",
+    "full_name": "RectangleStory/Superpowers_Multi_AI",
+    "owner": {
+      "login": "RectangleStory",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319182333?v=4"
+    },
+    "description": "⚡ Modular prompt-engineering framework for AI Agents (Cursor, Claude Code, Copilot). Forces structured SDLC, linear execution, context isolation, and systematic debugging via a standalone Windows launcher. Stop vibe coding, start agentic discipline! 🚀",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-tools",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "cursor",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "html_url": "https://github.com/RectangleStory/Superpowers_Multi_AI",
+    "stargazers_count": 100,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T20:11:30Z",
+    "updated_at": "2026-09-18T19:09:22Z",
+    "pushed_at": "2026-09-14T20:19:56Z"
+  },
+  {
+    "id": 1368170995,
+    "name": "pcb-layout-design",
+    "full_name": "zhbi98/pcb-layout-design",
+    "owner": {
+      "login": "zhbi98",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49710448?v=4"
+    },
+    "description": "【Codex PCB Layout Skill】GPT-6  Astra x KiCad10. PCB 自动布线 Skill",
+    "topics": [
+      "ai-agents",
+      "pcb",
+      "pcb-design",
+      "pcb-layout",
+      "skills"
+    ],
+    "html_url": "https://github.com/zhbi98/pcb-layout-design",
+    "stargazers_count": 95,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T07:57:11Z",
+    "updated_at": "2026-09-19T01:43:41Z",
+    "pushed_at": "2026-09-14T00:59:24Z"
+  },
+  {
+    "id": 1366971725,
+    "name": "Baize",
+    "full_name": "Xu123-Bob/Baize",
+    "owner": {
+      "login": "Xu123-Bob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286625510?v=4"
+    },
+    "description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding"
+    ],
+    "html_url": "https://github.com/Xu123-Bob/Baize",
+    "stargazers_count": 72,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-12T05:17:38Z",
+    "updated_at": "2026-09-18T14:08:15Z",
+    "pushed_at": "2026-09-17T10:29:57Z"
+  },
+  {
+    "id": 1371542957,
+    "name": "vibetube",
+    "full_name": "mutonby/vibetube",
+    "owner": {
+      "login": "mutonby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30499505?v=4"
+    },
+    "description": "Desktop multicam recorder for macOS: records your screen and webcam in sync, then Claude Code or Codex edits the final video — shot selection, subtitles, graphics and SFX.",
+    "topics": [
+      "agentic-workflow",
+      "ai-agents",
+      "ai-video",
+      "background-removal",
+      "claude-code",
+      "codex",
+      "electron",
+      "ffmpeg",
+      "hyperframes",
+      "loom-alternative",
+      "macos",
+      "multicam",
+      "screen-recorder",
+      "screen-recording",
+      "teleprompter",
+      "tella",
+      "video-editing",
+      "video-generation",
+      "webcam",
+      "whisper"
+    ],
+    "html_url": "https://github.com/mutonby/vibetube",
+    "stargazers_count": 66,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T13:41:36Z",
+    "updated_at": "2026-09-18T23:03:55Z",
+    "pushed_at": "2026-09-15T15:07:32Z"
+  },
+  {
+    "id": 1367299537,
+    "name": "clearai-dsh",
+    "full_name": "Clearailhc/clearai-dsh",
+    "owner": {
+      "login": "Clearailhc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30255218?v=4"
+    },
+    "description": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+    "topics": [
+      "agent-preset",
+      "ai-agents",
+      "deepseek-harness",
+      "dsh-plugin",
+      "epistemic-loop",
+      "scientific-discovery"
+    ],
+    "html_url": "https://github.com/Clearailhc/clearai-dsh",
+    "stargazers_count": 64,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 1,
+    "created_at": "2026-09-12T12:58:44Z",
+    "updated_at": "2026-09-19T01:54:39Z",
+    "pushed_at": "2026-09-18T11:24:32Z"
+  },
+  {
+    "id": 1367954971,
+    "name": "IvyClaw",
+    "full_name": "ivyfan-toowell/IvyClaw",
+    "owner": {
+      "login": "ivyfan-toowell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314101377?v=4"
+    },
+    "description": "A production-oriented multi-agent AI Agent system for software engineering.  |   面向软件研发任务的多智能体 AI Agent 工程系统",
+    "topics": [
+      "ai-agents",
+      "deepagents",
+      "deepagents-langgraph",
+      "llm",
+      "llm-agent",
+      "llm-agents",
+      "multi-agent",
+      "multi-agent-systems"
+    ],
+    "html_url": "https://github.com/ivyfan-toowell/IvyClaw",
+    "stargazers_count": 64,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T03:14:36Z",
+    "updated_at": "2026-09-18T11:04:40Z",
+    "pushed_at": "2026-09-13T04:33:41Z"
+  },
+  {
+    "id": 1366848971,
+    "name": "agent-skill-sync",
+    "full_name": "kina-cmd/agent-skill-sync",
+    "owner": {
+      "login": "kina-cmd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54349349?v=4"
+    },
+    "description": "Scan, classify (A/B/C/D) and sync AI-agent SKILL.md files across toolchains (Codex, Claude Code, WorkBuddy). Zero-dependency Python CLI.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "python",
+      "skills",
+      "sync"
+    ],
+    "html_url": "https://github.com/kina-cmd/agent-skill-sync",
+    "stargazers_count": 65,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-12T01:50:30Z",
+    "updated_at": "2026-09-19T02:00:12Z",
+    "pushed_at": "2026-09-12T04:08:28Z"
+  },
+  {
+    "id": 1369904743,
+    "name": "tasktrooper",
+    "full_name": "makifbaysal/tasktrooper",
+    "owner": {
+      "login": "makifbaysal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25031940?v=4"
+    },
+    "description": "Local-first agent platform: board + role agents + Claude Code runs, all on your own Mac",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "autonomous-agents",
+      "claude",
+      "claude-code",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "devops-automation",
+      "electron",
+      "golang",
+      "issue-tracker",
+      "kanban",
+      "llm-agents",
+      "local-first",
+      "macos",
+      "mcp",
+      "multi-agent",
+      "opencode",
+      "software-factory"
+    ],
+    "html_url": "https://github.com/makifbaysal/tasktrooper",
+    "stargazers_count": 59,
+    "language": "Go",
+    "forks_count": 7,
+    "open_issues_count": 5,
+    "created_at": "2026-09-14T12:45:52Z",
+    "updated_at": "2026-09-18T20:42:57Z",
+    "pushed_at": "2026-09-18T20:42:53Z"
+  },
+  {
+    "id": 1368214794,
+    "name": "awesome-ai-x-accounts",
+    "full_name": "everclear077/awesome-ai-x-accounts",
+    "owner": {
+      "login": "everclear077",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129674099?v=4"
+    },
+    "description": "A categorized directory of X accounts covering AI, LLMs, agents, and technology, with original profile bios and follower counts. Available in 7 languages.",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "llm",
+      "multilingual",
+      "technology",
+      "twitter",
+      "x-accounts"
+    ],
+    "html_url": "https://github.com/everclear077/awesome-ai-x-accounts",
+    "stargazers_count": 57,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 6,
+    "created_at": "2026-09-13T08:57:52Z",
+    "updated_at": "2026-09-18T23:43:46Z",
+    "pushed_at": "2026-09-18T14:04:49Z"
+  },
+  {
+    "id": 1373264172,
+    "name": "seanswarm",
+    "full_name": "ccai40359-wq/seanswarm",
+    "owner": {
+      "login": "ccai40359-wq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268202014?v=4"
+    },
+    "description": "Multi-agent workflow skills for mainstream coding agents (Claude Code / Codex / Cursor): evidence-governed research fan-out, dual-channel document reading, dev delivery with independent review and visual acceptance.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "codex",
+      "cursor",
+      "multi-agent",
+      "orchestration",
+      "research-automation"
+    ],
+    "html_url": "https://github.com/ccai40359-wq/seanswarm",
+    "stargazers_count": 53,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T15:38:19Z",
+    "updated_at": "2026-09-18T11:06:48Z",
+    "pushed_at": "2026-09-16T16:20:21Z"
+  },
+  {
+    "id": 1371165789,
+    "name": "GPUtw-Skill",
+    "full_name": "GPUtw-ai/GPUtw-Skill",
+    "owner": {
+      "login": "GPUtw-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329454314?v=4"
+    },
+    "description": "GPUtw.ai official AI knowledge package — teach Claude Code, Codex CLI, Cursor, Copilot and Gemini CLI to use the GPUtw GPU cloud REST API",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "gpu-cloud",
+      "gputw",
+      "openai-codex",
+      "taiwan"
+    ],
+    "html_url": "https://github.com/GPUtw-ai/GPUtw-Skill",
+    "stargazers_count": 52,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T08:53:50Z",
+    "updated_at": "2026-09-17T09:58:51Z",
+    "pushed_at": "2026-09-15T18:06:53Z"
+  },
+  {
+    "id": 1374059973,
+    "name": "skillranker",
+    "full_name": "Dicklesworthstone/skillranker",
+    "owner": {
+      "login": "Dicklesworthstone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35050222?v=4"
+    },
+    "description": "Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, structured JSON, abstention, and local feedback. Requires a TypeSafe API key.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "asupersync",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "frankentui",
+      "jev",
+      "rust",
+      "skill-selection",
+      "typesafe-ai"
+    ],
+    "html_url": "https://github.com/Dicklesworthstone/skillranker",
+    "stargazers_count": 49,
+    "language": "Rust",
+    "forks_count": 5,
+    "open_issues_count": 1,
+    "created_at": "2026-09-17T06:58:19Z",
+    "updated_at": "2026-09-19T01:51:02Z",
+    "pushed_at": "2026-09-19T01:50:59Z"
+  }
+]

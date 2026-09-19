@@ -1,0 +1,561 @@
+[
+  {
+    "id": 1372283288,
+    "name": "minimalist-themes-for-hermes",
+    "full_name": "mykeura/minimalist-themes-for-hermes",
+    "owner": {
+      "login": "mykeura",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125702282?v=4"
+    },
+    "description": "Eighteen warm, light color themes for Hermes Desktop, with readable UI refinements and a simple installable plugin.",
+    "topics": [
+      "electron",
+      "element-ui",
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-desktop",
+      "hermes-plugin",
+      "hermes-skill",
+      "minimalism",
+      "minimalist"
+    ],
+    "html_url": "https://github.com/mykeura/minimalist-themes-for-hermes",
+    "stargazers_count": 71,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T23:46:41Z",
+    "updated_at": "2026-09-18T19:58:07Z",
+    "pushed_at": "2026-09-16T17:06:30Z"
+  },
+  {
+    "id": 1368973896,
+    "name": "hermes-newswire",
+    "full_name": "tony-simons-aiowa/hermes-newswire",
+    "owner": {
+      "login": "tony-simons-aiowa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322693555?v=4"
+    },
+    "description": "Breaking-news ticker plugin for Hermes Desktop — RSS/Atom/JSON-Feed newswire strip above the statusbar with feed search, favicons, and zero API keys",
+    "topics": [
+      "desktop-plugin",
+      "feed-reader",
+      "hermes",
+      "news-ticker",
+      "rss"
+    ],
+    "html_url": "https://github.com/tony-simons-aiowa/hermes-newswire",
+    "stargazers_count": 36,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 3,
+    "created_at": "2026-09-13T22:34:52Z",
+    "updated_at": "2026-09-17T09:26:21Z",
+    "pushed_at": "2026-09-17T04:44:46Z"
+  },
+  {
+    "id": 1367376922,
+    "name": "codex-grok-task-bridge",
+    "full_name": "aipmer/codex-grok-task-bridge",
+    "owner": {
+      "login": "aipmer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19226317?v=4"
+    },
+    "description": "Open-source MCP task bridge for Codex and Grok Bot with async jobs, leases, idempotency, scoped OAuth, and Cloudflare Workers/D1/R2. Hermes integration roadmap included.",
+    "topics": [
+      "agent-orchestration",
+      "cloudflare-workers",
+      "codex",
+      "d1",
+      "grok",
+      "grok-bot",
+      "hermes",
+      "mcp",
+      "model-context-protocol",
+      "r2",
+      "task-queue"
+    ],
+    "html_url": "https://github.com/aipmer/codex-grok-task-bridge",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 5,
+    "created_at": "2026-09-12T14:32:15Z",
+    "updated_at": "2026-09-19T01:32:46Z",
+    "pushed_at": "2026-09-19T01:34:05Z"
+  },
+  {
+    "id": 1370973048,
+    "name": "rn-find",
+    "full_name": "bhpark1013/rn-find",
+    "owner": {
+      "login": "bhpark1013",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112599247?v=4"
+    },
+    "description": "Find and tap React Native elements by visible text through Metro's Hermes inspector. No testIDs, no in-app SDK, no MCP server.",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "expo",
+      "hermes",
+      "idb",
+      "ios-simulator",
+      "metro",
+      "react-native"
+    ],
+    "html_url": "https://github.com/bhpark1013/rn-find",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T05:56:49Z",
+    "updated_at": "2026-09-18T03:59:04Z",
+    "pushed_at": "2026-09-15T09:42:26Z"
+  },
+  {
+    "id": 1373090717,
+    "name": "hermes-office",
+    "full_name": "alphixness/hermes-office",
+    "owner": {
+      "login": "alphixness",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107124438?v=4"
+    },
+    "description": "把你的 Hermes AI 员工放进一间看得见的办公室：老板办公室 / 经理办公室 / 开放工位区 / 聊天室 @ 派活",
+    "topics": [
+      "ai-agents",
+      "ai-office",
+      "automation",
+      "dashboard",
+      "developer-tools",
+      "hermes",
+      "hermes-agent",
+      "kanban",
+      "multi-agent",
+      "python",
+      "pywebview",
+      "visualization"
+    ],
+    "html_url": "https://github.com/alphixness/hermes-office",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T13:36:43Z",
+    "updated_at": "2026-09-18T15:20:05Z",
+    "pushed_at": "2026-09-16T16:14:49Z"
+  },
+  {
+    "id": 1367897052,
+    "name": "hermes-onboarding",
+    "full_name": "boainet/hermes-onboarding",
+    "owner": {
+      "login": "boainet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328558696?v=4"
+    },
+    "description": "龙翼Hermes 自进化方法论 · 让 AI Agent 从\"陌生外包\"变成\"懂你的合伙人\"——Hermes 一键初始化，新老用户零配置增量升级、零副作用，Agent 越用越懂你",
+    "topics": [
+      "agent-setup",
+      "ai-agent",
+      "ai-assistant",
+      "ai-onboarding",
+      "ai-tools",
+      "autonomous-agent",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "open-source",
+      "prompt-engineering",
+      "self-evolving"
+    ],
+    "html_url": "https://github.com/boainet/hermes-onboarding",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T01:47:36Z",
+    "updated_at": "2026-09-18T14:35:56Z",
+    "pushed_at": "2026-09-18T14:35:52Z"
+  },
+  {
+    "id": 1369956256,
+    "name": "hermes-profile-manager",
+    "full_name": "metaone01/hermes-profile-manager",
+    "owner": {
+      "login": "metaone01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99704629?v=4"
+    },
+    "description": "Full profile, provider & model lifecycle manager for the Hermes agent — interactive menus, dry-run previews, key isolation, backup/export/import and health checks. Pure plugin, no core changes. Python 3.9+, MIT.",
+    "topics": [
+      "cli",
+      "dry-run",
+      "dry-run-first",
+      "hermes",
+      "hermes-agent",
+      "hermes-plugin",
+      "i18n",
+      "llm",
+      "profile-manager",
+      "provider-manager",
+      "python",
+      "python3"
+    ],
+    "html_url": "https://github.com/metaone01/hermes-profile-manager",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T13:25:42Z",
+    "updated_at": "2026-09-18T18:27:32Z",
+    "pushed_at": "2026-09-18T18:27:28Z"
+  },
+  {
+    "id": 1375404271,
+    "name": "Lodestone",
+    "full_name": "DFWhit/Lodestone",
+    "owner": {
+      "login": "DFWhit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36218923?v=4"
+    },
+    "description": "Git-native skills, standards, and project memory for AI coding agents.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "cline",
+      "codex",
+      "context-engineering",
+      "hermes",
+      "obsidian",
+      "opencode"
+    ],
+    "html_url": "https://github.com/DFWhit/Lodestone",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T05:12:17Z",
+    "updated_at": "2026-09-18T23:19:18Z",
+    "pushed_at": "2026-09-18T23:19:13Z"
+  },
+  {
+    "id": 1368285058,
+    "name": "operator-stack",
+    "full_name": "dannyzafir/operator-stack",
+    "owner": {
+      "login": "dannyzafir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259040399?v=4"
+    },
+    "description": "Verified automation for operators. Automation tells you it ran. Verification proves it worked.",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "background-growth",
+      "hermes",
+      "observability",
+      "reliability",
+      "self-hosted",
+      "verification"
+    ],
+    "html_url": "https://github.com/dannyzafir/operator-stack",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T10:35:03Z",
+    "updated_at": "2026-09-15T14:39:10Z",
+    "pushed_at": "2026-09-15T08:59:24Z"
+  },
+  {
+    "id": 1376324701,
+    "name": "BuildCompany",
+    "full_name": "Meisburg/BuildCompany",
+    "owner": {
+      "login": "Meisburg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/331023862?v=4"
+    },
+    "description": "portable, nontechnical starter kit for building a company with AI bots. Start with one bot and let it help create the team.",
+    "topics": [
+      "agentskills",
+      "ai-agent",
+      "ai-agents",
+      "bot",
+      "botskills",
+      "grok",
+      "grokbot",
+      "hermes",
+      "hermes-agent",
+      "hermesbot"
+    ],
+    "html_url": "https://github.com/Meisburg/BuildCompany",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T19:06:37Z",
+    "updated_at": "2026-09-19T00:18:31Z",
+    "pushed_at": "2026-09-18T19:21:25Z"
+  },
+  {
+    "id": 1372457512,
+    "name": "edu-brainstorm-loop",
+    "full_name": "design866/edu-brainstorm-loop",
+    "owner": {
+      "login": "design866",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136560702?v=4"
+    },
+    "description": "education brainstorming education design",
+    "topics": [
+      "ai-agents",
+      "brainstorming",
+      "education",
+      "hermes",
+      "multi-agent",
+      "primary-school"
+    ],
+    "html_url": "https://github.com/design866/edu-brainstorm-loop",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T03:19:25Z",
+    "updated_at": "2026-09-18T08:27:56Z",
+    "pushed_at": "2026-09-18T08:27:53Z"
+  },
+  {
+    "id": 1369673890,
+    "name": "hermes-tiered-memory",
+    "full_name": "ncik8/hermes-tiered-memory",
+    "owner": {
+      "login": "ncik8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112868056?v=4"
+    },
+    "description": "Tiered memory layout for Hermes: hot (always-injected), warm (lazy-loaded by topic), cold (grep-only). Drops in for any Hermes install.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "context-engineering",
+      "hermes",
+      "llm",
+      "memory-management",
+      "tiered-memory"
+    ],
+    "html_url": "https://github.com/ncik8/hermes-tiered-memory",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T09:43:26Z",
+    "updated_at": "2026-09-14T09:53:24Z",
+    "pushed_at": "2026-09-14T09:53:17Z"
+  },
+  {
+    "id": 1370976551,
+    "name": "protean-kit",
+    "full_name": "aska-digital/protean-kit",
+    "owner": {
+      "login": "aska-digital",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329396007?v=4"
+    },
+    "description": "Pinned composer for the seven ingredients: resolves a selection from kit.lock.json, verifies the tag SHA and tree hash, then installs with read-back. Reach for it when a fresh machine must install the whole kit at locked versions, or one ingredient with or without its dependencies. Skip it if you want the newest unpinned commit of an ingredient.",
+    "topics": [
+      "ai-agents",
+      "hermes",
+      "installer",
+      "multi-agent",
+      "protean",
+      "protean-kit",
+      "quality-gates"
+    ],
+    "html_url": "https://github.com/aska-digital/protean-kit",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T06:00:37Z",
+    "updated_at": "2026-09-18T06:59:23Z",
+    "pushed_at": "2026-09-17T16:57:19Z"
+  },
+  {
+    "id": 1368267728,
+    "name": "hermes-devin-acp",
+    "full_name": "paxytools/hermes-devin-acp",
+    "owner": {
+      "login": "paxytools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215293927?v=4"
+    },
+    "description": "Use models from your Devin subscription as a Hermes Agent provider, via ACP",
+    "topics": [
+      "acp",
+      "devin",
+      "devin-desktop",
+      "hermes",
+      "hermes-agent"
+    ],
+    "html_url": "https://github.com/paxytools/hermes-devin-acp",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T10:07:41Z",
+    "updated_at": "2026-09-18T14:58:10Z",
+    "pushed_at": "2026-09-18T14:58:07Z"
+  },
+  {
+    "id": 1369163846,
+    "name": "video-editor-content-ops-orgo",
+    "full_name": "jbellsolutions/video-editor-content-ops-orgo",
+    "owner": {
+      "login": "jbellsolutions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7213442?v=4"
+    },
+    "description": "Self-installing Hermes video editor and content operations agent for Orgo. Private uploads, clean edits, clips, thumbnails, review, and Slack.",
+    "topics": [
+      "content-operations",
+      "hermes",
+      "orgo",
+      "slack",
+      "video-editing"
+    ],
+    "html_url": "https://github.com/jbellsolutions/video-editor-content-ops-orgo",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T02:30:51Z",
+    "updated_at": "2026-09-16T03:44:04Z",
+    "pushed_at": "2026-09-16T03:54:56Z"
+  },
+  {
+    "id": 1373189113,
+    "name": "support-system",
+    "full_name": "Louisdelez/support-system",
+    "owner": {
+      "login": "Louisdelez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39908686?v=4"
+    },
+    "description": "Équipe Support IA : tickets, bugs, idées, qualification et relais produit. Windows Rust/Tauri, Hermes et mémoire propre à l’équipe.",
+    "topics": [
+      "ai-agents",
+      "hermes",
+      "rust",
+      "tauri",
+      "windows"
+    ],
+    "html_url": "https://github.com/Louisdelez/support-system",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T14:48:42Z",
+    "updated_at": "2026-09-16T14:48:52Z",
+    "pushed_at": "2026-09-16T14:48:48Z"
+  },
+  {
+    "id": 1374500091,
+    "name": "JonnyAI",
+    "full_name": "jonnyquest1125-dot/JonnyAI",
+    "owner": {
+      "login": "jonnyquest1125-dot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265461539?v=4"
+    },
+    "description": "杨浩哲(Jonny)的 AI 工具与创作项目集合 — Hermes 插件、脚本与创作工具",
+    "topics": [
+      "dashboard",
+      "deepseek",
+      "desktop-plugin",
+      "hermes",
+      "hermes-agent",
+      "mit",
+      "sidebar",
+      "token-usage"
+    ],
+    "html_url": "https://github.com/jonnyquest1125-dot/JonnyAI",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T13:40:26Z",
+    "updated_at": "2026-09-17T14:16:14Z",
+    "pushed_at": "2026-09-17T13:58:02Z"
+  },
+  {
+    "id": 1369498664,
+    "name": "project-handoff",
+    "full_name": "ChenneyZhuang/project-handoff",
+    "owner": {
+      "login": "ChenneyZhuang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61360637?v=4"
+    },
+    "description": "Project handoff skill: a dated handoff.md per project — current state, decisions with reasons, pitfalls as symptom/cause/fix — so any fresh session resumes without archaeology. CN/EN.",
+    "topics": [
+      "agent-skills",
+      "bilingual",
+      "claude-code",
+      "documentation",
+      "dsh-plugin",
+      "hermes",
+      "project-management"
+    ],
+    "html_url": "https://github.com/ChenneyZhuang/project-handoff",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T07:49:14Z",
+    "updated_at": "2026-09-14T15:59:40Z",
+    "pushed_at": "2026-09-14T15:59:35Z"
+  },
+  {
+    "id": 1375199080,
+    "name": "gpuix-app-starter",
+    "full_name": "wdcodecn/gpuix-app-starter",
+    "owner": {
+      "login": "wdcodecn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52734504?v=4"
+    },
+    "description": "Runnable React + GPUIX starter with a native Android host and no WebView",
+    "topics": [
+      "android",
+      "gpui",
+      "gpuix",
+      "hermes",
+      "react",
+      "starter-template",
+      "wgpu"
+    ],
+    "html_url": "https://github.com/wdcodecn/gpuix-app-starter",
+    "stargazers_count": 0,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T00:26:15Z",
+    "updated_at": "2026-09-18T02:36:22Z",
+    "pushed_at": "2026-09-18T02:36:18Z"
+  },
+  {
+    "id": 1373186954,
+    "name": "dev-system",
+    "full_name": "Louisdelez/dev-system",
+    "owner": {
+      "login": "Louisdelez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39908686?v=4"
+    },
+    "description": "Équipe Dev IA pour Windows 11 : Rust/Tauri, Hermes, Codex, Claude, mémoire indépendante et livraisons supervisées. MIT · LOUIS DELEZ.",
+    "topics": [
+      "ai-agents",
+      "hermes",
+      "rust",
+      "tauri",
+      "windows"
+    ],
+    "html_url": "https://github.com/Louisdelez/dev-system",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T14:47:18Z",
+    "updated_at": "2026-09-16T14:47:27Z",
+    "pushed_at": "2026-09-16T14:47:23Z"
+  }
+]
