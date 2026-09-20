@@ -1,0 +1,620 @@
+[
+  {
+    "id": 1373665161,
+    "name": "jev-review",
+    "full_name": "devagrawal09/jev-review",
+    "owner": {
+      "login": "devagrawal09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19648701?v=4"
+    },
+    "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+    "topics": [
+      "ai",
+      "code-review",
+      "jev",
+      "typesafe-ai",
+      "typescript"
+    ],
+    "html_url": "https://github.com/devagrawal09/jev-review",
+    "stargazers_count": 352,
+    "language": "TypeScript",
+    "forks_count": 21,
+    "open_issues_count": 3,
+    "created_at": "2026-09-16T21:45:36Z",
+    "updated_at": "2026-09-20T01:49:50Z",
+    "pushed_at": "2026-09-17T00:29:25Z"
+  },
+  {
+    "id": 1373978991,
+    "name": "jev-review",
+    "full_name": "NiazMorshed2007/jev-review",
+    "owner": {
+      "login": "NiazMorshed2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77217706?v=4"
+    },
+    "description": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+    "topics": [
+      "agent-plugin",
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "jev",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "opencode",
+      "software-quality",
+      "typescript"
+    ],
+    "html_url": "https://github.com/NiazMorshed2007/jev-review",
+    "stargazers_count": 164,
+    "language": "TypeScript",
+    "forks_count": 15,
+    "open_issues_count": 2,
+    "created_at": "2026-09-17T05:24:51Z",
+    "updated_at": "2026-09-20T01:20:45Z",
+    "pushed_at": "2026-09-17T17:15:20Z"
+  },
+  {
+    "id": 1373869741,
+    "name": "ai-model-world",
+    "full_name": "liyupi/ai-model-world",
+    "owner": {
+      "login": "liyupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26037703?v=4"
+    },
+    "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
+    "topics": [
+      "ai",
+      "ai-models",
+      "benchmark",
+      "chinese",
+      "data-visualization",
+      "deepseek",
+      "large-language-models",
+      "leaderboard",
+      "llm",
+      "llm-benchmarks",
+      "llm-leaderboard",
+      "model-comparison",
+      "nextjs",
+      "pixel-art",
+      "react",
+      "static-site",
+      "tailwindcss",
+      "typescript"
+    ],
+    "html_url": "https://github.com/liyupi/ai-model-world",
+    "stargazers_count": 117,
+    "language": "TypeScript",
+    "forks_count": 22,
+    "open_issues_count": 1,
+    "created_at": "2026-09-17T03:12:17Z",
+    "updated_at": "2026-09-20T01:28:01Z",
+    "pushed_at": "2026-09-19T16:45:34Z"
+  },
+  {
+    "id": 1374457005,
+    "name": "remiqora",
+    "full_name": "inikolax/remiqora",
+    "owner": {
+      "login": "inikolax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/575723?v=4"
+    },
+    "description": "Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generation, stem separation, MIDI transcription, and LoRA fine-tuning, with a built-in multitrack DAW.",
+    "topics": [
+      "ace-step",
+      "ai-music",
+      "apple-silicon",
+      "daw",
+      "demucs",
+      "fastapi",
+      "generative-ai",
+      "local-ai",
+      "lora",
+      "macos",
+      "midi",
+      "music-generation",
+      "music-production",
+      "self-hosted",
+      "stem-separation",
+      "text-to-music",
+      "typescript",
+      "vue3",
+      "yue2",
+      "yue2-3b"
+    ],
+    "html_url": "https://github.com/inikolax/remiqora",
+    "stargazers_count": 100,
+    "language": "Vue",
+    "forks_count": 13,
+    "open_issues_count": 1,
+    "created_at": "2026-09-17T13:09:15Z",
+    "updated_at": "2026-09-20T01:38:32Z",
+    "pushed_at": "2026-09-19T18:41:07Z"
+  },
+  {
+    "id": 1369096078,
+    "name": "infinite-pokemon",
+    "full_name": "Shellishack/infinite-pokemon",
+    "owner": {
+      "login": "Shellishack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40737228?v=4"
+    },
+    "description": "A Pokémon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adventure never ends.",
+    "topics": [
+      "agent-skills",
+      "browser-game",
+      "creature-collector",
+      "electron",
+      "generative-ai",
+      "generative-gameplay",
+      "indie-game",
+      "multiplayer-game",
+      "nextjs",
+      "phaser",
+      "procedural-generation",
+      "rpg",
+      "sqlite",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Shellishack/infinite-pokemon",
+    "stargazers_count": 99,
+    "language": "TypeScript",
+    "forks_count": 20,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T01:06:12Z",
+    "updated_at": "2026-09-20T00:29:40Z",
+    "pushed_at": "2026-09-19T17:41:31Z"
+  },
+  {
+    "id": 1368469045,
+    "name": "cc-arcade",
+    "full_name": "sezaakgun/cc-arcade",
+    "owner": {
+      "login": "sezaakgun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32770709?v=4"
+    },
+    "description": "Games above the Claude Code prompt: snake, Tetris, 2048, Minesweeper, Flappy, Pong, a typing test and Space Invaders, plus a pet that grows as Claude tests, commits and edits",
+    "topics": [
+      "2048",
+      "arcade",
+      "ascii-art",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cli",
+      "doom",
+      "games",
+      "minesweeper",
+      "snake",
+      "terminal-game",
+      "tui",
+      "typescript",
+      "typing-test",
+      "virtual-pet"
+    ],
+    "html_url": "https://github.com/sezaakgun/cc-arcade",
+    "stargazers_count": 33,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T14:36:00Z",
+    "updated_at": "2026-09-19T20:09:26Z",
+    "pushed_at": "2026-09-15T00:19:51Z"
+  },
+  {
+    "id": 1368473574,
+    "name": "zapret-gui-nodejs",
+    "full_name": "AvenCores/zapret-gui-nodejs",
+    "owner": {
+      "login": "AvenCores",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64781822?v=4"
+    },
+    "description": "🛡 Обход блокировок DPI и Telegram при помощи Zapret и Telegram прокси 🌍",
+    "topics": [
+      "batchfile",
+      "dpi",
+      "dpi-bypassing",
+      "electron",
+      "electron-app",
+      "gplv3",
+      "gui",
+      "gui-application",
+      "nodejs",
+      "powershell",
+      "powershell-script",
+      "typescript",
+      "zapret-discord-fix",
+      "zapret-rutor-fix",
+      "zapret-telegram-fix",
+      "zapret-youtube-fix",
+      "zapretui",
+      "zapretwindows",
+      "zapretyan-go",
+      "zapretzen"
+    ],
+    "html_url": "https://github.com/AvenCores/zapret-gui-nodejs",
+    "stargazers_count": 31,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T14:41:29Z",
+    "updated_at": "2026-09-19T20:11:32Z",
+    "pushed_at": "2026-09-19T20:11:28Z"
+  },
+  {
+    "id": 1375719666,
+    "name": "refgarden",
+    "full_name": "AlbionaHoti/refgarden",
+    "owner": {
+      "login": "AlbionaHoti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22985657?v=4"
+    },
+    "description": "A spatial reference explorer for creators. Local Jev query choices, metadata highlights and source-linked collections.",
+    "topics": [
+      "creative-tools",
+      "jev",
+      "moodboard",
+      "typesafe",
+      "typescript",
+      "visual-search"
+    ],
+    "html_url": "https://github.com/AlbionaHoti/refgarden",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T10:40:25Z",
+    "updated_at": "2026-09-19T23:15:53Z",
+    "pushed_at": "2026-09-19T23:15:49Z"
+  },
+  {
+    "id": 1369832020,
+    "name": "rabiq",
+    "full_name": "0xmfox/rabiq",
+    "owner": {
+      "login": "0xmfox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159692701?v=4"
+    },
+    "description": "Token dossiers and deployer memory for Robinhood Chain. Paste a CA, keep your research, see what changed and which deployers you have met before.",
+    "topics": [
+      "cli",
+      "crypto-research",
+      "deployer",
+      "dexscreener",
+      "markdown",
+      "memecoin",
+      "obsidian",
+      "onchain-analytics",
+      "pons",
+      "robinhood-chain",
+      "typescript",
+      "viem"
+    ],
+    "html_url": "https://github.com/0xmfox/rabiq",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T11:46:14Z",
+    "updated_at": "2026-09-17T16:33:44Z",
+    "pushed_at": "2026-09-15T14:10:09Z"
+  },
+  {
+    "id": 1371662268,
+    "name": "shiyi-ai-diet-assistant",
+    "full_name": "zj83339-debug/shiyi-ai-diet-assistant",
+    "owner": {
+      "login": "zj83339-debug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290676644?v=4"
+    },
+    "description": "食毅：已上线的 AI 饮食记录微信小程序，采用多模态识别、Human-in-the-loop 与确定性营养护栏",
+    "topics": [
+      "ai-product-management",
+      "cloudbase",
+      "human-in-the-loop",
+      "qwen",
+      "typescript",
+      "wechat-mini-program"
+    ],
+    "html_url": "https://github.com/zj83339-debug/shiyi-ai-diet-assistant",
+    "stargazers_count": 22,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-15T15:01:04Z",
+    "updated_at": "2026-09-18T20:37:38Z",
+    "pushed_at": "2026-09-15T15:05:03Z"
+  },
+  {
+    "id": 1371169497,
+    "name": "workmaster",
+    "full_name": "chidou59/workmaster",
+    "owner": {
+      "login": "chidou59",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167391594?v=4"
+    },
+    "description": "聚合高校公开招聘信息的 FastAPI + Next.js 日历应用。",
+    "topics": [
+      "calendar",
+      "fastapi",
+      "nextjs",
+      "python",
+      "recruitment",
+      "typescript",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/chidou59/workmaster",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T08:57:09Z",
+    "updated_at": "2026-09-20T01:12:25Z",
+    "pushed_at": "2026-09-16T04:56:00Z"
+  },
+  {
+    "id": 1370285970,
+    "name": "todoist-enhancements",
+    "full_name": "julesvbertolino/todoist-enhancements",
+    "owner": {
+      "login": "julesvbertolino",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271253367?v=4"
+    },
+    "description": "Enhanced for Todoist: an independent project, not created by, affiliated with, or supported by Todoist. A different front end built around planning a week. Runs in the browser, no backend, your token stays on your device.",
+    "topics": [
+      "local-first",
+      "productivity",
+      "pwa",
+      "react",
+      "task-management",
+      "todoist",
+      "typescript"
+    ],
+    "html_url": "https://github.com/julesvbertolino/todoist-enhancements",
+    "stargazers_count": 17,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T17:12:58Z",
+    "updated_at": "2026-09-19T16:57:02Z",
+    "pushed_at": "2026-09-19T12:00:04Z"
+  },
+  {
+    "id": 1372444647,
+    "name": "resolvr-dns-dashboard",
+    "full_name": "bassem-elsodany/resolvr-dns-dashboard",
+    "owner": {
+      "login": "bassem-elsodany",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56065181?v=4"
+    },
+    "description": "Self-hosted monitoring dashboard for Technitium DNS Server — live query logs, clients, cache, and blocking, with its own login and role-based access.",
+    "topics": [
+      "dashboard",
+      "dns",
+      "dns-server",
+      "docker",
+      "homelab",
+      "monitoring",
+      "self-hosted",
+      "technitium",
+      "typescript",
+      "vue3"
+    ],
+    "html_url": "https://github.com/bassem-elsodany/resolvr-dns-dashboard",
+    "stargazers_count": 17,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-16T03:03:00Z",
+    "updated_at": "2026-09-19T19:23:55Z",
+    "pushed_at": "2026-09-16T08:35:43Z"
+  },
+  {
+    "id": 1372385855,
+    "name": "kraken-player",
+    "full_name": "zodd95x/kraken-player",
+    "owner": {
+      "login": "zodd95x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297171022?v=4"
+    },
+    "description": "Free and open-source music player for Windows, Mac and Linux",
+    "topics": [
+      "desktop-app",
+      "electron",
+      "linux",
+      "lyrics",
+      "macos",
+      "mcp",
+      "music-player",
+      "spotify",
+      "streaming",
+      "typescript",
+      "vue3",
+      "windows"
+    ],
+    "html_url": "https://github.com/zodd95x/kraken-player",
+    "stargazers_count": 15,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T01:40:54Z",
+    "updated_at": "2026-09-19T01:23:51Z",
+    "pushed_at": "2026-09-18T23:58:38Z"
+  },
+  {
+    "id": 1369614723,
+    "name": "calculate-mcp",
+    "full_name": "KonghuanSmart/calculate-mcp",
+    "owner": {
+      "login": "KonghuanSmart",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83214268?v=4"
+    },
+    "description": " A high-precision calculation & binary data MCP server with chained batch execution (batch_calc), bitwise logic, IEEE 754, crypto, and math. ",
+    "topics": [
+      "batch-processing",
+      "bitwise",
+      "calculator",
+      "cryptography",
+      "ieee754",
+      "llm-tools",
+      "mcp",
+      "model-context-protocol",
+      "reverse-engineering",
+      "typescript"
+    ],
+    "html_url": "https://github.com/KonghuanSmart/calculate-mcp",
+    "stargazers_count": 15,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T08:55:53Z",
+    "updated_at": "2026-09-18T03:30:23Z",
+    "pushed_at": "2026-09-15T11:13:53Z"
+  },
+  {
+    "id": 1369578642,
+    "name": "lab-ipxe-os",
+    "full_name": "001123/lab-ipxe-os",
+    "owner": {
+      "login": "001123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32441266?v=4"
+    },
+    "description": "Multi-OS iPXE & Cloud-Init Hub - A high-performance, lightweight network autoinstall server for Bare-metal and Virtual Machines powered by Bun & TypeScript.",
+    "topics": [
+      "bun",
+      "cloud-init",
+      "ipxe",
+      "local-first",
+      "open-suse",
+      "talos",
+      "typescript",
+      "ubuntu",
+      "ubuntu-server"
+    ],
+    "html_url": "https://github.com/001123/lab-ipxe-os",
+    "stargazers_count": 13,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T08:32:39Z",
+    "updated_at": "2026-09-19T14:45:07Z",
+    "pushed_at": "2026-09-18T16:20:59Z"
+  },
+  {
+    "id": 1369771755,
+    "name": "AiGuard",
+    "full_name": "Technicalflight/AiGuard",
+    "owner": {
+      "login": "Technicalflight",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57079329?v=4"
+    },
+    "description": "AiGuard —— 本地优先的 AI 流量安全网关：本机 MITM 代理只接管 AI 域名，请求侧脱敏、响应侧流式还原，并识别七类风险信号。原文不落盘、不上传。（注意如果你需要模型直接使用token或者其他密钥进行操作，请放入白名单或关闭该功能！！！！）",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "rust",
+      "security",
+      "security-tools",
+      "tauri",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Technicalflight/AiGuard",
+    "stargazers_count": 12,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T11:00:45Z",
+    "updated_at": "2026-09-17T00:04:28Z",
+    "pushed_at": "2026-09-16T19:10:34Z"
+  },
+  {
+    "id": 1375579368,
+    "name": "jev-cli",
+    "full_name": "Nasrallah-AL/jev-cli",
+    "owner": {
+      "login": "Nasrallah-AL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114925308?v=4"
+    },
+    "description": "Command-line tool for TypeSafe's Jev AI model",
+    "topics": [
+      "ai",
+      "cli",
+      "fact-checking",
+      "guardrails",
+      "jev",
+      "llm-tools",
+      "nodejs",
+      "prompt-injection",
+      "semantic-search",
+      "typesafe",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Nasrallah-AL/jev-cli",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T08:16:41Z",
+    "updated_at": "2026-09-19T21:14:36Z",
+    "pushed_at": "2026-09-19T17:21:42Z"
+  },
+  {
+    "id": 1376697456,
+    "name": "choosekit",
+    "full_name": "NotXf1le/choosekit",
+    "owner": {
+      "login": "NotXf1le",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89696340?v=4"
+    },
+    "description": "Typed choices and probabilities from models running in llama.cpp",
+    "topics": [
+      "llama-cpp",
+      "llm",
+      "local-ai",
+      "logprobs",
+      "typescript"
+    ],
+    "html_url": "https://github.com/NotXf1le/choosekit",
+    "stargazers_count": 11,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T03:54:44Z",
+    "updated_at": "2026-09-20T00:36:45Z",
+    "pushed_at": "2026-09-20T00:42:54Z"
+  },
+  {
+    "id": 1368246941,
+    "name": "wahana",
+    "full_name": "ashafizullah/wahana",
+    "owner": {
+      "login": "ashafizullah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29304713?v=4"
+    },
+    "description": "Desktop client for WAHA (WhatsApp HTTP API) — macOS & Windows, built with Tauri",
+    "topics": [
+      "desktop-app",
+      "react",
+      "rust",
+      "tauri",
+      "typescript",
+      "waha",
+      "whatsapp"
+    ],
+    "html_url": "https://github.com/ashafizullah/wahana",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T09:38:08Z",
+    "updated_at": "2026-09-18T07:41:45Z",
+    "pushed_at": "2026-09-17T23:06:56Z"
+  }
+]

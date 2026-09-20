@@ -1,0 +1,585 @@
+[
+  {
+    "id": 1377115025,
+    "name": "ghost",
+    "full_name": "0xmikadzyki/ghost",
+    "owner": {
+      "login": "0xmikadzyki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257402090?v=4"
+    },
+    "description": "Fund-flow pipeline for Robinhood Chain (chain 4663): full ERC-20 Transfer backfill via HyperSync, 1.4B transfers in ClickHouse, read-only JSON API.",
+    "topics": [
+      "arbitrum-orbit",
+      "blockchain",
+      "clickhouse",
+      "ethereum",
+      "etl",
+      "fastapi",
+      "onchain-data"
+    ],
+    "html_url": "https://github.com/0xmikadzyki/ghost",
+    "stargazers_count": 17,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T12:14:01Z",
+    "updated_at": "2026-09-19T19:52:35Z",
+    "pushed_at": "2026-09-19T14:57:23Z"
+  },
+  {
+    "id": 1376820674,
+    "name": "monad-hack",
+    "full_name": "raptor7197/monad-hack",
+    "owner": {
+      "login": "raptor7197",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167570886?v=4"
+    },
+    "description": null,
+    "topics": [
+      "blockchain",
+      "defi",
+      "web3"
+    ],
+    "html_url": "https://github.com/raptor7197/monad-hack",
+    "stargazers_count": 3,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T06:35:26Z",
+    "updated_at": "2026-09-19T14:24:00Z",
+    "pushed_at": "2026-09-19T14:23:57Z"
+  },
+  {
+    "id": 1369041036,
+    "name": "TrustID-Smart-Identity-Verification-System",
+    "full_name": "gulshanverse/TrustID-Smart-Identity-Verification-System",
+    "owner": {
+      "login": "gulshanverse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222682437?v=4"
+    },
+    "description": "TrustID is an AI-assisted identity and document screening platform built for faster, evidence-driven and auditable verification workflows.",
+    "topics": [
+      "blockchain",
+      "computer-vision",
+      "cybersecurity",
+      "document-verification",
+      "fastapi",
+      "fraud-detection",
+      "ml",
+      "nextjs",
+      "nodejs",
+      "ocr",
+      "postgresql",
+      "sih2026"
+    ],
+    "html_url": "https://github.com/gulshanverse/TrustID-Smart-Identity-Verification-System",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T00:00:22Z",
+    "updated_at": "2026-09-19T06:38:42Z",
+    "pushed_at": "2026-09-19T06:38:38Z"
+  },
+  {
+    "id": 1370528957,
+    "name": "vigyan-id",
+    "full_name": "sayon-mitra024/vigyan-id",
+    "owner": {
+      "login": "sayon-mitra024",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239346481?v=4"
+    },
+    "description": "VIGYAN.ID — A decentralized identity and verifiable credential platform for institution-backed digital credentials, Ed25519 cryptographic signing, student wallets, credential lifecycle management, and public verification. Built for Hack2Innovate 2026 PS-23 — Blockchain & Web3 Security.",
+    "topics": [
+      "blockchain",
+      "cryptography",
+      "decentralized-identity",
+      "did",
+      "digital-identity",
+      "ed25519",
+      "firebase",
+      "hackathon",
+      "hackathon-project",
+      "nextjs",
+      "typescript",
+      "verifiable-credentials",
+      "web3"
+    ],
+    "html_url": "https://github.com/sayon-mitra024/vigyan-id",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T20:27:36Z",
+    "updated_at": "2026-09-15T06:45:58Z",
+    "pushed_at": "2026-09-15T06:45:54Z"
+  },
+  {
+    "id": 1373254436,
+    "name": "zkp-learning-roadmap",
+    "full_name": "chavoshimahdieh/zkp-learning-roadmap",
+    "owner": {
+      "login": "chavoshimahdieh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85784609?v=4"
+    },
+    "description": "A curated roadmap to learn Zero-Knowledge Proofs — from math foundations to ZK auditing and jobs.",
+    "topics": [
+      "awesome-list",
+      "blockchain",
+      "circom",
+      "cryptography",
+      "noir",
+      "roadmap",
+      "zeroknowledge",
+      "zkp"
+    ],
+    "html_url": "https://github.com/chavoshimahdieh/zkp-learning-roadmap",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T15:31:45Z",
+    "updated_at": "2026-09-20T00:39:51Z",
+    "pushed_at": "2026-09-16T16:42:14Z"
+  },
+  {
+    "id": 1371688941,
+    "name": "polymarket-wallet",
+    "full_name": "mivlabs/polymarket-wallet",
+    "owner": {
+      "login": "mivlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287457111?v=4"
+    },
+    "description": "Восстановление истории переводов и балансов кошелька Polymarket напрямую с Polygon RPC (eth_getLogs/eth_call) - без API Polymarket и сторонних индексаторов.",
+    "topics": [
+      "blockchain",
+      "erc1155",
+      "erc20",
+      "polygon",
+      "postgresql",
+      "python",
+      "web3"
+    ],
+    "html_url": "https://github.com/mivlabs/polymarket-wallet",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T15:19:23Z",
+    "updated_at": "2026-09-15T15:26:48Z",
+    "pushed_at": "2026-09-15T15:22:33Z"
+  },
+  {
+    "id": 1370613221,
+    "name": "meowwa-chain",
+    "full_name": "nniiovoo/meowwa-chain",
+    "owner": {
+      "login": "nniiovoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243717149?v=4"
+    },
+    "description": "MeowWa's owner-controlled agentic wallet core: multi-chain USDC rails, Privy wallet control, purchase intents and the deterministic spending policy gate.",
+    "topics": [
+      "agentic-payments",
+      "ai-agents",
+      "base",
+      "blockchain",
+      "solana",
+      "stablecoin",
+      "typescript",
+      "usdc"
+    ],
+    "html_url": "https://github.com/nniiovoo/meowwa-chain",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T22:13:41Z",
+    "updated_at": "2026-09-16T19:55:06Z",
+    "pushed_at": "2026-09-15T02:04:12Z"
+  },
+  {
+    "id": 1373840154,
+    "name": "donutcoin",
+    "full_name": "nyc-esq/donutcoin",
+    "owner": {
+      "login": "nyc-esq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283824793?v=4"
+    },
+    "description": "Donut Coin: a proof-of-work coin named after a cat. No value, all fun.",
+    "topics": [
+      "blockchain",
+      "cats",
+      "cryptocurrency",
+      "fastapi",
+      "hobby-project",
+      "homelab",
+      "mining",
+      "proof-of-work",
+      "python",
+      "scrypt",
+      "self-hosted",
+      "utxo"
+    ],
+    "html_url": "https://github.com/nyc-esq/donutcoin",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T02:29:17Z",
+    "updated_at": "2026-09-19T20:03:41Z",
+    "pushed_at": "2026-09-19T20:03:37Z"
+  },
+  {
+    "id": 1376806240,
+    "name": "soroban-events",
+    "full_name": "poaspergillus/soroban-events",
+    "owner": {
+      "login": "poaspergillus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289178957?v=4"
+    },
+    "description": "Lightweight Soroban RPC event ingestion, pagination, retries, deduplication, and ScVal decoding for Node.js",
+    "topics": [
+      "blockchain",
+      "event-indexer",
+      "events",
+      "nodejs",
+      "rpc",
+      "soroban",
+      "stellar",
+      "stellar-soroban",
+      "web3",
+      "xdr"
+    ],
+    "html_url": "https://github.com/poaspergillus/soroban-events",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T06:18:33Z",
+    "updated_at": "2026-09-19T21:27:47Z",
+    "pushed_at": "2026-09-19T21:18:13Z"
+  },
+  {
+    "id": 1370420302,
+    "name": "Legal-Document-Storage-System",
+    "full_name": "Pilotbrine/Legal-Document-Storage-System",
+    "owner": {
+      "login": "Pilotbrine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202948430?v=4"
+    },
+    "description": "A Program to store and distribute Legal Documents",
+    "topics": [
+      "blockchain",
+      "cryptography",
+      "data-handling",
+      "law"
+    ],
+    "html_url": "https://github.com/Pilotbrine/Legal-Document-Storage-System",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T18:55:15Z",
+    "updated_at": "2026-09-15T14:38:26Z",
+    "pushed_at": "2026-09-15T01:23:06Z"
+  },
+  {
+    "id": 1376055182,
+    "name": "ultimate-dev-toolkit",
+    "full_name": "kaazyxx/ultimate-dev-toolkit",
+    "owner": {
+      "login": "kaazyxx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326991005?v=4"
+    },
+    "description": "520 skills, 176 commands, 120 agents, 28 safety hooks & 4 MCP connectors for Claude Code — a modular, security-first universal developer toolkit that detects what is really installed and never fakes support.",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "anthropic",
+      "automation",
+      "blockchain",
+      "claude",
+      "claude-code",
+      "cli",
+      "code-review",
+      "developer-tools",
+      "devops",
+      "devtools",
+      "embedded",
+      "gamedev",
+      "iot",
+      "mcp",
+      "plugin",
+      "productivity",
+      "toolkit",
+      "web3"
+    ],
+    "html_url": "https://github.com/kaazyxx/ultimate-dev-toolkit",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T15:20:47Z",
+    "updated_at": "2026-09-19T09:45:19Z",
+    "pushed_at": "2026-09-18T19:46:01Z"
+  },
+  {
+    "id": 1370431397,
+    "name": "Legal-Storage-System-Website",
+    "full_name": "Pilotbrine/Legal-Storage-System-Website",
+    "owner": {
+      "login": "Pilotbrine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202948430?v=4"
+    },
+    "description": "The Website Version of Legal Storage System",
+    "topics": [
+      "blockchain",
+      "cryptography",
+      "data-handling",
+      "law"
+    ],
+    "html_url": "https://github.com/Pilotbrine/Legal-Storage-System-Website",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T19:06:03Z",
+    "updated_at": "2026-09-15T14:37:51Z",
+    "pushed_at": "2026-09-15T13:13:25Z"
+  },
+  {
+    "id": 1372052608,
+    "name": "caveat-public",
+    "full_name": "AliBakhshi-Codes/caveat-public",
+    "owner": {
+      "login": "AliBakhshi-Codes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183443230?v=4"
+    },
+    "description": "Open-set smart contract vulnerability detection with calibrated abstention under a distribution-free coverage guarantee",
+    "topics": [
+      "blockchain",
+      "conformal-prediction",
+      "graph-neural-networks",
+      "open-set-recognition",
+      "security",
+      "smart-contracts",
+      "solidity",
+      "uncertainty-quantification"
+    ],
+    "html_url": "https://github.com/AliBakhshi-Codes/caveat-public",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T20:05:01Z",
+    "updated_at": "2026-09-15T20:30:25Z",
+    "pushed_at": "2026-09-15T20:15:43Z"
+  },
+  {
+    "id": 1369975365,
+    "name": "bc-dcbor-ts",
+    "full_name": "BlockchainCommons/bc-dcbor-ts",
+    "owner": {
+      "login": "BlockchainCommons",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38142380?v=4"
+    },
+    "description": "A CBOR codec that focuses on writing and parsing deterministic CBOR.",
+    "topics": [
+      "blockchain",
+      "cbor",
+      "dcbor",
+      "javascript",
+      "typescript"
+    ],
+    "html_url": "https://github.com/BlockchainCommons/bc-dcbor-ts",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T13:39:41Z",
+    "updated_at": "2026-09-14T18:12:54Z",
+    "pushed_at": "2026-09-14T18:13:09Z"
+  },
+  {
+    "id": 1368474944,
+    "name": "nns",
+    "full_name": "selfcrypto/nns",
+    "owner": {
+      "login": "selfcrypto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134981912?v=4"
+    },
+    "description": "Nimiq Name Service. A name resolver protocol for Nimiq using no smart contracts",
+    "topics": [
+      "blockchain",
+      "indexer",
+      "merkle-proofs",
+      "name-service",
+      "naming",
+      "nimiq",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/selfcrypto/nns",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-13T14:42:56Z",
+    "updated_at": "2026-09-19T02:37:53Z",
+    "pushed_at": "2026-09-19T02:37:50Z"
+  },
+  {
+    "id": 1375202625,
+    "name": "COLMENA-SOBERANA-S.A.P.I-De-C.V",
+    "full_name": "MASTERTENANT/COLMENA-SOBERANA-S.A.P.I-De-C.V",
+    "owner": {
+      "login": "MASTERTENANT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248199677?v=4"
+    },
+    "description": "Ecosistema Financiero de latencia T+0 ",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "api",
+      "artificial-intelligence",
+      "automation",
+      "aws",
+      "blockchain",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "deep-learning",
+      "developer-tools",
+      "devops",
+      "docker",
+      "dotnet"
+    ],
+    "html_url": "https://github.com/MASTERTENANT/COLMENA-SOBERANA-S.A.P.I-De-C.V",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T00:32:21Z",
+    "updated_at": "2026-09-18T01:13:30Z",
+    "pushed_at": "2026-09-18T01:13:26Z"
+  },
+  {
+    "id": 1371995119,
+    "name": "BookBnB",
+    "full_name": "PrayagLakhani/BookBnB",
+    "owner": {
+      "login": "PrayagLakhani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170601423?v=4"
+    },
+    "description": "Decentralized book rental platform built on Ethereum, using smart contracts to manage listings, rentals, deposits, late fees, and refunds without a centralized backend or database.",
+    "topics": [
+      "blockchain",
+      "book-rental-system",
+      "decentralized-applications",
+      "ethereum",
+      "metamask",
+      "smart-contracts",
+      "solidity"
+    ],
+    "html_url": "https://github.com/PrayagLakhani/BookBnB",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T19:13:26Z",
+    "updated_at": "2026-09-18T20:14:22Z",
+    "pushed_at": "2026-09-15T19:15:36Z"
+  },
+  {
+    "id": 1373528659,
+    "name": "fundkeep-app",
+    "full_name": "fundkeep-web/fundkeep-app",
+    "owner": {
+      "login": "fundkeep-web",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329980372?v=4"
+    },
+    "description": "A Soroban smart contract dApp for locking USDC savings on Stellar — funds unlock only when your goal or deadline is reached.",
+    "topics": [
+      "blockchain",
+      "defi",
+      "fintech",
+      "nextjs",
+      "opensource",
+      "rust",
+      "savings",
+      "smart-contracts",
+      "soroban",
+      "stellar",
+      "stellar-network",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/fundkeep-web/fundkeep-app",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 19,
+    "created_at": "2026-09-16T19:07:00Z",
+    "updated_at": "2026-09-16T22:46:17Z",
+    "pushed_at": "2026-09-16T19:14:27Z"
+  },
+  {
+    "id": 1370535704,
+    "name": "robinhood-rpc-install",
+    "full_name": "0xfnzero/robinhood-rpc-install",
+    "owner": {
+      "login": "0xfnzero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2081812?v=4"
+    },
+    "description": "Production-ready localhost-only Robinhood Chain RPC installer with Nitro, snapshot bootstrap, WSS, NVMe, Docker, and Linux tuning.",
+    "topics": [
+      "arbitrum-nitro",
+      "bash",
+      "blockchain",
+      "docker",
+      "ethereum",
+      "node-operator",
+      "nvme",
+      "private-rpc",
+      "robinhood-chain",
+      "rpc-node",
+      "ubuntu",
+      "websocket",
+      "wss"
+    ],
+    "html_url": "https://github.com/0xfnzero/robinhood-rpc-install",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T20:33:50Z",
+    "updated_at": "2026-09-15T07:26:31Z",
+    "pushed_at": "2026-09-14T20:34:35Z"
+  },
+  {
+    "id": 1371219009,
+    "name": "hack-genesis-2026-sribisco",
+    "full_name": "HackIndiaXYZ/hack-genesis-2026-sribisco",
+    "owner": {
+      "login": "HackIndiaXYZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
+    },
+    "description": "Hackathon team repository for SRIBISCO - [hackindia-team:hack-genesis-2026:sribisco]",
+    "topics": [
+      "ai-ml",
+      "blockchain",
+      "cloud-computing",
+      "open-innovation",
+      "web3"
+    ],
+    "html_url": "https://github.com/HackIndiaXYZ/hack-genesis-2026-sribisco",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T09:40:37Z",
+    "updated_at": "2026-09-15T09:40:41Z",
+    "pushed_at": "2026-09-15T09:40:38Z"
+  }
+]
