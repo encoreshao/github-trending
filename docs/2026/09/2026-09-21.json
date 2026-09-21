@@ -1,0 +1,431 @@
+[
+  {
+    "id": 1373655162,
+    "name": "jev-ultrafast",
+    "full_name": "browser-use/jev-ultrafast",
+    "owner": {
+      "login": "browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "description": "i. am. speed.",
+    "topics": [],
+    "html_url": "https://github.com/browser-use/jev-ultrafast",
+    "stargazers_count": 12111,
+    "language": "Python",
+    "forks_count": 756,
+    "open_issues_count": 85,
+    "created_at": "2026-09-16T21:30:12Z",
+    "updated_at": "2026-09-21T01:59:43Z",
+    "pushed_at": "2026-09-18T16:28:35Z"
+  },
+  {
+    "id": 1374005005,
+    "name": "fast-jev-compaction",
+    "full_name": "tamaratran/fast-jev-compaction",
+    "owner": {
+      "login": "tamaratran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
+    },
+    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+    "topics": [],
+    "html_url": "https://github.com/tamaratran/fast-jev-compaction",
+    "stargazers_count": 5238,
+    "language": "TypeScript",
+    "forks_count": 289,
+    "open_issues_count": 58,
+    "created_at": "2026-09-17T05:57:20Z",
+    "updated_at": "2026-09-21T01:59:33Z",
+    "pushed_at": "2026-09-18T04:45:31Z"
+  },
+  {
+    "id": 1375382253,
+    "name": "laya",
+    "full_name": "NandhaKishorM/laya",
+    "owner": {
+      "login": "NandhaKishorM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48623612?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/NandhaKishorM/laya",
+    "stargazers_count": 4405,
+    "language": "Python",
+    "forks_count": 400,
+    "open_issues_count": 25,
+    "created_at": "2026-09-18T04:46:33Z",
+    "updated_at": "2026-09-21T01:59:49Z",
+    "pushed_at": "2026-09-20T17:44:55Z"
+  },
+  {
+    "id": 1373614120,
+    "name": "Compositor",
+    "full_name": "robbietilton/Compositor",
+    "owner": {
+      "login": "robbietilton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
+    },
+    "description": "The Photoshop alternative for Mac",
+    "topics": [],
+    "html_url": "https://github.com/robbietilton/Compositor",
+    "stargazers_count": 3714,
+    "language": "Swift",
+    "forks_count": 391,
+    "open_issues_count": 41,
+    "created_at": "2026-09-16T20:35:54Z",
+    "updated_at": "2026-09-21T01:59:02Z",
+    "pushed_at": "2026-09-21T01:35:58Z"
+  },
+  {
+    "id": 1372482979,
+    "name": "SemIf",
+    "full_name": "TheoLeeCJ/SemIf",
+    "owner": {
+      "login": "TheoLeeCJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
+    },
+    "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+    "topics": [],
+    "html_url": "https://github.com/TheoLeeCJ/SemIf",
+    "stargazers_count": 2472,
+    "language": "Python",
+    "forks_count": 156,
+    "open_issues_count": 13,
+    "created_at": "2026-09-16T03:51:21Z",
+    "updated_at": "2026-09-21T01:56:46Z",
+    "pushed_at": "2026-09-19T04:46:36Z"
+  },
+  {
+    "id": 1371378654,
+    "name": "jianying-headless",
+    "full_name": "mcncarl/jianying-headless",
+    "owner": {
+      "login": "mcncarl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204130968?v=4"
+    },
+    "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+    "topics": [],
+    "html_url": "https://github.com/mcncarl/jianying-headless",
+    "stargazers_count": 2025,
+    "language": "Python",
+    "forks_count": 1304,
+    "open_issues_count": 9,
+    "created_at": "2026-09-15T11:51:15Z",
+    "updated_at": "2026-09-21T01:56:46Z",
+    "pushed_at": "2026-09-20T06:12:56Z"
+  },
+  {
+    "id": 1377211520,
+    "name": "laya-mlx",
+    "full_name": "mizorewww/laya-mlx",
+    "owner": {
+      "login": "mizorewww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
+    },
+    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "topics": [
+      "apple-silicon",
+      "decision-model",
+      "inference",
+      "laya",
+      "local-ai",
+      "machine-learning",
+      "mlx",
+      "modernbert",
+      "system-one",
+      "typed-decisions"
+    ],
+    "html_url": "https://github.com/mizorewww/laya-mlx",
+    "stargazers_count": 1772,
+    "language": "Python",
+    "forks_count": 88,
+    "open_issues_count": 2,
+    "created_at": "2026-09-19T13:50:26Z",
+    "updated_at": "2026-09-21T01:59:01Z",
+    "pushed_at": "2026-09-19T16:32:30Z"
+  },
+  {
+    "id": 1373659194,
+    "name": "jev-trader",
+    "full_name": "jarrodwatts/jev-trader",
+    "owner": {
+      "login": "jarrodwatts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+    },
+    "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+    "topics": [],
+    "html_url": "https://github.com/jarrodwatts/jev-trader",
+    "stargazers_count": 1546,
+    "language": "TypeScript",
+    "forks_count": 292,
+    "open_issues_count": 3,
+    "created_at": "2026-09-16T21:36:20Z",
+    "updated_at": "2026-09-21T01:59:50Z",
+    "pushed_at": "2026-09-17T02:48:22Z"
+  },
+  {
+    "id": 1374702542,
+    "name": "NanoJev",
+    "full_name": "TianyuCodings/NanoJev",
+    "owner": {
+      "login": "TianyuCodings",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48460209?v=4"
+    },
+    "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+    "topics": [],
+    "html_url": "https://github.com/TianyuCodings/NanoJev",
+    "stargazers_count": 1441,
+    "language": "Python",
+    "forks_count": 175,
+    "open_issues_count": 4,
+    "created_at": "2026-09-17T16:08:30Z",
+    "updated_at": "2026-09-21T01:57:37Z",
+    "pushed_at": "2026-09-20T11:13:01Z"
+  },
+  {
+    "id": 1378288598,
+    "name": "ZCode",
+    "full_name": "zai-org/ZCode",
+    "owner": {
+      "login": "zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "topics": [],
+    "html_url": "https://github.com/zai-org/ZCode",
+    "stargazers_count": 1225,
+    "language": "TypeScript",
+    "forks_count": 298,
+    "open_issues_count": 11,
+    "created_at": "2026-09-20T12:01:16Z",
+    "updated_at": "2026-09-21T02:00:02Z",
+    "pushed_at": "2026-09-21T00:02:36Z"
+  },
+  {
+    "id": 1375631360,
+    "name": "nimble",
+    "full_name": "bespokelabsai/nimble",
+    "owner": {
+      "login": "bespokelabsai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167806754?v=4"
+    },
+    "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+    "topics": [],
+    "html_url": "https://github.com/bespokelabsai/nimble",
+    "stargazers_count": 1130,
+    "language": "Python",
+    "forks_count": 82,
+    "open_issues_count": 2,
+    "created_at": "2026-09-18T09:07:48Z",
+    "updated_at": "2026-09-21T01:58:08Z",
+    "pushed_at": "2026-09-20T19:44:35Z"
+  },
+  {
+    "id": 1372867305,
+    "name": "jevlike",
+    "full_name": "vinnylarouge/jevlike",
+    "owner": {
+      "login": "vinnylarouge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5328067?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/vinnylarouge/jevlike",
+    "stargazers_count": 1088,
+    "language": "Python",
+    "forks_count": 95,
+    "open_issues_count": 5,
+    "created_at": "2026-09-16T10:26:01Z",
+    "updated_at": "2026-09-21T01:40:42Z",
+    "pushed_at": "2026-09-16T18:12:53Z"
+  },
+  {
+    "id": 1375069862,
+    "name": "kev",
+    "full_name": "jaredpalmer/kev",
+    "owner": {
+      "login": "jaredpalmer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4060187?v=4"
+    },
+    "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+    "topics": [
+      "decision-model",
+      "jev",
+      "qwen3"
+    ],
+    "html_url": "https://github.com/jaredpalmer/kev",
+    "stargazers_count": 1069,
+    "language": "Python",
+    "forks_count": 64,
+    "open_issues_count": 4,
+    "created_at": "2026-09-17T20:49:39Z",
+    "updated_at": "2026-09-21T01:54:42Z",
+    "pushed_at": "2026-09-21T00:06:11Z"
+  },
+  {
+    "id": 1369428487,
+    "name": "page-mascot",
+    "full_name": "nilbuild/page-mascot",
+    "owner": {
+      "login": "nilbuild",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4"
+    },
+    "description": "A mascot that watches the cursor and blinks when you poke it",
+    "topics": [],
+    "html_url": "https://github.com/nilbuild/page-mascot",
+    "stargazers_count": 755,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 1,
+    "created_at": "2026-09-14T06:55:59Z",
+    "updated_at": "2026-09-21T01:02:55Z",
+    "pushed_at": "2026-09-15T10:07:44Z"
+  },
+  {
+    "id": 1371217350,
+    "name": "awesome-cloudflare-selfhosted",
+    "full_name": "theoephraim/awesome-cloudflare-selfhosted",
+    "owner": {
+      "login": "theoephraim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1158956?v=4"
+    },
+    "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cloudflare",
+      "cloudflare-workers",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+    "stargazers_count": 742,
+    "language": "JavaScript",
+    "forks_count": 48,
+    "open_issues_count": 12,
+    "created_at": "2026-09-15T09:39:14Z",
+    "updated_at": "2026-09-21T01:07:26Z",
+    "pushed_at": "2026-09-16T22:06:09Z"
+  },
+  {
+    "id": 1373071188,
+    "name": "text-humanizer",
+    "full_name": "korcarc/text-humanizer",
+    "owner": {
+      "login": "korcarc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64578973?v=4"
+    },
+    "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+    "topics": [
+      "ai-humanization",
+      "gptzero",
+      "gptzero-bypass",
+      "text-humanizer",
+      "turnitin",
+      "turnitin-bypass"
+    ],
+    "html_url": "https://github.com/korcarc/text-humanizer",
+    "stargazers_count": 736,
+    "language": "Python",
+    "forks_count": 86,
+    "open_issues_count": 4,
+    "created_at": "2026-09-16T13:21:56Z",
+    "updated_at": "2026-09-20T23:28:45Z",
+    "pushed_at": "2026-09-19T20:43:14Z"
+  },
+  {
+    "id": 1369491776,
+    "name": "wx-cli-again",
+    "full_name": "jackwener/wx-cli-again",
+    "owner": {
+      "login": "jackwener",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
+    },
+    "description": "WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
+    "topics": [],
+    "html_url": "https://github.com/jackwener/wx-cli-again",
+    "stargazers_count": 700,
+    "language": "Rust",
+    "forks_count": 1671,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T07:43:27Z",
+    "updated_at": "2026-09-21T01:58:47Z",
+    "pushed_at": "2026-09-14T07:43:38Z"
+  },
+  {
+    "id": 1373440611,
+    "name": "typesafe-computer-use",
+    "full_name": "awlevin/typesafe-computer-use",
+    "owner": {
+      "login": "awlevin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8488209?v=4"
+    },
+    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "computer-use",
+      "macos",
+      "ocr",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/awlevin/typesafe-computer-use",
+    "stargazers_count": 644,
+    "language": "Python",
+    "forks_count": 39,
+    "open_issues_count": 8,
+    "created_at": "2026-09-16T17:48:45Z",
+    "updated_at": "2026-09-21T01:57:48Z",
+    "pushed_at": "2026-09-20T07:04:59Z"
+  },
+  {
+    "id": 1374561793,
+    "name": "awesome-jev",
+    "full_name": "yibie/awesome-jev",
+    "owner": {
+      "login": "yibie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/365484?v=4"
+    },
+    "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "jev",
+      "llm"
+    ],
+    "html_url": "https://github.com/yibie/awesome-jev",
+    "stargazers_count": 633,
+    "language": "Python",
+    "forks_count": 92,
+    "open_issues_count": 1,
+    "created_at": "2026-09-17T14:23:21Z",
+    "updated_at": "2026-09-21T01:59:54Z",
+    "pushed_at": "2026-09-21T01:52:38Z"
+  },
+  {
+    "id": 1370747786,
+    "name": "window-sweaters",
+    "full_name": "saragordic/window-sweaters",
+    "owner": {
+      "login": "saragordic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329245707?v=4"
+    },
+    "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
+    "topics": [
+      "desktop-customization",
+      "knitting",
+      "macos",
+      "macos-app",
+      "menubar",
+      "menubar-app",
+      "objective-c",
+      "window-management"
+    ],
+    "html_url": "https://github.com/saragordic/window-sweaters",
+    "stargazers_count": 626,
+    "language": "C",
+    "forks_count": 19,
+    "open_issues_count": 6,
+    "created_at": "2026-09-15T01:51:36Z",
+    "updated_at": "2026-09-21T01:49:48Z",
+    "pushed_at": "2026-09-18T21:31:43Z"
+  }
+]

@@ -1,0 +1,609 @@
+[
+  {
+    "id": 1369664553,
+    "name": "medula",
+    "full_name": "posva/medula",
+    "owner": {
+      "login": "posva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/664177?v=4"
+    },
+    "description": "🧬 control your app from inside it",
+    "topics": [
+      "ai",
+      "codex",
+      "debug",
+      "devtools",
+      "mcp",
+      "next",
+      "react",
+      "vue"
+    ],
+    "html_url": "https://github.com/posva/medula",
+    "stargazers_count": 33,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T09:36:29Z",
+    "updated_at": "2026-09-20T11:51:05Z",
+    "pushed_at": "2026-09-16T14:19:06Z"
+  },
+  {
+    "id": 1372475183,
+    "name": "xianyu-guanjia",
+    "full_name": "shudaxiag/xianyu-guanjia",
+    "owner": {
+      "login": "shudaxiag",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255620113?v=4"
+    },
+    "description": "闲鱼多账号自动回复与经营管理工具 — Electron 桌面端 + FastAPI 后端。扫码登录、关键词/AI 回复、订单发货管理。",
+    "topics": [
+      "ai-reply",
+      "auto-reply",
+      "desktop",
+      "electron",
+      "fastapi",
+      "multi-account",
+      "python",
+      "vue",
+      "windows",
+      "xianyu"
+    ],
+    "html_url": "https://github.com/shudaxiag/xianyu-guanjia",
+    "stargazers_count": 22,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T03:41:38Z",
+    "updated_at": "2026-09-20T14:04:29Z",
+    "pushed_at": "2026-09-16T03:58:37Z"
+  },
+  {
+    "id": 1377521300,
+    "name": "shoemoneyx",
+    "full_name": "shoemoney/shoemoneyx",
+    "owner": {
+      "login": "shoemoney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/444294?v=4"
+    },
+    "description": "SMX · the ShoeMoneyX crypto trading desk. Backtest farm, walk-forward optimizer, built-in AI agent, 110 exchanges. Star it if you want it open-sourced.",
+    "topics": [
+      "algo-trading",
+      "backtesting",
+      "ccxt",
+      "coinbase",
+      "crypto",
+      "laravel",
+      "open-source",
+      "paper-trading",
+      "trading",
+      "vue"
+    ],
+    "html_url": "https://github.com/shoemoney/shoemoneyx",
+    "stargazers_count": 16,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T19:02:50Z",
+    "updated_at": "2026-09-20T16:46:17Z",
+    "pushed_at": "2026-09-19T19:32:05Z"
+  },
+  {
+    "id": 1370073304,
+    "name": "Miao-AI",
+    "full_name": "susirial/Miao-AI",
+    "owner": {
+      "login": "susirial",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12743231?v=4"
+    },
+    "description": "MIAO: Models, Intelligence, Assistant, Open. A local-first creative assistant for DeepSeek, GLM, Doubao, Seedream and Seedance.",
+    "topics": [
+      "agent",
+      "ai",
+      "deepseek",
+      "doubao",
+      "electron",
+      "glm",
+      "image-generation",
+      "infinite-canvas",
+      "nuxt",
+      "seedance",
+      "seedream",
+      "video-generation",
+      "volcengine",
+      "vue"
+    ],
+    "html_url": "https://github.com/susirial/Miao-AI",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T14:45:06Z",
+    "updated_at": "2026-09-19T15:58:11Z",
+    "pushed_at": "2026-09-19T15:58:07Z"
+  },
+  {
+    "id": 1369383005,
+    "name": "Alchemy",
+    "full_name": "QuarterNomad/Alchemy",
+    "owner": {
+      "login": "QuarterNomad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185037290?v=4"
+    },
+    "description": "Alchemy 筛股数据产品（基于 RuoYi-Vue）",
+    "topics": [
+      "ruoyi",
+      "spring-boot",
+      "stock",
+      "vue"
+    ],
+    "html_url": "https://github.com/QuarterNomad/Alchemy",
+    "stargazers_count": 5,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T06:18:50Z",
+    "updated_at": "2026-09-20T06:05:54Z",
+    "pushed_at": "2026-09-14T06:32:23Z"
+  },
+  {
+    "id": 1373818340,
+    "name": "bufferpad",
+    "full_name": "sapphirexai/bufferpad",
+    "owner": {
+      "login": "sapphirexai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243060903?v=4"
+    },
+    "description": "面向制造现场的缓冲垫寿命追踪与 PLC 联动系统。 提供扫码计数、防重复计数、寿命预警、使用记录和本地部署。",
+    "topics": [
+      "barcode",
+      "industrial-automation",
+      "lifecycle-management",
+      "manufacturing",
+      "modbus-tcp",
+      "plc",
+      "powershell",
+      "spring-boot",
+      "traceability",
+      "vue"
+    ],
+    "html_url": "https://github.com/sapphirexai/bufferpad",
+    "stargazers_count": 4,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T01:56:38Z",
+    "updated_at": "2026-09-21T00:42:09Z",
+    "pushed_at": "2026-09-17T04:44:52Z"
+  },
+  {
+    "id": 1373291946,
+    "name": "CloudflarePan",
+    "full_name": "ChuiShui233/CloudflarePan",
+    "owner": {
+      "login": "ChuiShui233",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184077763?v=4"
+    },
+    "description": "Cloudflare R2+D1 personal drive: Vue3 + Worker, multipart upload, share links, raw tokens",
+    "topics": [
+      "cloudflare",
+      "cloudflare-d1",
+      "cloudflare-pages",
+      "cloudflare-r2",
+      "cloudflare-worker",
+      "cloudflare-workers",
+      "file-sharing",
+      "vue"
+    ],
+    "html_url": "https://github.com/ChuiShui233/CloudflarePan",
+    "stargazers_count": 4,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T15:57:27Z",
+    "updated_at": "2026-09-19T03:12:42Z",
+    "pushed_at": "2026-09-16T15:58:07Z"
+  },
+  {
+    "id": 1372190832,
+    "name": "simulcast",
+    "full_name": "priemskiyyy/simulcast",
+    "owner": {
+      "login": "priemskiyyy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94358803?v=4"
+    },
+    "description": "Typed realtime subscriptions for React, Vue, Solid, Svelte, and React Native. Shared channels, deterministic cleanup, and adapters for 11 providers.",
+    "topics": [
+      "ably",
+      "centrifugo",
+      "devtools",
+      "mqtt",
+      "pubsub",
+      "pusher",
+      "react",
+      "react-native",
+      "realtime",
+      "socketio",
+      "solidjs",
+      "supabase",
+      "svelte",
+      "typescript",
+      "vue",
+      "websocket"
+    ],
+    "html_url": "https://github.com/priemskiyyy/simulcast",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T22:08:42Z",
+    "updated_at": "2026-09-17T11:03:46Z",
+    "pushed_at": "2026-09-17T11:03:42Z"
+  },
+  {
+    "id": 1374146182,
+    "name": "laravel-vue-spa-starter-kit",
+    "full_name": "muradyanvano/laravel-vue-spa-starter-kit",
+    "owner": {
+      "login": "muradyanvano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93859470?v=4"
+    },
+    "description": "Community Laravel Vue SPA starter kit without Inertia, using Vue Router, Fortify, Sanctum, Wayfinder, and Vite.",
+    "topics": [
+      "fortify",
+      "laravel",
+      "passkeys",
+      "sanctum",
+      "spa",
+      "starter-kit",
+      "typescript",
+      "vite",
+      "vue",
+      "vue-router",
+      "vue3",
+      "wayfinder",
+      "webauthn"
+    ],
+    "html_url": "https://github.com/muradyanvano/laravel-vue-spa-starter-kit",
+    "stargazers_count": 2,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T08:25:52Z",
+    "updated_at": "2026-09-19T13:14:04Z",
+    "pushed_at": "2026-09-17T22:46:14Z"
+  },
+  {
+    "id": 1374335241,
+    "name": "laravel_rest_vue",
+    "full_name": "szedelyijedlik/laravel_rest_vue",
+    "owner": {
+      "login": "szedelyijedlik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113013011?v=4"
+    },
+    "description": "Laravel REST API + Vue Starter",
+    "topics": [
+      "laravel",
+      "rest-api",
+      "vue"
+    ],
+    "html_url": "https://github.com/szedelyijedlik/laravel_rest_vue",
+    "stargazers_count": 2,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T11:33:52Z",
+    "updated_at": "2026-09-17T16:48:33Z",
+    "pushed_at": "2026-09-17T12:21:04Z"
+  },
+  {
+    "id": 1373543163,
+    "name": "junctio",
+    "full_name": "k2so-dev/junctio",
+    "owner": {
+      "login": "k2so-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15279423?v=4"
+    },
+    "description": "Self-hosted MCP gateway: one container, one endpoint per client, upstream OAuth that never goes stale. Aggregate stdio, Docker and remote MCP servers behind a single URL for Claude Code, Codex and Cursor. No telemetry.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-tools",
+      "bun",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "docker",
+      "llm",
+      "mcp",
+      "mcp-gateway",
+      "mcp-proxy",
+      "mcp-server",
+      "model-context-protocol",
+      "oauth2",
+      "self-hosted",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/k2so-dev/junctio",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T19:21:01Z",
+    "updated_at": "2026-09-18T22:11:53Z",
+    "pushed_at": "2026-09-18T22:11:50Z"
+  },
+  {
+    "id": 1374388510,
+    "name": "JJ-Music",
+    "full_name": "jun501389541/JJ-Music",
+    "owner": {
+      "login": "jun501389541",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194811261?v=4"
+    },
+    "description": "Windows 桌面音乐播放器：本地曲库、在线音乐、歌词与封面、按音质下载及跨平台歌单导入。基于 Electron、Vue 3 和 TypeScript。",
+    "topics": [
+      "electron",
+      "flac",
+      "lyrics",
+      "music-player",
+      "playlist",
+      "typescript",
+      "vue",
+      "windows"
+    ],
+    "html_url": "https://github.com/jun501389541/JJ-Music",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T12:18:16Z",
+    "updated_at": "2026-09-20T17:40:22Z",
+    "pushed_at": "2026-09-20T17:40:19Z"
+  },
+  {
+    "id": 1377505107,
+    "name": "icons-vue",
+    "full_name": "iconify/icons-vue",
+    "owner": {
+      "login": "iconify",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50354982?v=4"
+    },
+    "description": "200+ open source icon sets as Vue components",
+    "topics": [
+      "icons",
+      "svg",
+      "vue"
+    ],
+    "html_url": "https://github.com/iconify/icons-vue",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T18:43:17Z",
+    "updated_at": "2026-09-20T18:16:56Z",
+    "pushed_at": "2026-09-20T18:16:53Z"
+  },
+  {
+    "id": 1369698155,
+    "name": "IT_movies",
+    "full_name": "akhomlyuk/IT_movies",
+    "owner": {
+      "login": "akhomlyuk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26635022?v=4"
+    },
+    "description": "A curated list of films and series about computers, technology, artificial intelligence, etc",
+    "topics": [
+      "collection",
+      "database",
+      "film",
+      "lis",
+      "movie",
+      "movies",
+      "vue"
+    ],
+    "html_url": "https://github.com/akhomlyuk/IT_movies",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-14T10:01:03Z",
+    "updated_at": "2026-09-21T01:10:11Z",
+    "pushed_at": "2026-09-21T01:10:06Z"
+  },
+  {
+    "id": 1372720046,
+    "name": "practicetab",
+    "full_name": "s3gv/practicetab",
+    "owner": {
+      "login": "s3gv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32511281?v=4"
+    },
+    "description": "Cross-platform offline-first guitar practice desktop app — Tauri 2, Vue 3, Rust audio engine",
+    "topics": [
+      "desktop-app",
+      "guitar",
+      "guitar-practice",
+      "guitar-pro",
+      "metronome",
+      "music",
+      "offline-first",
+      "open-source",
+      "pitch-detection",
+      "rust",
+      "tablature",
+      "tauri",
+      "vue",
+      "vue3"
+    ],
+    "html_url": "https://github.com/s3gv/practicetab",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T08:05:36Z",
+    "updated_at": "2026-09-16T12:01:21Z",
+    "pushed_at": "2026-09-16T12:01:17Z"
+  },
+  {
+    "id": 1374208923,
+    "name": "GreyWork",
+    "full_name": "jean3690/GreyWork",
+    "owner": {
+      "login": "jean3690",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188204999?v=4"
+    },
+    "description": "Desktop-first AI agent workspace for developers: ACP agents + local OpenAI-compatible models, authorized workspace with Git & file preview, plugin/MCP/skills market, scheduled tasks, and 7 messaging channels. Tauri 2 + Rust + Vue 3.",
+    "topics": [
+      "acp",
+      "agent-client-protocol",
+      "ai-agent",
+      "codemirror",
+      "desktop-app",
+      "llm",
+      "mcp",
+      "monorepo",
+      "multi-agent",
+      "plugin-system",
+      "pnpm",
+      "rust",
+      "skills",
+      "tauri",
+      "tauri-v2",
+      "typescript",
+      "vue",
+      "vue3"
+    ],
+    "html_url": "https://github.com/jean3690/GreyWork",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 6,
+    "created_at": "2026-09-17T09:29:04Z",
+    "updated_at": "2026-09-19T04:36:45Z",
+    "pushed_at": "2026-09-21T01:42:24Z"
+  },
+  {
+    "id": 1378018415,
+    "name": "devkit",
+    "full_name": "39499740/devkit",
+    "owner": {
+      "login": "39499740",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29425312?v=4"
+    },
+    "description": "面向 Java / Web / Vue 开发者的纯浏览器本地工具箱：41 个工具（JSON/YAML、编码、摘要与国密、时间标识、Java、Vue、接口辅助、文件图片），数据不出设备。Nuxt 4 + TypeScript，零后端。",
+    "topics": [
+      "developer-tools",
+      "nuxt",
+      "offline-first",
+      "privacy",
+      "toolbox",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/39499740/devkit",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T06:39:43Z",
+    "updated_at": "2026-09-20T16:01:06Z",
+    "pushed_at": "2026-09-20T16:01:02Z"
+  },
+  {
+    "id": 1371597279,
+    "name": "nezha-aurora",
+    "full_name": "guanxi660-crypto/nezha-aurora",
+    "owner": {
+      "login": "guanxi660-crypto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284233873?v=4"
+    },
+    "description": "为哪吒监控 V2 打造的现代用户前端主题：卡片式节点总览、世界地图、实时网络趋势、历史指标曲线，深/浅双主题 + 移动端适配",
+    "topics": [
+      "dashboard",
+      "monitoring",
+      "nezha",
+      "nezha-monitoring",
+      "self-hosted",
+      "theme",
+      "typescript",
+      "vite",
+      "vue"
+    ],
+    "html_url": "https://github.com/guanxi660-crypto/nezha-aurora",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T14:16:10Z",
+    "updated_at": "2026-09-17T13:43:47Z",
+    "pushed_at": "2026-09-17T13:43:43Z"
+  },
+  {
+    "id": 1378796601,
+    "name": "spa-dashboards",
+    "full_name": "natalie-o-perret/spa-dashboards",
+    "owner": {
+      "login": "natalie-o-perret",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11332444?v=4"
+    },
+    "description": "SPA dashboards built with Angular Material, React MUI, and Vue Vuetify.",
+    "topics": [
+      "angular",
+      "angular-material",
+      "dashboard",
+      "github-pages",
+      "mui",
+      "react",
+      "typescript",
+      "vue",
+      "vuetify"
+    ],
+    "html_url": "https://github.com/natalie-o-perret/spa-dashboards",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T21:36:39Z",
+    "updated_at": "2026-09-20T22:38:21Z",
+    "pushed_at": "2026-09-20T21:51:14Z"
+  },
+  {
+    "id": 1373862852,
+    "name": "local-forge",
+    "full_name": "javaeer/local-forge",
+    "owner": {
+      "login": "javaeer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22784058?v=4"
+    },
+    "description": "LocalForge — 100% client-side file toolbox (zip/unzip/convert/ffmpeg transcode/PDF) that runs in your browser. No upload, no server, no tracking. MIT, self-hostable.",
+    "topics": [
+      "client-side",
+      "ffmpeg",
+      "file-converter",
+      "local-first",
+      "offline",
+      "open-source",
+      "pdf-tools",
+      "privacy",
+      "self-hosted",
+      "tar",
+      "unzip",
+      "vite",
+      "vue",
+      "wasm",
+      "webassembly",
+      "zip"
+    ],
+    "html_url": "https://github.com/javaeer/local-forge",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T03:02:13Z",
+    "updated_at": "2026-09-17T14:39:25Z",
+    "pushed_at": "2026-09-17T14:39:21Z"
+  }
+]
