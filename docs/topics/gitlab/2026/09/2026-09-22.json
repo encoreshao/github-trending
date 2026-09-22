@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1373975252,
+    "name": "langgraph-harness",
+    "full_name": "vrajpal-jhala/langgraph-harness",
+    "owner": {
+      "login": "vrajpal-jhala",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43914725?v=4"
+    },
+    "description": "Self-hosted AI coding agent platform for GitLab, built with LangGraph. Reviews merge requests, resolves issues autonomously, and chats with full project context.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "automation",
+      "code-review",
+      "coding-agent",
+      "context-engineering",
+      "docker",
+      "gitlab",
+      "langchain",
+      "langgraph",
+      "llm",
+      "mcp",
+      "self-hosted",
+      "typescript"
+    ],
+    "html_url": "https://github.com/vrajpal-jhala/langgraph-harness",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 33,
+    "created_at": "2026-09-17T05:20:47Z",
+    "updated_at": "2026-09-21T11:27:07Z",
+    "pushed_at": "2026-09-21T11:27:04Z"
+  },
+  {
+    "id": 1372232507,
+    "name": "workflow",
+    "full_name": "jacob-delgado/workflow",
+    "owner": {
+      "login": "jacob-delgado",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38300436?v=4"
+    },
+    "description": "A terminal UI that ties Jira, Slack, and GitHub or GitLab into one developer workflow.",
+    "topics": [
+      "bubbletea",
+      "cli",
+      "developer-tools",
+      "devtools",
+      "github",
+      "gitlab",
+      "go",
+      "golang",
+      "jira",
+      "productivity",
+      "slack",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/jacob-delgado/workflow",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-15T22:51:27Z",
+    "updated_at": "2026-09-22T00:01:10Z",
+    "pushed_at": "2026-09-22T00:01:30Z"
+  },
+  {
+    "id": 1374861047,
+    "name": "CVE-2026-85706-PoC-Toolkit",
+    "full_name": "tc4dy/CVE-2026-85706-PoC-Toolkit",
+    "owner": {
+      "login": "tc4dy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140116264?v=4"
+    },
+    "description": "🪬 CVE-2026-85706 – GitLab Unauth File Read Toolkit (CVSS 10.0) | Red/Blue Team suite for self-managed GitLab CE/EE 18.7–19.3.1. 2 tools: Full Exploit (unauth file read, admin token, mass scan, loot, shell, stealth, SQLite/HTML/JSON output) etc., SafeChecker (version detect, audit, security headers, TLS check, MITRE). Only Use Ethically, Educ. <3",
+    "topics": [
+      "cve",
+      "cve-scanning",
+      "cve-search",
+      "cves",
+      "exploit",
+      "exploit-code",
+      "exploit-development",
+      "exploitation",
+      "gitlab",
+      "gitlab-migrated",
+      "gitlab-migration",
+      "hacking-tool",
+      "safechecker",
+      "toolkit"
+    ],
+    "html_url": "https://github.com/tc4dy/CVE-2026-85706-PoC-Toolkit",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T18:06:48Z",
+    "updated_at": "2026-09-18T04:13:17Z",
+    "pushed_at": "2026-09-18T04:13:13Z"
+  },
+  {
+    "id": 1373765714,
+    "name": "RepoShelf",
+    "full_name": "jwhitten37-dev/RepoShelf",
+    "owner": {
+      "login": "jwhitten37-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179266633?v=4"
+    },
+    "description": "Remote-first repository workspaces for VS Code.",
+    "topics": [
+      "gitlab",
+      "partial-clone",
+      "remote-development",
+      "sparse-checkout",
+      "vscode-extension"
+    ],
+    "html_url": "https://github.com/jwhitten37-dev/RepoShelf",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-17T00:36:07Z",
+    "updated_at": "2026-09-21T15:18:34Z",
+    "pushed_at": "2026-09-21T15:18:30Z"
+  },
+  {
+    "id": 1373162273,
+    "name": "trimci-agent",
+    "full_name": "trimci-opensource/trimci-agent",
+    "owner": {
+      "login": "trimci-opensource",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329975177?v=4"
+    },
+    "description": "TrimCI Agent — GitLab CI push agent for private networks. Runs inside your network, pulls pipeline observability data from your GitLab and pushes it outbound-only over HTTPS to TrimCI. Zero code access, zero third-party dependencies, MIT.",
+    "topics": [
+      "agent",
+      "ci-cd",
+      "devops",
+      "gitlab",
+      "gitlab-ci",
+      "golang",
+      "observability",
+      "self-hosted",
+      "trimci",
+      "vpn"
+    ],
+    "html_url": "https://github.com/trimci-opensource/trimci-agent",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T14:30:42Z",
+    "updated_at": "2026-09-17T14:35:24Z",
+    "pushed_at": "2026-09-17T14:35:20Z"
+  },
+  {
+    "id": 1377571392,
+    "name": "jiraHelper",
+    "full_name": "harshankur/jiraHelper",
+    "owner": {
+      "login": "harshankur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1695832?v=4"
+    },
+    "description": "A privacy-first Chrome extension for Jira: comment-visibility guardrails plus one-click links between issues and their GitHub and GitLab branches, commits, and pull/merge requests.",
+    "topics": [
+      "atlassian",
+      "browser-extension",
+      "chrome-extension",
+      "developer-tools",
+      "github-config",
+      "gitlab",
+      "jira",
+      "manifest-v3",
+      "privacy",
+      "productivity"
+    ],
+    "html_url": "https://github.com/harshankur/jiraHelper",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T20:05:35Z",
+    "updated_at": "2026-09-19T20:09:51Z",
+    "pushed_at": "2026-09-19T20:08:40Z"
+  },
+  {
+    "id": 1372150296,
+    "name": "mr-brief",
+    "full_name": "kenjione/mr-brief",
+    "owner": {
+      "login": "kenjione",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1162193?v=4"
+    },
+    "description": "Merge request descriptions a reviewer actually reads. A Claude Code skill: 15 lines, 3 key changes, 3 verified places to look, 1 risk.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-code-plugin",
+      "code-review",
+      "developer-tools",
+      "github",
+      "gitlab",
+      "merge-request",
+      "mermaid",
+      "mermaid-diagrams",
+      "pull-requests"
+    ],
+    "html_url": "https://github.com/kenjione/mr-brief",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T21:29:10Z",
+    "updated_at": "2026-09-16T15:27:27Z",
+    "pushed_at": "2026-09-16T15:27:23Z"
+  },
+  {
+    "id": 1373931634,
+    "name": "herdr-glab",
+    "full_name": "hlouis/herdr-glab",
+    "owner": {
+      "login": "hlouis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79014?v=4"
+    },
+    "description": "Herdr plugin for GitLab merge requests: a grouped MR panel, worktree checkout, tuicr review, sidebar status, and a tab bar count. All access through the glab CLI.",
+    "topics": [
+      "cli",
+      "gitlab",
+      "golang",
+      "herdr",
+      "herdr-plugin"
+    ],
+    "html_url": "https://github.com/hlouis/herdr-glab",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T04:33:43Z",
+    "updated_at": "2026-09-19T05:31:43Z",
+    "pushed_at": "2026-09-19T05:31:44Z"
+  },
+  {
+    "id": 1377363623,
+    "name": "gitlab-ci-contract",
+    "full_name": "thisbejim/gitlab-ci-contract",
+    "owner": {
+      "login": "thisbejim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10917363?v=4"
+    },
+    "description": "Offline scenario auditing for GitLab CI rules and needs contracts",
+    "topics": [
+      "ci-cd",
+      "developer-tools",
+      "devops",
+      "gitlab",
+      "gitlab-ci",
+      "pipeline-lint"
+    ],
+    "html_url": "https://github.com/thisbejim/gitlab-ci-contract",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T16:12:17Z",
+    "updated_at": "2026-09-19T16:12:39Z",
+    "pushed_at": "2026-09-19T16:13:17Z"
+  },
+  {
+    "id": 1378332664,
+    "name": "gitalike",
+    "full_name": "ranjithrajv/gitalike",
+    "owner": {
+      "login": "ranjithrajv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3455008?v=4"
+    },
+    "description": "Use any forge, keep your muscle memory. Nothing else makes GitHub read like GitLab — and back. Local, reversible, no network requests.",
+    "topics": [
+      "bitbucket",
+      "browser-extension",
+      "chrome-extension",
+      "firefox-extension",
+      "forgejo",
+      "gitea",
+      "github",
+      "gitlab",
+      "manifest-v3",
+      "self-hosted",
+      "theming",
+      "web-extension"
+    ],
+    "html_url": "https://github.com/ranjithrajv/gitalike",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T12:51:12Z",
+    "updated_at": "2026-09-21T17:48:36Z",
+    "pushed_at": "2026-09-21T17:48:31Z"
+  },
+  {
+    "id": 1377751386,
+    "name": "ha-hacs-lab",
+    "full_name": "Chance-Konstruktion/ha-hacs-lab",
+    "owner": {
+      "login": "Chance-Konstruktion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/258682203?v=4"
+    },
+    "description": "HACS for self-hosted Git forges: GitLab, Gitea, Forgejo. Not a fork of HACS.",
+    "topics": [
+      "codeberg",
+      "custom-integration",
+      "forgejo",
+      "gitea",
+      "gitlab",
+      "hacs",
+      "home-assistant",
+      "home-automation",
+      "python",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/Chance-Konstruktion/ha-hacs-lab",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T00:51:38Z",
+    "updated_at": "2026-09-20T02:50:41Z",
+    "pushed_at": "2026-09-20T01:44:21Z"
+  },
+  {
+    "id": 1375734542,
+    "name": "Test-Projekt",
+    "full_name": "NicolasPogorzelski/Test-Projekt",
+    "owner": {
+      "login": "NicolasPogorzelski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174967670?v=4"
+    },
+    "description": "Docker-based work environment: GitLab CE, XWiki, OpenProject behind Caddy with private CA and LDAP (assessment project)",
+    "topics": [
+      "backup-restore",
+      "caddy",
+      "devsecops",
+      "docker",
+      "gitlab",
+      "ldap",
+      "openproject",
+      "xwiki"
+    ],
+    "html_url": "https://github.com/NicolasPogorzelski/Test-Projekt",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T10:56:00Z",
+    "updated_at": "2026-09-20T17:43:33Z",
+    "pushed_at": "2026-09-20T18:09:51Z"
+  },
+  {
+    "id": 1376061137,
+    "name": "ai-dev-workflow-design",
+    "full_name": "dycx/ai-dev-workflow-design",
+    "owner": {
+      "login": "dycx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28223667?v=4"
+    },
+    "description": "面向 30 人研发团队的 AI 开发工作流管理平台：框架性设计文档集（实施前三份设计文档逐级检视 → 本地 agent 无人值守跑到创建 MR）",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "design-document",
+      "devtools",
+      "gitlab",
+      "spec-driven-development",
+      "workflow"
+    ],
+    "html_url": "https://github.com/dycx/ai-dev-workflow-design",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T15:25:43Z",
+    "updated_at": "2026-09-18T15:25:55Z",
+    "pushed_at": "2026-09-18T15:25:48Z"
+  },
+  {
+    "id": 1372699853,
+    "name": "gitlab-flow",
+    "full_name": "Nonillo/gitlab-flow",
+    "owner": {
+      "login": "Nonillo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44928530?v=4"
+    },
+    "description": "Conventional Commits with ticket references and GitLab merge requests, from inside Claude Code. Zero configuration.",
+    "topics": [
+      "claude-code",
+      "claude-code-plugin",
+      "conventional-commits",
+      "developer-tools",
+      "gitlab",
+      "glab",
+      "jira",
+      "merge-request"
+    ],
+    "html_url": "https://github.com/Nonillo/gitlab-flow",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T07:46:43Z",
+    "updated_at": "2026-09-19T10:52:25Z",
+    "pushed_at": "2026-09-16T08:21:37Z"
+  },
+  {
+    "id": 1374219049,
+    "name": "sdkman-cicd",
+    "full_name": "keys-i/sdkman-cicd",
+    "owner": {
+      "login": "keys-i",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70819367?v=4"
+    },
+    "description": "SDKMAN-powered CI for GitHub Actions, GitLab, and Jenkins. Select Java, Kotlin, and other SDKs with .sdkmanrc, cache candidates, and build with one GHCR image.",
+    "topics": [
+      "ci-cd",
+      "continuous-integration",
+      "docker",
+      "ghcr",
+      "github-actions",
+      "gitlab",
+      "java",
+      "jenkins",
+      "kotlin",
+      "sdkman"
+    ],
+    "html_url": "https://github.com/keys-i/sdkman-cicd",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-09-17T09:39:21Z",
+    "updated_at": "2026-09-19T08:44:52Z",
+    "pushed_at": "2026-09-19T08:05:20Z"
+  },
+  {
+    "id": 1379590535,
+    "name": "redline",
+    "full_name": "elie-laloum/redline",
+    "owner": {
+      "login": "elie-laloum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184727734?v=4"
+    },
+    "description": "Coordinate Jira tickets across repositories with Claude Code, adversarial TDD, versioned memory, and GitLab merge requests.",
+    "topics": [
+      "agentic-workflows",
+      "claude-code",
+      "gitlab",
+      "jira",
+      "mcp",
+      "multi-agent",
+      "tdd",
+      "typescript"
+    ],
+    "html_url": "https://github.com/elie-laloum/redline",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T11:22:58Z",
+    "updated_at": "2026-09-21T15:16:15Z",
+    "pushed_at": "2026-09-21T15:16:10Z"
+  },
+  {
+    "id": 1375848997,
+    "name": "gittrack",
+    "full_name": "Albin-Joshy/gittrack",
+    "owner": {
+      "login": "Albin-Joshy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72346304?v=4"
+    },
+    "description": "Fair, explainable analysis of individual contribution in group Git projects",
+    "topics": [
+      "education",
+      "fastapi",
+      "git",
+      "gitlab",
+      "python",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Albin-Joshy/gittrack",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T12:38:16Z",
+    "updated_at": "2026-09-18T14:14:26Z",
+    "pushed_at": "2026-09-18T14:00:21Z"
+  },
+  {
+    "id": 1376408045,
+    "name": "forgelab",
+    "full_name": "repoplane/forgelab",
+    "owner": {
+      "login": "repoplane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328142998?v=4"
+    },
+    "description": "Put a known set of repositories into a sandbox org. Run tests. Put them back, fast.",
+    "topics": [
+      "cli",
+      "forgejo",
+      "git",
+      "github",
+      "gitlab",
+      "golang"
+    ],
+    "html_url": "https://github.com/repoplane/forgelab",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T20:33:51Z",
+    "updated_at": "2026-09-21T06:41:45Z",
+    "pushed_at": "2026-09-21T06:51:12Z"
+  }
+]

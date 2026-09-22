@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1373993338,
+    "name": "astra-flash-orchestrator",
+    "full_name": "ethanplusai/astra-flash-orchestrator",
+    "owner": {
+      "login": "ethanplusai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249879463?v=4"
+    },
+    "description": "Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verification, safe installation and reversible setup.",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "codex",
+      "codex-skills",
+      "deepseek",
+      "developer-tools"
+    ],
+    "html_url": "https://github.com/ethanplusai/astra-flash-orchestrator",
+    "stargazers_count": 471,
+    "language": "Python",
+    "forks_count": 33,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T05:42:31Z",
+    "updated_at": "2026-09-22T01:59:52Z",
+    "pushed_at": "2026-09-20T22:08:28Z"
+  },
+  {
+    "id": 1373869741,
+    "name": "ai-model-world",
+    "full_name": "liyupi/ai-model-world",
+    "owner": {
+      "login": "liyupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26037703?v=4"
+    },
+    "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
+    "topics": [
+      "ai",
+      "ai-models",
+      "benchmark",
+      "chinese",
+      "data-visualization",
+      "deepseek",
+      "large-language-models",
+      "leaderboard",
+      "llm",
+      "llm-benchmarks",
+      "llm-leaderboard",
+      "model-comparison",
+      "nextjs",
+      "pixel-art",
+      "react",
+      "static-site",
+      "tailwindcss",
+      "typescript"
+    ],
+    "html_url": "https://github.com/liyupi/ai-model-world",
+    "stargazers_count": 165,
+    "language": "TypeScript",
+    "forks_count": 27,
+    "open_issues_count": 2,
+    "created_at": "2026-09-17T03:12:17Z",
+    "updated_at": "2026-09-22T01:52:27Z",
+    "pushed_at": "2026-09-21T18:53:46Z"
+  },
+  {
+    "id": 1372665959,
+    "name": "ai-api-pricing-comparison",
+    "full_name": "qwertyuiop00a/ai-api-pricing-comparison",
+    "owner": {
+      "login": "qwertyuiop00a",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329813191?v=4"
+    },
+    "description": "AI API pricing comparison: per-image, per-second and per-million-token costs for image2.5, Nano Banana 2/Pro, Grok Image, Seedance, GPT-5.5, Claude Opus 5 and DeepSeek, refreshed daily from the public pricing payload.",
+    "topics": [
+      "ai-api-gateway",
+      "ai-api-pricing",
+      "api-cost-comparison",
+      "api-pricing",
+      "apimart",
+      "cheap-image-api",
+      "cost-optimization",
+      "deepseek",
+      "gpt-5-5",
+      "gpt-image-2-5",
+      "image-2-5-api",
+      "image-generation-pricing",
+      "image2-5",
+      "image2-5-api",
+      "llm-api-pricing",
+      "nano-banana",
+      "pricing",
+      "seedance",
+      "video-generation-cost"
+    ],
+    "html_url": "https://github.com/qwertyuiop00a/ai-api-pricing-comparison",
+    "stargazers_count": 53,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T07:15:12Z",
+    "updated_at": "2026-09-21T21:44:06Z",
+    "pushed_at": "2026-09-21T06:37:52Z"
+  },
+  {
+    "id": 1372393634,
+    "name": "hermes-skill-deck",
+    "full_name": "runninwithitmarketing/hermes-skill-deck",
+    "owner": {
+      "login": "runninwithitmarketing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221353711?v=4"
+    },
+    "description": "Local macOS dashboard for your Hermes Agent skills — auto-syncs SKILL.md files from ~/.hermes, customizable top menu bar (pick your own on first launch), custom skill boxes, and a Terminal Mode AI agent. Tauri + FastAPI + React.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "dashboard",
+      "deepseek",
+      "fastapi",
+      "macos",
+      "openai",
+      "react",
+      "skills",
+      "tailwindcss",
+      "tauri",
+      "vite"
+    ],
+    "html_url": "https://github.com/runninwithitmarketing/hermes-skill-deck",
+    "stargazers_count": 25,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T01:52:32Z",
+    "updated_at": "2026-09-21T23:02:07Z",
+    "pushed_at": "2026-09-21T14:31:07Z"
+  },
+  {
+    "id": 1380276592,
+    "name": "awesome-deepseek-code",
+    "full_name": "claude-code-plugins/awesome-deepseek-code",
+    "owner": {
+      "login": "claude-code-plugins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316117495?v=4"
+    },
+    "description": "Awesome list for deepseek code: Deep Code CLI docs, DeepSeek Coder on Ollama, API platform links and tools.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "deepseek",
+      "deepseek-code",
+      "deepseek-code-github",
+      "llm"
+    ],
+    "html_url": "https://github.com/claude-code-plugins/awesome-deepseek-code",
+    "stargazers_count": 16,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T18:00:47Z",
+    "updated_at": "2026-09-21T18:11:09Z",
+    "pushed_at": "2026-09-21T18:00:53Z"
+  },
+  {
+    "id": 1380272725,
+    "name": "deepseek-code",
+    "full_name": "tiktok-transcript/deepseek-code",
+    "owner": {
+      "login": "tiktok-transcript",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316116039?v=4"
+    },
+    "description": "Practical guide to deepseek code: the Deep Code CLI for DeepSeek-V4 and DeepSeek Coder models on Ollama.",
+    "topics": [
+      "deepseek",
+      "deepseek-code",
+      "deepseek-code-github",
+      "guide",
+      "llm"
+    ],
+    "html_url": "https://github.com/tiktok-transcript/deepseek-code",
+    "stargazers_count": 13,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:58:25Z",
+    "updated_at": "2026-09-21T18:11:01Z",
+    "pushed_at": "2026-09-21T18:00:42Z"
+  },
+  {
+    "id": 1375447169,
+    "name": "gp-ladder",
+    "full_name": "uasier/gp-ladder",
+    "owner": {
+      "login": "uasier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32014946?v=4"
+    },
+    "description": "连涨天梯 (gp-ladder)：同花顺连涨榜、东方财富涨停天梯与昨日涨停。Open-source A-share app for macOS / Windows / Android.",
+    "topics": [
+      "a-share",
+      "a-shares",
+      "android",
+      "china-stock",
+      "china-stock-market",
+      "china-stocks",
+      "deepseek",
+      "desktop-app",
+      "finance",
+      "macos",
+      "react",
+      "rust",
+      "stock-analysis",
+      "stock-market",
+      "tauri",
+      "tauri-v2",
+      "trading",
+      "typescript",
+      "vite",
+      "windows"
+    ],
+    "html_url": "https://github.com/uasier/gp-ladder",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T06:03:46Z",
+    "updated_at": "2026-09-21T11:44:07Z",
+    "pushed_at": "2026-09-21T11:44:03Z"
+  },
+  {
+    "id": 1374339206,
+    "name": "dsh-monitor",
+    "full_name": "epool86/dsh-monitor",
+    "owner": {
+      "login": "epool86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/811136?v=4"
+    },
+    "description": "Live mission control for DeepSeek Harness: watch your agents and sub-agents work in real time.",
+    "topics": [
+      "agents",
+      "dashboard",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "monitoring",
+      "observability",
+      "php"
+    ],
+    "html_url": "https://github.com/epool86/dsh-monitor",
+    "stargazers_count": 11,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T11:37:25Z",
+    "updated_at": "2026-09-19T15:55:43Z",
+    "pushed_at": "2026-09-17T11:37:33Z"
+  },
+  {
+    "id": 1380273023,
+    "name": "deepseek-code-examples",
+    "full_name": "x-api-dev/deepseek-code-examples",
+    "owner": {
+      "login": "x-api-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316117529?v=4"
+    },
+    "description": "Runnable deepseek code examples: Deep Code settings from env vars, DeepSeek Coder via Ollama in Python, JS and curl.",
+    "topics": [
+      "api-examples",
+      "deepseek",
+      "deepseek-code",
+      "deepseek-code-github",
+      "examples",
+      "llm"
+    ],
+    "html_url": "https://github.com/x-api-dev/deepseek-code-examples",
+    "stargazers_count": 11,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:58:36Z",
+    "updated_at": "2026-09-21T18:11:16Z",
+    "pushed_at": "2026-09-21T17:58:47Z"
+  },
+  {
+    "id": 1380255854,
+    "name": "deepseek-cli",
+    "full_name": "kling-omni-dev/deepseek-cli",
+    "owner": {
+      "login": "kling-omni-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316116439?v=4"
+    },
+    "description": "Unofficial deepseek cli guide: install Deep Code, settings.json, deepseek-v4 models, reasoning effort, skills.",
+    "topics": [
+      "deepseek",
+      "deepseek-cli",
+      "deepseek-cli-github",
+      "guide",
+      "llm"
+    ],
+    "html_url": "https://github.com/kling-omni-dev/deepseek-cli",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:48:04Z",
+    "updated_at": "2026-09-21T18:06:10Z",
+    "pushed_at": "2026-09-21T17:48:09Z"
+  },
+  {
+    "id": 1380241071,
+    "name": "awesome-deepseek-pricing",
+    "full_name": "kalodata-pricing/awesome-deepseek-pricing",
+    "owner": {
+      "login": "kalodata-pricing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316117488?v=4"
+    },
+    "description": "Awesome deepseek pricing: official rate tables, caching and rate-limit docs, independent calculators and alternatives.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "deepseek",
+      "deepseek-pricing",
+      "deepseek-pricing-github",
+      "llm"
+    ],
+    "html_url": "https://github.com/kalodata-pricing/awesome-deepseek-pricing",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:39:03Z",
+    "updated_at": "2026-09-21T18:02:16Z",
+    "pushed_at": "2026-09-21T17:39:08Z"
+  },
+  {
+    "id": 1380256118,
+    "name": "awesome-deepseek-cli",
+    "full_name": "bagel-model-dev/awesome-deepseek-cli",
+    "owner": {
+      "login": "bagel-model-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316116533?v=4"
+    },
+    "description": "Awesome DeepSeek CLI: curated deepseek cli links - Deep Code docs, GitHub repos, DeepSeek platform, pricing, status.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "deepseek",
+      "deepseek-cli",
+      "deepseek-cli-github",
+      "llm"
+    ],
+    "html_url": "https://github.com/bagel-model-dev/awesome-deepseek-cli",
+    "stargazers_count": 9,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:48:14Z",
+    "updated_at": "2026-09-21T18:06:15Z",
+    "pushed_at": "2026-09-21T17:48:20Z"
+  },
+  {
+    "id": 1377264191,
+    "name": "Open-Pet-Office",
+    "full_name": "Gu-kai-lei/Open-Pet-Office",
+    "owner": {
+      "login": "Gu-kai-lei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214422313?v=4"
+    },
+    "description": "A visual multi-agent desktop for Codex: live tasks, shared projects, isolated Missions, and OpenCodex models on Windows.",
+    "topics": [
+      "agent-workflow",
+      "ai-agents",
+      "ai-orchestration",
+      "codex",
+      "codex-desktop",
+      "deepseek",
+      "desktop-app",
+      "desktop-pet",
+      "electron",
+      "multi-agent",
+      "opencodex",
+      "windows"
+    ],
+    "html_url": "https://github.com/Gu-kai-lei/Open-Pet-Office",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T14:40:45Z",
+    "updated_at": "2026-09-22T01:29:13Z",
+    "pushed_at": "2026-09-21T17:54:05Z"
+  },
+  {
+    "id": 1380241370,
+    "name": "deepseek-pricing-examples",
+    "full_name": "kling-omni-dev/deepseek-pricing-examples",
+    "owner": {
+      "login": "kling-omni-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316116439?v=4"
+    },
+    "description": "deepseek pricing examples: rate table, peak-hour detection, per-call cost estimate and an off-peak scheduler.",
+    "topics": [
+      "api-examples",
+      "deepseek",
+      "deepseek-pricing",
+      "deepseek-pricing-github",
+      "examples",
+      "llm"
+    ],
+    "html_url": "https://github.com/kling-omni-dev/deepseek-pricing-examples",
+    "stargazers_count": 7,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:39:13Z",
+    "updated_at": "2026-09-21T18:02:20Z",
+    "pushed_at": "2026-09-21T17:39:23Z"
+  },
+  {
+    "id": 1378191581,
+    "name": "dsh-bar-macos",
+    "full_name": "donald-trump86/dsh-bar-macos",
+    "owner": {
+      "login": "donald-trump86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99466727?v=4"
+    },
+    "description": "Native, ultra-lightweight macOS menu bar companion & quick launcher for DeepSeek Harness",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "macos",
+      "menubar",
+      "swift"
+    ],
+    "html_url": "https://github.com/donald-trump86/dsh-bar-macos",
+    "stargazers_count": 7,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-20T09:59:28Z",
+    "updated_at": "2026-09-21T18:39:42Z",
+    "pushed_at": "2026-09-21T14:03:51Z"
+  },
+  {
+    "id": 1380240787,
+    "name": "deepseek-pricing",
+    "full_name": "bagel-model-dev/deepseek-pricing",
+    "owner": {
+      "login": "bagel-model-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316116533?v=4"
+    },
+    "description": "deepseek pricing explained: V4.1-Flash and V4-Pro rates per 1M tokens, cache hit vs miss, peak vs off-peak, limits.",
+    "topics": [
+      "deepseek",
+      "deepseek-pricing",
+      "deepseek-pricing-github",
+      "guide",
+      "llm"
+    ],
+    "html_url": "https://github.com/bagel-model-dev/deepseek-pricing",
+    "stargazers_count": 7,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:38:52Z",
+    "updated_at": "2026-09-21T18:02:10Z",
+    "pushed_at": "2026-09-21T17:38:57Z"
+  },
+  {
+    "id": 1379891939,
+    "name": "dsweb-proxy",
+    "full_name": "cv-superding/dsweb-proxy",
+    "owner": {
+      "login": "cv-superding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105969686?v=4"
+    },
+    "description": "网页版登录态 → OpenAI 兼容本地反代：DeepSeek / Qwen / Doubao 免费额度驱动 ZCode。Web login → OpenAI-compatible local API.",
+    "topics": [
+      "deepseek",
+      "doubao",
+      "llm",
+      "openai",
+      "openai-api",
+      "qwen",
+      "reverse-proxy",
+      "rust",
+      "tauri",
+      "typescript",
+      "windows"
+    ],
+    "html_url": "https://github.com/cv-superding/dsweb-proxy",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T14:19:18Z",
+    "updated_at": "2026-09-21T19:34:25Z",
+    "pushed_at": "2026-09-21T15:06:27Z"
+  },
+  {
+    "id": 1376861123,
+    "name": "dsh-qoder-connect",
+    "full_name": "masknull/dsh-qoder-connect",
+    "owner": {
+      "login": "masknull",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94269485?v=4"
+    },
+    "description": "将 Qoder（国内版 / 国际版）的模型以个人访问令牌（PAT）接入 DeepSeek Harness —— 双变体独立配置、侧栏额度展示、上下文窗口一键切换。|Qoder CN & international models for DeepSeek Harness via PAT. 支持 DSH 0.1.5-rc.1+。",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "qoder",
+      "qoder-cn"
+    ],
+    "html_url": "https://github.com/masknull/dsh-qoder-connect",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T07:22:00Z",
+    "updated_at": "2026-09-21T17:57:48Z",
+    "pushed_at": "2026-09-21T17:05:02Z"
+  },
+  {
+    "id": 1374283558,
+    "name": "awesome-dsh-plugin",
+    "full_name": "Anil-matcha/awesome-dsh-plugin",
+    "owner": {
+      "login": "Anil-matcha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4326215?v=4"
+    },
+    "description": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
+    "topics": [
+      "agent-harness",
+      "ai-agent",
+      "ai-agents",
+      "autonomous-agent",
+      "awesome",
+      "awesome-list",
+      "cli",
+      "coding-agent",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "llm",
+      "llm-agent",
+      "open-source",
+      "plugin-ecosystem",
+      "plugins",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/Anil-matcha/awesome-dsh-plugin",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T10:44:27Z",
+    "updated_at": "2026-09-20T01:20:11Z",
+    "pushed_at": "2026-09-17T20:06:00Z"
+  },
+  {
+    "id": 1376387739,
+    "name": "awesome-ai-free-tiers",
+    "full_name": "4pixeltechBR/awesome-ai-free-tiers",
+    "owner": {
+      "login": "4pixeltechBR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260987532?v=4"
+    },
+    "description": "The definitive, 100% verified directory of AI Free Tiers, rate limits, and budget APIs. Zero hallucinated quotas, step-by-step API key guides, and multi-provider fallback architectures.",
+    "topics": [
+      "ai",
+      "api",
+      "awesome-list",
+      "deepseek",
+      "developer-tools",
+      "free-tier",
+      "gemini",
+      "groq",
+      "llm",
+      "nvidia-nim",
+      "open-source"
+    ],
+    "html_url": "https://github.com/4pixeltechBR/awesome-ai-free-tiers",
+    "stargazers_count": 6,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T20:09:31Z",
+    "updated_at": "2026-09-20T20:43:57Z",
+    "pushed_at": "2026-09-19T23:37:43Z"
+  }
+]

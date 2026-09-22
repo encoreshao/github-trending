@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1375397100,
+    "name": "von",
+    "full_name": "wfzyx/von",
+    "owner": {
+      "login": "wfzyx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5880370?v=4"
+    },
+    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
+    "topics": [
+      "decision-model",
+      "jev",
+      "machine-learning",
+      "python",
+      "rlcd",
+      "system-one",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/wfzyx/von",
+    "stargazers_count": 365,
+    "language": "Python",
+    "forks_count": 29,
+    "open_issues_count": 5,
+    "created_at": "2026-09-18T05:03:47Z",
+    "updated_at": "2026-09-22T01:57:08Z",
+    "pushed_at": "2026-09-21T22:07:22Z"
+  },
+  {
+    "id": 1372105918,
+    "name": "FlyDrones",
+    "full_name": "SpikeCalls/FlyDrones",
+    "owner": {
+      "login": "SpikeCalls",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321195184?v=4"
+    },
+    "description": "A fruit fly connectome as a drone pilot. Camera -> fly eyes -> spiking brain -> descending neurons -> drone. Live 3D demo in your browser.",
+    "topics": [
+      "ardupilot",
+      "betaflight",
+      "brain-simulation",
+      "computational-neuroscience",
+      "connectome",
+      "crazyflie",
+      "drone",
+      "drosophila",
+      "fruit-fly",
+      "malecns",
+      "neuroscience",
+      "python",
+      "robotics",
+      "spiking-neural-network",
+      "tello"
+    ],
+    "html_url": "https://github.com/SpikeCalls/FlyDrones",
+    "stargazers_count": 216,
+    "language": "Python",
+    "forks_count": 51,
+    "open_issues_count": 0,
+    "created_at": "2026-09-15T20:52:47Z",
+    "updated_at": "2026-09-21T19:56:05Z",
+    "pushed_at": "2026-09-16T06:18:25Z"
+  },
+  {
+    "id": 1374027945,
+    "name": "github-ranking-audit",
+    "full_name": "nMaas8388/github-ranking-audit",
+    "owner": {
+      "login": "nMaas8388",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309150510?v=4"
+    },
+    "description": "Audit your GitHub repository search ranking signals. Checks name, description, topics, README, stars, forks, and activity.",
+    "topics": [
+      "developer-tools",
+      "github-api",
+      "github-growth",
+      "github-ranking",
+      "github-search",
+      "github-seo",
+      "github-stars",
+      "github-topics",
+      "open-source",
+      "python",
+      "readme-optimization",
+      "repository-analytics",
+      "repository-optimization",
+      "seo-audit"
+    ],
+    "html_url": "https://github.com/nMaas8388/github-ranking-audit",
+    "stargazers_count": 213,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T06:24:34Z",
+    "updated_at": "2026-09-19T16:17:38Z",
+    "pushed_at": "2026-09-17T06:44:03Z"
+  },
+  {
+    "id": 1374730640,
+    "name": "github-launch-checklist",
+    "full_name": "repoboost-hq/github-launch-checklist",
+    "owner": {
+      "login": "repoboost-hq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330359374?v=4"
+    },
+    "description": "Audit a GitHub repository before launch - ten readiness checks scored 0-10: name, description, topics, README, license, demo, installation, contributing guide and issue templates. Free and open source.",
+    "topics": [
+      "developer-tools",
+      "github",
+      "github-api",
+      "launch-checklist",
+      "launch-readiness",
+      "open-source",
+      "pre-launch-checklist",
+      "python",
+      "repository-management",
+      "seo"
+    ],
+    "html_url": "https://github.com/repoboost-hq/github-launch-checklist",
+    "stargazers_count": 194,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T16:30:57Z",
+    "updated_at": "2026-09-21T04:37:09Z",
+    "pushed_at": "2026-09-17T19:05:06Z"
+  },
+  {
+    "id": 1376771236,
+    "name": "yowes",
+    "full_name": "hirotomasato/yowes",
+    "owner": {
+      "login": "hirotomasato",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198351389?v=4"
+    },
+    "description": "Generate realistic teacher documents (ID cards, licenses, letters) for 13 countries via MCP.",
+    "topics": [
+      "agent",
+      "document-generator",
+      "mcp",
+      "model-context-protocol",
+      "pillow",
+      "python"
+    ],
+    "html_url": "https://github.com/hirotomasato/yowes",
+    "stargazers_count": 129,
+    "language": "Python",
+    "forks_count": 56,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T05:33:10Z",
+    "updated_at": "2026-09-22T01:00:37Z",
+    "pushed_at": "2026-09-19T05:47:51Z"
+  },
+  {
+    "id": 1378448001,
+    "name": "RbxForge",
+    "full_name": "Volumeyascoop/RbxForge",
+    "owner": {
+      "login": "Volumeyascoop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307800328?v=4"
+    },
+    "description": "CLI project generator for Roblox and Rojo",
+    "topics": [
+      "cli",
+      "luau",
+      "python",
+      "roblox",
+      "rojo"
+    ],
+    "html_url": "https://github.com/Volumeyascoop/RbxForge",
+    "stargazers_count": 99,
+    "language": "Python",
+    "forks_count": 96,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T14:51:23Z",
+    "updated_at": "2026-09-21T11:27:55Z",
+    "pushed_at": "2026-09-20T15:36:41Z"
+  },
+  {
+    "id": 1378448464,
+    "name": "RbxForge",
+    "full_name": "BansheeLight/RbxForge",
+    "owner": {
+      "login": "BansheeLight",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307800255?v=4"
+    },
+    "description": "CLI project generator for Roblox and Rojo",
+    "topics": [
+      "cli",
+      "luau",
+      "python",
+      "roblox",
+      "rojo"
+    ],
+    "html_url": "https://github.com/BansheeLight/RbxForge",
+    "stargazers_count": 97,
+    "language": "Python",
+    "forks_count": 96,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T14:51:54Z",
+    "updated_at": "2026-09-20T15:40:24Z",
+    "pushed_at": "2026-09-20T15:37:02Z"
+  },
+  {
+    "id": 1374627765,
+    "name": "fastbrowse",
+    "full_name": "agent-labs-dev/fastbrowse",
+    "owner": {
+      "login": "agent-labs-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270777357?v=4"
+    },
+    "description": "A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page.",
+    "topics": [
+      "agents",
+      "browser-agent",
+      "llm",
+      "python",
+      "web-automation"
+    ],
+    "html_url": "https://github.com/agent-labs-dev/fastbrowse",
+    "stargazers_count": 93,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 11,
+    "created_at": "2026-09-17T15:11:57Z",
+    "updated_at": "2026-09-22T00:54:11Z",
+    "pushed_at": "2026-09-22T00:48:54Z"
+  },
+  {
+    "id": 1377426282,
+    "name": "grok-bot-jev",
+    "full_name": "Bodila51/grok-bot-jev",
+    "owner": {
+      "login": "Bodila51",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191466064?v=4"
+    },
+    "description": "Connect TypeSafe Jev to Grok Bot as a cheap decision layer - usage gates, skill template, examples",
+    "topics": [
+      "cursor",
+      "decision-layer",
+      "grok-bot",
+      "jev",
+      "python",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/Bodila51/grok-bot-jev",
+    "stargazers_count": 74,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 2,
+    "created_at": "2026-09-19T17:15:48Z",
+    "updated_at": "2026-09-21T23:58:35Z",
+    "pushed_at": "2026-09-20T00:13:31Z"
+  },
+  {
+    "id": 1375448950,
+    "name": "traceclause",
+    "full_name": "LingxiangXu/traceclause",
+    "owner": {
+      "login": "LingxiangXu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53456266?v=4"
+    },
+    "description": "Local-first document requirements and evidence review workbench with traceable citations and human review.",
+    "topics": [
+      "bm25",
+      "document-analysis",
+      "evidence",
+      "fastapi",
+      "local-first",
+      "open-source",
+      "python",
+      "requirements"
+    ],
+    "html_url": "https://github.com/LingxiangXu/traceclause",
+    "stargazers_count": 72,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T06:05:56Z",
+    "updated_at": "2026-09-20T08:47:14Z",
+    "pushed_at": "2026-09-18T06:25:28Z"
+  },
+  {
+    "id": 1373265937,
+    "name": "xiaohongshu-api",
+    "full_name": "justoneapi-labs/xiaohongshu-api",
+    "owner": {
+      "login": "justoneapi-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330040735?v=4"
+    },
+    "description": "小红书API、小红书接口，Python 调用示例。",
+    "topics": [
+      "python",
+      "rednote",
+      "rednote-api",
+      "xhs",
+      "xhs-api",
+      "xiaohongshu",
+      "xiaohongshu-api"
+    ],
+    "html_url": "https://github.com/justoneapi-labs/xiaohongshu-api",
+    "stargazers_count": 71,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T15:39:38Z",
+    "updated_at": "2026-09-21T20:41:26Z",
+    "pushed_at": "2026-09-16T15:42:52Z"
+  },
+  {
+    "id": 1376355154,
+    "name": "gliner2-ultrafast",
+    "full_name": "sahibzada-allahyar/gliner2-ultrafast",
+    "owner": {
+      "login": "sahibzada-allahyar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94376830?v=4"
+    },
+    "description": "Real browser automation with local GLiNER2 inference and open weights. Work in progress. Contributions welcome.",
+    "topics": [
+      "browser-automation",
+      "gliner2",
+      "local-inference",
+      "open-weights",
+      "python"
+    ],
+    "html_url": "https://github.com/sahibzada-allahyar/gliner2-ultrafast",
+    "stargazers_count": 67,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T19:35:23Z",
+    "updated_at": "2026-09-21T11:14:12Z",
+    "pushed_at": "2026-09-18T19:35:28Z"
+  },
+  {
+    "id": 1373589167,
+    "name": "Open-Health-Atlas",
+    "full_name": "kajeesan/Open-Health-Atlas",
+    "owner": {
+      "login": "kajeesan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249340830?v=4"
+    },
+    "description": "Explore sleep, training, mood and nutrition together using local records, traceable calculations and optional MCP tools for your preferred AI client.",
+    "topics": [
+      "data-provenance",
+      "data-visualization",
+      "flask",
+      "health-data",
+      "local-first",
+      "mcp",
+      "python",
+      "self-hosted",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/kajeesan/Open-Health-Atlas",
+    "stargazers_count": 59,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 2,
+    "created_at": "2026-09-16T20:07:26Z",
+    "updated_at": "2026-09-21T14:38:24Z",
+    "pushed_at": "2026-09-21T14:38:15Z"
+  },
+  {
+    "id": 1377625921,
+    "name": "edge-scanner",
+    "full_name": "simonro/edge-scanner",
+    "owner": {
+      "login": "simonro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13911026?v=4"
+    },
+    "description": "Real-time intraday stock scanner for US equities with a browser dashboard you lay out yourself",
+    "topics": [
+      "alpaca",
+      "day-trading",
+      "fastapi",
+      "finance",
+      "market-data",
+      "python",
+      "react",
+      "realtime",
+      "schwab",
+      "stock-scanner",
+      "stocks",
+      "technical-analysis",
+      "trading",
+      "trading-tools",
+      "typescript",
+      "websocket"
+    ],
+    "html_url": "https://github.com/simonro/edge-scanner",
+    "stargazers_count": 59,
+    "language": "Python",
+    "forks_count": 20,
+    "open_issues_count": 15,
+    "created_at": "2026-09-19T21:23:46Z",
+    "updated_at": "2026-09-21T23:45:02Z",
+    "pushed_at": "2026-09-21T15:14:36Z"
+  },
+  {
+    "id": 1372670108,
+    "name": "openai-compatible-api-migration-kit",
+    "full_name": "apimart-66/openai-compatible-api-migration-kit",
+    "owner": {
+      "login": "apimart-66",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329814384?v=4"
+    },
+    "description": "OpenAI-compatible API migration kit: drop-in /v1/images/generations and chat examples, a compatibility matrix, rollback switches and a checklist for moving workloads between AI API gateways.",
+    "topics": [
+      "ai-api-gateway",
+      "api-migration",
+      "api-proxy",
+      "apimart",
+      "async-tasks",
+      "compatibility-matrix",
+      "gpt-image-2-5",
+      "image-api-proxy",
+      "image2-5",
+      "openai-api-alternative",
+      "openai-compatible",
+      "python",
+      "text-to-image"
+    ],
+    "html_url": "https://github.com/apimart-66/openai-compatible-api-migration-kit",
+    "stargazers_count": 57,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T07:19:02Z",
+    "updated_at": "2026-09-21T21:44:05Z",
+    "pushed_at": "2026-09-20T06:57:22Z"
+  },
+  {
+    "id": 1379820312,
+    "name": "editable-ppt-rebuilder",
+    "full_name": "baoerger/editable-ppt-rebuilder",
+    "owner": {
+      "login": "baoerger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59046521?v=4"
+    },
+    "description": "Auditable workflow for rebuilding raster slides into editable PowerPoint decks with OCR, semantic assets, ImageGen, and strict QA",
+    "topics": [
+      "document-automation",
+      "imagegen",
+      "ocr",
+      "powerpoint",
+      "pptx",
+      "python"
+    ],
+    "html_url": "https://github.com/baoerger/editable-ppt-rebuilder",
+    "stargazers_count": 50,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T13:42:58Z",
+    "updated_at": "2026-09-22T01:43:29Z",
+    "pushed_at": "2026-09-21T14:27:28Z"
+  },
+  {
+    "id": 1374300570,
+    "name": "HA-Jev",
+    "full_name": "AboveColin/HA-Jev",
+    "owner": {
+      "login": "AboveColin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6614011?v=4"
+    },
+    "description": "Ask your house a question, get a number back. Home Assistant integration for TypeSafe Jev: typed answers as sensors, four actions for automations, and a conversation agent for Assist.",
+    "topics": [
+      "ai",
+      "assist",
+      "conversation",
+      "custom-components",
+      "decision-model",
+      "hacs",
+      "home-assistant",
+      "home-automation",
+      "homeassistant",
+      "jev",
+      "llm",
+      "python",
+      "smart-home",
+      "typesafe",
+      "voice-assistant",
+      "voice-control"
+    ],
+    "html_url": "https://github.com/AboveColin/HA-Jev",
+    "stargazers_count": 43,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-09-17T11:01:48Z",
+    "updated_at": "2026-09-22T01:26:14Z",
+    "pushed_at": "2026-09-21T19:41:27Z"
+  },
+  {
+    "id": 1376351887,
+    "name": "vnpresence",
+    "full_name": "BasedYuki/vnpresence",
+    "owner": {
+      "login": "BasedYuki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298166374?v=4"
+    },
+    "description": "Show the visual novel you're reading on Discord - cover art, title, and elapsed time, automatically.",
+    "topics": [
+      "discord",
+      "discord-rpc",
+      "python",
+      "rich-presence",
+      "visual-novel",
+      "vndb",
+      "windows"
+    ],
+    "html_url": "https://github.com/BasedYuki/vnpresence",
+    "stargazers_count": 41,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T19:32:21Z",
+    "updated_at": "2026-09-21T20:38:04Z",
+    "pushed_at": "2026-09-20T17:39:00Z"
+  },
+  {
+    "id": 1376934917,
+    "name": "ai-girlfriend-v2",
+    "full_name": "Work-Fisher/ai-girlfriend-v2",
+    "owner": {
+      "login": "Work-Fisher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203682585?v=4"
+    },
+    "description": "Windows AI companion with DSH long-term memory, local voice cloning and optional WSL2 digital human.",
+    "topics": [
+      "ai-companion",
+      "ai-girlfriend",
+      "digital-human",
+      "dsh",
+      "long-term-memory",
+      "python",
+      "speech-to-speech",
+      "voice-cloning",
+      "windows",
+      "wsl2"
+    ],
+    "html_url": "https://github.com/Work-Fisher/ai-girlfriend-v2",
+    "stargazers_count": 35,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T08:43:16Z",
+    "updated_at": "2026-09-22T01:12:23Z",
+    "pushed_at": "2026-09-19T12:24:11Z"
+  },
+  {
+    "id": 1375639587,
+    "name": "NobodyTdxTQ",
+    "full_name": "NobodySniper/NobodyTdxTQ",
+    "owner": {
+      "login": "NobodySniper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180972901?v=4"
+    },
+    "description": "自然语言生成量化策略并回测，基于 [backtrader]的 A 股量化回测系统，数据源为通达信 TQ API。 内置 Web 前端，填写参数 → 一键回测 → 交互式报告，适合量化入门和小白分享",
+    "topics": [
+      "a-stock",
+      "finance",
+      "python",
+      "quant",
+      "tdx",
+      "tq"
+    ],
+    "html_url": "https://github.com/NobodySniper/NobodyTdxTQ",
+    "stargazers_count": 32,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T09:15:41Z",
+    "updated_at": "2026-09-21T12:00:24Z",
+    "pushed_at": "2026-09-19T12:16:43Z"
+  }
+]
