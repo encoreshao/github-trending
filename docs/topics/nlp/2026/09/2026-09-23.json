@@ -1,0 +1,601 @@
+[
+  {
+    "id": 1374667371,
+    "name": "topconf-paper-figure-gallery",
+    "full_name": "qwdwqfwq/topconf-paper-figure-gallery",
+    "owner": {
+      "login": "qwdwqfwq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166132677?v=4"
+    },
+    "description": "A searchable gallery of 2,730 well-designed Figure 1 / teaser figures from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2025), tagged with Oral / Spotlight / Best-paper tiers.",
+    "topics": [
+      "aaai",
+      "academic-writing",
+      "acl",
+      "awesome-list",
+      "computer-vision",
+      "cvpr",
+      "deep-learning",
+      "figure-design",
+      "github-pages",
+      "iclr",
+      "icml",
+      "inspiration",
+      "machine-learning",
+      "neurips",
+      "nlp",
+      "paper-figures",
+      "paper-writing",
+      "research-tools",
+      "scientific-figures",
+      "teaser-figure"
+    ],
+    "html_url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
+    "stargazers_count": 344,
+    "language": "Python",
+    "forks_count": 24,
+    "open_issues_count": 1,
+    "created_at": "2026-09-17T15:40:52Z",
+    "updated_at": "2026-09-23T01:42:14Z",
+    "pushed_at": "2026-09-22T13:27:29Z"
+  },
+  {
+    "id": 1376665052,
+    "name": "lev",
+    "full_name": "jlt-commons/lev",
+    "owner": {
+      "login": "jlt-commons",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322369746?v=4"
+    },
+    "description": "Jolt implementation of Laya non-autoregressive System 1 decision engine",
+    "topics": [
+      "bert",
+      "blas",
+      "chez-scheme",
+      "clojure",
+      "ffi",
+      "inference",
+      "jolt",
+      "machine-learning",
+      "modernbert",
+      "native",
+      "nlp",
+      "transformers"
+    ],
+    "html_url": "https://github.com/jlt-commons/lev",
+    "stargazers_count": 7,
+    "language": "Clojure",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T03:08:37Z",
+    "updated_at": "2026-09-22T21:45:39Z",
+    "pushed_at": "2026-09-22T21:45:35Z"
+  },
+  {
+    "id": 1378340684,
+    "name": "laya-rust",
+    "full_name": "aovestdipaperino/laya-rust",
+    "owner": {
+      "login": "aovestdipaperino",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42046613?v=4"
+    },
+    "description": "Pure-Rust inference for the Laya non-autoregressive typed-decision model (ModernBERT-large + RL decision head), on candle",
+    "topics": [
+      "candle",
+      "inference",
+      "machine-learning",
+      "modernbert",
+      "nlp",
+      "rust",
+      "text-classification"
+    ],
+    "html_url": "https://github.com/aovestdipaperino/laya-rust",
+    "stargazers_count": 7,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-20T13:00:16Z",
+    "updated_at": "2026-09-23T00:22:02Z",
+    "pushed_at": "2026-09-20T18:17:30Z"
+  },
+  {
+    "id": 1380755098,
+    "name": "decidr",
+    "full_name": "devanmolsharma/decidr",
+    "owner": {
+      "login": "devanmolsharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107991562?v=4"
+    },
+    "description": "Typed decisions from local LLMs in one forward pass, via Ollama. No generation loop, no JSON parsing.",
+    "topics": [
+      "classification",
+      "llm",
+      "local-llm",
+      "logprobs",
+      "nlp",
+      "ollama",
+      "python",
+      "routing"
+    ],
+    "html_url": "https://github.com/devanmolsharma/decidr",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T02:13:20Z",
+    "updated_at": "2026-09-23T00:29:49Z",
+    "pushed_at": "2026-09-23T00:25:43Z"
+  },
+  {
+    "id": 1377701354,
+    "name": "jeveryword",
+    "full_name": "jkrup/jeveryword",
+    "owner": {
+      "login": "jkrup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/519731?v=4"
+    },
+    "description": "Text extraction with Jev: field extraction, PII detection and exact quotes, built on TypeSafe's Jev.",
+    "topics": [
+      "javascript",
+      "jev",
+      "nlp",
+      "pii",
+      "text-extraction",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/jkrup/jeveryword",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T23:26:55Z",
+    "updated_at": "2026-09-22T03:28:36Z",
+    "pushed_at": "2026-09-20T18:31:50Z"
+  },
+  {
+    "id": 1374106740,
+    "name": "slopshape",
+    "full_name": "pulse-energy-eu/slopshape",
+    "owner": {
+      "login": "pulse-energy-eu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192725507?v=4"
+    },
+    "description": "Release package for SlopShape: Identifying AI-Generated Commercial Web Content (verification artifacts, instrument, prompts, code)",
+    "topics": [
+      "ai-text-detection",
+      "computational-linguistics",
+      "nlp",
+      "replication-study"
+    ],
+    "html_url": "https://github.com/pulse-energy-eu/slopshape",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T07:46:28Z",
+    "updated_at": "2026-09-23T00:49:37Z",
+    "pushed_at": "2026-09-17T07:46:34Z"
+  },
+  {
+    "id": 1373641003,
+    "name": "Initial-NLP-Streamlit-App",
+    "full_name": "dan99ger/Initial-NLP-Streamlit-App",
+    "owner": {
+      "login": "dan99ger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146479427?v=4"
+    },
+    "description": "An interactive Natural Language Processing (NLP) web application built with Python, NLTK/TextBlob, and Streamlit for text analysis, sentiment classification, and linguistic feature extraction.",
+    "topics": [
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "python3",
+      "sentiment-analysis",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/dan99ger/Initial-NLP-Streamlit-App",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T21:10:36Z",
+    "updated_at": "2026-09-19T18:10:56Z",
+    "pushed_at": "2026-09-17T00:43:05Z"
+  },
+  {
+    "id": 1378955875,
+    "name": "whatsapp-herbs-bot",
+    "full_name": "moussachm/whatsapp-herbs-bot",
+    "owner": {
+      "login": "moussachm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190852199?v=4"
+    },
+    "description": "🤖 وكيل ذكاء اصطناعي يرد على استفسارات عملاء متجر أعشاب وتوابل تلقائياً — نموذج تفاعلي بالكامل في المتصفح",
+    "topics": [
+      "ai-agent",
+      "arabic-nlp",
+      "chatbot",
+      "customer-service",
+      "javascript",
+      "nlp",
+      "no-dependencies",
+      "portfolio-project",
+      "vanilla-js",
+      "whatsapp-bot"
+    ],
+    "html_url": "https://github.com/moussachm/whatsapp-herbs-bot",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T01:50:27Z",
+    "updated_at": "2026-09-21T21:47:49Z",
+    "pushed_at": "2026-09-22T00:27:20Z"
+  },
+  {
+    "id": 1374270321,
+    "name": "PAKGOV-RAG-project",
+    "full_name": "salikhussain71-code/PAKGOV-RAG-project",
+    "owner": {
+      "login": "salikhussain71-code",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271632164?v=4"
+    },
+    "description": "Research project on bilingual Urdu-English retrieval-augmented generation for Pakistani government and legal documents, with OCR, hybrid retrieval, citation grounding, and evaluation.",
+    "topics": [
+      "artificial-intelligence",
+      "information-retrieval",
+      "legal-nlp",
+      "low-resource-languages",
+      "nlp",
+      "ocr",
+      "rag",
+      "retrieval-augmented-generation",
+      "transformers",
+      "urdu-nlp"
+    ],
+    "html_url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T10:31:00Z",
+    "updated_at": "2026-09-18T17:35:45Z",
+    "pushed_at": "2026-09-18T17:35:40Z"
+  },
+  {
+    "id": 1378115510,
+    "name": "VedAnvaya",
+    "full_name": "HimanshuMohanty-Git24/VedAnvaya",
+    "owner": {
+      "login": "HimanshuMohanty-Git24",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94133298?v=4"
+    },
+    "description": "VedAnvaya — an evidence-led digital atlas for reading, exploring, hearing, questioning, and navigating connections across the Vedic corpus.",
+    "topics": [
+      "cultural-heritage",
+      "digital-humanities",
+      "fastapi",
+      "indic-studies",
+      "knowledge-graph",
+      "neo4j",
+      "nextjs",
+      "nlp",
+      "sanskrit",
+      "source-available",
+      "textual-scholarship",
+      "vedas"
+    ],
+    "html_url": "https://github.com/HimanshuMohanty-Git24/VedAnvaya",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T08:32:37Z",
+    "updated_at": "2026-09-22T12:10:02Z",
+    "pushed_at": "2026-09-22T12:09:58Z"
+  },
+  {
+    "id": 1372605252,
+    "name": "quant-memorization-study",
+    "full_name": "pupa3066/quant-memorization-study",
+    "owner": {
+      "login": "pupa3066",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161877799?v=4"
+    },
+    "description": "Does quantization change what a model memorizes / how reliably it recalls facts? 6-model study, data-centric interpretability.",
+    "topics": [
+      "interpretability",
+      "llm",
+      "memorization",
+      "nlp",
+      "quantization"
+    ],
+    "html_url": "https://github.com/pupa3066/quant-memorization-study",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-16T06:16:19Z",
+    "updated_at": "2026-09-18T21:28:15Z",
+    "pushed_at": "2026-09-18T21:28:11Z"
+  },
+  {
+    "id": 1374760032,
+    "name": "Day04_Specialized_Architectures_Transformers",
+    "full_name": "dan99ger/Day04_Specialized_Architectures_Transformers",
+    "owner": {
+      "login": "dan99ger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146479427?v=4"
+    },
+    "description": "Computer Vision & Natural Language Processing models using Transfer Learning with ResNet18 and sequence classification with Hugging Face DistilBERT. Part of the 7-Day ML Engineering Challenge.",
+    "topics": [
+      "computer-vision",
+      "distilbert",
+      "huggingface",
+      "nlp",
+      "python",
+      "python-3",
+      "python3",
+      "pytorch",
+      "resnet",
+      "transfer-learning",
+      "transformers"
+    ],
+    "html_url": "https://github.com/dan99ger/Day04_Specialized_Architectures_Transformers",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T16:53:12Z",
+    "updated_at": "2026-09-19T18:11:56Z",
+    "pushed_at": "2026-09-17T18:37:26Z"
+  },
+  {
+    "id": 1377289647,
+    "name": "Clauseguard",
+    "full_name": "awwws0m/Clauseguard",
+    "owner": {
+      "login": "awwws0m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177921150?v=4"
+    },
+    "description": "RAG-based contract risk analysis agent using hybrid retrieval (BM25 + vector search) and Gemini to identify and explain contractual risks.",
+    "topics": [
+      "bm25",
+      "contract-analysis",
+      "fastapi",
+      "genai",
+      "legal-ai",
+      "llm",
+      "nlp",
+      "python",
+      "qdrant",
+      "rag",
+      "semantic-search"
+    ],
+    "html_url": "https://github.com/awwws0m/Clauseguard",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T15:02:10Z",
+    "updated_at": "2026-09-19T15:17:41Z",
+    "pushed_at": "2026-09-19T15:14:52Z"
+  },
+  {
+    "id": 1372722024,
+    "name": "anuvad",
+    "full_name": "rakinmohammedrafeeq/anuvad",
+    "owner": {
+      "login": "rakinmohammedrafeeq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163554691?v=4"
+    },
+    "description": "AI-powered real-time multilingual speech captioning and translation system that converts live speech into accurate captions and translated text using Faster-Whisper, WebSockets, and low-latency audio processing for accessible communication.",
+    "topics": [
+      "accessibility",
+      "asr",
+      "automatic-speech-recognition",
+      "fastapi",
+      "faster-whisper",
+      "machine-translation",
+      "multilingual",
+      "nlp",
+      "python",
+      "real-time",
+      "speech-processing",
+      "speech-recognition",
+      "speech-to-text",
+      "websockets",
+      "whisper"
+    ],
+    "html_url": "https://github.com/rakinmohammedrafeeq/anuvad",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T08:07:34Z",
+    "updated_at": "2026-09-17T16:16:56Z",
+    "pushed_at": "2026-09-17T16:16:52Z"
+  },
+  {
+    "id": 1376720847,
+    "name": "promptsearch-broll-engine",
+    "full_name": "nirmallashkari/promptsearch-broll-engine",
+    "owner": {
+      "login": "nirmallashkari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205440787?v=4"
+    },
+    "description": "Zero-API Chrome Extension (Manifest V3) that parses AI scene prompts into precision Google B-roll & imagery queries.",
+    "topics": [
+      "ai-video",
+      "b-roll",
+      "chrome-extension",
+      "google-search",
+      "manifest-v3",
+      "nlp",
+      "prompt-engineering",
+      "video-editing",
+      "youtube-automation"
+    ],
+    "html_url": "https://github.com/nirmallashkari/promptsearch-broll-engine",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T04:22:49Z",
+    "updated_at": "2026-09-19T05:15:24Z",
+    "pushed_at": "2026-09-19T04:35:14Z"
+  },
+  {
+    "id": 1379366755,
+    "name": "Product-Reviews",
+    "full_name": "abdullahashrafsaidshehab-a11y/Product-Reviews",
+    "owner": {
+      "login": "abdullahashrafsaidshehab-a11y",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233394635?v=4"
+    },
+    "description": "Product Reviews analysis using Self-Attention mechanism with TensorFlow and Python.",
+    "topics": [
+      "dashboard",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "nlp",
+      "python",
+      "self-attention",
+      "tensorflow"
+    ],
+    "html_url": "https://github.com/abdullahashrafsaidshehab-a11y/Product-Reviews",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T08:34:14Z",
+    "updated_at": "2026-09-21T12:30:39Z",
+    "pushed_at": "2026-09-21T08:41:54Z"
+  },
+  {
+    "id": 1379693599,
+    "name": "DocQuery",
+    "full_name": "T2004-la/DocQuery",
+    "owner": {
+      "login": "T2004-la",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129200346?v=4"
+    },
+    "description": "DocQuery: RAG-Based Intelligent Document Retrieval Assistant (CS50x Final Project)",
+    "topics": [
+      "computerscience",
+      "cs50",
+      "cs50x",
+      "flask",
+      "generativeai",
+      "harvard",
+      "harvard-cs50",
+      "harvardcs50",
+      "harvardcs50x",
+      "harvardx",
+      "machinelearning",
+      "naturallanguageprocessing",
+      "nlp",
+      "python",
+      "rag",
+      "retrievalaugmentedgeneration",
+      "textsearch",
+      "tfidf",
+      "vectorsearch"
+    ],
+    "html_url": "https://github.com/T2004-la/DocQuery",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T12:27:37Z",
+    "updated_at": "2026-09-21T14:23:56Z",
+    "pushed_at": "2026-09-21T12:54:37Z"
+  },
+  {
+    "id": 1373363672,
+    "name": "EthicScraping",
+    "full_name": "Quarantuno/EthicScraping",
+    "owner": {
+      "login": "Quarantuno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155588052?v=4"
+    },
+    "description": "Open-source, ethical web scraping pipeline that builds transparent, license-aware, privacy-conscious datasets for training AI on responsible data use.",
+    "topics": [
+      "data-privacy",
+      "dataset",
+      "ethical-ai",
+      "llm",
+      "nlp",
+      "open-source",
+      "python",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/Quarantuno/EthicScraping",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T16:50:47Z",
+    "updated_at": "2026-09-22T16:47:11Z",
+    "pushed_at": "2026-09-20T10:42:11Z"
+  },
+  {
+    "id": 1379383826,
+    "name": "RayCodes_GLiNER_V1_Multi",
+    "full_name": "47thtechcorner/RayCodes_GLiNER_V1_Multi",
+    "owner": {
+      "login": "47thtechcorner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233621018?v=4"
+    },
+    "description": "I Tested GLiNER 2.5: 1GB AI with Zero Hallucinations? - Fast local unified information extraction pipeline using GLiNER2.5 Multi for NER, relation extraction, and text classification.",
+    "topics": [
+      "gliner",
+      "gliner2",
+      "information-extraction",
+      "knowledge-graph",
+      "named-entity-recognition",
+      "nlp",
+      "python"
+    ],
+    "html_url": "https://github.com/47thtechcorner/RayCodes_GLiNER_V1_Multi",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T08:46:42Z",
+    "updated_at": "2026-09-22T11:14:24Z",
+    "pushed_at": "2026-09-21T11:01:31Z"
+  },
+  {
+    "id": 1376873330,
+    "name": "docuparser",
+    "full_name": "VittalAB/docuparser",
+    "owner": {
+      "login": "VittalAB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59869004?v=4"
+    },
+    "description": "Docuparser is a Python library for parsing PDFs and documents into clean markdown, structured tables, summaries, embeddings, and knowledge graphs using optional LLM and OCR workflows.",
+    "topics": [
+      "ai",
+      "document-processing",
+      "embeddings",
+      "knowlege-graph",
+      "llm",
+      "nlp",
+      "ocr",
+      "open-source",
+      "pdf",
+      "pydantic",
+      "python"
+    ],
+    "html_url": "https://github.com/VittalAB/docuparser",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T07:35:51Z",
+    "updated_at": "2026-09-19T08:42:43Z",
+    "pushed_at": "2026-09-19T07:53:20Z"
+  }
+]

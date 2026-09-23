@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1374583864,
+    "name": "jev-guard",
+    "full_name": "leepokai/jev-guard",
+    "owner": {
+      "login": "leepokai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109857817?v=4"
+    },
+    "description": "Auto mode for every coding agent, built on Jev: risk-scores every tool call with session context (deny / ask / allow), flags prompt injection in results, checks skills and plugins. Claude Code, Codex, Copilot, Gemini, Cursor, pi, OpenCode, ACP.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "gemini-cli",
+      "hooks",
+      "jev",
+      "opencode",
+      "prompt-injection",
+      "security"
+    ],
+    "html_url": "https://github.com/leepokai/jev-guard",
+    "stargazers_count": 26,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 4,
+    "created_at": "2026-09-17T14:39:28Z",
+    "updated_at": "2026-09-22T19:55:30Z",
+    "pushed_at": "2026-09-17T18:44:11Z"
+  },
+  {
+    "id": 1376238661,
+    "name": "agent-chaperone",
+    "full_name": "agent-chaperone/agent-chaperone",
+    "owner": {
+      "login": "agent-chaperone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/331001270?v=4"
+    },
+    "description": "Screens an AI agent's tool calls before they run and tool results before the agent reads them. An MCP proxy plus a hooks adapter for a client's built-in tools.",
+    "topics": [
+      "agent-security",
+      "ai-agent-security",
+      "ai-agents",
+      "ai-security",
+      "claude-code",
+      "guardrails",
+      "jev",
+      "jev-ai",
+      "llm-security",
+      "mcp",
+      "mcp-security",
+      "mcp-tools",
+      "model-context-protocol",
+      "prompt-injection",
+      "runtime-security",
+      "security",
+      "typesafe",
+      "typesafe-ai",
+      "typesafe-jev",
+      "typescript"
+    ],
+    "html_url": "https://github.com/agent-chaperone/agent-chaperone",
+    "stargazers_count": 20,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 7,
+    "created_at": "2026-09-18T17:52:36Z",
+    "updated_at": "2026-09-22T20:33:40Z",
+    "pushed_at": "2026-09-21T17:46:18Z"
+  },
+  {
+    "id": 1381755166,
+    "name": "MCPBastion",
+    "full_name": "Matthew0822/MCPBastion",
+    "owner": {
+      "login": "Matthew0822",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15010780?v=4"
+    },
+    "description": "Zero-trust security gateway between AI agents and MCP servers: scoped capabilities, redaction, rate and cost limits, and verifiable session logs.",
+    "topics": [
+      "ai-agents",
+      "audit-logging",
+      "cli",
+      "gateway",
+      "json-rpc",
+      "llm-security",
+      "mcp",
+      "model-context-protocol",
+      "policy-engine",
+      "provenance",
+      "rate-limiting",
+      "redaction",
+      "rust",
+      "security",
+      "zero-trust"
+    ],
+    "html_url": "https://github.com/Matthew0822/MCPBastion",
+    "stargazers_count": 20,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T14:52:43Z",
+    "updated_at": "2026-09-22T18:09:47Z",
+    "pushed_at": "2026-09-22T15:03:29Z"
+  },
+  {
+    "id": 1377739225,
+    "name": "footprint-osint",
+    "full_name": "BillyBobMcgee/footprint-osint",
+    "owner": {
+      "login": "BillyBobMcgee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109704904?v=4"
+    },
+    "description": "Defensive OSINT exposure checker: see what an email, password, domain or username leaks in public breach data. No API keys. CLI + local web GUI.",
+    "topics": [
+      "cli",
+      "data-breach",
+      "dmarc",
+      "hibp",
+      "opsec",
+      "osint",
+      "privacy",
+      "python",
+      "security",
+      "security-tools",
+      "subdomain-takeover",
+      "threat-intelligence",
+      "username-search"
+    ],
+    "html_url": "https://github.com/BillyBobMcgee/footprint-osint",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T00:31:20Z",
+    "updated_at": "2026-09-22T16:59:42Z",
+    "pushed_at": "2026-09-20T00:42:39Z"
+  },
+  {
+    "id": 1373039122,
+    "name": "LLM-OWASP-LAB",
+    "full_name": "riteshs4hu/LLM-OWASP-LAB",
+    "owner": {
+      "login": "riteshs4hu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118372301?v=4"
+    },
+    "description": "Vulnerable AI applications and hands-on labs for learning the OWASP Top 10 for Large Language Model Applications.",
+    "topics": [
+      "ai",
+      "aisecurity",
+      "challenges",
+      "labs",
+      "llm",
+      "owasp",
+      "owasp-llm",
+      "owasp-llm-top-10",
+      "owasp-top-ten",
+      "security"
+    ],
+    "html_url": "https://github.com/riteshs4hu/LLM-OWASP-LAB",
+    "stargazers_count": 14,
+    "language": "CSS",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T12:57:34Z",
+    "updated_at": "2026-09-22T17:20:50Z",
+    "pushed_at": "2026-09-16T17:13:45Z"
+  },
+  {
+    "id": 1372895358,
+    "name": "easy-unlocker",
+    "full_name": "cyancity/easy-unlocker",
+    "owner": {
+      "login": "cyancity",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26839110?v=4"
+    },
+    "description": "Secrets management for AI agents: approve API keys and credentials on your phone with biometrics, delivered end-to-end encrypted into the target process. Plaintext never enters the chat, logs, or relay.",
+    "topics": [
+      "ai-agents",
+      "android",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "end-to-end-encryption",
+      "ios",
+      "secrets-management",
+      "security"
+    ],
+    "html_url": "https://github.com/cyancity/easy-unlocker",
+    "stargazers_count": 10,
+    "language": "Kotlin",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T10:53:15Z",
+    "updated_at": "2026-09-18T10:49:23Z",
+    "pushed_at": "2026-09-22T17:42:29Z"
+  },
+  {
+    "id": 1382357483,
+    "name": "PasswordSafeCore",
+    "full_name": "SkinChampion/PasswordSafeCore",
+    "owner": {
+      "login": "SkinChampion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307800532?v=4"
+    },
+    "description": "Cross-platform ready package",
+    "topics": [
+      "offline",
+      "open-source",
+      "password-manager",
+      "security"
+    ],
+    "html_url": "https://github.com/SkinChampion/PasswordSafeCore",
+    "stargazers_count": 9,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T21:04:29Z",
+    "updated_at": "2026-09-22T21:37:52Z",
+    "pushed_at": "2026-09-22T21:04:42Z"
+  },
+  {
+    "id": 1377952600,
+    "name": "env-guard",
+    "full_name": "Forgesaroj/env-guard",
+    "owner": {
+      "login": "Forgesaroj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185182151?v=4"
+    },
+    "description": "Catch missing, extra, duplicate and unsafe environment variables before deployment—without exposing secrets.",
+    "topics": [
+      "cli",
+      "devtools",
+      "dotenv",
+      "environment",
+      "environment-variables",
+      "github-actions",
+      "node",
+      "node-js",
+      "nodejs",
+      "nodemon",
+      "security"
+    ],
+    "html_url": "https://github.com/Forgesaroj/env-guard",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T05:23:05Z",
+    "updated_at": "2026-09-22T10:15:54Z",
+    "pushed_at": "2026-09-20T14:05:47Z"
+  },
+  {
+    "id": 1382159140,
+    "name": "cve-2026-87902-poc",
+    "full_name": "ressl/cve-2026-87902-poc",
+    "owner": {
+      "login": "ressl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11209641?v=4"
+    },
+    "description": "PoC for CVE-2026-87902 — unauthenticated path traversal in WordPress page-template resolution (local PHP inclusion, conditional RCE) with a pinned vulnerable lab",
+    "topics": [
+      "cve",
+      "cve-2026-87902",
+      "lfi",
+      "proof-of-concept",
+      "rce",
+      "security",
+      "vulnerability",
+      "wordpress"
+    ],
+    "html_url": "https://github.com/ressl/cve-2026-87902-poc",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T18:40:26Z",
+    "updated_at": "2026-09-23T00:43:18Z",
+    "pushed_at": "2026-09-22T19:36:48Z"
+  },
+  {
+    "id": 1377626696,
+    "name": "Golang-REVoid",
+    "full_name": "NIKJOO/Golang-REVoid",
+    "owner": {
+      "login": "NIKJOO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1070842?v=4"
+    },
+    "description": "Go_VM — Delphi Go Source Virtualizer & Obfuscator",
+    "topics": [
+      "golang",
+      "golang-protection",
+      "golang-virtualization",
+      "obfuscation",
+      "obfuscation-tool",
+      "obfuscator",
+      "security",
+      "security-tools",
+      "source-code-obfuscation",
+      "virtualization",
+      "virtualization-tools"
+    ],
+    "html_url": "https://github.com/NIKJOO/Golang-REVoid",
+    "stargazers_count": 6,
+    "language": "Pascal",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T21:25:02Z",
+    "updated_at": "2026-09-22T18:53:57Z",
+    "pushed_at": "2026-09-22T18:53:52Z"
+  },
+  {
+    "id": 1376780621,
+    "name": "farhand",
+    "full_name": "CogFlux/farhand",
+    "owner": {
+      "login": "CogFlux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300012683?v=4"
+    },
+    "description": "Remote hands for coding agents: an MCP server that runs OpenCode / Claude Code / Codex work on a remote host over SSH, keeps credentials and the local machine closed, and audits everything",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "mcp",
+      "mcp-server",
+      "opencode",
+      "remote-development",
+      "rust",
+      "security",
+      "ssh"
+    ],
+    "html_url": "https://github.com/CogFlux/farhand",
+    "stargazers_count": 6,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T05:46:43Z",
+    "updated_at": "2026-09-22T23:53:22Z",
+    "pushed_at": "2026-09-22T23:53:18Z"
+  },
+  {
+    "id": 1374026154,
+    "name": "honey",
+    "full_name": "tikket1/honey",
+    "owner": {
+      "login": "tikket1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196829696?v=4"
+    },
+    "description": "A typed language for eBPF security probes that compiles straight to BPF bytecode; if it typechecks, the verifier accepts it",
+    "topics": [
+      "compiler",
+      "ebpf",
+      "linux-kernel",
+      "rust",
+      "security",
+      "xdp"
+    ],
+    "html_url": "https://github.com/tikket1/honey",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T06:22:34Z",
+    "updated_at": "2026-09-22T21:42:43Z",
+    "pushed_at": "2026-09-18T17:24:54Z"
+  },
+  {
+    "id": 1378949182,
+    "name": "ntlmscout-go",
+    "full_name": "mubix/ntlmscout-go",
+    "owner": {
+      "login": "mubix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/679319?v=4"
+    },
+    "description": "Go-port of https://github.com/boydhacks/ntlmscout",
+    "topics": [
+      "cyber-security",
+      "cybersecurity",
+      "cybersecurity-tools",
+      "hacking",
+      "security"
+    ],
+    "html_url": "https://github.com/mubix/ntlmscout-go",
+    "stargazers_count": 5,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T01:41:57Z",
+    "updated_at": "2026-09-22T14:23:53Z",
+    "pushed_at": "2026-09-21T02:03:29Z"
+  },
+  {
+    "id": 1376378280,
+    "name": "eris",
+    "full_name": "farfromoffice/eris",
+    "owner": {
+      "login": "farfromoffice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324890665?v=4"
+    },
+    "description": "Barebone and secure x86_64 kernel written in C++",
+    "topics": [
+      "barebone",
+      "cpp",
+      "kernel",
+      "security",
+      "x86-64"
+    ],
+    "html_url": "https://github.com/farfromoffice/eris",
+    "stargazers_count": 5,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-09-18T19:59:02Z",
+    "updated_at": "2026-09-19T09:52:00Z",
+    "pushed_at": "2026-09-19T21:21:39Z"
+  },
+  {
+    "id": 1373399541,
+    "name": "Capgate",
+    "full_name": "jersonboydmilan/Capgate",
+    "owner": {
+      "login": "jersonboydmilan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76000029?v=4"
+    },
+    "description": "Capgate — runtime authority boundary for autonomous AI agents: the agent proposes, the harness authorizes, the executor acts. Deny-by-default policy, non-transitive delegation, tamper-evident audit, MCP gateway, containerised isolation.",
+    "topics": [
+      "access-control",
+      "agent-security",
+      "ai-agents",
+      "authorization",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "python",
+      "sandbox",
+      "security"
+    ],
+    "html_url": "https://github.com/jersonboydmilan/Capgate",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T17:15:05Z",
+    "updated_at": "2026-09-21T02:45:52Z",
+    "pushed_at": "2026-09-21T02:45:47Z"
+  },
+  {
+    "id": 1378221825,
+    "name": "chatgpt-codex-handoff",
+    "full_name": "nftstillup/chatgpt-codex-handoff",
+    "owner": {
+      "login": "nftstillup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279397581?v=4"
+    },
+    "description": "A restricted, auditable handoff bridge between ChatGPT-compatible MCP clients and Codex-oriented local workers.",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "developer-tools",
+      "least-privilege",
+      "mcp",
+      "security",
+      "typescript"
+    ],
+    "html_url": "https://github.com/nftstillup/chatgpt-codex-handoff",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T10:36:22Z",
+    "updated_at": "2026-09-21T15:36:46Z",
+    "pushed_at": "2026-09-21T15:36:42Z"
+  },
+  {
+    "id": 1376852077,
+    "name": "click2shell",
+    "full_name": "HackfutSecRoot/click2shell",
+    "owner": {
+      "login": "HackfutSecRoot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316748355?v=4"
+    },
+    "description": "Click2Shell — WordPress Pre-Auth RCE Chain (PoC)",
+    "topics": [
+      "blue-team",
+      "click2shell",
+      "cybersecurity",
+      "ethical-hacking",
+      "exploiter",
+      "exploitspec",
+      "hackfut",
+      "hacking",
+      "poc",
+      "security",
+      "wordpress",
+      "wordpress-plugin",
+      "wordpress-theme"
+    ],
+    "html_url": "https://github.com/HackfutSecRoot/click2shell",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T07:11:20Z",
+    "updated_at": "2026-09-22T07:08:36Z",
+    "pushed_at": "2026-09-19T07:30:12Z"
+  },
+  {
+    "id": 1372604882,
+    "name": "ngx-ipblock-fastlite",
+    "full_name": "CrazyXi/ngx-ipblock-fastlite",
+    "owner": {
+      "login": "CrazyXi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35906624?v=4"
+    },
+    "description": "Fast, lightweight in-memory IPv4 blocklist for Nginx with ngx_lua, using a compact /16 prefix index and binary search; blocked requests are closed with Nginx 444.",
+    "topics": [
+      "blacklist",
+      "ffi",
+      "high-performance",
+      "ip-blocklist",
+      "ipv4",
+      "lua",
+      "luajit",
+      "nginx",
+      "openresty",
+      "security"
+    ],
+    "html_url": "https://github.com/CrazyXi/ngx-ipblock-fastlite",
+    "stargazers_count": 4,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-16T06:15:55Z",
+    "updated_at": "2026-09-21T10:14:38Z",
+    "pushed_at": "2026-09-16T06:20:19Z"
+  },
+  {
+    "id": 1377351964,
+    "name": "NETEEN-esp32",
+    "full_name": "deauthme/NETEEN-esp32",
+    "owner": {
+      "login": "deauthme",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246856425?v=4"
+    },
+    "description": "ESP32 fake AP + captive portal for WiFi security testing. Offline, joystick-controlled, logs to LittleFS, admin panel.",
+    "topics": [
+      "arduino",
+      "captive-portal",
+      "esp32",
+      "esp32-arduino",
+      "fake-ap",
+      "joystick",
+      "littlefs",
+      "pentesting",
+      "security",
+      "ssd1306",
+      "wifi"
+    ],
+    "html_url": "https://github.com/deauthme/NETEEN-esp32",
+    "stargazers_count": 3,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T16:03:12Z",
+    "updated_at": "2026-09-21T18:23:12Z",
+    "pushed_at": "2026-09-19T16:45:18Z"
+  },
+  {
+    "id": 1373410505,
+    "name": "agent-assurance",
+    "full_name": "kunko-ai-labs/agent-assurance",
+    "owner": {
+      "login": "kunko-ai-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330415274?v=4"
+    },
+    "description": "Declare what your AI agent may do. Verify it on every edit, PR and release — MCP configs, Claude Code permissions, tool definitions. Deterministic, OWASP-mapped, signed evidence.",
+    "topics": [
+      "ai-agents",
+      "ai-governance",
+      "claude-code",
+      "cursor",
+      "github-action",
+      "mcp",
+      "owasp",
+      "sarif",
+      "security",
+      "supply-chain-security"
+    ],
+    "html_url": "https://github.com/kunko-ai-labs/agent-assurance",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 8,
+    "created_at": "2026-09-16T17:23:20Z",
+    "updated_at": "2026-09-21T15:25:29Z",
+    "pushed_at": "2026-09-21T14:30:09Z"
+  }
+]

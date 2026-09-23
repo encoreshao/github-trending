@@ -1,0 +1,426 @@
+[
+  {
+    "id": 1373655162,
+    "name": "jev-ultrafast",
+    "full_name": "browser-use/jev-ultrafast",
+    "owner": {
+      "login": "browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "description": "Fastest and cheapest web agent",
+    "topics": [],
+    "html_url": "https://github.com/browser-use/jev-ultrafast",
+    "stargazers_count": 18142,
+    "language": "Python",
+    "forks_count": 1170,
+    "open_issues_count": 117,
+    "created_at": "2026-09-16T21:30:12Z",
+    "updated_at": "2026-09-23T01:59:33Z",
+    "pushed_at": "2026-09-18T16:28:35Z"
+  },
+  {
+    "id": 1375382253,
+    "name": "laya",
+    "full_name": "NandhaKishorM/laya",
+    "owner": {
+      "login": "NandhaKishorM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48623612?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/NandhaKishorM/laya",
+    "stargazers_count": 16821,
+    "language": "Python",
+    "forks_count": 1409,
+    "open_issues_count": 122,
+    "created_at": "2026-09-18T04:46:33Z",
+    "updated_at": "2026-09-23T01:59:59Z",
+    "pushed_at": "2026-09-22T20:41:43Z"
+  },
+  {
+    "id": 1374005005,
+    "name": "fast-jev-compaction",
+    "full_name": "tamaratran/fast-jev-compaction",
+    "owner": {
+      "login": "tamaratran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
+    },
+    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+    "topics": [],
+    "html_url": "https://github.com/tamaratran/fast-jev-compaction",
+    "stargazers_count": 6322,
+    "language": "TypeScript",
+    "forks_count": 359,
+    "open_issues_count": 72,
+    "created_at": "2026-09-17T05:57:20Z",
+    "updated_at": "2026-09-23T01:56:35Z",
+    "pushed_at": "2026-09-18T04:45:31Z"
+  },
+  {
+    "id": 1378288598,
+    "name": "ZCode",
+    "full_name": "zai-org/ZCode",
+    "owner": {
+      "login": "zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "topics": [],
+    "html_url": "https://github.com/zai-org/ZCode",
+    "stargazers_count": 6321,
+    "language": "TypeScript",
+    "forks_count": 1847,
+    "open_issues_count": 11,
+    "created_at": "2026-09-20T12:01:16Z",
+    "updated_at": "2026-09-23T01:59:35Z",
+    "pushed_at": "2026-09-21T00:02:36Z"
+  },
+  {
+    "id": 1377211520,
+    "name": "laya-mlx",
+    "full_name": "mizorewww/laya-mlx",
+    "owner": {
+      "login": "mizorewww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
+    },
+    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "topics": [
+      "apple-silicon",
+      "decision-model",
+      "inference",
+      "laya",
+      "local-ai",
+      "machine-learning",
+      "mlx",
+      "modernbert",
+      "system-one",
+      "typed-decisions"
+    ],
+    "html_url": "https://github.com/mizorewww/laya-mlx",
+    "stargazers_count": 5490,
+    "language": "Python",
+    "forks_count": 394,
+    "open_issues_count": 8,
+    "created_at": "2026-09-19T13:50:26Z",
+    "updated_at": "2026-09-23T01:58:25Z",
+    "pushed_at": "2026-09-22T05:34:51Z"
+  },
+  {
+    "id": 1373614120,
+    "name": "Compositor",
+    "full_name": "robbietilton/Compositor",
+    "owner": {
+      "login": "robbietilton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
+    },
+    "description": "The Photoshop alternative for Mac",
+    "topics": [],
+    "html_url": "https://github.com/robbietilton/Compositor",
+    "stargazers_count": 4908,
+    "language": "Swift",
+    "forks_count": 517,
+    "open_issues_count": 31,
+    "created_at": "2026-09-16T20:35:54Z",
+    "updated_at": "2026-09-23T01:59:14Z",
+    "pushed_at": "2026-09-22T21:58:55Z"
+  },
+  {
+    "id": 1375069862,
+    "name": "kev",
+    "full_name": "jaredpalmer/kev",
+    "owner": {
+      "login": "jaredpalmer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4060187?v=4"
+    },
+    "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+    "topics": [
+      "decision-model",
+      "jev",
+      "qwen3"
+    ],
+    "html_url": "https://github.com/jaredpalmer/kev",
+    "stargazers_count": 4353,
+    "language": "Python",
+    "forks_count": 233,
+    "open_issues_count": 15,
+    "created_at": "2026-09-17T20:49:39Z",
+    "updated_at": "2026-09-23T01:59:58Z",
+    "pushed_at": "2026-09-23T01:55:24Z"
+  },
+  {
+    "id": 1379574728,
+    "name": "jev-chat-jarvis",
+    "full_name": "jev-chat/jev-chat-jarvis",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "topics": [
+      "accessibility-service",
+      "android",
+      "chat-assistant",
+      "llm",
+      "qq",
+      "wechat"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "stargazers_count": 3934,
+    "language": "Kotlin",
+    "forks_count": 864,
+    "open_issues_count": 29,
+    "created_at": "2026-09-21T11:12:53Z",
+    "updated_at": "2026-09-23T01:59:10Z",
+    "pushed_at": "2026-09-22T11:03:45Z"
+  },
+  {
+    "id": 1372482979,
+    "name": "SemIf",
+    "full_name": "TheoLeeCJ/SemIf",
+    "owner": {
+      "login": "TheoLeeCJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
+    },
+    "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+    "topics": [],
+    "html_url": "https://github.com/TheoLeeCJ/SemIf",
+    "stargazers_count": 3859,
+    "language": "Python",
+    "forks_count": 250,
+    "open_issues_count": 21,
+    "created_at": "2026-09-16T03:51:21Z",
+    "updated_at": "2026-09-23T01:46:59Z",
+    "pushed_at": "2026-09-21T20:07:30Z"
+  },
+  {
+    "id": 1373687654,
+    "name": "AirCard",
+    "full_name": "Mak5er/AirCard",
+    "owner": {
+      "login": "Mak5er",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98599732?v=4"
+    },
+    "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+    "topics": [],
+    "html_url": "https://github.com/Mak5er/AirCard",
+    "stargazers_count": 2826,
+    "language": "Swift",
+    "forks_count": 120,
+    "open_issues_count": 16,
+    "created_at": "2026-09-16T22:20:15Z",
+    "updated_at": "2026-09-23T01:59:59Z",
+    "pushed_at": "2026-09-22T21:44:37Z"
+  },
+  {
+    "id": 1373659194,
+    "name": "jev-trader",
+    "full_name": "jarrodwatts/jev-trader",
+    "owner": {
+      "login": "jarrodwatts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+    },
+    "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+    "topics": [],
+    "html_url": "https://github.com/jarrodwatts/jev-trader",
+    "stargazers_count": 2076,
+    "language": "TypeScript",
+    "forks_count": 398,
+    "open_issues_count": 4,
+    "created_at": "2026-09-16T21:36:20Z",
+    "updated_at": "2026-09-23T01:56:50Z",
+    "pushed_at": "2026-09-17T02:48:22Z"
+  },
+  {
+    "id": 1374702542,
+    "name": "NanoJev",
+    "full_name": "TianyuCodings/NanoJev",
+    "owner": {
+      "login": "TianyuCodings",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48460209?v=4"
+    },
+    "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+    "topics": [],
+    "html_url": "https://github.com/TianyuCodings/NanoJev",
+    "stargazers_count": 2009,
+    "language": "Python",
+    "forks_count": 210,
+    "open_issues_count": 7,
+    "created_at": "2026-09-17T16:08:30Z",
+    "updated_at": "2026-09-23T01:59:01Z",
+    "pushed_at": "2026-09-21T09:58:28Z"
+  },
+  {
+    "id": 1375631360,
+    "name": "nimble",
+    "full_name": "bespokelabsai/nimble",
+    "owner": {
+      "login": "bespokelabsai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167806754?v=4"
+    },
+    "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+    "topics": [],
+    "html_url": "https://github.com/bespokelabsai/nimble",
+    "stargazers_count": 1632,
+    "language": "Python",
+    "forks_count": 116,
+    "open_issues_count": 3,
+    "created_at": "2026-09-18T09:07:48Z",
+    "updated_at": "2026-09-23T01:28:10Z",
+    "pushed_at": "2026-09-22T23:39:54Z"
+  },
+  {
+    "id": 1374561793,
+    "name": "awesome-jev",
+    "full_name": "yibie/awesome-jev",
+    "owner": {
+      "login": "yibie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/365484?v=4"
+    },
+    "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "jev",
+      "llm"
+    ],
+    "html_url": "https://github.com/yibie/awesome-jev",
+    "stargazers_count": 1321,
+    "language": "Python",
+    "forks_count": 183,
+    "open_issues_count": 17,
+    "created_at": "2026-09-17T14:23:21Z",
+    "updated_at": "2026-09-23T01:59:55Z",
+    "pushed_at": "2026-09-23T01:59:51Z"
+  },
+  {
+    "id": 1377694077,
+    "name": "laya-coreml",
+    "full_name": "mizorewww/laya-coreml",
+    "owner": {
+      "login": "mizorewww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
+    },
+    "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+    "topics": [
+      "apple-neural-engine",
+      "apple-silicon",
+      "coreml",
+      "decision-model",
+      "laya",
+      "local-ai",
+      "modernbert",
+      "on-device-ai",
+      "typed-decisions"
+    ],
+    "html_url": "https://github.com/mizorewww/laya-coreml",
+    "stargazers_count": 1295,
+    "language": "Python",
+    "forks_count": 98,
+    "open_issues_count": 3,
+    "created_at": "2026-09-19T23:14:13Z",
+    "updated_at": "2026-09-23T01:57:47Z",
+    "pushed_at": "2026-09-22T06:33:09Z"
+  },
+  {
+    "id": 1372867305,
+    "name": "jevlike",
+    "full_name": "vinnylarouge/jevlike",
+    "owner": {
+      "login": "vinnylarouge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5328067?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/vinnylarouge/jevlike",
+    "stargazers_count": 1236,
+    "language": "Python",
+    "forks_count": 109,
+    "open_issues_count": 6,
+    "created_at": "2026-09-16T10:26:01Z",
+    "updated_at": "2026-09-23T00:23:01Z",
+    "pushed_at": "2026-09-16T18:12:53Z"
+  },
+  {
+    "id": 1380635125,
+    "name": "unreal-agent",
+    "full_name": "unreallabsai/unreal-agent",
+    "owner": {
+      "login": "unreallabsai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181495282?v=4"
+    },
+    "description": "Async-first agent harness",
+    "topics": [],
+    "html_url": "https://github.com/unreallabsai/unreal-agent",
+    "stargazers_count": 1001,
+    "language": "Go",
+    "forks_count": 45,
+    "open_issues_count": 2,
+    "created_at": "2026-09-21T23:14:02Z",
+    "updated_at": "2026-09-23T01:56:50Z",
+    "pushed_at": "2026-09-22T17:00:39Z"
+  },
+  {
+    "id": 1377172300,
+    "name": "apk-reverse",
+    "full_name": "newliver666/apk-reverse",
+    "owner": {
+      "login": "newliver666",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328839634?v=4"
+    },
+    "description": "Suitable for Android APK reverse engineering analysis",
+    "topics": [],
+    "html_url": "https://github.com/newliver666/apk-reverse",
+    "stargazers_count": 992,
+    "language": "Python",
+    "forks_count": 319,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T13:12:54Z",
+    "updated_at": "2026-09-23T01:46:36Z",
+    "pushed_at": "2026-09-22T12:57:12Z"
+  },
+  {
+    "id": 1373976608,
+    "name": "open-glean",
+    "full_name": "hydra-db/open-glean",
+    "owner": {
+      "login": "hydra-db",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244433600?v=4"
+    },
+    "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+    "topics": [],
+    "html_url": "https://github.com/hydra-db/open-glean",
+    "stargazers_count": 842,
+    "language": "TypeScript",
+    "forks_count": 370,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T05:22:08Z",
+    "updated_at": "2026-09-22T21:20:43Z",
+    "pushed_at": "2026-09-17T05:46:34Z"
+  },
+  {
+    "id": 1373440611,
+    "name": "typesafe-computer-use",
+    "full_name": "awlevin/typesafe-computer-use",
+    "owner": {
+      "login": "awlevin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8488209?v=4"
+    },
+    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "computer-use",
+      "macos",
+      "ocr",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/awlevin/typesafe-computer-use",
+    "stargazers_count": 838,
+    "language": "Python",
+    "forks_count": 65,
+    "open_issues_count": 7,
+    "created_at": "2026-09-16T17:48:45Z",
+    "updated_at": "2026-09-23T01:41:26Z",
+    "pushed_at": "2026-09-22T22:45:00Z"
+  }
+]
