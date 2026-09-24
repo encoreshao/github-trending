@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1375382253,
+    "name": "laya",
+    "full_name": "NandhaKishorM/laya",
+    "owner": {
+      "login": "NandhaKishorM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48623612?v=4"
+    },
+    "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+    "topics": [
+      "calibration",
+      "classification",
+      "decision-model",
+      "huggingface",
+      "jev",
+      "modernbert",
+      "multilingual",
+      "nlp",
+      "python",
+      "pytorch",
+      "routing",
+      "typed-decisions",
+      "zero-shot"
+    ],
+    "html_url": "https://github.com/NandhaKishorM/laya",
+    "stargazers_count": 20624,
+    "language": "Python",
+    "forks_count": 1759,
+    "open_issues_count": 88,
+    "created_at": "2026-09-18T04:46:33Z",
+    "updated_at": "2026-09-24T01:59:51Z",
+    "pushed_at": "2026-09-23T18:05:00Z"
+  },
+  {
+    "id": 1375397100,
+    "name": "von",
+    "full_name": "wfzyx/von",
+    "owner": {
+      "login": "wfzyx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5880370?v=4"
+    },
+    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
+    "topics": [
+      "decision-model",
+      "jev",
+      "machine-learning",
+      "python",
+      "rlcd",
+      "system-one",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/wfzyx/von",
+    "stargazers_count": 588,
+    "language": "Python",
+    "forks_count": 46,
+    "open_issues_count": 2,
+    "created_at": "2026-09-18T05:03:47Z",
+    "updated_at": "2026-09-24T01:52:57Z",
+    "pushed_at": "2026-09-24T01:53:15Z"
+  },
+  {
+    "id": 1379929433,
+    "name": "jev-chat-windows",
+    "full_name": "jev-chat/jev-chat-windows",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "微信（Windows 4.x）旁挂的回复辅助：窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+    "topics": [
+      "chat-assistant",
+      "jev",
+      "llm",
+      "local-first",
+      "ocr",
+      "privacy",
+      "pyqt",
+      "python",
+      "wechat",
+      "windows"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-windows",
+    "stargazers_count": 445,
+    "language": "Python",
+    "forks_count": 98,
+    "open_issues_count": 10,
+    "created_at": "2026-09-21T14:37:14Z",
+    "updated_at": "2026-09-24T01:49:07Z",
+    "pushed_at": "2026-09-23T21:44:13Z"
+  },
+  {
+    "id": 1379617146,
+    "name": "jev-chat-jarvis-mac",
+    "full_name": "jev-chat/jev-chat-jarvis-mac",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "微信消息意图识别悬浮窗（macOS）：看屏 + 本地小模型判断意图和风险，再按话术生成回复候选。纯只读、不注入微信。",
+    "topics": [
+      "llm",
+      "local-first",
+      "macos",
+      "ocr",
+      "privacy",
+      "pyobjc",
+      "python",
+      "wechat"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+    "stargazers_count": 310,
+    "language": "Python",
+    "forks_count": 99,
+    "open_issues_count": 14,
+    "created_at": "2026-09-21T11:39:32Z",
+    "updated_at": "2026-09-24T01:52:00Z",
+    "pushed_at": "2026-09-23T21:01:26Z"
+  },
+  {
+    "id": 1374027945,
+    "name": "github-ranking-audit",
+    "full_name": "nMaas8388/github-ranking-audit",
+    "owner": {
+      "login": "nMaas8388",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309150510?v=4"
+    },
+    "description": "Audit your GitHub repository search ranking signals. Checks name, description, topics, README, stars, forks, and activity.",
+    "topics": [
+      "developer-tools",
+      "github-api",
+      "github-growth",
+      "github-ranking",
+      "github-search",
+      "github-seo",
+      "github-stars",
+      "github-topics",
+      "open-source",
+      "python",
+      "readme-optimization",
+      "repository-analytics",
+      "repository-optimization",
+      "seo-audit"
+    ],
+    "html_url": "https://github.com/nMaas8388/github-ranking-audit",
+    "stargazers_count": 212,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T06:24:34Z",
+    "updated_at": "2026-09-22T10:58:59Z",
+    "pushed_at": "2026-09-17T06:44:03Z"
+  },
+  {
+    "id": 1374730640,
+    "name": "github-launch-checklist",
+    "full_name": "repoboost-hq/github-launch-checklist",
+    "owner": {
+      "login": "repoboost-hq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330359374?v=4"
+    },
+    "description": "Audit a GitHub repository before launch - ten readiness checks scored 0-10: name, description, topics, README, license, demo, installation, contributing guide and issue templates. Free and open source.",
+    "topics": [
+      "developer-tools",
+      "github",
+      "github-api",
+      "launch-checklist",
+      "launch-readiness",
+      "open-source",
+      "pre-launch-checklist",
+      "python",
+      "repository-management",
+      "seo"
+    ],
+    "html_url": "https://github.com/repoboost-hq/github-launch-checklist",
+    "stargazers_count": 195,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-09-17T16:30:57Z",
+    "updated_at": "2026-09-23T17:43:12Z",
+    "pushed_at": "2026-09-17T19:05:06Z"
+  },
+  {
+    "id": 1376771236,
+    "name": "yowes",
+    "full_name": "hirotomasato/yowes",
+    "owner": {
+      "login": "hirotomasato",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198351389?v=4"
+    },
+    "description": "Generate realistic teacher documents (ID cards, licenses, letters) for 13 countries via MCP.",
+    "topics": [
+      "agent",
+      "document-generator",
+      "mcp",
+      "model-context-protocol",
+      "pillow",
+      "python"
+    ],
+    "html_url": "https://github.com/hirotomasato/yowes",
+    "stargazers_count": 170,
+    "language": "Python",
+    "forks_count": 68,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T05:33:10Z",
+    "updated_at": "2026-09-24T00:26:11Z",
+    "pushed_at": "2026-09-19T05:47:51Z"
+  },
+  {
+    "id": 1374627765,
+    "name": "fastbrowse",
+    "full_name": "agent-labs-dev/fastbrowse",
+    "owner": {
+      "login": "agent-labs-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270777357?v=4"
+    },
+    "description": "A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page.",
+    "topics": [
+      "agents",
+      "browser-agent",
+      "llm",
+      "python",
+      "web-automation"
+    ],
+    "html_url": "https://github.com/agent-labs-dev/fastbrowse",
+    "stargazers_count": 100,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 17,
+    "created_at": "2026-09-17T15:11:57Z",
+    "updated_at": "2026-09-24T00:56:52Z",
+    "pushed_at": "2026-09-22T23:35:01Z"
+  },
+  {
+    "id": 1377426282,
+    "name": "grok-bot-jev",
+    "full_name": "Bodila51/grok-bot-jev",
+    "owner": {
+      "login": "Bodila51",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191466064?v=4"
+    },
+    "description": "Connect TypeSafe Jev to Grok Bot as a cheap decision layer - usage gates, skill template, examples",
+    "topics": [
+      "cursor",
+      "decision-layer",
+      "grok-bot",
+      "jev",
+      "python",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/Bodila51/grok-bot-jev",
+    "stargazers_count": 77,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 2,
+    "created_at": "2026-09-19T17:15:48Z",
+    "updated_at": "2026-09-23T02:58:27Z",
+    "pushed_at": "2026-09-20T00:13:31Z"
+  },
+  {
+    "id": 1375448950,
+    "name": "traceclause",
+    "full_name": "LingxiangXu/traceclause",
+    "owner": {
+      "login": "LingxiangXu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53456266?v=4"
+    },
+    "description": "Local-first document requirements and evidence review workbench with traceable citations and human review.",
+    "topics": [
+      "bm25",
+      "document-analysis",
+      "evidence",
+      "fastapi",
+      "local-first",
+      "open-source",
+      "python",
+      "requirements"
+    ],
+    "html_url": "https://github.com/LingxiangXu/traceclause",
+    "stargazers_count": 72,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T06:05:56Z",
+    "updated_at": "2026-09-23T07:50:12Z",
+    "pushed_at": "2026-09-23T07:51:34Z"
+  },
+  {
+    "id": 1376355154,
+    "name": "gliner2-ultrafast",
+    "full_name": "sahibzada-allahyar/gliner2-ultrafast",
+    "owner": {
+      "login": "sahibzada-allahyar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94376830?v=4"
+    },
+    "description": "Real browser automation with local GLiNER2 inference and open weights. Work in progress. Contributions welcome.",
+    "topics": [
+      "browser-automation",
+      "gliner2",
+      "local-inference",
+      "open-weights",
+      "python"
+    ],
+    "html_url": "https://github.com/sahibzada-allahyar/gliner2-ultrafast",
+    "stargazers_count": 69,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T19:35:23Z",
+    "updated_at": "2026-09-23T18:59:15Z",
+    "pushed_at": "2026-09-18T19:35:28Z"
+  },
+  {
+    "id": 1377625921,
+    "name": "edge-scanner",
+    "full_name": "simonro/edge-scanner",
+    "owner": {
+      "login": "simonro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13911026?v=4"
+    },
+    "description": "Real-time intraday stock scanner for US equities with a browser dashboard you lay out yourself",
+    "topics": [
+      "alpaca",
+      "day-trading",
+      "fastapi",
+      "finance",
+      "market-data",
+      "python",
+      "react",
+      "realtime",
+      "schwab",
+      "stock-scanner",
+      "stocks",
+      "technical-analysis",
+      "trading",
+      "trading-tools",
+      "typescript",
+      "websocket"
+    ],
+    "html_url": "https://github.com/simonro/edge-scanner",
+    "stargazers_count": 65,
+    "language": "Python",
+    "forks_count": 21,
+    "open_issues_count": 15,
+    "created_at": "2026-09-19T21:23:46Z",
+    "updated_at": "2026-09-23T11:36:04Z",
+    "pushed_at": "2026-09-23T11:18:27Z"
+  },
+  {
+    "id": 1374300570,
+    "name": "HA-Jev",
+    "full_name": "AboveColin/HA-Jev",
+    "owner": {
+      "login": "AboveColin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6614011?v=4"
+    },
+    "description": "Ask your house a question, get a number back. Home Assistant integration for TypeSafe Jev: typed answers as sensors, four actions for automations, and a conversation agent for Assist.",
+    "topics": [
+      "ai",
+      "assist",
+      "conversation",
+      "custom-components",
+      "decision-model",
+      "hacs",
+      "home-assistant",
+      "home-automation",
+      "homeassistant",
+      "jev",
+      "llm",
+      "python",
+      "smart-home",
+      "typesafe",
+      "voice-assistant",
+      "voice-control"
+    ],
+    "html_url": "https://github.com/AboveColin/HA-Jev",
+    "stargazers_count": 57,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 7,
+    "created_at": "2026-09-17T11:01:48Z",
+    "updated_at": "2026-09-23T21:04:57Z",
+    "pushed_at": "2026-09-23T20:23:10Z"
+  },
+  {
+    "id": 1376351887,
+    "name": "vnpresence",
+    "full_name": "BasedYuki/vnpresence",
+    "owner": {
+      "login": "BasedYuki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298166374?v=4"
+    },
+    "description": "Show the visual novel you're reading on Discord - cover art, title, and elapsed time, automatically.",
+    "topics": [
+      "discord",
+      "discord-rpc",
+      "python",
+      "rich-presence",
+      "visual-novel",
+      "vndb",
+      "windows"
+    ],
+    "html_url": "https://github.com/BasedYuki/vnpresence",
+    "stargazers_count": 42,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T19:32:21Z",
+    "updated_at": "2026-09-23T01:08:18Z",
+    "pushed_at": "2026-09-20T17:39:00Z"
+  },
+  {
+    "id": 1375639587,
+    "name": "NobodyTdxTQ",
+    "full_name": "NobodySniper/NobodyTdxTQ",
+    "owner": {
+      "login": "NobodySniper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180972901?v=4"
+    },
+    "description": "自然语言生成量化策略并回测，基于 [backtrader]的 A 股量化回测系统，数据源为通达信 TQ API。 内置 Web 前端，填写参数 → 一键回测 → 交互式报告，适合量化入门和小白分享",
+    "topics": [
+      "a-stock",
+      "finance",
+      "python",
+      "quant",
+      "tdx",
+      "tq"
+    ],
+    "html_url": "https://github.com/NobodySniper/NobodyTdxTQ",
+    "stargazers_count": 39,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-18T09:15:41Z",
+    "updated_at": "2026-09-23T17:32:40Z",
+    "pushed_at": "2026-09-19T12:16:43Z"
+  },
+  {
+    "id": 1374412145,
+    "name": "pojia-next",
+    "full_name": "z91772524-ai/pojia-next",
+    "owner": {
+      "login": "z91772524-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242431379?v=4"
+    },
+    "description": "一个脚本搞定 DSH / WorkBuddy / ZCode / Codex / Cursor / Claude 六客户端的提示词与人格替换：零依赖、双击即用、可自证、改前备份、一键还原。附 bandit/semgrep 扫描与 SHA256 校验。",
+    "topics": [
+      "ai-agent",
+      "automation",
+      "bandit",
+      "claude-code",
+      "codex",
+      "cursor",
+      "deepseek-harness",
+      "dsh",
+      "glm",
+      "no-dependencies",
+      "one-click",
+      "persona",
+      "prompt-injection",
+      "python",
+      "security-audit",
+      "self-check",
+      "unlock",
+      "windows",
+      "workbuddy",
+      "zcode"
+    ],
+    "html_url": "https://github.com/z91772524-ai/pojia-next",
+    "stargazers_count": 37,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-09-17T12:36:10Z",
+    "updated_at": "2026-09-24T00:33:05Z",
+    "pushed_at": "2026-09-19T05:17:06Z"
+  },
+  {
+    "id": 1376934917,
+    "name": "ai-girlfriend-v2",
+    "full_name": "Work-Fisher/ai-girlfriend-v2",
+    "owner": {
+      "login": "Work-Fisher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203682585?v=4"
+    },
+    "description": "Windows AI companion with DSH long-term memory, local voice cloning and optional WSL2 digital human.",
+    "topics": [
+      "ai-companion",
+      "ai-girlfriend",
+      "digital-human",
+      "dsh",
+      "long-term-memory",
+      "python",
+      "speech-to-speech",
+      "voice-cloning",
+      "windows",
+      "wsl2"
+    ],
+    "html_url": "https://github.com/Work-Fisher/ai-girlfriend-v2",
+    "stargazers_count": 36,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T08:43:16Z",
+    "updated_at": "2026-09-22T07:20:51Z",
+    "pushed_at": "2026-09-19T12:24:11Z"
+  },
+  {
+    "id": 1377994507,
+    "name": "LMMOCK",
+    "full_name": "lewismosciski/LMMOCK",
+    "owner": {
+      "login": "lewismosciski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233926000?v=4"
+    },
+    "description": "A lightweight local mock LLM provider — deterministic OpenAI and Anthropic responses, with no API calls, no tokens, and no code changes.",
+    "topics": [
+      "agent-testing",
+      "ai-testing",
+      "anthropic",
+      "fastapi",
+      "llm",
+      "mock-server",
+      "openai",
+      "python"
+    ],
+    "html_url": "https://github.com/lewismosciski/LMMOCK",
+    "stargazers_count": 33,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T06:09:40Z",
+    "updated_at": "2026-09-24T01:16:02Z",
+    "pushed_at": "2026-09-22T07:14:33Z"
+  },
+  {
+    "id": 1378863809,
+    "name": "claude-vs-codex",
+    "full_name": "kirillshsh/claude-vs-codex",
+    "owner": {
+      "login": "kirillshsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227613149?v=4"
+    },
+    "description": "A 93-second pixel-art cartoon about Clawd and Codex, written entirely in code by Claude — one-shot, 1 user turn.",
+    "topics": [
+      "claude-code",
+      "generative-art",
+      "pixel-art",
+      "python"
+    ],
+    "html_url": "https://github.com/kirillshsh/claude-vs-codex",
+    "stargazers_count": 33,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T23:30:37Z",
+    "updated_at": "2026-09-23T11:03:42Z",
+    "pushed_at": "2026-09-20T23:30:42Z"
+  },
+  {
+    "id": 1373850468,
+    "name": "tamanitomo",
+    "full_name": "tamanitomo/tamanitomo",
+    "owner": {
+      "login": "tamanitomo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268592488?v=4"
+    },
+    "description": "A sovereign, self-hosted AI companion with persistent memory, daily routines, photos, and voice notes. Enforces real boundaries in code, runs 24/7 on your own hardware (Linux, Android Termux, Windows), and keeps your data 100% private.",
+    "topics": [
+      "ai-companion",
+      "autonomous-agent",
+      "comfyui",
+      "companion-ai",
+      "hermes-agent",
+      "local-ai",
+      "ollama",
+      "personal-ai",
+      "personal-assistant",
+      "privacy",
+      "python",
+      "self-hosted",
+      "sovereign-ai",
+      "telegram-bot",
+      "termux",
+      "voice-assistant"
+    ],
+    "html_url": "https://github.com/tamanitomo/tamanitomo",
+    "stargazers_count": 31,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-09-17T02:44:30Z",
+    "updated_at": "2026-09-23T23:41:18Z",
+    "pushed_at": "2026-09-23T23:41:16Z"
+  }
+]
