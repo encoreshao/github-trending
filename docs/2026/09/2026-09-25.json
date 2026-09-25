@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1375382253,
+    "name": "laya",
+    "full_name": "NandhaKishorM/laya",
+    "owner": {
+      "login": "NandhaKishorM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48623612?v=4"
+    },
+    "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+    "topics": [
+      "calibration",
+      "classification",
+      "decision-model",
+      "huggingface",
+      "jev",
+      "modernbert",
+      "multilingual",
+      "nlp",
+      "python",
+      "pytorch",
+      "routing",
+      "typed-decisions",
+      "zero-shot"
+    ],
+    "html_url": "https://github.com/NandhaKishorM/laya",
+    "stargazers_count": 23115,
+    "language": "Python",
+    "forks_count": 1990,
+    "open_issues_count": 138,
+    "created_at": "2026-09-18T04:46:33Z",
+    "updated_at": "2026-09-25T01:59:57Z",
+    "pushed_at": "2026-09-24T17:22:53Z"
+  },
+  {
+    "id": 1378288598,
+    "name": "ZCode",
+    "full_name": "zai-org/ZCode",
+    "owner": {
+      "login": "zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "topics": [],
+    "html_url": "https://github.com/zai-org/ZCode",
+    "stargazers_count": 6717,
+    "language": "TypeScript",
+    "forks_count": 2005,
+    "open_issues_count": 11,
+    "created_at": "2026-09-20T12:01:16Z",
+    "updated_at": "2026-09-25T01:54:03Z",
+    "pushed_at": "2026-09-24T06:49:55Z"
+  },
+  {
+    "id": 1377211520,
+    "name": "laya-mlx",
+    "full_name": "mizorewww/laya-mlx",
+    "owner": {
+      "login": "mizorewww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
+    },
+    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "topics": [
+      "apple-silicon",
+      "decision-model",
+      "inference",
+      "laya",
+      "local-ai",
+      "machine-learning",
+      "mlx",
+      "modernbert",
+      "system-one",
+      "typed-decisions"
+    ],
+    "html_url": "https://github.com/mizorewww/laya-mlx",
+    "stargazers_count": 6226,
+    "language": "Python",
+    "forks_count": 478,
+    "open_issues_count": 17,
+    "created_at": "2026-09-19T13:50:26Z",
+    "updated_at": "2026-09-25T01:34:34Z",
+    "pushed_at": "2026-09-22T05:34:51Z"
+  },
+  {
+    "id": 1379574728,
+    "name": "jev-chat-jarvis",
+    "full_name": "jev-chat/jev-chat-jarvis",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "topics": [
+      "accessibility-service",
+      "android",
+      "chat-assistant",
+      "llm",
+      "qq"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "stargazers_count": 6112,
+    "language": "Kotlin",
+    "forks_count": 1099,
+    "open_issues_count": 22,
+    "created_at": "2026-09-21T11:12:53Z",
+    "updated_at": "2026-09-25T01:57:44Z",
+    "pushed_at": "2026-09-25T01:49:10Z"
+  },
+  {
+    "id": 1380635125,
+    "name": "unreal-agent",
+    "full_name": "unreallabsai/unreal-agent",
+    "owner": {
+      "login": "unreallabsai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181495282?v=4"
+    },
+    "description": "Async-first agent harness",
+    "topics": [],
+    "html_url": "https://github.com/unreallabsai/unreal-agent",
+    "stargazers_count": 1880,
+    "language": "Go",
+    "forks_count": 97,
+    "open_issues_count": 8,
+    "created_at": "2026-09-21T23:14:02Z",
+    "updated_at": "2026-09-25T01:35:13Z",
+    "pushed_at": "2026-09-23T19:08:26Z"
+  },
+  {
+    "id": 1375631360,
+    "name": "nimble",
+    "full_name": "bespokelabsai/nimble",
+    "owner": {
+      "login": "bespokelabsai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167806754?v=4"
+    },
+    "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+    "topics": [],
+    "html_url": "https://github.com/bespokelabsai/nimble",
+    "stargazers_count": 1736,
+    "language": "Python",
+    "forks_count": 132,
+    "open_issues_count": 5,
+    "created_at": "2026-09-18T09:07:48Z",
+    "updated_at": "2026-09-25T00:53:16Z",
+    "pushed_at": "2026-09-24T06:05:31Z"
+  },
+  {
+    "id": 1377694077,
+    "name": "laya-coreml",
+    "full_name": "mizorewww/laya-coreml",
+    "owner": {
+      "login": "mizorewww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
+    },
+    "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+    "topics": [
+      "apple-neural-engine",
+      "apple-silicon",
+      "coreml",
+      "decision-model",
+      "laya",
+      "local-ai",
+      "modernbert",
+      "on-device-ai",
+      "typed-decisions"
+    ],
+    "html_url": "https://github.com/mizorewww/laya-coreml",
+    "stargazers_count": 1440,
+    "language": "Python",
+    "forks_count": 121,
+    "open_issues_count": 3,
+    "created_at": "2026-09-19T23:14:13Z",
+    "updated_at": "2026-09-25T01:37:35Z",
+    "pushed_at": "2026-09-22T06:33:09Z"
+  },
+  {
+    "id": 1377172300,
+    "name": "apk-reverse",
+    "full_name": "newliver666/apk-reverse",
+    "owner": {
+      "login": "newliver666",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328839634?v=4"
+    },
+    "description": "Suitable for Android APK reverse engineering analysis",
+    "topics": [],
+    "html_url": "https://github.com/newliver666/apk-reverse",
+    "stargazers_count": 1418,
+    "language": "Python",
+    "forks_count": 374,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T13:12:54Z",
+    "updated_at": "2026-09-25T01:34:18Z",
+    "pushed_at": "2026-09-24T09:22:21Z"
+  },
+  {
+    "id": 1378216647,
+    "name": "Search",
+    "full_name": "driceroland/Search",
+    "owner": {
+      "login": "driceroland",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74648512?v=4"
+    },
+    "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+    "topics": [],
+    "html_url": "https://github.com/driceroland/Search",
+    "stargazers_count": 1257,
+    "language": "Swift",
+    "forks_count": 128,
+    "open_issues_count": 119,
+    "created_at": "2026-09-20T10:29:47Z",
+    "updated_at": "2026-09-25T01:59:16Z",
+    "pushed_at": "2026-09-24T16:11:57Z"
+  },
+  {
+    "id": 1378971656,
+    "name": "deepopen",
+    "full_name": "deepopen-com/deepopen",
+    "owner": {
+      "login": "deepopen-com",
+      "avatar_url": "https://avatars.githubusercontent.com/u/331844194?v=4"
+    },
+    "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+    "topics": [],
+    "html_url": "https://github.com/deepopen-com/deepopen",
+    "stargazers_count": 1006,
+    "language": "Python",
+    "forks_count": 110,
+    "open_issues_count": 6,
+    "created_at": "2026-09-21T02:12:24Z",
+    "updated_at": "2026-09-24T23:27:14Z",
+    "pushed_at": "2026-09-23T02:09:58Z"
+  },
+  {
+    "id": 1383518430,
+    "name": "golive-skill",
+    "full_name": "mikehasa/golive-skill",
+    "owner": {
+      "login": "mikehasa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91774998?v=4"
+    },
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "cloudflare",
+      "codex",
+      "database",
+      "deployment",
+      "developer-tools",
+      "devops",
+      "dns",
+      "godaddy",
+      "hosting",
+      "infrastructure",
+      "neon",
+      "netlify",
+      "porkbun",
+      "skills",
+      "supabase",
+      "vercel"
+    ],
+    "html_url": "https://github.com/mikehasa/golive-skill",
+    "stargazers_count": 879,
+    "language": "TypeScript",
+    "forks_count": 61,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T13:37:26Z",
+    "updated_at": "2026-09-25T01:36:32Z",
+    "pushed_at": "2026-09-25T00:08:42Z"
+  },
+  {
+    "id": 1375987946,
+    "name": "AirCard-Windows",
+    "full_name": "Lumid-Off/AirCard-Windows",
+    "owner": {
+      "login": "Lumid-Off",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100797807?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/Lumid-Off/AirCard-Windows",
+    "stargazers_count": 872,
+    "language": "Rust",
+    "forks_count": 66,
+    "open_issues_count": 11,
+    "created_at": "2026-09-18T14:27:48Z",
+    "updated_at": "2026-09-25T01:33:46Z",
+    "pushed_at": "2026-09-24T08:39:30Z"
+  },
+  {
+    "id": 1384094559,
+    "name": "CLM",
+    "full_name": "Contrastive-LM/CLM",
+    "owner": {
+      "login": "Contrastive-LM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332430450?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/Contrastive-LM/CLM",
+    "stargazers_count": 845,
+    "language": "Python",
+    "forks_count": 68,
+    "open_issues_count": 3,
+    "created_at": "2026-09-23T19:29:56Z",
+    "updated_at": "2026-09-25T01:59:39Z",
+    "pushed_at": "2026-09-24T23:10:28Z"
+  },
+  {
+    "id": 1376757283,
+    "name": "awesome-jev",
+    "full_name": "heyjunpenn/awesome-jev",
+    "owner": {
+      "login": "heyjunpenn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33251742?v=4"
+    },
+    "description": "A verified, community-maintained catalog of 916 open-source projects built with Jev.",
+    "topics": [
+      "astro",
+      "awesome",
+      "awesome-jev",
+      "awesome-list",
+      "jev",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/heyjunpenn/awesome-jev",
+    "stargazers_count": 808,
+    "language": "Astro",
+    "forks_count": 57,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T05:14:36Z",
+    "updated_at": "2026-09-25T01:50:31Z",
+    "pushed_at": "2026-09-25T01:50:27Z"
+  },
+  {
+    "id": 1382888848,
+    "name": "claude-opus-5-5-demo",
+    "full_name": "riba2534/claude-opus-5-5-demo",
+    "owner": {
+      "login": "riba2534",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26398978?v=4"
+    },
+    "description": "claude-opus-5-5-demo",
+    "topics": [],
+    "html_url": "https://github.com/riba2534/claude-opus-5-5-demo",
+    "stargazers_count": 781,
+    "language": "JavaScript",
+    "forks_count": 115,
+    "open_issues_count": 5,
+    "created_at": "2026-09-23T06:31:00Z",
+    "updated_at": "2026-09-25T01:32:54Z",
+    "pushed_at": "2026-09-23T07:54:16Z"
+  },
+  {
+    "id": 1376380583,
+    "name": "hermes-jev-skills",
+    "full_name": "kerpopule/hermes-jev-skills",
+    "owner": {
+      "login": "kerpopule",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26120791?v=4"
+    },
+    "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+    "topics": [],
+    "html_url": "https://github.com/kerpopule/hermes-jev-skills",
+    "stargazers_count": 779,
+    "language": "Python",
+    "forks_count": 70,
+    "open_issues_count": 14,
+    "created_at": "2026-09-18T20:01:29Z",
+    "updated_at": "2026-09-25T00:31:28Z",
+    "pushed_at": "2026-09-23T19:49:40Z"
+  },
+  {
+    "id": 1376380844,
+    "name": "splash",
+    "full_name": "incoai/splash",
+    "owner": {
+      "login": "incoai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282140180?v=4"
+    },
+    "description": "A local inference engine for Apple silicon, built around the model.",
+    "topics": [
+      "apple-silicon",
+      "coding-agents",
+      "llm-inference",
+      "macos",
+      "metal",
+      "speculative-decoding"
+    ],
+    "html_url": "https://github.com/incoai/splash",
+    "stargazers_count": 772,
+    "language": "Python",
+    "forks_count": 76,
+    "open_issues_count": 51,
+    "created_at": "2026-09-18T20:01:48Z",
+    "updated_at": "2026-09-25T01:53:16Z",
+    "pushed_at": "2026-09-23T08:57:30Z"
+  },
+  {
+    "id": 1376174149,
+    "name": "localjev",
+    "full_name": "githubnext/localjev",
+    "owner": {
+      "login": "githubnext",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89615882?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/githubnext/localjev",
+    "stargazers_count": 759,
+    "language": "TypeScript",
+    "forks_count": 48,
+    "open_issues_count": 3,
+    "created_at": "2026-09-18T16:59:55Z",
+    "updated_at": "2026-09-25T01:58:21Z",
+    "pushed_at": "2026-09-18T20:19:02Z"
+  },
+  {
+    "id": 1376562698,
+    "name": "mini-AGI",
+    "full_name": "volotat/mini-AGI",
+    "owner": {
+      "login": "volotat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14307880?v=4"
+    },
+    "description": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
+    "topics": [],
+    "html_url": "https://github.com/volotat/mini-AGI",
+    "stargazers_count": 756,
+    "language": "Python",
+    "forks_count": 110,
+    "open_issues_count": 13,
+    "created_at": "2026-09-19T00:25:59Z",
+    "updated_at": "2026-09-25T01:51:56Z",
+    "pushed_at": "2026-09-24T07:17:27Z"
+  },
+  {
+    "id": 1376970259,
+    "name": "AirCard-iOS",
+    "full_name": "Mak5er/AirCard-iOS",
+    "owner": {
+      "login": "Mak5er",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98599732?v=4"
+    },
+    "description": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+    "topics": [],
+    "html_url": "https://github.com/Mak5er/AirCard-iOS",
+    "stargazers_count": 726,
+    "language": "Swift",
+    "forks_count": 62,
+    "open_issues_count": 17,
+    "created_at": "2026-09-19T09:22:23Z",
+    "updated_at": "2026-09-25T01:58:51Z",
+    "pushed_at": "2026-09-20T21:01:12Z"
+  }
+]
