@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1379574728,
+    "name": "jev-chat-jarvis",
+    "full_name": "jev-chat/jev-chat-jarvis",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "topics": [
+      "accessibility-service",
+      "android",
+      "chat-assistant",
+      "llm",
+      "qq"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "stargazers_count": 6543,
+    "language": "Kotlin",
+    "forks_count": 1136,
+    "open_issues_count": 25,
+    "created_at": "2026-09-21T11:12:53Z",
+    "updated_at": "2026-09-26T05:39:49Z",
+    "pushed_at": "2026-09-25T18:02:03Z"
+  },
+  {
+    "id": 1383809012,
+    "name": "magpie",
+    "full_name": "yetone/magpie",
+    "owner": {
+      "login": "yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+    },
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "deepseek",
+      "gemini-cli",
+      "llm",
+      "macos"
+    ],
+    "html_url": "https://github.com/yetone/magpie",
+    "stargazers_count": 817,
+    "language": "Go",
+    "forks_count": 50,
+    "open_issues_count": 2,
+    "created_at": "2026-09-23T16:22:35Z",
+    "updated_at": "2026-09-26T05:32:31Z",
+    "pushed_at": "2026-09-26T05:09:24Z"
+  },
+  {
+    "id": 1379166549,
+    "name": "AnyJev",
+    "full_name": "nokia-applied-research/AnyJev",
+    "owner": {
+      "login": "nokia-applied-research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312694883?v=4"
+    },
+    "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+    "topics": [
+      "calibration",
+      "decision-model",
+      "jev",
+      "jev-model",
+      "llm",
+      "system-one",
+      "transformers",
+      "vllm"
+    ],
+    "html_url": "https://github.com/nokia-applied-research/AnyJev",
+    "stargazers_count": 732,
+    "language": "Python",
+    "forks_count": 96,
+    "open_issues_count": 4,
+    "created_at": "2026-09-21T05:55:40Z",
+    "updated_at": "2026-09-26T05:38:28Z",
+    "pushed_at": "2026-09-25T00:32:27Z"
+  },
+  {
+    "id": 1377399471,
+    "name": "awesome-jev-tools",
+    "full_name": "v-modal/awesome-jev-tools",
+    "owner": {
+      "login": "v-modal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286898453?v=4"
+    },
+    "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "jev",
+      "llm",
+      "robotics",
+      "robotics-algorithms",
+      "robotics-control",
+      "robotics-simulation"
+    ],
+    "html_url": "https://github.com/v-modal/awesome-jev-tools",
+    "stargazers_count": 721,
+    "language": null,
+    "forks_count": 32,
+    "open_issues_count": 26,
+    "created_at": "2026-09-19T16:48:59Z",
+    "updated_at": "2026-09-26T05:37:12Z",
+    "pushed_at": "2026-09-24T15:39:54Z"
+  },
+  {
+    "id": 1383988294,
+    "name": "short-video-generator-AI",
+    "full_name": "yukitorido/short-video-generator-AI",
+    "owner": {
+      "login": "yukitorido",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312696578?v=4"
+    },
+    "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+    "topics": [
+      "ai",
+      "llm",
+      "llm-tools",
+      "opus-clip",
+      "opus-clip-alternative",
+      "short-video",
+      "short-video-automation",
+      "short-video-generator",
+      "short-video-maker"
+    ],
+    "html_url": "https://github.com/yukitorido/short-video-generator-AI",
+    "stargazers_count": 699,
+    "language": "Python",
+    "forks_count": 82,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T18:11:57Z",
+    "updated_at": "2026-09-26T05:30:45Z",
+    "pushed_at": "2026-09-23T18:16:08Z"
+  },
+  {
+    "id": 1379929433,
+    "name": "jev-chat-windows",
+    "full_name": "jev-chat/jev-chat-windows",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+    "topics": [
+      "chat-assistant",
+      "jev",
+      "llm",
+      "local-first",
+      "ocr",
+      "privacy",
+      "pyqt",
+      "python",
+      "wechat",
+      "windows"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-windows",
+    "stargazers_count": 563,
+    "language": "Python",
+    "forks_count": 125,
+    "open_issues_count": 20,
+    "created_at": "2026-09-21T14:37:14Z",
+    "updated_at": "2026-09-26T05:23:58Z",
+    "pushed_at": "2026-09-24T16:30:54Z"
+  },
+  {
+    "id": 1380762959,
+    "name": "awesome-jev",
+    "full_name": "kydlikebtc/awesome-jev",
+    "owner": {
+      "login": "kydlikebtc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75060932?v=4"
+    },
+    "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "calibration",
+      "catalog",
+      "classification",
+      "context-compaction",
+      "decision-model",
+      "intent-routing",
+      "jev",
+      "llm",
+      "system-one",
+      "tool-selection",
+      "typesafe-ai"
+    ],
+    "html_url": "https://github.com/kydlikebtc/awesome-jev",
+    "stargazers_count": 437,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 2,
+    "created_at": "2026-09-22T02:22:54Z",
+    "updated_at": "2026-09-26T04:20:34Z",
+    "pushed_at": "2026-09-25T04:20:32Z"
+  },
+  {
+    "id": 1379617146,
+    "name": "jev-chat-jarvis-mac",
+    "full_name": "jev-chat/jev-chat-jarvis-mac",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
+    "topics": [
+      "llm",
+      "local-first",
+      "macos",
+      "ocr",
+      "privacy",
+      "pyobjc",
+      "python"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+    "stargazers_count": 400,
+    "language": "Python",
+    "forks_count": 119,
+    "open_issues_count": 26,
+    "created_at": "2026-09-21T11:39:32Z",
+    "updated_at": "2026-09-26T05:09:23Z",
+    "pushed_at": "2026-09-25T16:14:55Z"
+  },
+  {
+    "id": 1377047791,
+    "name": "LLM2Jev",
+    "full_name": "Yinsongxu/LLM2Jev",
+    "owner": {
+      "login": "Yinsongxu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71176528?v=4"
+    },
+    "description": "Turn local language models into Jev-style structured decision models. Get results from text and images with prefill alone—no token-by-token decoding required.",
+    "topics": [
+      "jev",
+      "llm",
+      "mllm"
+    ],
+    "html_url": "https://github.com/Yinsongxu/LLM2Jev",
+    "stargazers_count": 336,
+    "language": "Python",
+    "forks_count": 32,
+    "open_issues_count": 1,
+    "created_at": "2026-09-19T10:59:33Z",
+    "updated_at": "2026-09-26T03:14:30Z",
+    "pushed_at": "2026-09-25T16:44:31Z"
+  },
+  {
+    "id": 1378958030,
+    "name": "JevRev",
+    "full_name": "Alex314618-create/JevRev",
+    "owner": {
+      "login": "Alex314618-create",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237943795?v=4"
+    },
+    "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+    "topics": [
+      "jev",
+      "llm",
+      "workflow"
+    ],
+    "html_url": "https://github.com/Alex314618-create/JevRev",
+    "stargazers_count": 305,
+    "language": "TypeScript",
+    "forks_count": 12,
+    "open_issues_count": 2,
+    "created_at": "2026-09-21T01:53:13Z",
+    "updated_at": "2026-09-26T03:53:26Z",
+    "pushed_at": "2026-09-26T03:53:22Z"
+  },
+  {
+    "id": 1377468874,
+    "name": "awesome-jev-use-cases",
+    "full_name": "walidboulanouar/awesome-jev-use-cases",
+    "owner": {
+      "login": "walidboulanouar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72222865?v=4"
+    },
+    "description": "Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0",
+    "topics": [
+      "ai-guardrails",
+      "ai-router",
+      "awesome",
+      "awesome-list",
+      "classification",
+      "claude-code",
+      "decision-model",
+      "examples",
+      "jev",
+      "jev-model",
+      "llm",
+      "llm-as-a-judge",
+      "llm-router",
+      "mcp",
+      "routing",
+      "small-language-model",
+      "system-one",
+      "typesafe",
+      "typesafe-ai",
+      "use-cases"
+    ],
+    "html_url": "https://github.com/walidboulanouar/awesome-jev-use-cases",
+    "stargazers_count": 219,
+    "language": null,
+    "forks_count": 22,
+    "open_issues_count": 18,
+    "created_at": "2026-09-19T18:01:10Z",
+    "updated_at": "2026-09-26T04:53:44Z",
+    "pushed_at": "2026-09-21T16:47:50Z"
+  },
+  {
+    "id": 1386778170,
+    "name": "ai-system-design",
+    "full_name": "amitshekhariitbhu/ai-system-design",
+    "owner": {
+      "login": "amitshekhariitbhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9877145?v=4"
+    },
+    "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "ai-system",
+      "ai-system-design",
+      "ai-systems",
+      "ai-systems-design",
+      "llm",
+      "system-design",
+      "system-design-interview"
+    ],
+    "html_url": "https://github.com/amitshekhariitbhu/ai-system-design",
+    "stargazers_count": 191,
+    "language": "Markdown",
+    "forks_count": 32,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T04:50:06Z",
+    "updated_at": "2026-09-26T05:33:28Z",
+    "pushed_at": "2026-09-25T04:53:31Z"
+  },
+  {
+    "id": 1380633782,
+    "name": "game-the-llm-reviewer",
+    "full_name": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
+    "owner": {
+      "login": "Michael-Jiahao-Zhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70966491?v=4"
+    },
+    "description": "Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
+    "topics": [
+      "academic-writing",
+      "agent-skills",
+      "ai-research",
+      "llm",
+      "llm-reviewer",
+      "paper-writing",
+      "peer-review",
+      "prompt-engineering",
+      "scientific-writing"
+    ],
+    "html_url": "https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer",
+    "stargazers_count": 183,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T23:11:47Z",
+    "updated_at": "2026-09-26T03:23:29Z",
+    "pushed_at": "2026-09-22T18:55:19Z"
+  },
+  {
+    "id": 1385896447,
+    "name": "dsh-our-free-model",
+    "full_name": "zouyuxuan122/dsh-our-free-model",
+    "owner": {
+      "login": "zouyuxuan122",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245557608?v=4"
+    },
+    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "free-model",
+      "llm",
+      "model-provider",
+      "openai-compatible"
+    ],
+    "html_url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+    "stargazers_count": 138,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 1,
+    "created_at": "2026-09-24T16:17:19Z",
+    "updated_at": "2026-09-26T05:25:17Z",
+    "pushed_at": "2026-09-26T01:44:42Z"
+  },
+  {
+    "id": 1383804874,
+    "name": "Relate",
+    "full_name": "georgeding/Relate",
+    "owner": {
+      "login": "georgeding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20963605?v=4"
+    },
+    "description": "记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
+    "topics": [
+      "ai-assistant",
+      "llm",
+      "mcp",
+      "memory",
+      "ollama",
+      "openai-compatible",
+      "personal-knowledge",
+      "privacy",
+      "self-hosted",
+      "telegram"
+    ],
+    "html_url": "https://github.com/georgeding/Relate",
+    "stargazers_count": 110,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T16:20:10Z",
+    "updated_at": "2026-09-26T03:05:59Z",
+    "pushed_at": "2026-09-23T16:34:02Z"
+  },
+  {
+    "id": 1377956199,
+    "name": "Jev-Mem",
+    "full_name": "libingzheren/Jev-Mem",
+    "owner": {
+      "login": "libingzheren",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11875132?v=4"
+    },
+    "description": "Jev-Mem: System-One Controlled Agentic Memory",
+    "topics": [
+      "agent",
+      "agent-memory",
+      "agentic-ai",
+      "agentic-memory",
+      "agents",
+      "jev",
+      "jev-ai",
+      "llm"
+    ],
+    "html_url": "https://github.com/libingzheren/Jev-Mem",
+    "stargazers_count": 93,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T05:27:53Z",
+    "updated_at": "2026-09-25T22:29:37Z",
+    "pushed_at": "2026-09-22T03:43:26Z"
+  },
+  {
+    "id": 1378726612,
+    "name": "jevals",
+    "full_name": "openlayer-ai/jevals",
+    "owner": {
+      "login": "openlayer-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78678711?v=4"
+    },
+    "description": "Agent evals and guardrails as Jev decisions: one request per trace, a fraction of a cent, fast enough for the agent loop. Runs locally with Kev or Laya.",
+    "topics": [
+      "agents",
+      "evals",
+      "guardrails",
+      "jev",
+      "llm",
+      "llm-evaluation",
+      "ragas",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/openlayer-ai/jevals",
+    "stargazers_count": 88,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T19:56:13Z",
+    "updated_at": "2026-09-26T03:18:20Z",
+    "pushed_at": "2026-09-24T17:21:06Z"
+  },
+  {
+    "id": 1378518207,
+    "name": "SpeakerMemR1",
+    "full_name": "2022hpsk/SpeakerMemR1",
+    "owner": {
+      "login": "2022hpsk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98641809?v=4"
+    },
+    "description": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+    "topics": [
+      "conversational-memory",
+      "llm",
+      "multi-party-dialogues"
+    ],
+    "html_url": "https://github.com/2022hpsk/SpeakerMemR1",
+    "stargazers_count": 84,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T16:01:49Z",
+    "updated_at": "2026-09-26T04:57:32Z",
+    "pushed_at": "2026-09-24T16:26:00Z"
+  },
+  {
+    "id": 1379601713,
+    "name": "Simreal-MLBench",
+    "full_name": "Simreal-AI/Simreal-MLBench",
+    "owner": {
+      "login": "Simreal-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332076600?v=4"
+    },
+    "description": "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation.",
+    "topics": [
+      "agentic",
+      "ai-evaluation",
+      "benchmark",
+      "benchmarking",
+      "calibration",
+      "llm",
+      "llm-agents",
+      "llms",
+      "machine-learning",
+      "metacognition-in-llms",
+      "public-preview",
+      "rl-environment",
+      "rsi",
+      "simreal"
+    ],
+    "html_url": "https://github.com/Simreal-AI/Simreal-MLBench",
+    "stargazers_count": 84,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T11:29:47Z",
+    "updated_at": "2026-09-26T05:00:48Z",
+    "pushed_at": "2026-09-24T18:06:50Z"
+  },
+  {
+    "id": 1377507017,
+    "name": "jev-libero",
+    "full_name": "Dimweaker/jev-libero",
+    "owner": {
+      "login": "Dimweaker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42308062?v=4"
+    },
+    "description": "Fine-grained robot control with Jev, physics previews, and configurable LIBERO tasks.",
+    "topics": [
+      "emobodied-ai",
+      "jev",
+      "libero",
+      "llm",
+      "model-based-control",
+      "mujoco",
+      "robosuite",
+      "robot-manipulation",
+      "robotics"
+    ],
+    "html_url": "https://github.com/Dimweaker/jev-libero",
+    "stargazers_count": 67,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T18:45:40Z",
+    "updated_at": "2026-09-25T12:32:57Z",
+    "pushed_at": "2026-09-21T07:46:34Z"
+  }
+]

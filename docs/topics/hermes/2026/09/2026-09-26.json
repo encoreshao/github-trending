@@ -1,0 +1,583 @@
+[
+  {
+    "id": 1385750356,
+    "name": "paperclip-guide",
+    "full_name": "theNetworkChuck/paperclip-guide",
+    "owner": {
+      "login": "theNetworkChuck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47433490?v=4"
+    },
+    "description": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
+    "topics": [
+      "ai-agents",
+      "ai-company",
+      "claude-code",
+      "codex",
+      "flare",
+      "hermes",
+      "homelab",
+      "networkchuck",
+      "paperclip"
+    ],
+    "html_url": "https://github.com/theNetworkChuck/paperclip-guide",
+    "stargazers_count": 69,
+    "language": "TypeScript",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T15:00:59Z",
+    "updated_at": "2026-09-26T05:21:27Z",
+    "pushed_at": "2026-09-24T15:02:21Z"
+  },
+  {
+    "id": 1388375325,
+    "name": "x-scraper-no-api",
+    "full_name": "JoinArtisanVent/x-scraper-no-api",
+    "owner": {
+      "login": "JoinArtisanVent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270956836?v=4"
+    },
+    "description": "Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent Skill for OpenClaw & Hermes.",
+    "topics": [
+      "hermes",
+      "nitter",
+      "openclaw",
+      "openclaw-plugin",
+      "openclaw-tools",
+      "scrape-twitter-without-api",
+      "tweet-scraper",
+      "twitter",
+      "twitter-api",
+      "twitter-osint",
+      "twitter-scrape",
+      "twitter-scraper",
+      "twitter-scraper-no-api",
+      "twitter-scraping",
+      "twitter-script",
+      "x-data-export",
+      "x-scraper"
+    ],
+    "html_url": "https://github.com/JoinArtisanVent/x-scraper-no-api",
+    "stargazers_count": 24,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T01:57:59Z",
+    "updated_at": "2026-09-26T05:39:26Z",
+    "pushed_at": "2026-09-26T02:08:42Z"
+  },
+  {
+    "id": 1383933638,
+    "name": "hermes-identity-setup",
+    "full_name": "pasta-engineers/hermes-identity-setup",
+    "owner": {
+      "login": "pasta-engineers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325531923?v=4"
+    },
+    "description": "Hermes Identity Setup skill: map identity layers, run the onboarding interview, route answers.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-skill",
+      "skill"
+    ],
+    "html_url": "https://github.com/pasta-engineers/hermes-identity-setup",
+    "stargazers_count": 7,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T17:37:07Z",
+    "updated_at": "2026-09-25T06:15:21Z",
+    "pushed_at": "2026-09-23T18:07:59Z"
+  },
+  {
+    "id": 1376862262,
+    "name": "hermes-jev-plugin",
+    "full_name": "ajensenwaud/hermes-jev-plugin",
+    "owner": {
+      "login": "ajensenwaud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5827908?v=4"
+    },
+    "description": "TypeSafe Jev (System One) decision tools for Hermes Agent: jev_check / jev_route / jev_score / jev_evaluate",
+    "topics": [
+      "ai-agents",
+      "decision-making",
+      "hermes",
+      "hermes-agent",
+      "jev",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/ajensenwaud/hermes-jev-plugin",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T07:23:19Z",
+    "updated_at": "2026-09-26T01:32:42Z",
+    "pushed_at": "2026-09-19T08:41:19Z"
+  },
+  {
+    "id": 1377369461,
+    "name": "jev-layer",
+    "full_name": "typakon4/jev-layer",
+    "owner": {
+      "login": "typakon4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100871491?v=4"
+    },
+    "description": "Portable System-1 decision layer for agent harnesses with host-owned routing, receipts, replay, and fail-open integrations.",
+    "topics": [
+      "agent-harness",
+      "codex",
+      "decision-layer",
+      "decision-routing",
+      "developer-tools",
+      "fail-open",
+      "hermes",
+      "mcp",
+      "nodejs",
+      "omp",
+      "open-source",
+      "portable-agent",
+      "receipts",
+      "replay",
+      "system-1"
+    ],
+    "html_url": "https://github.com/typakon4/jev-layer",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T16:17:25Z",
+    "updated_at": "2026-09-26T02:49:55Z",
+    "pushed_at": "2026-09-25T19:23:20Z"
+  },
+  {
+    "id": 1376944953,
+    "name": "jev-decisions-hermes",
+    "full_name": "bojansandhaus/jev-decisions-hermes",
+    "owner": {
+      "login": "bojansandhaus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114113320?v=4"
+    },
+    "description": "Jev Decisions Plugin for Hermes (and other AI Agents): tool risk reviews, human approval recommendations, evidence checks, a local decision journal, local decision supervision, and learned corrections.",
+    "topics": [
+      "action-verification",
+      "agent-architecture",
+      "agent-tools",
+      "ai-agent-safety",
+      "ai-agents",
+      "approval-workflows",
+      "automation",
+      "decision-making",
+      "hermes",
+      "human-in-the-loop",
+      "llm",
+      "mcp",
+      "openrouter",
+      "python",
+      "tool-use"
+    ],
+    "html_url": "https://github.com/bojansandhaus/jev-decisions-hermes",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T08:54:17Z",
+    "updated_at": "2026-09-25T15:27:04Z",
+    "pushed_at": "2026-09-25T15:25:12Z"
+  },
+  {
+    "id": 1378247109,
+    "name": "hermes-collab-protocol",
+    "full_name": "sambaseness/hermes-collab-protocol",
+    "owner": {
+      "login": "sambaseness",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211538771?v=4"
+    },
+    "description": "Multi-device AI agent collaboration protocol for Hermes",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-skill"
+    ],
+    "html_url": "https://github.com/sambaseness/hermes-collab-protocol",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T11:09:44Z",
+    "updated_at": "2026-09-21T16:56:29Z",
+    "pushed_at": "2026-09-20T14:05:36Z"
+  },
+  {
+    "id": 1380617899,
+    "name": "hermes-plugin-provider-usage",
+    "full_name": "PhoeniXAbhisheK/hermes-plugin-provider-usage",
+    "owner": {
+      "login": "PhoeniXAbhisheK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16290904?v=4"
+    },
+    "description": "Provider Usage: per-provider quota and balance readout in the Hermes desktop status bar.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-plugin",
+      "status-bar",
+      "usage-quota"
+    ],
+    "html_url": "https://github.com/PhoeniXAbhisheK/hermes-plugin-provider-usage",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T22:46:21Z",
+    "updated_at": "2026-09-21T22:50:42Z",
+    "pushed_at": "2026-09-21T22:46:31Z"
+  },
+  {
+    "id": 1383947066,
+    "name": "hermes-pinned-folders",
+    "full_name": "jacobhausler/hermes-pinned-folders",
+    "owner": {
+      "login": "jacobhausler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12172804?v=4"
+    },
+    "description": "Hermes Desktop plugin: a Pinned sidebar tab that files pinned chats into nested, colored, drag-ordered folders.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-desktop",
+      "hermes-plugin"
+    ],
+    "html_url": "https://github.com/jacobhausler/hermes-pinned-folders",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T17:45:25Z",
+    "updated_at": "2026-09-25T05:44:29Z",
+    "pushed_at": "2026-09-25T05:44:26Z"
+  },
+  {
+    "id": 1378267630,
+    "name": "dynamic-context-engine",
+    "full_name": "rohanarun/dynamic-context-engine",
+    "owner": {
+      "login": "rohanarun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11659839?v=4"
+    },
+    "description": "Dynamic paragraph context with Jev for Codex, Claude Code, and Hermes. SQLite memory, model relevance, portable agent skills.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "context-engine",
+      "hermes",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/rohanarun/dynamic-context-engine",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T11:36:10Z",
+    "updated_at": "2026-09-20T13:33:10Z",
+    "pushed_at": "2026-09-20T13:33:07Z"
+  },
+  {
+    "id": 1379935195,
+    "name": "antigravity-proxy",
+    "full_name": "vlelyavin/antigravity-proxy",
+    "owner": {
+      "login": "vlelyavin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103637662?v=4"
+    },
+    "description": "proxy that routes openai + native gemini api calls through google ai pro subscription auth - rides your sub instead of per-token api billing, for tools like hermes / opencode",
+    "topics": [
+      "antigravity",
+      "gemini",
+      "google-ai-pro",
+      "hermes",
+      "oauth",
+      "openai",
+      "opencode",
+      "proxy",
+      "relay"
+    ],
+    "html_url": "https://github.com/vlelyavin/antigravity-proxy",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T14:40:13Z",
+    "updated_at": "2026-09-24T15:17:07Z",
+    "pushed_at": "2026-09-24T15:17:01Z"
+  },
+  {
+    "id": 1377406140,
+    "name": "quota-panel",
+    "full_name": "realAbitbol/quota-panel",
+    "owner": {
+      "login": "realAbitbol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73762857?v=4"
+    },
+    "description": "Quota tracker for multiple providers with multiple accounts support (more providers to come)",
+    "topics": [
+      "cheaperinference",
+      "commandcode",
+      "deepseek",
+      "docker",
+      "gethomepage",
+      "hermes",
+      "hermes-agent",
+      "kimi",
+      "llm-providers",
+      "opencode",
+      "opencode-go",
+      "openrouter",
+      "quota",
+      "quota-monitor",
+      "synthetic",
+      "usage-tracker",
+      "zai"
+    ],
+    "html_url": "https://github.com/realAbitbol/quota-panel",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T16:55:11Z",
+    "updated_at": "2026-09-23T06:54:56Z",
+    "pushed_at": "2026-09-23T06:54:53Z"
+  },
+  {
+    "id": 1388004239,
+    "name": "redde",
+    "full_name": "goosehouse-llc/redde",
+    "owner": {
+      "login": "goosehouse-llc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333912811?v=4"
+    },
+    "description": "iPhone, iPad and CarPlay client for the Hermes AI agent or any OpenAI-compatible model. Talk or type, watch it work, approve what it runs. No account, no tracking.",
+    "topics": [
+      "ai-agent",
+      "carplay",
+      "hermes",
+      "hermes-agent",
+      "ios",
+      "ipados",
+      "llama-cpp",
+      "llm",
+      "ollama",
+      "on-device",
+      "openai-compatible",
+      "privacy",
+      "self-hosted",
+      "swift",
+      "swiftui",
+      "voice-assistant"
+    ],
+    "html_url": "https://github.com/goosehouse-llc/redde",
+    "stargazers_count": 1,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T18:03:44Z",
+    "updated_at": "2026-09-26T03:33:43Z",
+    "pushed_at": "2026-09-26T03:33:40Z"
+  },
+  {
+    "id": 1380782356,
+    "name": "hermes-panel",
+    "full_name": "1919884213/hermes-panel",
+    "owner": {
+      "login": "1919884213",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163216306?v=4"
+    },
+    "description": "VS Code 扩展：在侧边栏里使用 Hermes Agent（ACP over stdio）—— 流式对话、工具卡片、diff 审批、会话与模型切换",
+    "topics": [
+      "acp",
+      "ai-agent",
+      "chat",
+      "hermes",
+      "llm",
+      "vscode-extension"
+    ],
+    "html_url": "https://github.com/1919884213/hermes-panel",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T02:45:04Z",
+    "updated_at": "2026-09-22T02:52:45Z",
+    "pushed_at": "2026-09-22T02:52:42Z"
+  },
+  {
+    "id": 1378779859,
+    "name": "MasterMindPublic",
+    "full_name": "Ntizar/MasterMindPublic",
+    "owner": {
+      "login": "Ntizar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136697836?v=4"
+    },
+    "description": "Sistema de orquestacion multi-agente: explicacion, guia de replicacion y plantillas para montar el tuyo",
+    "topics": [
+      "agentes-ia",
+      "chromadb",
+      "hermes",
+      "llm",
+      "memory",
+      "multi-agent",
+      "orchestration",
+      "skills"
+    ],
+    "html_url": "https://github.com/Ntizar/MasterMindPublic",
+    "stargazers_count": 0,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T21:11:38Z",
+    "updated_at": "2026-09-20T22:25:53Z",
+    "pushed_at": "2026-09-20T22:25:50Z"
+  },
+  {
+    "id": 1384740762,
+    "name": "hermes-memory-workbench",
+    "full_name": "VirginiaH233/hermes-memory-workbench",
+    "owner": {
+      "login": "VirginiaH233",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163307857?v=4"
+    },
+    "description": "Hermes 的本地记忆工作台：待审提议逐条看 / 改 / 批 / 撤，走原生落库入口，每一步都能撤回。Local review desk for Hermes memory — see, edit, approve and undo every change (native write path, snapshots, dry-run).",
+    "topics": [
+      "ai-agent",
+      "hermes",
+      "hermes-agent",
+      "human-in-the-loop",
+      "llm",
+      "local-first",
+      "memory",
+      "python"
+    ],
+    "html_url": "https://github.com/VirginiaH233/hermes-memory-workbench",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T05:23:56Z",
+    "updated_at": "2026-09-24T05:41:49Z",
+    "pushed_at": "2026-09-24T05:41:50Z"
+  },
+  {
+    "id": 1381508031,
+    "name": "hermes-office-viewer",
+    "full_name": "xionglaoshi/hermes-office-viewer",
+    "owner": {
+      "login": "xionglaoshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52005965?v=4"
+    },
+    "description": "Hermes 桌面端的文档预览插件：类访达文件浏览器 + 面板内就地预览 Office/PDF/Markdown/HTML/图片/代码。纯 JS 渲染、零常驻服务、不依赖 LibreOffice、不改宿主源码。",
+    "topics": [
+      "desktop-plugin",
+      "document-preview",
+      "docx",
+      "electron",
+      "hermes",
+      "markdown",
+      "office-viewer",
+      "pdf",
+      "pptx",
+      "xlsx"
+    ],
+    "html_url": "https://github.com/xionglaoshi/hermes-office-viewer",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T12:45:14Z",
+    "updated_at": "2026-09-25T04:44:24Z",
+    "pushed_at": "2026-09-25T04:44:19Z"
+  },
+  {
+    "id": 1380166195,
+    "name": "de-retardinator",
+    "full_name": "cardoza1991/de-retardinator",
+    "owner": {
+      "login": "cardoza1991",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56440719?v=4"
+    },
+    "description": "Anti-drift circuit breaker + China tool-call gate for Hermes, Claude Code, and Codex",
+    "topics": [
+      "agents",
+      "claude-code",
+      "hermes",
+      "openai-codex",
+      "safety"
+    ],
+    "html_url": "https://github.com/cardoza1991/de-retardinator",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T16:53:00Z",
+    "updated_at": "2026-09-21T16:57:55Z",
+    "pushed_at": "2026-09-21T16:57:51Z"
+  },
+  {
+    "id": 1378706239,
+    "name": "settled-computer",
+    "full_name": "Remote-Skills/settled-computer",
+    "owner": {
+      "login": "Remote-Skills",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180343946?v=4"
+    },
+    "description": "Fast computer use for AI agents: event-driven settling MCP server - replaces time.sleep between clicks, waits for the UI to react and stop changing, returns the settled screenshot. No blind waits, no wasted vision turns.",
+    "topics": [
+      "agent",
+      "automation",
+      "claude",
+      "computer-use",
+      "computer-use-agent",
+      "desktop-automation",
+      "gui-agent",
+      "hermes",
+      "latency",
+      "mcp",
+      "mcp-server",
+      "pyautogui",
+      "screenshot",
+      "vision"
+    ],
+    "html_url": "https://github.com/Remote-Skills/settled-computer",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T19:29:19Z",
+    "updated_at": "2026-09-22T08:53:48Z",
+    "pushed_at": "2026-09-22T08:53:43Z"
+  },
+  {
+    "id": 1387851784,
+    "name": "hermes-mobile",
+    "full_name": "MdSadman2004/hermes-mobile",
+    "owner": {
+      "login": "MdSadman2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201715987?v=4"
+    },
+    "description": "Hermes Mobile - Android companion app for the Hermes agent",
+    "topics": [
+      "ai-agent",
+      "android",
+      "hermes",
+      "kotlin"
+    ],
+    "html_url": "https://github.com/MdSadman2004/hermes-mobile",
+    "stargazers_count": 0,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T16:17:17Z",
+    "updated_at": "2026-09-25T16:17:32Z",
+    "pushed_at": "2026-09-25T16:17:27Z"
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "id": 1382454774,
+    "name": "FleXray",
+    "full_name": "VictorButoi/FleXray",
+    "owner": {
+      "login": "VictorButoi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41497380?v=4"
+    },
+    "description": "FleXray: Universal Clinical X-ray Segmentation",
+    "topics": [
+      "ai",
+      "computer-vision",
+      "machine-learning",
+      "medical-imaging",
+      "segmentation"
+    ],
+    "html_url": "https://github.com/VictorButoi/FleXray",
+    "stargazers_count": 48,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-09-22T23:12:51Z",
+    "updated_at": "2026-09-26T03:43:52Z",
+    "pushed_at": "2026-09-23T05:28:40Z"
+  },
+  {
+    "id": 1384036300,
+    "name": "glance-speedlab",
+    "full_name": "yoheinakajima/glance-speedlab",
+    "owner": {
+      "login": "yoheinakajima",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1701418?v=4"
+    },
+    "description": "A measurement-first lab for low-latency local camera inference with Glance.",
+    "topics": [
+      "apple-silicon",
+      "computer-vision",
+      "latency",
+      "reproducible-research",
+      "vision-language-model"
+    ],
+    "html_url": "https://github.com/yoheinakajima/glance-speedlab",
+    "stargazers_count": 42,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T18:47:21Z",
+    "updated_at": "2026-09-26T02:13:10Z",
+    "pushed_at": "2026-09-24T19:47:11Z"
+  },
+  {
+    "id": 1377319008,
+    "name": "microsoft-purview-screen-guard",
+    "full_name": "thalpius/microsoft-purview-screen-guard",
+    "owner": {
+      "login": "thalpius",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49958238?v=4"
+    },
+    "description": "Proof of concept: covers all screens with an overlay when a labeled Word document is visible and a phone is seen by the webcam (YOLOv8n) or the camera is unhealthy. Fail-closed. Not affiliated with Microsoft.",
+    "topics": [
+      "computer-vision",
+      "csharp",
+      "data-loss-prevention",
+      "dotnet",
+      "information-protection",
+      "microsoft-purview",
+      "onnx-runtime",
+      "opencv",
+      "proof-of-concept",
+      "sensitivity-labels",
+      "yolov8"
+    ],
+    "html_url": "https://github.com/thalpius/microsoft-purview-screen-guard",
+    "stargazers_count": 16,
+    "language": "C#",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T15:31:30Z",
+    "updated_at": "2026-09-24T07:10:23Z",
+    "pushed_at": "2026-09-20T12:23:53Z"
+  },
+  {
+    "id": 1384551920,
+    "name": "world-pose-fall-intelligence",
+    "full_name": "hanfeny7/world-pose-fall-intelligence",
+    "owner": {
+      "login": "hanfeny7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188334698?v=4"
+    },
+    "description": "SentinelFlow - multimodal world-model and fall-detection intelligence showcase",
+    "topics": [
+      "computer-vision",
+      "edge-ai",
+      "fall-detection",
+      "multimodal-ai",
+      "pose-estimation",
+      "world-model"
+    ],
+    "html_url": "https://github.com/hanfeny7/world-pose-fall-intelligence",
+    "stargazers_count": 15,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T03:22:36Z",
+    "updated_at": "2026-09-25T10:49:44Z",
+    "pushed_at": "2026-09-24T04:37:31Z"
+  },
+  {
+    "id": 1380875205,
+    "name": "Remote-Sensing-Image-Segmentation-Models",
+    "full_name": "qi-fg/Remote-Sensing-Image-Segmentation-Models",
+    "owner": {
+      "login": "qi-fg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125439594?v=4"
+    },
+    "description": "A curated collection of Remote Sensing Image Segmentation models: 40+ methods by family, official code, datasets, and runnable PyTorch baselines (U-Net / SegFormer / SAM).",
+    "topics": [
+      "awesome-list",
+      "benchmarks",
+      "computer-vision",
+      "deep-learning",
+      "foundation-models",
+      "image-segmentation",
+      "point-supervised",
+      "pytorch",
+      "remote-sensing",
+      "segment-anything",
+      "semantic-segmentation",
+      "weakly-supervised-learning"
+    ],
+    "html_url": "https://github.com/qi-fg/Remote-Sensing-Image-Segmentation-Models",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T04:31:21Z",
+    "updated_at": "2026-09-22T10:26:06Z",
+    "pushed_at": "2026-09-22T06:15:39Z"
+  },
+  {
+    "id": 1382563833,
+    "name": "openvino-cv-optimization",
+    "full_name": "arielshakaramiro/openvino-cv-optimization",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Optimizing MobileNetV2 and YOLOv8n for real-time CPU inference with OpenVINO and INT8 quantization (NNCF), benchmarked on real CCTV footage including a model-limitation case study.",
+    "topics": [
+      "computer-vision",
+      "edge-ai",
+      "int8-quantization",
+      "mobilenetv2",
+      "model-optimization",
+      "nncf",
+      "object-detection",
+      "openvino",
+      "quantization",
+      "yolov8"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/openvino-cv-optimization",
+    "stargazers_count": 3,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T01:40:13Z",
+    "updated_at": "2026-09-24T10:13:39Z",
+    "pushed_at": "2026-09-23T01:48:49Z"
+  },
+  {
+    "id": 1379843079,
+    "name": "Faktel",
+    "full_name": "cybersafetyid/Faktel",
+    "owner": {
+      "login": "cybersafetyid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66660118?v=4"
+    },
+    "description": "On-device face and Indonesian e-KTP detection for Kotlin Multiplatform (Android, iOS, JVM)",
+    "topics": [
+      "android",
+      "computer-vision",
+      "face-detection",
+      "indonesia",
+      "ios",
+      "kotlin",
+      "kotlin-multiplatform",
+      "ktp",
+      "liveness-detection",
+      "ocr-preprocessing",
+      "on-device-ml",
+      "onnxruntime"
+    ],
+    "html_url": "https://github.com/cybersafetyid/Faktel",
+    "stargazers_count": 3,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T13:54:54Z",
+    "updated_at": "2026-09-22T07:53:07Z",
+    "pushed_at": "2026-09-21T16:27:22Z"
+  },
+  {
+    "id": 1376727277,
+    "name": "mayday",
+    "full_name": "israelo19/mayday",
+    "owner": {
+      "login": "israelo19",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57731260?v=4"
+    },
+    "description": "Mayday - AI emergency response in your pocket. The minutes before the ambulance, coached.",
+    "topics": [
+      "ai",
+      "computer-vision",
+      "machine-learning",
+      "medical-ai"
+    ],
+    "html_url": "https://github.com/israelo19/mayday",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T04:31:35Z",
+    "updated_at": "2026-09-22T20:35:58Z",
+    "pushed_at": "2026-09-22T20:35:53Z"
+  },
+  {
+    "id": 1386913264,
+    "name": "vision-correlator",
+    "full_name": "Mengqi-Lei/vision-correlator",
+    "owner": {
+      "login": "Mengqi-Lei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145836228?v=4"
+    },
+    "description": "Implementation of the [NeurIPS 2026] paper Vision Correlators: Correlation-Driven Visual Understanding with Hypergraphs.",
+    "topics": [
+      "backbone",
+      "classification",
+      "computer-vision",
+      "detection",
+      "hypergraph",
+      "vic",
+      "vision-encoder"
+    ],
+    "html_url": "https://github.com/Mengqi-Lei/vision-correlator",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T06:34:58Z",
+    "updated_at": "2026-09-25T18:55:17Z",
+    "pushed_at": "2026-09-25T13:31:03Z"
+  },
+  {
+    "id": 1383978506,
+    "name": "wisenotes",
+    "full_name": "sycoraxx/wisenotes",
+    "owner": {
+      "login": "sycoraxx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71945001?v=4"
+    },
+    "description": "Turn captioned YouTube lectures into visually grounded LaTeX notes using real video frames—not transcript guesses.",
+    "topics": [
+      "chrome-extension",
+      "computer-vision",
+      "education",
+      "gemini",
+      "latex",
+      "lecture-notes",
+      "students",
+      "youtube"
+    ],
+    "html_url": "https://github.com/sycoraxx/wisenotes",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T18:04:56Z",
+    "updated_at": "2026-09-24T05:06:47Z",
+    "pushed_at": "2026-09-23T21:06:26Z"
+  },
+  {
+    "id": 1382858135,
+    "name": "support-genesis",
+    "full_name": "Nikhil-creat/support-genesis",
+    "owner": {
+      "login": "Nikhil-creat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123522558?v=4"
+    },
+    "description": "Enterprise-grade Agentic AI customer support engine — LangGraph multi-agent orchestration, hybrid RAG, CNN visual defect inspection, MCP tool protocol, HITL governance, Dockerized.",
+    "topics": [
+      "agentic-ai",
+      "cnn",
+      "computer-vision",
+      "docker",
+      "fastapi",
+      "langgraph",
+      "llm",
+      "mcp",
+      "multi-agent-systems",
+      "nikhilcharysriramoju",
+      "python",
+      "rag"
+    ],
+    "html_url": "https://github.com/Nikhil-creat/support-genesis",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T06:07:12Z",
+    "updated_at": "2026-09-24T14:29:00Z",
+    "pushed_at": "2026-09-24T00:22:25Z"
+  },
+  {
+    "id": 1376732708,
+    "name": "deep-ml",
+    "full_name": "avikds/deep-ml",
+    "owner": {
+      "login": "avikds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76389141?v=4"
+    },
+    "description": "My machine learning practice from Deep-ML: solutions, labs and progress.",
+    "topics": [
+      "algorithms",
+      "artificial-intelligence",
+      "computer-vision",
+      "data-science",
+      "data-structures",
+      "deep-learning",
+      "generative-ai",
+      "gpu-programming",
+      "linear-algebra",
+      "llms",
+      "machine-learning",
+      "mlops",
+      "neural-networks",
+      "nlp",
+      "pytorch",
+      "reinforcement-learning",
+      "statistics",
+      "transformers"
+    ],
+    "html_url": "https://github.com/avikds/deep-ml",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T04:39:47Z",
+    "updated_at": "2026-09-26T03:33:26Z",
+    "pushed_at": "2026-09-26T03:33:23Z"
+  },
+  {
+    "id": 1378325024,
+    "name": "aether-screenshot-studio",
+    "full_name": "Nikhil-creat/aether-screenshot-studio",
+    "owner": {
+      "login": "Nikhil-creat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123522558?v=4"
+    },
+    "description": "Private in-browser editor for screenshots, photos and PDFs: font-matched text replacement, OCR, redaction, translation and code export. Designed and built by NIKHIL CHARY SRIRAMOJU.",
+    "topics": [
+      "agenticai",
+      "computer-vision",
+      "fastapi",
+      "javascript",
+      "nextjs",
+      "nikhilcharysriramoju",
+      "ocr",
+      "pdf-editor-pdf",
+      "portfolio",
+      "rag",
+      "screenshot-editor"
+    ],
+    "html_url": "https://github.com/Nikhil-creat/aether-screenshot-studio",
+    "stargazers_count": 2,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T12:42:58Z",
+    "updated_at": "2026-09-22T10:30:13Z",
+    "pushed_at": "2026-09-22T10:30:08Z"
+  },
+  {
+    "id": 1378663128,
+    "name": "pareidolia-paradox",
+    "full_name": "manasgharat1/pareidolia-paradox",
+    "owner": {
+      "login": "manasgharat1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109096975?v=4"
+    },
+    "description": "86.20% Balanced Accuracy solution for \"The Pareidolia Paradox\" (IEEE SIES GST) — Physics-informed monocular lunar topography classification via differential Sobel tensors, reflection padding, and SLSQP ensemble.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "ieee",
+      "lunar-exploration",
+      "lunar-surface",
+      "pytorch",
+      "space-tech",
+      "space-technology"
+    ],
+    "html_url": "https://github.com/manasgharat1/pareidolia-paradox",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T18:36:27Z",
+    "updated_at": "2026-09-21T13:34:12Z",
+    "pushed_at": "2026-09-21T13:34:08Z"
+  },
+  {
+    "id": 1378234314,
+    "name": "car-instance-segmentation-yolov8",
+    "full_name": "arielshakaramiro/car-instance-segmentation-yolov8",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "Fine-tuned YOLOv8s-seg model for car instance segmentation, tested live against a public traffic CCTV feed in Yogyakarta, Indonesia.",
+    "topics": [
+      "cctv",
+      "colab",
+      "computer-vision",
+      "deep-learning",
+      "instance-segmentation",
+      "object-detection",
+      "python",
+      "pytorch",
+      "roboflow",
+      "traffic-monitoring",
+      "ultralytics",
+      "yolov8"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/car-instance-segmentation-yolov8",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T10:53:15Z",
+    "updated_at": "2026-09-23T18:44:16Z",
+    "pushed_at": "2026-09-20T11:09:56Z"
+  },
+  {
+    "id": 1383962809,
+    "name": "gesture-control",
+    "full_name": "2077-cyberpunk/gesture-control",
+    "owner": {
+      "login": "2077-cyberpunk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224955911?v=4"
+    },
+    "description": "Tony Stark-style webcam hand gesture controller: mouse, keyboard, media, modes, macros",
+    "topics": [
+      "computer-vision",
+      "gesture-recognition",
+      "hand-gesture",
+      "mediapipe",
+      "mouse-control",
+      "opencv",
+      "pyautogui",
+      "python"
+    ],
+    "html_url": "https://github.com/2077-cyberpunk/gesture-control",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T17:55:01Z",
+    "updated_at": "2026-09-23T21:41:08Z",
+    "pushed_at": "2026-09-23T21:41:04Z"
+  },
+  {
+    "id": 1381365166,
+    "name": "lama-image-inpainting-onnx",
+    "full_name": "AqsaAliRazaJamali/lama-image-inpainting-onnx",
+    "owner": {
+      "login": "AqsaAliRazaJamali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212900535?v=4"
+    },
+    "description": "Image inpainting using a pretrained LaMa model with ONNX Runtime and OpenCV.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "image-inpainting",
+      "lama",
+      "machine-learning",
+      "onnx",
+      "onnxruntime",
+      "opencv",
+      "python"
+    ],
+    "html_url": "https://github.com/AqsaAliRazaJamali/lama-image-inpainting-onnx",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T11:26:40Z",
+    "updated_at": "2026-09-26T02:07:20Z",
+    "pushed_at": "2026-09-26T02:07:16Z"
+  },
+  {
+    "id": 1378416060,
+    "name": "BirdScan",
+    "full_name": "wings1023/BirdScan",
+    "owner": {
+      "login": "wings1023",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318916419?v=4"
+    },
+    "description": "Batch bird identification and screening with BioCLIP 2.5 and MegaDetector V6.",
+    "topics": [
+      "bioclip",
+      "bird-identification",
+      "birdwatching",
+      "computer-vision",
+      "megadetector",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/wings1023/BirdScan",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T14:21:33Z",
+    "updated_at": "2026-09-26T04:57:09Z",
+    "pushed_at": "2026-09-25T08:44:33Z"
+  },
+  {
+    "id": 1382899111,
+    "name": "drone-detection-eval",
+    "full_name": "darkanalytica1/drone-detection-eval",
+    "owner": {
+      "login": "darkanalytica1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105489962?v=4"
+    },
+    "description": "Evaluation harness for small-drone detection and tracking: recall by apparent target size, false alarms per hour, track hold and time to first detection. No dependencies, synthetic demo included.",
+    "topics": [
+      "computer-vision",
+      "counter-uas",
+      "drone-detection",
+      "evaluation",
+      "python"
+    ],
+    "html_url": "https://github.com/darkanalytica1/drone-detection-eval",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T06:39:17Z",
+    "updated_at": "2026-09-23T23:51:35Z",
+    "pushed_at": "2026-09-23T06:39:21Z"
+  },
+  {
+    "id": 1377352321,
+    "name": "RealTime-Attendance-System",
+    "full_name": "amitabhaGhorai/RealTime-Attendance-System",
+    "owner": {
+      "login": "amitabhaGhorai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191035355?v=4"
+    },
+    "description": "? Enterprise Real-Time Attendance Management System featuring Computer Vision (YuNet), Anti-Spoofing, WebSockets, FastAPI & React 18.",
+    "topics": [
+      "attendance-system",
+      "computer-vision",
+      "facial-recognition",
+      "fastapi",
+      "opencv",
+      "python",
+      "react",
+      "tailwind-css",
+      "websockets"
+    ],
+    "html_url": "https://github.com/amitabhaGhorai/RealTime-Attendance-System",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T16:03:30Z",
+    "updated_at": "2026-09-22T10:58:29Z",
+    "pushed_at": "2026-09-19T16:05:54Z"
+  }
+]

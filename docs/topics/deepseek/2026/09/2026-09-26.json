@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1383809012,
+    "name": "magpie",
+    "full_name": "yetone/magpie",
+    "owner": {
+      "login": "yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+    },
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "deepseek",
+      "gemini-cli",
+      "llm",
+      "macos"
+    ],
+    "html_url": "https://github.com/yetone/magpie",
+    "stargazers_count": 817,
+    "language": "Go",
+    "forks_count": 50,
+    "open_issues_count": 2,
+    "created_at": "2026-09-23T16:22:35Z",
+    "updated_at": "2026-09-26T05:32:31Z",
+    "pushed_at": "2026-09-26T05:09:24Z"
+  },
+  {
+    "id": 1385896447,
+    "name": "dsh-our-free-model",
+    "full_name": "zouyuxuan122/dsh-our-free-model",
+    "owner": {
+      "login": "zouyuxuan122",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245557608?v=4"
+    },
+    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "free-model",
+      "llm",
+      "model-provider",
+      "openai-compatible"
+    ],
+    "html_url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+    "stargazers_count": 138,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 1,
+    "created_at": "2026-09-24T16:17:19Z",
+    "updated_at": "2026-09-26T05:25:17Z",
+    "pushed_at": "2026-09-26T01:44:42Z"
+  },
+  {
+    "id": 1377893932,
+    "name": "jevcore",
+    "full_name": "PerryLink/jevcore",
+    "owner": {
+      "login": "PerryLink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255665900?v=4"
+    },
+    "description": "TypeSafe Jev for DeepSeek Harness, the Model Context Protocol, and plain Node: typed judgments instead of prose, offline by default.",
+    "topics": [
+      "ai-agents",
+      "cordis",
+      "decision-model",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "jev",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "system-one",
+      "typesafe",
+      "typesafe-jev",
+      "typescript"
+    ],
+    "html_url": "https://github.com/PerryLink/jevcore",
+    "stargazers_count": 36,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T04:11:31Z",
+    "updated_at": "2026-09-26T04:18:59Z",
+    "pushed_at": "2026-09-24T15:11:08Z"
+  },
+  {
+    "id": 1377264191,
+    "name": "Open-Pet-Office",
+    "full_name": "Gu-kai-lei/Open-Pet-Office",
+    "owner": {
+      "login": "Gu-kai-lei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214422313?v=4"
+    },
+    "description": "A visual multi-agent desktop for Codex: live tasks, shared projects, isolated Missions, and OpenCodex models on Windows.",
+    "topics": [
+      "agent-workflow",
+      "ai-agents",
+      "ai-orchestration",
+      "codex",
+      "codex-desktop",
+      "deepseek",
+      "desktop-app",
+      "desktop-pet",
+      "electron",
+      "multi-agent",
+      "opencodex",
+      "windows"
+    ],
+    "html_url": "https://github.com/Gu-kai-lei/Open-Pet-Office",
+    "stargazers_count": 34,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T14:40:45Z",
+    "updated_at": "2026-09-26T05:39:19Z",
+    "pushed_at": "2026-09-23T12:54:06Z"
+  },
+  {
+    "id": 1382292535,
+    "name": "dsh-jev-interceptor",
+    "full_name": "AskTheWay/dsh-jev-interceptor",
+    "owner": {
+      "login": "AskTheWay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87240969?v=4"
+    },
+    "description": "⚡ Millisecond System-1 judgement for every tool call in DeepSeek Harness — Jev-powered risk classification & evidence-gated auto-approval. Fail-closed by construction. dsh 生态第一个 System-1 决策插件",
+    "topics": [
+      "agent-harness",
+      "agentic-ai",
+      "ai-agents",
+      "ai-safety",
+      "decision-model",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "fast-inference",
+      "guardrails",
+      "jev",
+      "llm",
+      "plugin",
+      "prompt-injection",
+      "system-1",
+      "system-one",
+      "tool-calling",
+      "typesafe",
+      "typesafe-ai"
+    ],
+    "html_url": "https://github.com/AskTheWay/dsh-jev-interceptor",
+    "stargazers_count": 21,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T20:05:35Z",
+    "updated_at": "2026-09-26T00:43:43Z",
+    "pushed_at": "2026-09-25T09:32:27Z"
+  },
+  {
+    "id": 1380276592,
+    "name": "awesome-deepseek-code",
+    "full_name": "claude-code-plugins/awesome-deepseek-code",
+    "owner": {
+      "login": "claude-code-plugins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316117495?v=4"
+    },
+    "description": "Awesome list for deepseek code: Deep Code CLI docs, DeepSeek Coder on Ollama, API platform links and tools.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "deepseek",
+      "deepseek-code",
+      "deepseek-code-github",
+      "llm"
+    ],
+    "html_url": "https://github.com/claude-code-plugins/awesome-deepseek-code",
+    "stargazers_count": 16,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T18:00:47Z",
+    "updated_at": "2026-09-22T04:56:45Z",
+    "pushed_at": "2026-09-22T04:56:41Z"
+  },
+  {
+    "id": 1382865521,
+    "name": "nanoMuse",
+    "full_name": "nano-muse/nanoMuse",
+    "owner": {
+      "login": "nano-muse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332792686?v=4"
+    },
+    "description": "nanoMuse: a fully open-source, Muse-style personal agent for every device you own. One agent with a name and a face that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On your Android phone today, with your own model; the phone's screen as a hand, and your PC driven from the phone.",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "android",
+      "china",
+      "computer-use",
+      "cross-device",
+      "deepseek",
+      "gui-agent",
+      "llm",
+      "mcp",
+      "meta-muse",
+      "mobile-agent",
+      "muse-style",
+      "on-device",
+      "open-source",
+      "openai-compatible",
+      "openminis",
+      "personal-agent",
+      "qwen",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/nano-muse/nanoMuse",
+    "stargazers_count": 15,
+    "language": "Kotlin",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-09-23T06:13:06Z",
+    "updated_at": "2026-09-26T04:08:22Z",
+    "pushed_at": "2026-09-26T03:22:34Z"
+  },
+  {
+    "id": 1378191581,
+    "name": "dsh-bar-macos",
+    "full_name": "donald-trump86/dsh-bar-macos",
+    "owner": {
+      "login": "donald-trump86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99466727?v=4"
+    },
+    "description": "Native, ultra-lightweight macOS menu bar companion & quick launcher for DeepSeek Harness",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "macos",
+      "menubar",
+      "swift"
+    ],
+    "html_url": "https://github.com/donald-trump86/dsh-bar-macos",
+    "stargazers_count": 14,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-20T09:59:28Z",
+    "updated_at": "2026-09-25T07:31:15Z",
+    "pushed_at": "2026-09-23T23:52:10Z"
+  },
+  {
+    "id": 1380272725,
+    "name": "deepseek-code",
+    "full_name": "tiktok-transcript/deepseek-code",
+    "owner": {
+      "login": "tiktok-transcript",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316116039?v=4"
+    },
+    "description": "Practical guide to deepseek code: the Deep Code CLI for DeepSeek-V4 and DeepSeek Coder models on Ollama.",
+    "topics": [
+      "deepseek",
+      "deepseek-code",
+      "deepseek-code-github",
+      "guide",
+      "llm"
+    ],
+    "html_url": "https://github.com/tiktok-transcript/deepseek-code",
+    "stargazers_count": 13,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:58:25Z",
+    "updated_at": "2026-09-22T04:56:42Z",
+    "pushed_at": "2026-09-22T04:56:39Z"
+  },
+  {
+    "id": 1376697978,
+    "name": "qoder2api-hub",
+    "full_name": "shuishuipingan/qoder2api-hub",
+    "owner": {
+      "login": "shuishuipingan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146746206?v=4"
+    },
+    "description": "Qoder 国际国内双区多账号 OpenAI 兼容网关中枢 — COSY 签名推理、稳定设备指纹防风控、OAuth 设备授权免客户端登录、每日签到与 Pro 福利、后台定时调度器、Web 监控看板，支持 Codex / Claude Code 与标准 OpenAI 客户端",
+    "topics": [
+      "aliyun",
+      "api-gateway",
+      "claude-code",
+      "codex",
+      "dashboard",
+      "deepseek",
+      "llm-proxy",
+      "openai-api",
+      "python",
+      "qoder",
+      "qoder2api",
+      "qwen",
+      "reverse-proxy",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/shuishuipingan/qoder2api-hub",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 2,
+    "created_at": "2026-09-19T03:55:23Z",
+    "updated_at": "2026-09-25T22:13:04Z",
+    "pushed_at": "2026-09-19T03:55:30Z"
+  },
+  {
+    "id": 1376861123,
+    "name": "dsh-qoder-connect",
+    "full_name": "masknull/dsh-qoder-connect",
+    "owner": {
+      "login": "masknull",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94269485?v=4"
+    },
+    "description": "将 Qoder（国内版/国际版）以 PAT 接入 DeepSeek Harness —— 侧栏额度展示、上下文窗口切换、模型自由开关、每日自动签到。Qoder CN & Global models for DeepSeek Harness via PAT. 支持 DSH 0.1.5-rc.1+。",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "qoder",
+      "qoder-cn"
+    ],
+    "html_url": "https://github.com/masknull/dsh-qoder-connect",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T07:22:00Z",
+    "updated_at": "2026-09-25T11:36:04Z",
+    "pushed_at": "2026-09-25T11:36:00Z"
+  },
+  {
+    "id": 1380255854,
+    "name": "deepseek-cli",
+    "full_name": "kling-omni-dev/deepseek-cli",
+    "owner": {
+      "login": "kling-omni-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316116439?v=4"
+    },
+    "description": "Unofficial deepseek cli guide: install Deep Code, settings.json, deepseek-v4 models, reasoning effort, skills.",
+    "topics": [
+      "deepseek",
+      "deepseek-cli",
+      "deepseek-cli-github",
+      "guide",
+      "llm"
+    ],
+    "html_url": "https://github.com/kling-omni-dev/deepseek-cli",
+    "stargazers_count": 11,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:48:04Z",
+    "updated_at": "2026-09-22T04:53:46Z",
+    "pushed_at": "2026-09-22T04:53:42Z"
+  },
+  {
+    "id": 1379891939,
+    "name": "dsweb-proxy",
+    "full_name": "cv-superding/dsweb-proxy",
+    "owner": {
+      "login": "cv-superding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105969686?v=4"
+    },
+    "description": "网页版登录态 → OpenAI 兼容本地反代：DeepSeek / Qwen / Doubao 免费额度驱动 ZCode。Web login → OpenAI-compatible local API.",
+    "topics": [
+      "deepseek",
+      "doubao",
+      "llm",
+      "openai",
+      "openai-api",
+      "qwen",
+      "reverse-proxy",
+      "rust",
+      "tauri",
+      "typescript",
+      "windows"
+    ],
+    "html_url": "https://github.com/cv-superding/dsweb-proxy",
+    "stargazers_count": 10,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T14:19:18Z",
+    "updated_at": "2026-09-25T12:11:13Z",
+    "pushed_at": "2026-09-23T14:14:37Z"
+  },
+  {
+    "id": 1380241071,
+    "name": "awesome-deepseek-pricing",
+    "full_name": "kalodata-pricing/awesome-deepseek-pricing",
+    "owner": {
+      "login": "kalodata-pricing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316117488?v=4"
+    },
+    "description": "Awesome deepseek pricing: official rate tables, caching and rate-limit docs, independent calculators and alternatives.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "deepseek",
+      "deepseek-pricing",
+      "deepseek-pricing-github",
+      "llm"
+    ],
+    "html_url": "https://github.com/kalodata-pricing/awesome-deepseek-pricing",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:39:03Z",
+    "updated_at": "2026-09-22T04:55:33Z",
+    "pushed_at": "2026-09-22T04:55:29Z"
+  },
+  {
+    "id": 1380273023,
+    "name": "deepseek-code-examples",
+    "full_name": "x-api-dev/deepseek-code-examples",
+    "owner": {
+      "login": "x-api-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316117529?v=4"
+    },
+    "description": "Runnable deepseek code examples: Deep Code settings from env vars, DeepSeek Coder via Ollama in Python, JS and curl.",
+    "topics": [
+      "api-examples",
+      "deepseek",
+      "deepseek-code",
+      "deepseek-code-github",
+      "examples",
+      "llm"
+    ],
+    "html_url": "https://github.com/x-api-dev/deepseek-code-examples",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:58:36Z",
+    "updated_at": "2026-09-22T09:39:22Z",
+    "pushed_at": "2026-09-22T04:56:44Z"
+  },
+  {
+    "id": 1380256118,
+    "name": "awesome-deepseek-cli",
+    "full_name": "bagel-model-dev/awesome-deepseek-cli",
+    "owner": {
+      "login": "bagel-model-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316116533?v=4"
+    },
+    "description": "Awesome DeepSeek CLI: curated deepseek cli links - Deep Code docs, GitHub repos, DeepSeek platform, pricing, status.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "deepseek",
+      "deepseek-cli",
+      "deepseek-cli-github",
+      "llm"
+    ],
+    "html_url": "https://github.com/bagel-model-dev/awesome-deepseek-cli",
+    "stargazers_count": 9,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:48:14Z",
+    "updated_at": "2026-09-22T04:53:49Z",
+    "pushed_at": "2026-09-22T04:53:45Z"
+  },
+  {
+    "id": 1384544819,
+    "name": "pojia-breaker",
+    "full_name": "Justinuse1/pojia-breaker",
+    "owner": {
+      "login": "Justinuse1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122102111?v=4"
+    },
+    "description": "Chinese-first LLM jailbreak benchmark & red-team toolkit | 中文LLM安全评测框架 | by POJIA.AI",
+    "topics": [
+      "ai-safety",
+      "benchmark",
+      "chinese-nlp",
+      "deepseek",
+      "jailbreak",
+      "llm-evaluation",
+      "llm-security",
+      "prompt-injection",
+      "red-team",
+      "security-research"
+    ],
+    "html_url": "https://github.com/Justinuse1/pojia-breaker",
+    "stargazers_count": 9,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T03:17:53Z",
+    "updated_at": "2026-09-26T05:31:26Z",
+    "pushed_at": "2026-09-26T05:31:23Z"
+  },
+  {
+    "id": 1381430202,
+    "name": "dsh-auto-memory",
+    "full_name": "AskTheWay/dsh-auto-memory",
+    "owner": {
+      "login": "AskTheWay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87240969?v=4"
+    },
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into the system prompt. File-only, no external services.",
+    "topics": [
+      "agent-harness",
+      "agent-memory",
+      "ai-agent",
+      "ai-tools",
+      "auto-memory",
+      "claude-code",
+      "coding-agent",
+      "context-engineering",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "llm",
+      "llm-agent",
+      "memory",
+      "memory-system",
+      "npm-package",
+      "persistent-memory",
+      "plugin",
+      "typescript"
+    ],
+    "html_url": "https://github.com/AskTheWay/dsh-auto-memory",
+    "stargazers_count": 9,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-22T12:05:34Z",
+    "updated_at": "2026-09-26T03:51:08Z",
+    "pushed_at": "2026-09-25T20:28:48Z"
+  },
+  {
+    "id": 1381228784,
+    "name": "dsh-beyond-glass",
+    "full_name": "LeoEthanZ/dsh-beyond-glass",
+    "owner": {
+      "login": "LeoEthanZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74943390?v=4"
+    },
+    "description": "A three-column glass UI for deepseek-harness, delivered as installable packages instead of a fork.",
+    "topics": [
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "skin",
+      "theme",
+      "wallpaper"
+    ],
+    "html_url": "https://github.com/LeoEthanZ/dsh-beyond-glass",
+    "stargazers_count": 9,
+    "language": "HTML",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-09-22T09:50:53Z",
+    "updated_at": "2026-09-25T10:10:02Z",
+    "pushed_at": "2026-09-23T05:33:22Z"
+  },
+  {
+    "id": 1380241370,
+    "name": "deepseek-pricing-examples",
+    "full_name": "kling-omni-dev/deepseek-pricing-examples",
+    "owner": {
+      "login": "kling-omni-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316116439?v=4"
+    },
+    "description": "deepseek pricing examples: rate table, peak-hour detection, per-call cost estimate and an off-peak scheduler.",
+    "topics": [
+      "api-examples",
+      "deepseek",
+      "deepseek-pricing",
+      "deepseek-pricing-github",
+      "examples",
+      "llm"
+    ],
+    "html_url": "https://github.com/kling-omni-dev/deepseek-pricing-examples",
+    "stargazers_count": 7,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:39:13Z",
+    "updated_at": "2026-09-22T04:55:36Z",
+    "pushed_at": "2026-09-22T04:55:32Z"
+  }
+]

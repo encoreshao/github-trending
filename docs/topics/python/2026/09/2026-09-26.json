@@ -1,0 +1,590 @@
+[
+  {
+    "id": 1379929433,
+    "name": "jev-chat-windows",
+    "full_name": "jev-chat/jev-chat-windows",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+    "topics": [
+      "chat-assistant",
+      "jev",
+      "llm",
+      "local-first",
+      "ocr",
+      "privacy",
+      "pyqt",
+      "python",
+      "wechat",
+      "windows"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-windows",
+    "stargazers_count": 563,
+    "language": "Python",
+    "forks_count": 125,
+    "open_issues_count": 20,
+    "created_at": "2026-09-21T14:37:14Z",
+    "updated_at": "2026-09-26T05:23:58Z",
+    "pushed_at": "2026-09-24T16:30:54Z"
+  },
+  {
+    "id": 1379617146,
+    "name": "jev-chat-jarvis-mac",
+    "full_name": "jev-chat/jev-chat-jarvis-mac",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
+    "topics": [
+      "llm",
+      "local-first",
+      "macos",
+      "ocr",
+      "privacy",
+      "pyobjc",
+      "python"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+    "stargazers_count": 400,
+    "language": "Python",
+    "forks_count": 119,
+    "open_issues_count": 26,
+    "created_at": "2026-09-21T11:39:32Z",
+    "updated_at": "2026-09-26T05:09:23Z",
+    "pushed_at": "2026-09-25T16:14:55Z"
+  },
+  {
+    "id": 1388101598,
+    "name": "captcha-api",
+    "full_name": "jamespolyakov9829/captcha-api",
+    "owner": {
+      "login": "jamespolyakov9829",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306833571?v=4"
+    },
+    "description": "Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface, with cost tracking and concurrent batch solves.",
+    "topics": [
+      "api",
+      "automation",
+      "captcha",
+      "captcha-api",
+      "challenge",
+      "cloudflare",
+      "python",
+      "turnstile"
+    ],
+    "html_url": "https://github.com/jamespolyakov9829/captcha-api",
+    "stargazers_count": 263,
+    "language": "Python",
+    "forks_count": 37,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T19:27:22Z",
+    "updated_at": "2026-09-26T04:51:29Z",
+    "pushed_at": "2026-09-25T19:28:10Z"
+  },
+  {
+    "id": 1376771236,
+    "name": "yowes",
+    "full_name": "hirotomasato/yowes",
+    "owner": {
+      "login": "hirotomasato",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198351389?v=4"
+    },
+    "description": "Generate realistic teacher documents (ID cards, licenses, letters) for 13 countries via MCP.",
+    "topics": [
+      "agent",
+      "document-generator",
+      "mcp",
+      "model-context-protocol",
+      "pillow",
+      "python"
+    ],
+    "html_url": "https://github.com/hirotomasato/yowes",
+    "stargazers_count": 178,
+    "language": "Python",
+    "forks_count": 71,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T05:33:10Z",
+    "updated_at": "2026-09-26T01:08:39Z",
+    "pushed_at": "2026-09-19T05:47:51Z"
+  },
+  {
+    "id": 1377625921,
+    "name": "edge-scanner",
+    "full_name": "simonro/edge-scanner",
+    "owner": {
+      "login": "simonro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13911026?v=4"
+    },
+    "description": "Real-time intraday stock scanner for US equities with a browser dashboard you lay out yourself",
+    "topics": [
+      "alpaca",
+      "day-trading",
+      "fastapi",
+      "finance",
+      "market-data",
+      "python",
+      "react",
+      "realtime",
+      "schwab",
+      "stock-scanner",
+      "stocks",
+      "technical-analysis",
+      "trading",
+      "trading-tools",
+      "typescript",
+      "websocket"
+    ],
+    "html_url": "https://github.com/simonro/edge-scanner",
+    "stargazers_count": 98,
+    "language": "Python",
+    "forks_count": 27,
+    "open_issues_count": 13,
+    "created_at": "2026-09-19T21:23:46Z",
+    "updated_at": "2026-09-26T05:23:02Z",
+    "pushed_at": "2026-09-25T20:42:22Z"
+  },
+  {
+    "id": 1377426282,
+    "name": "grok-bot-jev",
+    "full_name": "Bodila51/grok-bot-jev",
+    "owner": {
+      "login": "Bodila51",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191466064?v=4"
+    },
+    "description": "Connect TypeSafe Jev to Grok Bot as a cheap decision layer - usage gates, skill template, examples",
+    "topics": [
+      "cursor",
+      "decision-layer",
+      "grok-bot",
+      "jev",
+      "python",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/Bodila51/grok-bot-jev",
+    "stargazers_count": 81,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 2,
+    "created_at": "2026-09-19T17:15:48Z",
+    "updated_at": "2026-09-25T11:50:03Z",
+    "pushed_at": "2026-09-20T00:13:31Z"
+  },
+  {
+    "id": 1378049185,
+    "name": "SlotDrift",
+    "full_name": "propavingk/SlotDrift",
+    "owner": {
+      "login": "propavingk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10768614?v=4"
+    },
+    "description": "Slot continuity and fork analysis for captured Solana slot records - gaps, skips, duplicate slots and orphaned branches, with an independent Rust engine.",
+    "topics": [
+      "blockchain",
+      "cli",
+      "continuity",
+      "data-analysis",
+      "developer-tools",
+      "forks",
+      "observability",
+      "python",
+      "replay",
+      "rust",
+      "slots",
+      "solana"
+    ],
+    "html_url": "https://github.com/propavingk/SlotDrift",
+    "stargazers_count": 65,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 2,
+    "created_at": "2026-09-20T07:14:19Z",
+    "updated_at": "2026-09-24T18:20:27Z",
+    "pushed_at": "2026-09-24T18:11:04Z"
+  },
+  {
+    "id": 1376934917,
+    "name": "ai-girlfriend-v2",
+    "full_name": "Work-Fisher/ai-girlfriend-v2",
+    "owner": {
+      "login": "Work-Fisher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203682585?v=4"
+    },
+    "description": "Windows AI companion with DSH long-term memory, local voice cloning and optional WSL2 digital human.",
+    "topics": [
+      "ai-companion",
+      "ai-girlfriend",
+      "digital-human",
+      "dsh",
+      "long-term-memory",
+      "python",
+      "speech-to-speech",
+      "voice-cloning",
+      "windows",
+      "wsl2"
+    ],
+    "html_url": "https://github.com/Work-Fisher/ai-girlfriend-v2",
+    "stargazers_count": 44,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T08:43:16Z",
+    "updated_at": "2026-09-25T23:18:51Z",
+    "pushed_at": "2026-09-19T12:24:11Z"
+  },
+  {
+    "id": 1377994507,
+    "name": "LMMOCK",
+    "full_name": "lewismosciski/LMMOCK",
+    "owner": {
+      "login": "lewismosciski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233926000?v=4"
+    },
+    "description": "A lightweight local mock LLM provider — deterministic OpenAI and Anthropic responses, with no API calls, no tokens, and no code changes.",
+    "topics": [
+      "agent-testing",
+      "ai-testing",
+      "anthropic",
+      "fastapi",
+      "llm",
+      "mock-server",
+      "openai",
+      "python"
+    ],
+    "html_url": "https://github.com/lewismosciski/LMMOCK",
+    "stargazers_count": 35,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T06:09:40Z",
+    "updated_at": "2026-09-24T16:38:40Z",
+    "pushed_at": "2026-09-22T07:14:33Z"
+  },
+  {
+    "id": 1382432537,
+    "name": "af-emulator",
+    "full_name": "armangido/af-emulator",
+    "owner": {
+      "login": "armangido",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42208098?v=4"
+    },
+    "description": "Unofficial Assault Fire PH preservation and server-emulation project with local VERSION/AUTH/DIR/ROLE/ZONE services, UE3 PvE research, tools, and documentation.",
+    "topics": [
+      "assault-fire",
+      "assault-fire-ph",
+      "game-preservation",
+      "game-server",
+      "legacy-games",
+      "legacy-games-emulator-windows",
+      "network-protocol",
+      "private-server",
+      "private-servers",
+      "python",
+      "reverse-engineering",
+      "server-emulator",
+      "ue3",
+      "unreal-engine-3"
+    ],
+    "html_url": "https://github.com/armangido/af-emulator",
+    "stargazers_count": 34,
+    "language": "Python",
+    "forks_count": 36,
+    "open_issues_count": 2,
+    "created_at": "2026-09-22T22:39:50Z",
+    "updated_at": "2026-09-25T21:21:49Z",
+    "pushed_at": "2026-09-25T20:42:30Z"
+  },
+  {
+    "id": 1378863809,
+    "name": "claude-vs-codex",
+    "full_name": "kirillshsh/claude-vs-codex",
+    "owner": {
+      "login": "kirillshsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227613149?v=4"
+    },
+    "description": "A 93-second pixel-art cartoon about Clawd and Codex, written entirely in code by Claude — one-shot, 1 user turn.",
+    "topics": [
+      "claude-code",
+      "generative-art",
+      "pixel-art",
+      "python"
+    ],
+    "html_url": "https://github.com/kirillshsh/claude-vs-codex",
+    "stargazers_count": 33,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T23:30:37Z",
+    "updated_at": "2026-09-23T11:03:42Z",
+    "pushed_at": "2026-09-20T23:30:42Z"
+  },
+  {
+    "id": 1378548877,
+    "name": "spark-image-lab",
+    "full_name": "joeynyc/spark-image-lab",
+    "owner": {
+      "login": "joeynyc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
+    },
+    "description": "Local image generation and editing for NVIDIA DGX Spark, powered by Qwen-Image-2.1 and Gradio.",
+    "topics": [
+      "dgx-spark",
+      "gb10",
+      "gradio",
+      "image-editing",
+      "image-generation",
+      "local-ai",
+      "nvidia",
+      "python",
+      "qwen-image"
+    ],
+    "html_url": "https://github.com/joeynyc/spark-image-lab",
+    "stargazers_count": 31,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T16:30:59Z",
+    "updated_at": "2026-09-24T06:00:14Z",
+    "pushed_at": "2026-09-21T06:54:09Z"
+  },
+  {
+    "id": 1384291789,
+    "name": "jev-judge-mcp",
+    "full_name": "PyModel/jev-judge-mcp",
+    "owner": {
+      "login": "PyModel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316629828?v=4"
+    },
+    "description": "Typed judgment tools for MCP agents. TypeSafe's Jev model as verify, screen, find, classify, rerank, decide, compare, extract, review, gate, and score: the model judges, policy decides auto, review, or escalate.",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "ai-guardrails",
+      "classification",
+      "claude-code",
+      "fact-checking",
+      "guardrails",
+      "llm",
+      "llm-as-a-judge",
+      "llm-evaluation",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "model-context-protocol",
+      "prompt-injection",
+      "python",
+      "reranking",
+      "structured-output",
+      "uv",
+      "verification"
+    ],
+    "html_url": "https://github.com/PyModel/jev-judge-mcp",
+    "stargazers_count": 29,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T22:48:43Z",
+    "updated_at": "2026-09-26T04:11:53Z",
+    "pushed_at": "2026-09-26T04:11:56Z"
+  },
+  {
+    "id": 1384367183,
+    "name": "vibecheck",
+    "full_name": "jlowin/vibecheck",
+    "owner": {
+      "login": "jlowin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153965?v=4"
+    },
+    "description": "✨✅ The easiest decisions your code will ever make.",
+    "topics": [
+      "ai",
+      "decision-model",
+      "jev",
+      "llm",
+      "python"
+    ],
+    "html_url": "https://github.com/jlowin/vibecheck",
+    "stargazers_count": 29,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T00:26:22Z",
+    "updated_at": "2026-09-26T03:06:15Z",
+    "pushed_at": "2026-09-24T20:06:55Z"
+  },
+  {
+    "id": 1377078474,
+    "name": "steam-controller-calibration",
+    "full_name": "omltcat/steam-controller-calibration",
+    "owner": {
+      "login": "omltcat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6239696?v=4"
+    },
+    "description": "Steam Controller Sticks Calibration Tool",
+    "topics": [
+      "calibration",
+      "gamepad",
+      "joystick",
+      "python",
+      "steam",
+      "steam-controller",
+      "steamcontroller",
+      "thumbstick"
+    ],
+    "html_url": "https://github.com/omltcat/steam-controller-calibration",
+    "stargazers_count": 28,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T11:35:40Z",
+    "updated_at": "2026-09-23T12:32:30Z",
+    "pushed_at": "2026-09-21T02:22:35Z"
+  },
+  {
+    "id": 1377812059,
+    "name": "Jev-Register-Tool",
+    "full_name": "2951461586/Jev-Register-Tool",
+    "owner": {
+      "login": "2951461586",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130810980?v=4"
+    },
+    "description": "TypeSafe（Jev / System One）申请 → 确认邮件 → 获批 → 注册 → 建 API Key 全链路工具，纯 HTTP 无浏览器",
+    "topics": [
+      "automation",
+      "cloudflare-workers",
+      "python",
+      "stytch",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/2951461586/Jev-Register-Tool",
+    "stargazers_count": 28,
+    "language": "Python",
+    "forks_count": 17,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T02:23:20Z",
+    "updated_at": "2026-09-24T22:26:47Z",
+    "pushed_at": "2026-09-22T05:17:11Z"
+  },
+  {
+    "id": 1378149911,
+    "name": "jevgraph",
+    "full_name": "chenmingtang830/jevgraph",
+    "owner": {
+      "login": "chenmingtang830",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94705252?v=4"
+    },
+    "description": "Evidence-backed knowledge graph construction with typed Jev relation decisions",
+    "topics": [
+      "information-extraction",
+      "jev",
+      "knowledge-graph",
+      "llm",
+      "python",
+      "relation-extraction"
+    ],
+    "html_url": "https://github.com/chenmingtang830/jevgraph",
+    "stargazers_count": 24,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-09-20T09:09:12Z",
+    "updated_at": "2026-09-25T15:54:13Z",
+    "pushed_at": "2026-09-20T21:00:13Z"
+  },
+  {
+    "id": 1381135467,
+    "name": "elasticemail-examples",
+    "full_name": "ElasticEmail/elasticemail-examples",
+    "owner": {
+      "login": "ElasticEmail",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26925596?v=4"
+    },
+    "description": "Real-world Elastic Email examples for transactional email, SMTP, webhooks, inbound email, contacts, serverless platforms and AI coding agents across 20+ languages and frameworks.",
+    "topics": [
+      "ai-agents",
+      "api-examples",
+      "claude-code",
+      "developer-tools",
+      "dotnet",
+      "elasticemail",
+      "email-api",
+      "go",
+      "inbound-email",
+      "laravel",
+      "mcp",
+      "nextjs",
+      "nodejs",
+      "php",
+      "python",
+      "serverless",
+      "smtp",
+      "transactional-email",
+      "webhooks"
+    ],
+    "html_url": "https://github.com/ElasticEmail/elasticemail-examples",
+    "stargazers_count": 22,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T08:39:24Z",
+    "updated_at": "2026-09-25T13:34:24Z",
+    "pushed_at": "2026-09-25T13:34:19Z"
+  },
+  {
+    "id": 1380206967,
+    "name": "jev-yaba-wechat",
+    "full_name": "wuxie888/jev-yaba-wechat",
+    "owner": {
+      "login": "wuxie888",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253228812?v=4"
+    },
+    "description": "微信里的话不知道怎么接？macOS 悬浮聊天助手：识别消息意图与沟通风险，GPT 生成多种话术，Jev 评估候选，一键填入微信。话我帮你想，发送你来定。",
+    "topics": [
+      "gpt",
+      "jev",
+      "macos",
+      "ocr",
+      "python",
+      "wechat"
+    ],
+    "html_url": "https://github.com/wuxie888/jev-yaba-wechat",
+    "stargazers_count": 22,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:18:13Z",
+    "updated_at": "2026-09-25T07:32:51Z",
+    "pushed_at": "2026-09-22T03:09:50Z"
+  },
+  {
+    "id": 1379229326,
+    "name": "laya-mps",
+    "full_name": "afshinm/laya-mps",
+    "owner": {
+      "login": "afshinm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314326?v=4"
+    },
+    "description": "Run Jev-style typed decisions locally on your Mac with low RAM usage and fast responses",
+    "topics": [
+      "ai",
+      "apple-silicon",
+      "decision-model",
+      "jev",
+      "laya",
+      "local-ai",
+      "local-llm",
+      "python",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/afshinm/laya-mps",
+    "stargazers_count": 22,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-09-21T06:49:44Z",
+    "updated_at": "2026-09-25T15:22:46Z",
+    "pushed_at": "2026-09-21T07:20:36Z"
+  }
+]
