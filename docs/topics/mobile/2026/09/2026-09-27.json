@@ -1,0 +1,563 @@
+[
+  {
+    "id": 1379048514,
+    "name": "react-native-two-app-split",
+    "full_name": "akavinashsingh/react-native-two-app-split",
+    "owner": {
+      "login": "akavinashsingh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176894840?v=4"
+    },
+    "description": "Field report: splitting one React Native app into two apps sharing a package. Metro duplicate instances, npm workspaces, native identity.",
+    "topics": [
+      "gradle",
+      "metro",
+      "metro-bundler",
+      "mobile",
+      "monorepo",
+      "npm-workspaces",
+      "react-native",
+      "react-native-monorepo"
+    ],
+    "html_url": "https://github.com/akavinashsingh/react-native-two-app-split",
+    "stargazers_count": 19,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T03:48:36Z",
+    "updated_at": "2026-09-22T13:43:36Z",
+    "pushed_at": "2026-09-21T04:00:55Z"
+  },
+  {
+    "id": 1383701317,
+    "name": "octane-xplat",
+    "full_name": "octane-xplat/octane-xplat",
+    "owner": {
+      "login": "octane-xplat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333074608?v=4"
+    },
+    "description": "A single Octane codebase targeting web + iOS/Android via NativeScript (@nativescript-community/octane). Platform divergence at file boundaries — published as @octane-xplat/ui.",
+    "topics": [
+      "android",
+      "cross-platform",
+      "ios",
+      "mobile",
+      "nativescript",
+      "octane",
+      "tsrx",
+      "typescript",
+      "ui-framework",
+      "vite"
+    ],
+    "html_url": "https://github.com/octane-xplat/octane-xplat",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-23T15:20:48Z",
+    "updated_at": "2026-09-26T23:05:32Z",
+    "pushed_at": "2026-09-26T23:05:27Z"
+  },
+  {
+    "id": 1381600142,
+    "name": "he4rt-app",
+    "full_name": "he4rt/he4rt-app",
+    "owner": {
+      "login": "he4rt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47680810?v=4"
+    },
+    "description": "Projeto da He4rt feito em NativePHP",
+    "topics": [
+      "he4rt",
+      "laravel",
+      "mobile",
+      "nativephp",
+      "php"
+    ],
+    "html_url": "https://github.com/he4rt/he4rt-app",
+    "stargazers_count": 4,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-22T13:31:03Z",
+    "updated_at": "2026-09-24T01:02:59Z",
+    "pushed_at": "2026-09-24T01:54:22Z"
+  },
+  {
+    "id": 1380026886,
+    "name": "Z-Sync",
+    "full_name": "Kjell6/Z-Sync",
+    "owner": {
+      "login": "Kjell6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143009706?v=4"
+    },
+    "description": "A companion App for your tabs and spaces.",
+    "topics": [
+      "android",
+      "companion",
+      "firefox",
+      "firefox-sync",
+      "ios",
+      "jetpack-compose",
+      "kotlin",
+      "mobile",
+      "mozilla",
+      "swift",
+      "swiftui",
+      "sync",
+      "zen",
+      "zen-browser"
+    ],
+    "html_url": "https://github.com/Kjell6/Z-Sync",
+    "stargazers_count": 2,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-21T15:32:19Z",
+    "updated_at": "2026-09-24T15:22:40Z",
+    "pushed_at": "2026-09-23T11:13:35Z"
+  },
+  {
+    "id": 1379985380,
+    "name": "dsh-pager",
+    "full_name": "wg5759/dsh-pager",
+    "owner": {
+      "login": "wg5759",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146909377?v=4"
+    },
+    "description": "DeepSeek Harness 的手机寻呼机：33 KB 安卓 App + DSH 插件。后台提醒、通知栏直接审批、服务端折叠省流量。A pager for DeepSeek Harness (unofficial).",
+    "topics": [
+      "android",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "mobile",
+      "notifications",
+      "remote-access"
+    ],
+    "html_url": "https://github.com/wg5759/dsh-pager",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T15:07:04Z",
+    "updated_at": "2026-09-24T07:09:26Z",
+    "pushed_at": "2026-09-24T07:09:22Z"
+  },
+  {
+    "id": 1377893339,
+    "name": "Coin-Toss-App",
+    "full_name": "Arjun-mepcocse/Coin-Toss-App",
+    "owner": {
+      "login": "Arjun-mepcocse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176139947?v=4"
+    },
+    "description": "Developed a Java-based Android Coin Toss application using Android Studio, implementing random outcome generation, event handling, UI design, and user interaction. Built a responsive interface with Heads/Tails functionality, demonstrating Android development, Java programming, and application testing skills.",
+    "topics": [
+      "android-studio",
+      "java",
+      "mobile",
+      "mobile-app",
+      "mobile-application",
+      "mobile-apps",
+      "mobile-development",
+      "xml"
+    ],
+    "html_url": "https://github.com/Arjun-mepcocse/Coin-Toss-App",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T04:10:48Z",
+    "updated_at": "2026-09-20T15:23:41Z",
+    "pushed_at": "2026-09-20T14:34:47Z"
+  },
+  {
+    "id": 1385667568,
+    "name": "jev-chat-jarvis",
+    "full_name": "SanHsien/jev-chat-jarvis",
+    "owner": {
+      "login": "SanHsien",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34234698?v=4"
+    },
+    "description": "裝在手機上的「對話副駕」：讀取最新訊息、AI 分析意圖並建議回覆，一鍵填入聊天輸入框。｜A conversation co-pilot on your phone: analyzes incoming messages, suggests replies, and fills them into chat apps.",
+    "topics": [
+      "ai-assistant",
+      "chat",
+      "mobile",
+      "python",
+      "reply-suggestion"
+    ],
+    "html_url": "https://github.com/SanHsien/jev-chat-jarvis",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T14:18:38Z",
+    "updated_at": "2026-09-26T10:01:51Z",
+    "pushed_at": "2026-09-26T10:02:04Z"
+  },
+  {
+    "id": 1378166322,
+    "name": "Nodewatch",
+    "full_name": "dberry03/Nodewatch",
+    "owner": {
+      "login": "dberry03",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312410576?v=4"
+    },
+    "description": "Gather / Slay / Chores",
+    "topics": [
+      "automation",
+      "game",
+      "mobile"
+    ],
+    "html_url": "https://github.com/dberry03/Nodewatch",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T09:28:25Z",
+    "updated_at": "2026-09-26T06:18:11Z",
+    "pushed_at": "2026-09-26T06:18:07Z"
+  },
+  {
+    "id": 1389831475,
+    "name": "better-export-pdf-mobile",
+    "full_name": "anishgoyal1108/better-export-pdf-mobile",
+    "owner": {
+      "login": "anishgoyal1108",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90469168?v=4"
+    },
+    "description": "Export Obsidian notes to PDF on iPad, Android and desktop without Electron",
+    "topics": [
+      "mobile",
+      "mobile-development",
+      "obsidian",
+      "obsidian-plugin",
+      "obsidian-plugins",
+      "pdf"
+    ],
+    "html_url": "https://github.com/anishgoyal1108/better-export-pdf-mobile",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T22:10:00Z",
+    "updated_at": "2026-09-27T00:20:48Z",
+    "pushed_at": "2026-09-27T00:17:35Z"
+  },
+  {
+    "id": 1378657909,
+    "name": "BroImOnMyPhone",
+    "full_name": "X86Max/BroImOnMyPhone",
+    "owner": {
+      "login": "X86Max",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58748971?v=4"
+    },
+    "description": "Spoof mobile browser signals and request headers using selectable device profiles. 📱",
+    "topics": [
+      "browser-extension",
+      "chrome-extension",
+      "javascript",
+      "manifest-v3",
+      "mobile",
+      "useragent"
+    ],
+    "html_url": "https://github.com/X86Max/BroImOnMyPhone",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-20T18:29:58Z",
+    "updated_at": "2026-09-20T23:03:39Z",
+    "pushed_at": "2026-09-20T18:33:38Z"
+  },
+  {
+    "id": 1380672496,
+    "name": "ollama-classe-a-plus",
+    "full_name": "DZ23-LTDA/ollama-classe-a-plus",
+    "owner": {
+      "login": "DZ23-LTDA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289050297?v=4"
+    },
+    "description": "Ollama Classe A+ — runtime agentic local-first com multi-provider, Claude/Codex/OmniRoute/xAI adapters, browser/computer use, Company OS/Growth sandbox, builders, MCP/plugins/skills lifecycle, approvals e hardening enterprise",
+    "topics": [
+      "agentic",
+      "browser-automation",
+      "builders",
+      "developer-tools",
+      "local-llm",
+      "mcp",
+      "mobile",
+      "multi-agent",
+      "ollama"
+    ],
+    "html_url": "https://github.com/DZ23-LTDA/ollama-classe-a-plus",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 16,
+    "created_at": "2026-09-22T00:16:01Z",
+    "updated_at": "2026-09-25T01:09:05Z",
+    "pushed_at": "2026-09-26T12:09:07Z"
+  },
+  {
+    "id": 1383265478,
+    "name": "expo-template-titan",
+    "full_name": "HuyThang011104/expo-template-titan",
+    "owner": {
+      "login": "HuyThang011104",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179694247?v=4"
+    },
+    "description": "Expo boilerplate to ship production apps fast",
+    "topics": [
+      "android",
+      "boilerplate",
+      "expo",
+      "ios",
+      "mobile",
+      "native",
+      "react-native",
+      "template",
+      "typescript"
+    ],
+    "html_url": "https://github.com/HuyThang011104/expo-template-titan",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-09-23T11:03:03Z",
+    "updated_at": "2026-09-25T11:40:49Z",
+    "pushed_at": "2026-09-25T11:40:44Z"
+  },
+  {
+    "id": 1382923388,
+    "name": "unity-development-showcase",
+    "full_name": "CipherCoders/unity-development-showcase",
+    "owner": {
+      "login": "CipherCoders",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332782054?v=4"
+    },
+    "description": "A showcase of Cipher Coders' Unity development capabilities, systems, prototypes and technical expertise.",
+    "topics": [
+      "csharp",
+      "game",
+      "game-development",
+      "gameplay-programming",
+      "mobile",
+      "mobile-game",
+      "unity",
+      "unity3d"
+    ],
+    "html_url": "https://github.com/CipherCoders/unity-development-showcase",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T06:57:55Z",
+    "updated_at": "2026-09-23T08:48:28Z",
+    "pushed_at": "2026-09-23T06:59:01Z"
+  },
+  {
+    "id": 1386176142,
+    "name": "panorail",
+    "full_name": "33rd-kk/panorail",
+    "owner": {
+      "login": "33rd-kk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57621929?v=4"
+    },
+    "description": "Swipe, pinch and zoom image viewer for galleries — a thin, framework-agnostic layer over PhotoSwipe 5.",
+    "topics": [
+      "gallery",
+      "image-viewer",
+      "lightbox",
+      "mobile",
+      "photoswipe",
+      "pinch-zoom",
+      "swipe"
+    ],
+    "html_url": "https://github.com/33rd-kk/panorail",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T18:42:22Z",
+    "updated_at": "2026-09-24T20:39:11Z",
+    "pushed_at": "2026-09-24T20:39:07Z"
+  },
+  {
+    "id": 1388081148,
+    "name": "jevtest",
+    "full_name": "Just-Betr/jevtest",
+    "owner": {
+      "login": "Just-Betr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188273327?v=4"
+    },
+    "description": "Plain-English end-to-end tests for Android and iOS apps, driven by TypeSafe's Jev. Deterministic, strict, CI-ready.",
+    "topics": [
+      "ai",
+      "android",
+      "cli",
+      "e2e-testing",
+      "flutter",
+      "ios",
+      "mobile",
+      "testing",
+      "webview",
+      "xcuitest"
+    ],
+    "html_url": "https://github.com/Just-Betr/jevtest",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T19:07:34Z",
+    "updated_at": "2026-09-26T21:03:21Z",
+    "pushed_at": "2026-09-26T21:04:07Z"
+  },
+  {
+    "id": 1379507332,
+    "name": "BlockFall",
+    "full_name": "dagrigorev/BlockFall",
+    "owner": {
+      "login": "dagrigorev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36516717?v=4"
+    },
+    "description": "BlockBlast inspired game for iOS",
+    "topics": [
+      "block",
+      "blockfall",
+      "brick",
+      "game",
+      "gaming",
+      "ios",
+      "ios-game",
+      "mobile",
+      "mobilegame",
+      "swift",
+      "xcode"
+    ],
+    "html_url": "https://github.com/dagrigorev/BlockFall",
+    "stargazers_count": 0,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T10:22:49Z",
+    "updated_at": "2026-09-21T10:29:06Z",
+    "pushed_at": "2026-09-21T10:27:38Z"
+  },
+  {
+    "id": 1382322105,
+    "name": "BeaconScout-Mobile",
+    "full_name": "Maz29v1/BeaconScout-Mobile",
+    "owner": {
+      "login": "Maz29v1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197199420?v=4"
+    },
+    "description": "PlayBeacon Mobile Companion 2026: Best Roblox Game Discovery App for Teens on iOS and Android",
+    "topics": [
+      "expo",
+      "firebase",
+      "game-discovery",
+      "mobile",
+      "mobile-app",
+      "react-native",
+      "roblox",
+      "roblox-games",
+      "teens",
+      "watchlight-interactive"
+    ],
+    "html_url": "https://github.com/Maz29v1/BeaconScout-Mobile",
+    "stargazers_count": 0,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T20:30:50Z",
+    "updated_at": "2026-09-26T23:58:57Z",
+    "pushed_at": "2026-09-26T23:58:54Z"
+  },
+  {
+    "id": 1383056714,
+    "name": "DARK-VVPN",
+    "full_name": "NOVA-X-PANEL/DARK-VVPN",
+    "owner": {
+      "login": "NOVA-X-PANEL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329881915?v=4"
+    },
+    "description": "DARK VVPN — a modern Android VPN client built with Kotlin and Jetpack Compose.",
+    "topics": [
+      "android",
+      "dark-theme",
+      "jetpack-compose",
+      "kotlin",
+      "material3",
+      "mobile",
+      "vpn",
+      "vpn-client",
+      "vpnservice"
+    ],
+    "html_url": "https://github.com/NOVA-X-PANEL/DARK-VVPN",
+    "stargazers_count": 0,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T08:28:16Z",
+    "updated_at": "2026-09-23T17:42:11Z",
+    "pushed_at": "2026-09-23T17:42:07Z"
+  },
+  {
+    "id": 1387845680,
+    "name": "Atlas",
+    "full_name": "MdSadman2004/Atlas",
+    "owner": {
+      "login": "MdSadman2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201715987?v=4"
+    },
+    "description": "Autonomous on-device Android agent: 49 tools, accessibility screen control, autonomous goals, memory, skills and sub-agents, powered by the CommandCode API",
+    "topics": [
+      "accessibility-service",
+      "ai-agent",
+      "android",
+      "autonomous-agents",
+      "deepseek",
+      "jetpack-compose",
+      "kotlin",
+      "llm",
+      "mobile",
+      "on-device-ai"
+    ],
+    "html_url": "https://github.com/MdSadman2004/Atlas",
+    "stargazers_count": 0,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T16:13:31Z",
+    "updated_at": "2026-09-25T16:27:36Z",
+    "pushed_at": "2026-09-25T16:27:32Z"
+  },
+  {
+    "id": 1386013903,
+    "name": "Pedali",
+    "full_name": "NikitaBerezhnyj/Pedali",
+    "owner": {
+      "login": "NikitaBerezhnyj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97048105?v=4"
+    },
+    "description": "A mobile app for tracking cycling rides with GPS, distance, speed, and ride statistics.",
+    "topics": [
+      "android",
+      "dart",
+      "flutter",
+      "ios",
+      "mobile"
+    ],
+    "html_url": "https://github.com/NikitaBerezhnyj/Pedali",
+    "stargazers_count": 0,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T17:13:47Z",
+    "updated_at": "2026-09-25T18:34:53Z",
+    "pushed_at": "2026-09-26T19:00:29Z"
+  }
+]
