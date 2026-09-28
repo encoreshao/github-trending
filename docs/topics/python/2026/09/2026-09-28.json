@@ -1,0 +1,608 @@
+[
+  {
+    "id": 1379929433,
+    "name": "jev-chat-windows",
+    "full_name": "jev-chat/jev-chat-windows",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+    "topics": [
+      "chat-assistant",
+      "jev",
+      "llm",
+      "local-first",
+      "ocr",
+      "privacy",
+      "pyqt",
+      "python",
+      "wechat",
+      "windows"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-windows",
+    "stargazers_count": 615,
+    "language": "Python",
+    "forks_count": 138,
+    "open_issues_count": 24,
+    "created_at": "2026-09-21T14:37:14Z",
+    "updated_at": "2026-09-28T01:28:28Z",
+    "pushed_at": "2026-09-24T16:30:54Z"
+  },
+  {
+    "id": 1379617146,
+    "name": "jev-chat-jarvis-mac",
+    "full_name": "jev-chat/jev-chat-jarvis-mac",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
+    "topics": [
+      "llm",
+      "local-first",
+      "macos",
+      "ocr",
+      "privacy",
+      "pyobjc",
+      "python"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+    "stargazers_count": 420,
+    "language": "Python",
+    "forks_count": 121,
+    "open_issues_count": 24,
+    "created_at": "2026-09-21T11:39:32Z",
+    "updated_at": "2026-09-28T01:40:32Z",
+    "pushed_at": "2026-09-26T13:37:19Z"
+  },
+  {
+    "id": 1388101598,
+    "name": "captcha-api",
+    "full_name": "jamespolyakov9829/captcha-api",
+    "owner": {
+      "login": "jamespolyakov9829",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306833571?v=4"
+    },
+    "description": "Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface, with cost tracking and concurrent batch solves.",
+    "topics": [
+      "api",
+      "automation",
+      "captcha",
+      "captcha-api",
+      "challenge",
+      "cloudflare",
+      "python",
+      "turnstile"
+    ],
+    "html_url": "https://github.com/jamespolyakov9829/captcha-api",
+    "stargazers_count": 264,
+    "language": "Python",
+    "forks_count": 37,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T19:27:22Z",
+    "updated_at": "2026-09-27T11:49:25Z",
+    "pushed_at": "2026-09-25T19:28:10Z"
+  },
+  {
+    "id": 1385658451,
+    "name": "interp-rpc",
+    "full_name": "agentscope-ai-java/interp-rpc",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Typed RPC over a warm pool of PEP 734 subinterpreters — real parallelism, real error propagation, no hanging calls.",
+    "topics": [
+      "concurrency",
+      "parallelism",
+      "pep734",
+      "python",
+      "subinterpreters",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/interp-rpc",
+    "stargazers_count": 72,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T14:14:25Z",
+    "updated_at": "2026-09-27T20:07:53Z",
+    "pushed_at": "2026-09-24T14:14:31Z"
+  },
+  {
+    "id": 1382432537,
+    "name": "af-emulator",
+    "full_name": "armangido/af-emulator",
+    "owner": {
+      "login": "armangido",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42208098?v=4"
+    },
+    "description": "Unofficial Assault Fire PH preservation and server-emulation project with local VERSION/AUTH/DIR/ROLE/ZONE services, UE3 PvE research, tools, and documentation.",
+    "topics": [
+      "assault-fire",
+      "assault-fire-ph",
+      "game-preservation",
+      "game-server",
+      "legacy-games",
+      "legacy-games-emulator-windows",
+      "network-protocol",
+      "private-server",
+      "private-servers",
+      "python",
+      "reverse-engineering",
+      "server-emulator",
+      "ue3",
+      "unreal-engine-3"
+    ],
+    "html_url": "https://github.com/armangido/af-emulator",
+    "stargazers_count": 38,
+    "language": "Python",
+    "forks_count": 38,
+    "open_issues_count": 4,
+    "created_at": "2026-09-22T22:39:50Z",
+    "updated_at": "2026-09-28T01:58:17Z",
+    "pushed_at": "2026-09-28T01:58:13Z"
+  },
+  {
+    "id": 1389632574,
+    "name": "openhouse-3d",
+    "full_name": "yunfanye/openhouse-3d",
+    "owner": {
+      "login": "yunfanye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16141135?v=4"
+    },
+    "description": "Turn real-estate listing photos into a 3D house model and a cinematic walkthrough video. Photo camera solving, procedural Blender (bpy) modeling, virtual staging, headless Cycles rendering and photo-vs-render comparison films.",
+    "topics": [
+      "3d-reconstruction",
+      "3d-rendering",
+      "3d-walkthrough",
+      "architectural-visualization",
+      "archviz",
+      "blender",
+      "blender-python",
+      "bpy",
+      "camera-calibration",
+      "cycles",
+      "headless-rendering",
+      "house-tour",
+      "listing-photos",
+      "photo-to-3d",
+      "procedural-generation",
+      "python",
+      "real-estate",
+      "video-generation",
+      "virtual-staging",
+      "virtual-tour"
+    ],
+    "html_url": "https://github.com/yunfanye/openhouse-3d",
+    "stargazers_count": 36,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T18:15:21Z",
+    "updated_at": "2026-09-27T23:13:26Z",
+    "pushed_at": "2026-09-26T18:18:41Z"
+  },
+  {
+    "id": 1389373301,
+    "name": "beamer",
+    "full_name": "kalkman-code/beamer",
+    "owner": {
+      "login": "kalkman-code",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323331398?v=4"
+    },
+    "description": "One keyboard and mouse for a Mac and a Windows PC over the local network, in either direction.",
+    "topics": [
+      "clipboard-sync",
+      "keyboard-sharing",
+      "macos",
+      "mouse-sharing",
+      "python",
+      "software-kvm",
+      "windows"
+    ],
+    "html_url": "https://github.com/kalkman-code/beamer",
+    "stargazers_count": 35,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-09-26T14:56:42Z",
+    "updated_at": "2026-09-28T00:35:45Z",
+    "pushed_at": "2026-09-27T20:11:45Z"
+  },
+  {
+    "id": 1384367183,
+    "name": "vibecheck",
+    "full_name": "jlowin/vibecheck",
+    "owner": {
+      "login": "jlowin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153965?v=4"
+    },
+    "description": "✨✅ The easiest decisions your code will ever make.",
+    "topics": [
+      "ai",
+      "decision-model",
+      "jev",
+      "llm",
+      "python"
+    ],
+    "html_url": "https://github.com/jlowin/vibecheck",
+    "stargazers_count": 34,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T00:26:22Z",
+    "updated_at": "2026-09-28T01:26:10Z",
+    "pushed_at": "2026-09-24T20:06:55Z"
+  },
+  {
+    "id": 1384291789,
+    "name": "jev-judge-mcp",
+    "full_name": "PyModel/jev-judge-mcp",
+    "owner": {
+      "login": "PyModel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316629828?v=4"
+    },
+    "description": "Typed judgment tools for MCP agents. TypeSafe's Jev model as verify, screen, find, classify, rerank, decide, compare, extract, review, gate, and score: the model judges, policy decides auto, review, or escalate.",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "ai-guardrails",
+      "classification",
+      "claude-code",
+      "fact-checking",
+      "guardrails",
+      "llm",
+      "llm-as-a-judge",
+      "llm-evaluation",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "model-context-protocol",
+      "prompt-injection",
+      "python",
+      "reranking",
+      "structured-output",
+      "uv",
+      "verification"
+    ],
+    "html_url": "https://github.com/PyModel/jev-judge-mcp",
+    "stargazers_count": 29,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T22:48:43Z",
+    "updated_at": "2026-09-26T23:32:16Z",
+    "pushed_at": "2026-09-26T23:32:57Z"
+  },
+  {
+    "id": 1387683906,
+    "name": "neural-network-digits",
+    "full_name": "dev-luigi/neural-network-digits",
+    "owner": {
+      "login": "dev-luigi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70869541?v=4"
+    },
+    "description": "Neural network from scratch in pure Python + NumPy that recognises handwritten digits (MNIST), with an educational GUI: watch it learn, tweak it while it trains, look inside every layer.",
+    "topics": [
+      "backpropagation",
+      "deep-learning",
+      "educational",
+      "from-scratch",
+      "handwritten-digit-recognition",
+      "machine-learning",
+      "matplotlib",
+      "mnist",
+      "neural-network",
+      "numpy",
+      "python",
+      "tkinter"
+    ],
+    "html_url": "https://github.com/dev-luigi/neural-network-digits",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T14:40:10Z",
+    "updated_at": "2026-09-27T22:56:24Z",
+    "pushed_at": "2026-09-27T04:46:35Z"
+  },
+  {
+    "id": 1389087492,
+    "name": "upi-zero-link",
+    "full_name": "wangshen233/upi-zero-link",
+    "owner": {
+      "login": "wangshen233",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113179042?v=4"
+    },
+    "description": "India Rs.0 UPI Autopay mandate link extractor - protocol-level, no browser. 印度 ₹0 UPI 委托链提取器（纯协议实现）",
+    "topics": [
+      "autopay",
+      "cli",
+      "protocol",
+      "python",
+      "stripe",
+      "upi"
+    ],
+    "html_url": "https://github.com/wangshen233/upi-zero-link",
+    "stargazers_count": 24,
+    "language": "Python",
+    "forks_count": 25,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T11:26:47Z",
+    "updated_at": "2026-09-27T16:26:23Z",
+    "pushed_at": "2026-09-27T10:44:42Z"
+  },
+  {
+    "id": 1380206967,
+    "name": "jev-yaba-wechat",
+    "full_name": "wuxie888/jev-yaba-wechat",
+    "owner": {
+      "login": "wuxie888",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253228812?v=4"
+    },
+    "description": "微信里的话不知道怎么接？macOS 悬浮聊天助手：识别消息意图与沟通风险，GPT 生成多种话术，Jev 评估候选，一键填入微信。话我帮你想，发送你来定。",
+    "topics": [
+      "gpt",
+      "jev",
+      "macos",
+      "ocr",
+      "python",
+      "wechat"
+    ],
+    "html_url": "https://github.com/wuxie888/jev-yaba-wechat",
+    "stargazers_count": 23,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T17:18:13Z",
+    "updated_at": "2026-09-27T14:24:53Z",
+    "pushed_at": "2026-09-22T03:09:50Z"
+  },
+  {
+    "id": 1381135467,
+    "name": "elasticemail-examples",
+    "full_name": "ElasticEmail/elasticemail-examples",
+    "owner": {
+      "login": "ElasticEmail",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26925596?v=4"
+    },
+    "description": "Real-world Elastic Email examples for transactional email, SMTP, webhooks, inbound email, contacts, serverless platforms and AI coding agents across 20+ languages and frameworks.",
+    "topics": [
+      "ai-agents",
+      "api-examples",
+      "claude-code",
+      "developer-tools",
+      "dotnet",
+      "elasticemail",
+      "email-api",
+      "go",
+      "inbound-email",
+      "laravel",
+      "mcp",
+      "nextjs",
+      "nodejs",
+      "php",
+      "python",
+      "serverless",
+      "smtp",
+      "transactional-email",
+      "webhooks"
+    ],
+    "html_url": "https://github.com/ElasticEmail/elasticemail-examples",
+    "stargazers_count": 22,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T08:39:24Z",
+    "updated_at": "2026-09-25T13:34:24Z",
+    "pushed_at": "2026-09-25T13:34:19Z"
+  },
+  {
+    "id": 1379229326,
+    "name": "laya-mps",
+    "full_name": "afshinm/laya-mps",
+    "owner": {
+      "login": "afshinm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314326?v=4"
+    },
+    "description": "Run Jev-style typed decisions locally on your Mac with low RAM usage and fast responses",
+    "topics": [
+      "ai",
+      "apple-silicon",
+      "decision-model",
+      "jev",
+      "laya",
+      "local-ai",
+      "local-llm",
+      "python",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/afshinm/laya-mps",
+    "stargazers_count": 22,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-09-21T06:49:44Z",
+    "updated_at": "2026-09-25T15:22:46Z",
+    "pushed_at": "2026-09-21T07:20:36Z"
+  },
+  {
+    "id": 1388296227,
+    "name": "Agentic-AI-Design-Patterns",
+    "full_name": "Muhannad-Khaled/Agentic-AI-Design-Patterns",
+    "owner": {
+      "login": "Muhannad-Khaled",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119460687?v=4"
+    },
+    "description": "The 21 agentic AI design patterns from Antonio Gulli's book, explained in Egyptian Arabic — with framework-free, runnable Python examples.",
+    "topics": [
+      "agentic-ai",
+      "agentic-ai-development",
+      "ai-agents",
+      "arabic",
+      "design-patterns",
+      "llm",
+      "open-source",
+      "python"
+    ],
+    "html_url": "https://github.com/Muhannad-Khaled/Agentic-AI-Design-Patterns",
+    "stargazers_count": 21,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T23:47:38Z",
+    "updated_at": "2026-09-28T00:01:10Z",
+    "pushed_at": "2026-09-25T23:53:54Z"
+  },
+  {
+    "id": 1385461593,
+    "name": "proxy-scraper",
+    "full_name": "maximilianfeix/proxy-scraper",
+    "owner": {
+      "login": "maximilianfeix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223365242?v=4"
+    },
+    "description": "Free proxies that actually work: 700+ sources, every hit verified (honeypots, injected scripts, TLS), a live list every hour, a rotating proxy server and an MCP server for AI agents.",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "discord-bot",
+      "free-proxy",
+      "hacktoberfest",
+      "honeypot-detection",
+      "http-proxy",
+      "mcp",
+      "mcp-server",
+      "proxy",
+      "proxy-checker",
+      "proxy-list",
+      "proxy-scraper",
+      "proxy-server",
+      "python",
+      "rotating-proxy",
+      "scraper",
+      "socks4",
+      "socks5",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/maximilianfeix/proxy-scraper",
+    "stargazers_count": 21,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 2,
+    "created_at": "2026-09-24T12:33:28Z",
+    "updated_at": "2026-09-27T23:14:09Z",
+    "pushed_at": "2026-09-28T01:52:20Z"
+  },
+  {
+    "id": 1386680481,
+    "name": "duckdb-extension-audit",
+    "full_name": "agentscope-ai-java/duckdb-extension-audit",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Audit which DuckDB extensions a project loads, their origin and signature state, and flag unsigned loading.",
+    "topics": [
+      "audit",
+      "duckdb",
+      "extensions",
+      "python",
+      "security",
+      "supply-chain"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/duckdb-extension-audit",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T03:32:27Z",
+    "updated_at": "2026-09-26T19:19:03Z",
+    "pushed_at": "2026-09-25T03:32:32Z"
+  },
+  {
+    "id": 1387401263,
+    "name": "sqlite-fts5-check",
+    "full_name": "agentscope-ai-java/sqlite-fts5-check",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Detect drift between a SQLite FTS5 index and its content table, which integrity-check does not catch.",
+    "topics": [
+      "database",
+      "fts5",
+      "full-text-search",
+      "python",
+      "sqlite",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/sqlite-fts5-check",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T11:56:33Z",
+    "updated_at": "2026-09-25T15:01:41Z",
+    "pushed_at": "2026-09-25T11:56:37Z"
+  },
+  {
+    "id": 1380889904,
+    "name": "steam-live-charts",
+    "full_name": "Mocas-12/steam-live-charts",
+    "owner": {
+      "login": "Mocas-12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193058671?v=4"
+    },
+    "description": "Real-time Steam game leaderboards (最热游玩 · 热销 · 特惠 · 新品 · 免费游戏 · 限时免费) — live player counts, CNY prices & deals, auto-refresh every 60s.",
+    "topics": [
+      "charts",
+      "dashboard",
+      "data-visualization",
+      "fastapi",
+      "game-deals",
+      "gaming",
+      "leaderboard",
+      "python",
+      "real-time",
+      "steam",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/Mocas-12/steam-live-charts",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T04:48:18Z",
+    "updated_at": "2026-09-28T01:30:05Z",
+    "pushed_at": "2026-09-27T19:28:26Z"
+  },
+  {
+    "id": 1387400722,
+    "name": "redis-guard",
+    "full_name": "agentscope-ai-java/redis-guard",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Block FLUSHALL, KEYS and other dangerous Redis commands by policy, before they reach production.",
+    "topics": [
+      "guard",
+      "operations",
+      "python",
+      "redis",
+      "safety",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/redis-guard",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T11:56:12Z",
+    "updated_at": "2026-09-26T19:18:57Z",
+    "pushed_at": "2026-09-25T11:56:17Z"
+  }
+]

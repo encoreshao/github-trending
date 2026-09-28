@@ -1,0 +1,622 @@
+[
+  {
+    "id": 1383809012,
+    "name": "magpie",
+    "full_name": "yetone/magpie",
+    "owner": {
+      "login": "yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+    },
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "deepseek",
+      "gemini-cli",
+      "llm",
+      "macos"
+    ],
+    "html_url": "https://github.com/yetone/magpie",
+    "stargazers_count": 1267,
+    "language": "Go",
+    "forks_count": 70,
+    "open_issues_count": 2,
+    "created_at": "2026-09-23T16:22:35Z",
+    "updated_at": "2026-09-28T01:54:59Z",
+    "pushed_at": "2026-09-28T01:32:19Z"
+  },
+  {
+    "id": 1383518430,
+    "name": "golive-skill",
+    "full_name": "mikehasa/golive-skill",
+    "owner": {
+      "login": "mikehasa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91774998?v=4"
+    },
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "cloudflare",
+      "codex",
+      "database",
+      "deployment",
+      "developer-tools",
+      "devops",
+      "dns",
+      "godaddy",
+      "hosting",
+      "infrastructure",
+      "neon",
+      "netlify",
+      "porkbun",
+      "skills",
+      "supabase",
+      "vercel"
+    ],
+    "html_url": "https://github.com/mikehasa/golive-skill",
+    "stargazers_count": 1014,
+    "language": "TypeScript",
+    "forks_count": 75,
+    "open_issues_count": 1,
+    "created_at": "2026-09-23T13:37:26Z",
+    "updated_at": "2026-09-28T01:32:26Z",
+    "pushed_at": "2026-09-27T05:07:13Z"
+  },
+  {
+    "id": 1388482474,
+    "name": "jevgrep",
+    "full_name": "dzhng/jevgrep",
+    "owner": {
+      "login": "dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+    },
+    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "topics": [
+      "ai-sdk",
+      "claude-code",
+      "cli",
+      "code-search",
+      "codex",
+      "coding-agents",
+      "context-retrieval",
+      "developer-tools",
+      "jev",
+      "semantic-search",
+      "typescript",
+      "vercel-ai-gateway"
+    ],
+    "html_url": "https://github.com/dzhng/jevgrep",
+    "stargazers_count": 789,
+    "language": "TypeScript",
+    "forks_count": 48,
+    "open_issues_count": 5,
+    "created_at": "2026-09-26T04:06:56Z",
+    "updated_at": "2026-09-28T01:58:22Z",
+    "pushed_at": "2026-09-28T00:35:23Z"
+  },
+  {
+    "id": 1381356320,
+    "name": "anidoodle",
+    "full_name": "alexgreensh/anidoodle",
+    "owner": {
+      "login": "alexgreensh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210140430?v=4"
+    },
+    "description": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
+    "topics": [
+      "agent-skills",
+      "animation",
+      "canvas",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills",
+      "codex-plugin",
+      "creative-code",
+      "creative-coding",
+      "creative-tools",
+      "deterministic",
+      "generative-art",
+      "hand-drawn",
+      "illustration",
+      "plugin",
+      "procedural-generation",
+      "skill"
+    ],
+    "html_url": "https://github.com/alexgreensh/anidoodle",
+    "stargazers_count": 569,
+    "language": "TypeScript",
+    "forks_count": 47,
+    "open_issues_count": 4,
+    "created_at": "2026-09-22T11:20:47Z",
+    "updated_at": "2026-09-28T01:58:57Z",
+    "pushed_at": "2026-09-27T21:41:56Z"
+  },
+  {
+    "id": 1389011744,
+    "name": "lemo-opuscar",
+    "full_name": "lemomo-ai/lemo-opuscar",
+    "owner": {
+      "login": "lemomo-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97503247?v=4"
+    },
+    "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+    "topics": [
+      "ai-agents",
+      "ai-video",
+      "animation",
+      "canvas",
+      "claude",
+      "claude-code",
+      "creative-coding",
+      "ffmpeg",
+      "filmmaking",
+      "motion-graphics",
+      "prompt-library",
+      "text-to-speech",
+      "threejs",
+      "video-production",
+      "webgl"
+    ],
+    "html_url": "https://github.com/lemomo-ai/lemo-opuscar",
+    "stargazers_count": 364,
+    "language": "JavaScript",
+    "forks_count": 45,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T10:10:41Z",
+    "updated_at": "2026-09-28T01:53:16Z",
+    "pushed_at": "2026-09-27T03:53:03Z"
+  },
+  {
+    "id": 1386061631,
+    "name": "zh-tech-writing",
+    "full_name": "leter/zh-tech-writing",
+    "owner": {
+      "login": "leter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13078495?v=4"
+    },
+    "description": "写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+    "topics": [
+      "agent-skills",
+      "chinese",
+      "claude-code",
+      "documentation",
+      "style-guide",
+      "technical-writing"
+    ],
+    "html_url": "https://github.com/leter/zh-tech-writing",
+    "stargazers_count": 293,
+    "language": null,
+    "forks_count": 13,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T17:37:46Z",
+    "updated_at": "2026-09-28T01:43:06Z",
+    "pushed_at": "2026-09-24T17:49:53Z"
+  },
+  {
+    "id": 1382304020,
+    "name": "riso-windowseat",
+    "full_name": "sevenevesai/riso-windowseat",
+    "owner": {
+      "login": "sevenevesai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191101445?v=4"
+    },
+    "description": "Procedural risograph films in single HTML files (Window Seat, Roost and more), with the Claude Code skills, docs and tools to make your own.",
+    "topics": [
+      "canvas",
+      "claude-code",
+      "claude-code-skills",
+      "creative-coding",
+      "generative-art",
+      "procedural-animation",
+      "riso",
+      "risograph",
+      "web-audio"
+    ],
+    "html_url": "https://github.com/sevenevesai/riso-windowseat",
+    "stargazers_count": 235,
+    "language": "HTML",
+    "forks_count": 25,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T20:14:59Z",
+    "updated_at": "2026-09-28T00:59:32Z",
+    "pushed_at": "2026-09-25T00:01:29Z"
+  },
+  {
+    "id": 1380950524,
+    "name": "Intent-Router",
+    "full_name": "angel291592/Intent-Router",
+    "owner": {
+      "login": "angel291592",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206995683?v=4"
+    },
+    "description": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
+    "topics": [
+      "agent-skills",
+      "agentic",
+      "ai-agents",
+      "clarification",
+      "claude-code",
+      "codex",
+      "context-engineering",
+      "decision-model",
+      "intent",
+      "llm-routing",
+      "prompt-engineering",
+      "skill",
+      "system-one",
+      "typed-decisions"
+    ],
+    "html_url": "https://github.com/angel291592/Intent-Router",
+    "stargazers_count": 177,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 2,
+    "created_at": "2026-09-22T06:00:27Z",
+    "updated_at": "2026-09-28T01:58:46Z",
+    "pushed_at": "2026-09-27T10:05:00Z"
+  },
+  {
+    "id": 1387365303,
+    "name": "saas-motion-kit",
+    "full_name": "tugrawork-creator/saas-motion-kit",
+    "owner": {
+      "login": "tugrawork-creator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319556794?v=4"
+    },
+    "description": "Promo & motion videos for software products with HyperFrames + Claude Code. No two films should feel the same: tone matrix, variety audit, 24-transition atlas, 100 storyboard themes.",
+    "topics": [
+      "claude-code",
+      "hyperframes",
+      "motion-design",
+      "saas",
+      "storyboard",
+      "video"
+    ],
+    "html_url": "https://github.com/tugrawork-creator/saas-motion-kit",
+    "stargazers_count": 131,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T11:35:57Z",
+    "updated_at": "2026-09-27T19:25:05Z",
+    "pushed_at": "2026-09-26T07:03:44Z"
+  },
+  {
+    "id": 1379046284,
+    "name": "builder",
+    "full_name": "HeyPuter/builder",
+    "owner": {
+      "login": "HeyPuter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103972607?v=4"
+    },
+    "description": "📦✨ AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms.",
+    "topics": [
+      "ai-agents",
+      "ai-builder",
+      "app-builder",
+      "base44",
+      "bolt",
+      "claude-code",
+      "codex",
+      "lovable",
+      "opencode",
+      "replit",
+      "v0"
+    ],
+    "html_url": "https://github.com/HeyPuter/builder",
+    "stargazers_count": 130,
+    "language": "JavaScript",
+    "forks_count": 32,
+    "open_issues_count": 1,
+    "created_at": "2026-09-21T03:45:45Z",
+    "updated_at": "2026-09-27T12:21:40Z",
+    "pushed_at": "2026-09-26T02:15:38Z"
+  },
+  {
+    "id": 1382777337,
+    "name": "wow-ai",
+    "full_name": "chelinho139/wow-ai",
+    "owner": {
+      "login": "chelinho139",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7676795?v=4"
+    },
+    "description": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)",
+    "topics": [
+      "ai",
+      "claude-code",
+      "wow"
+    ],
+    "html_url": "https://github.com/chelinho139/wow-ai",
+    "stargazers_count": 109,
+    "language": "JavaScript",
+    "forks_count": 20,
+    "open_issues_count": 1,
+    "created_at": "2026-09-23T04:57:34Z",
+    "updated_at": "2026-09-27T22:09:47Z",
+    "pushed_at": "2026-09-27T20:42:30Z"
+  },
+  {
+    "id": 1385750356,
+    "name": "paperclip-guide",
+    "full_name": "theNetworkChuck/paperclip-guide",
+    "owner": {
+      "login": "theNetworkChuck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47433490?v=4"
+    },
+    "description": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
+    "topics": [
+      "ai-agents",
+      "ai-company",
+      "claude-code",
+      "codex",
+      "flare",
+      "hermes",
+      "homelab",
+      "networkchuck",
+      "paperclip"
+    ],
+    "html_url": "https://github.com/theNetworkChuck/paperclip-guide",
+    "stargazers_count": 97,
+    "language": "TypeScript",
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T15:00:59Z",
+    "updated_at": "2026-09-27T22:03:01Z",
+    "pushed_at": "2026-09-24T15:02:21Z"
+  },
+  {
+    "id": 1381397567,
+    "name": "jevmem",
+    "full_name": "Avinash-jetwani/jevmem",
+    "owner": {
+      "login": "Avinash-jetwani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56384605?v=4"
+    },
+    "description": "Automatic project memory for Claude Code. Also works with Cursor and Codex.",
+    "topics": [
+      "ai-memory",
+      "claude-code",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "jev",
+      "mcp",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/Avinash-jetwani/jevmem",
+    "stargazers_count": 92,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 7,
+    "created_at": "2026-09-22T11:47:24Z",
+    "updated_at": "2026-09-27T22:49:35Z",
+    "pushed_at": "2026-09-27T22:49:31Z"
+  },
+  {
+    "id": 1387019363,
+    "name": "motion-video-skill",
+    "full_name": "bestagentkits/motion-video-skill",
+    "owner": {
+      "login": "bestagentkits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277952553?v=4"
+    },
+    "description": "Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
+    "topics": [
+      "agent-skills",
+      "beat-sync",
+      "chatgpt-plugins",
+      "claude-code",
+      "claude-plugin",
+      "codex",
+      "gsap",
+      "hyperframes",
+      "motion-graphics",
+      "video"
+    ],
+    "html_url": "https://github.com/bestagentkits/motion-video-skill",
+    "stargazers_count": 90,
+    "language": "JavaScript",
+    "forks_count": 30,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T07:35:18Z",
+    "updated_at": "2026-09-28T01:51:26Z",
+    "pushed_at": "2026-09-25T07:36:40Z"
+  },
+  {
+    "id": 1388304414,
+    "name": "building-with-typesafe-jev",
+    "full_name": "aaddrick/building-with-typesafe-jev",
+    "owner": {
+      "login": "aaddrick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22264982?v=4"
+    },
+    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "calibration",
+      "classification",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "claude-code-skills",
+      "codex-cli",
+      "gemini-cli",
+      "guardrails",
+      "jev",
+      "llm",
+      "llm-tools",
+      "prompt-engineering",
+      "structured-output",
+      "system-one",
+      "typesafe",
+      "typesafe-ai"
+    ],
+    "html_url": "https://github.com/aaddrick/building-with-typesafe-jev",
+    "stargazers_count": 87,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 1,
+    "created_at": "2026-09-26T00:01:19Z",
+    "updated_at": "2026-09-28T00:23:12Z",
+    "pushed_at": "2026-09-28T01:58:39Z"
+  },
+  {
+    "id": 1379093818,
+    "name": "html-explainer",
+    "full_name": "OneMoh/html-explainer",
+    "owner": {
+      "login": "OneMoh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108119530?v=4"
+    },
+    "description": "把一个主题做成有配音、字幕、封面的讲解分析类视频 —— 全本地、用 HTML 写画面，稳定音画同步。 面向 AI 编程智能体的确定性 HTML → MP4 渲染流水线。",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "claude-code",
+      "claude-code-skill",
+      "claude-code-skills",
+      "codex",
+      "codex-skill",
+      "codex-skills",
+      "explainer-video",
+      "explainer-videos",
+      "html-to-video",
+      "text-to-speech",
+      "tts",
+      "video-generation",
+      "workbuddy",
+      "workbuddy-skill",
+      "workbuddy-skills"
+    ],
+    "html_url": "https://github.com/OneMoh/html-explainer",
+    "stargazers_count": 77,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 1,
+    "created_at": "2026-09-21T04:42:31Z",
+    "updated_at": "2026-09-27T15:06:00Z",
+    "pushed_at": "2026-09-27T07:25:22Z"
+  },
+  {
+    "id": 1387763129,
+    "name": "quicksilver",
+    "full_name": "UditAkhourii/quicksilver",
+    "owner": {
+      "login": "UditAkhourii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156824020?v=4"
+    },
+    "description": "Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "jev",
+      "llm",
+      "skill",
+      "tokens",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/UditAkhourii/quicksilver",
+    "stargazers_count": 73,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T15:20:46Z",
+    "updated_at": "2026-09-28T00:55:42Z",
+    "pushed_at": "2026-09-25T15:20:51Z"
+  },
+  {
+    "id": 1387387974,
+    "name": "SeeCut",
+    "full_name": "YeJe-cpu/SeeCut",
+    "owner": {
+      "login": "YeJe-cpu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237224701?v=4"
+    },
+    "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
+    "topics": [
+      "agent-skill",
+      "ai-avatar",
+      "ai-video",
+      "claude-code",
+      "gemini",
+      "heygen",
+      "hyperframes",
+      "talking-head",
+      "video-editing"
+    ],
+    "html_url": "https://github.com/YeJe-cpu/SeeCut",
+    "stargazers_count": 72,
+    "language": "JavaScript",
+    "forks_count": 14,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T11:48:27Z",
+    "updated_at": "2026-09-28T01:52:58Z",
+    "pushed_at": "2026-09-27T13:46:48Z"
+  },
+  {
+    "id": 1382991317,
+    "name": "jianhao-travel-planner",
+    "full_name": "awangwang123/jianhao-travel-planner",
+    "owner": {
+      "login": "awangwang123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282191155?v=4"
+    },
+    "description": "出行路书工作流 skill：联网实查 + 多源交叉验证，产出可核验、能执行的旅行攻略。覆盖吃住行游拍避全维度，附美食情报卡、基准骨架与校验工具，支持一键部署在线版。",
+    "topics": [
+      "ai-agent",
+      "chinese",
+      "claude",
+      "claude-code",
+      "commons",
+      "itinerary",
+      "travel-guide",
+      "travel-planner",
+      "trip-planning"
+    ],
+    "html_url": "https://github.com/awangwang123/jianhao-travel-planner",
+    "stargazers_count": 69,
+    "language": "HTML",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T07:43:09Z",
+    "updated_at": "2026-09-28T01:49:06Z",
+    "pushed_at": "2026-09-26T13:12:52Z"
+  },
+  {
+    "id": 1388372309,
+    "name": "brewreel",
+    "full_name": "Finderchangchang/brewreel",
+    "owner": {
+      "login": "Finderchangchang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7477876?v=4"
+    },
+    "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "llm",
+      "promo-video",
+      "remotion",
+      "short-video",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/Finderchangchang/brewreel",
+    "stargazers_count": 69,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T01:52:24Z",
+    "updated_at": "2026-09-28T01:40:31Z",
+    "pushed_at": "2026-09-27T11:01:47Z"
+  }
+]

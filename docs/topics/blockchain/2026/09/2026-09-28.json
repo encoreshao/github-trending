@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1381916762,
+    "name": "bnb-agent-chain",
+    "full_name": "BnbAgentChainL2/bnb-agent-chain",
+    "owner": {
+      "login": "BnbAgentChainL2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332520371?v=4"
+    },
+    "description": "A chain for agents, on BNB Smart Chain. Genesis carries three system contracts and three neutral tools — Multicall3, a CREATE2 deployer and Wrapped BAC. Every token, pool and market beyond that is deployed by an agent. Agents never sleep, so they find each other's contracts in seconds. Pre-launch: nothing is deployed.",
+    "topics": [
+      "a2a",
+      "ai-agents",
+      "besu",
+      "blockchain",
+      "bnb-chain",
+      "erc-8004",
+      "ethereum",
+      "foundry",
+      "qbft",
+      "solidity"
+    ],
+    "html_url": "https://github.com/BnbAgentChainL2/bnb-agent-chain",
+    "stargazers_count": 78,
+    "language": "JavaScript",
+    "forks_count": 57,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T16:19:25Z",
+    "updated_at": "2026-09-27T17:22:37Z",
+    "pushed_at": "2026-09-23T13:29:08Z"
+  },
+  {
+    "id": 1379547345,
+    "name": "monero-web-wallet",
+    "full_name": "AMLChecker/monero-web-wallet",
+    "owner": {
+      "login": "AMLChecker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196173917?v=4"
+    },
+    "description": "Self-hosted, non-custodial Monero (XMR) web wallet: dark responsive UI on top of the official monero-wallet-rpc. Keys stay on your machine, two-phase sending with explicit fee review, Windows quick start.",
+    "topics": [
+      "anonymity",
+      "blockchain",
+      "crypto",
+      "cryptocurrency",
+      "express",
+      "json-rpc",
+      "monero",
+      "monero-wallet",
+      "nodejs",
+      "non-custodial",
+      "open-source",
+      "privacy",
+      "react",
+      "self-hosted",
+      "tailwindcss",
+      "typescript",
+      "vite",
+      "wallet",
+      "web-wallet",
+      "xmr"
+    ],
+    "html_url": "https://github.com/AMLChecker/monero-web-wallet",
+    "stargazers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-09-21T10:53:14Z",
+    "updated_at": "2026-09-21T17:27:33Z",
+    "pushed_at": "2026-09-21T17:29:57Z"
+  },
+  {
+    "id": 1381898187,
+    "name": "wdk-policy-guard",
+    "full_name": "FlashyLabs/wdk-policy-guard",
+    "owner": {
+      "login": "FlashyLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121371508?v=4"
+    },
+    "description": "⚡ A spending-policy layer for wallets on Tether's WDK: per-agent envelopes graded before anything signs — asset, destination, per-transaction and daily caps. Three verdicts, always with a reason: ALLOW, ESCALATE, DENY. Apache-2.0 — npm install @flashy/wdk-policy-guard. The policy is open; the money it guards is not.",
+    "topics": [
+      "agent-infra",
+      "agent-infrastructure",
+      "ai-agents",
+      "blockchain",
+      "blockchain-wallet",
+      "crypto",
+      "cryptocurrency",
+      "cryptowallet",
+      "fintech",
+      "javascript",
+      "nodejs",
+      "open-source",
+      "policy-engine",
+      "security",
+      "spending-limits",
+      "tether",
+      "wallet",
+      "wdk",
+      "web3",
+      "web3-wallet"
+    ],
+    "html_url": "https://github.com/FlashyLabs/wdk-policy-guard",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-22T16:08:56Z",
+    "updated_at": "2026-09-27T23:58:16Z",
+    "pushed_at": "2026-09-23T08:20:00Z"
+  },
+  {
+    "id": 1381899085,
+    "name": "wdk-staking-kit",
+    "full_name": "FlashyLabs/wdk-staking-kit",
+    "owner": {
+      "login": "FlashyLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121371508?v=4"
+    },
+    "description": "⚡ A reference staking primitive for wallets on Tether's WDK: a lock earmarks a balance at a published rate, no on-chain contract required — only yield, paid on close, ever moves. Apache-2.0 — npm install @flashy/wdk-staking-kit. The terms are open; the balance they lock is not.",
+    "topics": [
+      "blockchain",
+      "blockchain-technology",
+      "blockchain-tool",
+      "crypto-wallet-ui",
+      "defi",
+      "defi-automation",
+      "fintech",
+      "javascript",
+      "nodejs",
+      "open-source",
+      "security",
+      "staking-crypto",
+      "tether",
+      "wallet",
+      "wdk",
+      "web3",
+      "yield"
+    ],
+    "html_url": "https://github.com/FlashyLabs/wdk-staking-kit",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-22T16:09:25Z",
+    "updated_at": "2026-09-27T23:57:45Z",
+    "pushed_at": "2026-09-23T07:02:49Z"
+  },
+  {
+    "id": 1379975971,
+    "name": "flashyos-wdk",
+    "full_name": "FlashyLabs/flashyos-wdk",
+    "owner": {
+      "login": "FlashyLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121371508?v=4"
+    },
+    "description": "⚡ Governed economic agency for autonomous agents on Tether's WDK: an authorization plane, an isolated signer that re-derives every call, one agent object behind them. Testnets only, by decision — no flag widens it. Apache-2.0 — npm install && npm test. The mirror is public; the plane behind it is not.",
+    "topics": [
+      "aao",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "blockchain",
+      "blockchain-technology",
+      "flashyos",
+      "open-source",
+      "opensource",
+      "typescript",
+      "wdk",
+      "web3"
+    ],
+    "html_url": "https://github.com/FlashyLabs/flashyos-wdk",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-09-21T15:01:50Z",
+    "updated_at": "2026-09-27T23:57:41Z",
+    "pushed_at": "2026-09-23T07:07:34Z"
+  },
+  {
+    "id": 1385957307,
+    "name": "Awesome-Food-Traceability",
+    "full_name": "ishandutta2007/Awesome-Food-Traceability",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top Food Traceability (Opensource) 🌟 Star if you like it! 🌟",
+    "topics": [
+      "awesome-list",
+      "blockchain",
+      "curated-list",
+      "food-safety",
+      "supply-chain",
+      "traceability"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-Food-Traceability",
+    "stargazers_count": 5,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T16:45:29Z",
+    "updated_at": "2026-09-25T09:37:24Z",
+    "pushed_at": "2026-09-24T23:52:14Z"
+  },
+  {
+    "id": 1386266780,
+    "name": "MiniEVM",
+    "full_name": "AstraeusZhao/MiniEVM",
+    "owner": {
+      "login": "AstraeusZhao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191604365?v=4"
+    },
+    "description": "A compact Ethereum Virtual Machine implementation in Rust",
+    "topics": [
+      "blockchain",
+      "ethereum",
+      "ethereum-virtual-machine",
+      "evm",
+      "rust",
+      "smart-contracts",
+      "virtual-machine",
+      "web3"
+    ],
+    "html_url": "https://github.com/AstraeusZhao/MiniEVM",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T19:42:33Z",
+    "updated_at": "2026-09-25T01:56:28Z",
+    "pushed_at": "2026-09-25T01:55:42Z"
+  },
+  {
+    "id": 1382650724,
+    "name": "ICfirewall",
+    "full_name": "iTechBod/ICfirewall",
+    "owner": {
+      "login": "iTechBod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39212695?v=4"
+    },
+    "description": "Zero-Trust Relay firewall & Security Dashboard for local AI(odysseus) on the Internet Computer blockchain",
+    "topics": [
+      "ai-firewall",
+      "blockchain",
+      "canister",
+      "css",
+      "dfinity",
+      "html",
+      "icp",
+      "javascript",
+      "local-ai",
+      "local-llm",
+      "localhost",
+      "motoko",
+      "odysseus",
+      "python",
+      "shortcuts",
+      "web3"
+    ],
+    "html_url": "https://github.com/iTechBod/ICfirewall",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T03:08:50Z",
+    "updated_at": "2026-09-26T19:30:47Z",
+    "pushed_at": "2026-09-23T05:41:45Z"
+  },
+  {
+    "id": 1389634632,
+    "name": "OpenCasp-KYC",
+    "full_name": "armanmamyan/OpenCasp-KYC",
+    "owner": {
+      "login": "armanmamyan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30312706?v=4"
+    },
+    "description": "An open-source Node.js module that serves as a reference for how KYC data should be named, stored, kept and logged under Armenian rules",
+    "topics": [
+      "blockchain",
+      "government",
+      "kyc",
+      "kyc-api",
+      "kyc-integrations",
+      "kyc-platform",
+      "kyc-service",
+      "kyc-verification",
+      "regulation",
+      "regulations",
+      "regulations-gov"
+    ],
+    "html_url": "https://github.com/armanmamyan/OpenCasp-KYC",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T18:17:07Z",
+    "updated_at": "2026-09-26T19:08:02Z",
+    "pushed_at": "2026-09-26T18:23:27Z"
+  },
+  {
+    "id": 1390136927,
+    "name": "FUNDCHAIN-SERVER",
+    "full_name": "AmalGeorge-lab/FUNDCHAIN-SERVER",
+    "owner": {
+      "login": "AmalGeorge-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172288192?v=4"
+    },
+    "description": "Backend server for FundChain, a blockchain-powered platform for secure, transparent, and decentralized fund management. Built with Node.js, Express, and MongoDB, with APIs supporting authentication, campaign management, and blockchain-based transactions.",
+    "topics": [
+      "blockchain",
+      "cors-proxy",
+      "ethers",
+      "expressjs",
+      "javascript",
+      "jwt-authentication",
+      "mongodb",
+      "mongoose",
+      "nodejs",
+      "nonce",
+      "rest-api"
+    ],
+    "html_url": "https://github.com/AmalGeorge-lab/FUNDCHAIN-SERVER",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T04:50:03Z",
+    "updated_at": "2026-09-27T07:50:53Z",
+    "pushed_at": "2026-09-27T04:51:59Z"
+  },
+  {
+    "id": 1381591520,
+    "name": "p2p-fintech-architecture",
+    "full_name": "userifw/p2p-fintech-architecture",
+    "owner": {
+      "login": "userifw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143777793?v=4"
+    },
+    "description": "Architecture case study of a production P2P FinTech platform: ledgers, balance reservation, idempotency, TON/Jetton operations, reconciliation and failure recovery.",
+    "topics": [
+      "api",
+      "blockchain",
+      "docker",
+      "fintech",
+      "idempotency",
+      "laravel",
+      "ledger",
+      "p2p",
+      "payments",
+      "php",
+      "ton",
+      "web3"
+    ],
+    "html_url": "https://github.com/userifw/p2p-fintech-architecture",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T13:26:16Z",
+    "updated_at": "2026-09-26T18:42:01Z",
+    "pushed_at": "2026-09-22T13:28:15Z"
+  },
+  {
+    "id": 1379902209,
+    "name": "hh-cpp",
+    "full_name": "censync/hh-cpp",
+    "owner": {
+      "login": "censync",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66122005?v=4"
+    },
+    "description": "Humanized Hash for C++: an address or hash as a small picture to compare at a glance. Reference implementation and specification",
+    "topics": [
+      "address-poisoning",
+      "blockchain",
+      "colour-blind-safe",
+      "cplusplus",
+      "cpp",
+      "cpp17",
+      "identicon",
+      "security",
+      "visual-hash"
+    ],
+    "html_url": "https://github.com/censync/hh-cpp",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T14:24:31Z",
+    "updated_at": "2026-09-25T14:49:15Z",
+    "pushed_at": "2026-09-25T14:49:11Z"
+  },
+  {
+    "id": 1381068364,
+    "name": "ExposureGuard",
+    "full_name": "zhefengsai/ExposureGuard",
+    "owner": {
+      "login": "zhefengsai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223130649?v=4"
+    },
+    "description": "ExposureGuard: aggregate exposure bounds for cross-chain routes sharing a verification root",
+    "topics": [
+      "blockchain",
+      "cross-chain",
+      "research-artifact",
+      "solidity",
+      "systems-security"
+    ],
+    "html_url": "https://github.com/zhefengsai/ExposureGuard",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T07:45:36Z",
+    "updated_at": "2026-09-25T07:25:30Z",
+    "pushed_at": "2026-09-25T07:25:26Z"
+  },
+  {
+    "id": 1380413196,
+    "name": "plainchain",
+    "full_name": "behrouzbk/plainchain",
+    "owner": {
+      "login": "behrouzbk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4347845?v=4"
+    },
+    "description": "A complete Layer 1 blockchain node you can read in an afternoon: proof of work or proof of authority, UTXO ledger, SPV wallet, Docker/Kubernetes. TypeScript, no blockchain SDKs, 576 tests.",
+    "topics": [
+      "blockchain",
+      "consortium-blockchain",
+      "kubernetes",
+      "layer-1",
+      "nodejs",
+      "proof-of-authority",
+      "proof-of-work",
+      "typescript",
+      "utxo"
+    ],
+    "html_url": "https://github.com/behrouzbk/plainchain",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-21T19:29:43Z",
+    "updated_at": "2026-09-26T03:27:32Z",
+    "pushed_at": "2026-09-26T03:27:29Z"
+  },
+  {
+    "id": 1380064651,
+    "name": "vargamesh-core",
+    "full_name": "ati1993de/vargamesh-core",
+    "owner": {
+      "login": "ati1993de",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176231901?v=4"
+    },
+    "description": "VargaMesh Core - reference full-node implementation for the VMESH network",
+    "topics": [
+      "auxpow",
+      "blockchain",
+      "cryptocurrency",
+      "proof-of-work",
+      "vargamesh"
+    ],
+    "html_url": "https://github.com/ati1993de/vargamesh-core",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T15:55:09Z",
+    "updated_at": "2026-09-27T21:37:56Z",
+    "pushed_at": "2026-09-27T21:37:52Z"
+  },
+  {
+    "id": 1386607012,
+    "name": "eld-tendermint",
+    "full_name": "eldnetwork/eld-tendermint",
+    "owner": {
+      "login": "eldnetwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210210623?v=4"
+    },
+    "description": "Eld packaging of Tendermint Core v0.34.24 (consensus engine for eld-chain)",
+    "topics": [
+      "blockchain",
+      "docker",
+      "tendermint"
+    ],
+    "html_url": "https://github.com/eldnetwork/eld-tendermint",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T02:31:35Z",
+    "updated_at": "2026-09-25T08:39:19Z",
+    "pushed_at": "2026-09-25T08:40:38Z"
+  },
+  {
+    "id": 1380903571,
+    "name": "pakta",
+    "full_name": "devmondoss/pakta",
+    "owner": {
+      "login": "devmondoss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284759433?v=4"
+    },
+    "description": "Enterprise-grade agentic payments infrastructure for SMEs. AI ingests financial evidence (invoices), a deterministic control kernel verifies payables, and Stellar settles them via a Proof-of-Payable.",
+    "topics": [
+      "accounts-payable",
+      "agentic-ai",
+      "blockchain",
+      "defi",
+      "payments",
+      "sme",
+      "soroban",
+      "stablecoin",
+      "stellar",
+      "usdc",
+      "web3"
+    ],
+    "html_url": "https://github.com/devmondoss/pakta",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T05:06:16Z",
+    "updated_at": "2026-09-26T12:48:27Z",
+    "pushed_at": "2026-09-26T12:48:24Z"
+  },
+  {
+    "id": 1388347051,
+    "name": "Cinder",
+    "full_name": "feofilaktov/Cinder",
+    "owner": {
+      "login": "feofilaktov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22728505?v=4"
+    },
+    "description": "Cinder: an Ethereum execution client in C, Firedancer-style (formerly EthCC). Consensus-identical to reth; 8.5× less CPU, ~10× less memory.",
+    "topics": [
+      "blockchain",
+      "c",
+      "cinder",
+      "ethereum",
+      "evm",
+      "execution-client",
+      "firedancer",
+      "reth",
+      "stateless"
+    ],
+    "html_url": "https://github.com/feofilaktov/Cinder",
+    "stargazers_count": 1,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 13,
+    "created_at": "2026-09-26T01:12:37Z",
+    "updated_at": "2026-09-28T01:39:27Z",
+    "pushed_at": "2026-09-28T01:26:10Z"
+  },
+  {
+    "id": 1379353697,
+    "name": "OCTO",
+    "full_name": "TANTIRA/OCTO",
+    "owner": {
+      "login": "TANTIRA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/327087749?v=4"
+    },
+    "description": "investment and portfolio management platform that consolidates fragmented data,",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "blockchain",
+      "chain-agnostic",
+      "finances",
+      "finances-software",
+      "mathematical-modelling",
+      "ml",
+      "quantitative-finance"
+    ],
+    "html_url": "https://github.com/TANTIRA/OCTO",
+    "stargazers_count": 1,
+    "language": "Kotlin",
+    "forks_count": 1,
+    "open_issues_count": 7,
+    "created_at": "2026-09-21T08:24:11Z",
+    "updated_at": "2026-09-27T18:58:10Z",
+    "pushed_at": "2026-09-27T18:58:09Z"
+  },
+  {
+    "id": 1381664777,
+    "name": "ton-custody-architecture",
+    "full_name": "userifw/ton-custody-architecture",
+    "owner": {
+      "login": "userifw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143777793?v=4"
+    },
+    "description": "Architecture case study of a production TON/Jetton custody service: wallets, deposits, withdrawals, HMAC APIs, idempotency, outbox delivery, treasury reconciliation and failure recovery.",
+    "topics": [
+      "architecture",
+      "blockchain",
+      "custody",
+      "docker",
+      "fintech",
+      "hmac",
+      "idempotency",
+      "jetton",
+      "laravel",
+      "php",
+      "ton",
+      "web3"
+    ],
+    "html_url": "https://github.com/userifw/ton-custody-architecture",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T14:04:28Z",
+    "updated_at": "2026-09-26T18:42:00Z",
+    "pushed_at": "2026-09-22T14:07:07Z"
+  }
+]

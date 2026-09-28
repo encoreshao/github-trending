@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1382486279,
+    "name": "quiron",
+    "full_name": "ilien-dev/quiron",
+    "owner": {
+      "login": "ilien-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243913865?v=4"
+    },
+    "description": "AI humanizer skill for Claude Code, Codex and Cursor. Removes AI slop and the signs of AI writing, then measures the rewrite against human baselines.",
+    "topics": [
+      "agent-skills",
+      "ai-humanizer",
+      "ai-slop",
+      "ai-writing",
+      "anti-slop",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "deslop",
+      "humanize-ai-text",
+      "humanizer",
+      "llm",
+      "nlp",
+      "prompt-engineering",
+      "stylometry",
+      "writing-assistant",
+      "writing-tools"
+    ],
+    "html_url": "https://github.com/ilien-dev/quiron",
+    "stargazers_count": 51,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T00:01:36Z",
+    "updated_at": "2026-09-27T15:39:23Z",
+    "pushed_at": "2026-09-25T01:59:50Z"
+  },
+  {
+    "id": 1385210623,
+    "name": "ai-banking-support-copilot",
+    "full_name": "initPM/ai-banking-support-copilot",
+    "owner": {
+      "login": "initPM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11300854?v=4"
+    },
+    "description": "A conversational AI banking copilot designed to deflect level-1 support tickets by classifying customer intents and simulating knowledge base retrieval.",
+    "topics": [
+      "banking",
+      "conversational-ai",
+      "customer-support",
+      "nlp",
+      "product-management"
+    ],
+    "html_url": "https://github.com/initPM/ai-banking-support-copilot",
+    "stargazers_count": 18,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T09:57:32Z",
+    "updated_at": "2026-09-24T13:09:25Z",
+    "pushed_at": "2026-09-24T13:09:21Z"
+  },
+  {
+    "id": 1385329966,
+    "name": "tachyroute",
+    "full_name": "DhanushNehru/tachyroute",
+    "owner": {
+      "login": "DhanushNehru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22955675?v=4"
+    },
+    "description": "The blazing-fast, multimodal AI decision engine. Uses adaptive early-exit computing and attention rollout for sub-15ms explainable zero-shot classification",
+    "topics": [
+      "decision-engine",
+      "early-exit",
+      "explainable-ai",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "transformers",
+      "zero-shot-classification"
+    ],
+    "html_url": "https://github.com/DhanushNehru/tachyroute",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 3,
+    "created_at": "2026-09-24T11:22:57Z",
+    "updated_at": "2026-09-27T18:06:39Z",
+    "pushed_at": "2026-09-27T09:30:18Z"
+  },
+  {
+    "id": 1381630032,
+    "name": "laya-candle",
+    "full_name": "Trystan-SA/laya-candle",
+    "owner": {
+      "login": "Trystan-SA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43876044?v=4"
+    },
+    "description": "JEV-like Rust port using Laya, 100% local, no Python.",
+    "topics": [
+      "calibration",
+      "candle",
+      "guardrails",
+      "huggingface",
+      "inference",
+      "machine-learning",
+      "modernbert",
+      "nlp",
+      "non-autoregressive",
+      "rust",
+      "text-classification",
+      "triage"
+    ],
+    "html_url": "https://github.com/Trystan-SA/laya-candle",
+    "stargazers_count": 9,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T13:47:03Z",
+    "updated_at": "2026-09-25T05:22:01Z",
+    "pushed_at": "2026-09-23T08:29:53Z"
+  },
+  {
+    "id": 1387773949,
+    "name": "typed-lm",
+    "full_name": "neurono-ml/typed-lm",
+    "owner": {
+      "login": "neurono-ml",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79020988?v=4"
+    },
+    "description": "Single-forward-pass semantic routing in Rust: turn dense LLMs (Llama, Qwen, Mistral, Gemma) into a typed decision API with LoRA/QLoRA training and FP8/FP4 quantization, built on Candle.",
+    "topics": [
+      "actix-web",
+      "candle",
+      "classification",
+      "huggingface",
+      "inference",
+      "llm",
+      "lora",
+      "machine-learning",
+      "mlops",
+      "nlp",
+      "qlora",
+      "quantization",
+      "rust",
+      "semantic-routing",
+      "transformer"
+    ],
+    "html_url": "https://github.com/neurono-ml/typed-lm",
+    "stargazers_count": 9,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T15:27:03Z",
+    "updated_at": "2026-09-26T17:23:15Z",
+    "pushed_at": "2026-09-25T23:25:36Z"
+  },
+  {
+    "id": 1380755098,
+    "name": "decidr",
+    "full_name": "devanmolsharma/decidr",
+    "owner": {
+      "login": "devanmolsharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107991562?v=4"
+    },
+    "description": "Typed decisions from local LLMs in one forward pass, via Ollama. No generation loop, no JSON parsing.",
+    "topics": [
+      "classification",
+      "llm",
+      "local-llm",
+      "logprobs",
+      "nlp",
+      "ollama",
+      "python",
+      "routing"
+    ],
+    "html_url": "https://github.com/devanmolsharma/decidr",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T02:13:20Z",
+    "updated_at": "2026-09-27T10:42:28Z",
+    "pushed_at": "2026-09-23T15:42:01Z"
+  },
+  {
+    "id": 1389866156,
+    "name": "laya-php",
+    "full_name": "marcreichel/laya-php",
+    "owner": {
+      "login": "marcreichel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7645035?v=4"
+    },
+    "description": "Classify text in PHP without an LLM bill: typed decisions in 100+ languages, self-hosted. Laravel-ready SDK for Laya, a Jev AI alternative.",
+    "topics": [
+      "ai",
+      "decision-engine",
+      "jev",
+      "jev-ai",
+      "jev-api",
+      "laravel",
+      "laya",
+      "llm",
+      "multilingual",
+      "nlp",
+      "php",
+      "psr-18",
+      "sdk",
+      "text-classification",
+      "wrapper",
+      "zero-shot"
+    ],
+    "html_url": "https://github.com/marcreichel/laya-php",
+    "stargazers_count": 3,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T23:11:29Z",
+    "updated_at": "2026-09-27T20:11:03Z",
+    "pushed_at": "2026-09-27T20:11:00Z"
+  },
+  {
+    "id": 1388022223,
+    "name": "TechSift",
+    "full_name": "Amrutha-dev25/TechSift",
+    "owner": {
+      "login": "Amrutha-dev25",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223309747?v=4"
+    },
+    "description": "AI-powered intelligence system for analyzing sentiment and public reactions to emerging technologies.",
+    "topics": [
+      "ai",
+      "information-retrieval",
+      "llm",
+      "nlp",
+      "rag",
+      "sentiment-analysis",
+      "technews"
+    ],
+    "html_url": "https://github.com/Amrutha-dev25/TechSift",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T18:17:07Z",
+    "updated_at": "2026-09-27T20:19:05Z",
+    "pushed_at": "2026-09-27T20:19:01Z"
+  },
+  {
+    "id": 1389301458,
+    "name": "sev-arabic-preview",
+    "full_name": "3ssiri/sev-arabic-preview",
+    "owner": {
+      "login": "3ssiri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88985279?v=4"
+    },
+    "description": "Sev Arabic Preview v0.1 — Arabic-first typed decision engine (research preview). Runtime code; model on Hugging Face (gated).",
+    "topics": [
+      "arabic",
+      "calibration",
+      "decision-model",
+      "nlp",
+      "research-preview"
+    ],
+    "html_url": "https://github.com/3ssiri/sev-arabic-preview",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T14:03:34Z",
+    "updated_at": "2026-09-27T20:34:01Z",
+    "pushed_at": "2026-09-27T20:33:57Z"
+  },
+  {
+    "id": 1378955875,
+    "name": "whatsapp-herbs-bot",
+    "full_name": "moussachm/whatsapp-herbs-bot",
+    "owner": {
+      "login": "moussachm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190852199?v=4"
+    },
+    "description": "🤖 وكيل ذكاء اصطناعي يرد على استفسارات عملاء متجر أعشاب وتوابل تلقائياً — نموذج تفاعلي بالكامل في المتصفح",
+    "topics": [
+      "ai-agent",
+      "arabic-nlp",
+      "chatbot",
+      "customer-service",
+      "javascript",
+      "nlp",
+      "no-dependencies",
+      "portfolio-project",
+      "vanilla-js",
+      "whatsapp-bot"
+    ],
+    "html_url": "https://github.com/moussachm/whatsapp-herbs-bot",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T01:50:27Z",
+    "updated_at": "2026-09-21T21:47:49Z",
+    "pushed_at": "2026-09-22T00:27:20Z"
+  },
+  {
+    "id": 1380049116,
+    "name": "k_ai-basics",
+    "full_name": "khadir-syed/k_ai-basics",
+    "owner": {
+      "login": "khadir-syed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15974849?v=4"
+    },
+    "description": "Beginner-facing, CLI-only repo demystifying core AI concepts through runnable code",
+    "topics": [
+      "agents",
+      "ai",
+      "beginner-friendly",
+      "cli",
+      "education",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "python",
+      "rag",
+      "tokenization",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/khadir-syed/k_ai-basics",
+    "stargazers_count": 2,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T15:46:03Z",
+    "updated_at": "2026-09-27T12:51:23Z",
+    "pushed_at": "2026-09-27T12:51:19Z"
+  },
+  {
+    "id": 1382934133,
+    "name": "laya-demo",
+    "full_name": "almodover/laya-demo",
+    "owner": {
+      "login": "almodover",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85072049?v=4"
+    },
+    "description": "Analyse any text or ebook on 82 calibrated dimensions (genre, mood, themes, style) with the Laya model — ~1 s per page on Strix Halo with ROCm 10. Model: huggingface.co/convaiinnovations/laya",
+    "topics": [
+      "amd",
+      "epub",
+      "gfx1151",
+      "laya",
+      "local-ai",
+      "nlp",
+      "pytorch",
+      "rocm",
+      "strix-halo",
+      "text-classification"
+    ],
+    "html_url": "https://github.com/almodover/laya-demo",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T07:05:54Z",
+    "updated_at": "2026-09-23T18:32:03Z",
+    "pushed_at": "2026-09-23T07:05:58Z"
+  },
+  {
+    "id": 1387033681,
+    "name": "laya-mlx-zh",
+    "full_name": "ZLHAOOO/laya-mlx-zh",
+    "owner": {
+      "login": "ZLHAOOO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128688490?v=4"
+    },
+    "description": "Chinese fine-tuned Laya decision model weights (MLX, Apple Silicon) — 中文微调 Laya 决策模型: 消息路由/紧急度/优先级/检索选词, 一次前向全出, ~27ms",
+    "topics": [
+      "agent",
+      "apple-silicon",
+      "chinese",
+      "decision-model",
+      "fine-tuning",
+      "intent-classification",
+      "laya",
+      "m1",
+      "mlx",
+      "nlp"
+    ],
+    "html_url": "https://github.com/ZLHAOOO/laya-mlx-zh",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T07:44:03Z",
+    "updated_at": "2026-09-27T10:29:19Z",
+    "pushed_at": "2026-09-27T10:29:15Z"
+  },
+  {
+    "id": 1381279538,
+    "name": "laya-windows",
+    "full_name": "Zuhair-01/laya-windows",
+    "owner": {
+      "login": "Zuhair-01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245798577?v=4"
+    },
+    "description": "Windows port of Laya typed-decision AI (ONNX Runtime + DirectML) — Core ML/Apple Neural Engine alternative with first-class Arabic support. No text generation, no hallucination, runs on any DX12 GPU.",
+    "topics": [
+      "apple-neural-engine",
+      "arabic-nlp",
+      "classification",
+      "coreml-alternative",
+      "directml",
+      "gpu-inference",
+      "jev",
+      "jev-ai",
+      "jev-alternative",
+      "jev-api",
+      "jev-model",
+      "local-ai",
+      "machine-learning",
+      "nlp",
+      "offline-ai",
+      "onnx",
+      "onnxruntime",
+      "text-classification",
+      "windows"
+    ],
+    "html_url": "https://github.com/Zuhair-01/laya-windows",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T10:29:02Z",
+    "updated_at": "2026-09-23T06:52:13Z",
+    "pushed_at": "2026-09-22T14:12:40Z"
+  },
+  {
+    "id": 1387381773,
+    "name": "VernacTriage",
+    "full_name": "codedByBurhan/VernacTriage",
+    "owner": {
+      "login": "codedByBurhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228347278?v=4"
+    },
+    "description": "An enterprise NLP lexical compiler and ingestion gateway that normalizes code-switched, phonetically spelled vernacular into canonical native scripts, clean English, and deterministically verified API payloads. Powered by Gemini Flash & TypeScript invariance assertions.",
+    "topics": [
+      "arabizi",
+      "byok",
+      "code-switching",
+      "deterministic-verification",
+      "gdg-hackathon",
+      "gemini-flash-2-5",
+      "hinglish",
+      "lexical-compiler",
+      "multilingual-nlp",
+      "nextjs",
+      "nlp",
+      "tokenization",
+      "typescript"
+    ],
+    "html_url": "https://github.com/codedByBurhan/VernacTriage",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T11:44:53Z",
+    "updated_at": "2026-09-26T19:58:54Z",
+    "pushed_at": "2026-09-26T22:10:27Z"
+  },
+  {
+    "id": 1387032071,
+    "name": "tacet",
+    "full_name": "codepawl/tacet",
+    "owner": {
+      "login": "codepawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270326636?v=4"
+    },
+    "description": "Typed decisions from one encoder pass. Open weights, Apache 2.0.",
+    "topics": [
+      "calibration",
+      "classification",
+      "encoder",
+      "huggingface",
+      "machine-learning",
+      "mmbert",
+      "nlp",
+      "open-weights",
+      "pytorch",
+      "typed-decisions"
+    ],
+    "html_url": "https://github.com/codepawl/tacet",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T07:43:00Z",
+    "updated_at": "2026-09-26T05:37:47Z",
+    "pushed_at": "2026-09-26T05:37:43Z"
+  },
+  {
+    "id": 1386888456,
+    "name": "Nickspeare",
+    "full_name": "styayur/Nickspeare",
+    "owner": {
+      "login": "styayur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324560549?v=4"
+    },
+    "description": "Shakespearean nickname generator — from Eastcheap rogue to Agincourt king.",
+    "topics": [
+      "digital-humanities",
+      "early-modern-english",
+      "markov-chain",
+      "nickname-generator",
+      "nlp",
+      "procedural-generation",
+      "python",
+      "shakespeare"
+    ],
+    "html_url": "https://github.com/styayur/Nickspeare",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T06:17:14Z",
+    "updated_at": "2026-09-27T07:55:49Z",
+    "pushed_at": "2026-09-25T06:54:36Z"
+  },
+  {
+    "id": 1381197303,
+    "name": "ReaderVoice-Mobile",
+    "full_name": "Nian27/ReaderVoice-Mobile",
+    "owner": {
+      "login": "Nian27",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67932885?v=4"
+    },
+    "description": "端侧多角色有声书编译器：本地阅读器优先，ReaderDirector 是智能剧本缓存层（TXT → canonical 章节 → 语义 → 角色档案 → 持久化剧本 → 本地 TTS）",
+    "topics": [
+      "android",
+      "audiobook",
+      "kotlin",
+      "mnn",
+      "nlp",
+      "on-device",
+      "qualcomm-hexagon",
+      "reader",
+      "text-to-speech",
+      "tts"
+    ],
+    "html_url": "https://github.com/Nian27/ReaderVoice-Mobile",
+    "stargazers_count": 2,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T09:27:22Z",
+    "updated_at": "2026-09-23T06:44:56Z",
+    "pushed_at": "2026-09-22T09:27:50Z"
+  },
+  {
+    "id": 1382362204,
+    "name": "rag-catalogue",
+    "full_name": "1MedAmine/rag-catalogue",
+    "owner": {
+      "login": "1MedAmine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218483704?v=4"
+    },
+    "description": "RAG pour catalogues techniques : navigation hierarchique dans un PDF + recuperation hybride (lexical + dense + rerank), sortie JSON avec statut d'equivalence",
+    "topics": [
+      "information-retrieval",
+      "llm",
+      "nlp",
+      "pdf",
+      "python",
+      "rag",
+      "semantic-search"
+    ],
+    "html_url": "https://github.com/1MedAmine/rag-catalogue",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T21:09:35Z",
+    "updated_at": "2026-09-23T00:30:05Z",
+    "pushed_at": "2026-09-22T22:51:16Z"
+  },
+  {
+    "id": 1380293831,
+    "name": "jevy-graph",
+    "full_name": "saivivekvenna/jevy-graph",
+    "owner": {
+      "login": "saivivekvenna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71196932?v=4"
+    },
+    "description": "Compile documents into source-grounded RDF with evidence and provenance.",
+    "topics": [
+      "document-ai",
+      "information-extraction",
+      "knowledge-graph",
+      "llm",
+      "neuro-symbolic-ai",
+      "nlp",
+      "provenance",
+      "python",
+      "rdf",
+      "semantic-web",
+      "text-to-graph"
+    ],
+    "html_url": "https://github.com/saivivekvenna/jevy-graph",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T18:11:40Z",
+    "updated_at": "2026-09-27T19:26:09Z",
+    "pushed_at": "2026-09-27T19:26:05Z"
+  }
+]

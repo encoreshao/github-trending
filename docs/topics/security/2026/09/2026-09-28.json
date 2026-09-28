@@ -1,0 +1,623 @@
+[
+  {
+    "id": 1385252572,
+    "name": "json-guard",
+    "full_name": "agentscope-ai-java/json-guard",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "JSON.parse with hard limits on nesting depth, key count, string length and input size. Refuses parser bombs before they are allocated.",
+    "topics": [
+      "dos",
+      "json",
+      "nodejs",
+      "security",
+      "typescript",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/json-guard",
+    "stargazers_count": 80,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T10:30:02Z",
+    "updated_at": "2026-09-27T19:19:25Z",
+    "pushed_at": "2026-09-24T10:30:06Z"
+  },
+  {
+    "id": 1381282828,
+    "name": "capped-fetch",
+    "full_name": "agentscope-ai-java/capped-fetch",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Node fetch with hard size, compression-ratio and time limits. Stops gzip bombs mid-stream.",
+    "topics": [
+      "dos",
+      "fetch",
+      "gzip-bomb",
+      "http",
+      "nodejs",
+      "security",
+      "typescript",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/capped-fetch",
+    "stargazers_count": 74,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T10:31:16Z",
+    "updated_at": "2026-09-25T16:04:01Z",
+    "pushed_at": "2026-09-24T10:29:23Z"
+  },
+  {
+    "id": 1382159140,
+    "name": "cve-2026-87902-poc",
+    "full_name": "ressl/cve-2026-87902-poc",
+    "owner": {
+      "login": "ressl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11209641?v=4"
+    },
+    "description": "PoC for CVE-2026-87902 — unauthenticated path traversal in WordPress page-template resolution (local PHP inclusion, conditional RCE) with a pinned vulnerable lab",
+    "topics": [
+      "cve",
+      "cve-2026-87902",
+      "lfi",
+      "proof-of-concept",
+      "rce",
+      "security",
+      "vulnerability",
+      "wordpress"
+    ],
+    "html_url": "https://github.com/ressl/cve-2026-87902-poc",
+    "stargazers_count": 34,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T18:40:26Z",
+    "updated_at": "2026-09-27T18:54:10Z",
+    "pushed_at": "2026-09-22T19:36:48Z"
+  },
+  {
+    "id": 1385167327,
+    "name": "keelflow",
+    "full_name": "Perruer/keelflow",
+    "owner": {
+      "login": "Perruer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198955393?v=4"
+    },
+    "description": "Build AI agents and LLM workflows visually. Security-maintained continuation of Flowise: security fixes, Apache-2.0 only, drop-in for your existing flows and data.",
+    "topics": [
+      "agentic-workflow",
+      "ai-agents",
+      "chatbot",
+      "docker",
+      "flowise",
+      "langchain",
+      "llm",
+      "low-code",
+      "ollama",
+      "openai",
+      "rag",
+      "security",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/Perruer/keelflow",
+    "stargazers_count": 33,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-24T09:31:18Z",
+    "updated_at": "2026-09-26T08:28:40Z",
+    "pushed_at": "2026-09-25T14:26:54Z"
+  },
+  {
+    "id": 1386679206,
+    "name": "deno-lockfile-diff",
+    "full_name": "agentscope-ai-java/deno-lockfile-diff",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Turn a deno.lock diff into prioritised supply-chain signals — new raw-URL imports, integrity changes, registry moves.",
+    "topics": [
+      "ci",
+      "deno",
+      "lockfile",
+      "security",
+      "supply-chain",
+      "typescript"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/deno-lockfile-diff",
+    "stargazers_count": 20,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T03:31:32Z",
+    "updated_at": "2026-09-27T05:27:42Z",
+    "pushed_at": "2026-09-25T03:31:37Z"
+  },
+  {
+    "id": 1386680481,
+    "name": "duckdb-extension-audit",
+    "full_name": "agentscope-ai-java/duckdb-extension-audit",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Audit which DuckDB extensions a project loads, their origin and signature state, and flag unsigned loading.",
+    "topics": [
+      "audit",
+      "duckdb",
+      "extensions",
+      "python",
+      "security",
+      "supply-chain"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/duckdb-extension-audit",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T03:32:27Z",
+    "updated_at": "2026-09-26T19:19:03Z",
+    "pushed_at": "2026-09-25T03:32:32Z"
+  },
+  {
+    "id": 1388193962,
+    "name": "The-BlackHAT-roadmap",
+    "full_name": "SagarBiswas-MultiHAT/The-BlackHAT-roadmap",
+    "owner": {
+      "login": "SagarBiswas-MultiHAT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192402369?v=4"
+    },
+    "description": "The complete hacking & penetration testing roadmap. From beginner to elite. 44,982 lines, 150+ Diagram across the roadmap: OPSEC, web security, Active Directory, binary exploitation, EDR evasion, and 0-day research. 300+ tools, 200+ MITRE techniques, C & Rust payloads, lab guides, books, courses, blogs, practice platforms, and AI security resources",
+    "topics": [
+      "active-directory",
+      "bug-bounty",
+      "ctf",
+      "cybersecurity",
+      "ethical-hacking",
+      "hacking",
+      "infosec",
+      "kali-linux",
+      "malware",
+      "mitre-attack",
+      "network-security",
+      "osint",
+      "penetration-testing",
+      "pentesting",
+      "red-team",
+      "reverse-engineering",
+      "roadmap",
+      "security",
+      "security-tools",
+      "web-security"
+    ],
+    "html_url": "https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap",
+    "stargazers_count": 20,
+    "language": "C",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T21:12:58Z",
+    "updated_at": "2026-09-26T17:53:45Z",
+    "pushed_at": "2026-09-26T10:48:23Z"
+  },
+  {
+    "id": 1381755166,
+    "name": "MCPBastion",
+    "full_name": "Matthew0822/MCPBastion",
+    "owner": {
+      "login": "Matthew0822",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15010780?v=4"
+    },
+    "description": "Zero-trust security gateway between AI agents and MCP servers: scoped capabilities, redaction, rate and cost limits, and verifiable session logs.",
+    "topics": [
+      "ai-agents",
+      "audit-logging",
+      "cli",
+      "gateway",
+      "json-rpc",
+      "llm-security",
+      "mcp",
+      "model-context-protocol",
+      "policy-engine",
+      "provenance",
+      "rate-limiting",
+      "redaction",
+      "rust",
+      "security",
+      "zero-trust"
+    ],
+    "html_url": "https://github.com/Matthew0822/MCPBastion",
+    "stargazers_count": 20,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T14:52:43Z",
+    "updated_at": "2026-09-22T18:09:47Z",
+    "pushed_at": "2026-09-22T15:03:29Z"
+  },
+  {
+    "id": 1387401857,
+    "name": "importmap-lint",
+    "full_name": "agentscope-ai-java/importmap-lint",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Validate import maps against the HTML spec resolution algorithm, and flag unversioned CDN entries.",
+    "topics": [
+      "esm",
+      "import-maps",
+      "javascript",
+      "linter",
+      "security",
+      "typescript"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/importmap-lint",
+    "stargazers_count": 20,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T11:56:54Z",
+    "updated_at": "2026-09-25T15:01:28Z",
+    "pushed_at": "2026-09-25T11:56:58Z"
+  },
+  {
+    "id": 1380956148,
+    "name": "hetzner-cloud-audit-skills",
+    "full_name": "jpolec/hetzner-cloud-audit-skills",
+    "owner": {
+      "login": "jpolec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64204467?v=4"
+    },
+    "description": "Evidence-backed attack paths, drift, and cost auditing for Hetzner Cloud.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "cloud-security",
+      "codex",
+      "cost-optimization",
+      "devsecops",
+      "docker",
+      "finops",
+      "hetzner",
+      "infrastructure-as-code",
+      "postgres",
+      "security"
+    ],
+    "html_url": "https://github.com/jpolec/hetzner-cloud-audit-skills",
+    "stargazers_count": 16,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T06:05:46Z",
+    "updated_at": "2026-09-27T09:59:38Z",
+    "pushed_at": "2026-09-23T20:06:11Z"
+  },
+  {
+    "id": 1385256287,
+    "name": "win-plus-leave",
+    "full_name": "vdBurgIT/win-plus-leave",
+    "owner": {
+      "login": "vdBurgIT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122352124?v=4"
+    },
+    "description": "🪟 + Leave: the Win+L you never forget. Locks Windows when your YubiKey or USB key leaves the laptop. Intune-ready.",
+    "topics": [
+      "buskill",
+      "deadman-switch",
+      "intune",
+      "lock-screen",
+      "powershell",
+      "security",
+      "windows",
+      "yubikey"
+    ],
+    "html_url": "https://github.com/vdBurgIT/win-plus-leave",
+    "stargazers_count": 10,
+    "language": "PowerShell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T10:32:56Z",
+    "updated_at": "2026-09-27T09:15:26Z",
+    "pushed_at": "2026-09-25T23:25:37Z"
+  },
+  {
+    "id": 1386406717,
+    "name": "opencode-seatbelt",
+    "full_name": "ssmirr/opencode-seatbelt",
+    "owner": {
+      "login": "ssmirr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9158546?v=4"
+    },
+    "description": "A real kernel sandbox for OpenCode on macOS 🛡️",
+    "topics": [
+      "agent-sandbox",
+      "ai-safety",
+      "macos",
+      "opencode",
+      "opencode-plugin",
+      "sandbox",
+      "seatbelt",
+      "security"
+    ],
+    "html_url": "https://github.com/ssmirr/opencode-seatbelt",
+    "stargazers_count": 8,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T21:51:09Z",
+    "updated_at": "2026-09-27T12:09:24Z",
+    "pushed_at": "2026-09-25T04:08:57Z"
+  },
+  {
+    "id": 1381898187,
+    "name": "wdk-policy-guard",
+    "full_name": "FlashyLabs/wdk-policy-guard",
+    "owner": {
+      "login": "FlashyLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121371508?v=4"
+    },
+    "description": "⚡ A spending-policy layer for wallets on Tether's WDK: per-agent envelopes graded before anything signs — asset, destination, per-transaction and daily caps. Three verdicts, always with a reason: ALLOW, ESCALATE, DENY. Apache-2.0 — npm install @flashy/wdk-policy-guard. The policy is open; the money it guards is not.",
+    "topics": [
+      "agent-infra",
+      "agent-infrastructure",
+      "ai-agents",
+      "blockchain",
+      "blockchain-wallet",
+      "crypto",
+      "cryptocurrency",
+      "cryptowallet",
+      "fintech",
+      "javascript",
+      "nodejs",
+      "open-source",
+      "policy-engine",
+      "security",
+      "spending-limits",
+      "tether",
+      "wallet",
+      "wdk",
+      "web3",
+      "web3-wallet"
+    ],
+    "html_url": "https://github.com/FlashyLabs/wdk-policy-guard",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-22T16:08:56Z",
+    "updated_at": "2026-09-27T23:58:16Z",
+    "pushed_at": "2026-09-23T08:20:00Z"
+  },
+  {
+    "id": 1390775583,
+    "name": "LogsTotal",
+    "full_name": "wagga40/LogsTotal",
+    "owner": {
+      "login": "wagga40",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6437862?v=4"
+    },
+    "description": "Self-hosted multi-engine Sigma detection for event logs",
+    "topics": [
+      "blue-team",
+      "cti",
+      "dfir",
+      "evtx",
+      "log-analysis",
+      "logs",
+      "security",
+      "self-hosted",
+      "sigma",
+      "sigma-rules",
+      "soc",
+      "threat-detection"
+    ],
+    "html_url": "https://github.com/wagga40/LogsTotal",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T12:21:21Z",
+    "updated_at": "2026-09-27T22:22:52Z",
+    "pushed_at": "2026-09-27T13:32:49Z"
+  },
+  {
+    "id": 1386448119,
+    "name": "MacGuard",
+    "full_name": "alpunlu12-commits/MacGuard",
+    "owner": {
+      "login": "alpunlu12-commits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284579976?v=4"
+    },
+    "description": "Kafede masada bıraktığın MacBook için hırsızlık alarmı. Hareket, ekran kapağı, şarj, USB ve yakınlık algılar; yalnızca PIN'inle susar. Swift + SwiftUI, bağımlılık yok.",
+    "topics": [
+      "alarm",
+      "anti-theft",
+      "macbook",
+      "macos",
+      "security",
+      "swift",
+      "swiftui",
+      "theft-protection"
+    ],
+    "html_url": "https://github.com/alpunlu12-commits/MacGuard",
+    "stargazers_count": 6,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T22:41:48Z",
+    "updated_at": "2026-09-26T14:01:02Z",
+    "pushed_at": "2026-09-25T15:35:46Z"
+  },
+  {
+    "id": 1381899085,
+    "name": "wdk-staking-kit",
+    "full_name": "FlashyLabs/wdk-staking-kit",
+    "owner": {
+      "login": "FlashyLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121371508?v=4"
+    },
+    "description": "⚡ A reference staking primitive for wallets on Tether's WDK: a lock earmarks a balance at a published rate, no on-chain contract required — only yield, paid on close, ever moves. Apache-2.0 — npm install @flashy/wdk-staking-kit. The terms are open; the balance they lock is not.",
+    "topics": [
+      "blockchain",
+      "blockchain-technology",
+      "blockchain-tool",
+      "crypto-wallet-ui",
+      "defi",
+      "defi-automation",
+      "fintech",
+      "javascript",
+      "nodejs",
+      "open-source",
+      "security",
+      "staking-crypto",
+      "tether",
+      "wallet",
+      "wdk",
+      "web3",
+      "yield"
+    ],
+    "html_url": "https://github.com/FlashyLabs/wdk-staking-kit",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-22T16:09:25Z",
+    "updated_at": "2026-09-27T23:57:45Z",
+    "pushed_at": "2026-09-23T07:02:49Z"
+  },
+  {
+    "id": 1386662624,
+    "name": "labloop",
+    "full_name": "cloudcell/labloop",
+    "owner": {
+      "login": "cloudcell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4019314?v=4"
+    },
+    "description": "Secure, reproducible KVM lab for agent-driven ML research: per-user VMs with driver / trusted / hostile zone isolation, plus five standalone scientific-state MCP servers",
+    "topics": [
+      "ai-agents",
+      "experiment-tracking",
+      "isolation",
+      "kvm",
+      "libvirt",
+      "llm-agents",
+      "machine-learning",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "opencode",
+      "podman",
+      "reproducible-research",
+      "sandbox",
+      "scientific-computing",
+      "security",
+      "virtualization"
+    ],
+    "html_url": "https://github.com/cloudcell/labloop",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T03:18:48Z",
+    "updated_at": "2026-09-27T20:51:56Z",
+    "pushed_at": "2026-09-27T20:51:52Z"
+  },
+  {
+    "id": 1388818460,
+    "name": "repoctor",
+    "full_name": "me-intenzo/repoctor",
+    "owner": {
+      "login": "me-intenzo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192068775?v=4"
+    },
+    "description": "GitHub hygiene",
+    "topics": [
+      "cli",
+      "devops",
+      "git",
+      "security",
+      "supply-chain"
+    ],
+    "html_url": "https://github.com/me-intenzo/repoctor",
+    "stargazers_count": 5,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-26T07:52:23Z",
+    "updated_at": "2026-09-27T09:39:40Z",
+    "pushed_at": "2026-09-27T07:58:57Z"
+  },
+  {
+    "id": 1378949182,
+    "name": "ntlmscout-go",
+    "full_name": "mubix/ntlmscout-go",
+    "owner": {
+      "login": "mubix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/679319?v=4"
+    },
+    "description": "Go-port of https://github.com/boydhacks/ntlmscout",
+    "topics": [
+      "cyber-security",
+      "cybersecurity",
+      "cybersecurity-tools",
+      "hacking",
+      "security"
+    ],
+    "html_url": "https://github.com/mubix/ntlmscout-go",
+    "stargazers_count": 5,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-21T01:41:57Z",
+    "updated_at": "2026-09-22T14:23:53Z",
+    "pushed_at": "2026-09-21T02:03:29Z"
+  },
+  {
+    "id": 1381024510,
+    "name": "cybersecurity-framework",
+    "full_name": "5h4d0wn1k/cybersecurity-framework",
+    "owner": {
+      "login": "5h4d0wn1k",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89957987?v=4"
+    },
+    "description": "Interactive map of everything in cybersecurity: 27 domains, 776 categories, 1067 curated offensive & defensive tools with effort ratings and when-to-use guidance.",
+    "topics": [
+      "awesome-list",
+      "blue-team",
+      "cloud-security",
+      "ctf",
+      "cybersecurity",
+      "defensive-security",
+      "ethical-hacking",
+      "forensics",
+      "infosec",
+      "knowledge-base",
+      "malware-analysis",
+      "offensive-security",
+      "osint",
+      "penetration-testing",
+      "pentesting",
+      "red-team",
+      "security",
+      "security-tools",
+      "vulnerability-assessment",
+      "web-security"
+    ],
+    "html_url": "https://github.com/5h4d0wn1k/cybersecurity-framework",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 8,
+    "created_at": "2026-09-22T07:07:32Z",
+    "updated_at": "2026-09-26T17:52:34Z",
+    "pushed_at": "2026-09-23T15:26:01Z"
+  }
+]
