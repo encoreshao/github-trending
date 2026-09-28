@@ -1,0 +1,435 @@
+[
+  {
+    "id": 1375382253,
+    "name": "laya",
+    "full_name": "NandhaKishorM/laya",
+    "owner": {
+      "login": "NandhaKishorM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48623612?v=4"
+    },
+    "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+    "topics": [
+      "calibration",
+      "classification",
+      "decision-model",
+      "huggingface",
+      "jev",
+      "modernbert",
+      "multilingual",
+      "nlp",
+      "python",
+      "pytorch",
+      "routing",
+      "typed-decisions",
+      "zero-shot"
+    ],
+    "html_url": "https://github.com/NandhaKishorM/laya",
+    "stargazers_count": 26766,
+    "language": "Python",
+    "forks_count": 2339,
+    "open_issues_count": 122,
+    "created_at": "2026-09-18T04:46:33Z",
+    "updated_at": "2026-09-28T02:01:51Z",
+    "pushed_at": "2026-09-27T19:38:50Z"
+  },
+  {
+    "id": 1359648985,
+    "name": "HowToLiveBetter",
+    "full_name": "eternity4719/HowToLiveBetter",
+    "owner": {
+      "login": "eternity4719",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230156667?v=4"
+    },
+    "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+    "topics": [],
+    "html_url": "https://github.com/eternity4719/HowToLiveBetter",
+    "stargazers_count": 20954,
+    "language": "HTML",
+    "forks_count": 1520,
+    "open_issues_count": 10,
+    "created_at": "2026-09-07T01:53:36Z",
+    "updated_at": "2026-09-28T02:01:57Z",
+    "pushed_at": "2026-09-27T12:42:38Z"
+  },
+  {
+    "id": 1373655162,
+    "name": "jev-ultrafast",
+    "full_name": "browser-use/jev-ultrafast",
+    "owner": {
+      "login": "browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "description": "Fastest and cheapest web agent",
+    "topics": [],
+    "html_url": "https://github.com/browser-use/jev-ultrafast",
+    "stargazers_count": 20835,
+    "language": "Python",
+    "forks_count": 1434,
+    "open_issues_count": 149,
+    "created_at": "2026-09-16T21:30:12Z",
+    "updated_at": "2026-09-28T02:01:43Z",
+    "pushed_at": "2026-09-25T04:06:12Z"
+  },
+  {
+    "id": 1354310030,
+    "name": "m3e-canvas",
+    "full_name": "lnkiai/m3e-canvas",
+    "owner": {
+      "login": "lnkiai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187016380?v=4"
+    },
+    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+    "topics": [
+      "design-tool",
+      "material-3-expressive",
+      "material-design",
+      "material3",
+      "nextjs",
+      "prompt",
+      "react",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/lnkiai/m3e-canvas",
+    "stargazers_count": 8363,
+    "language": "TypeScript",
+    "forks_count": 882,
+    "open_issues_count": 4,
+    "created_at": "2026-09-02T04:36:34Z",
+    "updated_at": "2026-09-28T02:01:11Z",
+    "pushed_at": "2026-09-27T14:21:13Z"
+  },
+  {
+    "id": 1375069862,
+    "name": "kev",
+    "full_name": "jaredpalmer/kev",
+    "owner": {
+      "login": "jaredpalmer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4060187?v=4"
+    },
+    "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+    "topics": [
+      "decision-model",
+      "jev",
+      "qwen3"
+    ],
+    "html_url": "https://github.com/jaredpalmer/kev",
+    "stargazers_count": 7430,
+    "language": "Python",
+    "forks_count": 451,
+    "open_issues_count": 22,
+    "created_at": "2026-09-17T20:49:39Z",
+    "updated_at": "2026-09-28T02:00:50Z",
+    "pushed_at": "2026-09-28T01:44:32Z"
+  },
+  {
+    "id": 1374005005,
+    "name": "fast-jev-compaction",
+    "full_name": "tamaratran/fast-jev-compaction",
+    "owner": {
+      "login": "tamaratran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
+    },
+    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+    "topics": [],
+    "html_url": "https://github.com/tamaratran/fast-jev-compaction",
+    "stargazers_count": 7027,
+    "language": "TypeScript",
+    "forks_count": 436,
+    "open_issues_count": 92,
+    "created_at": "2026-09-17T05:57:20Z",
+    "updated_at": "2026-09-28T01:47:58Z",
+    "pushed_at": "2026-09-18T04:45:31Z"
+  },
+  {
+    "id": 1350984217,
+    "name": "DLSS5-Swapper",
+    "full_name": "rakanki911/DLSS5-Swapper",
+    "owner": {
+      "login": "rakanki911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
+    },
+    "description": "Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.",
+    "topics": [],
+    "html_url": "https://github.com/rakanki911/DLSS5-Swapper",
+    "stargazers_count": 6959,
+    "language": "JavaScript",
+    "forks_count": 363,
+    "open_issues_count": 67,
+    "created_at": "2026-08-29T23:51:32Z",
+    "updated_at": "2026-09-28T01:20:39Z",
+    "pushed_at": "2026-09-13T02:02:21Z"
+  },
+  {
+    "id": 1378288598,
+    "name": "ZCode",
+    "full_name": "zai-org/ZCode",
+    "owner": {
+      "login": "zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "topics": [],
+    "html_url": "https://github.com/zai-org/ZCode",
+    "stargazers_count": 6902,
+    "language": "TypeScript",
+    "forks_count": 2088,
+    "open_issues_count": 11,
+    "created_at": "2026-09-20T12:01:16Z",
+    "updated_at": "2026-09-28T01:56:38Z",
+    "pushed_at": "2026-09-24T06:49:55Z"
+  },
+  {
+    "id": 1379574728,
+    "name": "jev-chat-jarvis",
+    "full_name": "jev-chat/jev-chat-jarvis",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "topics": [
+      "accessibility-service",
+      "android",
+      "chat-assistant",
+      "llm",
+      "qq"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "stargazers_count": 6787,
+    "language": "Kotlin",
+    "forks_count": 1171,
+    "open_issues_count": 29,
+    "created_at": "2026-09-21T11:12:53Z",
+    "updated_at": "2026-09-28T01:59:00Z",
+    "pushed_at": "2026-09-27T14:35:20Z"
+  },
+  {
+    "id": 1377211520,
+    "name": "laya-mlx",
+    "full_name": "mizorewww/laya-mlx",
+    "owner": {
+      "login": "mizorewww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
+    },
+    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "topics": [
+      "apple-silicon",
+      "decision-model",
+      "inference",
+      "laya",
+      "local-ai",
+      "machine-learning",
+      "mlx",
+      "modernbert",
+      "system-one",
+      "typed-decisions"
+    ],
+    "html_url": "https://github.com/mizorewww/laya-mlx",
+    "stargazers_count": 6491,
+    "language": "Python",
+    "forks_count": 511,
+    "open_issues_count": 20,
+    "created_at": "2026-09-19T13:50:26Z",
+    "updated_at": "2026-09-28T01:54:09Z",
+    "pushed_at": "2026-09-22T05:34:51Z"
+  },
+  {
+    "id": 1351879111,
+    "name": "reef",
+    "full_name": "Human-Agent-Society/reef",
+    "owner": {
+      "login": "Human-Agent-Society",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268553699?v=4"
+    },
+    "description": "Infrastructure for continually self‑improving agents",
+    "topics": [
+      "agent-infrastructure",
+      "ai-agents",
+      "continual-learning",
+      "inference",
+      "llm",
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
+    ],
+    "html_url": "https://github.com/Human-Agent-Society/reef",
+    "stargazers_count": 6409,
+    "language": "Python",
+    "forks_count": 578,
+    "open_issues_count": 107,
+    "created_at": "2026-08-31T01:39:18Z",
+    "updated_at": "2026-09-28T02:01:43Z",
+    "pushed_at": "2026-09-28T01:36:26Z"
+  },
+  {
+    "id": 1373614120,
+    "name": "Compositor",
+    "full_name": "robbietilton/Compositor",
+    "owner": {
+      "login": "robbietilton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
+    },
+    "description": "The Photoshop alternative for Mac",
+    "topics": [],
+    "html_url": "https://github.com/robbietilton/Compositor",
+    "stargazers_count": 5878,
+    "language": "Swift",
+    "forks_count": 632,
+    "open_issues_count": 14,
+    "created_at": "2026-09-16T20:35:54Z",
+    "updated_at": "2026-09-28T01:12:03Z",
+    "pushed_at": "2026-09-27T23:14:03Z"
+  },
+  {
+    "id": 1356159928,
+    "name": "niubigeo",
+    "full_name": "Albert-Weasker/niubigeo",
+    "owner": {
+      "login": "Albert-Weasker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186366929?v=4"
+    },
+    "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
+    "topics": [],
+    "html_url": "https://github.com/Albert-Weasker/niubigeo",
+    "stargazers_count": 4856,
+    "language": "TypeScript",
+    "forks_count": 306,
+    "open_issues_count": 12,
+    "created_at": "2026-09-03T15:55:54Z",
+    "updated_at": "2026-09-27T22:14:31Z",
+    "pushed_at": "2026-09-21T11:16:31Z"
+  },
+  {
+    "id": 1373687654,
+    "name": "AirCard",
+    "full_name": "Mak5er/AirCard",
+    "owner": {
+      "login": "Mak5er",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98599732?v=4"
+    },
+    "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+    "topics": [],
+    "html_url": "https://github.com/Mak5er/AirCard",
+    "stargazers_count": 4567,
+    "language": "Swift",
+    "forks_count": 210,
+    "open_issues_count": 54,
+    "created_at": "2026-09-16T22:20:15Z",
+    "updated_at": "2026-09-28T02:01:59Z",
+    "pushed_at": "2026-09-22T21:44:37Z"
+  },
+  {
+    "id": 1372482979,
+    "name": "SemIf-OpenJev",
+    "full_name": "TheoLeeCJ/SemIf-OpenJev",
+    "owner": {
+      "login": "TheoLeeCJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
+    },
+    "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+    "topics": [],
+    "html_url": "https://github.com/TheoLeeCJ/SemIf-OpenJev",
+    "stargazers_count": 4453,
+    "language": "Python",
+    "forks_count": 309,
+    "open_issues_count": 42,
+    "created_at": "2026-09-16T03:51:21Z",
+    "updated_at": "2026-09-28T01:57:12Z",
+    "pushed_at": "2026-09-23T18:48:22Z"
+  },
+  {
+    "id": 1360432710,
+    "name": "dlssg_for_sm86",
+    "full_name": "sdli1995/dlssg_for_sm86",
+    "owner": {
+      "login": "sdli1995",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28560351?v=4"
+    },
+    "description": "Here is a dlssg for RTX30 Series GPU ",
+    "topics": [],
+    "html_url": "https://github.com/sdli1995/dlssg_for_sm86",
+    "stargazers_count": 4035,
+    "language": null,
+    "forks_count": 221,
+    "open_issues_count": 160,
+    "created_at": "2026-09-07T16:16:48Z",
+    "updated_at": "2026-09-28T01:24:41Z",
+    "pushed_at": "2026-09-19T20:03:40Z"
+  },
+  {
+    "id": 1357699236,
+    "name": "human-atlas",
+    "full_name": "ashemag/human-atlas",
+    "owner": {
+      "login": "ashemag",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8096590?v=4"
+    },
+    "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+    "topics": [],
+    "html_url": "https://github.com/ashemag/human-atlas",
+    "stargazers_count": 3936,
+    "language": "TypeScript",
+    "forks_count": 987,
+    "open_issues_count": 42,
+    "created_at": "2026-09-05T00:24:43Z",
+    "updated_at": "2026-09-27T20:38:32Z",
+    "pushed_at": "2026-09-06T23:35:06Z"
+  },
+  {
+    "id": 1358588929,
+    "name": "handraw-style",
+    "full_name": "yang0/handraw-style",
+    "owner": {
+      "login": "yang0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3478629?v=4"
+    },
+    "description": "手绘风格编号画廊与双语提示词 Skill",
+    "topics": [],
+    "html_url": "https://github.com/yang0/handraw-style",
+    "stargazers_count": 3380,
+    "language": "HTML",
+    "forks_count": 434,
+    "open_issues_count": 4,
+    "created_at": "2026-09-05T21:57:22Z",
+    "updated_at": "2026-09-28T02:00:20Z",
+    "pushed_at": "2026-09-28T01:49:23Z"
+  },
+  {
+    "id": 1354887280,
+    "name": "SoL-Pi",
+    "full_name": "NVlabs/SoL-Pi",
+    "owner": {
+      "login": "NVlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2695301?v=4"
+    },
+    "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
+    "topics": [],
+    "html_url": "https://github.com/NVlabs/SoL-Pi",
+    "stargazers_count": 3138,
+    "language": "TypeScript",
+    "forks_count": 251,
+    "open_issues_count": 67,
+    "created_at": "2026-09-02T14:48:47Z",
+    "updated_at": "2026-09-28T01:57:14Z",
+    "pushed_at": "2026-09-28T01:46:59Z"
+  },
+  {
+    "id": 1363417187,
+    "name": "printfilm",
+    "full_name": "yi1108/printfilm",
+    "owner": {
+      "login": "yi1108",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100551693?v=4"
+    },
+    "description": "PRINTFILM：AI 视频获客与 AI短剧创作平台",
+    "topics": [],
+    "html_url": "https://github.com/yi1108/printfilm",
+    "stargazers_count": 3074,
+    "language": "Python",
+    "forks_count": 335,
+    "open_issues_count": 1,
+    "created_at": "2026-09-10T02:08:47Z",
+    "updated_at": "2026-09-28T02:01:39Z",
+    "pushed_at": "2026-09-24T11:10:32Z"
+  }
+]
