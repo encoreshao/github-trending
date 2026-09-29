@@ -1,0 +1,623 @@
+[
+  {
+    "id": 1388101598,
+    "name": "captcha-api",
+    "full_name": "jamespolyakov9829/captcha-api",
+    "owner": {
+      "login": "jamespolyakov9829",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306833571?v=4"
+    },
+    "description": "Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface, with cost tracking and concurrent batch solves.",
+    "topics": [
+      "api",
+      "automation",
+      "captcha",
+      "captcha-api",
+      "challenge",
+      "cloudflare",
+      "python",
+      "turnstile"
+    ],
+    "html_url": "https://github.com/jamespolyakov9829/captcha-api",
+    "stargazers_count": 262,
+    "language": "Python",
+    "forks_count": 36,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T19:27:22Z",
+    "updated_at": "2026-09-29T12:25:39Z",
+    "pushed_at": "2026-09-25T19:28:10Z"
+  },
+  {
+    "id": 1385658451,
+    "name": "interp-rpc",
+    "full_name": "agentscope-ai-java/interp-rpc",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Typed RPC over a warm pool of PEP 734 subinterpreters — real parallelism, real error propagation, no hanging calls.",
+    "topics": [
+      "concurrency",
+      "parallelism",
+      "pep734",
+      "python",
+      "subinterpreters",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/interp-rpc",
+    "stargazers_count": 83,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T14:14:25Z",
+    "updated_at": "2026-09-29T05:34:41Z",
+    "pushed_at": "2026-09-24T14:14:31Z"
+  },
+  {
+    "id": 1386534744,
+    "name": "clodfarm",
+    "full_name": "matank001/clodfarm",
+    "owner": {
+      "login": "matank001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4920800?v=4"
+    },
+    "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
+    "topics": [
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "autonomous-agents",
+      "aws",
+      "claude",
+      "claude-code",
+      "coding-agent",
+      "devtools",
+      "docker",
+      "dynamodb",
+      "llm",
+      "multi-agent",
+      "python",
+      "rate-limiting",
+      "remote-control",
+      "self-hosted",
+      "subagents"
+    ],
+    "html_url": "https://github.com/matank001/clodfarm",
+    "stargazers_count": 82,
+    "language": "Python",
+    "forks_count": 45,
+    "open_issues_count": 5,
+    "created_at": "2026-09-25T00:48:32Z",
+    "updated_at": "2026-09-29T14:09:30Z",
+    "pushed_at": "2026-09-29T14:07:57Z"
+  },
+  {
+    "id": 1384170316,
+    "name": "Personal_External_Brain",
+    "full_name": "chenkanglin198904/Personal_External_Brain",
+    "owner": {
+      "login": "chenkanglin198904",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333080406?v=4"
+    },
+    "description": "Not another ChatGPT wrapper. This is a local-first tool that turns your notes, web pages, PDFs and audio/video into a personal knowledge graph — running entirely on your own machine.",
+    "topics": [
+      "graph-database",
+      "knowledge-graph",
+      "knowledge-graphs",
+      "knowledge-management",
+      "local-first",
+      "note-taking",
+      "personal-knowledge-management",
+      "privacy-first",
+      "python",
+      "rag",
+      "react",
+      "self-hosted",
+      "vector-database"
+    ],
+    "html_url": "https://github.com/chenkanglin198904/Personal_External_Brain",
+    "stargazers_count": 72,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T20:37:07Z",
+    "updated_at": "2026-09-29T14:16:35Z",
+    "pushed_at": "2026-09-27T07:07:15Z"
+  },
+  {
+    "id": 1389373301,
+    "name": "beamer",
+    "full_name": "kalkman-code/beamer",
+    "owner": {
+      "login": "kalkman-code",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323331398?v=4"
+    },
+    "description": "One keyboard and mouse for a Mac and a Windows PC over the local network, in either direction.",
+    "topics": [
+      "clipboard-sync",
+      "keyboard-sharing",
+      "macos",
+      "mouse-sharing",
+      "python",
+      "software-kvm",
+      "windows"
+    ],
+    "html_url": "https://github.com/kalkman-code/beamer",
+    "stargazers_count": 49,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 3,
+    "created_at": "2026-09-26T14:56:42Z",
+    "updated_at": "2026-09-29T11:31:53Z",
+    "pushed_at": "2026-09-29T09:20:07Z"
+  },
+  {
+    "id": 1384104974,
+    "name": "SelfJev",
+    "full_name": "Jwuthri/SelfJev",
+    "owner": {
+      "login": "Jwuthri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19627509?v=4"
+    },
+    "description": "Open decisions model with Jev's API: typed answers (yes/no, choice, score, multi) with probabilities from forward passes, no generation. Qwen3.5-4B + LoRA, one GPU.",
+    "topics": [
+      "classification",
+      "decision-making",
+      "evaluation",
+      "fine-tuning",
+      "inference",
+      "llm",
+      "lora",
+      "nextjs",
+      "nlp",
+      "python",
+      "qwen",
+      "structured-output",
+      "vllm"
+    ],
+    "html_url": "https://github.com/Jwuthri/SelfJev",
+    "stargazers_count": 44,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T19:38:27Z",
+    "updated_at": "2026-09-29T13:51:20Z",
+    "pushed_at": "2026-09-28T20:58:59Z"
+  },
+  {
+    "id": 1389632574,
+    "name": "openhouse-3d",
+    "full_name": "yunfanye/openhouse-3d",
+    "owner": {
+      "login": "yunfanye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16141135?v=4"
+    },
+    "description": "Turn real-estate listing photos into a 3D house model and a cinematic walkthrough video. Photo camera solving, procedural Blender (bpy) modeling, virtual staging, headless Cycles rendering and photo-vs-render comparison films.",
+    "topics": [
+      "3d-reconstruction",
+      "3d-rendering",
+      "3d-walkthrough",
+      "architectural-visualization",
+      "archviz",
+      "blender",
+      "blender-python",
+      "bpy",
+      "camera-calibration",
+      "cycles",
+      "headless-rendering",
+      "house-tour",
+      "listing-photos",
+      "photo-to-3d",
+      "procedural-generation",
+      "python",
+      "real-estate",
+      "video-generation",
+      "virtual-staging",
+      "virtual-tour"
+    ],
+    "html_url": "https://github.com/yunfanye/openhouse-3d",
+    "stargazers_count": 44,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T18:15:21Z",
+    "updated_at": "2026-09-29T02:53:50Z",
+    "pushed_at": "2026-09-26T18:18:41Z"
+  },
+  {
+    "id": 1382432537,
+    "name": "af-emulator",
+    "full_name": "armangido/af-emulator",
+    "owner": {
+      "login": "armangido",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42208098?v=4"
+    },
+    "description": "Unofficial Assault Fire PH preservation and server-emulation project with local VERSION/AUTH/DIR/ROLE/ZONE services, UE3 PvE research, tools, and documentation.",
+    "topics": [
+      "assault-fire",
+      "assault-fire-ph",
+      "game-preservation",
+      "game-server",
+      "legacy-games",
+      "legacy-games-emulator-windows",
+      "network-protocol",
+      "private-server",
+      "private-servers",
+      "python",
+      "reverse-engineering",
+      "server-emulator",
+      "ue3",
+      "unreal-engine-3"
+    ],
+    "html_url": "https://github.com/armangido/af-emulator",
+    "stargazers_count": 43,
+    "language": "Python",
+    "forks_count": 40,
+    "open_issues_count": 34,
+    "created_at": "2026-09-22T22:39:50Z",
+    "updated_at": "2026-09-29T09:22:19Z",
+    "pushed_at": "2026-09-29T09:22:15Z"
+  },
+  {
+    "id": 1387889135,
+    "name": "financial-research-optimizer",
+    "full_name": "ceyyy427/financial-research-optimizer",
+    "owner": {
+      "login": "ceyyy427",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224206678?v=4"
+    },
+    "description": "Auditable, point-in-time financial research workflow for data lineage, model validation, backtest diagnostics, and constrained portfolio analysis.",
+    "topics": [
+      "backtesting",
+      "data-provenance",
+      "deep-learning",
+      "finance",
+      "financial-data",
+      "machine-learning",
+      "point-in-time-data",
+      "portfolio-optimization",
+      "python",
+      "quantitative-finance",
+      "research-workflow",
+      "time-series"
+    ],
+    "html_url": "https://github.com/ceyyy427/financial-research-optimizer",
+    "stargazers_count": 38,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T16:42:23Z",
+    "updated_at": "2026-09-29T14:06:58Z",
+    "pushed_at": "2026-09-29T09:07:51Z"
+  },
+  {
+    "id": 1384367183,
+    "name": "vibecheck",
+    "full_name": "jlowin/vibecheck",
+    "owner": {
+      "login": "jlowin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153965?v=4"
+    },
+    "description": "✨✅ The easiest decisions your code will ever make.",
+    "topics": [
+      "ai",
+      "decision-model",
+      "jev",
+      "llm",
+      "python"
+    ],
+    "html_url": "https://github.com/jlowin/vibecheck",
+    "stargazers_count": 38,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T00:26:22Z",
+    "updated_at": "2026-09-29T09:00:26Z",
+    "pushed_at": "2026-09-24T20:06:55Z"
+  },
+  {
+    "id": 1389087492,
+    "name": "upi-zero-link",
+    "full_name": "wangshen233/upi-zero-link",
+    "owner": {
+      "login": "wangshen233",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113179042?v=4"
+    },
+    "description": "India Rs.0 UPI Autopay mandate link extractor - protocol-level, no browser. 印度 ₹0 UPI 委托链提取器（纯协议实现）",
+    "topics": [
+      "autopay",
+      "cli",
+      "protocol",
+      "python",
+      "stripe",
+      "upi"
+    ],
+    "html_url": "https://github.com/wangshen233/upi-zero-link",
+    "stargazers_count": 32,
+    "language": "Python",
+    "forks_count": 32,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T11:26:47Z",
+    "updated_at": "2026-09-29T11:45:04Z",
+    "pushed_at": "2026-09-27T10:44:42Z"
+  },
+  {
+    "id": 1386215713,
+    "name": "jobradar",
+    "full_name": "suvamneog/jobradar",
+    "owner": {
+      "login": "suvamneog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162726362?v=4"
+    },
+    "description": "Watches company job boards, scores openings against your resume, and emails you when something worth applying to shows up.",
+    "topics": [
+      "automation",
+      "job-search",
+      "llm",
+      "python"
+    ],
+    "html_url": "https://github.com/suvamneog/jobradar",
+    "stargazers_count": 32,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T19:07:09Z",
+    "updated_at": "2026-09-29T14:19:41Z",
+    "pushed_at": "2026-09-27T16:48:52Z"
+  },
+  {
+    "id": 1387683906,
+    "name": "neural-network-digits",
+    "full_name": "dev-luigi/neural-network-digits",
+    "owner": {
+      "login": "dev-luigi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70869541?v=4"
+    },
+    "description": "Neural network from scratch in pure Python + NumPy that recognises handwritten digits (MNIST), with an educational GUI: watch it learn, tweak it while it trains, look inside every layer.",
+    "topics": [
+      "backpropagation",
+      "deep-learning",
+      "educational",
+      "from-scratch",
+      "handwritten-digit-recognition",
+      "machine-learning",
+      "matplotlib",
+      "mnist",
+      "neural-network",
+      "numpy",
+      "python",
+      "tkinter"
+    ],
+    "html_url": "https://github.com/dev-luigi/neural-network-digits",
+    "stargazers_count": 30,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T14:40:10Z",
+    "updated_at": "2026-09-29T12:54:55Z",
+    "pushed_at": "2026-09-29T12:54:54Z"
+  },
+  {
+    "id": 1384291789,
+    "name": "jev-judge-mcp",
+    "full_name": "PyModel/jev-judge-mcp",
+    "owner": {
+      "login": "PyModel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316629828?v=4"
+    },
+    "description": "Typed judgment tools for MCP agents. TypeSafe's Jev model as verify, screen, find, classify, rerank, decide, compare, extract, review, gate, and score: the model judges, policy decides auto, review, or escalate.",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "ai-guardrails",
+      "classification",
+      "claude-code",
+      "fact-checking",
+      "guardrails",
+      "llm",
+      "llm-as-a-judge",
+      "llm-evaluation",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "model-context-protocol",
+      "prompt-injection",
+      "python",
+      "reranking",
+      "structured-output",
+      "uv",
+      "verification"
+    ],
+    "html_url": "https://github.com/PyModel/jev-judge-mcp",
+    "stargazers_count": 29,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T22:48:43Z",
+    "updated_at": "2026-09-28T23:48:47Z",
+    "pushed_at": "2026-09-28T23:48:42Z"
+  },
+  {
+    "id": 1385461593,
+    "name": "proxy-scraper",
+    "full_name": "maximilianfeix/proxy-scraper",
+    "owner": {
+      "login": "maximilianfeix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223365242?v=4"
+    },
+    "description": "Free proxies that actually work: 700+ sources, every hit verified (honeypots, injected scripts, TLS), a live list every hour, a rotating proxy server and an MCP server for AI agents.",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "discord-bot",
+      "free-proxy",
+      "hacktoberfest",
+      "honeypot-detection",
+      "http-proxy",
+      "mcp",
+      "mcp-server",
+      "proxy",
+      "proxy-checker",
+      "proxy-list",
+      "proxy-scraper",
+      "proxy-server",
+      "python",
+      "rotating-proxy",
+      "scraper",
+      "socks4",
+      "socks5",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/maximilianfeix/proxy-scraper",
+    "stargazers_count": 28,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 9,
+    "created_at": "2026-09-24T12:33:28Z",
+    "updated_at": "2026-09-29T13:44:19Z",
+    "pushed_at": "2026-09-29T13:41:07Z"
+  },
+  {
+    "id": 1388296227,
+    "name": "Agentic-AI-Design-Patterns",
+    "full_name": "Muhannad-Khaled/Agentic-AI-Design-Patterns",
+    "owner": {
+      "login": "Muhannad-Khaled",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119460687?v=4"
+    },
+    "description": "The 21 agentic AI design patterns from Antonio Gulli's book, explained in Egyptian Arabic — with framework-free, runnable Python examples.",
+    "topics": [
+      "agentic-ai",
+      "agentic-ai-development",
+      "ai-agents",
+      "arabic",
+      "design-patterns",
+      "llm",
+      "open-source",
+      "python"
+    ],
+    "html_url": "https://github.com/Muhannad-Khaled/Agentic-AI-Design-Patterns",
+    "stargazers_count": 26,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T23:47:38Z",
+    "updated_at": "2026-09-29T10:54:15Z",
+    "pushed_at": "2026-09-25T23:53:54Z"
+  },
+  {
+    "id": 1381493515,
+    "name": "AlphaResearchOS",
+    "full_name": "heranliu/AlphaResearchOS",
+    "owner": {
+      "login": "heranliu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210811826?v=4"
+    },
+    "description": "Agentic quant research workbench with CSV imports, local Codex, predictive models, independent reviews, optional Jev checks, and reproducible strategy benchmarks.",
+    "topics": [
+      "agentic-research",
+      "backtesting",
+      "codex",
+      "factor-investing",
+      "llm",
+      "python",
+      "quantitative-finance",
+      "reproducible-research",
+      "research-agents"
+    ],
+    "html_url": "https://github.com/heranliu/AlphaResearchOS",
+    "stargazers_count": 25,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T12:38:34Z",
+    "updated_at": "2026-09-29T12:40:41Z",
+    "pushed_at": "2026-09-27T17:53:54Z"
+  },
+  {
+    "id": 1380889904,
+    "name": "steam-live-charts",
+    "full_name": "Mocas-12/steam-live-charts",
+    "owner": {
+      "login": "Mocas-12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193058671?v=4"
+    },
+    "description": "Real-time Steam game leaderboards (最热游玩 · 热销 · 特惠 · 新品 · 免费游戏 · 限时免费) — live player counts, CNY prices & deals, auto-refresh every 60s.",
+    "topics": [
+      "charts",
+      "dashboard",
+      "data-visualization",
+      "fastapi",
+      "game-deals",
+      "gaming",
+      "leaderboard",
+      "python",
+      "real-time",
+      "steam",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/Mocas-12/steam-live-charts",
+    "stargazers_count": 24,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-22T04:48:18Z",
+    "updated_at": "2026-09-29T06:02:37Z",
+    "pushed_at": "2026-09-28T21:30:14Z"
+  },
+  {
+    "id": 1382646102,
+    "name": "JEV-Paper-Radar",
+    "full_name": "Eliot5566/JEV-Paper-Radar",
+    "owner": {
+      "login": "Eliot5566",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121885583?v=4"
+    },
+    "description": "Let Jev read every new arXiv paper each morning and surface the few you should read. Plain-English interests, calibrated probabilities, ~$0.06/day, fork and go.",
+    "topics": [
+      "arxiv",
+      "biorxiv",
+      "github-actions",
+      "jev",
+      "literature-review",
+      "llm",
+      "paper-recommendation",
+      "python",
+      "research-tools",
+      "rss",
+      "system-one",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/Eliot5566/JEV-Paper-Radar",
+    "stargazers_count": 24,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T03:05:13Z",
+    "updated_at": "2026-09-29T07:44:54Z",
+    "pushed_at": "2026-09-29T07:44:50Z"
+  },
+  {
+    "id": 1382667783,
+    "name": "ghost-job",
+    "full_name": "InfernalAzazel/ghost-job",
+    "owner": {
+      "login": "InfernalAzazel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40333954?v=4"
+    },
+    "description": "🤖 BOSS直聘智能投递助手：自动筛选岗位，AI 分析职位与简历匹配度，让每一次沟通都更有价值。",
+    "topics": [
+      "python"
+    ],
+    "html_url": "https://github.com/InfernalAzazel/ghost-job",
+    "stargazers_count": 23,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T03:23:13Z",
+    "updated_at": "2026-09-29T14:10:38Z",
+    "pushed_at": "2026-09-29T12:51:07Z"
+  }
+]
