@@ -1,0 +1,489 @@
+[
+  {
+    "id": 1393965829,
+    "name": "AIHOT",
+    "full_name": "KKKKhazix/AIHOT",
+    "owner": {
+      "login": "KKKKhazix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
+    },
+    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "topics": [
+      "ai",
+      "llm",
+      "mcp",
+      "news-aggregator",
+      "rss",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/KKKKhazix/AIHOT",
+    "stargazers_count": 3250,
+    "language": "TypeScript",
+    "forks_count": 938,
+    "open_issues_count": 3,
+    "created_at": "2026-09-28T23:40:05Z",
+    "updated_at": "2026-09-30T01:59:41Z",
+    "pushed_at": "2026-09-29T18:02:56Z"
+  },
+  {
+    "id": 1383809012,
+    "name": "magpie",
+    "full_name": "yetone/magpie",
+    "owner": {
+      "login": "yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+    },
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "deepseek",
+      "gemini-cli",
+      "llm",
+      "macos"
+    ],
+    "html_url": "https://github.com/yetone/magpie",
+    "stargazers_count": 2819,
+    "language": "Go",
+    "forks_count": 168,
+    "open_issues_count": 30,
+    "created_at": "2026-09-23T16:22:35Z",
+    "updated_at": "2026-09-30T01:59:48Z",
+    "pushed_at": "2026-09-30T01:37:17Z"
+  },
+  {
+    "id": 1384094559,
+    "name": "CLM",
+    "full_name": "Contrastive-LM/CLM",
+    "owner": {
+      "login": "Contrastive-LM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332430450?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/Contrastive-LM/CLM",
+    "stargazers_count": 2524,
+    "language": "Python",
+    "forks_count": 218,
+    "open_issues_count": 19,
+    "created_at": "2026-09-23T19:29:56Z",
+    "updated_at": "2026-09-30T01:49:06Z",
+    "pushed_at": "2026-09-24T23:10:28Z"
+  },
+  {
+    "id": 1386391454,
+    "name": "pdoom-video",
+    "full_name": "mexicat/pdoom-video",
+    "owner": {
+      "login": "mexicat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/699380?v=4"
+    },
+    "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+    "topics": [],
+    "html_url": "https://github.com/mexicat/pdoom-video",
+    "stargazers_count": 1987,
+    "language": "TypeScript",
+    "forks_count": 206,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T21:33:53Z",
+    "updated_at": "2026-09-30T02:00:01Z",
+    "pushed_at": "2026-09-28T06:53:29Z"
+  },
+  {
+    "id": 1386355153,
+    "name": "disktree",
+    "full_name": "tobi/disktree",
+    "owner": {
+      "login": "tobi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347?v=4"
+    },
+    "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+    "topics": [],
+    "html_url": "https://github.com/tobi/disktree",
+    "stargazers_count": 1915,
+    "language": "Rust",
+    "forks_count": 122,
+    "open_issues_count": 25,
+    "created_at": "2026-09-24T20:56:29Z",
+    "updated_at": "2026-09-30T01:28:37Z",
+    "pushed_at": "2026-09-27T02:04:35Z"
+  },
+  {
+    "id": 1385946301,
+    "name": "Strata",
+    "full_name": "Niko1221/Strata",
+    "owner": {
+      "login": "Niko1221",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86886444?v=4"
+    },
+    "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+    "topics": [],
+    "html_url": "https://github.com/Niko1221/Strata",
+    "stargazers_count": 1797,
+    "language": "C++",
+    "forks_count": 204,
+    "open_issues_count": 48,
+    "created_at": "2026-09-24T16:40:20Z",
+    "updated_at": "2026-09-30T01:59:44Z",
+    "pushed_at": "2026-09-29T22:21:22Z"
+  },
+  {
+    "id": 1388482474,
+    "name": "jevgrep",
+    "full_name": "dzhng/jevgrep",
+    "owner": {
+      "login": "dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+    },
+    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "topics": [
+      "ai-sdk",
+      "claude-code",
+      "cli",
+      "code-search",
+      "codex",
+      "coding-agents",
+      "context-retrieval",
+      "developer-tools",
+      "jev",
+      "semantic-search",
+      "typescript",
+      "vercel-ai-gateway"
+    ],
+    "html_url": "https://github.com/dzhng/jevgrep",
+    "stargazers_count": 1782,
+    "language": "TypeScript",
+    "forks_count": 114,
+    "open_issues_count": 25,
+    "created_at": "2026-09-26T04:06:56Z",
+    "updated_at": "2026-09-30T01:50:32Z",
+    "pushed_at": "2026-09-29T07:30:22Z"
+  },
+  {
+    "id": 1383518430,
+    "name": "golive-skill",
+    "full_name": "mikehasa/golive-skill",
+    "owner": {
+      "login": "mikehasa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91774998?v=4"
+    },
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "cloudflare",
+      "codex",
+      "database",
+      "deployment",
+      "developer-tools",
+      "devops",
+      "dns",
+      "godaddy",
+      "hosting",
+      "infrastructure",
+      "neon",
+      "netlify",
+      "porkbun",
+      "skills",
+      "supabase",
+      "vercel"
+    ],
+    "html_url": "https://github.com/mikehasa/golive-skill",
+    "stargazers_count": 1115,
+    "language": "TypeScript",
+    "forks_count": 82,
+    "open_issues_count": 1,
+    "created_at": "2026-09-23T13:37:26Z",
+    "updated_at": "2026-09-30T00:51:21Z",
+    "pushed_at": "2026-09-29T12:52:34Z"
+  },
+  {
+    "id": 1382717255,
+    "name": "JIZURA",
+    "full_name": "852wa/JIZURA",
+    "owner": {
+      "login": "852wa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137879019?v=4"
+    },
+    "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+    "topics": [],
+    "html_url": "https://github.com/852wa/JIZURA",
+    "stargazers_count": 1104,
+    "language": "HTML",
+    "forks_count": 159,
+    "open_issues_count": 21,
+    "created_at": "2026-09-23T04:04:13Z",
+    "updated_at": "2026-09-30T01:48:06Z",
+    "pushed_at": "2026-09-29T11:45:43Z"
+  },
+  {
+    "id": 1393229560,
+    "name": "jeff",
+    "full_name": "firelex/jeff",
+    "owner": {
+      "login": "firelex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3168549?v=4"
+    },
+    "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+    "topics": [],
+    "html_url": "https://github.com/firelex/jeff",
+    "stargazers_count": 1050,
+    "language": "Python",
+    "forks_count": 41,
+    "open_issues_count": 1,
+    "created_at": "2026-09-28T16:18:39Z",
+    "updated_at": "2026-09-30T01:59:41Z",
+    "pushed_at": "2026-09-29T18:28:39Z"
+  },
+  {
+    "id": 1385817306,
+    "name": "DiPlay",
+    "full_name": "shihabal3amri/DiPlay",
+    "owner": {
+      "login": "shihabal3amri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42039842?v=4"
+    },
+    "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+    "topics": [],
+    "html_url": "https://github.com/shihabal3amri/DiPlay",
+    "stargazers_count": 994,
+    "language": "Kotlin",
+    "forks_count": 166,
+    "open_issues_count": 31,
+    "created_at": "2026-09-24T15:36:38Z",
+    "updated_at": "2026-09-30T01:59:05Z",
+    "pushed_at": "2026-09-29T17:19:12Z"
+  },
+  {
+    "id": 1384260430,
+    "name": "ollaya",
+    "full_name": "ollaya-dev/ollaya",
+    "owner": {
+      "login": "ollaya-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333103087?v=4"
+    },
+    "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+    "topics": [
+      "calibration",
+      "classification",
+      "decision-models",
+      "gliclass",
+      "jev",
+      "laya",
+      "llm-routing",
+      "local-inference",
+      "nli",
+      "ollama",
+      "onnx",
+      "onnxruntime",
+      "rust",
+      "typesafe",
+      "zero-shot-classification"
+    ],
+    "html_url": "https://github.com/ollaya-dev/ollaya",
+    "stargazers_count": 986,
+    "language": "Rust",
+    "forks_count": 50,
+    "open_issues_count": 10,
+    "created_at": "2026-09-23T22:11:15Z",
+    "updated_at": "2026-09-30T01:58:24Z",
+    "pushed_at": "2026-09-29T21:21:57Z"
+  },
+  {
+    "id": 1388594776,
+    "name": "onetake",
+    "full_name": "feitangyuan/onetake",
+    "owner": {
+      "login": "feitangyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251547459?v=4"
+    },
+    "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+    "topics": [
+      "agent-skill",
+      "animation",
+      "canvas",
+      "claude-skill",
+      "launch-video",
+      "motion-graphics",
+      "video"
+    ],
+    "html_url": "https://github.com/feitangyuan/onetake",
+    "stargazers_count": 981,
+    "language": "Python",
+    "forks_count": 64,
+    "open_issues_count": 3,
+    "created_at": "2026-09-26T05:35:17Z",
+    "updated_at": "2026-09-29T23:47:54Z",
+    "pushed_at": "2026-09-29T01:53:46Z"
+  },
+  {
+    "id": 1384232861,
+    "name": "tidewater",
+    "full_name": "dgreenheck/tidewater",
+    "owner": {
+      "login": "dgreenheck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3814912?v=4"
+    },
+    "description": "Coastal town built with Opus 5.5",
+    "topics": [],
+    "html_url": "https://github.com/dgreenheck/tidewater",
+    "stargazers_count": 971,
+    "language": "JavaScript",
+    "forks_count": 223,
+    "open_issues_count": 13,
+    "created_at": "2026-09-23T21:40:29Z",
+    "updated_at": "2026-09-30T01:33:11Z",
+    "pushed_at": "2026-09-25T04:02:40Z"
+  },
+  {
+    "id": 1382888848,
+    "name": "claude-opus-5-5-demo",
+    "full_name": "riba2534/claude-opus-5-5-demo",
+    "owner": {
+      "login": "riba2534",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26398978?v=4"
+    },
+    "description": "claude-opus-5-5-demo",
+    "topics": [],
+    "html_url": "https://github.com/riba2534/claude-opus-5-5-demo",
+    "stargazers_count": 920,
+    "language": "JavaScript",
+    "forks_count": 132,
+    "open_issues_count": 6,
+    "created_at": "2026-09-23T06:31:00Z",
+    "updated_at": "2026-09-30T01:06:17Z",
+    "pushed_at": "2026-09-23T07:54:16Z"
+  },
+  {
+    "id": 1390273274,
+    "name": "awesome-opus5-5-videos",
+    "full_name": "yihui-dev/awesome-opus5-5-videos",
+    "owner": {
+      "login": "yihui-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26054274?v=4"
+    },
+    "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+    "topics": [
+      "ai-video",
+      "awesome",
+      "awesome-list",
+      "claude",
+      "claude-opus",
+      "creative-coding",
+      "motion-graphics",
+      "prompts",
+      "threejs"
+    ],
+    "html_url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+    "stargazers_count": 917,
+    "language": null,
+    "forks_count": 111,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T06:19:36Z",
+    "updated_at": "2026-09-30T01:58:50Z",
+    "pushed_at": "2026-09-28T19:04:48Z"
+  },
+  {
+    "id": 1388261262,
+    "name": "company-brain",
+    "full_name": "supermemoryai/company-brain",
+    "owner": {
+      "login": "supermemoryai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171979587?v=4"
+    },
+    "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+    "topics": [],
+    "html_url": "https://github.com/supermemoryai/company-brain",
+    "stargazers_count": 848,
+    "language": "TypeScript",
+    "forks_count": 118,
+    "open_issues_count": 14,
+    "created_at": "2026-09-25T22:48:14Z",
+    "updated_at": "2026-09-30T01:40:31Z",
+    "pushed_at": "2026-09-28T05:50:41Z"
+  },
+  {
+    "id": 1388867993,
+    "name": "logo-design-skill",
+    "full_name": "kaankiziltug/logo-design-skill",
+    "owner": {
+      "login": "kaankiziltug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119437067?v=4"
+    },
+    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "topics": [
+      "agent-skills",
+      "branding",
+      "claude",
+      "claude-skills",
+      "codex",
+      "gemini-cli",
+      "logo-design",
+      "svg"
+    ],
+    "html_url": "https://github.com/kaankiziltug/logo-design-skill",
+    "stargazers_count": 844,
+    "language": "HTML",
+    "forks_count": 40,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T08:23:34Z",
+    "updated_at": "2026-09-30T01:45:32Z",
+    "pushed_at": "2026-09-29T08:27:51Z"
+  },
+  {
+    "id": 1389011744,
+    "name": "lemo-opuscar",
+    "full_name": "lemomo-ai/lemo-opuscar",
+    "owner": {
+      "login": "lemomo-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97503247?v=4"
+    },
+    "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+    "topics": [
+      "ai-agents",
+      "ai-video",
+      "animation",
+      "canvas",
+      "claude",
+      "claude-code",
+      "creative-coding",
+      "ffmpeg",
+      "filmmaking",
+      "motion-graphics",
+      "prompt-library",
+      "text-to-speech",
+      "threejs",
+      "video-production",
+      "webgl"
+    ],
+    "html_url": "https://github.com/lemomo-ai/lemo-opuscar",
+    "stargazers_count": 614,
+    "language": "JavaScript",
+    "forks_count": 81,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T10:10:41Z",
+    "updated_at": "2026-09-30T01:59:09Z",
+    "pushed_at": "2026-09-30T00:32:28Z"
+  },
+  {
+    "id": 1384159311,
+    "name": "ClaudeAnimationBase",
+    "full_name": "JohnHeibel/ClaudeAnimationBase",
+    "owner": {
+      "login": "JohnHeibel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25869466?v=4"
+    },
+    "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+    "topics": [],
+    "html_url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+    "stargazers_count": 587,
+    "language": "JavaScript",
+    "forks_count": 61,
+    "open_issues_count": 5,
+    "created_at": "2026-09-23T20:27:00Z",
+    "updated_at": "2026-09-30T01:54:38Z",
+    "pushed_at": "2026-09-24T07:41:21Z"
+  }
+]

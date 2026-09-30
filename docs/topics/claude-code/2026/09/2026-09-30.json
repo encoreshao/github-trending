@@ -1,0 +1,617 @@
+[
+  {
+    "id": 1383809012,
+    "name": "magpie",
+    "full_name": "yetone/magpie",
+    "owner": {
+      "login": "yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+    },
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "deepseek",
+      "gemini-cli",
+      "llm",
+      "macos"
+    ],
+    "html_url": "https://github.com/yetone/magpie",
+    "stargazers_count": 2819,
+    "language": "Go",
+    "forks_count": 168,
+    "open_issues_count": 30,
+    "created_at": "2026-09-23T16:22:35Z",
+    "updated_at": "2026-09-30T01:59:48Z",
+    "pushed_at": "2026-09-30T01:37:17Z"
+  },
+  {
+    "id": 1388482474,
+    "name": "jevgrep",
+    "full_name": "dzhng/jevgrep",
+    "owner": {
+      "login": "dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+    },
+    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "topics": [
+      "ai-sdk",
+      "claude-code",
+      "cli",
+      "code-search",
+      "codex",
+      "coding-agents",
+      "context-retrieval",
+      "developer-tools",
+      "jev",
+      "semantic-search",
+      "typescript",
+      "vercel-ai-gateway"
+    ],
+    "html_url": "https://github.com/dzhng/jevgrep",
+    "stargazers_count": 1782,
+    "language": "TypeScript",
+    "forks_count": 114,
+    "open_issues_count": 25,
+    "created_at": "2026-09-26T04:06:56Z",
+    "updated_at": "2026-09-30T01:50:32Z",
+    "pushed_at": "2026-09-29T07:30:22Z"
+  },
+  {
+    "id": 1383518430,
+    "name": "golive-skill",
+    "full_name": "mikehasa/golive-skill",
+    "owner": {
+      "login": "mikehasa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91774998?v=4"
+    },
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "cloudflare",
+      "codex",
+      "database",
+      "deployment",
+      "developer-tools",
+      "devops",
+      "dns",
+      "godaddy",
+      "hosting",
+      "infrastructure",
+      "neon",
+      "netlify",
+      "porkbun",
+      "skills",
+      "supabase",
+      "vercel"
+    ],
+    "html_url": "https://github.com/mikehasa/golive-skill",
+    "stargazers_count": 1115,
+    "language": "TypeScript",
+    "forks_count": 82,
+    "open_issues_count": 1,
+    "created_at": "2026-09-23T13:37:26Z",
+    "updated_at": "2026-09-30T00:51:21Z",
+    "pushed_at": "2026-09-29T12:52:34Z"
+  },
+  {
+    "id": 1389011744,
+    "name": "lemo-opuscar",
+    "full_name": "lemomo-ai/lemo-opuscar",
+    "owner": {
+      "login": "lemomo-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97503247?v=4"
+    },
+    "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+    "topics": [
+      "ai-agents",
+      "ai-video",
+      "animation",
+      "canvas",
+      "claude",
+      "claude-code",
+      "creative-coding",
+      "ffmpeg",
+      "filmmaking",
+      "motion-graphics",
+      "prompt-library",
+      "text-to-speech",
+      "threejs",
+      "video-production",
+      "webgl"
+    ],
+    "html_url": "https://github.com/lemomo-ai/lemo-opuscar",
+    "stargazers_count": 614,
+    "language": "JavaScript",
+    "forks_count": 81,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T10:10:41Z",
+    "updated_at": "2026-09-30T01:59:09Z",
+    "pushed_at": "2026-09-30T00:32:28Z"
+  },
+  {
+    "id": 1386061631,
+    "name": "zh-tech-writing",
+    "full_name": "leter/zh-tech-writing",
+    "owner": {
+      "login": "leter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13078495?v=4"
+    },
+    "description": "写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+    "topics": [
+      "agent-skills",
+      "chinese",
+      "claude-code",
+      "documentation",
+      "style-guide",
+      "technical-writing"
+    ],
+    "html_url": "https://github.com/leter/zh-tech-writing",
+    "stargazers_count": 310,
+    "language": null,
+    "forks_count": 14,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T17:37:46Z",
+    "updated_at": "2026-09-29T22:49:19Z",
+    "pushed_at": "2026-09-24T17:49:53Z"
+  },
+  {
+    "id": 1390088311,
+    "name": "awesome-claude-video-skills",
+    "full_name": "zhuyansen/awesome-claude-video-skills",
+    "owner": {
+      "login": "zhuyansen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24306647?v=4"
+    },
+    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
+    "topics": [
+      "agent-skills",
+      "awesome-list",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "hyperframes",
+      "motion-graphics",
+      "opus-5-5",
+      "remotion",
+      "video"
+    ],
+    "html_url": "https://github.com/zhuyansen/awesome-claude-video-skills",
+    "stargazers_count": 297,
+    "language": null,
+    "forks_count": 32,
+    "open_issues_count": 2,
+    "created_at": "2026-09-27T04:06:05Z",
+    "updated_at": "2026-09-30T01:40:57Z",
+    "pushed_at": "2026-09-28T09:30:21Z"
+  },
+  {
+    "id": 1390878120,
+    "name": "seiso",
+    "full_name": "scarletkc/seiso",
+    "owner": {
+      "login": "scarletkc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50803289?v=4"
+    },
+    "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "coding-agents",
+      "commonmark",
+      "conventions",
+      "developer-tools",
+      "docs-as-code",
+      "documentation",
+      "documentation-tool",
+      "gfm",
+      "lint",
+      "linter",
+      "llm",
+      "markdown",
+      "markdown-linter",
+      "rust",
+      "static-analysis",
+      "technical-writing"
+    ],
+    "html_url": "https://github.com/scarletkc/seiso",
+    "stargazers_count": 150,
+    "language": "Rust",
+    "forks_count": 8,
+    "open_issues_count": 17,
+    "created_at": "2026-09-27T13:27:28Z",
+    "updated_at": "2026-09-30T00:13:04Z",
+    "pushed_at": "2026-09-29T13:42:59Z"
+  },
+  {
+    "id": 1387365303,
+    "name": "saas-motion-kit",
+    "full_name": "tugrawork-creator/saas-motion-kit",
+    "owner": {
+      "login": "tugrawork-creator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319556794?v=4"
+    },
+    "description": "Promo & motion videos for software products with HyperFrames + Claude Code. No two films should feel the same: tone matrix, variety audit, 24-transition atlas, 100 storyboard themes.",
+    "topics": [
+      "claude-code",
+      "hyperframes",
+      "motion-design",
+      "saas",
+      "storyboard",
+      "video"
+    ],
+    "html_url": "https://github.com/tugrawork-creator/saas-motion-kit",
+    "stargazers_count": 138,
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T11:35:57Z",
+    "updated_at": "2026-09-29T13:29:47Z",
+    "pushed_at": "2026-09-28T15:17:22Z"
+  },
+  {
+    "id": 1387387974,
+    "name": "SeeCut",
+    "full_name": "YeJe-cpu/SeeCut",
+    "owner": {
+      "login": "YeJe-cpu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237224701?v=4"
+    },
+    "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
+    "topics": [
+      "agent-skill",
+      "ai-avatar",
+      "ai-video",
+      "claude-code",
+      "gemini",
+      "heygen",
+      "hyperframes",
+      "talking-head",
+      "video-editing"
+    ],
+    "html_url": "https://github.com/YeJe-cpu/SeeCut",
+    "stargazers_count": 135,
+    "language": "JavaScript",
+    "forks_count": 24,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T11:48:27Z",
+    "updated_at": "2026-09-30T01:38:18Z",
+    "pushed_at": "2026-09-29T06:20:42Z"
+  },
+  {
+    "id": 1391438314,
+    "name": "coucou",
+    "full_name": "Louis-CFM/coucou",
+    "owner": {
+      "login": "Louis-CFM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72659375?v=4"
+    },
+    "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "dynamic-island",
+      "macos",
+      "macos-app",
+      "menubar-app",
+      "notch",
+      "open-source",
+      "swift",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/Louis-CFM/coucou",
+    "stargazers_count": 129,
+    "language": "Swift",
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T21:54:12Z",
+    "updated_at": "2026-09-30T00:51:04Z",
+    "pushed_at": "2026-09-29T22:55:10Z"
+  },
+  {
+    "id": 1388304414,
+    "name": "building-with-typesafe-jev",
+    "full_name": "aaddrick/building-with-typesafe-jev",
+    "owner": {
+      "login": "aaddrick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22264982?v=4"
+    },
+    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "calibration",
+      "classification",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "claude-code-skills",
+      "codex-cli",
+      "gemini-cli",
+      "guardrails",
+      "jev",
+      "llm",
+      "llm-tools",
+      "prompt-engineering",
+      "structured-output",
+      "system-one",
+      "typesafe",
+      "typesafe-ai"
+    ],
+    "html_url": "https://github.com/aaddrick/building-with-typesafe-jev",
+    "stargazers_count": 123,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 1,
+    "created_at": "2026-09-26T00:01:19Z",
+    "updated_at": "2026-09-29T21:59:39Z",
+    "pushed_at": "2026-09-28T02:25:46Z"
+  },
+  {
+    "id": 1387803819,
+    "name": "first-pass",
+    "full_name": "joetawil7/first-pass",
+    "owner": {
+      "login": "joetawil7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61063138?v=4"
+    },
+    "description": " Rules and checks that make Claude Code look around a change, not just at the lines it writes: ten questions before code, a reviewer that didn't write it, proof before done, bugs fixed as a class.",
+    "topics": [
+      "agents-skills",
+      "agentskill",
+      "agentskills",
+      "ai-coding",
+      "ai-coding-assistant",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-marketplace",
+      "claude-code-plugin",
+      "claude-code-plugins",
+      "claude-code-plugins-marketplace",
+      "claude-code-skill",
+      "claude-code-skills",
+      "code-repair",
+      "code-review",
+      "code-review-assistant",
+      "code-review-assistant-active",
+      "code-review-automation",
+      "code-reviews",
+      "developer-tools"
+    ],
+    "html_url": "https://github.com/joetawil7/first-pass",
+    "stargazers_count": 123,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T15:45:56Z",
+    "updated_at": "2026-09-30T01:42:35Z",
+    "pushed_at": "2026-09-30T00:26:05Z"
+  },
+  {
+    "id": 1385750356,
+    "name": "paperclip-guide",
+    "full_name": "theNetworkChuck/paperclip-guide",
+    "owner": {
+      "login": "theNetworkChuck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47433490?v=4"
+    },
+    "description": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
+    "topics": [
+      "ai-agents",
+      "ai-company",
+      "claude-code",
+      "codex",
+      "flare",
+      "hermes",
+      "homelab",
+      "networkchuck",
+      "paperclip"
+    ],
+    "html_url": "https://github.com/theNetworkChuck/paperclip-guide",
+    "stargazers_count": 122,
+    "language": "TypeScript",
+    "forks_count": 18,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T15:00:59Z",
+    "updated_at": "2026-09-30T01:24:08Z",
+    "pushed_at": "2026-09-24T15:02:21Z"
+  },
+  {
+    "id": 1382777337,
+    "name": "wow-ai",
+    "full_name": "chelinho139/wow-ai",
+    "owner": {
+      "login": "chelinho139",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7676795?v=4"
+    },
+    "description": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)",
+    "topics": [
+      "ai",
+      "claude-code",
+      "wow"
+    ],
+    "html_url": "https://github.com/chelinho139/wow-ai",
+    "stargazers_count": 120,
+    "language": "JavaScript",
+    "forks_count": 27,
+    "open_issues_count": 10,
+    "created_at": "2026-09-23T04:57:34Z",
+    "updated_at": "2026-09-29T15:41:11Z",
+    "pushed_at": "2026-09-27T20:42:30Z"
+  },
+  {
+    "id": 1387261291,
+    "name": "Janus",
+    "full_name": "RamitVishwakarma/Janus",
+    "owner": {
+      "login": "RamitVishwakarma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45211027?v=4"
+    },
+    "description": "Switch between Claude Code accounts and clear developer caches, from the macOS menu bar.",
+    "topics": [
+      "claude-code",
+      "developer-tools",
+      "macos",
+      "menubar",
+      "swift",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/RamitVishwakarma/Janus",
+    "stargazers_count": 116,
+    "language": "Swift",
+    "forks_count": 11,
+    "open_issues_count": 2,
+    "created_at": "2026-09-25T10:20:37Z",
+    "updated_at": "2026-09-30T00:13:37Z",
+    "pushed_at": "2026-09-28T15:47:31Z"
+  },
+  {
+    "id": 1388372309,
+    "name": "brewreel",
+    "full_name": "Finderchangchang/brewreel",
+    "owner": {
+      "login": "Finderchangchang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7477876?v=4"
+    },
+    "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "llm",
+      "promo-video",
+      "remotion",
+      "short-video",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/Finderchangchang/brewreel",
+    "stargazers_count": 109,
+    "language": "TypeScript",
+    "forks_count": 18,
+    "open_issues_count": 1,
+    "created_at": "2026-09-26T01:52:24Z",
+    "updated_at": "2026-09-29T18:05:43Z",
+    "pushed_at": "2026-09-29T18:05:36Z"
+  },
+  {
+    "id": 1391356062,
+    "name": "claude-motion-design",
+    "full_name": "howseen-ai/claude-motion-design",
+    "owner": {
+      "login": "howseen-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/331678777?v=4"
+    },
+    "description": "A Claude Code skill to make motion design videos in pure code: HTML + Playwright + ffmpeg. No After Effects, no Remotion license.",
+    "topics": [
+      "claude-code",
+      "claude-skills",
+      "ffmpeg",
+      "motion-design",
+      "playwright"
+    ],
+    "html_url": "https://github.com/howseen-ai/claude-motion-design",
+    "stargazers_count": 105,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T19:59:11Z",
+    "updated_at": "2026-09-30T00:00:26Z",
+    "pushed_at": "2026-09-29T17:18:54Z"
+  },
+  {
+    "id": 1382991317,
+    "name": "jianhao-travel-planner",
+    "full_name": "awangwang123/jianhao-travel-planner",
+    "owner": {
+      "login": "awangwang123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282191155?v=4"
+    },
+    "description": "出行路书工作流 skill：联网实查 + 多源交叉验证，产出可核验、能执行的旅行攻略。覆盖吃住行游拍避全维度，附美食情报卡、基准骨架与校验工具，支持一键部署在线版。",
+    "topics": [
+      "ai-agent",
+      "chinese",
+      "claude",
+      "claude-code",
+      "commons",
+      "itinerary",
+      "travel-guide",
+      "travel-planner",
+      "trip-planning"
+    ],
+    "html_url": "https://github.com/awangwang123/jianhao-travel-planner",
+    "stargazers_count": 103,
+    "language": "HTML",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T07:43:09Z",
+    "updated_at": "2026-09-30T01:55:28Z",
+    "pushed_at": "2026-09-29T12:55:23Z"
+  },
+  {
+    "id": 1387019363,
+    "name": "motion-video-skill",
+    "full_name": "bestagentkits/motion-video-skill",
+    "owner": {
+      "login": "bestagentkits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277952553?v=4"
+    },
+    "description": "Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
+    "topics": [
+      "agent-skills",
+      "beat-sync",
+      "chatgpt-plugins",
+      "claude-code",
+      "claude-plugin",
+      "codex",
+      "gsap",
+      "hyperframes",
+      "motion-graphics",
+      "video"
+    ],
+    "html_url": "https://github.com/bestagentkits/motion-video-skill",
+    "stargazers_count": 103,
+    "language": "JavaScript",
+    "forks_count": 34,
+    "open_issues_count": 2,
+    "created_at": "2026-09-25T07:35:18Z",
+    "updated_at": "2026-09-29T06:20:50Z",
+    "pushed_at": "2026-09-28T18:57:40Z"
+  },
+  {
+    "id": 1389900426,
+    "name": "opus-video-prompts",
+    "full_name": "joeseesun/opus-video-prompts",
+    "owner": {
+      "login": "joeseesun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+    },
+    "description": "Claude Opus 5.5 用代码生成视频：全网案例与可直接复制的提示词 | Copy-ready prompts & 54 cases of Opus 5.5 code-rendered videos",
+    "topics": [
+      "claude",
+      "claude-code",
+      "motion-graphics",
+      "opus",
+      "prompts",
+      "remotion",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/joeseesun/opus-video-prompts",
+    "stargazers_count": 96,
+    "language": null,
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T00:16:07Z",
+    "updated_at": "2026-09-29T16:35:26Z",
+    "pushed_at": "2026-09-27T00:16:11Z"
+  }
+]

@@ -1,0 +1,615 @@
+[
+  {
+    "id": 1383809012,
+    "name": "magpie",
+    "full_name": "yetone/magpie",
+    "owner": {
+      "login": "yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+    },
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "deepseek",
+      "gemini-cli",
+      "llm",
+      "macos"
+    ],
+    "html_url": "https://github.com/yetone/magpie",
+    "stargazers_count": 2819,
+    "language": "Go",
+    "forks_count": 168,
+    "open_issues_count": 30,
+    "created_at": "2026-09-23T16:22:35Z",
+    "updated_at": "2026-09-30T01:59:48Z",
+    "pushed_at": "2026-09-30T01:37:17Z"
+  },
+  {
+    "id": 1388482474,
+    "name": "jevgrep",
+    "full_name": "dzhng/jevgrep",
+    "owner": {
+      "login": "dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+    },
+    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "topics": [
+      "ai-sdk",
+      "claude-code",
+      "cli",
+      "code-search",
+      "codex",
+      "coding-agents",
+      "context-retrieval",
+      "developer-tools",
+      "jev",
+      "semantic-search",
+      "typescript",
+      "vercel-ai-gateway"
+    ],
+    "html_url": "https://github.com/dzhng/jevgrep",
+    "stargazers_count": 1782,
+    "language": "TypeScript",
+    "forks_count": 114,
+    "open_issues_count": 25,
+    "created_at": "2026-09-26T04:06:56Z",
+    "updated_at": "2026-09-30T01:50:32Z",
+    "pushed_at": "2026-09-29T07:30:22Z"
+  },
+  {
+    "id": 1383518430,
+    "name": "golive-skill",
+    "full_name": "mikehasa/golive-skill",
+    "owner": {
+      "login": "mikehasa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91774998?v=4"
+    },
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "cloudflare",
+      "codex",
+      "database",
+      "deployment",
+      "developer-tools",
+      "devops",
+      "dns",
+      "godaddy",
+      "hosting",
+      "infrastructure",
+      "neon",
+      "netlify",
+      "porkbun",
+      "skills",
+      "supabase",
+      "vercel"
+    ],
+    "html_url": "https://github.com/mikehasa/golive-skill",
+    "stargazers_count": 1115,
+    "language": "TypeScript",
+    "forks_count": 82,
+    "open_issues_count": 1,
+    "created_at": "2026-09-23T13:37:26Z",
+    "updated_at": "2026-09-30T00:51:21Z",
+    "pushed_at": "2026-09-29T12:52:34Z"
+  },
+  {
+    "id": 1388867993,
+    "name": "logo-design-skill",
+    "full_name": "kaankiziltug/logo-design-skill",
+    "owner": {
+      "login": "kaankiziltug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119437067?v=4"
+    },
+    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "topics": [
+      "agent-skills",
+      "branding",
+      "claude",
+      "claude-skills",
+      "codex",
+      "gemini-cli",
+      "logo-design",
+      "svg"
+    ],
+    "html_url": "https://github.com/kaankiziltug/logo-design-skill",
+    "stargazers_count": 844,
+    "language": "HTML",
+    "forks_count": 40,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T08:23:34Z",
+    "updated_at": "2026-09-30T01:45:32Z",
+    "pushed_at": "2026-09-29T08:27:51Z"
+  },
+  {
+    "id": 1390088311,
+    "name": "awesome-claude-video-skills",
+    "full_name": "zhuyansen/awesome-claude-video-skills",
+    "owner": {
+      "login": "zhuyansen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24306647?v=4"
+    },
+    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
+    "topics": [
+      "agent-skills",
+      "awesome-list",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "hyperframes",
+      "motion-graphics",
+      "opus-5-5",
+      "remotion",
+      "video"
+    ],
+    "html_url": "https://github.com/zhuyansen/awesome-claude-video-skills",
+    "stargazers_count": 297,
+    "language": null,
+    "forks_count": 32,
+    "open_issues_count": 2,
+    "created_at": "2026-09-27T04:06:05Z",
+    "updated_at": "2026-09-30T01:40:57Z",
+    "pushed_at": "2026-09-28T09:30:21Z"
+  },
+  {
+    "id": 1384864244,
+    "name": "unreal-home-wizard",
+    "full_name": "amirmushichge/unreal-home-wizard",
+    "owner": {
+      "login": "amirmushichge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266672775?v=4"
+    },
+    "description": "Turn room and home photographs into reviewable, walkable Unreal Engine projects with Codex.",
+    "topics": [
+      "architecture",
+      "codex",
+      "digital-twin",
+      "photogrammetry",
+      "unreal-engine"
+    ],
+    "html_url": "https://github.com/amirmushichge/unreal-home-wizard",
+    "stargazers_count": 269,
+    "language": "PowerShell",
+    "forks_count": 38,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T06:39:38Z",
+    "updated_at": "2026-09-29T20:00:59Z",
+    "pushed_at": "2026-09-24T16:53:22Z"
+  },
+  {
+    "id": 1385750356,
+    "name": "paperclip-guide",
+    "full_name": "theNetworkChuck/paperclip-guide",
+    "owner": {
+      "login": "theNetworkChuck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47433490?v=4"
+    },
+    "description": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
+    "topics": [
+      "ai-agents",
+      "ai-company",
+      "claude-code",
+      "codex",
+      "flare",
+      "hermes",
+      "homelab",
+      "networkchuck",
+      "paperclip"
+    ],
+    "html_url": "https://github.com/theNetworkChuck/paperclip-guide",
+    "stargazers_count": 122,
+    "language": "TypeScript",
+    "forks_count": 18,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T15:00:59Z",
+    "updated_at": "2026-09-30T01:24:08Z",
+    "pushed_at": "2026-09-24T15:02:21Z"
+  },
+  {
+    "id": 1387019363,
+    "name": "motion-video-skill",
+    "full_name": "bestagentkits/motion-video-skill",
+    "owner": {
+      "login": "bestagentkits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277952553?v=4"
+    },
+    "description": "Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
+    "topics": [
+      "agent-skills",
+      "beat-sync",
+      "chatgpt-plugins",
+      "claude-code",
+      "claude-plugin",
+      "codex",
+      "gsap",
+      "hyperframes",
+      "motion-graphics",
+      "video"
+    ],
+    "html_url": "https://github.com/bestagentkits/motion-video-skill",
+    "stargazers_count": 103,
+    "language": "JavaScript",
+    "forks_count": 34,
+    "open_issues_count": 2,
+    "created_at": "2026-09-25T07:35:18Z",
+    "updated_at": "2026-09-29T06:20:50Z",
+    "pushed_at": "2026-09-28T18:57:40Z"
+  },
+  {
+    "id": 1387850278,
+    "name": "simfleet",
+    "full_name": "entropyconquers/simfleet",
+    "owner": {
+      "login": "entropyconquers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84171764?v=4"
+    },
+    "description": "One control plane for parallel React Native work on macOS: slimmed iOS simulators & Android emulators, live dashboard, leased Metro ports, shared native build cache, and Claude Code / Codex device attribution.",
+    "topics": [
+      "android-emulator",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "expo",
+      "ios-simulator",
+      "macos",
+      "metro",
+      "react-native",
+      "scrcpy"
+    ],
+    "html_url": "https://github.com/entropyconquers/simfleet",
+    "stargazers_count": 92,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-09-25T16:16:20Z",
+    "updated_at": "2026-09-29T22:15:49Z",
+    "pushed_at": "2026-09-28T22:56:10Z"
+  },
+  {
+    "id": 1390373702,
+    "name": "ufo-core",
+    "full_name": "ufo-ai/ufo-core",
+    "owner": {
+      "login": "ufo-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328128659?v=4"
+    },
+    "description": "Business agent operating system",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "openai",
+      "openclaw"
+    ],
+    "html_url": "https://github.com/ufo-ai/ufo-core",
+    "stargazers_count": 84,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 10,
+    "created_at": "2026-09-27T07:25:44Z",
+    "updated_at": "2026-09-29T19:10:08Z",
+    "pushed_at": "2026-09-29T19:10:04Z"
+  },
+  {
+    "id": 1382486279,
+    "name": "quiron",
+    "full_name": "ilien-dev/quiron",
+    "owner": {
+      "login": "ilien-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243913865?v=4"
+    },
+    "description": "AI humanizer skill for Claude Code, Codex and Cursor. Removes AI slop and the signs of AI writing, then measures the rewrite against human baselines.",
+    "topics": [
+      "agent-skills",
+      "ai-humanizer",
+      "ai-slop",
+      "ai-writing",
+      "anti-slop",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "deslop",
+      "humanize-ai-text",
+      "humanizer",
+      "llm",
+      "nlp",
+      "prompt-engineering",
+      "stylometry",
+      "writing-assistant",
+      "writing-tools"
+    ],
+    "html_url": "https://github.com/ilien-dev/quiron",
+    "stargazers_count": 53,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T00:01:36Z",
+    "updated_at": "2026-09-29T22:14:00Z",
+    "pushed_at": "2026-09-25T01:59:50Z"
+  },
+  {
+    "id": 1388199229,
+    "name": "evident-charts",
+    "full_name": "rhiever/evident-charts",
+    "owner": {
+      "login": "rhiever",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1719223?v=4"
+    },
+    "description": "Teaches AI coding agents to make clear, honest charts, and checks each one before you see it. For Claude Code, Codex, Cursor, and more.",
+    "topics": [
+      "agent-skills",
+      "charts",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "matplotlib"
+    ],
+    "html_url": "https://github.com/rhiever/evident-charts",
+    "stargazers_count": 49,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T21:19:21Z",
+    "updated_at": "2026-09-29T08:52:33Z",
+    "pushed_at": "2026-09-29T06:15:06Z"
+  },
+  {
+    "id": 1384236560,
+    "name": "ablation",
+    "full_name": "Ablation-Tool/ablation",
+    "owner": {
+      "login": "Ablation-Tool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333101388?v=4"
+    },
+    "description": "Ablation is a reverse engineering framework",
+    "topics": [
+      "binary-analysis",
+      "claude-code",
+      "codex",
+      "decompiler",
+      "diffing",
+      "disassembler",
+      "educational",
+      "firmware-analysis",
+      "open-source",
+      "reverse-engineering"
+    ],
+    "html_url": "https://github.com/Ablation-Tool/ablation",
+    "stargazers_count": 47,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T21:44:35Z",
+    "updated_at": "2026-09-29T19:50:59Z",
+    "pushed_at": "2026-09-29T23:14:44Z"
+  },
+  {
+    "id": 1387233296,
+    "name": "blurt",
+    "full_name": "AGIHunt/blurt",
+    "owner": {
+      "login": "AGIHunt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299988460?v=4"
+    },
+    "description": "Show it. Say it. Your AI gets it. Record your screen and talk — your coding agent turns it into bugs, ideas and to-dos, with the exact frames marked. 口喷鸡：边看边喷，AI 全懂。Agent Skill + macOS menu-bar app for Claude Code / Codex.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "bug-report",
+      "claude-code",
+      "codex",
+      "feedback",
+      "feishu",
+      "macos",
+      "screen-recording",
+      "speech-recognition",
+      "vibe-coding",
+      "voice"
+    ],
+    "html_url": "https://github.com/AGIHunt/blurt",
+    "stargazers_count": 37,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 4,
+    "created_at": "2026-09-25T09:59:27Z",
+    "updated_at": "2026-09-30T01:50:14Z",
+    "pushed_at": "2026-09-28T09:48:24Z"
+  },
+  {
+    "id": 1393689296,
+    "name": "reelmimic",
+    "full_name": "edenfunf/reelmimic",
+    "owner": {
+      "login": "edenfunf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146086744?v=4"
+    },
+    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+    "topics": [
+      "2d-animation",
+      "ai-agents",
+      "ai-video",
+      "animation",
+      "claude-code",
+      "codex",
+      "multi-agent",
+      "style-transfer",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/edenfunf/reelmimic",
+    "stargazers_count": 36,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T19:14:59Z",
+    "updated_at": "2026-09-30T01:51:23Z",
+    "pushed_at": "2026-09-29T19:38:44Z"
+  },
+  {
+    "id": 1383170289,
+    "name": "alice_skill",
+    "full_name": "alicewe1/alice_skill",
+    "owner": {
+      "login": "alicewe1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102134151?v=4"
+    },
+    "description": "Alice 集成技能包 · 放进去就能用 · Drop-in skill suite for AI coding agents",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "router",
+      "security-tools",
+      "skill-library",
+      "windows"
+    ],
+    "html_url": "https://github.com/alicewe1/alice_skill",
+    "stargazers_count": 34,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T09:48:44Z",
+    "updated_at": "2026-09-29T19:04:27Z",
+    "pushed_at": "2026-09-29T16:41:20Z"
+  },
+  {
+    "id": 1386811131,
+    "name": "bricks",
+    "full_name": "kostja94/bricks",
+    "owner": {
+      "login": "kostja94",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168074885?v=4"
+    },
+    "description": "Component layer for AI agents: implementation-aware contracts for building project-native interface components.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "design-systems",
+      "developer-tools",
+      "frontend",
+      "interface-components",
+      "llm",
+      "ui-components",
+      "web-development"
+    ],
+    "html_url": "https://github.com/kostja94/bricks",
+    "stargazers_count": 30,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T05:18:31Z",
+    "updated_at": "2026-09-30T01:59:34Z",
+    "pushed_at": "2026-09-25T14:13:59Z"
+  },
+  {
+    "id": 1391713487,
+    "name": "agentbox",
+    "full_name": "devilcoolyue/agentbox",
+    "owner": {
+      "login": "devilcoolyue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15119216?v=4"
+    },
+    "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
+    "topics": [
+      "ai-coding",
+      "claude-code",
+      "codex",
+      "docker",
+      "golang",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/devilcoolyue/agentbox",
+    "stargazers_count": 29,
+    "language": "Go",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T03:32:41Z",
+    "updated_at": "2026-09-30T00:30:57Z",
+    "pushed_at": "2026-09-29T03:33:20Z"
+  },
+  {
+    "id": 1389294768,
+    "name": "motion-graphics-skills",
+    "full_name": "charlie947/motion-graphics-skills",
+    "owner": {
+      "login": "charlie947",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255382850?v=4"
+    },
+    "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
+    "topics": [
+      "agent-skills",
+      "ai-marketing",
+      "animation",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "hyperframes",
+      "motion-graphics",
+      "video"
+    ],
+    "html_url": "https://github.com/charlie947/motion-graphics-skills",
+    "stargazers_count": 27,
+    "language": "Shell",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T13:57:34Z",
+    "updated_at": "2026-09-30T00:25:16Z",
+    "pushed_at": "2026-09-27T09:41:54Z"
+  },
+  {
+    "id": 1384702527,
+    "name": "codex-attachment-manager",
+    "full_name": "chipfighter/codex-attachment-manager",
+    "owner": {
+      "login": "chipfighter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92256151?v=4"
+    },
+    "description": "Codex plugin: choose which past images go to the model with your next message. Unchecked images become placeholders, the task goes on, and requests stay small.",
+    "topics": [
+      "chatgpt",
+      "codex",
+      "codex-plugin",
+      "context-management",
+      "context-window",
+      "developer-tools",
+      "images",
+      "mcp",
+      "mcp-apps",
+      "model-context-protocol",
+      "openai",
+      "openai-codex",
+      "proxy",
+      "token-optimization",
+      "typescript"
+    ],
+    "html_url": "https://github.com/chipfighter/codex-attachment-manager",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T05:00:09Z",
+    "updated_at": "2026-09-30T00:35:24Z",
+    "pushed_at": "2026-09-29T05:32:18Z"
+  }
+]

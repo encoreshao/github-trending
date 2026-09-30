@@ -1,0 +1,604 @@
+[
+  {
+    "id": 1385252572,
+    "name": "json-guard",
+    "full_name": "agentscope-ai-java/json-guard",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "JSON.parse with hard limits on nesting depth, key count, string length and input size. Refuses parser bombs before they are allocated.",
+    "topics": [
+      "dos",
+      "json",
+      "nodejs",
+      "security",
+      "typescript",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/json-guard",
+    "stargazers_count": 86,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T10:30:02Z",
+    "updated_at": "2026-09-28T22:27:49Z",
+    "pushed_at": "2026-09-24T10:30:06Z"
+  },
+  {
+    "id": 1394206642,
+    "name": "ai-chatroom",
+    "full_name": "Moris-kr/ai-chatroom",
+    "owner": {
+      "login": "Moris-kr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220906177?v=4"
+    },
+    "description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
+    "topics": [
+      "ai-agents",
+      "ai-characters",
+      "ai-chat",
+      "ai-companion",
+      "anime",
+      "chatgpt",
+      "chibi",
+      "claude",
+      "claude-code",
+      "codex-cli",
+      "gemini",
+      "grok",
+      "group-chat",
+      "kawaii",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "otaku",
+      "waifu",
+      "weeb"
+    ],
+    "html_url": "https://github.com/Moris-kr/ai-chatroom",
+    "stargazers_count": 37,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T03:42:10Z",
+    "updated_at": "2026-09-30T01:56:15Z",
+    "pushed_at": "2026-09-29T05:16:14Z"
+  },
+  {
+    "id": 1392972171,
+    "name": "commander-mangen",
+    "full_name": "kofiadeyemiq/commander-mangen",
+    "owner": {
+      "login": "kofiadeyemiq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334555386?v=4"
+    },
+    "description": "Generate man pages from a commander.js program, including every subcommand's options.",
+    "topics": [
+      "cli",
+      "commander",
+      "documentation",
+      "man-page",
+      "nodejs",
+      "roff"
+    ],
+    "html_url": "https://github.com/kofiadeyemiq/commander-mangen",
+    "stargazers_count": 33,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:43:48Z",
+    "updated_at": "2026-09-29T12:55:25Z",
+    "pushed_at": "2026-09-28T14:46:21Z"
+  },
+  {
+    "id": 1392971873,
+    "name": "action-dist-verify",
+    "full_name": "kofiadeyemiq/action-dist-verify",
+    "owner": {
+      "login": "kofiadeyemiq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334555386?v=4"
+    },
+    "description": "Rebuild the JavaScript GitHub Actions your workflows pin and check that their committed dist matches the source.",
+    "topics": [
+      "github-actions",
+      "nodejs",
+      "reproducible-builds",
+      "security",
+      "supply-chain"
+    ],
+    "html_url": "https://github.com/kofiadeyemiq/action-dist-verify",
+    "stargazers_count": 30,
+    "language": "TypeScript",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:43:40Z",
+    "updated_at": "2026-09-29T12:55:50Z",
+    "pushed_at": "2026-09-28T14:43:46Z"
+  },
+  {
+    "id": 1388621856,
+    "name": "t66y-automatic",
+    "full_name": "brandelkrefinery/t66y-automatic",
+    "owner": {
+      "login": "brandelkrefinery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296647614?v=4"
+    },
+    "description": "草榴社区 t66y(1024）自动化工具 · 自动签到 / 自动回帖 / 新帖监控 / Telegram·Bark·Server酱推送 · 多账号 · Node.js CLI · 一条命令安装",
+    "topics": [
+      "1024",
+      "auto-checkin",
+      "auto-reply",
+      "bark",
+      "caoliu",
+      "checkin-bot",
+      "crawler",
+      "forum-automation",
+      "forum-bot",
+      "nodejs",
+      "serverchan",
+      "t66y",
+      "telegram-bot"
+    ],
+    "html_url": "https://github.com/brandelkrefinery/t66y-automatic",
+    "stargazers_count": 22,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T05:53:07Z",
+    "updated_at": "2026-09-27T01:55:54Z",
+    "pushed_at": "2026-09-26T08:17:37Z"
+  },
+  {
+    "id": 1385255054,
+    "name": "pg-outbox",
+    "full_name": "agentscope-ai-java/pg-outbox",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Transactional outbox for Postgres with no driver dependency — pass in any query function.",
+    "topics": [
+      "messaging",
+      "nodejs",
+      "outbox",
+      "postgres",
+      "transactions",
+      "typescript"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/pg-outbox",
+    "stargazers_count": 20,
+    "language": "TypeScript",
+    "forks_count": 20,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T10:32:01Z",
+    "updated_at": "2026-09-25T04:54:04Z",
+    "pushed_at": "2026-09-24T13:10:44Z"
+  },
+  {
+    "id": 1383088922,
+    "name": "CreditDaddy",
+    "full_name": "techysy/CreditDaddy",
+    "owner": {
+      "login": "techysy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8453626?v=4"
+    },
+    "description": "AI 编程工具多账号本地管理 + 每日积分自动签到：Qoder / WorkBuddy(CodeBuddy) / ZCode，接入 10Router 看额度、同步用量。Windows 托盘桌面版 + 飞牛 fnOS fpk，数据只留本机，零依赖。",
+    "topics": [
+      "10router",
+      "account-manager",
+      "ai-coding",
+      "codebuddy",
+      "daily-checkin",
+      "electron",
+      "fnos",
+      "glm",
+      "multi-account",
+      "nas",
+      "nodejs",
+      "qoder",
+      "workbuddy",
+      "zcode"
+    ],
+    "html_url": "https://github.com/techysy/CreditDaddy",
+    "stargazers_count": 19,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 5,
+    "created_at": "2026-09-23T08:50:53Z",
+    "updated_at": "2026-09-30T00:51:43Z",
+    "pushed_at": "2026-09-29T16:05:30Z"
+  },
+  {
+    "id": 1382916360,
+    "name": "drizzle",
+    "full_name": "nestjs/drizzle",
+    "owner": {
+      "login": "nestjs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28507035?v=4"
+    },
+    "description": "Drizzle module for Nest framework (node.js) 🗄️",
+    "topics": [
+      "drizzle",
+      "drizzle-orm",
+      "drizzleorm",
+      "mysql",
+      "nestjs",
+      "nodejs",
+      "postgres",
+      "typescript"
+    ],
+    "html_url": "https://github.com/nestjs/drizzle",
+    "stargazers_count": 19,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-09-23T06:52:49Z",
+    "updated_at": "2026-09-29T21:24:18Z",
+    "pushed_at": "2026-09-29T21:24:15Z"
+  },
+  {
+    "id": 1388309735,
+    "name": "burn",
+    "full_name": "aashish254/burn",
+    "owner": {
+      "login": "aashish254",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145881415?v=4"
+    },
+    "description": "Local-first, zero-dependency cost ledger for your AI coding agents. Reads the transcripts Claude Code / OpenCode / Codex / Gemini CLI already leave on disk — spend per repo, model, day, and git branch, with honest billed/estimated/unpriced provenance. No network, no account, no telemetry. ULP 1.0 reference implementation.",
+    "topics": [
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "codex",
+      "cost-tracking",
+      "developer-tools",
+      "gemini-cli",
+      "local-first",
+      "nodejs",
+      "observability",
+      "opencode",
+      "ulp",
+      "usage-ledger",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/aashish254/burn",
+    "stargazers_count": 11,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T00:10:24Z",
+    "updated_at": "2026-09-29T18:30:55Z",
+    "pushed_at": "2026-09-26T04:23:18Z"
+  },
+  {
+    "id": 1391453126,
+    "name": "nestjs-quota",
+    "full_name": "Silent-Watcher/nestjs-quota",
+    "owner": {
+      "login": "Silent-Watcher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91375198?v=4"
+    },
+    "description": "Production-grade API quota enforcement and usage metering for NestJS",
+    "topics": [
+      "ai",
+      "ai-coding",
+      "ai-tools",
+      "api",
+      "api-quota",
+      "nestjs",
+      "nodejs",
+      "productivity"
+    ],
+    "html_url": "https://github.com/Silent-Watcher/nestjs-quota",
+    "stargazers_count": 9,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T22:18:16Z",
+    "updated_at": "2026-09-29T19:11:26Z",
+    "pushed_at": "2026-09-28T02:22:23Z"
+  },
+  {
+    "id": 1383260291,
+    "name": "portfolio-chat",
+    "full_name": "hasanjim-dev/portfolio-chat",
+    "owner": {
+      "login": "hasanjim-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158815489?v=4"
+    },
+    "description": "Real-time chat widget for my portfolio — React, Node.js, Socket.io & MySQL",
+    "topics": [
+      "express",
+      "mysql",
+      "nodejs",
+      "portfolio",
+      "react",
+      "realtime-chat",
+      "socketio"
+    ],
+    "html_url": "https://github.com/hasanjim-dev/portfolio-chat",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T10:59:09Z",
+    "updated_at": "2026-09-28T09:15:51Z",
+    "pushed_at": "2026-09-23T11:04:17Z"
+  },
+  {
+    "id": 1384074775,
+    "name": "ReadCraft",
+    "full_name": "RajHarsh03/ReadCraft",
+    "owner": {
+      "login": "RajHarsh03",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217300092?v=4"
+    },
+    "description": "Craft a GitHub profile README worthy of your code - live GFM preview, self-hosted theme-aware SVG stat cards, 18 style templates, one-click export. React 19 + Fastify on Vercel.",
+    "topics": [
+      "developer-tools",
+      "fastify",
+      "github-profile",
+      "github-profile-markdown",
+      "github-profile-readme",
+      "github-profile-readme-md",
+      "markdown",
+      "nodejs",
+      "open-source",
+      "profile-readme",
+      "react",
+      "readme",
+      "readme-generator",
+      "readme-md",
+      "readme-profile",
+      "svg",
+      "tailwindcss",
+      "typescript",
+      "vercel",
+      "vite"
+    ],
+    "html_url": "https://github.com/RajHarsh03/ReadCraft",
+    "stargazers_count": 8,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T19:14:14Z",
+    "updated_at": "2026-09-26T13:26:15Z",
+    "pushed_at": "2026-09-25T22:41:55Z"
+  },
+  {
+    "id": 1385072160,
+    "name": "job-portal",
+    "full_name": "hasanjim-dev/job-portal",
+    "owner": {
+      "login": "hasanjim-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158815489?v=4"
+    },
+    "description": "Full-stack job portal with role-based access, job search & filters, applications, and an admin dashboard. Built with Node.js, Express and MySQL.",
+    "topics": [
+      "express",
+      "full-stack",
+      "javascript",
+      "job-portal",
+      "jwt",
+      "mysql",
+      "nodejs",
+      "railway",
+      "rest-api",
+      "vercel"
+    ],
+    "html_url": "https://github.com/hasanjim-dev/job-portal",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T08:35:05Z",
+    "updated_at": "2026-09-28T09:15:51Z",
+    "pushed_at": "2026-09-24T11:27:02Z"
+  },
+  {
+    "id": 1387061387,
+    "name": "storage",
+    "full_name": "nestjs/storage",
+    "owner": {
+      "login": "nestjs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28507035?v=4"
+    },
+    "description": "A file storage module for NestJS framework 🗂️",
+    "topics": [
+      "file-storage",
+      "nestjs",
+      "nodejs",
+      "s3",
+      "storage"
+    ],
+    "html_url": "https://github.com/nestjs/storage",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 3,
+    "created_at": "2026-09-25T08:01:24Z",
+    "updated_at": "2026-09-27T21:26:27Z",
+    "pushed_at": "2026-09-25T08:29:50Z"
+  },
+  {
+    "id": 1387068215,
+    "name": "outbox",
+    "full_name": "nestjs/outbox",
+    "owner": {
+      "login": "nestjs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28507035?v=4"
+    },
+    "description": "A transactional outbox module for Nest framework (node.js) 📤",
+    "topics": [
+      "nestjs",
+      "nodejs",
+      "outbox-pattern",
+      "transactional-outbox"
+    ],
+    "html_url": "https://github.com/nestjs/outbox",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 5,
+    "created_at": "2026-09-25T08:05:55Z",
+    "updated_at": "2026-09-28T08:10:48Z",
+    "pushed_at": "2026-09-28T08:10:43Z"
+  },
+  {
+    "id": 1386057123,
+    "name": "proxy-benchmarker",
+    "full_name": "Its-Satyajit/proxy-benchmarker",
+    "owner": {
+      "login": "Its-Satyajit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77627641?v=4"
+    },
+    "description": "Fast public proxy benchmarker that tests latency, anonymity, reachability, and performance across 50 websites.",
+    "topics": [
+      "benchmark",
+      "curl",
+      "http-proxy",
+      "https-proxy",
+      "networking",
+      "nodejs",
+      "proxy",
+      "proxy-benchmark",
+      "proxy-checker",
+      "proxy-tester",
+      "socks4",
+      "socks5",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Its-Satyajit/proxy-benchmarker",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-24T17:35:34Z",
+    "updated_at": "2026-09-28T02:35:27Z",
+    "pushed_at": "2026-09-26T02:29:24Z"
+  },
+  {
+    "id": 1387721926,
+    "name": "technocore-close-call-desk",
+    "full_name": "UfukNode/technocore-close-call-desk",
+    "owner": {
+      "login": "UfukNode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208284577?v=4"
+    },
+    "description": "Bilingual community desk for the Technocore Close Call prediction challenge.",
+    "topics": [
+      "community-tool",
+      "did-key",
+      "flop",
+      "nodejs",
+      "prediction-market",
+      "technocore"
+    ],
+    "html_url": "https://github.com/UfukNode/technocore-close-call-desk",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-09-25T14:59:03Z",
+    "updated_at": "2026-09-27T16:24:05Z",
+    "pushed_at": "2026-09-27T16:24:01Z"
+  },
+  {
+    "id": 1382574792,
+    "name": "fusion-cli",
+    "full_name": "Tanerinki/fusion-cli",
+    "owner": {
+      "login": "Tanerinki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97948136?v=4"
+    },
+    "description": "Local multi-model coding control plane. Models propose; Fusion verifies and delivers — nothing reaches your repo until you approve its exact bytes.",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "code-review",
+      "developer-tools",
+      "docker",
+      "multi-agent",
+      "nodejs",
+      "software-engineering",
+      "typescript",
+      "windows"
+    ],
+    "html_url": "https://github.com/Tanerinki/fusion-cli",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T01:54:03Z",
+    "updated_at": "2026-09-30T01:41:50Z",
+    "pushed_at": "2026-09-30T01:41:47Z"
+  },
+  {
+    "id": 1385595909,
+    "name": "puter-ai-cli",
+    "full_name": "MishraShardendu22/puter-ai-cli",
+    "owner": {
+      "login": "MishraShardendu22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175409658?v=4"
+    },
+    "description": "Free CLI AI assistant powered by Puter.js — stream GPT-4o, GPT-5.4, Claude & more directly from your terminal with zero OpenAI API keys, token pooling & auto-failover.",
+    "topics": [
+      "ai",
+      "cli",
+      "developer-tools",
+      "gpt-4o",
+      "gpt-5",
+      "llm",
+      "nodejs",
+      "puter",
+      "puterjs",
+      "streaming",
+      "terminal",
+      "typescript"
+    ],
+    "html_url": "https://github.com/MishraShardendu22/puter-ai-cli",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-24T13:45:15Z",
+    "updated_at": "2026-09-26T19:03:46Z",
+    "pushed_at": "2026-09-26T19:03:42Z"
+  },
+  {
+    "id": 1382767976,
+    "name": "flashyos-tools",
+    "full_name": "FlashyLabs/flashyos-tools",
+    "owner": {
+      "login": "FlashyLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121371508?v=4"
+    },
+    "description": "⚡️ Two small answers to questions that fail silently: which directory each domain in your repo actually publishes from, and whether a silent fetch was the host or your own egress proxy. Zero dependencies, no account, no telemetry.",
+    "topics": [
+      "apache2",
+      "ci",
+      "cli",
+      "deployment",
+      "developer-tools",
+      "devops",
+      "devops-tools",
+      "flashy",
+      "flashyos",
+      "json",
+      "monorepo",
+      "nodejs",
+      "static-site",
+      "vercel",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/FlashyLabs/flashyos-tools",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-23T04:48:59Z",
+    "updated_at": "2026-09-29T01:41:11Z",
+    "pushed_at": "2026-09-29T01:41:07Z"
+  }
+]
