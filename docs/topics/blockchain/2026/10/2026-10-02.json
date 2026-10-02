@@ -1,0 +1,617 @@
+[
+  {
+    "id": 1392357304,
+    "name": "genpark-schnorr-signature-discrete-log-skill",
+    "full_name": "alphaparkinc/genpark-schnorr-signature-discrete-log-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Schnorr signature scheme and non-interactive zero-knowledge identification verification",
+    "topics": [
+      "agent-skills",
+      "blockchain",
+      "cryptography",
+      "digital-signature",
+      "discrete-log",
+      "mcp",
+      "nizk",
+      "python-standard-library",
+      "schnorr-signature",
+      "security",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-schnorr-signature-discrete-log-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:51:07Z",
+    "updated_at": "2026-09-28T09:51:36Z",
+    "pushed_at": "2026-09-28T09:51:24Z"
+  },
+  {
+    "id": 1392352834,
+    "name": "genpark-elliptic-curve-secp256k1-point-math-skill",
+    "full_name": "alphaparkinc/genpark-elliptic-curve-secp256k1-point-math-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Weierstrass elliptic curve arithmetic, affine point addition, and double-and-add scalar multiplication",
+    "topics": [
+      "agent-skills",
+      "blockchain",
+      "cryptography",
+      "elliptic-curve",
+      "finite-field",
+      "mcp",
+      "point-multiplication",
+      "python-standard-library",
+      "secp256k1",
+      "security",
+      "weierstrass-curve"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-elliptic-curve-secp256k1-point-math-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:48:21Z",
+    "updated_at": "2026-09-28T09:48:47Z",
+    "pushed_at": "2026-09-28T09:48:37Z"
+  },
+  {
+    "id": 1392359960,
+    "name": "genpark-pedersen-commitment-homomorphic-skill",
+    "full_name": "Alpha-Park/genpark-pedersen-commitment-homomorphic-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Homomorphic cryptographic Pedersen commitments with blinding factors and additive verification",
+    "topics": [
+      "agent-skills",
+      "blinding-factor",
+      "blockchain",
+      "confidential-transactions",
+      "cryptography",
+      "homomorphic",
+      "mcp",
+      "pedersen-commitment",
+      "python-standard-library",
+      "security",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-pedersen-commitment-homomorphic-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:52:45Z",
+    "updated_at": "2026-09-28T09:53:16Z",
+    "pushed_at": "2026-09-28T09:53:05Z"
+  },
+  {
+    "id": 1392358077,
+    "name": "genpark-schnorr-signature-discrete-log-skill",
+    "full_name": "Alpha-Park/genpark-schnorr-signature-discrete-log-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Schnorr signature scheme and non-interactive zero-knowledge identification verification",
+    "topics": [
+      "agent-skills",
+      "blockchain",
+      "cryptography",
+      "digital-signature",
+      "discrete-log",
+      "mcp",
+      "nizk",
+      "python-standard-library",
+      "schnorr-signature",
+      "security",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-schnorr-signature-discrete-log-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:51:37Z",
+    "updated_at": "2026-09-28T09:52:04Z",
+    "pushed_at": "2026-09-28T09:51:54Z"
+  },
+  {
+    "id": 1392358899,
+    "name": "genpark-pedersen-commitment-homomorphic-skill",
+    "full_name": "alphaparkinc/genpark-pedersen-commitment-homomorphic-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Homomorphic cryptographic Pedersen commitments with blinding factors and additive verification",
+    "topics": [
+      "agent-skills",
+      "blinding-factor",
+      "blockchain",
+      "confidential-transactions",
+      "cryptography",
+      "homomorphic",
+      "mcp",
+      "pedersen-commitment",
+      "python-standard-library",
+      "security",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-pedersen-commitment-homomorphic-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:52:05Z",
+    "updated_at": "2026-09-28T09:52:43Z",
+    "pushed_at": "2026-09-28T09:52:31Z"
+  },
+  {
+    "id": 1392973178,
+    "name": "genpark-verifiable-random-function-vrf-hash-skill",
+    "full_name": "Alpha-Park/genpark-verifiable-random-function-vrf-hash-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Verifiable Random Function (VRF) generating deterministic pseudorandom output with verifiable non-interactive proof",
+    "topics": [
+      "agent-skills",
+      "blockchain",
+      "cryptography",
+      "leader-election",
+      "mcp",
+      "non-interactive-proof",
+      "python-standard-library",
+      "randomness-beacon",
+      "verifiable-computation",
+      "verifiable-random-function",
+      "vrf"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-verifiable-random-function-vrf-hash-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:44:15Z",
+    "updated_at": "2026-09-28T14:45:00Z",
+    "pushed_at": "2026-09-28T14:44:46Z"
+  },
+  {
+    "id": 1392353517,
+    "name": "genpark-elliptic-curve-secp256k1-point-math-skill",
+    "full_name": "Alpha-Park/genpark-elliptic-curve-secp256k1-point-math-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Weierstrass elliptic curve arithmetic, affine point addition, and double-and-add scalar multiplication",
+    "topics": [
+      "agent-skills",
+      "blockchain",
+      "cryptography",
+      "elliptic-curve",
+      "finite-field",
+      "mcp",
+      "point-multiplication",
+      "python-standard-library",
+      "secp256k1",
+      "security",
+      "weierstrass-curve"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-elliptic-curve-secp256k1-point-math-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:48:48Z",
+    "updated_at": "2026-09-28T09:49:15Z",
+    "pushed_at": "2026-09-28T09:49:05Z"
+  },
+  {
+    "id": 1392971655,
+    "name": "genpark-verifiable-random-function-vrf-hash-skill",
+    "full_name": "alphaparkinc/genpark-verifiable-random-function-vrf-hash-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Verifiable Random Function (VRF) generating deterministic pseudorandom output with verifiable non-interactive proof",
+    "topics": [
+      "agent-skills",
+      "blockchain",
+      "cryptography",
+      "leader-election",
+      "mcp",
+      "non-interactive-proof",
+      "python-standard-library",
+      "randomness-beacon",
+      "verifiable-computation",
+      "verifiable-random-function",
+      "vrf"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-verifiable-random-function-vrf-hash-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:43:35Z",
+    "updated_at": "2026-09-28T14:44:13Z",
+    "pushed_at": "2026-09-28T14:44:01Z"
+  },
+  {
+    "id": 1395216887,
+    "name": "blockdns",
+    "full_name": "blockdns1-arch/blockdns",
+    "owner": {
+      "login": "blockdns1-arch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/335220200?v=4"
+    },
+    "description": "Decentralized onchain domains on Base - registry, marketplace, resolver, staking, burn engine, gateway, swap and bridge + L1 PoW PoC",
+    "topics": [
+      "base-blockchain",
+      "blockchain",
+      "defi",
+      "dns",
+      "ethereum",
+      "identity",
+      "legaltech",
+      "nft",
+      "smart-contracts",
+      "solidity",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/blockdns1-arch/blockdns",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T12:28:43Z",
+    "updated_at": "2026-09-30T19:02:17Z",
+    "pushed_at": "2026-09-30T19:02:13Z"
+  },
+  {
+    "id": 1389634632,
+    "name": "OpenCasp-KYC",
+    "full_name": "armanmamyan/OpenCasp-KYC",
+    "owner": {
+      "login": "armanmamyan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30312706?v=4"
+    },
+    "description": "An open-source Node.js module that serves as a reference for how KYC data should be named, stored, kept and logged under Armenian rules",
+    "topics": [
+      "blockchain",
+      "government",
+      "kyc",
+      "kyc-api",
+      "kyc-integrations",
+      "kyc-platform",
+      "kyc-service",
+      "kyc-verification",
+      "regulation",
+      "regulations",
+      "regulations-gov"
+    ],
+    "html_url": "https://github.com/armanmamyan/OpenCasp-KYC",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T18:17:07Z",
+    "updated_at": "2026-09-28T16:56:27Z",
+    "pushed_at": "2026-09-26T18:23:27Z"
+  },
+  {
+    "id": 1389299914,
+    "name": "hashspan",
+    "full_name": "selimaytac/hashspan",
+    "owner": {
+      "login": "selimaytac",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53125635?v=4"
+    },
+    "description": "Trace your AI agents' on-chain transactions with OpenTelemetry. Tx-hash keyed spans inside the agent's own trace.",
+    "topics": [
+      "agentic-payments",
+      "ai-agents",
+      "blockchain",
+      "distributed-tracing",
+      "evm",
+      "observability",
+      "opentelemetry",
+      "tracing",
+      "typescript",
+      "viem",
+      "web3",
+      "x402"
+    ],
+    "html_url": "https://github.com/selimaytac/hashspan",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-09-26T14:02:05Z",
+    "updated_at": "2026-10-02T08:52:02Z",
+    "pushed_at": "2026-10-02T08:52:16Z"
+  },
+  {
+    "id": 1387065729,
+    "name": "wam-coin",
+    "full_name": "wamcoin-core-dev/wam-coin",
+    "owner": {
+      "login": "wamcoin-core-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333694840?v=4"
+    },
+    "description": "A Bitcoin Core v28.1 fork with RandomX proof of work. 22,000,000 cap, two-minute blocks, CPU-mineable. Mainnet 15 September 2026.",
+    "topics": [
+      "bitcoin-fork",
+      "blockchain",
+      "cryptocurrency",
+      "proof-of-work",
+      "randomx",
+      "wamcoin"
+    ],
+    "html_url": "https://github.com/wamcoin-core-dev/wam-coin",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T08:04:19Z",
+    "updated_at": "2026-10-02T06:39:48Z",
+    "pushed_at": "2026-10-02T06:39:44Z"
+  },
+  {
+    "id": 1398851044,
+    "name": "multi-chain-gas-tracker",
+    "full_name": "nikatose/multi-chain-gas-tracker",
+    "owner": {
+      "login": "nikatose",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135076437?v=4"
+    },
+    "description": "Real-time gas tracker for Ethereum and popular EVM networks",
+    "topics": [
+      "arbitrum",
+      "base",
+      "blockchain",
+      "crypto",
+      "cryptocurrency",
+      "ethereum",
+      "evm",
+      "gas",
+      "gas-tracking",
+      "javascript",
+      "optimism",
+      "polygon",
+      "web3"
+    ],
+    "html_url": "https://github.com/nikatose/multi-chain-gas-tracker",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T00:03:52Z",
+    "updated_at": "2026-10-01T02:07:17Z",
+    "pushed_at": "2026-10-01T00:10:17Z"
+  },
+  {
+    "id": 1398860508,
+    "name": "evm-address-checker",
+    "full_name": "nikatose/evm-address-checker",
+    "owner": {
+      "login": "nikatose",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135076437?v=4"
+    },
+    "description": "Simple EVM address validator and checksum checker",
+    "topics": [
+      "address",
+      "blockchain",
+      "crypto",
+      "cryptocurrency",
+      "ethereum",
+      "ethereum-address",
+      "evm",
+      "javascript",
+      "validator",
+      "web3"
+    ],
+    "html_url": "https://github.com/nikatose/evm-address-checker",
+    "stargazers_count": 2,
+    "language": "CSS",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T00:19:18Z",
+    "updated_at": "2026-10-01T02:07:16Z",
+    "pushed_at": "2026-10-01T00:22:10Z"
+  },
+  {
+    "id": 1389302050,
+    "name": "qeuph",
+    "full_name": "e-1-s-4/qeuph",
+    "owner": {
+      "login": "e-1-s-4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270977772?v=4"
+    },
+    "description": "A Quantum-Resistant Blockchain Protocol",
+    "topics": [
+      "bech32m",
+      "blockchain",
+      "cli",
+      "cryptocurrency",
+      "cryptocurrency-node",
+      "cryptography",
+      "daemon",
+      "full-node",
+      "json-rpc",
+      "ml-dsa",
+      "p2p",
+      "post-quantum",
+      "pow",
+      "proof-of-work",
+      "python",
+      "qeuph",
+      "sha3",
+      "utxo"
+    ],
+    "html_url": "https://github.com/e-1-s-4/qeuph",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T14:04:00Z",
+    "updated_at": "2026-10-01T18:55:20Z",
+    "pushed_at": "2026-09-30T22:30:35Z"
+  },
+  {
+    "id": 1398827384,
+    "name": "ChainChaos",
+    "full_name": "youhide/ChainChaos",
+    "owner": {
+      "login": "youhide",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4053124?v=4"
+    },
+    "description": "Blockchain-aware JSON-RPC chaos testing proxy for EVM applications",
+    "topics": [
+      "blockchain",
+      "chaos-engineering",
+      "chaos-testing",
+      "ethereum",
+      "evm",
+      "fault-injection",
+      "json-rpc",
+      "proxy",
+      "reorg",
+      "rust",
+      "testing",
+      "websocket"
+    ],
+    "html_url": "https://github.com/youhide/ChainChaos",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T23:21:12Z",
+    "updated_at": "2026-10-01T22:18:27Z",
+    "pushed_at": "2026-10-01T22:18:24Z"
+  },
+  {
+    "id": 1390136927,
+    "name": "FUNDCHAIN-SERVER",
+    "full_name": "AmalGeorge-lab/FUNDCHAIN-SERVER",
+    "owner": {
+      "login": "AmalGeorge-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172288192?v=4"
+    },
+    "description": "Backend server for FundChain, a blockchain-powered platform for secure, transparent, and decentralized fund management. Built with Node.js, Express, and MongoDB, with APIs supporting authentication, campaign management, and blockchain-based transactions.",
+    "topics": [
+      "blockchain",
+      "cors-proxy",
+      "ethers",
+      "expressjs",
+      "javascript",
+      "jwt-authentication",
+      "mongodb",
+      "mongoose",
+      "nodejs",
+      "nonce",
+      "rest-api"
+    ],
+    "html_url": "https://github.com/AmalGeorge-lab/FUNDCHAIN-SERVER",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T04:50:03Z",
+    "updated_at": "2026-09-27T07:50:53Z",
+    "pushed_at": "2026-09-27T04:51:59Z"
+  },
+  {
+    "id": 1392823922,
+    "name": "chitchain",
+    "full_name": "vardhan23v/chitchain",
+    "owner": {
+      "login": "vardhan23v",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181745817?v=4"
+    },
+    "description": "ChitChain — a trust-minimised chit fund on MST Blockchain. The pot sits in a smart contract, not in anyone's account. AI risk engine prices collateral; AI agent bids for members. Built for MST × NEWRRO Buildathon 2026.",
+    "topics": [
+      "ai-agent",
+      "blockchain",
+      "chit-fund",
+      "hackathon",
+      "hardhat",
+      "mst-blockchain",
+      "nextjs",
+      "postgresql",
+      "prisma",
+      "solidity"
+    ],
+    "html_url": "https://github.com/vardhan23v/chitchain",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T13:42:20Z",
+    "updated_at": "2026-09-29T09:31:20Z",
+    "pushed_at": "2026-09-29T08:17:17Z"
+  },
+  {
+    "id": 1396854727,
+    "name": "zatvoon-s-first-narrative",
+    "full_name": "zatvoon-protocol/zatvoon-s-first-narrative",
+    "owner": {
+      "login": "zatvoon-protocol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334343226?v=4"
+    },
+    "description": "Research and design for an open on-chain credit network with immutable markets, independent risk curation, and optional interest routing.",
+    "topics": [
+      "blockchain",
+      "defi",
+      "lending",
+      "onchain-credit",
+      "protocol-research"
+    ],
+    "html_url": "https://github.com/zatvoon-protocol/zatvoon-s-first-narrative",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T02:36:30Z",
+    "updated_at": "2026-09-30T04:08:27Z",
+    "pushed_at": "2026-09-30T03:54:17Z"
+  },
+  {
+    "id": 1387620948,
+    "name": "nactrace",
+    "full_name": "Migl992/nactrace",
+    "owner": {
+      "login": "Migl992",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64649314?v=4"
+    },
+    "description": "NAC (cross-interface call) debugger for Etherlink / Tezos X: give it a hash from either runtime and it tells you what happened and why it failed",
+    "topics": [
+      "blockchain",
+      "debugger",
+      "etherlink",
+      "evm",
+      "michelson",
+      "tezos",
+      "tezos-x"
+    ],
+    "html_url": "https://github.com/Migl992/nactrace",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-09-25T14:05:40Z",
+    "updated_at": "2026-09-29T16:08:36Z",
+    "pushed_at": "2026-10-01T17:23:25Z"
+  }
+]

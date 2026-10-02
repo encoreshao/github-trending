@@ -1,0 +1,567 @@
+[
+  {
+    "id": 1390373702,
+    "name": "ufo-core",
+    "full_name": "ufo-ai/ufo-core",
+    "owner": {
+      "login": "ufo-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328128659?v=4"
+    },
+    "description": "Agent operating system",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "openai",
+      "openclaw"
+    ],
+    "html_url": "https://github.com/ufo-ai/ufo-core",
+    "stargazers_count": 87,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 11,
+    "created_at": "2026-09-27T07:25:44Z",
+    "updated_at": "2026-10-02T04:52:14Z",
+    "pushed_at": "2026-10-02T06:28:52Z"
+  },
+  {
+    "id": 1389796224,
+    "name": "bighelp",
+    "full_name": "promptclickrun/bighelp",
+    "owner": {
+      "login": "promptclickrun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59135406?v=4"
+    },
+    "description": "bighelp: a native iOS app for your personal AI agents on Hermes",
+    "topics": [
+      "ai-agents",
+      "hermes",
+      "ios",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/promptclickrun/bighelp",
+    "stargazers_count": 27,
+    "language": "Swift",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-09-26T21:13:48Z",
+    "updated_at": "2026-10-02T08:22:30Z",
+    "pushed_at": "2026-10-02T08:32:47Z"
+  },
+  {
+    "id": 1398891048,
+    "name": "loci",
+    "full_name": "cmoraes10/loci",
+    "owner": {
+      "login": "cmoraes10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218541098?v=4"
+    },
+    "description": "Typed long-term memory for AI agents. One core, an MCP server, and a Hermes plugin.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "hermes",
+      "llm",
+      "long-term-memory",
+      "mcp",
+      "mcp-server",
+      "memory",
+      "model",
+      "model-context-protocol",
+      "open-source",
+      "python",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/cmoraes10/loci",
+    "stargazers_count": 24,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T01:09:03Z",
+    "updated_at": "2026-10-01T21:15:17Z",
+    "pushed_at": "2026-10-01T02:14:38Z"
+  },
+  {
+    "id": 1388004239,
+    "name": "redde",
+    "full_name": "goosehouse-llc/redde",
+    "owner": {
+      "login": "goosehouse-llc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333912811?v=4"
+    },
+    "description": "iPhone, iPad and CarPlay client for the Hermes AI agent or any OpenAI-compatible model. Talk or type, watch it work, approve what it runs. No account, no tracking.",
+    "topics": [
+      "ai-agent",
+      "carplay",
+      "hermes",
+      "hermes-agent",
+      "ios",
+      "ipados",
+      "llama-cpp",
+      "llm",
+      "ollama",
+      "on-device",
+      "openai-compatible",
+      "privacy",
+      "self-hosted",
+      "swift",
+      "swiftui",
+      "voice-assistant"
+    ],
+    "html_url": "https://github.com/goosehouse-llc/redde",
+    "stargazers_count": 17,
+    "language": "Swift",
+    "forks_count": 2,
+    "open_issues_count": 4,
+    "created_at": "2026-09-25T18:03:44Z",
+    "updated_at": "2026-10-02T02:57:27Z",
+    "pushed_at": "2026-09-30T21:48:06Z"
+  },
+  {
+    "id": 1395328523,
+    "name": "hermes-intl",
+    "full_name": "magrinj/hermes-intl",
+    "owner": {
+      "login": "magrinj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3551795?v=4"
+    },
+    "description": "Native Intl.PluralRules, RelativeTimeFormat, ListFormat and Locale for React Native's Hermes engine. Rust and ICU4X under the hood, same output on iOS and Android, a drop-in replacement for the FormatJS polyfills.",
+    "topics": [
+      "ecma402",
+      "hermes",
+      "i18n",
+      "icu4x",
+      "internationalization",
+      "intl",
+      "listformat",
+      "pluralrules",
+      "react-native",
+      "relativetimeformat",
+      "rust",
+      "turbomodule"
+    ],
+    "html_url": "https://github.com/magrinj/hermes-intl",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-29T13:07:42Z",
+    "updated_at": "2026-10-02T08:23:53Z",
+    "pushed_at": "2026-10-02T07:24:55Z"
+  },
+  {
+    "id": 1398504969,
+    "name": "hermes-chatgpt-extension",
+    "full_name": "intellectronica/hermes-chatgpt-extension",
+    "owner": {
+      "login": "intellectronica",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46264?v=4"
+    },
+    "description": "Hermes ChatGPT Extension",
+    "topics": [
+      "chatgpt",
+      "codex",
+      "hermes"
+    ],
+    "html_url": "https://github.com/intellectronica/hermes-chatgpt-extension",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T17:09:13Z",
+    "updated_at": "2026-10-02T03:14:36Z",
+    "pushed_at": "2026-10-01T21:12:37Z"
+  },
+  {
+    "id": 1394777576,
+    "name": "EnvarPay",
+    "full_name": "EnvarAI/EnvarPay",
+    "owner": {
+      "login": "EnvarAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334063189?v=4"
+    },
+    "description": "Get your agents paid. Open-source MCP + x402 payment SDK and CLI for AI agents.",
+    "topics": [
+      "agent-payments",
+      "ai-agents",
+      "base",
+      "cli",
+      "hermes",
+      "mcp",
+      "python",
+      "sdk",
+      "usdc",
+      "x402"
+    ],
+    "html_url": "https://github.com/EnvarAI/EnvarPay",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-09-29T09:00:32Z",
+    "updated_at": "2026-10-02T05:36:47Z",
+    "pushed_at": "2026-10-02T05:36:45Z"
+  },
+  {
+    "id": 1390292870,
+    "name": "AI_Articles",
+    "full_name": "garciacionet-alt/AI_Articles",
+    "owner": {
+      "login": "garciacionet-alt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277201299?v=4"
+    },
+    "description": "Reference patterns and implementation guides for using multiple AI agents (Hermes, Claude Code, Minimax M3, OpenCode) in a shared knowledge commons. Each article ships with a portable pattern and concrete setup.",
+    "topics": [
+      "agent-memory",
+      "agent-patterns",
+      "ai-agents",
+      "claude-code",
+      "hermes",
+      "knowledge-management",
+      "multi-agent",
+      "obsidian"
+    ],
+    "html_url": "https://github.com/garciacionet-alt/AI_Articles",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T06:32:35Z",
+    "updated_at": "2026-10-01T18:20:00Z",
+    "pushed_at": "2026-10-01T18:19:55Z"
+  },
+  {
+    "id": 1391922972,
+    "name": "hermes-brain-graph",
+    "full_name": "PIR8-Software/hermes-brain-graph",
+    "owner": {
+      "login": "PIR8-Software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306288669?v=4"
+    },
+    "description": "Hermes desktop plugin for a local Markdown vault: notes, wikilinks, search, recycle bin, and an interactive graph",
+    "topics": [
+      "desktop-plugin",
+      "hermes",
+      "knowledge-graph",
+      "markdown"
+    ],
+    "html_url": "https://github.com/PIR8-Software/hermes-brain-graph",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T05:44:30Z",
+    "updated_at": "2026-09-28T06:08:42Z",
+    "pushed_at": "2026-09-28T06:09:02Z"
+  },
+  {
+    "id": 1386694258,
+    "name": "Hermes-Blink",
+    "full_name": "juanmackie/Hermes-Blink",
+    "owner": {
+      "login": "juanmackie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2076199?v=4"
+    },
+    "description": "One-way, accessible visual updates from a Hermes agent to a persistent Android home-screen widget — private HTTPS delivery, size-aware layouts, offline caching, and a receipt trail for every tap.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-plugin"
+    ],
+    "html_url": "https://github.com/juanmackie/Hermes-Blink",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 11,
+    "created_at": "2026-09-25T03:42:04Z",
+    "updated_at": "2026-09-30T21:49:45Z",
+    "pushed_at": "2026-09-30T21:49:41Z"
+  },
+  {
+    "id": 1390865104,
+    "name": "hermes-context",
+    "full_name": "banozz0/hermes-context",
+    "owner": {
+      "login": "banozz0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263121691?v=4"
+    },
+    "description": "Live Hermes Discord sessions in your menu bar.",
+    "topics": [
+      "context-window",
+      "discord",
+      "hermes",
+      "hermes-agent",
+      "macos",
+      "menubar",
+      "menubar-app",
+      "nous-research",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/banozz0/hermes-context",
+    "stargazers_count": 1,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T13:18:48Z",
+    "updated_at": "2026-09-28T19:56:32Z",
+    "pushed_at": "2026-09-28T17:36:20Z"
+  },
+  {
+    "id": 1395977034,
+    "name": "hermes-plugins",
+    "full_name": "AstraOnlineWeb/hermes-plugins",
+    "owner": {
+      "login": "AstraOnlineWeb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140722210?v=4"
+    },
+    "description": "Plugins para o Hermes Agent: login OAuth (ChatGPT/Codex e Claude Max) e app móvel PWA",
+    "topics": [
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research",
+      "oauth",
+      "plugins",
+      "pwa"
+    ],
+    "html_url": "https://github.com/AstraOnlineWeb/hermes-plugins",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T16:31:10Z",
+    "updated_at": "2026-10-02T02:04:38Z",
+    "pushed_at": "2026-09-30T15:38:36Z"
+  },
+  {
+    "id": 1396579478,
+    "name": "chatlens",
+    "full_name": "jonah-ux/chatlens",
+    "owner": {
+      "login": "jonah-ux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230212123?v=4"
+    },
+    "description": "Local-first CLI for searching Codex, Claude Code, and Hermes sessions and recovering work context.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "hermes",
+      "python"
+    ],
+    "html_url": "https://github.com/jonah-ux/chatlens",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T20:49:43Z",
+    "updated_at": "2026-10-02T00:17:39Z",
+    "pushed_at": "2026-10-02T00:18:06Z"
+  },
+  {
+    "id": 1390889065,
+    "name": "dm-lite",
+    "full_name": "wakbijok/dm-lite",
+    "owner": {
+      "login": "wakbijok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101164030?v=4"
+    },
+    "description": "Memory for Hermes, Codex, Claude Code, OpenCode, Devin, and any MCP agent. daimon-memory v2: one binary, local or remote server, hybrid keyword+vector recall, bitemporal, multitenant.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "bitemporal",
+      "claude-code",
+      "codex",
+      "embeddings",
+      "hermes",
+      "mcp",
+      "memory",
+      "opencode",
+      "rust",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/wakbijok/dm-lite",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T13:34:36Z",
+    "updated_at": "2026-09-28T04:06:44Z",
+    "pushed_at": "2026-09-27T13:35:12Z"
+  },
+  {
+    "id": 1393175470,
+    "name": "hermes-whale",
+    "full_name": "Ghoti2077/hermes-whale",
+    "owner": {
+      "login": "Ghoti2077",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313879409?v=4"
+    },
+    "description": "DeepSeek 余额鲸鱼娘桌面挂件 · PyQt6 透明浮窗 · 跟随 Hermes 开关",
+    "topics": [
+      "deepseek",
+      "hermes",
+      "hermes-skill"
+    ],
+    "html_url": "https://github.com/Ghoti2077/hermes-whale",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T15:59:19Z",
+    "updated_at": "2026-09-29T14:08:05Z",
+    "pushed_at": "2026-09-28T16:18:44Z"
+  },
+  {
+    "id": 1398244403,
+    "name": "agent-gateway",
+    "full_name": "yudch999-bot/agent-gateway",
+    "owner": {
+      "login": "yudch999-bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231164559?v=4"
+    },
+    "description": "One command to launch and switch between all your AI coding agents — Claude Code, Codex, Gemini, Grok, OpenCode, OpenClaw, Hermes… 一个命令统一切换所有 AI coding agent",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "fuzzy-finder",
+      "gemini-cli",
+      "hermes",
+      "launcher",
+      "openclaw",
+      "opencode",
+      "python",
+      "terminal"
+    ],
+    "html_url": "https://github.com/yudch999-bot/agent-gateway",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T14:27:31Z",
+    "updated_at": "2026-10-01T18:42:52Z",
+    "pushed_at": "2026-10-01T18:42:50Z"
+  },
+  {
+    "id": 1389174006,
+    "name": "hermes-rkdash-adapter",
+    "full_name": "geniok1980/hermes-rkdash-adapter",
+    "owner": {
+      "login": "geniok1980",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14368119?v=4"
+    },
+    "description": "RKDash adapter for Hermes Agent: подключает агента на своём сервере к платформе ресторанной аналитики RKDash",
+    "topics": [
+      "adapter",
+      "ai-agent",
+      "hermes",
+      "hermes-agent",
+      "mcp",
+      "restaurant-analytics",
+      "rkdash"
+    ],
+    "html_url": "https://github.com/geniok1980/hermes-rkdash-adapter",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T12:28:15Z",
+    "updated_at": "2026-09-29T09:47:12Z",
+    "pushed_at": "2026-09-29T09:47:08Z"
+  },
+  {
+    "id": 1391488885,
+    "name": "lari",
+    "full_name": "matteo-genovese/lari",
+    "owner": {
+      "login": "matteo-genovese",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67902487?v=4"
+    },
+    "description": "Voice satellites for Hermes",
+    "topics": [
+      "esp32",
+      "hermes",
+      "mascot",
+      "self-hosted",
+      "voice-assistant",
+      "wake-word"
+    ],
+    "html_url": "https://github.com/matteo-genovese/lari",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T23:15:21Z",
+    "updated_at": "2026-09-28T21:53:38Z",
+    "pushed_at": "2026-09-28T21:53:34Z"
+  },
+  {
+    "id": 1391656440,
+    "name": "tokmeter",
+    "full_name": "yuezhiye/tokmeter",
+    "owner": {
+      "login": "yuezhiye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215360351?v=4"
+    },
+    "description": "Hermes desktop status-bar plugin: real-time tokens/s for llama-server (disk-door plugin, no build step)",
+    "topics": [
+      "desktop-plugin",
+      "electron",
+      "hermes",
+      "hermes-agent",
+      "llama-cpp",
+      "llama-server",
+      "status-bar",
+      "tokens-per-second"
+    ],
+    "html_url": "https://github.com/yuezhiye/tokmeter",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T02:59:13Z",
+    "updated_at": "2026-09-28T03:00:14Z",
+    "pushed_at": "2026-09-28T03:00:10Z"
+  },
+  {
+    "id": 1387851784,
+    "name": "hermes-mobile",
+    "full_name": "MdSadman2004/hermes-mobile",
+    "owner": {
+      "login": "MdSadman2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201715987?v=4"
+    },
+    "description": "Hermes Mobile - Android companion app for the Hermes agent",
+    "topics": [
+      "ai-agent",
+      "android",
+      "hermes",
+      "kotlin"
+    ],
+    "html_url": "https://github.com/MdSadman2004/hermes-mobile",
+    "stargazers_count": 0,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T16:17:17Z",
+    "updated_at": "2026-09-29T13:05:55Z",
+    "pushed_at": "2026-09-29T13:05:14Z"
+  }
+]

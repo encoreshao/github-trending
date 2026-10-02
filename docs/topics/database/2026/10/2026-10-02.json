@@ -1,0 +1,589 @@
+[
+  {
+    "id": 1393634228,
+    "name": "tusk",
+    "full_name": "alpcanaydin/tusk",
+    "owner": {
+      "login": "alpcanaydin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1801024?v=4"
+    },
+    "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+    "topics": [
+      "ai-assistant",
+      "clickhouse",
+      "database",
+      "database-client",
+      "database-gui",
+      "developer-tools",
+      "duckdb",
+      "gpui",
+      "macos",
+      "mongodb",
+      "mysql",
+      "native-app",
+      "open-source",
+      "postgresql",
+      "redis",
+      "rust",
+      "snowflake",
+      "sql-client",
+      "sqlite",
+      "tableplus-alternative"
+    ],
+    "html_url": "https://github.com/alpcanaydin/tusk",
+    "stargazers_count": 279,
+    "language": "Rust",
+    "forks_count": 14,
+    "open_issues_count": 4,
+    "created_at": "2026-09-28T18:47:06Z",
+    "updated_at": "2026-10-02T08:48:26Z",
+    "pushed_at": "2026-09-30T15:56:54Z"
+  },
+  {
+    "id": 1391053683,
+    "name": "shahrah",
+    "full_name": "rs-alireza/shahrah",
+    "owner": {
+      "login": "rs-alireza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171585795?v=4"
+    },
+    "description": "A PostgreSQL proxy that keeps each user's data in their own region. Shards by a key you name, splits reads from writes, pools connections, and moves a key between regions while the application keeps reading and writing. No driver to install.",
+    "topics": [
+      "async",
+      "backend",
+      "database",
+      "database-proxy",
+      "postgres",
+      "postgresql",
+      "postgresql-proxy",
+      "proxy",
+      "rust",
+      "tokio",
+      "wire-protocol"
+    ],
+    "html_url": "https://github.com/rs-alireza/shahrah",
+    "stargazers_count": 38,
+    "language": "Rust",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T15:38:37Z",
+    "updated_at": "2026-10-01T21:03:23Z",
+    "pushed_at": "2026-09-30T08:22:29Z"
+  },
+  {
+    "id": 1387401103,
+    "name": "sqlite-attach-lint",
+    "full_name": "agentscope-ai-java/sqlite-attach-lint",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Flag ATTACH DATABASE footguns — cross-database atomicity, alias shadowing, ambiguous unqualified tables.",
+    "topics": [
+      "database",
+      "linter",
+      "python",
+      "sqlite",
+      "static-analysis",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/sqlite-attach-lint",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T11:56:26Z",
+    "updated_at": "2026-09-26T17:27:42Z",
+    "pushed_at": "2026-09-25T11:56:31Z"
+  },
+  {
+    "id": 1387401263,
+    "name": "sqlite-fts5-check",
+    "full_name": "agentscope-ai-java/sqlite-fts5-check",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Detect drift between a SQLite FTS5 index and its content table, which integrity-check does not catch.",
+    "topics": [
+      "database",
+      "fts5",
+      "full-text-search",
+      "python",
+      "sqlite",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/sqlite-fts5-check",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T11:56:33Z",
+    "updated_at": "2026-09-25T15:01:41Z",
+    "pushed_at": "2026-09-25T11:56:37Z"
+  },
+  {
+    "id": 1386680303,
+    "name": "sqlite-wal-doctor",
+    "full_name": "agentscope-ai-java/sqlite-wal-doctor",
+    "owner": {
+      "login": "agentscope-ai-java",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328999928?v=4"
+    },
+    "description": "Diagnose SQLite WAL misconfiguration — lock contention, unbounded WAL growth, checkpoint starvation.",
+    "topics": [
+      "database",
+      "diagnostics",
+      "python",
+      "sqlite",
+      "wal",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/agentscope-ai-java/sqlite-wal-doctor",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T03:32:21Z",
+    "updated_at": "2026-09-26T19:19:10Z",
+    "pushed_at": "2026-09-25T03:32:25Z"
+  },
+  {
+    "id": 1395583543,
+    "name": "tabletist",
+    "full_name": "igor-alexandrov/tabletist",
+    "owner": {
+      "login": "igor-alexandrov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100725?v=4"
+    },
+    "description": "A fast, native database client for PostgreSQL, MySQL and SQLite. Written in Rust with egui; runs on Linux, macOS and Windows.",
+    "topics": [
+      "cross-platform",
+      "database",
+      "database-client",
+      "database-gui",
+      "desktop-app",
+      "egui",
+      "gui",
+      "hyprland",
+      "linux",
+      "macos",
+      "mysql",
+      "omarchy",
+      "postgresql",
+      "rust",
+      "sql",
+      "sqlite",
+      "wayland",
+      "windows"
+    ],
+    "html_url": "https://github.com/igor-alexandrov/tabletist",
+    "stargazers_count": 7,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T14:30:54Z",
+    "updated_at": "2026-10-02T01:57:00Z",
+    "pushed_at": "2026-10-02T01:56:57Z"
+  },
+  {
+    "id": 1391689817,
+    "name": "awesome-free-dev-tools",
+    "full_name": "pnnnhan99/awesome-free-dev-tools",
+    "owner": {
+      "login": "pnnnhan99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72957879?v=4"
+    },
+    "description": "A curated collection of free & useful tools for developers, vibe coding, AI, SaaS, and modern web development.",
+    "topics": [
+      "automation",
+      "awesome-list",
+      "backend",
+      "database",
+      "developer-tools",
+      "devops",
+      "free-tier",
+      "free-tools-of-development",
+      "frontend",
+      "hosting",
+      "indie-hacker",
+      "no-credit-card",
+      "productivity",
+      "saas",
+      "vibe-coding",
+      "web-development"
+    ],
+    "html_url": "https://github.com/pnnnhan99/awesome-free-dev-tools",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T03:19:36Z",
+    "updated_at": "2026-10-02T03:35:26Z",
+    "pushed_at": "2026-10-02T03:35:23Z"
+  },
+  {
+    "id": 1394985393,
+    "name": "libmaxminddb-rs",
+    "full_name": "0x00F6/libmaxminddb-rs",
+    "owner": {
+      "login": "0x00F6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155492361?v=4"
+    },
+    "description": "Pure Rust MaxMind DB v2  (MMDB IPv4/IPv6) reader and writer with zero-copy borrowed decoding",
+    "topics": [
+      "database",
+      "geoip",
+      "geoip-lookup",
+      "geoip2",
+      "ip-reputation",
+      "ipv4",
+      "ipv6",
+      "maxmind",
+      "maxminddb",
+      "mmdb",
+      "rust"
+    ],
+    "html_url": "https://github.com/0x00F6/libmaxminddb-rs",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T11:00:44Z",
+    "updated_at": "2026-10-01T10:13:29Z",
+    "pushed_at": "2026-09-30T16:55:48Z"
+  },
+  {
+    "id": 1391528286,
+    "name": "Final-Project-Software-Engineering",
+    "full_name": "SeanRDC/Final-Project-Software-Engineering",
+    "owner": {
+      "login": "SeanRDC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216728724?v=4"
+    },
+    "description": "Repository of a Final project in Software Engineering Course to build an API system via web that manages local university clinic data automatically",
+    "topics": [
+      "crud",
+      "crud-api",
+      "data-security",
+      "database",
+      "database-management",
+      "database-normalization",
+      "python",
+      "web-application"
+    ],
+    "html_url": "https://github.com/SeanRDC/Final-Project-Software-Engineering",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T00:24:02Z",
+    "updated_at": "2026-10-01T05:41:08Z",
+    "pushed_at": "2026-10-01T05:41:04Z"
+  },
+  {
+    "id": 1391581162,
+    "name": "LSE-ST445",
+    "full_name": "LeonardooAlves/LSE-ST445",
+    "owner": {
+      "login": "LeonardooAlves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13165347?v=4"
+    },
+    "description": "LSE ST445 Managing and Visualising Data Course",
+    "topics": [
+      "data",
+      "data-analysis",
+      "data-engineering",
+      "data-structures",
+      "data-visualization",
+      "database",
+      "dataset"
+    ],
+    "html_url": "https://github.com/LeonardooAlves/LSE-ST445",
+    "stargazers_count": 3,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T01:43:04Z",
+    "updated_at": "2026-10-01T10:47:14Z",
+    "pushed_at": "2026-09-30T13:19:15Z"
+  },
+  {
+    "id": 1388206253,
+    "name": "h5i-app-bench",
+    "full_name": "h5i-dev/h5i-app-bench",
+    "owner": {
+      "login": "h5i-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272305047?v=4"
+    },
+    "description": "Can AI agents formally verify real-world Rust soure codes with Lean4?",
+    "topics": [
+      "authorization",
+      "database",
+      "formal-methods",
+      "formal-verification",
+      "lean4",
+      "postgresql",
+      "rust",
+      "security",
+      "verified-software",
+      "web-app",
+      "web-development",
+      "web-framework",
+      "webapp"
+    ],
+    "html_url": "https://github.com/h5i-dev/h5i-app-bench",
+    "stargazers_count": 3,
+    "language": "Lean",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T21:28:45Z",
+    "updated_at": "2026-10-02T02:47:32Z",
+    "pushed_at": "2026-10-02T02:47:45Z"
+  },
+  {
+    "id": 1400473125,
+    "name": "relay-db",
+    "full_name": "falsea3/relay-db",
+    "owner": {
+      "login": "falsea3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76220831?v=4"
+    },
+    "description": "A fast, local-first database client for PostgreSQL, MySQL and SQLite. No accounts, no cloud sync, no telemetry — just you and your data.",
+    "topics": [
+      "database",
+      "dbeaver-alternative",
+      "golang",
+      "linux-app",
+      "local-first",
+      "mac-app",
+      "mysql",
+      "open-source",
+      "postgresql",
+      "sql",
+      "sqlite",
+      "svelte",
+      "tableplus-alternative",
+      "wails",
+      "windows-app"
+    ],
+    "html_url": "https://github.com/falsea3/relay-db",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T17:36:30Z",
+    "updated_at": "2026-10-02T08:18:59Z",
+    "pushed_at": "2026-10-02T08:22:23Z"
+  },
+  {
+    "id": 1392727454,
+    "name": "doc-intel-platform",
+    "full_name": "kunalpraja12/doc-intel-platform",
+    "owner": {
+      "login": "kunalpraja12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162112672?v=4"
+    },
+    "description": "AI document intelligence platform: OCR + Gemini extraction + RAG chat over invoices and receipts.",
+    "topics": [
+      "database",
+      "dockercompose",
+      "fastapi",
+      "gemini-api",
+      "langchain",
+      "llm",
+      "ocr",
+      "pgvector",
+      "postgresql",
+      "rag",
+      "tesseract-ocr"
+    ],
+    "html_url": "https://github.com/kunalpraja12/doc-intel-platform",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T13:01:43Z",
+    "updated_at": "2026-09-30T07:18:19Z",
+    "pushed_at": "2026-09-29T15:25:44Z"
+  },
+  {
+    "id": 1389754183,
+    "name": "KalaDatabase",
+    "full_name": "KalaKit/KalaDatabase",
+    "owner": {
+      "login": "KalaKit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204900633?v=4"
+    },
+    "description": "C++20 database with group, user, table and field management on Windows and Linux. ",
+    "topics": [
+      "cli",
+      "cpp",
+      "database",
+      "db",
+      "linux",
+      "windows"
+    ],
+    "html_url": "https://github.com/KalaKit/KalaDatabase",
+    "stargazers_count": 2,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T20:14:43Z",
+    "updated_at": "2026-10-02T07:07:18Z",
+    "pushed_at": "2026-10-02T07:07:14Z"
+  },
+  {
+    "id": 1399676341,
+    "name": "Awesome-Database-Migration",
+    "full_name": "ishandutta2007/Awesome-Database-Migration",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top Database Migration (Opensource) 🌟 Star if you like it! 🌟",
+    "topics": [
+      "awesome-list",
+      "change-data-capture",
+      "curated-list",
+      "database",
+      "database-migration",
+      "replication"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-Database-Migration",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T09:42:39Z",
+    "updated_at": "2026-10-01T23:24:45Z",
+    "pushed_at": "2026-10-01T23:24:56Z"
+  },
+  {
+    "id": 1387128264,
+    "name": "BulletDB",
+    "full_name": "NoubarKay/BulletDB",
+    "owner": {
+      "login": "NoubarKay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189057868?v=4"
+    },
+    "description": "A columnar OLAP database engine in C: typed column storage with row groups and NULL bitmaps, a custom .bdb file format, and a vectorized query executor.",
+    "topics": [
+      "clang",
+      "database",
+      "database-design",
+      "database-tools",
+      "databases"
+    ],
+    "html_url": "https://github.com/NoubarKay/BulletDB",
+    "stargazers_count": 2,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T08:45:55Z",
+    "updated_at": "2026-10-01T22:58:15Z",
+    "pushed_at": "2026-10-01T22:58:14Z"
+  },
+  {
+    "id": 1395239169,
+    "name": "No_SQL-Project-Ajay_Chauhan",
+    "full_name": "ajaychauhanAI/No_SQL-Project-Ajay_Chauhan",
+    "owner": {
+      "login": "ajaychauhanAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214230173?v=4"
+    },
+    "description": "MongoDB & NoSQL project focused on querying, aggregation, joins, data manipulation, and analytical operations using MongoDB Atlas + Mongosh.",
+    "topics": [
+      "database",
+      "mongodb-atlas",
+      "mongosh",
+      "nosql"
+    ],
+    "html_url": "https://github.com/ajaychauhanAI/No_SQL-Project-Ajay_Chauhan",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T12:37:39Z",
+    "updated_at": "2026-09-29T18:24:44Z",
+    "pushed_at": "2026-09-29T12:38:24Z"
+  },
+  {
+    "id": 1387503476,
+    "name": "clous",
+    "full_name": "efekanbahceci/clous",
+    "owner": {
+      "login": "efekanbahceci",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142125914?v=4"
+    },
+    "description": "A schema compiler for backend infrastructure. You define your data model once in TypeScript. Clous converts it into PostgreSQL DDL, TypeScript type definitions, and an OpenAPI specification.",
+    "topics": [
+      "baas",
+      "cloud",
+      "clous",
+      "database",
+      "npm",
+      "saas",
+      "sql",
+      "type-safe",
+      "typescr",
+      "typescript"
+    ],
+    "html_url": "https://github.com/efekanbahceci/clous",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-25T12:58:09Z",
+    "updated_at": "2026-10-01T10:36:14Z",
+    "pushed_at": "2026-10-01T10:36:09Z"
+  },
+  {
+    "id": 1387666072,
+    "name": "dsh-db-tool",
+    "full_name": "mengqi1436/dsh-db-tool",
+    "owner": {
+      "login": "mengqi1436",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64037033?v=4"
+    },
+    "description": "DSH plugin: chat-driven database admin tool (8 databases, per-project grants, danger confirmation, sidebar console)",
+    "topics": [
+      "database",
+      "dsh",
+      "dsh-plugin",
+      "mysql",
+      "postgresql"
+    ],
+    "html_url": "https://github.com/mengqi1436/dsh-db-tool",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T14:31:34Z",
+    "updated_at": "2026-10-02T07:01:53Z",
+    "pushed_at": "2026-10-02T07:02:36Z"
+  },
+  {
+    "id": 1389923353,
+    "name": "sql-land",
+    "full_name": "thejjeanjjorge/sql-land",
+    "owner": {
+      "login": "thejjeanjjorge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157924424?v=4"
+    },
+    "description": "A local-first PostgreSQL practice app — solve SQL questions across 16 levels, pass exams, and review skills, all running in your browser via WebAssembly.",
+    "topics": [
+      "database",
+      "postgresql",
+      "sql"
+    ],
+    "html_url": "https://github.com/thejjeanjjorge/sql-land",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T00:54:05Z",
+    "updated_at": "2026-10-01T12:39:21Z",
+    "pushed_at": "2026-10-01T12:39:16Z"
+  }
+]

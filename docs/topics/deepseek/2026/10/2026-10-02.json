@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1388372309,
+    "name": "brewreel",
+    "full_name": "Finderchangchang/brewreel",
+    "owner": {
+      "login": "Finderchangchang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7477876?v=4"
+    },
+    "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "llm",
+      "promo-video",
+      "remotion",
+      "short-video",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/Finderchangchang/brewreel",
+    "stargazers_count": 113,
+    "language": "TypeScript",
+    "forks_count": 19,
+    "open_issues_count": 2,
+    "created_at": "2026-09-26T01:52:24Z",
+    "updated_at": "2026-10-02T08:22:47Z",
+    "pushed_at": "2026-10-02T08:22:53Z"
+  },
+  {
+    "id": 1397177100,
+    "name": "dsh-libreoffice-kit",
+    "full_name": "deepseek-ai/dsh-libreoffice-kit",
+    "owner": {
+      "login": "deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "description": "An internal component used by DeepSeek Harness",
+    "topics": [
+      "deepseek",
+      "deepseek-harness"
+    ],
+    "html_url": "https://github.com/deepseek-ai/dsh-libreoffice-kit",
+    "stargazers_count": 103,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T06:28:16Z",
+    "updated_at": "2026-10-02T08:43:09Z",
+    "pushed_at": "2026-09-30T07:37:00Z"
+  },
+  {
+    "id": 1388524304,
+    "name": "hermes",
+    "full_name": "Vinyl-Davyl/hermes",
+    "owner": {
+      "login": "Vinyl-Davyl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68241801?v=4"
+    },
+    "description": "Local-first handoff CLI that packs unfinished work on your disk and hands it to the next coding agent: Claude, Cursor, Codex, Antigravity, and more. No plugin. No cloud.",
+    "topics": [
+      "ai-agents",
+      "antigravity",
+      "claude-code",
+      "cline",
+      "codex",
+      "context-handoff",
+      "copilot-cli",
+      "cursor",
+      "cursor-ai",
+      "deepseek",
+      "developer-tools",
+      "kimi",
+      "open-code",
+      "pi-agent",
+      "session-handoff",
+      "session-history"
+    ],
+    "html_url": "https://github.com/Vinyl-Davyl/hermes",
+    "stargazers_count": 17,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T04:43:39Z",
+    "updated_at": "2026-09-30T17:44:23Z",
+    "pushed_at": "2026-09-28T07:12:01Z"
+  },
+  {
+    "id": 1396447444,
+    "name": "dsh-plugin-simple-pet",
+    "full_name": "YangShen-SWE/dsh-plugin-simple-pet",
+    "owner": {
+      "login": "YangShen-SWE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43818870?v=4"
+    },
+    "description": "A Windows desktop pet for official DeepSeek API balance, usage, and animated reactions in DSH.",
+    "topics": [
+      "deepseek",
+      "desktop-pet",
+      "dsh-plugin",
+      "token-usage",
+      "windows"
+    ],
+    "html_url": "https://github.com/YangShen-SWE/dsh-plugin-simple-pet",
+    "stargazers_count": 12,
+    "language": "PowerShell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T19:20:30Z",
+    "updated_at": "2026-09-30T14:29:31Z",
+    "pushed_at": "2026-09-30T08:24:10Z"
+  },
+  {
+    "id": 1394090266,
+    "name": "xiaobai-kanban",
+    "full_name": "webkubor/xiaobai-kanban",
+    "owner": {
+      "login": "webkubor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29485642?v=4"
+    },
+    "description": "🧭 小白看板 — 让 Agent 帮你写代码。你只说话，Agent 搞定一切。双入口文档站：真人看教程，Agent 读 AGENTS.md。",
+    "topics": [
+      "agent",
+      "agent-guide",
+      "ai",
+      "beginner-friendly",
+      "chinese",
+      "claude-code",
+      "deepseek",
+      "docs",
+      "git-workflow",
+      "guide",
+      "learning",
+      "tutorial",
+      "vitepress"
+    ],
+    "html_url": "https://github.com/webkubor/xiaobai-kanban",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T02:19:05Z",
+    "updated_at": "2026-10-01T18:08:55Z",
+    "pushed_at": "2026-09-29T02:20:34Z"
+  },
+  {
+    "id": 1397292246,
+    "name": "jailbreak-archives",
+    "full_name": "e2sy/jailbreak-archives",
+    "owner": {
+      "login": "e2sy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/335930424?v=4"
+    },
+    "description": "A structured, versioned archive of adversarial prompt engineering techniques against Large Language Models — for AI safety research, red-teaming, and defensive hardening.",
+    "topics": [
+      "adversarial-prompts",
+      "ai-alignment",
+      "ai-red-team",
+      "ai-safety",
+      "chatgpt",
+      "claude",
+      "cybersecurity",
+      "deepseek",
+      "jailbreak",
+      "llm",
+      "llm-jailbreak",
+      "llm-security",
+      "machine-learning",
+      "offensive-security",
+      "prompt-engineering",
+      "prompt-injection",
+      "qwen",
+      "red-teaming",
+      "responsible-disclosure",
+      "security-research"
+    ],
+    "html_url": "https://github.com/e2sy/jailbreak-archives",
+    "stargazers_count": 10,
+    "language": "Roff",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T07:34:14Z",
+    "updated_at": "2026-10-02T07:36:03Z",
+    "pushed_at": "2026-10-02T07:26:17Z"
+  },
+  {
+    "id": 1397175284,
+    "name": "dsh-node-addon-require-builtin",
+    "full_name": "deepseek-ai/dsh-node-addon-require-builtin",
+    "owner": {
+      "login": "deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "description": "An internal component used by DeepSeek Harness",
+    "topics": [
+      "deepseek",
+      "deepseek-harness"
+    ],
+    "html_url": "https://github.com/deepseek-ai/dsh-node-addon-require-builtin",
+    "stargazers_count": 9,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T06:27:22Z",
+    "updated_at": "2026-10-01T00:47:48Z",
+    "pushed_at": "2026-09-30T07:03:33Z"
+  },
+  {
+    "id": 1389990279,
+    "name": "craftsail-growth",
+    "full_name": "craftsail/craftsail-growth",
+    "owner": {
+      "login": "craftsail",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328356565?v=4"
+    },
+    "description": "Self-hosted GEO & AI SEO dashboard. Track how ChatGPT, Claude, Gemini, Perplexity, DeepSeek and more mention and cite your brand, compare share of voice with competitors, audit your site for AI crawlers and get a ranked action plan.",
+    "topics": [
+      "ai-search",
+      "ai-seo",
+      "ai-visibility",
+      "brand-monitoring",
+      "chatgpt",
+      "claude",
+      "deepseek",
+      "gemini",
+      "generative-engine-optimization",
+      "geo",
+      "llm-seo",
+      "llms-txt",
+      "perplexity",
+      "react",
+      "self-hosted",
+      "seo",
+      "seo-audit",
+      "share-of-voice",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/craftsail/craftsail-growth",
+    "stargazers_count": 8,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 5,
+    "created_at": "2026-09-27T02:33:20Z",
+    "updated_at": "2026-09-28T06:00:51Z",
+    "pushed_at": "2026-10-01T10:40:23Z"
+  },
+  {
+    "id": 1388484239,
+    "name": "dsh-router-laya",
+    "full_name": "HapyRain/dsh-router-laya",
+    "owner": {
+      "login": "HapyRain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90739505?v=4"
+    },
+    "description": "Auto tier routing for DSH: a locally fine-tuned model picks low/high/max thinking effort per message. Private, <1s, no cloud. 自动档位路由",
+    "topics": [
+      "auto-tier",
+      "cordis-plugin",
+      "deepseek",
+      "dsh",
+      "dsh-category-ui",
+      "dsh-plugin",
+      "laya",
+      "router"
+    ],
+    "html_url": "https://github.com/HapyRain/dsh-router-laya",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T04:08:29Z",
+    "updated_at": "2026-10-02T04:47:11Z",
+    "pushed_at": "2026-09-29T01:24:30Z"
+  },
+  {
+    "id": 1396887487,
+    "name": "luanyujia-workbench",
+    "full_name": "mashanglinyu/luanyujia-workbench",
+    "owner": {
+      "login": "mashanglinyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316812016?v=4"
+    },
+    "description": "多场景 AI 工作台的搭建方法与纯壳模板（作者：淋雨家）。注意：不是装完就能用，很多场景要按自己的内容调试。",
+    "topics": [
+      "ai-agent",
+      "deepseek",
+      "electron",
+      "mcp",
+      "multi-scene",
+      "workbench"
+    ],
+    "html_url": "https://github.com/mashanglinyu/luanyujia-workbench",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T03:07:21Z",
+    "updated_at": "2026-10-01T23:24:45Z",
+    "pushed_at": "2026-09-30T06:49:34Z"
+  },
+  {
+    "id": 1390129316,
+    "name": "Spring-AI-Studio",
+    "full_name": "Mohammad-Asfin/Spring-AI-Studio",
+    "owner": {
+      "login": "Mohammad-Asfin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182845810?v=4"
+    },
+    "description": "A full-stack AI benchmarking studio built with Spring Boot 3.4 and React 19. Uses the Spring AI framework to stream and compare multi-LLM outputs (OpenAI, Anthropic, and local Ollama/DeepSeek) with integrated speed benchmarking.",
+    "topics": [
+      "anthropic",
+      "deepseek",
+      "full-stack",
+      "generative-ai",
+      "llm-benchmarking",
+      "ollama",
+      "openai",
+      "react19",
+      "spring-ai",
+      "spring-boot"
+    ],
+    "html_url": "https://github.com/Mohammad-Asfin/Spring-AI-Studio",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T04:43:54Z",
+    "updated_at": "2026-09-28T06:15:16Z",
+    "pushed_at": "2026-09-28T06:15:12Z"
+  },
+  {
+    "id": 1397201556,
+    "name": "DeepSpring-AI",
+    "full_name": "Mohammad-Asfin/DeepSpring-AI",
+    "owner": {
+      "login": "Mohammad-Asfin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182845810?v=4"
+    },
+    "description": "An advanced generative AI integration ecosystem combining Spring Boot 3 with DeepSeek Large Language Models (LLMs). Features scalable intelligent agent workflows, context-aware prompt parsing, and enterprise-grade data automation layers.",
+    "topics": [
+      "ai-agents",
+      "backend-architecture",
+      "deepseek",
+      "deepseek-ai",
+      "generative-ai",
+      "llm-orchestration",
+      "spring-ai",
+      "spring-boot"
+    ],
+    "html_url": "https://github.com/Mohammad-Asfin/DeepSpring-AI",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T06:41:06Z",
+    "updated_at": "2026-10-01T05:52:42Z",
+    "pushed_at": "2026-10-01T05:40:03Z"
+  },
+  {
+    "id": 1387190592,
+    "name": "dsh-workbuddy-bridge",
+    "full_name": "zlZayn/dsh-workbuddy-bridge",
+    "owner": {
+      "login": "zlZayn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225716095?v=4"
+    },
+    "description": "DSH 插件：把 WorkBuddy 桌面 App 里的模型接入 DeepSeek Harness，零配置直接用。（原生嵌入\"设置-插件-插件配置\"）",
+    "topics": [
+      "agent-harness",
+      "ai",
+      "ai-agent",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "llm",
+      "models",
+      "plugin",
+      "typescript",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/zlZayn/dsh-workbuddy-bridge",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 3,
+    "created_at": "2026-09-25T09:28:29Z",
+    "updated_at": "2026-10-01T03:59:00Z",
+    "pushed_at": "2026-10-01T03:58:57Z"
+  },
+  {
+    "id": 1387362407,
+    "name": "OwO-AI-Gateway",
+    "full_name": "BarryWangQwQ/OwO-AI-Gateway",
+    "owner": {
+      "login": "BarryWangQwQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46416337?v=4"
+    },
+    "description": "Any model, in every AI coding app. One tiny Rust gateway for Codex, Claude Code, Cursor and more.",
+    "topics": [
+      "agent-skills",
+      "ai-gateway",
+      "anthropic",
+      "claude-code",
+      "codex",
+      "cursor",
+      "deepseek",
+      "llm-gateway",
+      "llm-proxy",
+      "mcp",
+      "ollama",
+      "openai",
+      "openrouter",
+      "rust",
+      "tauri"
+    ],
+    "html_url": "https://github.com/BarryWangQwQ/OwO-AI-Gateway",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T11:34:15Z",
+    "updated_at": "2026-09-29T18:56:15Z",
+    "pushed_at": "2026-09-29T18:56:06Z"
+  },
+  {
+    "id": 1396543508,
+    "name": "dsh-delete-session",
+    "full_name": "Lzcdebear/dsh-delete-session",
+    "owner": {
+      "login": "Lzcdebear",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135992142?v=4"
+    },
+    "description": "Delete sessions, not archive them",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-desktop",
+      "dsh-plugin",
+      "dsh-plugins"
+    ],
+    "html_url": "https://github.com/Lzcdebear/dsh-delete-session",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T20:17:12Z",
+    "updated_at": "2026-10-02T08:52:25Z",
+    "pushed_at": "2026-10-02T03:49:50Z"
+  },
+  {
+    "id": 1393117522,
+    "name": "dsh-deep-diving-skin",
+    "full_name": "Menghuan1918/dsh-deep-diving-skin",
+    "owner": {
+      "login": "Menghuan1918",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122662527?v=4"
+    },
+    "description": "替换“深度求索中”为任意你想要的文本，比如：少女祈祷中......",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins"
+    ],
+    "html_url": "https://github.com/Menghuan1918/dsh-deep-diving-skin",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T15:38:11Z",
+    "updated_at": "2026-09-29T02:46:15Z",
+    "pushed_at": "2026-09-28T16:24:57Z"
+  },
+  {
+    "id": 1392919904,
+    "name": "dsh-bash-native",
+    "full_name": "SpookyWaste/dsh-bash-native",
+    "owner": {
+      "login": "SpookyWaste",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17810462?v=4"
+    },
+    "description": "Rust 实现的 Windows 原生 POSIX bash 执行器：给 DSH 提供一个真正的 bash（brush 引擎，不依赖 WSL 或 MSYS兼容层），支持 DSH 的三档权限策略、后台作业和一节模型可见的环境契约",
+    "topics": [
+      "bash",
+      "brush",
+      "deepseek",
+      "dsh-plugin"
+    ],
+    "html_url": "https://github.com/SpookyWaste/dsh-bash-native",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:21:12Z",
+    "updated_at": "2026-09-30T05:41:05Z",
+    "pushed_at": "2026-09-30T05:41:05Z"
+  },
+  {
+    "id": 1386510549,
+    "name": "campux-plus",
+    "full_name": "RRRDDDs/campux-plus",
+    "owner": {
+      "login": "RRRDDDs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/305469948?v=4"
+    },
+    "description": "基于 Campux 二次开发的校园墙：新增投稿 AI 自动审核与「青青子衿，悠悠我心」双向表白，附完整部署教程",
+    "topics": [
+      "ai-moderation",
+      "campus-wall",
+      "campux",
+      "confession-wall",
+      "deepseek",
+      "napcat",
+      "onebot",
+      "qq-bot",
+      "self-hosted",
+      "typescript"
+    ],
+    "html_url": "https://github.com/RRRDDDs/campux-plus",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-25T00:11:36Z",
+    "updated_at": "2026-10-01T22:10:06Z",
+    "pushed_at": "2026-10-01T16:20:44Z"
+  },
+  {
+    "id": 1396558193,
+    "name": "OmniRTL-AI",
+    "full_name": "Menasin/OmniRTL-AI",
+    "owner": {
+      "login": "Menasin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334322435?v=4"
+    },
+    "description": "🚀Cross-platform auto RTL patcher for Persian, Arabic & Hebrew —> Windows (EXE), Web & Android (APK) - Easy RTL Apply!",
+    "topics": [
+      "android",
+      "antigravity",
+      "arabic",
+      "chatgpt",
+      "chrome-extension",
+      "claude",
+      "deepseek",
+      "electron",
+      "gemini",
+      "hebrew",
+      "persian",
+      "rtl"
+    ],
+    "html_url": "https://github.com/Menasin/OmniRTL-AI",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T20:29:59Z",
+    "updated_at": "2026-10-01T02:55:54Z",
+    "pushed_at": "2026-10-01T02:55:50Z"
+  },
+  {
+    "id": 1398796586,
+    "name": "jarvis",
+    "full_name": "SanyaSS111/jarvis",
+    "owner": {
+      "login": "SanyaSS111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147229102?v=4"
+    },
+    "description": "J.A.R.V.I.S. — ИИ-агент для Windows: лаунчер, локальные модели, картинки, Telegram-бот",
+    "topics": [
+      "ai-agent",
+      "ai-assistant",
+      "comfyui",
+      "deepseek",
+      "deepseek-harness",
+      "jarvis",
+      "llama-cpp",
+      "local-llm",
+      "qwen-image",
+      "telegram-bot",
+      "windhawk",
+      "windows"
+    ],
+    "html_url": "https://github.com/SanyaSS111/jarvis",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T22:28:33Z",
+    "updated_at": "2026-10-02T00:33:41Z",
+    "pushed_at": "2026-10-02T00:35:15Z"
+  }
+]
