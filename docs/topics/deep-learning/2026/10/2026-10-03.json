@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1391154206,
+    "name": "survival-rl",
+    "full_name": "lucidrains/survival-rl",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Explorations into Survival Reinforcement Learning, proposed by Tiofack et al. of Inria earlier this year",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "reinforcement-learning",
+      "survival-analysis"
+    ],
+    "html_url": "https://github.com/lucidrains/survival-rl",
+    "stargazers_count": 14,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T16:46:13Z",
+    "updated_at": "2026-10-02T16:09:45Z",
+    "pushed_at": "2026-10-02T16:09:41Z"
+  },
+  {
+    "id": 1398174806,
+    "name": "awesome-robotics",
+    "full_name": "zermello/awesome-robotics",
+    "owner": {
+      "login": "zermello",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296903246?v=4"
+    },
+    "description": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more.",
+    "topics": [
+      "ai",
+      "ai-resources",
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-learning",
+      "free-resources",
+      "learning-resources",
+      "machine-learning-resources",
+      "python",
+      "reinforcement-learning",
+      "robotics",
+      "robotics-education",
+      "robotics-resources",
+      "ros2"
+    ],
+    "html_url": "https://github.com/zermello/awesome-robotics",
+    "stargazers_count": 14,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T14:06:16Z",
+    "updated_at": "2026-10-02T15:46:17Z",
+    "pushed_at": "2026-10-01T03:49:01Z"
+  },
+  {
+    "id": 1388516087,
+    "name": "awesome-llmsecops",
+    "full_name": "ARUNAGIRINATHAN-K/awesome-llmsecops",
+    "owner": {
+      "login": "ARUNAGIRINATHAN-K",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167340745?v=4"
+    },
+    "description": "✨LLM Security Operations for securing AI systems throughout their lifecycle.",
+    "topics": [
+      "adversarial-ml",
+      "ai-safety",
+      "appsec",
+      "awesome-list",
+      "curated-list",
+      "deep-learning",
+      "devsecops",
+      "generative-ai",
+      "generative-models",
+      "large-language-models",
+      "llm-security",
+      "llmsecops",
+      "machine-learning",
+      "nlp",
+      "open-source",
+      "prompt-injection",
+      "security"
+    ],
+    "html_url": "https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops",
+    "stargazers_count": 12,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-09-26T04:36:23Z",
+    "updated_at": "2026-10-02T02:00:30Z",
+    "pushed_at": "2026-10-01T08:32:59Z"
+  },
+  {
+    "id": 1392369812,
+    "name": "genpark-layer-norm-rms-norm-regularization-skill",
+    "full_name": "Alpha-Park/genpark-layer-norm-rms-norm-regularization-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "LayerNorm and Root Mean Square Normalization (RMSNorm) with affine transformation parameters",
+    "topics": [
+      "agent-skills",
+      "deep-learning",
+      "layernorm",
+      "llm-architecture",
+      "mcp",
+      "neural-networks",
+      "normalization",
+      "python-standard-library",
+      "regularization",
+      "rmsnorm",
+      "transformer-blocks"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-layer-norm-rms-norm-regularization-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:58:59Z",
+    "updated_at": "2026-09-28T09:59:25Z",
+    "pushed_at": "2026-09-28T09:59:16Z"
+  },
+  {
+    "id": 1392363887,
+    "name": "genpark-dense-feedforward-mlp-backprop-skill",
+    "full_name": "alphaparkinc/genpark-dense-feedforward-mlp-backprop-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Multi-layer perceptron (MLP) feedforward inference with Xavier/Glorot initialization and activations",
+    "topics": [
+      "agent-skills",
+      "ai-inference",
+      "deep-learning",
+      "feedforward",
+      "machine-learning",
+      "mcp",
+      "mlp",
+      "neural-networks",
+      "python-standard-library",
+      "relu",
+      "xavier-initialization"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-dense-feedforward-mlp-backprop-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:55:16Z",
+    "updated_at": "2026-09-28T09:56:24Z",
+    "pushed_at": "2026-09-28T09:55:33Z"
+  },
+  {
+    "id": 1391694963,
+    "name": "genpark-int8-symmetric-per-tensor-quantizer-skill",
+    "full_name": "alphaparkinc/genpark-int8-symmetric-per-tensor-quantizer-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Symmetric INT8 per-tensor and per-channel quantization engine for LLM weights and activations, with SNR and MSE reconstruction telemetry.",
+    "topics": [
+      "agentic-ai",
+      "deep-learning",
+      "edge-ai",
+      "int8-quantization",
+      "llm-acceleration",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "model-quantization",
+      "on-device-ai",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-int8-symmetric-per-tensor-quantizer-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T03:22:23Z",
+    "updated_at": "2026-09-28T03:24:52Z",
+    "pushed_at": "2026-09-28T03:24:49Z"
+  },
+  {
+    "id": 1392517862,
+    "name": "genpark-graph-convolutional-network-gcn-layer-skill",
+    "full_name": "Alpha-Park/genpark-graph-convolutional-network-gcn-layer-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Spectral Graph Convolutional Network (GCN) layer with self-loop renormalization and forward propagation",
+    "topics": [
+      "adjacency-normalization",
+      "agent-skills",
+      "deep-learning",
+      "gcn",
+      "graph-convolutional-network",
+      "graph-neural-networks",
+      "mcp",
+      "message-passing",
+      "node-classification",
+      "python-standard-library",
+      "spectral-graph-theory"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-graph-convolutional-network-gcn-layer-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T11:23:16Z",
+    "updated_at": "2026-09-28T11:23:41Z",
+    "pushed_at": "2026-09-28T11:23:33Z"
+  },
+  {
+    "id": 1392364598,
+    "name": "genpark-dense-feedforward-mlp-backprop-skill",
+    "full_name": "Alpha-Park/genpark-dense-feedforward-mlp-backprop-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Multi-layer perceptron (MLP) feedforward inference with Xavier/Glorot initialization and activations",
+    "topics": [
+      "agent-skills",
+      "ai-inference",
+      "deep-learning",
+      "feedforward",
+      "machine-learning",
+      "mcp",
+      "mlp",
+      "neural-networks",
+      "python-standard-library",
+      "relu",
+      "xavier-initialization"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-dense-feedforward-mlp-backprop-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:55:43Z",
+    "updated_at": "2026-09-28T09:56:10Z",
+    "pushed_at": "2026-09-28T09:55:59Z"
+  },
+  {
+    "id": 1391115110,
+    "name": "GazeEarth",
+    "full_name": "zhangyyy-ai-rs/GazeEarth",
+    "owner": {
+      "login": "zhangyyy-ai-rs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236319620?v=4"
+    },
+    "description": "The Earth in One Gaze: Training-Free Active Focus for UHR Remote Sensing Understanding",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "mllms",
+      "remote-sensing"
+    ],
+    "html_url": "https://github.com/zhangyyy-ai-rs/GazeEarth",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T16:18:27Z",
+    "updated_at": "2026-10-02T07:32:50Z",
+    "pushed_at": "2026-10-01T15:18:03Z"
+  },
+  {
+    "id": 1391699798,
+    "name": "genpark-int8-symmetric-per-tensor-quantizer-skill",
+    "full_name": "Alpha-Park/genpark-int8-symmetric-per-tensor-quantizer-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Symmetric INT8 per-tensor and per-channel quantization engine for LLM weights and activations, with SNR and MSE reconstruction telemetry.",
+    "topics": [
+      "agentic-ai",
+      "deep-learning",
+      "edge-ai",
+      "int8-quantization",
+      "llm-acceleration",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "model-quantization",
+      "on-device-ai",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-int8-symmetric-per-tensor-quantizer-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T03:24:57Z",
+    "updated_at": "2026-09-28T03:25:33Z",
+    "pushed_at": "2026-09-28T03:25:21Z"
+  },
+  {
+    "id": 1392367098,
+    "name": "genpark-convolutional-2d-forward-backward-skill",
+    "full_name": "alphaparkinc/genpark-convolutional-2d-forward-backward-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "2D spatial convolution layer forward pass with stride, padding, and max-pooling",
+    "topics": [
+      "agent-skills",
+      "cnn",
+      "computer-vision",
+      "convolution",
+      "deep-learning",
+      "feature-extraction",
+      "mcp",
+      "neural-networks",
+      "python-standard-library",
+      "spatial-filtering",
+      "stride-padding"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-convolutional-2d-forward-backward-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:57:16Z",
+    "updated_at": "2026-09-28T09:57:59Z",
+    "pushed_at": "2026-09-28T09:57:44Z"
+  },
+  {
+    "id": 1392517007,
+    "name": "genpark-graph-convolutional-network-gcn-layer-skill",
+    "full_name": "alphaparkinc/genpark-graph-convolutional-network-gcn-layer-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Spectral Graph Convolutional Network (GCN) layer with self-loop renormalization and forward propagation",
+    "topics": [
+      "adjacency-normalization",
+      "agent-skills",
+      "deep-learning",
+      "gcn",
+      "graph-convolutional-network",
+      "graph-neural-networks",
+      "mcp",
+      "message-passing",
+      "node-classification",
+      "python-standard-library",
+      "spectral-graph-theory"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-graph-convolutional-network-gcn-layer-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T11:22:50Z",
+    "updated_at": "2026-09-28T11:23:15Z",
+    "pushed_at": "2026-09-28T11:23:07Z"
+  },
+  {
+    "id": 1392605506,
+    "name": "nvmon",
+    "full_name": "Han-DongHeun/nvmon",
+    "owner": {
+      "login": "Han-DongHeun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38789681?v=4"
+    },
+    "description": "A fancy NVIDIA GPU monitor for the terminal. One Python file, no dependencies.",
+    "topics": [
+      "btop",
+      "cli",
+      "deep-learning",
+      "gpu",
+      "monitoring",
+      "nvidia",
+      "nvml",
+      "python",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/Han-DongHeun/nvmon",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T12:05:27Z",
+    "updated_at": "2026-10-01T13:05:28Z",
+    "pushed_at": "2026-10-01T10:30:10Z"
+  },
+  {
+    "id": 1392363191,
+    "name": "genpark-scalar-autograd-computational-graph-skill",
+    "full_name": "Alpha-Park/genpark-scalar-autograd-computational-graph-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Reverse-mode automatic differentiation engine with DAG tape and chain rule backpropagation",
+    "topics": [
+      "agent-skills",
+      "autograd",
+      "automatic-differentiation",
+      "backpropagation",
+      "computational-graph",
+      "deep-learning",
+      "machine-learning",
+      "mcp",
+      "micrograd",
+      "neural-networks",
+      "python-standard-library"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-scalar-autograd-computational-graph-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:54:50Z",
+    "updated_at": "2026-09-28T09:55:15Z",
+    "pushed_at": "2026-09-28T09:55:06Z"
+  },
+  {
+    "id": 1392362481,
+    "name": "genpark-scalar-autograd-computational-graph-skill",
+    "full_name": "alphaparkinc/genpark-scalar-autograd-computational-graph-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Reverse-mode automatic differentiation engine with DAG tape and chain rule backpropagation",
+    "topics": [
+      "agent-skills",
+      "autograd",
+      "automatic-differentiation",
+      "backpropagation",
+      "computational-graph",
+      "deep-learning",
+      "machine-learning",
+      "mcp",
+      "micrograd",
+      "neural-networks",
+      "python-standard-library"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-scalar-autograd-computational-graph-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:54:23Z",
+    "updated_at": "2026-09-28T09:54:49Z",
+    "pushed_at": "2026-09-28T09:54:40Z"
+  },
+  {
+    "id": 1392368303,
+    "name": "genpark-convolutional-2d-forward-backward-skill",
+    "full_name": "Alpha-Park/genpark-convolutional-2d-forward-backward-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "2D spatial convolution layer forward pass with stride, padding, and max-pooling",
+    "topics": [
+      "agent-skills",
+      "cnn",
+      "computer-vision",
+      "convolution",
+      "deep-learning",
+      "feature-extraction",
+      "mcp",
+      "neural-networks",
+      "python-standard-library",
+      "spatial-filtering",
+      "stride-padding"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-convolutional-2d-forward-backward-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:58:01Z",
+    "updated_at": "2026-09-28T09:58:29Z",
+    "pushed_at": "2026-09-28T09:58:19Z"
+  },
+  {
+    "id": 1392365367,
+    "name": "genpark-multi-head-scaled-dot-product-attention-skill",
+    "full_name": "alphaparkinc/genpark-multi-head-scaled-dot-product-attention-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Transformer multi-head self-attention engine with causal triangular masking and softmax normalization",
+    "topics": [
+      "agent-skills",
+      "attention",
+      "causal-masking",
+      "deep-learning",
+      "llm-architecture",
+      "mcp",
+      "nlp",
+      "python-standard-library",
+      "scaled-dot-product",
+      "self-attention",
+      "transformer"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-multi-head-scaled-dot-product-attention-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:56:11Z",
+    "updated_at": "2026-09-28T09:56:41Z",
+    "pushed_at": "2026-09-28T09:56:27Z"
+  },
+  {
+    "id": 1392366199,
+    "name": "genpark-multi-head-scaled-dot-product-attention-skill",
+    "full_name": "Alpha-Park/genpark-multi-head-scaled-dot-product-attention-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Transformer multi-head self-attention engine with causal triangular masking and softmax normalization",
+    "topics": [
+      "agent-skills",
+      "attention",
+      "causal-masking",
+      "deep-learning",
+      "llm-architecture",
+      "mcp",
+      "nlp",
+      "python-standard-library",
+      "scaled-dot-product",
+      "self-attention",
+      "transformer"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-multi-head-scaled-dot-product-attention-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:56:43Z",
+    "updated_at": "2026-09-28T09:57:15Z",
+    "pushed_at": "2026-09-28T09:57:04Z"
+  },
+  {
+    "id": 1392369068,
+    "name": "genpark-layer-norm-rms-norm-regularization-skill",
+    "full_name": "alphaparkinc/genpark-layer-norm-rms-norm-regularization-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "LayerNorm and Root Mean Square Normalization (RMSNorm) with affine transformation parameters",
+    "topics": [
+      "agent-skills",
+      "deep-learning",
+      "layernorm",
+      "llm-architecture",
+      "mcp",
+      "neural-networks",
+      "normalization",
+      "python-standard-library",
+      "regularization",
+      "rmsnorm",
+      "transformer-blocks"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-layer-norm-rms-norm-regularization-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:58:30Z",
+    "updated_at": "2026-09-28T09:58:58Z",
+    "pushed_at": "2026-09-28T09:58:47Z"
+  },
+  {
+    "id": 1402344315,
+    "name": "genaiguide",
+    "full_name": "juanjo-barrientos/genaiguide",
+    "owner": {
+      "login": "juanjo-barrientos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147687566?v=4"
+    },
+    "description": "Guía gratuita de IA generativa avanzada en español (311 págs.): Transformer, post-entrenamiento, inferencia, GPU, difusión, agentes, seguridad. Free advanced generative AI guide in Spanish. CC0.",
+    "topics": [
+      "ai-agents",
+      "deep-learning",
+      "diffusion-models",
+      "espanol",
+      "free-book",
+      "generative-ai",
+      "inference",
+      "llm",
+      "machine-learning",
+      "reinforcement-learning",
+      "spanish",
+      "transformers"
+    ],
+    "html_url": "https://github.com/juanjo-barrientos/genaiguide",
+    "stargazers_count": 4,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T20:51:54Z",
+    "updated_at": "2026-10-03T01:09:27Z",
+    "pushed_at": "2026-10-02T20:57:04Z"
+  }
+]

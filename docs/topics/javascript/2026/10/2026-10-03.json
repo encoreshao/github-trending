@@ -1,0 +1,623 @@
+[
+  {
+    "id": 1389207230,
+    "name": "inkwave",
+    "full_name": "jaydendavisnc/inkwave",
+    "owner": {
+      "login": "jaydendavisnc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178687560?v=4"
+    },
+    "description": "Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
+    "topics": [
+      "browser-game",
+      "game",
+      "javascript",
+      "shooter",
+      "splatoon",
+      "threejs",
+      "webgl"
+    ],
+    "html_url": "https://github.com/jaydendavisnc/inkwave",
+    "stargazers_count": 364,
+    "language": "JavaScript",
+    "forks_count": 129,
+    "open_issues_count": 10,
+    "created_at": "2026-09-26T12:50:22Z",
+    "updated_at": "2026-10-02T14:35:36Z",
+    "pushed_at": "2026-09-29T16:31:46Z"
+  },
+  {
+    "id": 1389857617,
+    "name": "pokemon-claude-red",
+    "full_name": "levy-street/pokemon-claude-red",
+    "owner": {
+      "login": "levy-street",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149554763?v=4"
+    },
+    "description": "Pokémon Red, rebuilt from raw pixels by Claude Opus 5.5. Every sprite, tile, battle effect and song is code: zero image files. Plays in the browser.",
+    "topics": [
+      "ai",
+      "browser-game",
+      "claude",
+      "claude-code",
+      "fan-game",
+      "game-boy",
+      "javascript",
+      "pixel-art",
+      "pokemon",
+      "pokemon-red",
+      "procedural-generation"
+    ],
+    "html_url": "https://github.com/levy-street/pokemon-claude-red",
+    "stargazers_count": 60,
+    "language": "JavaScript",
+    "forks_count": 45,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T22:55:32Z",
+    "updated_at": "2026-10-02T20:21:42Z",
+    "pushed_at": "2026-09-30T05:53:32Z"
+  },
+  {
+    "id": 1400419735,
+    "name": "self-driving-car",
+    "full_name": "Stxqq/self-driving-car",
+    "owner": {
+      "login": "Stxqq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247887540?v=4"
+    },
+    "description": "Self-driving car in plain JavaScript: a neural network evolved by a genetic algorithm drives highway traffic",
+    "topics": [
+      "autonomous-driving",
+      "canvas",
+      "evolutionary-algorithms",
+      "genetic-algorithm",
+      "javascript",
+      "machine-learning",
+      "neural-network",
+      "neuroevolution",
+      "reinforcement-learning",
+      "self-driving-car",
+      "simulation",
+      "vanilla-js"
+    ],
+    "html_url": "https://github.com/Stxqq/self-driving-car",
+    "stargazers_count": 46,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T17:01:57Z",
+    "updated_at": "2026-10-02T09:52:49Z",
+    "pushed_at": "2026-10-01T20:42:43Z"
+  },
+  {
+    "id": 1390791141,
+    "name": "koi-pond-garden",
+    "full_name": "souranyp-stack/koi-pond-garden",
+    "owner": {
+      "login": "souranyp-stack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238117269?v=4"
+    },
+    "description": "Interactive Japanese koi pond garden rendered in real time with Three.js — one HTML file, no build step, no assets.",
+    "topics": [
+      "creative-coding",
+      "javascript",
+      "koi-pond",
+      "threejs",
+      "webgl"
+    ],
+    "html_url": "https://github.com/souranyp-stack/koi-pond-garden",
+    "stargazers_count": 38,
+    "language": "HTML",
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T12:30:56Z",
+    "updated_at": "2026-10-01T10:22:44Z",
+    "pushed_at": "2026-09-27T22:49:25Z"
+  },
+  {
+    "id": 1395215215,
+    "name": "awesome-tauri-apps",
+    "full_name": "chrysler-stone/awesome-tauri-apps",
+    "owner": {
+      "login": "chrysler-stone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318241976?v=4"
+    },
+    "description": "Curated list of desktop and mobile apps built with Tauri.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "desktop",
+      "javascript",
+      "linux",
+      "macos",
+      "multiplatform",
+      "rust",
+      "svelte",
+      "tauri",
+      "typescript",
+      "vue",
+      "web",
+      "web-development",
+      "windows"
+    ],
+    "html_url": "https://github.com/chrysler-stone/awesome-tauri-apps",
+    "stargazers_count": 30,
+    "language": null,
+    "forks_count": 13,
+    "open_issues_count": 4,
+    "created_at": "2026-09-29T12:28:07Z",
+    "updated_at": "2026-10-02T23:03:25Z",
+    "pushed_at": "2026-10-01T09:45:28Z"
+  },
+  {
+    "id": 1397388558,
+    "name": "gpuslider",
+    "full_name": "niklasp/gpuslider",
+    "owner": {
+      "login": "niklasp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1685139?v=4"
+    },
+    "description": "A slider drawn by shaders: WebGPU, or WebGL 2 where there is none. A 4.7 KB core, everything else a plugin.",
+    "topics": [
+      "carousel",
+      "carousel-component",
+      "gallery",
+      "glsl",
+      "image-slider",
+      "javascript",
+      "lightbox",
+      "nextjs",
+      "react",
+      "shader-transitions",
+      "shaders",
+      "slider",
+      "typescript",
+      "webgl",
+      "webgl2",
+      "webgpu",
+      "wgsl"
+    ],
+    "html_url": "https://github.com/niklasp/gpuslider",
+    "stargazers_count": 28,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-09-30T08:28:41Z",
+    "updated_at": "2026-10-02T05:56:45Z",
+    "pushed_at": "2026-10-02T05:56:41Z"
+  },
+  {
+    "id": 1393430180,
+    "name": "hearthlight.github.io",
+    "full_name": "Hearthlight/hearthlight.github.io",
+    "owner": {
+      "login": "Hearthlight",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334976396?v=4"
+    },
+    "description": "A cozy pixel-art adventure in the browser (a demo): a story in ten chapters, eight heroes, Party Mode for 1–8 players with phones as controllers. Everything procedural.",
+    "topics": [
+      "game",
+      "javascript",
+      "party-game",
+      "pixel-art",
+      "procedural-generation",
+      "threejs"
+    ],
+    "html_url": "https://github.com/Hearthlight/hearthlight.github.io",
+    "stargazers_count": 24,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T17:32:45Z",
+    "updated_at": "2026-10-02T21:12:15Z",
+    "pushed_at": "2026-09-30T11:44:04Z"
+  },
+  {
+    "id": 1390288804,
+    "name": "Determination-Battle-Simulator",
+    "full_name": "Giaxeri/Determination-Battle-Simulator",
+    "owner": {
+      "login": "Giaxeri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149126315?v=4"
+    },
+    "description": "Determination Battle Simulator - fan-made UNDERTALE boss battle simulator",
+    "topics": [
+      "battle-simulator",
+      "fangame",
+      "html5-game",
+      "javascript",
+      "undertale"
+    ],
+    "html_url": "https://github.com/Giaxeri/Determination-Battle-Simulator",
+    "stargazers_count": 19,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T06:29:52Z",
+    "updated_at": "2026-09-30T06:19:42Z",
+    "pushed_at": "2026-09-28T22:06:42Z"
+  },
+  {
+    "id": 1400528931,
+    "name": "nutrifit-widgets",
+    "full_name": "nutrifit-health/nutrifit-widgets",
+    "owner": {
+      "login": "nutrifit-health",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311609422?v=4"
+    },
+    "description": "49 embeddable nutrition and fitness calculators: TDEE, calories, macros, water intake, body fat, laboratory values and questionnaires. React components, JavaScript widgets and iframe embeds in six languages.",
+    "topics": [
+      "body-composition",
+      "calculator",
+      "calculators",
+      "calorie-calculator",
+      "embeddable-widget",
+      "fitness",
+      "health",
+      "i18n",
+      "iframe",
+      "javascript",
+      "macro-calculator",
+      "npm-package",
+      "nutrition",
+      "nutrition-calculator",
+      "react",
+      "react-component",
+      "tdee-calculator",
+      "typescript",
+      "water-intake",
+      "widgets"
+    ],
+    "html_url": "https://github.com/nutrifit-health/nutrifit-widgets",
+    "stargazers_count": 17,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T18:13:35Z",
+    "updated_at": "2026-10-02T21:50:31Z",
+    "pushed_at": "2026-10-02T14:00:53Z"
+  },
+  {
+    "id": 1391290008,
+    "name": "shobr",
+    "full_name": "sebastiancarlos/shobr",
+    "owner": {
+      "login": "sebastiancarlos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88276600?v=4"
+    },
+    "description": "🧑‍💻 The stealthiest, UNIX-iest, Job Search Automator",
+    "topics": [
+      "ai-job-search",
+      "browser-automation",
+      "cli",
+      "cover-letter",
+      "cv",
+      "javascript",
+      "job-application",
+      "job-hunting",
+      "job-search",
+      "job-tracker",
+      "jobsearch",
+      "local-first",
+      "pandoc",
+      "python",
+      "resume",
+      "resume-builder",
+      "roff"
+    ],
+    "html_url": "https://github.com/sebastiancarlos/shobr",
+    "stargazers_count": 13,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-27T18:44:26Z",
+    "updated_at": "2026-10-01T11:08:44Z",
+    "pushed_at": "2026-10-01T11:08:39Z"
+  },
+  {
+    "id": 1394151274,
+    "name": "jevaro",
+    "full_name": "columnar-tech/jevaro",
+    "owner": {
+      "login": "columnar-tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183228265?v=4"
+    },
+    "description": "Jev + Arrow",
+    "topics": [
+      "apache-arrow",
+      "javascript",
+      "python",
+      "typesafe"
+    ],
+    "html_url": "https://github.com/columnar-tech/jevaro",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T03:08:33Z",
+    "updated_at": "2026-09-30T18:49:35Z",
+    "pushed_at": "2026-09-29T15:08:13Z"
+  },
+  {
+    "id": 1388946288,
+    "name": "depcart",
+    "full_name": "Djain912/depcart",
+    "owner": {
+      "login": "Djain912",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139234246?v=4"
+    },
+    "description": "VS Code extension: search npm, PyPI, Go, crates.io, Maven, NuGet, RubyGems, Packagist, pub.dev and Hex from one sidebar, pick exact versions, and get the right install command for your project.",
+    "topics": [
+      "composer",
+      "dependencies",
+      "developer-tools",
+      "flutter",
+      "golang",
+      "hex",
+      "javascript",
+      "maven",
+      "npm",
+      "nuget",
+      "package-manager",
+      "package-search",
+      "pip",
+      "pub-dev",
+      "pypi",
+      "python",
+      "rubygems",
+      "rust",
+      "vscode",
+      "vscode-extension"
+    ],
+    "html_url": "https://github.com/Djain912/depcart",
+    "stargazers_count": 9,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T09:11:30Z",
+    "updated_at": "2026-09-29T08:05:57Z",
+    "pushed_at": "2026-09-29T05:11:49Z"
+  },
+  {
+    "id": 1390423001,
+    "name": "fingerprint-electron",
+    "full_name": "TgolMsk/fingerprint-electron",
+    "owner": {
+      "login": "TgolMsk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20461661?v=4"
+    },
+    "description": "Custom Electron/Chromium fingerprint runtime and embedding SDK for fingerprint browsers and multi-account panels. 定制指纹内核、多实例隔离、脚本与扩展管理、可迁移构建。",
+    "topics": [
+      "browser-automation",
+      "browser-fingerprinting",
+      "browser-sdk",
+      "chrome-extensions",
+      "chromium",
+      "cpp",
+      "electron",
+      "embedded-browser",
+      "fingerprint-browser",
+      "fingerprint-electron",
+      "javascript",
+      "multi-account",
+      "session-isolation",
+      "typescript",
+      "webcontentsview",
+      "windows"
+    ],
+    "html_url": "https://github.com/TgolMsk/fingerprint-electron",
+    "stargazers_count": 9,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T07:57:36Z",
+    "updated_at": "2026-09-29T15:49:16Z",
+    "pushed_at": "2026-09-27T18:16:50Z"
+  },
+  {
+    "id": 1389219814,
+    "name": "winterjs2",
+    "full_name": "Bemly/winterjs2",
+    "owner": {
+      "login": "Bemly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48025099?v=4"
+    },
+    "description": "❄️ Node.js-like JS runtime on SpiderMonkey (servo/mozjs), pure Rust — node: compat to Bun height",
+    "topics": [
+      "bun",
+      "bunjs",
+      "javascript",
+      "js",
+      "mozjs",
+      "node",
+      "node-js",
+      "nodejs",
+      "rust",
+      "rust-lang",
+      "servo",
+      "spidermonkey",
+      "spidermonkey-engine"
+    ],
+    "html_url": "https://github.com/Bemly/winterjs2",
+    "stargazers_count": 9,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T12:59:36Z",
+    "updated_at": "2026-10-03T01:17:08Z",
+    "pushed_at": "2026-10-03T01:17:04Z"
+  },
+  {
+    "id": 1394126647,
+    "name": "CentDeck",
+    "full_name": "zzz27578/CentDeck",
+    "owner": {
+      "login": "zzz27578",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255487283?v=4"
+    },
+    "description": "AI frontend workbench with built-in agents, an infinite canvas and presentation-like visual editing. Refine real HTML/CSS without spending model tokens.",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "byok",
+      "chatgpt",
+      "css",
+      "drag-and-drop",
+      "frontend",
+      "html",
+      "infinite-canvas",
+      "javascript",
+      "local-first",
+      "low-code",
+      "mcp",
+      "no-build",
+      "openai-compatible",
+      "vibe-coding",
+      "visual-editor",
+      "web-design",
+      "website-builder"
+    ],
+    "html_url": "https://github.com/zzz27578/CentDeck",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T02:52:31Z",
+    "updated_at": "2026-10-02T13:52:38Z",
+    "pushed_at": "2026-10-02T11:31:43Z"
+  },
+  {
+    "id": 1389559194,
+    "name": "JavaScript",
+    "full_name": "hasanjim-dev/JavaScript",
+    "owner": {
+      "login": "hasanjim-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158815489?v=4"
+    },
+    "description": "A collection of JavaScript concepts, examples, and practice programs for learning and reference.",
+    "topics": [
+      "async-javascript",
+      "dom",
+      "es6",
+      "javascript",
+      "oop",
+      "programming",
+      "web-development"
+    ],
+    "html_url": "https://github.com/hasanjim-dev/JavaScript",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T17:06:38Z",
+    "updated_at": "2026-09-28T09:15:51Z",
+    "pushed_at": "2026-09-26T17:42:46Z"
+  },
+  {
+    "id": 1389646734,
+    "name": "simple_pharmacy-billing-system",
+    "full_name": "hasanjim-dev/simple_pharmacy-billing-system",
+    "owner": {
+      "login": "hasanjim-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158815489?v=4"
+    },
+    "description": "A simple pharmacy inventory management web app — track stock, expiry dates, sales history, and suppliers.",
+    "topics": [
+      "bangladesh",
+      "javascript",
+      "react",
+      "vite"
+    ],
+    "html_url": "https://github.com/hasanjim-dev/simple_pharmacy-billing-system",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T18:27:30Z",
+    "updated_at": "2026-09-28T16:45:48Z",
+    "pushed_at": "2026-09-28T16:45:43Z"
+  },
+  {
+    "id": 1390983175,
+    "name": "ux-inspector",
+    "full_name": "symfony/ux-inspector",
+    "owner": {
+      "login": "symfony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143937?v=4"
+    },
+    "description": "Browser inspector for Symfony UX components: Stimulus, LiveComponent and Turbo",
+    "topics": [
+      "devtools",
+      "inspector",
+      "javascript",
+      "live-components",
+      "stimulus",
+      "symfony",
+      "symfony-ux",
+      "turbo",
+      "ux"
+    ],
+    "html_url": "https://github.com/symfony/ux-inspector",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-27T14:49:14Z",
+    "updated_at": "2026-09-28T04:51:54Z",
+    "pushed_at": "2026-09-27T14:49:24Z"
+  },
+  {
+    "id": 1389167385,
+    "name": "Robot-Arm-Simulator",
+    "full_name": "lyh355016875-ui/Robot-Arm-Simulator",
+    "owner": {
+      "login": "lyh355016875-ui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/304820435?v=4"
+    },
+    "description": "《AI机械臂模拟器》是基于Three.js的浏览器3D六轴机械臂仿真平台，支持正逆运动学求解、目标位姿控制、关节滑块与键盘操控，实现六轴机械臂自动抓取并提供末端姿态实时反馈。",
+    "topics": [
+      "javascript",
+      "kinematics",
+      "robot-arm",
+      "robotics",
+      "simulator",
+      "threejs"
+    ],
+    "html_url": "https://github.com/lyh355016875-ui/Robot-Arm-Simulator",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-26T12:24:02Z",
+    "updated_at": "2026-09-29T01:32:47Z",
+    "pushed_at": "2026-09-29T01:32:42Z"
+  },
+  {
+    "id": 1395680624,
+    "name": "Tickoff-fullstack-todo-app",
+    "full_name": "DEVAL-020/Tickoff-fullstack-todo-app",
+    "owner": {
+      "login": "DEVAL-020",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178760778?v=4"
+    },
+    "description": "It is a Full-Stack To-Do App.",
+    "topics": [
+      "expressjs",
+      "framer-motion",
+      "gsap-animation",
+      "html5",
+      "javascript",
+      "postgresql",
+      "reactjs"
+    ],
+    "html_url": "https://github.com/DEVAL-020/Tickoff-fullstack-todo-app",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T15:04:29Z",
+    "updated_at": "2026-10-02T09:08:44Z",
+    "pushed_at": "2026-10-02T09:08:40Z"
+  }
+]
