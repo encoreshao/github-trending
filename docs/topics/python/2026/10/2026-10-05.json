@@ -1,0 +1,591 @@
+[
+  {
+    "id": 1395995350,
+    "name": "strands-decider",
+    "full_name": "strands-labs/strands-decider",
+    "owner": {
+      "login": "strands-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257848598?v=4"
+    },
+    "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
+    "topics": [
+      "ai",
+      "machine-learning",
+      "natural-language-understanding",
+      "python",
+      "strands-agents",
+      "strands-labs",
+      "system-one",
+      "system-one-models"
+    ],
+    "html_url": "https://github.com/strands-labs/strands-decider",
+    "stargazers_count": 344,
+    "language": "Python",
+    "forks_count": 53,
+    "open_issues_count": 22,
+    "created_at": "2026-09-29T16:36:38Z",
+    "updated_at": "2026-10-05T01:50:33Z",
+    "pushed_at": "2026-10-04T22:14:47Z"
+  },
+  {
+    "id": 1397049383,
+    "name": "JEV_sees",
+    "full_name": "CharlesFeng0314/JEV_sees",
+    "owner": {
+      "login": "CharlesFeng0314",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144281743?v=4"
+    },
+    "description": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
+    "topics": [
+      "computer-vision",
+      "jev",
+      "multimodal-ai",
+      "object-detection",
+      "object-tracking",
+      "python",
+      "real-time-ai",
+      "rgbd",
+      "robotics",
+      "typesafe-ai",
+      "visual-reasoning",
+      "yolo"
+    ],
+    "html_url": "https://github.com/CharlesFeng0314/JEV_sees",
+    "stargazers_count": 255,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 1,
+    "created_at": "2026-09-30T05:22:15Z",
+    "updated_at": "2026-10-05T01:59:21Z",
+    "pushed_at": "2026-10-02T04:20:08Z"
+  },
+  {
+    "id": 1402986945,
+    "name": "hermes-gadget-sdk",
+    "full_name": "Adolanium/hermes-gadget-sdk",
+    "owner": {
+      "login": "Adolanium",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94890352?v=4"
+    },
+    "description": "Build voice and text devices for your Hermes Agent, with ESP32 firmware, a Linux client, and a desktop simulator.",
+    "topics": [
+      "cpp17",
+      "embedded",
+      "esp-idf",
+      "esp32",
+      "esp32-s3",
+      "hermes-agent",
+      "iot",
+      "linux",
+      "push-to-talk",
+      "python",
+      "raspberry-pi",
+      "sdk",
+      "simulator",
+      "voice-assistant",
+      "websocket"
+    ],
+    "html_url": "https://github.com/Adolanium/hermes-gadget-sdk",
+    "stargazers_count": 194,
+    "language": "C++",
+    "forks_count": 18,
+    "open_issues_count": 3,
+    "created_at": "2026-10-03T10:08:24Z",
+    "updated_at": "2026-10-05T01:54:12Z",
+    "pushed_at": "2026-10-04T21:47:06Z"
+  },
+  {
+    "id": 1399796212,
+    "name": "terrahour",
+    "full_name": "ACoci86/terrahour",
+    "owner": {
+      "login": "ACoci86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181754564?v=4"
+    },
+    "description": "A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time that works across time zones.",
+    "topics": [
+      "braille",
+      "cli",
+      "daylight-saving-time",
+      "python",
+      "terminal",
+      "time-zones",
+      "timezone",
+      "tmux",
+      "tui",
+      "world-clock",
+      "world-map"
+    ],
+    "html_url": "https://github.com/ACoci86/terrahour",
+    "stargazers_count": 118,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 3,
+    "created_at": "2026-10-01T11:05:15Z",
+    "updated_at": "2026-10-04T22:05:34Z",
+    "pushed_at": "2026-10-03T14:44:58Z"
+  },
+  {
+    "id": 1394847040,
+    "name": "douyin-api",
+    "full_name": "justoneapi-labs/douyin-api",
+    "owner": {
+      "login": "justoneapi-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330040735?v=4"
+    },
+    "description": "抖音API、抖音接口、抖音爬虫示例。",
+    "topics": [
+      "api-examples",
+      "data-collection",
+      "douyin",
+      "douyin-api",
+      "douyin-scraper",
+      "python"
+    ],
+    "html_url": "https://github.com/justoneapi-labs/douyin-api",
+    "stargazers_count": 64,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-29T09:42:38Z",
+    "updated_at": "2026-10-03T10:40:02Z",
+    "pushed_at": "2026-09-29T09:43:00Z"
+  },
+  {
+    "id": 1392877775,
+    "name": "RuiC-motion-reel",
+    "full_name": "HRuiCcc/RuiC-motion-reel",
+    "owner": {
+      "login": "HRuiCcc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319719670?v=4"
+    },
+    "description": "用代码生成 15 秒动态图形成片 · Agent Skill。交付 1920×1080 / 30fps。自研渲染引擎：2× 超采样矢量/文字 + 真 3D 点云 + 丝网印四色分色 + 代码合成配乐，不用任何外部美术素材、不用 AE。15 张风格牌，已做过暗色科技 / riso 印刷 / 纸艺 / 银盐暗房 / 恒星普朗克配色 / 氰版蓝图 / 紫外光刻，成片见 docs/films/",
+    "topics": [
+      "agent-skill",
+      "creative-coding",
+      "ffmpeg",
+      "motion-graphics",
+      "point-cloud",
+      "procedural-generation",
+      "python",
+      "risograph"
+    ],
+    "html_url": "https://github.com/HRuiCcc/RuiC-motion-reel",
+    "stargazers_count": 62,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 2,
+    "created_at": "2026-09-28T14:04:24Z",
+    "updated_at": "2026-10-04T21:14:59Z",
+    "pushed_at": "2026-09-30T04:17:30Z"
+  },
+  {
+    "id": 1391942317,
+    "name": "student-absence-system",
+    "full_name": "Jeng-linLi/student-absence-system",
+    "owner": {
+      "login": "Jeng-linLi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276827154?v=4"
+    },
+    "description": "SAAS v0.2.0 — Student Absence & Academic Accommodation System: Flask+SQLite prototype (two-level approval, CSRF, attachment access control, 49-check CI), enterprise design package for HKUST(GZ), and Individual Ideation assignment",
+    "topics": [
+      "approval-workflow",
+      "emi",
+      "flask",
+      "hkust-gz",
+      "python",
+      "sqlite",
+      "student-leave"
+    ],
+    "html_url": "https://github.com/Jeng-linLi/student-absence-system",
+    "stargazers_count": 56,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T05:53:05Z",
+    "updated_at": "2026-10-04T23:37:38Z",
+    "pushed_at": "2026-10-02T06:55:17Z"
+  },
+  {
+    "id": 1395284436,
+    "name": "lumen-raw",
+    "full_name": "hety0211/lumen-raw",
+    "owner": {
+      "login": "hety0211",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126344802?v=4"
+    },
+    "description": "开源多品牌 RAW 照片编辑器，集调色、AI 增强、智能蒙版与照片合成于一体。 / An open-source multi-brand RAW photo editor with color grading, AI enhancement, smart masks, and photo merging.",
+    "topics": [
+      "hdr",
+      "onnx",
+      "panorama",
+      "photo-editor",
+      "photography",
+      "pyside6",
+      "python",
+      "raw"
+    ],
+    "html_url": "https://github.com/hety0211/lumen-raw",
+    "stargazers_count": 48,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T12:53:46Z",
+    "updated_at": "2026-10-05T00:26:45Z",
+    "pushed_at": "2026-10-04T09:36:41Z"
+  },
+  {
+    "id": 1401725212,
+    "name": "token-tv",
+    "full_name": "click6067-ship-it/token-tv",
+    "owner": {
+      "login": "click6067-ship-it",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226941778?v=4"
+    },
+    "description": "Turn a ~$5 AliExpress clock into a physical AI usage dashboard (Claude, Codex, multi-account). Zero-flash where possible.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "desk-clock",
+      "geekmagic",
+      "python",
+      "smalltv",
+      "usage-monitor"
+    ],
+    "html_url": "https://github.com/click6067-ship-it/token-tv",
+    "stargazers_count": 29,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 6,
+    "created_at": "2026-10-02T12:54:10Z",
+    "updated_at": "2026-10-04T22:43:03Z",
+    "pushed_at": "2026-10-04T08:54:48Z"
+  },
+  {
+    "id": 1392970809,
+    "name": "keeploggers",
+    "full_name": "kofiadeyemiq/keeploggers",
+    "owner": {
+      "login": "kofiadeyemiq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334555386?v=4"
+    },
+    "description": "Report which existing loggers logging.config.dictConfig() will silently disable, and warn or refuse before it does.",
+    "topics": [
+      "diagnostics",
+      "dictconfig",
+      "logging",
+      "python",
+      "stdlib"
+    ],
+    "html_url": "https://github.com/kofiadeyemiq/keeploggers",
+    "stargazers_count": 28,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:43:14Z",
+    "updated_at": "2026-10-05T01:40:09Z",
+    "pushed_at": "2026-09-28T14:43:23Z"
+  },
+  {
+    "id": 1402361182,
+    "name": "snapp-mcp",
+    "full_name": "sepehr071/snapp-mcp",
+    "owner": {
+      "login": "sepehr071",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52960282?v=4"
+    },
+    "description": "Unofficial read-only MCP server for Snappfood & SnappMarket: search food and groceries, compare prices, find deals.",
+    "topics": [
+      "iran",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "snappfood",
+      "snappmarket"
+    ],
+    "html_url": "https://github.com/sepehr071/snapp-mcp",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T21:12:20Z",
+    "updated_at": "2026-10-04T23:47:55Z",
+    "pushed_at": "2026-10-02T22:01:36Z"
+  },
+  {
+    "id": 1398891048,
+    "name": "loci",
+    "full_name": "cmoraes10/loci",
+    "owner": {
+      "login": "cmoraes10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218541098?v=4"
+    },
+    "description": "Typed long-term memory for AI agents. One core, an MCP server, and a Hermes plugin.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "hermes",
+      "llm",
+      "long-term-memory",
+      "mcp",
+      "mcp-server",
+      "memory",
+      "model",
+      "model-context-protocol",
+      "open-source",
+      "python",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/cmoraes10/loci",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T01:09:03Z",
+    "updated_at": "2026-10-04T21:08:02Z",
+    "pushed_at": "2026-10-01T02:14:38Z"
+  },
+  {
+    "id": 1400272965,
+    "name": "gutsy",
+    "full_name": "kouhxp/gutsy",
+    "owner": {
+      "login": "kouhxp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/258696757?v=4"
+    },
+    "description": "Local decision model with calibrated probabilities: send a state and yes/no, choice or score questions, get a probability for every option. 0.8B GGUF on CPU, Jev-style API.",
+    "topics": [
+      "agents",
+      "classifier",
+      "content-moderation",
+      "cpu-inference",
+      "decision-model",
+      "gguf",
+      "intent-classification",
+      "jev",
+      "jev-compatible",
+      "llama-cpp",
+      "llm",
+      "llm-judge",
+      "local-llm",
+      "python",
+      "qwen",
+      "routing",
+      "small-language-models",
+      "tool-selection"
+    ],
+    "html_url": "https://github.com/kouhxp/gutsy",
+    "stargazers_count": 24,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T15:42:10Z",
+    "updated_at": "2026-10-03T23:00:45Z",
+    "pushed_at": "2026-10-02T23:20:48Z"
+  },
+  {
+    "id": 1393843638,
+    "name": "python-primery-koda-2026",
+    "full_name": "justxor/python-primery-koda-2026",
+    "owner": {
+      "login": "justxor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30596522?v=4"
+    },
+    "description": "Примеры кода на Python 2026: лучшие практики, разбор примеров, Python 3.14, asyncio, FastAPI, pytest, задачи с решениями на русском",
+    "topics": [
+      "asyncio",
+      "beginners",
+      "best-practices",
+      "clean-code",
+      "fastapi",
+      "interview-questions",
+      "learn-python",
+      "pytest",
+      "python",
+      "python-2026",
+      "python-3-14",
+      "python-examples",
+      "python-exercises",
+      "python-tutorial",
+      "python3",
+      "roadmap",
+      "russian",
+      "type-hints"
+    ],
+    "html_url": "https://github.com/justxor/python-primery-koda-2026",
+    "stargazers_count": 24,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 1,
+    "created_at": "2026-09-28T21:09:26Z",
+    "updated_at": "2026-10-04T18:28:39Z",
+    "pushed_at": "2026-09-29T12:19:42Z"
+  },
+  {
+    "id": 1395089674,
+    "name": "random-signal-agent",
+    "full_name": "PatrickStar-cmd/random-signal-agent",
+    "owner": {
+      "login": "PatrickStar-cmd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202392708?v=4"
+    },
+    "description": "UESTC 随机信号课程智能体项目",
+    "topics": [
+      "agent",
+      "digital-signal-processing",
+      "education",
+      "numpy",
+      "python",
+      "random-processes",
+      "signal-processing",
+      "web-interface"
+    ],
+    "html_url": "https://github.com/PatrickStar-cmd/random-signal-agent",
+    "stargazers_count": 21,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-29T11:43:05Z",
+    "updated_at": "2026-10-02T14:47:30Z",
+    "pushed_at": "2026-10-02T14:50:15Z"
+  },
+  {
+    "id": 1393669082,
+    "name": "ios-messiah-re",
+    "full_name": "shiedless/ios-messiah-re",
+    "owner": {
+      "login": "shiedless",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332145250?v=4"
+    },
+    "description": "Reversing NetEase's Messiah engine on iOS: ECS, Python gameplay layer, telemetry anti-cheat",
+    "topics": [
+      "ecs",
+      "game-engine",
+      "ios",
+      "netease",
+      "python",
+      "reverse-engineering"
+    ],
+    "html_url": "https://github.com/shiedless/ios-messiah-re",
+    "stargazers_count": 21,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T19:02:55Z",
+    "updated_at": "2026-10-01T09:53:23Z",
+    "pushed_at": "2026-09-30T16:57:40Z"
+  },
+  {
+    "id": 1402077833,
+    "name": "LLM-Learning-Notes",
+    "full_name": "tutuhong2001/LLM-Learning-Notes",
+    "owner": {
+      "login": "tutuhong2001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172473404?v=4"
+    },
+    "description": "Chinese AI learning notes and a minimal RAG demo with Sentence-Transformers, BM25, OpenAI-compatible APIs, and retrieval evaluation.",
+    "topics": [
+      "bm25",
+      "embeddings",
+      "learning-notes",
+      "llm",
+      "python",
+      "rag",
+      "sentence-transformers"
+    ],
+    "html_url": "https://github.com/tutuhong2001/LLM-Learning-Notes",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T16:37:36Z",
+    "updated_at": "2026-10-03T13:56:11Z",
+    "pushed_at": "2026-10-02T16:40:52Z"
+  },
+  {
+    "id": 1392332800,
+    "name": "gitmemory",
+    "full_name": "doronp/gitmemory",
+    "owner": {
+      "login": "doronp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3586743?v=4"
+    },
+    "description": "Git-versioned, contiguity-checked memory for AI agents: verbatim transcripts, byte-offset recall, no LLM",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "bm25",
+      "claude-code",
+      "git",
+      "llm",
+      "longmemeval",
+      "memory",
+      "pi-coding-agent",
+      "python",
+      "sqlite-fts5"
+    ],
+    "html_url": "https://github.com/doronp/gitmemory",
+    "stargazers_count": 19,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 13,
+    "created_at": "2026-09-28T09:36:22Z",
+    "updated_at": "2026-10-03T19:25:23Z",
+    "pushed_at": "2026-10-03T12:21:45Z"
+  },
+  {
+    "id": 1397517279,
+    "name": "telegram-media-downloader",
+    "full_name": "designfuchen/telegram-media-downloader",
+    "owner": {
+      "login": "designfuchen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17679892?v=4"
+    },
+    "description": "Mac 原生 Telegram 频道下载器，一键备份图片/视频/音频/文档",
+    "topics": [
+      "backup",
+      "downloader",
+      "macos",
+      "open-source",
+      "python",
+      "swift",
+      "telegram"
+    ],
+    "html_url": "https://github.com/designfuchen/telegram-media-downloader",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T09:39:32Z",
+    "updated_at": "2026-10-03T05:47:43Z",
+    "pushed_at": "2026-09-30T10:27:13Z"
+  },
+  {
+    "id": 1402282819,
+    "name": "open-edits",
+    "full_name": "kevinbadi/open-edits",
+    "owner": {
+      "login": "kevinbadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129329982?v=4"
+    },
+    "description": "OPEN VIDEO EDIT: the world's best AI video editing harness. Claude Code skills that turn a raw talking-head clip into a fully animated short.",
+    "topics": [
+      "ai-video",
+      "claude-code",
+      "claude-skills",
+      "ffmpeg",
+      "motion-graphics",
+      "python",
+      "video-editing"
+    ],
+    "html_url": "https://github.com/kevinbadi/open-edits",
+    "stargazers_count": 17,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T19:44:09Z",
+    "updated_at": "2026-10-04T11:40:31Z",
+    "pushed_at": "2026-10-02T21:04:45Z"
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1398891048,
+    "name": "loci",
+    "full_name": "cmoraes10/loci",
+    "owner": {
+      "login": "cmoraes10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218541098?v=4"
+    },
+    "description": "Typed long-term memory for AI agents. One core, an MCP server, and a Hermes plugin.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "hermes",
+      "llm",
+      "long-term-memory",
+      "mcp",
+      "mcp-server",
+      "memory",
+      "model",
+      "model-context-protocol",
+      "open-source",
+      "python",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/cmoraes10/loci",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T01:09:03Z",
+    "updated_at": "2026-10-04T21:08:02Z",
+    "pushed_at": "2026-10-01T02:14:38Z"
+  },
+  {
+    "id": 1402229659,
+    "name": "glass-theme-for-hermes",
+    "full_name": "mykeura/glass-theme-for-hermes",
+    "owner": {
+      "login": "mykeura",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125702282?v=4"
+    },
+    "description": "A glass-inspired theme for Hermes Desktop with light and dark modes, translucent surfaces, and coordinated terminal palettes",
+    "topics": [
+      "electron",
+      "hermes",
+      "hermes-agent",
+      "hermes-desktop",
+      "hermes-plugin",
+      "minimalist",
+      "theme-ui",
+      "themes",
+      "ui",
+      "ui-design",
+      "ui-ux"
+    ],
+    "html_url": "https://github.com/mykeura/glass-theme-for-hermes",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T18:50:56Z",
+    "updated_at": "2026-10-04T16:20:17Z",
+    "pushed_at": "2026-10-02T20:33:18Z"
+  },
+  {
+    "id": 1398504969,
+    "name": "hermes-chatgpt-extension",
+    "full_name": "intellectronica/hermes-chatgpt-extension",
+    "owner": {
+      "login": "intellectronica",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46264?v=4"
+    },
+    "description": "Hermes ChatGPT Extension",
+    "topics": [
+      "chatgpt",
+      "codex",
+      "hermes"
+    ],
+    "html_url": "https://github.com/intellectronica/hermes-chatgpt-extension",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T17:09:13Z",
+    "updated_at": "2026-10-02T19:05:53Z",
+    "pushed_at": "2026-10-01T21:12:37Z"
+  },
+  {
+    "id": 1395328523,
+    "name": "hermes-intl",
+    "full_name": "magrinj/hermes-intl",
+    "owner": {
+      "login": "magrinj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3551795?v=4"
+    },
+    "description": "Native Intl.PluralRules, RelativeTimeFormat, ListFormat and Locale for React Native's Hermes engine. Rust and ICU4X under the hood, same output on iOS and Android, a drop-in replacement for the FormatJS polyfills.",
+    "topics": [
+      "ecma402",
+      "hermes",
+      "i18n",
+      "icu4x",
+      "internationalization",
+      "intl",
+      "listformat",
+      "pluralrules",
+      "react-native",
+      "relativetimeformat",
+      "rust",
+      "turbomodule"
+    ],
+    "html_url": "https://github.com/magrinj/hermes-intl",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-09-29T13:07:42Z",
+    "updated_at": "2026-10-02T22:35:29Z",
+    "pushed_at": "2026-10-02T12:53:20Z"
+  },
+  {
+    "id": 1391922972,
+    "name": "hermes-brain-graph",
+    "full_name": "PIR8-Software/hermes-brain-graph",
+    "owner": {
+      "login": "PIR8-Software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306288669?v=4"
+    },
+    "description": "Hermes desktop plugin for a local Markdown vault: notes, wikilinks, search, recycle bin, and an interactive graph",
+    "topics": [
+      "desktop-plugin",
+      "hermes",
+      "knowledge-graph",
+      "markdown"
+    ],
+    "html_url": "https://github.com/PIR8-Software/hermes-brain-graph",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T05:44:30Z",
+    "updated_at": "2026-10-04T17:47:57Z",
+    "pushed_at": "2026-10-04T17:48:05Z"
+  },
+  {
+    "id": 1394777576,
+    "name": "EnvarPay",
+    "full_name": "EnvarAI/EnvarPay",
+    "owner": {
+      "login": "EnvarAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334063189?v=4"
+    },
+    "description": "Get your agents paid. Open-source MCP + x402 payment SDK and CLI for AI agents.",
+    "topics": [
+      "agent-payments",
+      "ai-agents",
+      "base",
+      "cli",
+      "hermes",
+      "mcp",
+      "python",
+      "sdk",
+      "usdc",
+      "x402"
+    ],
+    "html_url": "https://github.com/EnvarAI/EnvarPay",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-09-29T09:00:32Z",
+    "updated_at": "2026-10-04T19:45:52Z",
+    "pushed_at": "2026-10-04T19:48:47Z"
+  },
+  {
+    "id": 1404557280,
+    "name": "blender-mcp-cloud-bridge",
+    "full_name": "FahimXits/blender-mcp-cloud-bridge",
+    "owner": {
+      "login": "FahimXits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192604098?v=4"
+    },
+    "description": "Engineered for Cloud AI Assistants (Muse AI, OpenClaw, Hermes) & LLMs to remotely drive local Blender 3D via MCP and automated secure tunnels.",
+    "topics": [
+      "ai-agents",
+      "autonomous-agents",
+      "blender",
+      "claude",
+      "cloudflare-tunnel",
+      "cursor",
+      "hermes",
+      "mcp",
+      "model-context-protocol",
+      "muse-ai",
+      "ngrok",
+      "openclaw",
+      "python"
+    ],
+    "html_url": "https://github.com/FahimXits/blender-mcp-cloud-bridge",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T15:18:50Z",
+    "updated_at": "2026-10-04T15:26:20Z",
+    "pushed_at": "2026-10-04T15:21:55Z"
+  },
+  {
+    "id": 1396579478,
+    "name": "chatlens",
+    "full_name": "jonah-ux/chatlens",
+    "owner": {
+      "login": "jonah-ux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230212123?v=4"
+    },
+    "description": "Local-first CLI for searching Codex, Claude Code, and Hermes sessions and recovering work context.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "hermes",
+      "python"
+    ],
+    "html_url": "https://github.com/jonah-ux/chatlens",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T20:49:43Z",
+    "updated_at": "2026-10-05T00:43:53Z",
+    "pushed_at": "2026-10-05T00:43:52Z"
+  },
+  {
+    "id": 1395977034,
+    "name": "hermes-plugins",
+    "full_name": "AstraOnlineWeb/hermes-plugins",
+    "owner": {
+      "login": "AstraOnlineWeb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140722210?v=4"
+    },
+    "description": "Plugins para o Hermes Agent: login OAuth (ChatGPT/Codex e Claude Max) e app móvel PWA",
+    "topics": [
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research",
+      "oauth",
+      "plugins",
+      "pwa"
+    ],
+    "html_url": "https://github.com/AstraOnlineWeb/hermes-plugins",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T16:31:10Z",
+    "updated_at": "2026-10-02T02:04:38Z",
+    "pushed_at": "2026-09-30T15:38:36Z"
+  },
+  {
+    "id": 1402306741,
+    "name": "interactive-workflow",
+    "full_name": "abualnassr/interactive-workflow",
+    "owner": {
+      "login": "abualnassr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/302041833?v=4"
+    },
+    "description": "Agent skill (Claude Code, Codex, Cursor, OpenCode, Hermes Agent and more): turn a process description into a self-contained, clickable HTML workflow diagram plus a PNG for slides.",
+    "topics": [
+      "agent-skills",
+      "claude",
+      "claude-skill",
+      "codex",
+      "diagram",
+      "hermes",
+      "hermes-agent",
+      "hermes-desktop",
+      "hermes-skill",
+      "process-map",
+      "workflow"
+    ],
+    "html_url": "https://github.com/abualnassr/interactive-workflow",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T20:09:37Z",
+    "updated_at": "2026-10-04T20:08:37Z",
+    "pushed_at": "2026-10-04T20:08:51Z"
+  },
+  {
+    "id": 1401792735,
+    "name": "yomitan-agent-skills",
+    "full_name": "philiaspaceai/yomitan-agent-skills",
+    "owner": {
+      "login": "philiaspaceai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247907372?v=4"
+    },
+    "description": "Agent Skills for Yomitan dictionaries — AI agents (Claude Code, OpenCode, Codex, Hermes, Cursor) can create, edit, validate & package Japanese dictionary files. Install: npx skills add philiaspaceai/yomitan-agent-skills",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-skills",
+      "claude-code",
+      "codex",
+      "cursor",
+      "dictionary-editor",
+      "frequency-dictionary",
+      "hermes",
+      "hermes-agent",
+      "japanese",
+      "japanese-dictionary",
+      "jlpt",
+      "npx",
+      "opencode",
+      "pitch-accent",
+      "yomitan",
+      "yomitan-dictionary"
+    ],
+    "html_url": "https://github.com/philiaspaceai/yomitan-agent-skills",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T13:34:38Z",
+    "updated_at": "2026-10-02T16:33:32Z",
+    "pushed_at": "2026-10-02T16:33:28Z"
+  },
+  {
+    "id": 1398244403,
+    "name": "agent-gateway",
+    "full_name": "yudch999-bot/agent-gateway",
+    "owner": {
+      "login": "yudch999-bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231164559?v=4"
+    },
+    "description": "One command to launch and switch between all your AI coding agents — Claude Code, Codex, Gemini, Grok, OpenCode, OpenClaw, Hermes… 一个命令统一切换所有 AI coding agent",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "fuzzy-finder",
+      "gemini-cli",
+      "hermes",
+      "launcher",
+      "openclaw",
+      "opencode",
+      "python",
+      "terminal"
+    ],
+    "html_url": "https://github.com/yudch999-bot/agent-gateway",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T14:27:31Z",
+    "updated_at": "2026-10-01T18:42:52Z",
+    "pushed_at": "2026-10-01T18:42:50Z"
+  },
+  {
+    "id": 1393175470,
+    "name": "hermes-whale",
+    "full_name": "Ghoti2077/hermes-whale",
+    "owner": {
+      "login": "Ghoti2077",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313879409?v=4"
+    },
+    "description": "DeepSeek 余额鲸鱼娘桌面挂件 · PyQt6 透明浮窗 · 跟随 Hermes 开关",
+    "topics": [
+      "deepseek",
+      "hermes",
+      "hermes-skill"
+    ],
+    "html_url": "https://github.com/Ghoti2077/hermes-whale",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T15:59:19Z",
+    "updated_at": "2026-09-29T14:08:05Z",
+    "pushed_at": "2026-09-28T16:18:44Z"
+  },
+  {
+    "id": 1391656440,
+    "name": "tokmeter",
+    "full_name": "yuezhiye/tokmeter",
+    "owner": {
+      "login": "yuezhiye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215360351?v=4"
+    },
+    "description": "Hermes desktop status-bar plugin: real-time tokens/s for llama-server (disk-door plugin, no build step)",
+    "topics": [
+      "desktop-plugin",
+      "electron",
+      "hermes",
+      "hermes-agent",
+      "llama-cpp",
+      "llama-server",
+      "status-bar",
+      "tokens-per-second"
+    ],
+    "html_url": "https://github.com/yuezhiye/tokmeter",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T02:59:13Z",
+    "updated_at": "2026-09-28T03:00:14Z",
+    "pushed_at": "2026-09-28T03:00:10Z"
+  },
+  {
+    "id": 1404196206,
+    "name": "dot-agents",
+    "full_name": "w0rxbend/dot-agents",
+    "owner": {
+      "login": "w0rxbend",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8176996?v=4"
+    },
+    "description": "Global agent skills with portable installers, provenance, CI, and versioned releases",
+    "topics": [
+      "agent-skills",
+      "automation",
+      "claude-code",
+      "codex",
+      "dotfiles",
+      "hermes"
+    ],
+    "html_url": "https://github.com/w0rxbend/dot-agents",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 6,
+    "created_at": "2026-10-04T09:27:40Z",
+    "updated_at": "2026-10-04T15:41:46Z",
+    "pushed_at": "2026-10-04T15:46:09Z"
+  },
+  {
+    "id": 1402063092,
+    "name": "searxng-custom-logo",
+    "full_name": "Forsigh/searxng-custom-logo",
+    "owner": {
+      "login": "Forsigh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35919784?v=4"
+    },
+    "description": "Brand a self-hosted SearXNG: wordmark, animated front page, results mark, favicon.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "hermes",
+      "searxng"
+    ],
+    "html_url": "https://github.com/Forsigh/searxng-custom-logo",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T16:24:24Z",
+    "updated_at": "2026-10-02T18:16:20Z",
+    "pushed_at": "2026-10-02T18:16:17Z"
+  },
+  {
+    "id": 1399004126,
+    "name": "hermes-cloud-file-manager",
+    "full_name": "electricsheephq/hermes-cloud-file-manager",
+    "owner": {
+      "login": "electricsheephq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268512935?v=4"
+    },
+    "description": "Cloud Files for Hermes Desktop: browse, search and bulk-upload files on the machine your agent runs on, and hand the agent file locations from chat.",
+    "topics": [
+      "file-manager",
+      "file-upload",
+      "hermes",
+      "hermes-agent",
+      "hermes-desktop",
+      "hermes-plugin",
+      "remote-agent"
+    ],
+    "html_url": "https://github.com/electricsheephq/hermes-cloud-file-manager",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-01T03:22:05Z",
+    "updated_at": "2026-10-03T10:10:06Z",
+    "pushed_at": "2026-10-03T10:10:33Z"
+  },
+  {
+    "id": 1401570991,
+    "name": "hermes-clinepass-enhanced",
+    "full_name": "thesaluja/hermes-clinepass-enhanced",
+    "owner": {
+      "login": "thesaluja",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69156129?v=4"
+    },
+    "description": "ClinePass model-provider plugin for Hermes Agent: live plan-catalog discovery + non-streaming envelope fix. Enhanced fork of Adolanium/hermes-clinepass.",
+    "topics": [
+      "cline",
+      "clinepass",
+      "hermes",
+      "hermes-agent",
+      "llm-provider",
+      "model-provider",
+      "plugin"
+    ],
+    "html_url": "https://github.com/thesaluja/hermes-clinepass-enhanced",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T11:24:34Z",
+    "updated_at": "2026-10-02T12:52:21Z",
+    "pushed_at": "2026-10-02T12:52:07Z"
+  },
+  {
+    "id": 1395617255,
+    "name": "agent-memory-recall",
+    "full_name": "gujing-hub/agent-memory-recall",
+    "owner": {
+      "login": "gujing-hub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325227398?v=4"
+    },
+    "description": "Read-only multi-source search for long-running agent memory (conversation store + notes + wiki + memories + skills), plus notes on memory governance discipline.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "context-engineering",
+      "hermes",
+      "llm-agents",
+      "memory",
+      "python",
+      "retrieval"
+    ],
+    "html_url": "https://github.com/gujing-hub/agent-memory-recall",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T14:42:47Z",
+    "updated_at": "2026-10-01T17:43:32Z",
+    "pushed_at": "2026-10-01T17:43:27Z"
+  },
+  {
+    "id": 1403460741,
+    "name": "hermes-bronze-dashboard-theme",
+    "full_name": "c7zx/hermes-bronze-dashboard-theme",
+    "owner": {
+      "login": "c7zx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306874606?v=4"
+    },
+    "description": "A theme for the Hermes web dashboard with dark surfaces, ivory typography, bronze accents, a decent full-page archive background ect.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-custom-theme",
+      "hermes-dashboard",
+      "hermes-dashboard-design",
+      "hermes-dashboard-theme",
+      "hermes-design",
+      "hermes-theme",
+      "hermes-ui-theme",
+      "hermes-web-dashboard-theme",
+      "nousresearch",
+      "theme",
+      "ui-theme",
+      "web-dashboard"
+    ],
+    "html_url": "https://github.com/c7zx/hermes-bronze-dashboard-theme",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T17:21:59Z",
+    "updated_at": "2026-10-04T08:08:27Z",
+    "pushed_at": "2026-10-03T17:53:46Z"
+  }
+]

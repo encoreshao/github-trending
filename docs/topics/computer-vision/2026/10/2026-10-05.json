@@ -1,0 +1,609 @@
+[
+  {
+    "id": 1397049383,
+    "name": "JEV_sees",
+    "full_name": "CharlesFeng0314/JEV_sees",
+    "owner": {
+      "login": "CharlesFeng0314",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144281743?v=4"
+    },
+    "description": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
+    "topics": [
+      "computer-vision",
+      "jev",
+      "multimodal-ai",
+      "object-detection",
+      "object-tracking",
+      "python",
+      "real-time-ai",
+      "rgbd",
+      "robotics",
+      "typesafe-ai",
+      "visual-reasoning",
+      "yolo"
+    ],
+    "html_url": "https://github.com/CharlesFeng0314/JEV_sees",
+    "stargazers_count": 255,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 1,
+    "created_at": "2026-09-30T05:22:15Z",
+    "updated_at": "2026-10-05T01:59:21Z",
+    "pushed_at": "2026-10-02T04:20:08Z"
+  },
+  {
+    "id": 1393889041,
+    "name": "VisionState",
+    "full_name": "oleost/VisionState",
+    "owner": {
+      "login": "oleost",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5670710?v=4"
+    },
+    "description": "Teach a local AI what your camera sees and turn it into Home Assistant sensors — garage door open/closed, gate shut, car parked. 100% local, any CPU.",
+    "topics": [
+      "computer-vision",
+      "dinov2",
+      "frigate",
+      "home-assistant",
+      "home-assistant-addon",
+      "home-assistant-app",
+      "image-classification",
+      "mqtt",
+      "onnx",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/oleost/VisionState",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-09-28T21:58:32Z",
+    "updated_at": "2026-10-04T17:07:02Z",
+    "pushed_at": "2026-10-04T19:09:05Z"
+  },
+  {
+    "id": 1398174806,
+    "name": "awesome-robotics",
+    "full_name": "zermello/awesome-robotics",
+    "owner": {
+      "login": "zermello",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296903246?v=4"
+    },
+    "description": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more.",
+    "topics": [
+      "ai",
+      "ai-resources",
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-learning",
+      "free-resources",
+      "learning-resources",
+      "machine-learning-resources",
+      "python",
+      "reinforcement-learning",
+      "robotics",
+      "robotics-education",
+      "robotics-resources",
+      "ros2"
+    ],
+    "html_url": "https://github.com/zermello/awesome-robotics",
+    "stargazers_count": 15,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T14:06:16Z",
+    "updated_at": "2026-10-03T19:53:03Z",
+    "pushed_at": "2026-10-01T03:49:01Z"
+  },
+  {
+    "id": 1404648910,
+    "name": "VisionCam-AI",
+    "full_name": "PersonalityKeeper/VisionCam-AI",
+    "owner": {
+      "login": "PersonalityKeeper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332419166?v=4"
+    },
+    "description": "AI-powered virtual camera effects toolkit",
+    "topics": [
+      "ai",
+      "camera",
+      "computer-vision",
+      "webcam"
+    ],
+    "html_url": "https://github.com/PersonalityKeeper/VisionCam-AI",
+    "stargazers_count": 9,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T17:00:50Z",
+    "updated_at": "2026-10-04T17:08:08Z",
+    "pushed_at": "2026-10-04T17:00:57Z"
+  },
+  {
+    "id": 1391779712,
+    "name": "genpark-sobel-canny-edge-detector-skill",
+    "full_name": "Alpha-Park/genpark-sobel-canny-edge-detector-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Sobel gradient operator, 2D convolution kernel filtering, and double-threshold Canny edge detection.",
+    "topics": [
+      "agent-skills",
+      "canny-edge",
+      "computer-vision",
+      "edge-detection",
+      "feature-extraction",
+      "image-processing",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "sobel-filter",
+      "vision-ai"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-sobel-canny-edge-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T04:19:33Z",
+    "updated_at": "2026-09-28T04:20:00Z",
+    "pushed_at": "2026-09-28T04:19:51Z"
+  },
+  {
+    "id": 1391782822,
+    "name": "genpark-hough-transform-line-circle-skill",
+    "full_name": "alphaparkinc/genpark-hough-transform-line-circle-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Hough Transform parametric space voting accumulator for line and geometric shape detection.",
+    "topics": [
+      "accumulator",
+      "agent-skills",
+      "computer-vision",
+      "geometric-features",
+      "hough-transform",
+      "image-analysis",
+      "line-detection",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "shape-detection"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-hough-transform-line-circle-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T04:21:54Z",
+    "updated_at": "2026-09-28T04:22:24Z",
+    "pushed_at": "2026-09-28T04:22:13Z"
+  },
+  {
+    "id": 1391780953,
+    "name": "genpark-morphology-dilation-erosion-skill",
+    "full_name": "Alpha-Park/genpark-morphology-dilation-erosion-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Binary and grayscale mathematical morphology operators: dilation, erosion, opening, and closing.",
+    "topics": [
+      "agent-skills",
+      "binary-image",
+      "computer-vision",
+      "dilation",
+      "erosion",
+      "image-processing",
+      "mcp-server",
+      "model-context-protocol",
+      "morphology",
+      "noise-removal",
+      "python"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-morphology-dilation-erosion-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T04:20:30Z",
+    "updated_at": "2026-09-28T04:20:56Z",
+    "pushed_at": "2026-09-28T04:20:46Z"
+  },
+  {
+    "id": 1391784712,
+    "name": "genpark-image-connected-components-labeling-skill",
+    "full_name": "Alpha-Park/genpark-image-connected-components-labeling-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Two-pass connected-component labeling (CCL) with disjoint-set Union-Find for binary mask segment extraction.",
+    "topics": [
+      "agent-skills",
+      "binary-masks",
+      "blob-detection",
+      "ccl-algorithm",
+      "computer-vision",
+      "connected-components",
+      "image-segmentation",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "union-find"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-image-connected-components-labeling-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T04:23:27Z",
+    "updated_at": "2026-09-28T04:23:55Z",
+    "pushed_at": "2026-09-28T04:23:45Z"
+  },
+  {
+    "id": 1391784094,
+    "name": "genpark-image-connected-components-labeling-skill",
+    "full_name": "alphaparkinc/genpark-image-connected-components-labeling-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Two-pass connected-component labeling (CCL) with disjoint-set Union-Find for binary mask segment extraction.",
+    "topics": [
+      "agent-skills",
+      "binary-masks",
+      "blob-detection",
+      "ccl-algorithm",
+      "computer-vision",
+      "connected-components",
+      "image-segmentation",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "union-find"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-image-connected-components-labeling-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T04:22:57Z",
+    "updated_at": "2026-09-28T04:23:26Z",
+    "pushed_at": "2026-09-28T04:23:13Z"
+  },
+  {
+    "id": 1392367098,
+    "name": "genpark-convolutional-2d-forward-backward-skill",
+    "full_name": "alphaparkinc/genpark-convolutional-2d-forward-backward-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "2D spatial convolution layer forward pass with stride, padding, and max-pooling",
+    "topics": [
+      "agent-skills",
+      "cnn",
+      "computer-vision",
+      "convolution",
+      "deep-learning",
+      "feature-extraction",
+      "mcp",
+      "neural-networks",
+      "python-standard-library",
+      "spatial-filtering",
+      "stride-padding"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-convolutional-2d-forward-backward-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:57:16Z",
+    "updated_at": "2026-09-28T09:57:59Z",
+    "pushed_at": "2026-09-28T09:57:44Z"
+  },
+  {
+    "id": 1391781535,
+    "name": "genpark-harris-corner-feature-detector-skill",
+    "full_name": "alphaparkinc/genpark-harris-corner-feature-detector-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Harris corner and salient feature detector using spatial gradient autocorrelation matrix analysis.",
+    "topics": [
+      "agent-skills",
+      "autocorrelation",
+      "computer-vision",
+      "corner-detector",
+      "feature-detection",
+      "harris-corner",
+      "image-analysis",
+      "keypoints",
+      "mcp-server",
+      "model-context-protocol",
+      "python"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-harris-corner-feature-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T04:20:57Z",
+    "updated_at": "2026-09-28T04:21:24Z",
+    "pushed_at": "2026-09-28T04:21:14Z"
+  },
+  {
+    "id": 1391780333,
+    "name": "genpark-morphology-dilation-erosion-skill",
+    "full_name": "alphaparkinc/genpark-morphology-dilation-erosion-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Binary and grayscale mathematical morphology operators: dilation, erosion, opening, and closing.",
+    "topics": [
+      "agent-skills",
+      "binary-image",
+      "computer-vision",
+      "dilation",
+      "erosion",
+      "image-processing",
+      "mcp-server",
+      "model-context-protocol",
+      "morphology",
+      "noise-removal",
+      "python"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-morphology-dilation-erosion-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T04:20:01Z",
+    "updated_at": "2026-09-28T04:20:29Z",
+    "pushed_at": "2026-09-28T04:20:19Z"
+  },
+  {
+    "id": 1391783474,
+    "name": "genpark-hough-transform-line-circle-skill",
+    "full_name": "Alpha-Park/genpark-hough-transform-line-circle-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Hough Transform parametric space voting accumulator for line and geometric shape detection.",
+    "topics": [
+      "accumulator",
+      "agent-skills",
+      "computer-vision",
+      "geometric-features",
+      "hough-transform",
+      "image-analysis",
+      "line-detection",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "shape-detection"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-hough-transform-line-circle-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T04:22:25Z",
+    "updated_at": "2026-09-28T04:22:56Z",
+    "pushed_at": "2026-09-28T04:22:45Z"
+  },
+  {
+    "id": 1391782153,
+    "name": "genpark-harris-corner-feature-detector-skill",
+    "full_name": "Alpha-Park/genpark-harris-corner-feature-detector-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Harris corner and salient feature detector using spatial gradient autocorrelation matrix analysis.",
+    "topics": [
+      "agent-skills",
+      "autocorrelation",
+      "computer-vision",
+      "corner-detector",
+      "feature-detection",
+      "harris-corner",
+      "image-analysis",
+      "keypoints",
+      "mcp-server",
+      "model-context-protocol",
+      "python"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-harris-corner-feature-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T04:21:25Z",
+    "updated_at": "2026-09-28T04:21:53Z",
+    "pushed_at": "2026-09-28T04:21:43Z"
+  },
+  {
+    "id": 1392368303,
+    "name": "genpark-convolutional-2d-forward-backward-skill",
+    "full_name": "Alpha-Park/genpark-convolutional-2d-forward-backward-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "2D spatial convolution layer forward pass with stride, padding, and max-pooling",
+    "topics": [
+      "agent-skills",
+      "cnn",
+      "computer-vision",
+      "convolution",
+      "deep-learning",
+      "feature-extraction",
+      "mcp",
+      "neural-networks",
+      "python-standard-library",
+      "spatial-filtering",
+      "stride-padding"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-convolutional-2d-forward-backward-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:58:01Z",
+    "updated_at": "2026-09-28T09:58:29Z",
+    "pushed_at": "2026-09-28T09:58:19Z"
+  },
+  {
+    "id": 1391779049,
+    "name": "genpark-sobel-canny-edge-detector-skill",
+    "full_name": "alphaparkinc/genpark-sobel-canny-edge-detector-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Sobel gradient operator, 2D convolution kernel filtering, and double-threshold Canny edge detection.",
+    "topics": [
+      "agent-skills",
+      "canny-edge",
+      "computer-vision",
+      "edge-detection",
+      "feature-extraction",
+      "image-processing",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "sobel-filter",
+      "vision-ai"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-sobel-canny-edge-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T04:19:02Z",
+    "updated_at": "2026-09-28T04:19:32Z",
+    "pushed_at": "2026-09-28T04:19:22Z"
+  },
+  {
+    "id": 1393355267,
+    "name": "Vertebrate",
+    "full_name": "advaetuc/Vertebrate",
+    "owner": {
+      "login": "advaetuc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312525996?v=4"
+    },
+    "description": "Real-time, stateless human fall detection desktop application utilizing YOLOv11 pose estimation, OpenCV, and PySide6.",
+    "topics": [
+      "computer-vision",
+      "fall-detection",
+      "opencv",
+      "pose-estimation",
+      "pyside6",
+      "python",
+      "real-time",
+      "urfd-dataset",
+      "yolov11"
+    ],
+    "html_url": "https://github.com/advaetuc/Vertebrate",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T17:03:43Z",
+    "updated_at": "2026-10-04T15:41:05Z",
+    "pushed_at": "2026-10-04T15:38:54Z"
+  },
+  {
+    "id": 1402289131,
+    "name": "Hands-on-AI-from-Scratch-Tutorial",
+    "full_name": "abdelhalimyasser/Hands-on-AI-from-Scratch-Tutorial",
+    "owner": {
+      "login": "abdelhalimyasser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190276579?v=4"
+    },
+    "description": "Hands-on AI tutorial from first principles to real-world implementation using C, MATLAB, and Python — covering math, classical AI, machine learning, neural networks, NLP, and more.",
+    "topics": [
+      "ai",
+      "c",
+      "computer-vision",
+      "math",
+      "matlab",
+      "ml",
+      "neural-network",
+      "nlp",
+      "python",
+      "statistics"
+    ],
+    "html_url": "https://github.com/abdelhalimyasser/Hands-on-AI-from-Scratch-Tutorial",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T19:50:57Z",
+    "updated_at": "2026-10-04T20:02:58Z",
+    "pushed_at": "2026-10-04T20:02:54Z"
+  },
+  {
+    "id": 1398550914,
+    "name": "S500-Vision-Follow-Drone",
+    "full_name": "TuanLinh05/S500-Vision-Follow-Drone",
+    "owner": {
+      "login": "TuanLinh05",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227375365?v=4"
+    },
+    "description": "S500 quadcopter that tracks a selected person with YOLO/OpenVINO on a UP 7000 and yaws to follow via PX4 Offboard, with 9 independent safety layers, a companion telemetry/safety package and a Gazebo + PX4 SITL model.",
+    "topics": [
+      "computer-vision",
+      "drone",
+      "gazebo",
+      "mavlink",
+      "object-tracking",
+      "openvino",
+      "pixhawk",
+      "px4",
+      "uav",
+      "yolo"
+    ],
+    "html_url": "https://github.com/TuanLinh05/S500-Vision-Follow-Drone",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T17:49:08Z",
+    "updated_at": "2026-10-01T14:43:49Z",
+    "pushed_at": "2026-09-30T17:51:57Z"
+  },
+  {
+    "id": 1395193933,
+    "name": "BRICS-FS-56",
+    "full_name": "VIPniuma/BRICS-FS-56",
+    "owner": {
+      "login": "VIPniuma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111719973?v=4"
+    },
+    "description": "金砖赛 BRICS-FS-56 人工智能技术应用：A 图像处理 / B 工业缺陷 / C 舆情分析 / D 无人机检测，四个模块的可运行实战代码",
+    "topics": [
+      "bert",
+      "computer-vision",
+      "nlp",
+      "opencv",
+      "tensorflow",
+      "yolo"
+    ],
+    "html_url": "https://github.com/VIPniuma/BRICS-FS-56",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T12:20:59Z",
+    "updated_at": "2026-10-04T04:51:17Z",
+    "pushed_at": "2026-09-29T12:21:07Z"
+  }
+]

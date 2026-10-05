@@ -1,0 +1,609 @@
+[
+  {
+    "id": 1392971873,
+    "name": "action-dist-verify",
+    "full_name": "kofiadeyemiq/action-dist-verify",
+    "owner": {
+      "login": "kofiadeyemiq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334555386?v=4"
+    },
+    "description": "Rebuild the JavaScript GitHub Actions your workflows pin and check that their committed dist matches the source.",
+    "topics": [
+      "github-actions",
+      "nodejs",
+      "reproducible-builds",
+      "security",
+      "supply-chain"
+    ],
+    "html_url": "https://github.com/kofiadeyemiq/action-dist-verify",
+    "stargazers_count": 68,
+    "language": "TypeScript",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:43:40Z",
+    "updated_at": "2026-10-04T13:53:03Z",
+    "pushed_at": "2026-09-28T14:43:46Z"
+  },
+  {
+    "id": 1392971522,
+    "name": "headerscrub",
+    "full_name": "kofiadeyemiq/headerscrub",
+    "owner": {
+      "login": "kofiadeyemiq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334555386?v=4"
+    },
+    "description": "Go http.Client redirect policy that drops caller-set headers such as X-Api-Key when a redirect changes origin.",
+    "topics": [
+      "go",
+      "golang",
+      "http-client",
+      "redirects",
+      "security"
+    ],
+    "html_url": "https://github.com/kofiadeyemiq/headerscrub",
+    "stargazers_count": 28,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:43:33Z",
+    "updated_at": "2026-10-05T01:40:04Z",
+    "pushed_at": "2026-09-28T14:43:38Z"
+  },
+  {
+    "id": 1392971239,
+    "name": "origin-scoped-fetch",
+    "full_name": "kofiadeyemiq/origin-scoped-fetch",
+    "owner": {
+      "login": "kofiadeyemiq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334555386?v=4"
+    },
+    "description": "A fetch wrapper that drops your custom auth headers when a redirect crosses to another origin.",
+    "topics": [
+      "fetch",
+      "http",
+      "nodejs",
+      "redirects",
+      "security",
+      "typescript"
+    ],
+    "html_url": "https://github.com/kofiadeyemiq/origin-scoped-fetch",
+    "stargazers_count": 28,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:43:25Z",
+    "updated_at": "2026-10-05T01:40:16Z",
+    "pushed_at": "2026-09-28T14:43:30Z"
+  },
+  {
+    "id": 1400039535,
+    "name": "witness-vault",
+    "full_name": "Hamidooh/witness-vault",
+    "owner": {
+      "login": "Hamidooh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121404750?v=4"
+    },
+    "description": "Zero-install, air-gapped, self-decrypting HTML vaults using AES-256-GCM and native WebCrypto.",
+    "topics": [
+      "aes-256-gcm",
+      "air-gapped",
+      "cryptography",
+      "offline-first",
+      "phython",
+      "privacy",
+      "security",
+      "vault",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/Hamidooh/witness-vault",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T13:28:07Z",
+    "updated_at": "2026-10-02T04:00:06Z",
+    "pushed_at": "2026-10-01T13:30:33Z"
+  },
+  {
+    "id": 1404566213,
+    "name": "VD-Google",
+    "full_name": "VD171/VD-Google",
+    "owner": {
+      "login": "VD171",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80125987?v=4"
+    },
+    "description": "Your Google services (RCS, Google Wallet, Play Integrity attestations) read on-device. No internet, root required.",
+    "topics": [
+      "android",
+      "attestation",
+      "google-wallet",
+      "jetpack-compose",
+      "kernelsu",
+      "kotlin",
+      "lsposed",
+      "magisk",
+      "material3",
+      "nfc",
+      "no-internet",
+      "play-integrity",
+      "privacy",
+      "rcs",
+      "root",
+      "security",
+      "vdgoogle"
+    ],
+    "html_url": "https://github.com/VD171/VD-Google",
+    "stargazers_count": 15,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T15:28:34Z",
+    "updated_at": "2026-10-04T22:58:02Z",
+    "pushed_at": "2026-10-04T21:20:43Z"
+  },
+  {
+    "id": 1394603303,
+    "name": "SentinelToXDR",
+    "full_name": "pkhabazi/SentinelToXDR",
+    "owner": {
+      "login": "pkhabazi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20944041?v=4"
+    },
+    "description": "Assess, convert and deploy Microsoft Sentinel analytics rules as Defender XDR custom detections",
+    "topics": [
+      "detection-engineering",
+      "kql",
+      "microsoft-defender-xdr",
+      "microsoft-sentinel",
+      "powershell",
+      "security",
+      "siem"
+    ],
+    "html_url": "https://github.com/pkhabazi/SentinelToXDR",
+    "stargazers_count": 14,
+    "language": "PowerShell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T07:16:53Z",
+    "updated_at": "2026-10-03T03:51:53Z",
+    "pushed_at": "2026-09-29T07:18:32Z"
+  },
+  {
+    "id": 1392202525,
+    "name": "dotnet-memshell",
+    "full_name": "lupingQAQ/dotnet-memshell",
+    "owner": {
+      "login": "lupingQAQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24671887?v=4"
+    },
+    "description": "Three .NET memory shells at three distinct insertion positions - HttpModule pipeline, WebSocket connection takeover, Remoting URI registration. Zero impact on unmarked traffic, no new port, no web.config change, no file drop. 三个插入位互不相同、业务无感的 .NET 内存马。",
+    "topics": [
+      "aspnet",
+      "csharp",
+      "deserialization",
+      "dotnet",
+      "memory-shell",
+      "offensive-security",
+      "pentesting",
+      "security",
+      "websocket"
+    ],
+    "html_url": "https://github.com/lupingQAQ/dotnet-memshell",
+    "stargazers_count": 12,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T08:19:42Z",
+    "updated_at": "2026-10-02T14:07:45Z",
+    "pushed_at": "2026-09-28T08:58:14Z"
+  },
+  {
+    "id": 1395919528,
+    "name": "agentcap",
+    "full_name": "yeet-src/agentcap",
+    "owner": {
+      "login": "yeet-src",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125224316?v=4"
+    },
+    "description": "eBPF Prometheus exporter for AI-agent activity — per-agent tools, domains, ports, files, CPU & network — with a Grafana dashboard. A yeet service.",
+    "topics": [
+      "ai-agents",
+      "aider",
+      "audit",
+      "bpf",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "ebpf",
+      "gemini",
+      "goose",
+      "grafana",
+      "observability",
+      "openclaw",
+      "opencode",
+      "prometheus",
+      "prometheus-exporter",
+      "security",
+      "yeet"
+    ],
+    "html_url": "https://github.com/yeet-src/agentcap",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T16:14:23Z",
+    "updated_at": "2026-10-02T23:40:56Z",
+    "pushed_at": "2026-10-02T13:59:10Z"
+  },
+  {
+    "id": 1401229860,
+    "name": "Seep-Tool",
+    "full_name": "angusdevgo/Seep-Tool",
+    "owner": {
+      "login": "angusdevgo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89133686?v=4"
+    },
+    "description": "CWE-602 客户端鉴权脆弱性白盒审计方法论与纵深防御加固研究框架",
+    "topics": [
+      "appsec",
+      "client-side-security",
+      "cwe-602",
+      "defense-in-depth",
+      "documentation",
+      "ed25519",
+      "responsible-disclosure",
+      "security",
+      "security-audit",
+      "vulnerability-research"
+    ],
+    "html_url": "https://github.com/angusdevgo/Seep-Tool",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-10-02T06:27:57Z",
+    "updated_at": "2026-10-04T17:52:03Z",
+    "pushed_at": "2026-10-02T13:04:31Z"
+  },
+  {
+    "id": 1401406896,
+    "name": "OpenRod",
+    "full_name": "OpenRod/OpenRod",
+    "owner": {
+      "login": "OpenRod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336854237?v=4"
+    },
+    "description": "One-click sandboxes for AI agents, with egress policy, MCPs, skills and audit. Built on NVIDIA OpenShell.",
+    "topics": [
+      "ai-agents",
+      "coding-agents",
+      "developer-tools",
+      "egress",
+      "mcp",
+      "nvidia-openshell",
+      "openshell",
+      "sandbox",
+      "security",
+      "web-console"
+    ],
+    "html_url": "https://github.com/OpenRod/OpenRod",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T08:49:40Z",
+    "updated_at": "2026-10-03T16:37:06Z",
+    "pushed_at": "2026-10-03T13:52:04Z"
+  },
+  {
+    "id": 1392358077,
+    "name": "genpark-schnorr-signature-discrete-log-skill",
+    "full_name": "Alpha-Park/genpark-schnorr-signature-discrete-log-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Schnorr signature scheme and non-interactive zero-knowledge identification verification",
+    "topics": [
+      "agent-skills",
+      "blockchain",
+      "cryptography",
+      "digital-signature",
+      "discrete-log",
+      "mcp",
+      "nizk",
+      "python-standard-library",
+      "schnorr-signature",
+      "security",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-schnorr-signature-discrete-log-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:51:37Z",
+    "updated_at": "2026-09-28T09:52:04Z",
+    "pushed_at": "2026-09-28T09:51:54Z"
+  },
+  {
+    "id": 1392355728,
+    "name": "genpark-diffie-hellman-key-exchange-rfc3526-skill",
+    "full_name": "alphaparkinc/genpark-diffie-hellman-key-exchange-rfc3526-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Diffie-Hellman key agreement with RFC 3526 2048-bit MODP groups and HKDF derivation",
+    "topics": [
+      "agent-skills",
+      "cryptography",
+      "diffie-hellman",
+      "forward-secrecy",
+      "hkdf",
+      "key-agreement",
+      "key-exchange",
+      "mcp",
+      "modp",
+      "python-standard-library",
+      "security"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-diffie-hellman-key-exchange-rfc3526-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:50:11Z",
+    "updated_at": "2026-09-28T09:50:37Z",
+    "pushed_at": "2026-09-28T09:50:27Z"
+  },
+  {
+    "id": 1392359960,
+    "name": "genpark-pedersen-commitment-homomorphic-skill",
+    "full_name": "Alpha-Park/genpark-pedersen-commitment-homomorphic-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Homomorphic cryptographic Pedersen commitments with blinding factors and additive verification",
+    "topics": [
+      "agent-skills",
+      "blinding-factor",
+      "blockchain",
+      "confidential-transactions",
+      "cryptography",
+      "homomorphic",
+      "mcp",
+      "pedersen-commitment",
+      "python-standard-library",
+      "security",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-pedersen-commitment-homomorphic-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:52:45Z",
+    "updated_at": "2026-09-28T09:53:16Z",
+    "pushed_at": "2026-09-28T09:53:05Z"
+  },
+  {
+    "id": 1391732072,
+    "name": "genpark-constant-time-crypto-validator-skill",
+    "full_name": "Alpha-Park/genpark-constant-time-crypto-validator-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Side-channel timing attack defense primitive providing constant-time bitwise and string digest comparison for agent security credentials.",
+    "topics": [
+      "agent-hardening",
+      "agentic-ai",
+      "constant-time",
+      "cryptography",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "security",
+      "side-channel-defense",
+      "timing-attack-protection",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-constant-time-crypto-validator-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T03:44:44Z",
+    "updated_at": "2026-09-28T03:45:18Z",
+    "pushed_at": "2026-09-28T03:45:09Z"
+  },
+  {
+    "id": 1392322711,
+    "name": "genpark-tcp-ip-packet-checksum-parser-skill",
+    "full_name": "alphaparkinc/genpark-tcp-ip-packet-checksum-parser-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "IPv4 header serialization, Internet checksum verification, and raw packet parsing engine",
+    "topics": [
+      "agent-skills",
+      "checksum",
+      "low-level",
+      "mcp",
+      "networking",
+      "packet-filtering",
+      "packet-sniffer",
+      "protocol-parser",
+      "python-standard-library",
+      "security",
+      "tcp-ip"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-tcp-ip-packet-checksum-parser-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:30:08Z",
+    "updated_at": "2026-09-28T09:30:36Z",
+    "pushed_at": "2026-09-28T09:30:26Z"
+  },
+  {
+    "id": 1394823063,
+    "name": "genpark-canary-token-leak-sentinel-skill",
+    "full_name": "Alpha-Park/genpark-canary-token-leak-sentinel-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "HMAC-authenticated canary token generator and secret exfiltration leak detection sentinel",
+    "topics": [
+      "adversarial-robustness",
+      "agent-skills",
+      "ai-safety",
+      "canary-tokens",
+      "exfiltration-defense",
+      "hmac-sha256",
+      "leak-detection",
+      "mcp",
+      "python-standard-library",
+      "security",
+      "tripwire"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-canary-token-leak-sentinel-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T09:25:54Z",
+    "updated_at": "2026-09-29T09:26:22Z",
+    "pushed_at": "2026-09-29T09:26:13Z"
+  },
+  {
+    "id": 1392329321,
+    "name": "genpark-dns-wire-protocol-parser-skill",
+    "full_name": "alphaparkinc/genpark-dns-wire-protocol-parser-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "DNS binary wire format packet builder, label compression reader, and header parser",
+    "topics": [
+      "agent-skills",
+      "dns",
+      "dns-parser",
+      "domain-resolution",
+      "low-level",
+      "mcp",
+      "networking",
+      "protocol-buffer",
+      "python-standard-library",
+      "security",
+      "wire-protocol"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-dns-wire-protocol-parser-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:34:15Z",
+    "updated_at": "2026-09-28T09:34:42Z",
+    "pushed_at": "2026-09-28T09:34:33Z"
+  },
+  {
+    "id": 1391727408,
+    "name": "genpark-jwt-hmac-sha256-token-attestation-skill",
+    "full_name": "alphaparkinc/genpark-jwt-hmac-sha256-token-attestation-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Cryptographic JSON Web Token (JWT) engine with RFC 7519 HMAC-SHA256 signature verification, claims validation, and expiration enforcement.",
+    "topics": [
+      "agent-auth",
+      "agentic-ai",
+      "cryptography",
+      "hmac-sha256",
+      "jwt",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "security",
+      "token-attestation",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-jwt-hmac-sha256-token-attestation-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T03:41:55Z",
+    "updated_at": "2026-09-28T03:42:26Z",
+    "pushed_at": "2026-09-28T03:42:17Z"
+  },
+  {
+    "id": 1391730050,
+    "name": "genpark-schnorr-zero-knowledge-prover-skill",
+    "full_name": "Alpha-Park/genpark-schnorr-zero-knowledge-prover-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Interactive Schnorr Zero-Knowledge Identification (ZKP) protocol proving private key knowledge via 3-pass commitment, challenge, and response.",
+    "topics": [
+      "agentic-ai",
+      "cryptography",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "privacy",
+      "schnorr-identification",
+      "security",
+      "zero-dependency",
+      "zero-knowledge-proofs",
+      "zkp"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-schnorr-zero-knowledge-prover-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T03:43:35Z",
+    "updated_at": "2026-09-28T03:44:06Z",
+    "pushed_at": "2026-09-28T03:43:58Z"
+  },
+  {
+    "id": 1395154535,
+    "name": "genpark-sql-syntax-abstract-syntax-tree-validator-skill",
+    "full_name": "alphaparkinc/genpark-sql-syntax-abstract-syntax-tree-validator-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "In-memory recursive SQL query validator checking syntax safety and blocking dangerous DDL/DML injection commands",
+    "topics": [
+      "agent-skills",
+      "ast-parser",
+      "database-tools",
+      "developer-tools",
+      "injection-guard",
+      "mcp",
+      "python-standard-library",
+      "query-grammar",
+      "security",
+      "sql-safety",
+      "sql-validator"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-sql-syntax-abstract-syntax-tree-validator-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T12:07:56Z",
+    "updated_at": "2026-09-29T12:08:30Z",
+    "pushed_at": "2026-09-29T12:08:18Z"
+  }
+]

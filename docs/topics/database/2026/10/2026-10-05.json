@@ -1,0 +1,593 @@
+[
+  {
+    "id": 1393634228,
+    "name": "tusk",
+    "full_name": "alpcanaydin/tusk",
+    "owner": {
+      "login": "alpcanaydin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1801024?v=4"
+    },
+    "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+    "topics": [
+      "ai-assistant",
+      "clickhouse",
+      "database",
+      "database-client",
+      "database-gui",
+      "developer-tools",
+      "duckdb",
+      "gpui",
+      "macos",
+      "mongodb",
+      "mysql",
+      "native-app",
+      "open-source",
+      "postgresql",
+      "redis",
+      "rust",
+      "snowflake",
+      "sql-client",
+      "sqlite",
+      "tableplus-alternative"
+    ],
+    "html_url": "https://github.com/alpcanaydin/tusk",
+    "stargazers_count": 335,
+    "language": "Rust",
+    "forks_count": 18,
+    "open_issues_count": 7,
+    "created_at": "2026-09-28T18:47:06Z",
+    "updated_at": "2026-10-04T20:06:23Z",
+    "pushed_at": "2026-10-05T00:21:57Z"
+  },
+  {
+    "id": 1395583543,
+    "name": "tabletist",
+    "full_name": "igor-alexandrov/tabletist",
+    "owner": {
+      "login": "igor-alexandrov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100725?v=4"
+    },
+    "description": "A fast, native database client for PostgreSQL, MySQL and SQLite. Written in Rust with egui; runs on Linux, macOS and Windows.",
+    "topics": [
+      "cross-platform",
+      "database",
+      "database-client",
+      "database-gui",
+      "desktop-app",
+      "egui",
+      "gui",
+      "hyprland",
+      "linux",
+      "macos",
+      "mysql",
+      "omarchy",
+      "postgresql",
+      "rust",
+      "sql",
+      "sqlite",
+      "wayland",
+      "windows"
+    ],
+    "html_url": "https://github.com/igor-alexandrov/tabletist",
+    "stargazers_count": 17,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-09-29T14:30:54Z",
+    "updated_at": "2026-10-04T18:01:58Z",
+    "pushed_at": "2026-10-05T01:45:34Z"
+  },
+  {
+    "id": 1391689817,
+    "name": "awesome-free-dev-tools",
+    "full_name": "pnnnhan99/awesome-free-dev-tools",
+    "owner": {
+      "login": "pnnnhan99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72957879?v=4"
+    },
+    "description": "A curated collection of free & useful tools for developers, vibe coding, AI, SaaS, and modern web development.",
+    "topics": [
+      "automation",
+      "awesome-list",
+      "backend",
+      "database",
+      "developer-tools",
+      "devops",
+      "free-tier",
+      "free-tools-of-development",
+      "frontend",
+      "hosting",
+      "indie-hacker",
+      "no-credit-card",
+      "productivity",
+      "saas",
+      "vibe-coding",
+      "web-development"
+    ],
+    "html_url": "https://github.com/pnnnhan99/awesome-free-dev-tools",
+    "stargazers_count": 10,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 2,
+    "created_at": "2026-09-28T03:19:36Z",
+    "updated_at": "2026-10-04T14:57:02Z",
+    "pushed_at": "2026-10-04T14:56:58Z"
+  },
+  {
+    "id": 1391581162,
+    "name": "LSE-ST445",
+    "full_name": "LeonardooAlves/LSE-ST445",
+    "owner": {
+      "login": "LeonardooAlves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13165347?v=4"
+    },
+    "description": "LSE ST445 Managing and Visualising Data Course",
+    "topics": [
+      "data",
+      "data-analysis",
+      "data-engineering",
+      "data-structures",
+      "data-visualization",
+      "database",
+      "dataset"
+    ],
+    "html_url": "https://github.com/LeonardooAlves/LSE-ST445",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T01:43:04Z",
+    "updated_at": "2026-10-02T09:30:59Z",
+    "pushed_at": "2026-09-30T13:19:15Z"
+  },
+  {
+    "id": 1402331427,
+    "name": "CryoDB",
+    "full_name": "znxr/CryoDB",
+    "owner": {
+      "login": "znxr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13396325?v=4"
+    },
+    "description": "Fast, native SQL client for PostgreSQL, MySQL, MariaDB and SQLite. Desktop app, TUI and CLI in one binary. Built with Rust and iced.",
+    "topics": [
+      "cli",
+      "cross-platform",
+      "database",
+      "database-client",
+      "desktop-app",
+      "gui",
+      "iced",
+      "mariadb",
+      "mysql",
+      "postgresql",
+      "rust",
+      "sql-client",
+      "sqlite",
+      "tui"
+    ],
+    "html_url": "https://github.com/znxr/CryoDB",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T20:37:08Z",
+    "updated_at": "2026-10-03T15:40:27Z",
+    "pushed_at": "2026-10-03T05:43:19Z"
+  },
+  {
+    "id": 1394985393,
+    "name": "libmaxminddb-rs",
+    "full_name": "0x00F6/libmaxminddb-rs",
+    "owner": {
+      "login": "0x00F6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155492361?v=4"
+    },
+    "description": "Pure Rust MaxMind DB v2  (MMDB IPv4/IPv6) reader and writer with zero-copy borrowed decoding https://0x00f6.github.io/libmaxminddb-rs",
+    "topics": [
+      "database",
+      "geoip",
+      "geoip-lookup",
+      "geoip2",
+      "ip-reputation",
+      "ipv4",
+      "ipv6",
+      "maxmind",
+      "maxminddb",
+      "mmdb",
+      "rust"
+    ],
+    "html_url": "https://github.com/0x00F6/libmaxminddb-rs",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T11:00:44Z",
+    "updated_at": "2026-10-04T18:45:15Z",
+    "pushed_at": "2026-10-04T18:47:22Z"
+  },
+  {
+    "id": 1391528286,
+    "name": "Final-Project-Software-Engineering",
+    "full_name": "SeanRDC/Final-Project-Software-Engineering",
+    "owner": {
+      "login": "SeanRDC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216728724?v=4"
+    },
+    "description": "Repository of a Final project in Software Engineering Course to build an API system via web that manages local university clinic data automatically",
+    "topics": [
+      "crud",
+      "crud-api",
+      "data-security",
+      "database",
+      "database-management",
+      "database-normalization",
+      "python",
+      "web-application"
+    ],
+    "html_url": "https://github.com/SeanRDC/Final-Project-Software-Engineering",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T00:24:02Z",
+    "updated_at": "2026-10-04T14:35:29Z",
+    "pushed_at": "2026-10-04T14:35:25Z"
+  },
+  {
+    "id": 1399783950,
+    "name": "db2gram",
+    "full_name": "fiandev/db2gram",
+    "owner": {
+      "login": "fiandev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98071117?v=4"
+    },
+    "description": "Automated multi-dialect database backup to Telegram. Each database is dumped to SQL, zipped, encrypted (AES-256-GCM), split into ≤48 MB chunks",
+    "topics": [
+      "backup-sql",
+      "bot-telegram",
+      "database"
+    ],
+    "html_url": "https://github.com/fiandev/db2gram",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T10:55:51Z",
+    "updated_at": "2026-10-04T13:24:02Z",
+    "pushed_at": "2026-10-04T13:33:11Z"
+  },
+  {
+    "id": 1400473125,
+    "name": "plugboard",
+    "full_name": "falsea3/plugboard",
+    "owner": {
+      "login": "falsea3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76220831?v=4"
+    },
+    "description": "A fast, local-first database client for PostgreSQL, MySQL and SQLite. No accounts, no cloud sync, no telemetry — just you and your data.",
+    "topics": [
+      "database",
+      "database-client",
+      "dbeaver-alternative",
+      "golang",
+      "linux-app",
+      "local-first",
+      "mac-app",
+      "mysql",
+      "open-source",
+      "postgresql",
+      "sql",
+      "sqlite",
+      "svelte",
+      "tableplus-alternative",
+      "wails",
+      "windows-app"
+    ],
+    "html_url": "https://github.com/falsea3/plugboard",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T17:36:30Z",
+    "updated_at": "2026-10-04T14:10:50Z",
+    "pushed_at": "2026-10-04T14:13:50Z"
+  },
+  {
+    "id": 1392727454,
+    "name": "doc-intel-platform",
+    "full_name": "kunalpraja12/doc-intel-platform",
+    "owner": {
+      "login": "kunalpraja12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162112672?v=4"
+    },
+    "description": "AI document intelligence platform: OCR + Gemini extraction + RAG chat over invoices and receipts.",
+    "topics": [
+      "database",
+      "dockercompose",
+      "fastapi",
+      "gemini-api",
+      "langchain",
+      "llm",
+      "ocr",
+      "pgvector",
+      "postgresql",
+      "rag",
+      "tesseract-ocr"
+    ],
+    "html_url": "https://github.com/kunalpraja12/doc-intel-platform",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T13:01:43Z",
+    "updated_at": "2026-09-30T07:18:19Z",
+    "pushed_at": "2026-09-29T15:25:44Z"
+  },
+  {
+    "id": 1401803062,
+    "name": "sql-learning-journey",
+    "full_name": "Nahid-mahmud555/sql-learning-journey",
+    "owner": {
+      "login": "Nahid-mahmud555",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162360388?v=4"
+    },
+    "description": "A curated collection of SQL queries, lessons, and hands-on exercises designed for database mastery and technical interview preparation. Features step-by-step solutions from basic SELECT statements to advanced concepts.",
+    "topics": [
+      "database",
+      "interview-preparation",
+      "nahidmahmud555",
+      "sql",
+      "sql-learning",
+      "sql-learning-journey",
+      "sql-queries"
+    ],
+    "html_url": "https://github.com/Nahid-mahmud555/sql-learning-journey",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T13:40:07Z",
+    "updated_at": "2026-10-04T13:41:25Z",
+    "pushed_at": "2026-10-04T05:08:46Z"
+  },
+  {
+    "id": 1403589693,
+    "name": "babeldb",
+    "full_name": "q6r/babeldb",
+    "owner": {
+      "login": "q6r",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209566446?v=4"
+    },
+    "description": "Banco chave-valor embarcado em Rust (fjall + WAL), com bibliotecas para Python e Node.js",
+    "topics": [
+      "database",
+      "embedded-database",
+      "key-value",
+      "nodejs",
+      "python",
+      "rust"
+    ],
+    "html_url": "https://github.com/q6r/babeldb",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T19:56:42Z",
+    "updated_at": "2026-10-04T15:39:47Z",
+    "pushed_at": "2026-10-03T20:27:33Z"
+  },
+  {
+    "id": 1399676341,
+    "name": "Awesome-Database-Migration",
+    "full_name": "ishandutta2007/Awesome-Database-Migration",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top Database Migration (Opensource) 🌟 Star if you like it! 🌟",
+    "topics": [
+      "awesome-list",
+      "change-data-capture",
+      "curated-list",
+      "database",
+      "database-migration",
+      "replication"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-Database-Migration",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T09:42:39Z",
+    "updated_at": "2026-10-01T23:24:45Z",
+    "pushed_at": "2026-10-01T23:24:56Z"
+  },
+  {
+    "id": 1401626984,
+    "name": "zornix-core-lab",
+    "full_name": "zornix-proverili/zornix-core-lab",
+    "owner": {
+      "login": "zornix-proverili",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298641293?v=4"
+    },
+    "description": "A long-term lab for learning and documenting a wide range of technologies, as well as for ongoing activities. It covers all areas, including the web, operating systems, games, infrastructure, and databases.",
+    "topics": [
+      "database",
+      "engineering-lab",
+      "game-development",
+      "infrastructure",
+      "learning-log",
+      "os-development",
+      "self-study",
+      "web-development"
+    ],
+    "html_url": "https://github.com/zornix-proverili/zornix-core-lab",
+    "stargazers_count": 2,
+    "language": "Dockerfile",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T11:59:57Z",
+    "updated_at": "2026-10-04T23:42:21Z",
+    "pushed_at": "2026-10-04T23:42:17Z"
+  },
+  {
+    "id": 1395239169,
+    "name": "No_SQL-Project-Ajay_Chauhan",
+    "full_name": "ajaychauhanAI/No_SQL-Project-Ajay_Chauhan",
+    "owner": {
+      "login": "ajaychauhanAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214230173?v=4"
+    },
+    "description": "MongoDB & NoSQL project focused on querying, aggregation, joins, data manipulation, and analytical operations using MongoDB Atlas + Mongosh.",
+    "topics": [
+      "database",
+      "mongodb-atlas",
+      "mongosh",
+      "nosql"
+    ],
+    "html_url": "https://github.com/ajaychauhanAI/No_SQL-Project-Ajay_Chauhan",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T12:37:39Z",
+    "updated_at": "2026-09-29T18:24:44Z",
+    "pushed_at": "2026-09-29T12:38:24Z"
+  },
+  {
+    "id": 1404888730,
+    "name": "cpp_db_mem_rest",
+    "full_name": "kuc-arc-f/cpp_db_mem_rest",
+    "owner": {
+      "login": "kuc-arc-f",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1024717?v=4"
+    },
+    "description": "C++ DB Server Rest API , memory Database SQLite",
+    "topics": [
+      "cplusplus",
+      "cpp",
+      "database",
+      "rest-api",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/kuc-arc-f/cpp_db_mem_rest",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T22:36:01Z",
+    "updated_at": "2026-10-04T22:41:20Z",
+    "pushed_at": "2026-10-04T22:40:14Z"
+  },
+  {
+    "id": 1392876610,
+    "name": "sql-execution-engine-from-scratch",
+    "full_name": "LinRds/sql-execution-engine-from-scratch",
+    "owner": {
+      "login": "LinRds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35018235?v=4"
+    },
+    "description": "Build a minimal SQL execution engine from scratch in Go — B+ tree seek, covering indexes, loose index scans, index condition pushdown, and the optimizer's cost model, one step at a time.",
+    "topics": [
+      "b-tree",
+      "database",
+      "database-internals",
+      "from-scratch",
+      "golang",
+      "index",
+      "query-optimizer",
+      "sql"
+    ],
+    "html_url": "https://github.com/LinRds/sql-execution-engine-from-scratch",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:03:56Z",
+    "updated_at": "2026-09-29T15:22:57Z",
+    "pushed_at": "2026-09-29T15:21:13Z"
+  },
+  {
+    "id": 1399122033,
+    "name": "datavault",
+    "full_name": "Krodity/datavault",
+    "owner": {
+      "login": "Krodity",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99015020?v=4"
+    },
+    "description": "Local-first personal database: contacts, pictures, expenses, barcodes/QR & custom sections — SQLite + Python (Flask) + vanilla JS, with a sandboxed SQL console, FTS5 search, transactional imports and backups",
+    "topics": [
+      "barcode",
+      "database",
+      "flask",
+      "fts5",
+      "python",
+      "qrcode",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/Krodity/datavault",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T04:45:54Z",
+    "updated_at": "2026-10-03T04:09:00Z",
+    "pushed_at": "2026-10-04T13:34:36Z"
+  },
+  {
+    "id": 1393753439,
+    "name": "Crud-Python",
+    "full_name": "MoonBlue47/Crud-Python",
+    "owner": {
+      "login": "MoonBlue47",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184456824?v=4"
+    },
+    "description": "Aplicação desktop em Python para gestão e cadastro de contactos (CRUD), utilizando PyQt6 para a interface gráfica e MySQL para persistência de dados.",
+    "topics": [
+      "crud",
+      "database",
+      "desktop-app",
+      "gui",
+      "mysql",
+      "python"
+    ],
+    "html_url": "https://github.com/MoonBlue47/Crud-Python",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T19:58:32Z",
+    "updated_at": "2026-10-03T12:13:10Z",
+    "pushed_at": "2026-10-01T19:42:56Z"
+  },
+  {
+    "id": 1400739507,
+    "name": "pulumi-go-gcp-db-firestore",
+    "full_name": "marcuwynu23/pulumi-go-gcp-db-firestore",
+    "owner": {
+      "login": "marcuwynu23",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61897063?v=4"
+    },
+    "description": "This Pulumi project provisions a Google Cloud Firestore database (Native or Datastore mode).",
+    "topics": [
+      "database",
+      "firestore",
+      "gcp",
+      "go",
+      "golang",
+      "google-cloud-platform",
+      "infrastructure-as-code",
+      "pulumi",
+      "pulumi-projects"
+    ],
+    "html_url": "https://github.com/marcuwynu23/pulumi-go-gcp-db-firestore",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-01T21:29:29Z",
+    "updated_at": "2026-10-01T21:32:49Z",
+    "pushed_at": "2026-10-01T21:34:51Z"
+  }
+]

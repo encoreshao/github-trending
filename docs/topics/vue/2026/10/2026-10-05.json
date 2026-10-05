@@ -1,0 +1,610 @@
+[
+  {
+    "id": 1395215215,
+    "name": "awesome-tauri-apps",
+    "full_name": "chrysler-stone/awesome-tauri-apps",
+    "owner": {
+      "login": "chrysler-stone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318241976?v=4"
+    },
+    "description": "Curated list of desktop and mobile apps built with Tauri.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "desktop",
+      "javascript",
+      "linux",
+      "macos",
+      "multiplatform",
+      "rust",
+      "svelte",
+      "tauri",
+      "typescript",
+      "vue",
+      "web",
+      "web-development",
+      "windows"
+    ],
+    "html_url": "https://github.com/chrysler-stone/awesome-tauri-apps",
+    "stargazers_count": 36,
+    "language": null,
+    "forks_count": 15,
+    "open_issues_count": 3,
+    "created_at": "2026-09-29T12:28:07Z",
+    "updated_at": "2026-10-04T21:10:41Z",
+    "pushed_at": "2026-10-04T07:26:12Z"
+  },
+  {
+    "id": 1391990951,
+    "name": "awesome-copy-paste-ui",
+    "full_name": "pnnnhan99/awesome-copy-paste-ui",
+    "owner": {
+      "login": "pnnnhan99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72957879?v=4"
+    },
+    "description": "A curated collection of copy-paste UI components, sections, templates, and snippets for developers and vibe coders.",
+    "topics": [
+      "awesome-list",
+      "copy-paste",
+      "css",
+      "design-system",
+      "framer-motion",
+      "frontend",
+      "html",
+      "html5",
+      "nextjs",
+      "react",
+      "shadcn-ui",
+      "taiwindcss",
+      "ui-components",
+      "ui-kit",
+      "vibe-coding",
+      "vue",
+      "web-design",
+      "web-development"
+    ],
+    "html_url": "https://github.com/pnnnhan99/awesome-copy-paste-ui",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T06:17:55Z",
+    "updated_at": "2026-10-04T19:50:07Z",
+    "pushed_at": "2026-10-04T19:50:04Z"
+  },
+  {
+    "id": 1404146358,
+    "name": "agent-py",
+    "full_name": "kkjiangk/agent-py",
+    "owner": {
+      "login": "kkjiangk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93652737?v=4"
+    },
+    "description": "Personal AIOps engineering project with durable workflows, scoped hybrid retrieval, reliable event delivery, and verified API/browser contracts.",
+    "topics": [
+      "aiops",
+      "fastapi",
+      "kafka",
+      "langgraph",
+      "python",
+      "rag",
+      "redis",
+      "vue"
+    ],
+    "html_url": "https://github.com/kkjiangk/agent-py",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T08:35:08Z",
+    "updated_at": "2026-10-05T01:25:04Z",
+    "pushed_at": "2026-10-04T08:43:07Z"
+  },
+  {
+    "id": 1401405932,
+    "name": "colorshot",
+    "full_name": "rishimohan/colorshot",
+    "owner": {
+      "login": "rishimohan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14031295?v=4"
+    },
+    "description": "Color and Gradient Picker Component for React and Vue",
+    "topics": [
+      "color-picker",
+      "gradient",
+      "gradient-picker",
+      "oklch",
+      "react",
+      "react-color-picker",
+      "shadcn",
+      "typescript",
+      "vue",
+      "vue-color-picker"
+    ],
+    "html_url": "https://github.com/rishimohan/colorshot",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T08:48:48Z",
+    "updated_at": "2026-10-05T01:58:28Z",
+    "pushed_at": "2026-10-02T15:19:08Z"
+  },
+  {
+    "id": 1394852571,
+    "name": "pdfcn-vue",
+    "full_name": "xcvzmoon/pdfcn-vue",
+    "owner": {
+      "login": "xcvzmoon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67058406?v=4"
+    },
+    "description": "Beautiful PDF components for Vue, built on Forme and Takumi. Free, zero config. Vue port of pdfcn.",
+    "topics": [
+      "nuxt",
+      "pdf",
+      "shadcn-vue",
+      "vue"
+    ],
+    "html_url": "https://github.com/xcvzmoon/pdfcn-vue",
+    "stargazers_count": 4,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T09:46:04Z",
+    "updated_at": "2026-10-01T14:12:58Z",
+    "pushed_at": "2026-10-01T14:13:35Z"
+  },
+  {
+    "id": 1402521037,
+    "name": "matchmind",
+    "full_name": "Darrkkens/matchmind",
+    "owner": {
+      "login": "Darrkkens",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106596779?v=4"
+    },
+    "description": "Local AI analyst for Brazilian football: Brasileirão table, match stats, lineups and 20 years of Série A history, with Gemma running locally via Ollama. Go + Vue.",
+    "topics": [
+      "brasileirao",
+      "football",
+      "gemma",
+      "golang",
+      "hacktoberfest",
+      "hacktoberfest2026",
+      "local-ai",
+      "ollama",
+      "open-source-ai",
+      "vue"
+    ],
+    "html_url": "https://github.com/Darrkkens/matchmind",
+    "stargazers_count": 4,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T01:31:03Z",
+    "updated_at": "2026-10-03T20:47:08Z",
+    "pushed_at": "2026-10-03T20:30:49Z"
+  },
+  {
+    "id": 1393644647,
+    "name": "laravel-Inertia-forms",
+    "full_name": "eramitgupta/laravel-Inertia-forms",
+    "owner": {
+      "login": "eramitgupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72160684?v=4"
+    },
+    "description": "Define Laravel forms in PHP and render them in Vue, React or Svelte with one <Form> component. Validation, conditional fields, wizards and 200+ icons built in.",
+    "topics": [
+      "form-builder",
+      "forms",
+      "inertiajs",
+      "laravel",
+      "php",
+      "react",
+      "svelte",
+      "tailwindcss",
+      "typescript",
+      "validation",
+      "vue"
+    ],
+    "html_url": "https://github.com/eramitgupta/laravel-Inertia-forms",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T18:51:12Z",
+    "updated_at": "2026-10-04T14:08:02Z",
+    "pushed_at": "2026-10-02T17:47:24Z"
+  },
+  {
+    "id": 1398905285,
+    "name": "claudio-maestro",
+    "full_name": "vateiixeira/claudio-maestro",
+    "owner": {
+      "login": "vateiixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16137007?v=4"
+    },
+    "description": "Um só regendo todos os seus projetos: app web local para conduzir sessões do Claude em vários projetos numa tela só",
+    "topics": [
+      "claude",
+      "claude-agent-sdk",
+      "fastapi",
+      "portugues",
+      "vue"
+    ],
+    "html_url": "https://github.com/vateiixeira/claudio-maestro",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T01:31:11Z",
+    "updated_at": "2026-10-04T01:13:43Z",
+    "pushed_at": "2026-10-04T01:13:38Z"
+  },
+  {
+    "id": 1393235252,
+    "name": "awesome-free-saas-boilerplates",
+    "full_name": "pnnnhan99/awesome-free-saas-boilerplates",
+    "owner": {
+      "login": "pnnnhan99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72957879?v=4"
+    },
+    "description": "A curated collection of free SaaS boilerplates, starter kits, and open-source templates for building modern SaaS applications.",
+    "topics": [
+      "authentication",
+      "awesome-list",
+      "boilerplate",
+      "developer",
+      "developer-tools",
+      "full-stack",
+      "indie-hacker",
+      "nextsjs",
+      "react",
+      "saas",
+      "start-up",
+      "starter-kit",
+      "stripe",
+      "supabase",
+      "vibe-coding",
+      "vue",
+      "web-development"
+    ],
+    "html_url": "https://github.com/pnnnhan99/awesome-free-saas-boilerplates",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T16:20:35Z",
+    "updated_at": "2026-10-04T04:21:51Z",
+    "pushed_at": "2026-10-04T04:21:47Z"
+  },
+  {
+    "id": 1392880082,
+    "name": "webos-rezka-client",
+    "full_name": "TMichaelan/webos-rezka-client",
+    "owner": {
+      "login": "TMichaelan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53647066?v=4"
+    },
+    "description": "Неофициальный клиент HDRezka для LG webOS TV",
+    "topics": [
+      "hdrezka",
+      "lg-tv",
+      "smart-tv",
+      "vue",
+      "webos"
+    ],
+    "html_url": "https://github.com/TMichaelan/webos-rezka-client",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:05:20Z",
+    "updated_at": "2026-10-04T13:48:44Z",
+    "pushed_at": "2026-10-04T13:48:42Z"
+  },
+  {
+    "id": 1398829922,
+    "name": "erato",
+    "full_name": "bsttiv/erato",
+    "owner": {
+      "login": "bsttiv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177889015?v=4"
+    },
+    "description": "Web application for band members to organize, compose and share songs in a single place.",
+    "topics": [
+      "fastapi",
+      "music",
+      "music-production",
+      "musician",
+      "vue"
+    ],
+    "html_url": "https://github.com/bsttiv/erato",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T23:25:48Z",
+    "updated_at": "2026-10-03T17:26:57Z",
+    "pushed_at": "2026-10-04T19:52:13Z"
+  },
+  {
+    "id": 1400165457,
+    "name": "vhs",
+    "full_name": "rocchidavide/vhs",
+    "owner": {
+      "login": "rocchidavide",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4699633?v=4"
+    },
+    "description": "Self-hosted video library: download videos from YouTube (more platforms to come), archive them on your own disk, organize and watch them in the browser.",
+    "topics": [
+      "digital-preservation",
+      "django",
+      "django-ninja",
+      "docker",
+      "ffmpeg",
+      "homelab",
+      "media-server",
+      "self-hosted",
+      "typescript",
+      "video-archive",
+      "video-library",
+      "vue",
+      "youtube",
+      "yt-dlp"
+    ],
+    "html_url": "https://github.com/rocchidavide/vhs",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T14:40:34Z",
+    "updated_at": "2026-10-04T09:26:46Z",
+    "pushed_at": "2026-10-04T09:26:42Z"
+  },
+  {
+    "id": 1392182512,
+    "name": "novaeon-trading-ai",
+    "full_name": "NovaeonStudio/novaeon-trading-ai",
+    "owner": {
+      "login": "NovaeonStudio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334160966?v=4"
+    },
+    "description": "Crypto trading bot for your Mac that reads the news before it buys. Practice money first, local AI (Novaeon Sentinel 9B), MetaMask + Hyperliquid.",
+    "topics": [
+      "apple-silicon",
+      "crypto",
+      "hyperliquid",
+      "local-ai",
+      "macos",
+      "metamask",
+      "mlx",
+      "trading-bot",
+      "vue"
+    ],
+    "html_url": "https://github.com/NovaeonStudio/novaeon-trading-ai",
+    "stargazers_count": 2,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 6,
+    "created_at": "2026-09-28T08:06:53Z",
+    "updated_at": "2026-10-02T16:21:04Z",
+    "pushed_at": "2026-10-02T16:24:57Z"
+  },
+  {
+    "id": 1392299379,
+    "name": "Arcanum",
+    "full_name": "BeaconCat/Arcanum",
+    "owner": {
+      "login": "BeaconCat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111232138?v=4"
+    },
+    "description": "天枢 Arcanum · 观星问命，知时而行 — 传统命理 × 西洋占星 × 塔罗 × AI 命理师",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "astrology",
+      "bazi",
+      "chatgpt",
+      "chinese-astrology",
+      "deepseek",
+      "divination",
+      "fortune-telling",
+      "function-calling",
+      "horoscope",
+      "llm",
+      "nodejs",
+      "openai",
+      "self-hosted",
+      "tarot",
+      "typescript",
+      "vue",
+      "vue3",
+      "websocket"
+    ],
+    "html_url": "https://github.com/BeaconCat/Arcanum",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T09:16:12Z",
+    "updated_at": "2026-10-04T02:58:32Z",
+    "pushed_at": "2026-10-04T02:58:28Z"
+  },
+  {
+    "id": 1393498224,
+    "name": "minimalist-probe-doraemon-theme",
+    "full_name": "dongbo501/minimalist-probe-doraemon-theme",
+    "owner": {
+      "login": "dongbo501",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75869735?v=4"
+    },
+    "description": "极简探针哆啦A梦主题 · Doraemon theme for Monitor probe — 竹蜻蜓转速、四次元口袋、任意门传送网络",
+    "topics": [
+      "doraemon",
+      "monitor",
+      "probe-theme",
+      "server-monitor",
+      "vue"
+    ],
+    "html_url": "https://github.com/dongbo501/minimalist-probe-doraemon-theme",
+    "stargazers_count": 2,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T17:59:02Z",
+    "updated_at": "2026-09-30T06:22:45Z",
+    "pushed_at": "2026-09-30T06:23:09Z"
+  },
+  {
+    "id": 1394704978,
+    "name": "nuxt-layerscope",
+    "full_name": "hamedniroomand/nuxt-layerscope",
+    "owner": {
+      "login": "hamedniroomand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55133282?v=4"
+    },
+    "description": "Layer boundary checks for Nuxt apps that see auto-imports: catch cross-layer imports, components and composables in CI and the editor.",
+    "topics": [
+      "architecture",
+      "auto-imports",
+      "boundaries",
+      "cli",
+      "eslint",
+      "github-action",
+      "lint",
+      "monorepo",
+      "nuxt",
+      "nuxt-layers",
+      "nuxt-module",
+      "nuxt3",
+      "nuxt4",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/hamedniroomand/nuxt-layerscope",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-09-29T08:17:19Z",
+    "updated_at": "2026-10-03T18:42:29Z",
+    "pushed_at": "2026-10-03T18:42:26Z"
+  },
+  {
+    "id": 1393614494,
+    "name": "tdk-auth-queue-email-example",
+    "full_name": "tdk-landscape/tdk-auth-queue-email-example",
+    "owner": {
+      "login": "tdk-landscape",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278132201?v=4"
+    },
+    "description": "TDK CLI example: local OIDC, NATS JetStream, and Mailpit. Not production auth or email.",
+    "topics": [
+      "example",
+      "hono",
+      "local-development",
+      "nats",
+      "oidc",
+      "tdk",
+      "vue"
+    ],
+    "html_url": "https://github.com/tdk-landscape/tdk-auth-queue-email-example",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T18:40:05Z",
+    "updated_at": "2026-10-01T12:39:31Z",
+    "pushed_at": "2026-09-28T19:28:56Z"
+  },
+  {
+    "id": 1404749543,
+    "name": "just-clipboard-manager",
+    "full_name": "vladyslav-kutsa/just-clipboard-manager",
+    "owner": {
+      "login": "vladyslav-kutsa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97553875?v=4"
+    },
+    "description": "Clipboard history manager for macOS. Text, images, pinned items, keyboard-first.",
+    "topics": [
+      "clipboard",
+      "clipboard-manager",
+      "macos",
+      "rust",
+      "tauri",
+      "vue"
+    ],
+    "html_url": "https://github.com/vladyslav-kutsa/just-clipboard-manager",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T19:02:42Z",
+    "updated_at": "2026-10-04T19:07:38Z",
+    "pushed_at": "2026-10-04T19:07:09Z"
+  },
+  {
+    "id": 1398926962,
+    "name": "TubeSavely-Vue",
+    "full_name": "Cosymentx/TubeSavely-Vue",
+    "owner": {
+      "login": "Cosymentx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328970966?v=4"
+    },
+    "description": "⚡ TubeSavely 官方 Web 前端，基于 Vue 3 + Vite 构建的极速视频解析与下载工具",
+    "topics": [
+      "tubesavely",
+      "typescript",
+      "video-downloader",
+      "vite",
+      "vue",
+      "vue3",
+      "web-app"
+    ],
+    "html_url": "https://github.com/Cosymentx/TubeSavely-Vue",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-01T02:03:56Z",
+    "updated_at": "2026-10-02T04:45:02Z",
+    "pushed_at": "2026-10-04T19:05:01Z"
+  },
+  {
+    "id": 1400715295,
+    "name": "triauth-authenticator",
+    "full_name": "triauth/triauth-authenticator",
+    "owner": {
+      "login": "triauth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135314559?v=4"
+    },
+    "description": "The authenticator app for triauth. Sign in to websites with just a click, no passwords. Your keys stay on your device. Ready to use at auth.triauth.org.",
+    "topics": [
+      "authentication",
+      "authenticator",
+      "cloudflare",
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "decentralized-identity",
+      "dns",
+      "dns-txt",
+      "passkeys",
+      "passwordless",
+      "pwa",
+      "self-hosted",
+      "self-sovereign-identity",
+      "triauth",
+      "vite",
+      "vue",
+      "webauthn"
+    ],
+    "html_url": "https://github.com/triauth/triauth-authenticator",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T21:00:30Z",
+    "updated_at": "2026-10-02T08:07:19Z",
+    "pushed_at": "2026-10-01T21:33:35Z"
+  }
+]

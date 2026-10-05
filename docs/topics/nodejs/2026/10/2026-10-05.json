@@ -1,0 +1,604 @@
+[
+  {
+    "id": 1401457273,
+    "name": "Stronghold-Protocol",
+    "full_name": "sganggs/Stronghold-Protocol",
+    "owner": {
+      "login": "sganggs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64717086?v=4"
+    },
+    "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+    "topics": [
+      "arknights",
+      "auto-chess",
+      "fan-game",
+      "nodejs",
+      "tower-defense",
+      "websocket"
+    ],
+    "html_url": "https://github.com/sganggs/Stronghold-Protocol",
+    "stargazers_count": 549,
+    "language": "JavaScript",
+    "forks_count": 125,
+    "open_issues_count": 49,
+    "created_at": "2026-10-02T09:38:41Z",
+    "updated_at": "2026-10-05T01:47:25Z",
+    "pushed_at": "2026-10-04T15:50:23Z"
+  },
+  {
+    "id": 1392972171,
+    "name": "commander-mangen",
+    "full_name": "kofiadeyemiq/commander-mangen",
+    "owner": {
+      "login": "kofiadeyemiq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334555386?v=4"
+    },
+    "description": "Generate man pages from a commander.js program, including every subcommand's options.",
+    "topics": [
+      "cli",
+      "commander",
+      "documentation",
+      "man-page",
+      "nodejs",
+      "roff"
+    ],
+    "html_url": "https://github.com/kofiadeyemiq/commander-mangen",
+    "stargazers_count": 72,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:43:48Z",
+    "updated_at": "2026-10-04T13:52:37Z",
+    "pushed_at": "2026-09-28T14:46:21Z"
+  },
+  {
+    "id": 1392971873,
+    "name": "action-dist-verify",
+    "full_name": "kofiadeyemiq/action-dist-verify",
+    "owner": {
+      "login": "kofiadeyemiq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334555386?v=4"
+    },
+    "description": "Rebuild the JavaScript GitHub Actions your workflows pin and check that their committed dist matches the source.",
+    "topics": [
+      "github-actions",
+      "nodejs",
+      "reproducible-builds",
+      "security",
+      "supply-chain"
+    ],
+    "html_url": "https://github.com/kofiadeyemiq/action-dist-verify",
+    "stargazers_count": 68,
+    "language": "TypeScript",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:43:40Z",
+    "updated_at": "2026-10-04T13:53:03Z",
+    "pushed_at": "2026-09-28T14:43:46Z"
+  },
+  {
+    "id": 1394206642,
+    "name": "ai-chatroom",
+    "full_name": "Moris-kr/ai-chatroom",
+    "owner": {
+      "login": "Moris-kr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220906177?v=4"
+    },
+    "description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
+    "topics": [
+      "ai-agents",
+      "ai-characters",
+      "ai-chat",
+      "ai-companion",
+      "anime",
+      "chatgpt",
+      "chibi",
+      "claude",
+      "claude-code",
+      "codex-cli",
+      "gemini",
+      "grok",
+      "group-chat",
+      "kawaii",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "otaku",
+      "waifu",
+      "weeb"
+    ],
+    "html_url": "https://github.com/Moris-kr/ai-chatroom",
+    "stargazers_count": 51,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T03:42:10Z",
+    "updated_at": "2026-10-04T19:29:27Z",
+    "pushed_at": "2026-09-29T05:16:14Z"
+  },
+  {
+    "id": 1392971239,
+    "name": "origin-scoped-fetch",
+    "full_name": "kofiadeyemiq/origin-scoped-fetch",
+    "owner": {
+      "login": "kofiadeyemiq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334555386?v=4"
+    },
+    "description": "A fetch wrapper that drops your custom auth headers when a redirect crosses to another origin.",
+    "topics": [
+      "fetch",
+      "http",
+      "nodejs",
+      "redirects",
+      "security",
+      "typescript"
+    ],
+    "html_url": "https://github.com/kofiadeyemiq/origin-scoped-fetch",
+    "stargazers_count": 28,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T14:43:25Z",
+    "updated_at": "2026-10-05T01:40:16Z",
+    "pushed_at": "2026-09-28T14:43:30Z"
+  },
+  {
+    "id": 1403486240,
+    "name": "awesome-javascript-jobs",
+    "full_name": "jsgurujobs/awesome-javascript-jobs",
+    "owner": {
+      "login": "jsgurujobs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337436353?v=4"
+    },
+    "description": "Remote JavaScript, TypeScript, React and Node.js jobs, updated daily",
+    "topics": [
+      "awesome-list",
+      "javascript",
+      "job-board",
+      "jobs",
+      "nodejs",
+      "react",
+      "remote-jobs",
+      "typescript"
+    ],
+    "html_url": "https://github.com/jsgurujobs/awesome-javascript-jobs",
+    "stargazers_count": 15,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T17:50:11Z",
+    "updated_at": "2026-10-05T01:26:25Z",
+    "pushed_at": "2026-10-04T06:00:04Z"
+  },
+  {
+    "id": 1400015976,
+    "name": "apmix-automation",
+    "full_name": "0xgetz/apmix-automation",
+    "owner": {
+      "login": "0xgetz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219692780?v=4"
+    },
+    "description": "End-to-end apmix.ai account + API key automation. Temp inbox, magic-link signup, automatic Cloudflare Turnstile, and auto-generated API keys — in Python and Node.js.",
+    "topics": [
+      "api-key",
+      "apmix",
+      "automation",
+      "browser-automation",
+      "cloudflare-turnstile",
+      "llm",
+      "magic-link",
+      "nodejs",
+      "openai",
+      "playwright",
+      "python",
+      "scraping",
+      "signup-bot",
+      "temp-mail",
+      "zenvex"
+    ],
+    "html_url": "https://github.com/0xgetz/apmix-automation",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T13:11:46Z",
+    "updated_at": "2026-10-02T09:19:58Z",
+    "pushed_at": "2026-10-01T13:12:38Z"
+  },
+  {
+    "id": 1403295870,
+    "name": "omega-dashboard-ps5",
+    "full_name": "TheCriicom/omega-dashboard-ps5",
+    "owner": {
+      "login": "TheCriicom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37643992?v=4"
+    },
+    "description": "Dashboard open source per PS5 con homebrew: giochi, Store di homebrew, community e party vocale. Client (C/SDL2) e server (Node.js) per ospitare server alternativi.",
+    "topics": [
+      "dashboard",
+      "homebrew",
+      "nodejs",
+      "open-source",
+      "ps5",
+      "sdl2",
+      "self-hosted",
+      "social"
+    ],
+    "html_url": "https://github.com/TheCriicom/omega-dashboard-ps5",
+    "stargazers_count": 9,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-03T14:39:10Z",
+    "updated_at": "2026-10-04T22:23:21Z",
+    "pushed_at": "2026-10-04T22:23:17Z"
+  },
+  {
+    "id": 1398843770,
+    "name": "perplexity-auto-creator",
+    "full_name": "0xgetz/perplexity-auto-creator",
+    "owner": {
+      "login": "0xgetz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219692780?v=4"
+    },
+    "description": "Automated, end-to-end Perplexity account creator — random identity, temp inbox, session cookies and access token. Cloudflare-aware browser automation.",
+    "topics": [
+      "access-token",
+      "account-creator",
+      "automation",
+      "bot",
+      "browser-automation",
+      "cdp",
+      "chrome-devtools-protocol",
+      "cloudflare",
+      "cookies",
+      "esm",
+      "mailtm",
+      "nextauth",
+      "nodejs",
+      "perplexity",
+      "scraping",
+      "session",
+      "temp-mail",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/0xgetz/perplexity-auto-creator",
+    "stargazers_count": 9,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T23:51:24Z",
+    "updated_at": "2026-10-05T00:46:47Z",
+    "pushed_at": "2026-10-01T00:05:27Z"
+  },
+  {
+    "id": 1399504515,
+    "name": "codeshelf",
+    "full_name": "muhammad-hassnain/codeshelf",
+    "owner": {
+      "login": "muhammad-hassnain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85799816?v=4"
+    },
+    "description": "A local, zero-dependency dashboard to monitor, search, and reply to your Claude Code sessions — grouped by status, not alphabetically.",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "dashboard",
+      "developer-tools",
+      "macos",
+      "nodejs",
+      "self-hosted",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/muhammad-hassnain/codeshelf",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T08:15:26Z",
+    "updated_at": "2026-10-04T15:23:35Z",
+    "pushed_at": "2026-10-04T15:23:31Z"
+  },
+  {
+    "id": 1398845643,
+    "name": "VisOMP",
+    "full_name": "aasobb-19/VisOMP",
+    "owner": {
+      "login": "aasobb-19",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336300312?v=4"
+    },
+    "description": "Kantor 3D real-time untuk sesi OMP — tonton AI agent bekerja sebagai karakter animasi di kantor virtual. Subagent = anggota tim yang berjalan ke meja. Nol konfigurasi, nol dependensi npm. Node ≥ 18.",
+    "topics": [
+      "3d",
+      "ai-agent",
+      "developer-tools",
+      "nodejs",
+      "omp",
+      "real-time",
+      "skill",
+      "subagent",
+      "threejs",
+      "visualization"
+    ],
+    "html_url": "https://github.com/aasobb-19/VisOMP",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T23:54:35Z",
+    "updated_at": "2026-10-02T03:00:50Z",
+    "pushed_at": "2026-10-01T00:19:13Z"
+  },
+  {
+    "id": 1396923298,
+    "name": "dashcall",
+    "full_name": "emiralpayar/dashcall",
+    "owner": {
+      "login": "emiralpayar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121554153?v=4"
+    },
+    "description": "Talk to your Claude Code sessions from your phone or your car's browser — voice & touch, English/Turkish",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "macos",
+      "nodejs",
+      "pwa",
+      "speech-to-text",
+      "tailscale",
+      "text-to-speech",
+      "turkish",
+      "voice-assistant",
+      "whisper"
+    ],
+    "html_url": "https://github.com/emiralpayar/dashcall",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T03:40:17Z",
+    "updated_at": "2026-10-01T19:03:53Z",
+    "pushed_at": "2026-10-01T19:03:49Z"
+  },
+  {
+    "id": 1394574797,
+    "name": "authentication",
+    "full_name": "nestjs/authentication",
+    "owner": {
+      "login": "nestjs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28507035?v=4"
+    },
+    "description": "An authentication module for NestJS (Node.js) 🔐",
+    "topics": [
+      "auth",
+      "authentication",
+      "jwt",
+      "jwt-authentication",
+      "nestjs",
+      "nodejs",
+      "oidc",
+      "session-cookie",
+      "totp"
+    ],
+    "html_url": "https://github.com/nestjs/authentication",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 5,
+    "created_at": "2026-09-29T07:00:15Z",
+    "updated_at": "2026-10-05T00:23:27Z",
+    "pushed_at": "2026-10-05T00:24:19Z"
+  },
+  {
+    "id": 1398844041,
+    "name": "aliyun-puzzle-solver",
+    "full_name": "0xgetz/aliyun-puzzle-solver",
+    "owner": {
+      "login": "0xgetz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219692780?v=4"
+    },
+    "description": "Human-like, closed-loop auto-solver for Aliyun FeiLin slide/puzzle CAPTCHA, driven over the Chrome DevTools Protocol. Zero dependencies.",
+    "topics": [
+      "aliyun",
+      "automation",
+      "browser-automation",
+      "browser-use",
+      "captcha",
+      "captcha-solver",
+      "cdp",
+      "chrome-devtools-protocol",
+      "feilin",
+      "nodejs",
+      "puzzle-captcha",
+      "slider-captcha"
+    ],
+    "html_url": "https://github.com/0xgetz/aliyun-puzzle-solver",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T23:51:46Z",
+    "updated_at": "2026-10-05T01:04:05Z",
+    "pushed_at": "2026-09-30T23:52:40Z"
+  },
+  {
+    "id": 1393847156,
+    "name": "sinapsai",
+    "full_name": "roedyrustam/sinapsai",
+    "owner": {
+      "login": "roedyrustam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81554119?v=4"
+    },
+    "description": "⚡ Blazing-fast in-process AI Gateway & Control Plane with Circuit Breaker, Automatic Failover, and Unified LLM API for Node.js & TypeScript",
+    "topics": [
+      "aigateway",
+      "anthropic",
+      "circuit-breaker",
+      "control-plane",
+      "failover",
+      "fault-tolerance",
+      "llm",
+      "llm-agents",
+      "llm-gateway",
+      "load-balancer",
+      "multi-agent",
+      "nodejs",
+      "openrouter",
+      "router",
+      "typescript"
+    ],
+    "html_url": "https://github.com/roedyrustam/sinapsai",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-09-28T21:12:51Z",
+    "updated_at": "2026-09-29T18:12:37Z",
+    "pushed_at": "2026-09-28T22:00:40Z"
+  },
+  {
+    "id": 1395741459,
+    "name": "omp-companion",
+    "full_name": "ataberkus/omp-companion",
+    "owner": {
+      "login": "ataberkus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34367427?v=4"
+    },
+    "description": "Local web control room for oh-my-pi (OMP): run, watch and review coding-agent sessions across all your projects from one browser tab.",
+    "topics": [
+      "ai-agent",
+      "coding-agent",
+      "dashboard",
+      "developer-tools",
+      "llm",
+      "nodejs",
+      "oh-my-pi",
+      "omp",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/ataberkus/omp-companion",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T15:22:48Z",
+    "updated_at": "2026-10-04T11:59:40Z",
+    "pushed_at": "2026-10-04T11:59:36Z"
+  },
+  {
+    "id": 1399235786,
+    "name": "gpt_web_ui",
+    "full_name": "yk4023/gpt_web_ui",
+    "owner": {
+      "login": "yk4023",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28723139?v=4"
+    },
+    "description": "Local Anthropic Messages to OpenAI Responses gateway with a web dashboard, per-key quotas, and Claude Code support.",
+    "topics": [
+      "anthropic-messages",
+      "api-gateway",
+      "claude-code",
+      "nodejs",
+      "openai"
+    ],
+    "html_url": "https://github.com/yk4023/gpt_web_ui",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T05:50:01Z",
+    "updated_at": "2026-10-02T14:15:41Z",
+    "pushed_at": "2026-10-01T07:00:21Z"
+  },
+  {
+    "id": 1400438822,
+    "name": "arena-auto-chat",
+    "full_name": "0xgetz/arena-auto-chat",
+    "owner": {
+      "login": "0xgetz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219692780?v=4"
+    },
+    "description": "End-to-end arena.ai account creator and direct-chat automation. Disposable inbox, magic-link verification, password setup, and real model chat in one command. Zero dependencies, pure Node 22 + CDP.",
+    "topics": [
+      "arena-ai",
+      "automation",
+      "browser-automation",
+      "cdp",
+      "chatbot",
+      "chrome-devtools-protocol",
+      "disposable-email",
+      "llm",
+      "magic-link",
+      "nodejs",
+      "scraper",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/0xgetz/arena-auto-chat",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T17:14:07Z",
+    "updated_at": "2026-10-02T23:46:02Z",
+    "pushed_at": "2026-10-01T17:14:36Z"
+  },
+  {
+    "id": 1396588885,
+    "name": "fr",
+    "full_name": "Arindam200/fr",
+    "owner": {
+      "login": "Arindam200",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109217591?v=4"
+    },
+    "description": "Ask a question about a codebase, get the files that matter. Live, parallel file relevance with TypeSafe's Jev.",
+    "topics": [
+      "cli",
+      "code-search",
+      "developer-tools",
+      "llm",
+      "nodejs",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Arindam200/fr",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T20:58:58Z",
+    "updated_at": "2026-10-01T22:07:32Z",
+    "pushed_at": "2026-10-01T04:00:43Z"
+  },
+  {
+    "id": 1395038526,
+    "name": "WARDOGS-RVG-50v50",
+    "full_name": "AE-WD-BATTLESUITE/WARDOGS-RVG-50v50",
+    "owner": {
+      "login": "AE-WD-BATTLESUITE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/335272968?v=4"
+    },
+    "description": "Team balancer for WARDOGS 50v50 servers. Evens the sides without dragging anyone out of a fight, keeps clans together, closes the third faction. Runs off your own RCON. No dependencies.",
+    "topics": [
+      "50v50",
+      "autobalance",
+      "game-server",
+      "nodejs",
+      "rcon",
+      "team-balance",
+      "wardogs",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/AE-WD-BATTLESUITE/WARDOGS-RVG-50v50",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T11:24:01Z",
+    "updated_at": "2026-10-01T12:03:40Z",
+    "pushed_at": "2026-10-01T12:03:35Z"
+  }
+]
