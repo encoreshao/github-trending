@@ -1,0 +1,621 @@
+[
+  {
+    "id": 1403805593,
+    "name": "pi-pocket",
+    "full_name": "TannerMidd/pi-pocket",
+    "owner": {
+      "login": "TannerMidd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2380471?v=4"
+    },
+    "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+    "topics": [
+      "ai-agent",
+      "coding-agent",
+      "mobile",
+      "multiplayer",
+      "omarchy",
+      "pi",
+      "pi-durable",
+      "pwa",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/TannerMidd/pi-pocket",
+    "stargazers_count": 113,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T02:29:57Z",
+    "updated_at": "2026-10-06T01:58:27Z",
+    "pushed_at": "2026-10-06T00:32:41Z"
+  },
+  {
+    "id": 1396140448,
+    "name": "codex-mobile-bridge",
+    "full_name": "try2love/codex-mobile-bridge",
+    "owner": {
+      "login": "try2love",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161727775?v=4"
+    },
+    "description": "从手机、平板或电脑浏览器继续 Codex App 会话，兼容官方登录、API 与自定义模型服务。Self-hosted browser access to your existing Codex chats, with local/SSH sessions, approvals and notifications.",
+    "topics": [
+      "ai-agents",
+      "codex",
+      "codex-app",
+      "developer-tools",
+      "mobile",
+      "openai-codex",
+      "remote-access",
+      "self-hosted",
+      "ssh",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/try2love/codex-mobile-bridge",
+    "stargazers_count": 37,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-09-29T17:21:43Z",
+    "updated_at": "2026-10-05T09:58:15Z",
+    "pushed_at": "2026-10-05T09:50:02Z"
+  },
+  {
+    "id": 1400180799,
+    "name": "codex-mobile-assistant",
+    "full_name": "Abyxs/codex-mobile-assistant",
+    "owner": {
+      "login": "Abyxs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129930528?v=4"
+    },
+    "description": "Codex 手机助手：Windows、Android、iOS 安装包与使用说明。手机同步对话、处理任务与传输项目文件。",
+    "topics": [
+      "android",
+      "codex",
+      "desktop-assistant",
+      "downloads",
+      "ios",
+      "mobile",
+      "windows"
+    ],
+    "html_url": "https://github.com/Abyxs/codex-mobile-assistant",
+    "stargazers_count": 29,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T14:48:38Z",
+    "updated_at": "2026-10-05T11:53:52Z",
+    "pushed_at": "2026-10-03T14:21:35Z"
+  },
+  {
+    "id": 1403315468,
+    "name": "solidnative",
+    "full_name": "byteab/solidnative",
+    "owner": {
+      "login": "byteab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46188784?v=4"
+    },
+    "description": "SolidJS on React Native's Fabric renderer. Real native iOS and Android views, with Expo tooling and native modules, no React.",
+    "topics": [
+      "android",
+      "cross-platform",
+      "experimental",
+      "expo",
+      "fabric",
+      "ios",
+      "mobile",
+      "react-native",
+      "signals",
+      "solidjs"
+    ],
+    "html_url": "https://github.com/byteab/solidnative",
+    "stargazers_count": 16,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T14:58:23Z",
+    "updated_at": "2026-10-05T16:38:05Z",
+    "pushed_at": "2026-10-04T16:30:47Z"
+  },
+  {
+    "id": 1402193780,
+    "name": "frust",
+    "full_name": "frust-rs/frust",
+    "owner": {
+      "login": "frust-rs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313928522?v=4"
+    },
+    "description": "Frust — a Rust-native, mobile-first declarative UI framework",
+    "topics": [
+      "gui",
+      "mobile",
+      "rust",
+      "ui",
+      "wgpu"
+    ],
+    "html_url": "https://github.com/frust-rs/frust",
+    "stargazers_count": 13,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-02T18:21:54Z",
+    "updated_at": "2026-10-05T22:29:48Z",
+    "pushed_at": "2026-10-05T22:06:27Z"
+  },
+  {
+    "id": 1400382069,
+    "name": "go-gpui",
+    "full_name": "chinmay-sawant/go-gpui",
+    "owner": {
+      "login": "chinmay-sawant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28671172?v=4"
+    },
+    "description": "Build native apps with HTML, CSS, and Go",
+    "topics": [
+      "android",
+      "cross-platform",
+      "css",
+      "desktop-app",
+      "ebiten",
+      "electron-alternative",
+      "golang",
+      "golang-library",
+      "gui",
+      "html",
+      "html-renderer",
+      "ios",
+      "layout-engine",
+      "mobile",
+      "native-app",
+      "rendering",
+      "single-binary",
+      "template-engine",
+      "vector-graphics",
+      "wasm"
+    ],
+    "html_url": "https://github.com/chinmay-sawant/go-gpui",
+    "stargazers_count": 5,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T16:39:05Z",
+    "updated_at": "2026-10-05T16:07:53Z",
+    "pushed_at": "2026-10-05T19:20:09Z"
+  },
+  {
+    "id": 1396132820,
+    "name": "deepseek-harness-android",
+    "full_name": "guzhou079-arch/deepseek-harness-android",
+    "owner": {
+      "login": "guzhou079-arch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287430788?v=4"
+    },
+    "description": "把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配环境。它还能在手机上自己编译、打包、签名、发布。",
+    "topics": [
+      "ai-agent",
+      "android",
+      "apk",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "llm",
+      "mobile",
+      "no-root",
+      "proot",
+      "self-hosted",
+      "termux-alternative"
+    ],
+    "html_url": "https://github.com/guzhou079-arch/deepseek-harness-android",
+    "stargazers_count": 5,
+    "language": "Java",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T17:19:08Z",
+    "updated_at": "2026-10-05T15:48:43Z",
+    "pushed_at": "2026-10-05T15:57:57Z"
+  },
+  {
+    "id": 1397810114,
+    "name": "Moch",
+    "full_name": "SoftLand-Tech/Moch",
+    "owner": {
+      "login": "SoftLand-Tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297091267?v=4"
+    },
+    "description": "Moch — your AI agent at home, in your pocket. React Native app + self-hosted backend in one repo.",
+    "topics": [
+      "ai-agent",
+      "assistant",
+      "expo",
+      "mobile",
+      "open-source",
+      "react-native",
+      "self-hosted",
+      "websocket"
+    ],
+    "html_url": "https://github.com/SoftLand-Tech/Moch",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T12:04:34Z",
+    "updated_at": "2026-10-04T06:18:00Z",
+    "pushed_at": "2026-10-04T06:17:56Z"
+  },
+  {
+    "id": 1398251226,
+    "name": "emulator-in-vscode-panel",
+    "full_name": "izakdvlpr/emulator-in-vscode-panel",
+    "owner": {
+      "login": "izakdvlpr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44278486?v=4"
+    },
+    "description": "VS Code extension that runs the Android Emulator and the iOS Simulator headless and controls the device screen inside the sidebar, like Android Studio's \"Running Devices\".",
+    "topics": [
+      "android",
+      "android-studio",
+      "avd",
+      "device",
+      "emulator",
+      "ios",
+      "mobile",
+      "simulator",
+      "visual-studio-code",
+      "vscode",
+      "xcode"
+    ],
+    "html_url": "https://github.com/izakdvlpr/emulator-in-vscode-panel",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T14:29:40Z",
+    "updated_at": "2026-10-06T00:43:26Z",
+    "pushed_at": "2026-10-06T00:43:22Z"
+  },
+  {
+    "id": 1394638928,
+    "name": "city-food-map-skill",
+    "full_name": "gcy6630/city-food-map-skill",
+    "owner": {
+      "login": "gcy6630",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333287230?v=4"
+    },
+    "description": "一句话生成手机上能点、能筛选、能导航的城市美食地图：抖音挖本地人真吃的店 + 高德定位 + GitHub Pages 永久托管。AionUi skill / mobile-first city food map generator.",
+    "topics": [
+      "ai-agent",
+      "aionui",
+      "amap",
+      "china",
+      "chinese-food",
+      "city-guide",
+      "claude-skill",
+      "douyin",
+      "food",
+      "food-map",
+      "gaode",
+      "github-pages",
+      "leaflet",
+      "map",
+      "mobile",
+      "playwright",
+      "skill",
+      "street-food",
+      "travel",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/gcy6630/city-food-map-skill",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T07:37:51Z",
+    "updated_at": "2026-09-30T07:18:52Z",
+    "pushed_at": "2026-09-29T07:51:52Z"
+  },
+  {
+    "id": 1396679406,
+    "name": "Hack-Game-Launcher",
+    "full_name": "hackgamelauncher/Hack-Game-Launcher",
+    "owner": {
+      "login": "hackgamelauncher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/335776728?v=4"
+    },
+    "description": "Desktop launcher that builds Dwarf Fortress, NetHack and other roguelikes in Docker and lets you play them in your browser, on desktop or phone, with mods, saves and multiplayer options.",
+    "topics": [
+      "angband",
+      "browser-games",
+      "docker",
+      "dungeon-crawl-stone-soup",
+      "dwarf-fortress",
+      "game-launcher-software",
+      "mobile",
+      "multiplayer",
+      "nethack",
+      "pathos",
+      "roguelike"
+    ],
+    "html_url": "https://github.com/hackgamelauncher/Hack-Game-Launcher",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T22:53:06Z",
+    "updated_at": "2026-09-30T21:29:22Z",
+    "pushed_at": "2026-09-30T20:27:49Z"
+  },
+  {
+    "id": 1394878370,
+    "name": "pastel_pockets_release",
+    "full_name": "ivanalvarizjr/pastel_pockets_release",
+    "owner": {
+      "login": "ivanalvarizjr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145548740?v=4"
+    },
+    "description": "AI-powered personal finance mobile app built with Flutter for expense tracking, budgets, savings, reports, and financial insights.",
+    "topics": [
+      "ai",
+      "ai-forecasting",
+      "ai-insights",
+      "android",
+      "android-application",
+      "artificial-intelligence",
+      "budget-app",
+      "budget-management",
+      "budget-tracker",
+      "budgeting",
+      "expense-tracker",
+      "finance-management",
+      "fintech-app",
+      "flutter",
+      "flutter-app",
+      "mobile",
+      "mobile-app",
+      "personal-finance",
+      "split-bill",
+      "split-bills"
+    ],
+    "html_url": "https://github.com/ivanalvarizjr/pastel_pockets_release",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-09-29T10:00:15Z",
+    "updated_at": "2026-09-30T07:28:36Z",
+    "pushed_at": "2026-09-30T07:02:03Z"
+  },
+  {
+    "id": 1404047963,
+    "name": "guacamole-mobile-suite",
+    "full_name": "adminsir-glich/guacamole-mobile-suite",
+    "owner": {
+      "login": "adminsir-glich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286722478?v=4"
+    },
+    "description": "Supercharged Apache Guacamole suite for Mobile & Desktop Linux. Native phone keyboard, smooth 1-finger terminal scrolling with overscroll black space, Dynamic Island control center, pinch-to-zoom, and relative trackpad.",
+    "topics": [
+      "apache-guacamole",
+      "cloud-desktop",
+      "guacamole",
+      "linux-desktop",
+      "mobile",
+      "rdp",
+      "remote-desktop",
+      "self-hosted",
+      "terminal-emulator",
+      "touchpad",
+      "ubuntu-desktop",
+      "vnc"
+    ],
+    "html_url": "https://github.com/adminsir-glich/guacamole-mobile-suite",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T07:04:13Z",
+    "updated_at": "2026-10-04T14:45:10Z",
+    "pushed_at": "2026-10-04T14:45:05Z"
+  },
+  {
+    "id": 1403760954,
+    "name": "humanphone",
+    "full_name": "eyoussef/humanphone",
+    "owner": {
+      "login": "eyoussef",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3953394?v=4"
+    },
+    "description": "An Android app that puts a language model in charge of your phone: chat plus an on-device operator agent that reads the screen and drives real UI actions. GPL-3.0+",
+    "topics": [
+      "ai-chat",
+      "android",
+      "apk",
+      "jetpack-compose",
+      "kotlin",
+      "mobile"
+    ],
+    "html_url": "https://github.com/eyoussef/humanphone",
+    "stargazers_count": 1,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T01:07:55Z",
+    "updated_at": "2026-10-05T15:47:20Z",
+    "pushed_at": "2026-10-05T15:11:41Z"
+  },
+  {
+    "id": 1404400594,
+    "name": "mobiledokan-phone-api",
+    "full_name": "MR-RAHAD/mobiledokan-phone-api",
+    "owner": {
+      "login": "MR-RAHAD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136159536?v=4"
+    },
+    "description": "📱 Free Phone Search API for Bangladesh — model name dile full specs, price, rating & images JSON e | MobileDokan scraper",
+    "topics": [
+      "api",
+      "bangladesh",
+      "express",
+      "json-api",
+      "mobile",
+      "nodejs",
+      "phone",
+      "phone-specs",
+      "price-api",
+      "rest-api",
+      "smartphone",
+      "specs",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/MR-RAHAD/mobiledokan-phone-api",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T12:51:45Z",
+    "updated_at": "2026-10-04T12:55:53Z",
+    "pushed_at": "2026-10-04T12:53:33Z"
+  },
+  {
+    "id": 1401855469,
+    "name": "ComfyUI-MobileOverlay",
+    "full_name": "SmeggyBoi/ComfyUI-MobileOverlay",
+    "owner": {
+      "login": "SmeggyBoi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136682698?v=4"
+    },
+    "description": "A phone-friendly form for any ComfyUI workflow: auto-detected inputs, an on-phone layout editor saved in the workflow, live preview, results gallery and batch runs.",
+    "topics": [
+      "comfyui",
+      "comfyui-custom-nodes",
+      "comfyui-extension",
+      "mobile"
+    ],
+    "html_url": "https://github.com/SmeggyBoi/ComfyUI-MobileOverlay",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T14:10:48Z",
+    "updated_at": "2026-10-04T03:55:07Z",
+    "pushed_at": "2026-10-02T14:10:55Z"
+  },
+  {
+    "id": 1396965278,
+    "name": "clashmate",
+    "full_name": "KushagraCanCode/clashmate",
+    "owner": {
+      "login": "KushagraCanCode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308356836?v=4"
+    },
+    "description": "⚔️ Unofficial mobile & web companion for Clash of Clans. Track builders, upgrades, hero timers, laboratory, signature Busy Mode, and grounded AI Strategic Advisor. PWA ready.",
+    "topics": [
+      "clash-of-clans",
+      "companion-app",
+      "fastapi",
+      "gaming",
+      "mobile",
+      "nextjs",
+      "pwa",
+      "python",
+      "supercell",
+      "typescript"
+    ],
+    "html_url": "https://github.com/KushagraCanCode/clashmate",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T04:20:37Z",
+    "updated_at": "2026-09-30T10:23:06Z",
+    "pushed_at": "2026-09-30T04:36:04Z"
+  },
+  {
+    "id": 1398337982,
+    "name": "happyagent",
+    "full_name": "Damianjiang/happyagent",
+    "owner": {
+      "login": "Damianjiang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177635024?v=4"
+    },
+    "description": "HappyAgent 开心办公：纯 Java 的安卓 6+ 手机端智能体客户端。端侧 agent 引擎、崩溃兜底页、企业风界面、个性化设置，面向老设备优化。",
+    "topics": [
+      "adaptive-icon",
+      "agent",
+      "ai",
+      "ai-agent",
+      "android",
+      "android-app",
+      "android6",
+      "app",
+      "crash-handler",
+      "dark-mode",
+      "enterprise-ui",
+      "java",
+      "kotlin-free",
+      "legacy-android",
+      "local-first",
+      "low-memory",
+      "material-design",
+      "mobile",
+      "offline",
+      "on-device-ai"
+    ],
+    "html_url": "https://github.com/Damianjiang/happyagent",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T15:00:24Z",
+    "updated_at": "2026-10-04T14:22:15Z",
+    "pushed_at": "2026-10-04T14:22:27Z"
+  },
+  {
+    "id": 1401801340,
+    "name": "FAANG-Mobile-Jobs-Tracker",
+    "full_name": "Emjumaev/FAANG-Mobile-Jobs-Tracker",
+    "owner": {
+      "login": "Emjumaev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214824116?v=4"
+    },
+    "description": "Auto-updated list of open iOS, Android & cross-platform mobile engineering jobs at FAANG and other big tech companies",
+    "topics": [
+      "android",
+      "ios",
+      "job-tracker",
+      "jobs",
+      "mobile",
+      "scraper"
+    ],
+    "html_url": "https://github.com/Emjumaev/FAANG-Mobile-Jobs-Tracker",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-02T13:39:12Z",
+    "updated_at": "2026-10-06T00:26:52Z",
+    "pushed_at": "2026-10-06T00:26:48Z"
+  },
+  {
+    "id": 1403625927,
+    "name": "android-template",
+    "full_name": "tarsislimadev/android-template",
+    "owner": {
+      "login": "tarsislimadev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69215425?v=4"
+    },
+    "description": "A simple Android template project.",
+    "topics": [
+      "android",
+      "copilot",
+      "mobile",
+      "tarsislimadev"
+    ],
+    "html_url": "https://github.com/tarsislimadev/android-template",
+    "stargazers_count": 1,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T20:49:31Z",
+    "updated_at": "2026-10-03T21:26:14Z",
+    "pushed_at": "2026-10-03T21:23:02Z"
+  }
+]
