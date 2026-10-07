@@ -1,0 +1,610 @@
+[
+  {
+    "id": 1398891048,
+    "name": "loci",
+    "full_name": "cmoraes10/loci",
+    "owner": {
+      "login": "cmoraes10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218541098?v=4"
+    },
+    "description": "Typed long-term memory for AI agents. One core, an MCP server, and a Hermes plugin.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "hermes",
+      "llm",
+      "long-term-memory",
+      "mcp",
+      "mcp-server",
+      "memory",
+      "model",
+      "model-context-protocol",
+      "open-source",
+      "python",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/cmoraes10/loci",
+    "stargazers_count": 27,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T01:09:03Z",
+    "updated_at": "2026-10-06T19:22:55Z",
+    "pushed_at": "2026-10-01T02:14:38Z"
+  },
+  {
+    "id": 1403360762,
+    "name": "alans-way",
+    "full_name": "capthvnsen/alans-way",
+    "owner": {
+      "login": "capthvnsen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211575922?v=4"
+    },
+    "description": "Alan's Way: a Mac app where your Hermes bots drive their own browser tabs on your Mac and a cloud VPS, with Telegram alongside and handoff between the two.",
+    "topics": [
+      "agentic",
+      "ai-agents",
+      "automation",
+      "browser-automation",
+      "desktop-app",
+      "electron",
+      "hermes",
+      "mac",
+      "self-hosted",
+      "telegram",
+      "vps"
+    ],
+    "html_url": "https://github.com/capthvnsen/alans-way",
+    "stargazers_count": 17,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-10-03T15:44:20Z",
+    "updated_at": "2026-10-07T01:04:15Z",
+    "pushed_at": "2026-10-07T01:04:21Z"
+  },
+  {
+    "id": 1402229659,
+    "name": "glass-theme-for-hermes",
+    "full_name": "mykeura/glass-theme-for-hermes",
+    "owner": {
+      "login": "mykeura",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125702282?v=4"
+    },
+    "description": "A glass-inspired theme for Hermes Desktop with light and dark modes, translucent surfaces, and coordinated terminal palettes",
+    "topics": [
+      "electron",
+      "hermes",
+      "hermes-agent",
+      "hermes-desktop",
+      "hermes-plugin",
+      "minimalist",
+      "theme-ui",
+      "themes",
+      "ui",
+      "ui-design",
+      "ui-ux"
+    ],
+    "html_url": "https://github.com/mykeura/glass-theme-for-hermes",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T18:50:56Z",
+    "updated_at": "2026-10-06T17:11:25Z",
+    "pushed_at": "2026-10-06T17:11:20Z"
+  },
+  {
+    "id": 1398504969,
+    "name": "hermes-chatgpt-extension",
+    "full_name": "intellectronica/hermes-chatgpt-extension",
+    "owner": {
+      "login": "intellectronica",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46264?v=4"
+    },
+    "description": "Hermes ChatGPT Extension",
+    "topics": [
+      "chatgpt",
+      "codex",
+      "hermes"
+    ],
+    "html_url": "https://github.com/intellectronica/hermes-chatgpt-extension",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T17:09:13Z",
+    "updated_at": "2026-10-05T09:49:11Z",
+    "pushed_at": "2026-10-01T21:12:37Z"
+  },
+  {
+    "id": 1402306741,
+    "name": "interactive-workflow",
+    "full_name": "abualnassr/interactive-workflow",
+    "owner": {
+      "login": "abualnassr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/302041833?v=4"
+    },
+    "description": "Agent skill (Claude Code, Codex, Cursor, OpenCode, Hermes Agent and more): turn a process description into a self-contained, clickable HTML workflow diagram plus a PNG for slides.",
+    "topics": [
+      "agent-skills",
+      "claude",
+      "claude-skill",
+      "codex",
+      "diagram",
+      "hermes",
+      "hermes-agent",
+      "hermes-desktop",
+      "hermes-skill",
+      "process-map",
+      "workflow"
+    ],
+    "html_url": "https://github.com/abualnassr/interactive-workflow",
+    "stargazers_count": 6,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T20:09:37Z",
+    "updated_at": "2026-10-06T06:13:23Z",
+    "pushed_at": "2026-10-04T20:08:51Z"
+  },
+  {
+    "id": 1404866936,
+    "name": "alans-way-agents",
+    "full_name": "capthvnsen/alans-way-agents",
+    "owner": {
+      "login": "capthvnsen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211575922?v=4"
+    },
+    "description": "Hermes — Alan's Way agent plugin: proactivity, workspace browser tools, and Mac/VPS auto-routing for your Hermes bots",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "hermes",
+      "hermes-plugin",
+      "mac",
+      "proactivity",
+      "self-hosted",
+      "telegram",
+      "vps",
+      "workspace"
+    ],
+    "html_url": "https://github.com/capthvnsen/alans-way-agents",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-10-04T21:56:22Z",
+    "updated_at": "2026-10-07T01:14:46Z",
+    "pushed_at": "2026-10-07T01:14:42Z"
+  },
+  {
+    "id": 1405566766,
+    "name": "product-film",
+    "full_name": "display-dev/product-film",
+    "owner": {
+      "login": "display-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280950187?v=4"
+    },
+    "description": "Make short product films from your product's real UI with AI coding agents.",
+    "topics": [
+      "agent-skill",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "cursor",
+      "ffmpeg",
+      "hermes",
+      "launch-video",
+      "opencode",
+      "pi",
+      "playwright",
+      "product-video"
+    ],
+    "html_url": "https://github.com/display-dev/product-film",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T10:28:15Z",
+    "updated_at": "2026-10-06T11:33:15Z",
+    "pushed_at": "2026-10-05T14:22:21Z"
+  },
+  {
+    "id": 1404146587,
+    "name": "awesome-uncensored-ai-agents",
+    "full_name": "Anil-matcha/awesome-uncensored-ai-agents",
+    "owner": {
+      "login": "Anil-matcha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4326215?v=4"
+    },
+    "description": "Guides for connecting tool-capable Muapi-hosted models to OpenClaw, Hermes Agent, and other general-purpose AI agents.",
+    "topics": [
+      "agent-frameworks",
+      "agent-integrations",
+      "agentic-ai",
+      "ai-agent-framework",
+      "ai-agent-security",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "hosted-llm",
+      "hosted-models",
+      "llm-agents",
+      "model-hosting",
+      "muapi",
+      "openai-compatible-api",
+      "openclaw",
+      "openclaw-agent",
+      "provider-integration",
+      "tool-calling",
+      "tool-use",
+      "uncensored-ai-agents"
+    ],
+    "html_url": "https://github.com/Anil-matcha/awesome-uncensored-ai-agents",
+    "stargazers_count": 3,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T08:35:25Z",
+    "updated_at": "2026-10-05T18:57:47Z",
+    "pushed_at": "2026-10-05T18:57:43Z"
+  },
+  {
+    "id": 1404557280,
+    "name": "blender-mcp-cloud-bridge",
+    "full_name": "FahimXits/blender-mcp-cloud-bridge",
+    "owner": {
+      "login": "FahimXits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192604098?v=4"
+    },
+    "description": "Engineered for Cloud AI Assistants (Muse AI, OpenClaw, Hermes) & LLMs to remotely drive local Blender 3D via MCP and automated secure tunnels.",
+    "topics": [
+      "ai-agents",
+      "autonomous-agents",
+      "blender",
+      "claude",
+      "cloudflare-tunnel",
+      "cursor",
+      "hermes",
+      "mcp",
+      "model-context-protocol",
+      "muse-ai",
+      "ngrok",
+      "openclaw",
+      "python"
+    ],
+    "html_url": "https://github.com/FahimXits/blender-mcp-cloud-bridge",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T15:18:50Z",
+    "updated_at": "2026-10-04T15:26:20Z",
+    "pushed_at": "2026-10-04T15:21:55Z"
+  },
+  {
+    "id": 1407237322,
+    "name": "hermes-nowstamp",
+    "full_name": "zakiyys/hermes-nowstamp",
+    "owner": {
+      "login": "zakiyys",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77758375?v=4"
+    },
+    "description": "Hermes Agent plugin: inject current date, time and time since the previous message into every turn",
+    "topics": [
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-plugin",
+      "llm-agents",
+      "python",
+      "time-awareness",
+      "timestamp",
+      "timezone"
+    ],
+    "html_url": "https://github.com/zakiyys/hermes-nowstamp",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T12:09:16Z",
+    "updated_at": "2026-10-06T13:41:30Z",
+    "pushed_at": "2026-10-06T12:50:22Z"
+  },
+  {
+    "id": 1407181508,
+    "name": "fixpoint",
+    "full_name": "iamxicor/fixpoint",
+    "owner": {
+      "login": "iamxicor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249329151?v=4"
+    },
+    "description": "Self-improving performance harness for React Native. Measure. Fix. Re-measure. Repeat until nothing changes.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "expo",
+      "hermes",
+      "mcp",
+      "performance",
+      "react-native"
+    ],
+    "html_url": "https://github.com/iamxicor/fixpoint",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T11:30:03Z",
+    "updated_at": "2026-10-06T15:28:04Z",
+    "pushed_at": "2026-10-06T11:57:08Z"
+  },
+  {
+    "id": 1401792735,
+    "name": "yomitan-agent-skills",
+    "full_name": "philiaspaceai/yomitan-agent-skills",
+    "owner": {
+      "login": "philiaspaceai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247907372?v=4"
+    },
+    "description": "Agent Skills for Yomitan dictionaries — AI agents (Claude Code, OpenCode, Codex, Hermes, Cursor) can create, edit, validate & package Japanese dictionary files. Install: npx skills add philiaspaceai/yomitan-agent-skills",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-skills",
+      "claude-code",
+      "codex",
+      "cursor",
+      "dictionary-editor",
+      "frequency-dictionary",
+      "hermes",
+      "hermes-agent",
+      "japanese",
+      "japanese-dictionary",
+      "jlpt",
+      "npx",
+      "opencode",
+      "pitch-accent",
+      "yomitan",
+      "yomitan-dictionary"
+    ],
+    "html_url": "https://github.com/philiaspaceai/yomitan-agent-skills",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T13:34:38Z",
+    "updated_at": "2026-10-02T16:33:32Z",
+    "pushed_at": "2026-10-02T16:33:28Z"
+  },
+  {
+    "id": 1398244403,
+    "name": "agent-gateway",
+    "full_name": "yudch999-bot/agent-gateway",
+    "owner": {
+      "login": "yudch999-bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231164559?v=4"
+    },
+    "description": "One command to launch and switch between all your AI coding agents — Claude Code, Codex, Gemini, Grok, OpenCode, OpenClaw, Hermes… 一个命令统一切换所有 AI coding agent",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "fuzzy-finder",
+      "gemini-cli",
+      "hermes",
+      "launcher",
+      "openclaw",
+      "opencode",
+      "python",
+      "terminal"
+    ],
+    "html_url": "https://github.com/yudch999-bot/agent-gateway",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T14:27:31Z",
+    "updated_at": "2026-10-01T18:42:52Z",
+    "pushed_at": "2026-10-01T18:42:50Z"
+  },
+  {
+    "id": 1404196206,
+    "name": "dot-agents",
+    "full_name": "w0rxbend/dot-agents",
+    "owner": {
+      "login": "w0rxbend",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8176996?v=4"
+    },
+    "description": "Global agent skills with portable installers, provenance, CI, and versioned releases",
+    "topics": [
+      "agent-skills",
+      "automation",
+      "claude-code",
+      "codex",
+      "dotfiles",
+      "hermes"
+    ],
+    "html_url": "https://github.com/w0rxbend/dot-agents",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 11,
+    "created_at": "2026-10-04T09:27:40Z",
+    "updated_at": "2026-10-05T21:52:18Z",
+    "pushed_at": "2026-10-05T21:52:14Z"
+  },
+  {
+    "id": 1401570991,
+    "name": "hermes-clinepass-enhanced",
+    "full_name": "thesaluja/hermes-clinepass-enhanced",
+    "owner": {
+      "login": "thesaluja",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69156129?v=4"
+    },
+    "description": "ClinePass model-provider plugin for Hermes Agent: live plan-catalog discovery + non-streaming envelope fix. Enhanced fork of Adolanium/hermes-clinepass.",
+    "topics": [
+      "cline",
+      "clinepass",
+      "hermes",
+      "hermes-agent",
+      "llm-provider",
+      "model-provider",
+      "plugin"
+    ],
+    "html_url": "https://github.com/thesaluja/hermes-clinepass-enhanced",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T11:24:34Z",
+    "updated_at": "2026-10-02T12:52:21Z",
+    "pushed_at": "2026-10-02T12:52:07Z"
+  },
+  {
+    "id": 1403460741,
+    "name": "hermes-bronze-dashboard-theme",
+    "full_name": "c7zx/hermes-bronze-dashboard-theme",
+    "owner": {
+      "login": "c7zx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306874606?v=4"
+    },
+    "description": "A theme for the Hermes web dashboard with dark surfaces, ivory typography, bronze accents, a decent full-page archive background ect.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-custom-theme",
+      "hermes-dashboard",
+      "hermes-dashboard-design",
+      "hermes-dashboard-theme",
+      "hermes-design",
+      "hermes-theme",
+      "hermes-ui-theme",
+      "hermes-web-dashboard-theme",
+      "nousresearch",
+      "theme",
+      "ui-theme",
+      "web-dashboard"
+    ],
+    "html_url": "https://github.com/c7zx/hermes-bronze-dashboard-theme",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T17:21:59Z",
+    "updated_at": "2026-10-04T08:08:27Z",
+    "pushed_at": "2026-10-03T17:53:46Z"
+  },
+  {
+    "id": 1402063092,
+    "name": "searxng-custom-logo",
+    "full_name": "Forsigh/searxng-custom-logo",
+    "owner": {
+      "login": "Forsigh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35919784?v=4"
+    },
+    "description": "Brand a self-hosted SearXNG: wordmark, animated front page, results mark, favicon.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "hermes",
+      "searxng"
+    ],
+    "html_url": "https://github.com/Forsigh/searxng-custom-logo",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T16:24:24Z",
+    "updated_at": "2026-10-02T18:16:20Z",
+    "pushed_at": "2026-10-02T18:16:17Z"
+  },
+  {
+    "id": 1399004126,
+    "name": "hermes-cloud-file-manager",
+    "full_name": "electricsheephq/hermes-cloud-file-manager",
+    "owner": {
+      "login": "electricsheephq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268512935?v=4"
+    },
+    "description": "Cloud Files for Hermes Desktop: browse, search and bulk-upload files on the machine your agent runs on, and hand the agent file locations from chat.",
+    "topics": [
+      "file-manager",
+      "file-upload",
+      "hermes",
+      "hermes-agent",
+      "hermes-desktop",
+      "hermes-plugin",
+      "remote-agent"
+    ],
+    "html_url": "https://github.com/electricsheephq/hermes-cloud-file-manager",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-01T03:22:05Z",
+    "updated_at": "2026-10-03T10:10:06Z",
+    "pushed_at": "2026-10-03T10:10:33Z"
+  },
+  {
+    "id": 1407253453,
+    "name": "hermes-orchestrator",
+    "full_name": "xegheplimo-web/hermes-orchestrator",
+    "owner": {
+      "login": "xegheplimo-web",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246752256?v=4"
+    },
+    "description": "Lead Orchestrator kit: run Devin CLI + Cline + OpenCode as one verified software team under Hermes — split, assign, verify, integrate. Canonical prompt + templates + control plane + launch scripts + guard hook + full installation guide.",
+    "topics": [
+      "ai-agents",
+      "cline",
+      "devin-cli",
+      "hermes",
+      "multi-agent",
+      "opencode",
+      "orchestration"
+    ],
+    "html_url": "https://github.com/xegheplimo-web/hermes-orchestrator",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T12:21:17Z",
+    "updated_at": "2026-10-06T22:41:40Z",
+    "pushed_at": "2026-10-06T22:41:35Z"
+  },
+  {
+    "id": 1405754039,
+    "name": "triad",
+    "full_name": "squiddyv1/triad",
+    "owner": {
+      "login": "squiddyv1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146050585?v=4"
+    },
+    "description": "One deployable system over Strix (discovery), Cairn (exploitation) and Hermes (control plane) for authorized security assessment.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "automation",
+      "cairn",
+      "hermes",
+      "pentest",
+      "security",
+      "strix"
+    ],
+    "html_url": "https://github.com/squiddyv1/triad",
+    "stargazers_count": 0,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T12:51:08Z",
+    "updated_at": "2026-10-06T23:46:13Z",
+    "pushed_at": "2026-10-06T23:46:10Z"
+  }
+]

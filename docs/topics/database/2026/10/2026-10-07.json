@@ -1,0 +1,567 @@
+[
+  {
+    "id": 1403914720,
+    "name": "hypergraph",
+    "full_name": "metacoglabs/hypergraph",
+    "owner": {
+      "login": "metacoglabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251760266?v=4"
+    },
+    "description": "A persistent native vector-hypergraph database for higher-order interactions",
+    "topics": [
+      "database",
+      "graph",
+      "graphdb",
+      "graphs-algorithms",
+      "java",
+      "java25"
+    ],
+    "html_url": "https://github.com/metacoglabs/hypergraph",
+    "stargazers_count": 21,
+    "language": "Java",
+    "forks_count": 1,
+    "open_issues_count": 23,
+    "created_at": "2026-10-04T04:56:21Z",
+    "updated_at": "2026-10-06T16:14:16Z",
+    "pushed_at": "2026-10-06T06:01:58Z"
+  },
+  {
+    "id": 1407138658,
+    "name": "couchbase-download",
+    "full_name": "pegasuscodeberth/couchbase-download",
+    "owner": {
+      "login": "pegasuscodeberth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330635557?v=4"
+    },
+    "description": "Couchbase — Database SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "couchbase",
+      "couchbase-download",
+      "database",
+      "download",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/pegasuscodeberth/couchbase-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T10:59:04Z",
+    "updated_at": "2026-10-06T14:25:37Z",
+    "pushed_at": "2026-10-06T11:12:07Z"
+  },
+  {
+    "id": 1402331427,
+    "name": "CryoDB",
+    "full_name": "znxr/CryoDB",
+    "owner": {
+      "login": "znxr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13396325?v=4"
+    },
+    "description": "Fast, native SQL client for PostgreSQL, MySQL, MariaDB and SQLite. Desktop app, TUI and CLI in one binary. Built with Rust and iced.",
+    "topics": [
+      "cli",
+      "cross-platform",
+      "database",
+      "database-client",
+      "desktop-app",
+      "gui",
+      "iced",
+      "mariadb",
+      "mysql",
+      "postgresql",
+      "rust",
+      "sql-client",
+      "sqlite",
+      "tui"
+    ],
+    "html_url": "https://github.com/znxr/CryoDB",
+    "stargazers_count": 7,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T20:37:08Z",
+    "updated_at": "2026-10-07T01:19:41Z",
+    "pushed_at": "2026-10-06T11:59:19Z"
+  },
+  {
+    "id": 1402535162,
+    "name": "sql-bomb",
+    "full_name": "fusor-rs/sql-bomb",
+    "owner": {
+      "login": "fusor-rs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333131475?v=4"
+    },
+    "description": "A SQL client written in HTML & Rust for the terminal",
+    "topics": [
+      "cli",
+      "client",
+      "database",
+      "flightsql",
+      "html",
+      "rust",
+      "terminal"
+    ],
+    "html_url": "https://github.com/fusor-rs/sql-bomb",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T01:54:58Z",
+    "updated_at": "2026-10-06T16:55:31Z",
+    "pushed_at": "2026-10-05T02:01:28Z"
+  },
+  {
+    "id": 1399783950,
+    "name": "db2gram",
+    "full_name": "fiandev/db2gram",
+    "owner": {
+      "login": "fiandev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98071117?v=4"
+    },
+    "description": "Automated multi-dialect database backup to Telegram. Each database is dumped to SQL, zipped, encrypted (AES-256-GCM), split into ≤48 MB chunks",
+    "topics": [
+      "backup-sql",
+      "bot-telegram",
+      "database"
+    ],
+    "html_url": "https://github.com/fiandev/db2gram",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T10:55:51Z",
+    "updated_at": "2026-10-04T13:24:02Z",
+    "pushed_at": "2026-10-04T13:33:11Z"
+  },
+  {
+    "id": 1400473125,
+    "name": "plugboard",
+    "full_name": "falsea3/plugboard",
+    "owner": {
+      "login": "falsea3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76220831?v=4"
+    },
+    "description": "A fast, local-first database client for PostgreSQL, MySQL and SQLite. No accounts, no cloud sync, no telemetry — just you and your data.",
+    "topics": [
+      "database",
+      "database-client",
+      "dbeaver-alternative",
+      "golang",
+      "linux-app",
+      "local-first",
+      "mac-app",
+      "mysql",
+      "open-source",
+      "postgresql",
+      "sql",
+      "sqlite",
+      "svelte",
+      "tableplus-alternative",
+      "wails",
+      "windows-app"
+    ],
+    "html_url": "https://github.com/falsea3/plugboard",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T17:36:30Z",
+    "updated_at": "2026-10-06T14:24:23Z",
+    "pushed_at": "2026-10-06T14:24:33Z"
+  },
+  {
+    "id": 1401803062,
+    "name": "sql-learning-journey",
+    "full_name": "Nahid-mahmud555/sql-learning-journey",
+    "owner": {
+      "login": "Nahid-mahmud555",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162360388?v=4"
+    },
+    "description": "A curated collection of SQL queries, lessons, and hands-on exercises designed for database mastery and technical interview preparation. Features step-by-step solutions from basic SELECT statements to advanced concepts.",
+    "topics": [
+      "database",
+      "interview-preparation",
+      "nahidmahmud555",
+      "sql",
+      "sql-learning",
+      "sql-learning-journey",
+      "sql-queries"
+    ],
+    "html_url": "https://github.com/Nahid-mahmud555/sql-learning-journey",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T13:40:07Z",
+    "updated_at": "2026-10-04T13:41:25Z",
+    "pushed_at": "2026-10-04T05:08:46Z"
+  },
+  {
+    "id": 1399676341,
+    "name": "Awesome-Database-Migration",
+    "full_name": "ishandutta2007/Awesome-Database-Migration",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top Database Migration (Opensource) 🌟 Star if you like it! 🌟",
+    "topics": [
+      "awesome-list",
+      "change-data-capture",
+      "curated-list",
+      "database",
+      "database-migration",
+      "replication"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-Database-Migration",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T09:42:39Z",
+    "updated_at": "2026-10-01T23:24:45Z",
+    "pushed_at": "2026-10-01T23:24:56Z"
+  },
+  {
+    "id": 1403589693,
+    "name": "babeldb",
+    "full_name": "q6r/babeldb",
+    "owner": {
+      "login": "q6r",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209566446?v=4"
+    },
+    "description": "Banco chave-valor embarcado em Rust (fjall + WAL), com bibliotecas para Python e Node.js",
+    "topics": [
+      "database",
+      "embedded-database",
+      "key-value",
+      "nodejs",
+      "python",
+      "rust"
+    ],
+    "html_url": "https://github.com/q6r/babeldb",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T19:56:42Z",
+    "updated_at": "2026-10-04T15:39:47Z",
+    "pushed_at": "2026-10-03T20:27:33Z"
+  },
+  {
+    "id": 1401290320,
+    "name": "dbclone",
+    "full_name": "phuthuycoding/dbclone",
+    "owner": {
+      "login": "phuthuycoding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6171867?v=4"
+    },
+    "description": "Clone MongoDB & MySQL databases — or just the tables you pick — between any two servers: staging → local, prod → local, local → staging. Parallel streaming, retries, live progress.",
+    "topics": [
+      "cli",
+      "data-sync",
+      "database",
+      "database-clone",
+      "database-tools",
+      "developer-tools",
+      "devops",
+      "devtools",
+      "docker",
+      "go",
+      "golang",
+      "local-development",
+      "mongodb",
+      "mongodump",
+      "mongorestore",
+      "mysql",
+      "mysqldump",
+      "staging",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/phuthuycoding/dbclone",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T07:10:07Z",
+    "updated_at": "2026-10-05T04:42:04Z",
+    "pushed_at": "2026-10-05T03:46:55Z"
+  },
+  {
+    "id": 1406186275,
+    "name": "routeperf",
+    "full_name": "nazishasghar/routeperf",
+    "owner": {
+      "login": "nazishasghar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72311025?v=4"
+    },
+    "description": "Per-endpoint performance & Big O for your API: OpenAPI spec + EXPLAIN ANALYZE on Postgres/MySQL",
+    "topics": [
+      "api-testing",
+      "big-o",
+      "cli",
+      "database",
+      "explain-analyze",
+      "golang",
+      "mysql",
+      "n-plus-one",
+      "openapi",
+      "performance",
+      "postgresql",
+      "query-optimization",
+      "swagger"
+    ],
+    "html_url": "https://github.com/nazishasghar/routeperf",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T17:58:13Z",
+    "updated_at": "2026-10-06T11:36:15Z",
+    "pushed_at": "2026-10-06T11:36:10Z"
+  },
+  {
+    "id": 1405621911,
+    "name": "SQLST",
+    "full_name": "ErolCanDemir/SQLST",
+    "owner": {
+      "login": "ErolCanDemir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32736860?v=4"
+    },
+    "description": "Lightweight, fast and safety-first database query & management tool for Windows — SQL Server · PostgreSQL · MySQL/MariaDB · Oracle · MongoDB",
+    "topics": [
+      "database",
+      "dotnet",
+      "mongodb",
+      "mysql",
+      "oracle",
+      "postgresql",
+      "sql",
+      "sql-server",
+      "wpf"
+    ],
+    "html_url": "https://github.com/ErolCanDemir/SQLST",
+    "stargazers_count": 2,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T11:15:12Z",
+    "updated_at": "2026-10-06T13:16:58Z",
+    "pushed_at": "2026-10-05T12:13:03Z"
+  },
+  {
+    "id": 1401626984,
+    "name": "zornix-core-lab",
+    "full_name": "zornix-proverili/zornix-core-lab",
+    "owner": {
+      "login": "zornix-proverili",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298641293?v=4"
+    },
+    "description": "A long-term lab for learning and documenting a wide range of technologies, as well as for ongoing activities. It covers all areas, including the web, operating systems, games, infrastructure, and databases.",
+    "topics": [
+      "database",
+      "engineering-lab",
+      "game-development",
+      "infrastructure",
+      "learning-log",
+      "os-development",
+      "self-study",
+      "web-development"
+    ],
+    "html_url": "https://github.com/zornix-proverili/zornix-core-lab",
+    "stargazers_count": 2,
+    "language": "CSS",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T11:59:57Z",
+    "updated_at": "2026-10-06T23:26:40Z",
+    "pushed_at": "2026-10-06T23:26:36Z"
+  },
+  {
+    "id": 1404888730,
+    "name": "cpp_db_mem_rest",
+    "full_name": "kuc-arc-f/cpp_db_mem_rest",
+    "owner": {
+      "login": "kuc-arc-f",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1024717?v=4"
+    },
+    "description": "C++ DB Server Rest API , memory Database SQLite",
+    "topics": [
+      "cplusplus",
+      "cpp",
+      "database",
+      "rest-api",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/kuc-arc-f/cpp_db_mem_rest",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T22:36:01Z",
+    "updated_at": "2026-10-05T02:25:04Z",
+    "pushed_at": "2026-10-05T02:25:00Z"
+  },
+  {
+    "id": 1406129229,
+    "name": "Pigeon",
+    "full_name": "Harilol/Pigeon",
+    "owner": {
+      "login": "Harilol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177395289?v=4"
+    },
+    "description": "Talk to your Postgres database in plain English. Open source, bring your own AI key (BYOK). ",
+    "topics": [
+      "ai",
+      "database",
+      "django",
+      "llm",
+      "openai",
+      "postgresql",
+      "text-to-sql"
+    ],
+    "html_url": "https://github.com/Harilol/Pigeon",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T17:14:02Z",
+    "updated_at": "2026-10-06T08:55:23Z",
+    "pushed_at": "2026-10-06T08:55:18Z"
+  },
+  {
+    "id": 1407441457,
+    "name": "Database-AlmaLinux-to-Browser",
+    "full_name": "DavidDCN/Database-AlmaLinux-to-Browser",
+    "owner": {
+      "login": "DavidDCN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71557750?v=4"
+    },
+    "description": "Emulating Real Scenario on how to set-up and put data on Database in an AlmaLinux OS, where the browser can get its data  ",
+    "topics": [
+      "almalinux",
+      "database"
+    ],
+    "html_url": "https://github.com/DavidDCN/Database-AlmaLinux-to-Browser",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T14:28:56Z",
+    "updated_at": "2026-10-06T14:33:19Z",
+    "pushed_at": "2026-10-06T14:32:17Z"
+  },
+  {
+    "id": 1405844257,
+    "name": "EasyMysql",
+    "full_name": "Iphsiibl/EasyMysql",
+    "owner": {
+      "login": "Iphsiibl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88814838?v=4"
+    },
+    "description": "简单直白的讲解mysql的用法",
+    "topics": [
+      "beginner",
+      "chinese",
+      "database",
+      "mysql",
+      "sql",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/Iphsiibl/EasyMysql",
+    "stargazers_count": 1,
+    "language": "PowerShell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T13:49:44Z",
+    "updated_at": "2026-10-06T14:57:54Z",
+    "pushed_at": "2026-10-05T14:19:54Z"
+  },
+  {
+    "id": 1399122033,
+    "name": "datavault",
+    "full_name": "Krodity/datavault",
+    "owner": {
+      "login": "Krodity",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99015020?v=4"
+    },
+    "description": "Local-first personal database: contacts, pictures, expenses, barcodes/QR & custom sections — SQLite + Python (Flask) + vanilla JS, with a sandboxed SQL console, FTS5 search, transactional imports and backups",
+    "topics": [
+      "barcode",
+      "database",
+      "flask",
+      "fts5",
+      "python",
+      "qrcode",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/Krodity/datavault",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T04:45:54Z",
+    "updated_at": "2026-10-03T04:09:00Z",
+    "pushed_at": "2026-10-04T13:34:36Z"
+  },
+  {
+    "id": 1400739507,
+    "name": "pulumi-go-gcp-db-firestore",
+    "full_name": "marcuwynu23/pulumi-go-gcp-db-firestore",
+    "owner": {
+      "login": "marcuwynu23",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61897063?v=4"
+    },
+    "description": "This Pulumi project provisions a Google Cloud Firestore database (Native or Datastore mode).",
+    "topics": [
+      "database",
+      "firestore",
+      "gcp",
+      "go",
+      "golang",
+      "google-cloud-platform",
+      "infrastructure-as-code",
+      "pulumi",
+      "pulumi-projects"
+    ],
+    "html_url": "https://github.com/marcuwynu23/pulumi-go-gcp-db-firestore",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-01T21:29:29Z",
+    "updated_at": "2026-10-01T21:32:49Z",
+    "pushed_at": "2026-10-01T21:34:51Z"
+  },
+  {
+    "id": 1402172888,
+    "name": "herdr-lazysql",
+    "full_name": "baeroe/herdr-lazysql",
+    "owner": {
+      "login": "baeroe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35110665?v=4"
+    },
+    "description": "Run lazysql (TUI database client) in a herdr split pane or its own tab.",
+    "topics": [
+      "database",
+      "herdr",
+      "herdr-plugin",
+      "lazysql",
+      "sql",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/baeroe/herdr-lazysql",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T18:03:56Z",
+    "updated_at": "2026-10-05T21:41:06Z",
+    "pushed_at": "2026-10-02T22:36:52Z"
+  }
+]

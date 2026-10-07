@@ -1,0 +1,621 @@
+[
+  {
+    "id": 1397771878,
+    "name": "yomiyasu",
+    "full_name": "nanaism/yomiyasu",
+    "owner": {
+      "login": "nanaism",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72681409?v=4"
+    },
+    "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "gemini",
+      "japanese",
+      "linter",
+      "llm",
+      "nlp",
+      "writing",
+      "writing-assistant",
+      "writing-tool"
+    ],
+    "html_url": "https://github.com/nanaism/yomiyasu",
+    "stargazers_count": 1627,
+    "language": "Python",
+    "forks_count": 37,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T11:49:32Z",
+    "updated_at": "2026-10-07T01:59:16Z",
+    "pushed_at": "2026-10-06T16:35:05Z"
+  },
+  {
+    "id": 1396939768,
+    "name": "oil-ui",
+    "full_name": "oil-oil/oil-ui",
+    "owner": {
+      "login": "oil-oil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57465570?v=4"
+    },
+    "description": "Push AI UI design to its limits: explore distinct directions, compare them side by side, and refine against real screenshots. 把 AI 的 UI 设计能力推到极限。",
+    "topics": [
+      "agent-skills",
+      "ai-design",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "frontend",
+      "ui-design",
+      "ux-design"
+    ],
+    "html_url": "https://github.com/oil-oil/oil-ui",
+    "stargazers_count": 853,
+    "language": "Python",
+    "forks_count": 47,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T03:55:35Z",
+    "updated_at": "2026-10-07T01:58:48Z",
+    "pushed_at": "2026-10-07T01:11:25Z"
+  },
+  {
+    "id": 1397939439,
+    "name": "easyread",
+    "full_name": "Edwardxlai/easyread",
+    "owner": {
+      "login": "Edwardxlai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130557749?v=4"
+    },
+    "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+    "topics": [
+      "academic",
+      "arxiv",
+      "chinese",
+      "claude-code",
+      "codex",
+      "electron",
+      "llm",
+      "paper-reading",
+      "pdf-translator",
+      "reference-manager",
+      "research-tool",
+      "translation"
+    ],
+    "html_url": "https://github.com/Edwardxlai/easyread",
+    "stargazers_count": 823,
+    "language": "Python",
+    "forks_count": 59,
+    "open_issues_count": 7,
+    "created_at": "2026-09-30T12:52:24Z",
+    "updated_at": "2026-10-07T01:45:55Z",
+    "pushed_at": "2026-10-06T05:09:11Z"
+  },
+  {
+    "id": 1397599794,
+    "name": "livecanvas",
+    "full_name": "pengchujin/livecanvas",
+    "owner": {
+      "login": "pengchujin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16513318?v=4"
+    },
+    "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
+    "topics": [
+      "agent-skills",
+      "codex",
+      "live-photo",
+      "motion-design",
+      "remotion"
+    ],
+    "html_url": "https://github.com/pengchujin/livecanvas",
+    "stargazers_count": 402,
+    "language": "Swift",
+    "forks_count": 27,
+    "open_issues_count": 1,
+    "created_at": "2026-09-30T10:26:35Z",
+    "updated_at": "2026-10-07T01:51:36Z",
+    "pushed_at": "2026-10-02T03:38:49Z"
+  },
+  {
+    "id": 1403847264,
+    "name": "mesh-avatar-studio",
+    "full_name": "shinshin86/mesh-avatar-studio",
+    "owner": {
+      "login": "shinshin86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8216064?v=4"
+    },
+    "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+    "topics": [
+      "2d-animation",
+      "avatar",
+      "claude-code",
+      "codex",
+      "mesh-deformation",
+      "vtuber",
+      "webgl"
+    ],
+    "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
+    "stargazers_count": 395,
+    "language": "TypeScript",
+    "forks_count": 50,
+    "open_issues_count": 1,
+    "created_at": "2026-10-04T03:33:57Z",
+    "updated_at": "2026-10-07T01:54:58Z",
+    "pushed_at": "2026-10-06T23:18:34Z"
+  },
+  {
+    "id": 1398418891,
+    "name": "agent-smith",
+    "full_name": "Chengjun023/agent-smith",
+    "owner": {
+      "login": "Chengjun023",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246022405?v=4"
+    },
+    "description": "Token 超支？快给史密斯打电话！ Better Call Smith. Adaptive model routing, a glassy Codex usage monitor, and reproducible benchmarks with receipts.",
+    "topics": [
+      "ai-agents",
+      "benchmark",
+      "codex",
+      "cost-optimization",
+      "llm-routing",
+      "local-first",
+      "macos",
+      "swiftui",
+      "token-usage"
+    ],
+    "html_url": "https://github.com/Chengjun023/agent-smith",
+    "stargazers_count": 350,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T15:58:32Z",
+    "updated_at": "2026-10-07T02:00:18Z",
+    "pushed_at": "2026-10-01T05:53:08Z"
+  },
+  {
+    "id": 1399413068,
+    "name": "official-mcp-servers",
+    "full_name": "VoltAgent/official-mcp-servers",
+    "owner": {
+      "login": "VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "description": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
+    "topics": [
+      "ai-tools",
+      "awesome-list",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "mcp",
+      "mcp-server",
+      "mcp-servers",
+      "model-context-protocol"
+    ],
+    "html_url": "https://github.com/VoltAgent/official-mcp-servers",
+    "stargazers_count": 179,
+    "language": null,
+    "forks_count": 25,
+    "open_issues_count": 1,
+    "created_at": "2026-10-01T07:30:34Z",
+    "updated_at": "2026-10-07T01:03:16Z",
+    "pushed_at": "2026-10-06T10:08:29Z"
+  },
+  {
+    "id": 1398055406,
+    "name": "codex-mobile-dev-plugin",
+    "full_name": "callstackincubator/codex-mobile-dev-plugin",
+    "owner": {
+      "login": "callstackincubator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40356278?v=4"
+    },
+    "description": "A Codex plugin for a better mobile development experience for android and iOS",
+    "topics": [
+      "agent",
+      "android",
+      "codex",
+      "codex-plugin",
+      "dev-tools",
+      "ios",
+      "mobile-dev",
+      "native",
+      "react-native"
+    ],
+    "html_url": "https://github.com/callstackincubator/codex-mobile-dev-plugin",
+    "stargazers_count": 137,
+    "language": "C++",
+    "forks_count": 6,
+    "open_issues_count": 4,
+    "created_at": "2026-09-30T13:30:00Z",
+    "updated_at": "2026-10-07T00:36:37Z",
+    "pushed_at": "2026-10-07T01:50:13Z"
+  },
+  {
+    "id": 1404158154,
+    "name": "qiaomu-codex-imagegen",
+    "full_name": "joeseesun/qiaomu-codex-imagegen",
+    "owner": {
+      "login": "joeseesun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+    },
+    "description": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "image-generation",
+      "mcp",
+      "poster-design",
+      "xiaohongshu"
+    ],
+    "html_url": "https://github.com/joeseesun/qiaomu-codex-imagegen",
+    "stargazers_count": 104,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T08:47:02Z",
+    "updated_at": "2026-10-06T22:24:07Z",
+    "pushed_at": "2026-10-04T09:34:49Z"
+  },
+  {
+    "id": 1404748076,
+    "name": "brand-identity-skill",
+    "full_name": "fatihaydost/brand-identity-skill",
+    "owner": {
+      "login": "fatihaydost",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93138685?v=4"
+    },
+    "description": "A Claude Code skill that designs a brand identity as one system: logo, typography and colour palette built together from one brief, measured, compared as identity cards, and delivered as a brand guidelines kit.",
+    "topics": [
+      "accessibility",
+      "agent-skills",
+      "agy",
+      "brand",
+      "brand-identity",
+      "branding",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "color",
+      "color-palette",
+      "design-tokens",
+      "font",
+      "logo",
+      "logo-design",
+      "skills",
+      "typography"
+    ],
+    "html_url": "https://github.com/fatihaydost/brand-identity-skill",
+    "stargazers_count": 89,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T19:00:50Z",
+    "updated_at": "2026-10-06T22:23:33Z",
+    "pushed_at": "2026-10-04T23:28:45Z"
+  },
+  {
+    "id": 1400363975,
+    "name": "factorylog",
+    "full_name": "flaviocopes/factorylog",
+    "owner": {
+      "login": "flaviocopes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11783388?v=4"
+    },
+    "description": "See what your coding agents did for you: a timeline of each day and week on your Mac, and where your time went, project by project",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "macos",
+      "swift",
+      "swiftui",
+      "time-tracking"
+    ],
+    "html_url": "https://github.com/flaviocopes/factorylog",
+    "stargazers_count": 60,
+    "language": "Swift",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T16:28:49Z",
+    "updated_at": "2026-10-06T23:34:18Z",
+    "pushed_at": "2026-10-05T11:37:48Z"
+  },
+  {
+    "id": 1398046171,
+    "name": "skillscout",
+    "full_name": "flaviocopes/skillscout",
+    "owner": {
+      "login": "flaviocopes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11783388?v=4"
+    },
+    "description": "Find the skills your coding agents load, see which agents can use each one, and count how often you use them",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "macos",
+      "swift",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/flaviocopes/skillscout",
+    "stargazers_count": 58,
+    "language": "Swift",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-09-30T13:27:04Z",
+    "updated_at": "2026-10-06T23:34:47Z",
+    "pushed_at": "2026-10-05T11:37:31Z"
+  },
+  {
+    "id": 1402224782,
+    "name": "BashCut",
+    "full_name": "dongnguyenvie/BashCut",
+    "owner": {
+      "login": "dongnguyenvie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42445585?v=4"
+    },
+    "description": "Native macOS video editor that coding agents can drive: everything the UI does, Claude Code and Codex can do through the bashcut CLI or MCP server. Layered timeline, captions, voiceover, plugins.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "apple-silicon",
+      "bashcut",
+      "captions",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "homebrew-cask",
+      "macos",
+      "macos-app",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "plugins",
+      "swift",
+      "swiftui",
+      "video-editing",
+      "video-editor"
+    ],
+    "html_url": "https://github.com/dongnguyenvie/BashCut",
+    "stargazers_count": 51,
+    "language": "Swift",
+    "forks_count": 17,
+    "open_issues_count": 194,
+    "created_at": "2026-10-02T18:46:34Z",
+    "updated_at": "2026-10-07T01:33:31Z",
+    "pushed_at": "2026-10-06T20:24:44Z"
+  },
+  {
+    "id": 1403215196,
+    "name": "book-to-course-skill",
+    "full_name": "sebastianhaba/book-to-course-skill",
+    "owner": {
+      "login": "sebastianhaba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9899854?v=4"
+    },
+    "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
+    "topics": [
+      "ai",
+      "ai-skill",
+      "ai-skill-file",
+      "ai-skills",
+      "android",
+      "appimage",
+      "books",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "course",
+      "course-materials",
+      "courses",
+      "hyperskill",
+      "learning",
+      "learning-by-doing"
+    ],
+    "html_url": "https://github.com/sebastianhaba/book-to-course-skill",
+    "stargazers_count": 47,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T13:36:54Z",
+    "updated_at": "2026-10-06T09:37:50Z",
+    "pushed_at": "2026-10-06T04:32:33Z"
+  },
+  {
+    "id": 1405432060,
+    "name": "absent-author",
+    "full_name": "THUROI0787/absent-author",
+    "owner": {
+      "login": "THUROI0787",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89240729?v=4"
+    },
+    "description": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
+    "topics": [
+      "agent-skills",
+      "ai-generated-content-detection",
+      "claude-code",
+      "codex",
+      "llm",
+      "peer-review",
+      "research-integrity"
+    ],
+    "html_url": "https://github.com/THUROI0787/absent-author",
+    "stargazers_count": 42,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 3,
+    "created_at": "2026-10-05T08:41:20Z",
+    "updated_at": "2026-10-07T00:46:06Z",
+    "pushed_at": "2026-10-05T17:18:15Z"
+  },
+  {
+    "id": 1401725212,
+    "name": "token-tv",
+    "full_name": "click6067-ship-it/token-tv",
+    "owner": {
+      "login": "click6067-ship-it",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226941778?v=4"
+    },
+    "description": "Turn a ~$5 AliExpress clock into a physical AI usage dashboard (Claude, Codex, multi-account). Zero-flash where possible.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "desk-clock",
+      "geekmagic",
+      "python",
+      "smalltv",
+      "usage-monitor"
+    ],
+    "html_url": "https://github.com/click6067-ship-it/token-tv",
+    "stargazers_count": 38,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 6,
+    "created_at": "2026-10-02T12:54:10Z",
+    "updated_at": "2026-10-06T21:41:56Z",
+    "pushed_at": "2026-10-04T08:54:48Z"
+  },
+  {
+    "id": 1404677215,
+    "name": "sim-agentation",
+    "full_name": "lcandy2/sim-agentation",
+    "owner": {
+      "login": "lcandy2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45784494?v=4"
+    },
+    "description": "Annotate a running iOS simulator in your browser, and hand the notes to your coding agent.",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "design-review",
+      "developer-tools",
+      "ios",
+      "ios-simulator",
+      "macos",
+      "mcp",
+      "model-context-protocol",
+      "swift",
+      "swiftui",
+      "ui-annotation",
+      "uikit",
+      "xcode"
+    ],
+    "html_url": "https://github.com/lcandy2/sim-agentation",
+    "stargazers_count": 38,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T17:33:47Z",
+    "updated_at": "2026-10-07T01:34:12Z",
+    "pushed_at": "2026-10-06T11:52:51Z"
+  },
+  {
+    "id": 1398669593,
+    "name": "dotpals",
+    "full_name": "Rikinshah787/dotpals",
+    "owner": {
+      "login": "Rikinshah787",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87516554?v=4"
+    },
+    "description": "See what your coding agent actually did. A desktop pal and notch for Claude Code, Codex, Cursor, Gemini CLI and any agent: test results read from the output, faked passes caught, Claude Code sent back to fix what it broke, and an MCP server any AI tool can ask.",
+    "topics": [
+      "agent-observability",
+      "ai-agents",
+      "ai-coding",
+      "anthropic",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "developer-tools",
+      "devtools",
+      "electron",
+      "gemini-cli",
+      "opencode",
+      "subagents",
+      "testing",
+      "web-components"
+    ],
+    "html_url": "https://github.com/Rikinshah787/dotpals",
+    "stargazers_count": 36,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 3,
+    "created_at": "2026-09-30T19:43:43Z",
+    "updated_at": "2026-10-07T00:21:03Z",
+    "pushed_at": "2026-10-06T08:17:34Z"
+  },
+  {
+    "id": 1401426895,
+    "name": "CLIProxyAPI-Rust",
+    "full_name": "IuCC123/CLIProxyAPI-Rust",
+    "owner": {
+      "login": "IuCC123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80768059?v=4"
+    },
+    "description": "Your Claude, ChatGPT and Gemini subscriptions as one fast API. A single Rust binary with OpenAI, Anthropic and Gemini compatible endpoints, WebSockets and a built-in dashboard.",
+    "topics": [
+      "api-gateway",
+      "claude",
+      "claude-code",
+      "codex",
+      "gemini",
+      "llm",
+      "openai",
+      "proxy",
+      "rust",
+      "websocket"
+    ],
+    "html_url": "https://github.com/IuCC123/CLIProxyAPI-Rust",
+    "stargazers_count": 34,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 3,
+    "created_at": "2026-10-02T09:07:53Z",
+    "updated_at": "2026-10-05T11:27:43Z",
+    "pushed_at": "2026-10-04T12:56:28Z"
+  },
+  {
+    "id": 1400180799,
+    "name": "codex-mobile-assistant",
+    "full_name": "Abyxs/codex-mobile-assistant",
+    "owner": {
+      "login": "Abyxs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129930528?v=4"
+    },
+    "description": "Codex 手机助手：Windows、Android、iOS 安装包与使用说明。手机同步对话、处理任务与传输项目文件。",
+    "topics": [
+      "android",
+      "codex",
+      "desktop-assistant",
+      "downloads",
+      "ios",
+      "mobile",
+      "windows"
+    ],
+    "html_url": "https://github.com/Abyxs/codex-mobile-assistant",
+    "stargazers_count": 31,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T14:48:38Z",
+    "updated_at": "2026-10-07T00:40:09Z",
+    "pushed_at": "2026-10-03T14:21:35Z"
+  }
+]

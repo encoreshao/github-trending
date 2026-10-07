@@ -1,0 +1,574 @@
+[
+  {
+    "id": 1405758674,
+    "name": "gitlab-pipelines-for-openchamber",
+    "full_name": "oroszgy/gitlab-pipelines-for-openchamber",
+    "owner": {
+      "login": "oroszgy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145334?v=4"
+    },
+    "description": "Read-only OpenChamber extension showing GitLab CI/CD pipelines for the open project.",
+    "topics": [
+      "ci",
+      "gitlab",
+      "gitlab-ci",
+      "openchamber",
+      "openchamber-extension",
+      "pipelines"
+    ],
+    "html_url": "https://github.com/oroszgy/gitlab-pipelines-for-openchamber",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 11,
+    "created_at": "2026-10-05T12:54:12Z",
+    "updated_at": "2026-10-06T14:15:34Z",
+    "pushed_at": "2026-10-06T14:15:29Z"
+  },
+  {
+    "id": 1402796249,
+    "name": "runner-disk-report",
+    "full_name": "DanilaZanin/runner-disk-report",
+    "owner": {
+      "login": "DanilaZanin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74046158?v=4"
+    },
+    "description": "Read-only report of what fills Docker's disk on a GitLab Runner host, attributed to projects where provable",
+    "topics": [
+      "cli",
+      "devops",
+      "disk-usage",
+      "docker",
+      "gitlab",
+      "gitlab-runner",
+      "golang",
+      "prometheus"
+    ],
+    "html_url": "https://github.com/DanilaZanin/runner-disk-report",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T07:06:32Z",
+    "updated_at": "2026-10-05T06:30:52Z",
+    "pushed_at": "2026-10-03T07:21:22Z"
+  },
+  {
+    "id": 1398151593,
+    "name": "crm-git-workflow",
+    "full_name": "jacksonsr451/crm-git-workflow",
+    "owner": {
+      "login": "jacksonsr451",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96794883?v=4"
+    },
+    "description": "Work management platform built on GitHub and GitLab issues, with tasks, sub-tasks, workflows, comments and real-time synchronization.",
+    "topics": [
+      "developer-tools",
+      "fastapi",
+      "github",
+      "gitlab",
+      "issue-tracking",
+      "kanban",
+      "nextjs",
+      "project-management",
+      "task-management",
+      "workflow"
+    ],
+    "html_url": "https://github.com/jacksonsr451/crm-git-workflow",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T13:59:11Z",
+    "updated_at": "2026-10-02T23:03:10Z",
+    "pushed_at": "2026-10-02T23:03:09Z"
+  },
+  {
+    "id": 1406759311,
+    "name": "touchmark",
+    "full_name": "bedrock-python/touchmark",
+    "owner": {
+      "login": "bedrock-python",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282949571?v=4"
+    },
+    "description": "Keep shared files in sync across many repositories through pull requests, without overwriting what a team has made its own.",
+    "topics": [
+      "cli",
+      "forgejo",
+      "gitea",
+      "github-actions",
+      "gitlab",
+      "go",
+      "pull-requests"
+    ],
+    "html_url": "https://github.com/bedrock-python/touchmark",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-06T05:41:18Z",
+    "updated_at": "2026-10-06T23:48:10Z",
+    "pushed_at": "2026-10-06T23:48:18Z"
+  },
+  {
+    "id": 1398326635,
+    "name": "ci-why",
+    "full_name": "DanilaZanin/ci-why",
+    "owner": {
+      "login": "DanilaZanin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74046158?v=4"
+    },
+    "description": "Explains which rule added or dropped a GitLab CI job, verified against a real GitLab",
+    "topics": [
+      "ci-cd",
+      "cli",
+      "devops",
+      "gitlab",
+      "gitlab-ci",
+      "golang",
+      "pipeline"
+    ],
+    "html_url": "https://github.com/DanilaZanin/ci-why",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T14:53:51Z",
+    "updated_at": "2026-10-05T06:30:05Z",
+    "pushed_at": "2026-09-30T14:55:24Z"
+  },
+  {
+    "id": 1406606019,
+    "name": "argus-gitlab-review",
+    "full_name": "duedue/argus-gitlab-review",
+    "owner": {
+      "login": "duedue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4694172?v=4"
+    },
+    "description": "Self-hosted AI code reviewer for GitLab merge requests — reviews with Claude Code on your own subscription and posts findings under your GitLab identity.",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "code-review",
+      "code-review-assistant-active",
+      "devtools",
+      "docker",
+      "gitlab",
+      "llm",
+      "merge-request",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/duedue/argus-gitlab-review",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T02:43:35Z",
+    "updated_at": "2026-10-06T07:14:07Z",
+    "pushed_at": "2026-10-06T07:14:03Z"
+  },
+  {
+    "id": 1404590632,
+    "name": "GitMax",
+    "full_name": "lembergmax/GitMax",
+    "owner": {
+      "login": "lembergmax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151883998?v=4"
+    },
+    "description": "Personal Git client for Android: link GitHub and GitLab, clone and update many repos into one folder, commit and push from your phone.",
+    "topics": [
+      "android",
+      "git",
+      "git-client",
+      "github",
+      "gitlab",
+      "java",
+      "jgit",
+      "material-design",
+      "mobile",
+      "ssh"
+    ],
+    "html_url": "https://github.com/lembergmax/GitMax",
+    "stargazers_count": 0,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T15:55:48Z",
+    "updated_at": "2026-10-04T15:56:04Z",
+    "pushed_at": "2026-10-06T20:16:25Z"
+  },
+  {
+    "id": 1396927722,
+    "name": "gitgram",
+    "full_name": "esauvisky/gitgram",
+    "owner": {
+      "login": "esauvisky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18354658?v=4"
+    },
+    "description": "GitLab and GitHub webhooks → Telegram cards that edit themselves. Self-hosted Integram replacement in Go.",
+    "topics": [
+      "ci-notifications",
+      "github",
+      "github-actions",
+      "github-webhooks",
+      "gitlab",
+      "gitlab-webhooks",
+      "golang",
+      "integram",
+      "telegram",
+      "telegram-bot"
+    ],
+    "html_url": "https://github.com/esauvisky/gitgram",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-09-30T03:44:16Z",
+    "updated_at": "2026-10-05T19:51:40Z",
+    "pushed_at": "2026-10-05T19:51:36Z"
+  },
+  {
+    "id": 1404102395,
+    "name": "sentryward",
+    "full_name": "rdlugs/sentryward",
+    "owner": {
+      "login": "rdlugs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54662095?v=4"
+    },
+    "description": "Self-hosted AI code reviewer with automated reviews, inline suggestions, and flexible support for cloud and local models.",
+    "topics": [
+      "ai",
+      "code-quality",
+      "code-review",
+      "code-review-assistant",
+      "code-reviews",
+      "github-app",
+      "gitlab",
+      "llm",
+      "pull-requests",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/rdlugs/sentryward",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-04T07:54:25Z",
+    "updated_at": "2026-10-06T11:34:25Z",
+    "pushed_at": "2026-10-06T11:24:25Z"
+  },
+  {
+    "id": 1402193515,
+    "name": "Conception-application",
+    "full_name": "Nawfal-Touzani/Conception-application",
+    "owner": {
+      "login": "Nawfal-Touzani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206593510?v=4"
+    },
+    "description": "Application web de gestion de projets — React, TypeScript, Spring Boot",
+    "topics": [
+      "docker",
+      "docker-compose",
+      "docker-container",
+      "docker-image",
+      "docker-images",
+      "docker-swarm",
+      "dockerfile",
+      "dockerfiles",
+      "dockerhub",
+      "dockstage",
+      "github",
+      "gitlab",
+      "react",
+      "react-hooks",
+      "react-native",
+      "react-router-dom",
+      "reactjs",
+      "readme",
+      "spring-boot",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Nawfal-Touzani/Conception-application",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T18:21:41Z",
+    "updated_at": "2026-10-02T18:36:41Z",
+    "pushed_at": "2026-10-02T18:36:37Z"
+  },
+  {
+    "id": 1399299670,
+    "name": "pr-agent",
+    "full_name": "sepehr071/pr-agent",
+    "owner": {
+      "login": "sepehr071",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52960282?v=4"
+    },
+    "description": "Seven AI reviewers on every GitLab merge request, one human who decides what gets posted. Multi-agent code review on n8n with a CTO dashboard.",
+    "topics": [
+      "code-review",
+      "gitlab",
+      "human-in-the-loop",
+      "llm",
+      "multi-agent",
+      "n8n",
+      "nextjs"
+    ],
+    "html_url": "https://github.com/sepehr071/pr-agent",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T06:25:43Z",
+    "updated_at": "2026-10-01T11:47:57Z",
+    "pushed_at": "2026-10-01T11:47:54Z"
+  },
+  {
+    "id": 1407148453,
+    "name": "markout",
+    "full_name": "hkmt-sw/markout",
+    "owner": {
+      "login": "hkmt-sw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63128388?v=4"
+    },
+    "description": "Markdown to DOCX/PDF converter with a terminal UI. Understands GitHub, GitLab, YouTrack, Azure DevOps, Obsidian, Pandoc and other Markdown flavors.",
+    "topics": [
+      "bubbletea",
+      "cli",
+      "converter",
+      "docx",
+      "gfm",
+      "gitlab",
+      "go",
+      "golang",
+      "markdown",
+      "obsidian",
+      "pandoc",
+      "pdf",
+      "tui"
+    ],
+    "html_url": "https://github.com/hkmt-sw/markout",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T11:06:53Z",
+    "updated_at": "2026-10-06T20:28:32Z",
+    "pushed_at": "2026-10-06T21:01:14Z"
+  },
+  {
+    "id": 1403633138,
+    "name": "chalk",
+    "full_name": "khalaharvi/chalk",
+    "owner": {
+      "login": "khalaharvi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1395393?v=4"
+    },
+    "description": "Chalk harness: run Claude Code agents unattended in sandboxes, with spend caps, test gates and human escalation.",
+    "topics": [
+      "agent-harness",
+      "ai-agents",
+      "bash",
+      "chalk-harness",
+      "claude-code",
+      "developer-tools",
+      "github",
+      "gitlab",
+      "homebrew"
+    ],
+    "html_url": "https://github.com/khalaharvi/chalk",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 36,
+    "created_at": "2026-10-03T21:00:28Z",
+    "updated_at": "2026-10-05T19:26:08Z",
+    "pushed_at": "2026-10-05T19:26:05Z"
+  },
+  {
+    "id": 1405016944,
+    "name": "gitlab-mcp",
+    "full_name": "mungowang/gitlab-mcp",
+    "owner": {
+      "login": "mungowang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16010337?v=4"
+    },
+    "description": "MCP server and CLI for a self-hosted GitLab CE 11.3 instance — merge-request review workflow: create, diff, line-level comments, resolve, merge",
+    "topics": [
+      "cli",
+      "gitlab",
+      "mcp",
+      "merge-request",
+      "model-context-protocol"
+    ],
+    "html_url": "https://github.com/mungowang/gitlab-mcp",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T02:33:12Z",
+    "updated_at": "2026-10-05T15:14:36Z",
+    "pushed_at": "2026-10-05T15:14:31Z"
+  },
+  {
+    "id": 1398432274,
+    "name": "SMTP2X",
+    "full_name": "wenisch-tech/SMTP2X",
+    "owner": {
+      "login": "wenisch-tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266538531?v=4"
+    },
+    "description": "SMTP2X is a self-hosted gateway for applications that can only send SMTP notifications, while their users need GitLab, GitHub, or Forgejo issues, messages in preferred app or webhooks instead of another email inbox. It accepts messages over SMTP, evaluates shared routing rules, stores a and delivers to target system.",
+    "topics": [
+      "github",
+      "gitlab",
+      "mattermost",
+      "notification-gateway",
+      "smtp",
+      "smtp-automation",
+      "smtp-relay",
+      "smtp-server",
+      "webhook"
+    ],
+    "html_url": "https://github.com/wenisch-tech/SMTP2X",
+    "stargazers_count": 0,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-09-30T16:08:10Z",
+    "updated_at": "2026-10-05T17:19:52Z",
+    "pushed_at": "2026-10-05T18:03:18Z"
+  },
+  {
+    "id": 1403633990,
+    "name": "scaling-journey",
+    "full_name": "OpenDuck-Research/scaling-journey",
+    "owner": {
+      "login": "OpenDuck-Research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323448832?v=4"
+    },
+    "description": "A research framework for the practical tradeoff between self-hosting, GitHub, and GitLab for security research and org software projects.",
+    "topics": [
+      "github",
+      "gitlab",
+      "linus-law",
+      "torproject"
+    ],
+    "html_url": "https://github.com/OpenDuck-Research/scaling-journey",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T21:01:46Z",
+    "updated_at": "2026-10-06T02:39:27Z",
+    "pushed_at": "2026-10-06T02:39:23Z"
+  },
+  {
+    "id": 1405517803,
+    "name": "money-review",
+    "full_name": "IanFoxDev/money-review",
+    "owner": {
+      "login": "IanFoxDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153639273?v=4"
+    },
+    "description": "Claude Code review for code that moves money: transactions, races, idempotency, money arithmetic. Runs on your subscription.",
+    "topics": [
+      "billing",
+      "claude-code",
+      "code-review",
+      "gitlab",
+      "idempotency",
+      "laravel",
+      "payments"
+    ],
+    "html_url": "https://github.com/IanFoxDev/money-review",
+    "stargazers_count": 0,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-10-05T09:44:20Z",
+    "updated_at": "2026-10-06T18:46:21Z",
+    "pushed_at": "2026-10-06T18:48:02Z"
+  },
+  {
+    "id": 1404104438,
+    "name": "gitlab-desktop",
+    "full_name": "ota-takeru/gitlab-desktop",
+    "owner": {
+      "login": "ota-takeru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66193990?v=4"
+    },
+    "description": "Windows向けの個人用GitLabクライアント。GitLab.com / Self-Managed、MRレビュー、キャッシュ、署名付き自動更新。",
+    "topics": [
+      "gitlab",
+      "tauri",
+      "windows"
+    ],
+    "html_url": "https://github.com/ota-takeru/gitlab-desktop",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T07:56:02Z",
+    "updated_at": "2026-10-04T12:57:26Z",
+    "pushed_at": "2026-10-04T12:57:23Z"
+  },
+  {
+    "id": 1405549584,
+    "name": "forgeapi",
+    "full_name": "cplieger/forgeapi",
+    "owner": {
+      "login": "cplieger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/917744?v=4"
+    },
+    "description": "One Go API for pull requests, issues, merges and checks on GitHub, GitLab, Gitea and Forgejo",
+    "topics": [
+      "api-client",
+      "forgejo",
+      "git-credential-helper",
+      "gitea",
+      "github",
+      "gitlab",
+      "go",
+      "oauth-device-flow",
+      "pull-requests",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/cplieger/forgeapi",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-05T10:12:24Z",
+    "updated_at": "2026-10-06T14:19:13Z",
+    "pushed_at": "2026-10-07T00:01:24Z"
+  },
+  {
+    "id": 1404931153,
+    "name": "herdr-glab-tasks",
+    "full_name": "alfonsodg/herdr-glab-tasks",
+    "owner": {
+      "login": "alfonsodg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/861056?v=4"
+    },
+    "description": "Herdr plugin for gitlab issues integration",
+    "topics": [
+      "gitlab",
+      "golang",
+      "herdr",
+      "herdr-plugin",
+      "issues",
+      "tui"
+    ],
+    "html_url": "https://github.com/alfonsodg/herdr-glab-tasks",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 22,
+    "created_at": "2026-10-05T00:01:40Z",
+    "updated_at": "2026-10-06T01:58:32Z",
+    "pushed_at": "2026-10-06T04:37:28Z"
+  }
+]
