@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1408120545,
+    "name": "zephon",
+    "full_name": "datologyai/zephon",
+    "owner": {
+      "login": "datologyai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146795414?v=4"
+    },
+    "description": "Fast, flexible, elastically deterministic data loading for foundation model training",
+    "topics": [
+      "data-loader",
+      "deep-learning",
+      "distributed-training",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/datologyai/zephon",
+    "stargazers_count": 49,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T01:59:41Z",
+    "updated_at": "2026-10-08T02:00:18Z",
+    "pushed_at": "2026-10-07T16:49:54Z"
+  },
+  {
+    "id": 1402344315,
+    "name": "genaiguide",
+    "full_name": "juanjo-barrientos/genaiguide",
+    "owner": {
+      "login": "juanjo-barrientos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147687566?v=4"
+    },
+    "description": "Guía gratuita de IA generativa avanzada en español (311 págs.): Transformer, post-entrenamiento, inferencia, GPU, difusión, agentes, seguridad. Free advanced generative AI guide in Spanish. CC0.",
+    "topics": [
+      "ai-agents",
+      "deep-learning",
+      "diffusion-models",
+      "espanol",
+      "free-book",
+      "generative-ai",
+      "inference",
+      "llm",
+      "machine-learning",
+      "reinforcement-learning",
+      "spanish",
+      "transformers"
+    ],
+    "html_url": "https://github.com/juanjo-barrientos/genaiguide",
+    "stargazers_count": 12,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T20:51:54Z",
+    "updated_at": "2026-10-04T02:59:09Z",
+    "pushed_at": "2026-10-02T20:57:04Z"
+  },
+  {
+    "id": 1408152368,
+    "name": "Autotrader",
+    "full_name": "PkLavc/Autotrader",
+    "owner": {
+      "login": "PkLavc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163757335?v=4"
+    },
+    "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
+    "topics": [
+      "ai-trading-system",
+      "algorithmic-trading-quantitative",
+      "artificial-intelligence",
+      "automated-trading-tool",
+      "deep-learning",
+      "finance",
+      "financial-machine-learning",
+      "github-actions",
+      "machine-learning",
+      "market-prediction",
+      "paper-trading-platform",
+      "portfolio-optimization",
+      "python",
+      "pytorch",
+      "quantitative-finance",
+      "quantitative-trading-tool",
+      "stock-market",
+      "stock-prediction",
+      "time-series-forecasting",
+      "trading-bot-ai-automated"
+    ],
+    "html_url": "https://github.com/PkLavc/Autotrader",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T02:43:14Z",
+    "updated_at": "2026-10-07T17:06:39Z",
+    "pushed_at": "2026-10-07T17:04:38Z"
+  },
+  {
+    "id": 1402264326,
+    "name": "self-play-pretrain-zero-data",
+    "full_name": "lucidrains/self-play-pretrain-zero-data",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of Self-Play Pretraining with Zero Data",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "pretraining",
+      "self-play",
+      "solomonoff-induction",
+      "synthetic-data"
+    ],
+    "html_url": "https://github.com/lucidrains/self-play-pretrain-zero-data",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T19:25:21Z",
+    "updated_at": "2026-10-07T14:39:24Z",
+    "pushed_at": "2026-10-07T14:39:18Z"
+  },
+  {
+    "id": 1400056146,
+    "name": "OTRetarget",
+    "full_name": "lucidrains/OTRetarget",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "optimal-transport",
+      "robotics"
+    ],
+    "html_url": "https://github.com/lucidrains/OTRetarget",
+    "stargazers_count": 5,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T13:38:10Z",
+    "updated_at": "2026-10-08T01:08:56Z",
+    "pushed_at": "2026-10-01T13:38:11Z"
+  },
+  {
+    "id": 1405933934,
+    "name": "HeroFig",
+    "full_name": "matteodisalvo/HeroFig",
+    "owner": {
+      "login": "matteodisalvo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116663822?v=4"
+    },
+    "description": "A visual desktop editor for creating publication-ready scientific figures, with domain-specific libraries, real-time collaboration, and export to PDF, SVG, PNG, and LaTeX/TikZ.",
+    "topics": [
+      "academic-papers",
+      "deep-learning",
+      "desktop-app",
+      "diagram-editor",
+      "electron",
+      "figures",
+      "latex",
+      "machine-learning",
+      "macos",
+      "research",
+      "scientific-figures",
+      "tikz",
+      "windows"
+    ],
+    "html_url": "https://github.com/matteodisalvo/HeroFig",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T14:52:12Z",
+    "updated_at": "2026-10-07T17:24:04Z",
+    "pushed_at": "2026-10-06T07:34:27Z"
+  },
+  {
+    "id": 1398926604,
+    "name": "cs336-blog",
+    "full_name": "tsingyuec/cs336-blog",
+    "owner": {
+      "login": "tsingyuec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52828870?v=4"
+    },
+    "description": "Stanford CS336《从头构建大语言模型》2026 中配版：18 篇中文技术博客 + 19 篇「图-字幕」原始文稿，基于 video2blog-skill 整理。",
+    "topics": [
+      "blog",
+      "chinese",
+      "deep-learning",
+      "language-model",
+      "llm",
+      "machine-learning",
+      "stanford-cs336",
+      "transformer",
+      "video2blog"
+    ],
+    "html_url": "https://github.com/tsingyuec/cs336-blog",
+    "stargazers_count": 4,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T02:03:22Z",
+    "updated_at": "2026-10-05T13:51:28Z",
+    "pushed_at": "2026-10-01T02:05:14Z"
+  },
+  {
+    "id": 1403555257,
+    "name": "Solar-Filament-Segmentation",
+    "full_name": "ali-119/Solar-Filament-Segmentation",
+    "owner": {
+      "login": "ali-119",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192454166?v=4"
+    },
+    "description": "Solar filament segmentation using U-Net architectures in TensorFlow/Keras, benchmarking custom CNN baseline vs. EfficientNetB0 transfer learning and fine-tuning.",
+    "topics": [
+      "cnn",
+      "cnn-model",
+      "deep-learning",
+      "fine-tuning",
+      "kaggle",
+      "kaggle-competition",
+      "keras",
+      "keras-tensorflow",
+      "machine-learning",
+      "magfilo",
+      "python",
+      "segmentation",
+      "sklearn",
+      "tensorflow",
+      "training",
+      "transfer-learning"
+    ],
+    "html_url": "https://github.com/ali-119/Solar-Filament-Segmentation",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T19:11:21Z",
+    "updated_at": "2026-10-05T22:10:27Z",
+    "pushed_at": "2026-10-05T15:55:06Z"
+  },
+  {
+    "id": 1402242652,
+    "name": "diatom-tdi",
+    "full_name": "Zar-Manah/diatom-tdi",
+    "owner": {
+      "login": "Zar-Manah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336996184?v=4"
+    },
+    "description": "🤖 AI model that measures water purity from microscopy images via deep-learning Trophic Diatom Index (TDI) estimation. Crafted in Spain 🇪🇸.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "diatoms",
+      "limnology",
+      "madrid",
+      "open-science",
+      "spain",
+      "spanish-rivers",
+      "water-framework-directive",
+      "water-quality"
+    ],
+    "html_url": "https://github.com/Zar-Manah/diatom-tdi",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T19:03:13Z",
+    "updated_at": "2026-10-07T00:33:26Z",
+    "pushed_at": "2026-10-05T02:51:38Z"
+  },
+  {
+    "id": 1401295109,
+    "name": "CNN-Skin-Cancer-Diagnosis",
+    "full_name": "AYazdan21/CNN-Skin-Cancer-Diagnosis",
+    "owner": {
+      "login": "AYazdan21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160792338?v=4"
+    },
+    "description": "Automated dermatological lesion classification on HAM10000 in PyTorch. Paper reproduction (BMC Medical Imaging 2024) and EfficientNet-B0 transfer learning benchmark.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "ham10000",
+      "medical-imaging",
+      "pytorch",
+      "skin-cancer-detection"
+    ],
+    "html_url": "https://github.com/AYazdan21/CNN-Skin-Cancer-Diagnosis",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T07:13:53Z",
+    "updated_at": "2026-10-03T10:18:56Z",
+    "pushed_at": "2026-10-02T12:55:41Z"
+  },
+  {
+    "id": 1402100984,
+    "name": "sleeptrain",
+    "full_name": "Anri-Lombard/sleeptrain",
+    "owner": {
+      "login": "Anri-Lombard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76818211?v=4"
+    },
+    "description": "Claude watches your training runs so you can sleep. A Claude Code plugin for one run or a whole SLURM sweep: catches NaNs, exploding grads, OOMs, crashes, hangs and dead jobs, resumes from a safe checkpoint, and leaves you a morning report.",
+    "topics": [
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "deep-learning",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "pytorch",
+      "slurm",
+      "training"
+    ],
+    "html_url": "https://github.com/Anri-Lombard/sleeptrain",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T16:59:23Z",
+    "updated_at": "2026-10-05T21:41:26Z",
+    "pushed_at": "2026-10-04T18:00:53Z"
+  },
+  {
+    "id": 1399022970,
+    "name": "glass-box",
+    "full_name": "gmdkaio/glass-box",
+    "owner": {
+      "login": "gmdkaio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137928811?v=4"
+    },
+    "description": "Interactive simulations of how AI systems work, with the math behind each one and the caveats on where toy models stop matching real LLMs.",
+    "topics": [
+      "c",
+      "deep-learning",
+      "emscripten",
+      "fine-tuning",
+      "llm",
+      "lora",
+      "neural-network",
+      "quantization",
+      "simulation",
+      "webassembly"
+    ],
+    "html_url": "https://github.com/gmdkaio/glass-box",
+    "stargazers_count": 2,
+    "language": "Svelte",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T03:35:30Z",
+    "updated_at": "2026-10-07T22:40:27Z",
+    "pushed_at": "2026-10-07T18:38:27Z"
+  },
+  {
+    "id": 1399803196,
+    "name": "Assetmind-AI",
+    "full_name": "mirzayasirabdullahbaig07/Assetmind-AI",
+    "owner": {
+      "login": "mirzayasirabdullahbaig07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194883236?v=4"
+    },
+    "description": "AssetMind is a digital memory and lifecycle system for physical office assets — not just an inventory tracker. Every asset at the fictional software house Nexora Technologies (desktops, laptops, chairs, monitors, and more) gets a permanent digital identity that remembers everything that ever happens to it: assignment, maintenance.",
+    "topics": [
+      "deep-learning",
+      "devpost",
+      "groq-api",
+      "machine-learning",
+      "python",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/mirzayasirabdullahbaig07/Assetmind-AI",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T11:09:36Z",
+    "updated_at": "2026-10-07T17:18:00Z",
+    "pushed_at": "2026-10-01T14:19:27Z"
+  },
+  {
+    "id": 1401328282,
+    "name": "foodclassifier",
+    "full_name": "vaibhav07772/foodclassifier",
+    "owner": {
+      "login": "vaibhav07772",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211461601?v=4"
+    },
+    "description": "🍕 Recognize 20 Indian food items using MobileNetV2 transfer learning + Streamlit",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "food-recognition",
+      "image-classification",
+      "indian-food",
+      "keras",
+      "machine-learning",
+      "mobilenetv2",
+      "python",
+      "streamlit",
+      "tensorflow",
+      "transfer-learning"
+    ],
+    "html_url": "https://github.com/vaibhav07772/foodclassifier",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T07:42:28Z",
+    "updated_at": "2026-10-02T08:00:52Z",
+    "pushed_at": "2026-10-02T07:43:49Z"
+  },
+  {
+    "id": 1403228767,
+    "name": "sencelium",
+    "full_name": "vitaliihalak/sencelium",
+    "owner": {
+      "login": "vitaliihalak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208174745?v=4"
+    },
+    "description": "Non-Transformer language model with a living, self-growing memory — gated-delta-rule blocks, inner voice loop, memory pool that keeps learning after training.",
+    "topics": [
+      "deep-learning",
+      "language-model",
+      "machine-learning",
+      "memory-augmented-neural-networks",
+      "nlp",
+      "pytorch",
+      "pytorch-lightning",
+      "recurrent-neural-networks",
+      "research"
+    ],
+    "html_url": "https://github.com/vitaliihalak/sencelium",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T13:47:12Z",
+    "updated_at": "2026-10-05T06:46:47Z",
+    "pushed_at": "2026-10-05T06:46:43Z"
+  },
+  {
+    "id": 1404357110,
+    "name": "FreshLens",
+    "full_name": "vandat-snk/FreshLens",
+    "owner": {
+      "login": "vandat-snk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227838884?v=4"
+    },
+    "description": "FreshLens — Modular EfficientNet-B0 fruit freshness classification with open-set rejection, reproducible training/evaluation, and Streamlit inference.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "efficientnet",
+      "fruit-classification",
+      "image-classification",
+      "open-set-recognition",
+      "pytorch",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/vandat-snk/FreshLens",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-04T12:14:02Z",
+    "updated_at": "2026-10-06T09:45:04Z",
+    "pushed_at": "2026-10-07T16:38:11Z"
+  },
+  {
+    "id": 1402416794,
+    "name": "AlphaZero-Chess",
+    "full_name": "colinHuang314/AlphaZero-Chess",
+    "owner": {
+      "login": "colinHuang314",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182702963?v=4"
+    },
+    "description": "AlphaZero-style chess engine in PyTorch: SE-ResNet policy/value net guiding batched MCTS with Syzygy tablebases, pretrained on Lichess games then self-play.",
+    "topics": [
+      "alphazero",
+      "chess",
+      "chess-ai",
+      "chess-engine",
+      "deep-learning",
+      "mcts",
+      "monte-carlo-tree-search",
+      "python-chess",
+      "pytorch",
+      "reinforcement-learning",
+      "self-play",
+      "syzygy"
+    ],
+    "html_url": "https://github.com/colinHuang314/AlphaZero-Chess",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T22:27:53Z",
+    "updated_at": "2026-10-03T04:20:11Z",
+    "pushed_at": "2026-10-03T03:51:39Z"
+  },
+  {
+    "id": 1403396850,
+    "name": "Rice-AI-System---ACM-project",
+    "full_name": "Mayukh-Bhattacharyya/Rice-AI-System---ACM-project",
+    "owner": {
+      "login": "Mayukh-Bhattacharyya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220001800?v=4"
+    },
+    "description": "A professional, production-grade AI platform for rice crop analysis combining segmentation, disease detection, and variety classification into an intelligent pipeline.",
+    "topics": [
+      "computer-vision",
+      "crop-analysis",
+      "deep-learning",
+      "disease-detection",
+      "fastapi",
+      "image-classification",
+      "image-segmentation",
+      "keras",
+      "react",
+      "rice-ai",
+      "smart-agriculture",
+      "tailwindcss",
+      "tensorflow",
+      "vite"
+    ],
+    "html_url": "https://github.com/Mayukh-Bhattacharyya/Rice-AI-System---ACM-project",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T16:19:35Z",
+    "updated_at": "2026-10-06T21:43:36Z",
+    "pushed_at": "2026-10-03T16:21:26Z"
+  },
+  {
+    "id": 1400455396,
+    "name": "GPT-from-scratch",
+    "full_name": "AmberSahdev/GPT-from-scratch",
+    "owner": {
+      "login": "AmberSahdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23853621?v=4"
+    },
+    "description": "Building GPT locally from scratch. ",
+    "topics": [
+      "attention-mechanism",
+      "deep-learning",
+      "gpt",
+      "neural-network",
+      "pytorch",
+      "reinforcement-learning",
+      "transformers"
+    ],
+    "html_url": "https://github.com/AmberSahdev/GPT-from-scratch",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T17:24:56Z",
+    "updated_at": "2026-10-03T00:27:24Z",
+    "pushed_at": "2026-10-03T00:27:21Z"
+  },
+  {
+    "id": 1399179430,
+    "name": "fall-detection-pose-based",
+    "full_name": "azzurragiordano/fall-detection-pose-based",
+    "owner": {
+      "login": "azzurragiordano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336372648?v=4"
+    },
+    "description": "Pose-based human fall detection from 360° video using YOLO pose estimation and temporal deep-learning models.",
+    "topics": [
+      "360-video",
+      "computer-vision",
+      "deep-learning",
+      "fall-detection",
+      "human-pose-estimation",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/azzurragiordano/fall-detection-pose-based",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T05:19:39Z",
+    "updated_at": "2026-10-02T20:14:53Z",
+    "pushed_at": "2026-10-02T09:15:18Z"
+  }
+]

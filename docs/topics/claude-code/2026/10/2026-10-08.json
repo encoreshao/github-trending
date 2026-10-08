@@ -1,0 +1,617 @@
+[
+  {
+    "id": 1401476500,
+    "name": "answer-me-with-html",
+    "full_name": "QingYunA/answer-me-with-html",
+    "owner": {
+      "login": "QingYunA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41177312?v=4"
+    },
+    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "topics": [
+      "agent-skill",
+      "ai-agent",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skill",
+      "claude-skills",
+      "cli",
+      "diagram",
+      "explainer",
+      "html",
+      "llm",
+      "ste100"
+    ],
+    "html_url": "https://github.com/QingYunA/answer-me-with-html",
+    "stargazers_count": 2073,
+    "language": "JavaScript",
+    "forks_count": 140,
+    "open_issues_count": 8,
+    "created_at": "2026-10-02T09:57:40Z",
+    "updated_at": "2026-10-08T01:59:12Z",
+    "pushed_at": "2026-10-07T15:39:58Z"
+  },
+  {
+    "id": 1403115747,
+    "name": "replica-skill",
+    "full_name": "Jakeschincariol/replica-skill",
+    "owner": {
+      "login": "Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+    },
+    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+    "topics": [
+      "agent",
+      "agent-skills",
+      "app-clone",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "indie-hacker",
+      "reverse-engineering",
+      "saas"
+    ],
+    "html_url": "https://github.com/Jakeschincariol/replica-skill",
+    "stargazers_count": 877,
+    "language": "Python",
+    "forks_count": 103,
+    "open_issues_count": 4,
+    "created_at": "2026-10-03T12:07:49Z",
+    "updated_at": "2026-10-08T01:55:24Z",
+    "pushed_at": "2026-10-03T12:07:53Z"
+  },
+  {
+    "id": 1403847264,
+    "name": "mesh-avatar-studio",
+    "full_name": "shinshin86/mesh-avatar-studio",
+    "owner": {
+      "login": "shinshin86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8216064?v=4"
+    },
+    "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+    "topics": [
+      "2d-animation",
+      "avatar",
+      "claude-code",
+      "codex",
+      "mesh-deformation",
+      "vtuber",
+      "webgl"
+    ],
+    "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
+    "stargazers_count": 462,
+    "language": "TypeScript",
+    "forks_count": 60,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T03:33:57Z",
+    "updated_at": "2026-10-08T01:27:22Z",
+    "pushed_at": "2026-10-07T10:06:32Z"
+  },
+  {
+    "id": 1405965779,
+    "name": "mortiflix-oss",
+    "full_name": "GTKottman/mortiflix-oss",
+    "owner": {
+      "login": "GTKottman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259927371?v=4"
+    },
+    "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "harness",
+      "motion-design",
+      "remotion",
+      "video",
+      "video-production"
+    ],
+    "html_url": "https://github.com/GTKottman/mortiflix-oss",
+    "stargazers_count": 390,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 3,
+    "created_at": "2026-10-05T15:15:13Z",
+    "updated_at": "2026-10-08T01:57:57Z",
+    "pushed_at": "2026-10-07T06:57:15Z"
+  },
+  {
+    "id": 1401219750,
+    "name": "openqodex",
+    "full_name": "openqodex/openqodex",
+    "owner": {
+      "login": "openqodex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336816094?v=4"
+    },
+    "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-code-review",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "cline",
+      "code-quality",
+      "code-review",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "github-actions",
+      "linter",
+      "pre-commit",
+      "sast",
+      "secret-scanning",
+      "security",
+      "security-tools",
+      "static-analysis"
+    ],
+    "html_url": "https://github.com/openqodex/openqodex",
+    "stargazers_count": 274,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 6,
+    "created_at": "2026-10-02T06:19:06Z",
+    "updated_at": "2026-10-08T01:46:38Z",
+    "pushed_at": "2026-10-07T00:04:37Z"
+  },
+  {
+    "id": 1399413068,
+    "name": "official-mcp-servers",
+    "full_name": "VoltAgent/official-mcp-servers",
+    "owner": {
+      "login": "VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "description": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
+    "topics": [
+      "ai-tools",
+      "awesome-list",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "mcp",
+      "mcp-server",
+      "mcp-servers",
+      "model-context-protocol"
+    ],
+    "html_url": "https://github.com/VoltAgent/official-mcp-servers",
+    "stargazers_count": 219,
+    "language": null,
+    "forks_count": 30,
+    "open_issues_count": 1,
+    "created_at": "2026-10-01T07:30:34Z",
+    "updated_at": "2026-10-08T01:25:07Z",
+    "pushed_at": "2026-10-06T10:08:29Z"
+  },
+  {
+    "id": 1403731980,
+    "name": "animate",
+    "full_name": "cth9191/animate",
+    "owner": {
+      "login": "cth9191",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129889057?v=4"
+    },
+    "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
+    "topics": [
+      "animation",
+      "canvas",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "explainer-video",
+      "generative-art",
+      "motion-graphics",
+      "procedural-animation",
+      "storyboard"
+    ],
+    "html_url": "https://github.com/cth9191/animate",
+    "stargazers_count": 162,
+    "language": "JavaScript",
+    "forks_count": 22,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T00:05:25Z",
+    "updated_at": "2026-10-08T01:37:32Z",
+    "pushed_at": "2026-10-05T20:31:48Z"
+  },
+  {
+    "id": 1401760850,
+    "name": "claude-code-mods",
+    "full_name": "hamzafer/claude-code-mods",
+    "owner": {
+      "login": "hamzafer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45764331?v=4"
+    },
+    "description": "Claude Code mods: plugins built on hooks that add live lines above the prompt, guards, panes and games. Context bar, usage meter, Codex review watch, Markdown preview, Spotify now playing and more.",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-mod",
+      "claude-code-mods",
+      "claude-code-plugins",
+      "developer-tools",
+      "terminal"
+    ],
+    "html_url": "https://github.com/hamzafer/claude-code-mods",
+    "stargazers_count": 138,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-10-02T13:15:06Z",
+    "updated_at": "2026-10-08T00:21:51Z",
+    "pushed_at": "2026-10-07T14:17:40Z"
+  },
+  {
+    "id": 1404158154,
+    "name": "qiaomu-codex-imagegen",
+    "full_name": "joeseesun/qiaomu-codex-imagegen",
+    "owner": {
+      "login": "joeseesun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+    },
+    "description": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "image-generation",
+      "mcp",
+      "poster-design",
+      "xiaohongshu"
+    ],
+    "html_url": "https://github.com/joeseesun/qiaomu-codex-imagegen",
+    "stargazers_count": 110,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T08:47:02Z",
+    "updated_at": "2026-10-07T09:36:51Z",
+    "pushed_at": "2026-10-04T09:34:49Z"
+  },
+  {
+    "id": 1400880712,
+    "name": "intermission",
+    "full_name": "jarrodwatts/intermission",
+    "owner": {
+      "login": "jarrodwatts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+    },
+    "description": "Play Doom deathmatch while Claude works. A Claude Code plugin.",
+    "topics": [
+      "claude-code",
+      "claude-code-plugin",
+      "doom",
+      "freedoom",
+      "ghostty",
+      "kitty",
+      "macos",
+      "multiplayer",
+      "odamex",
+      "terminal"
+    ],
+    "html_url": "https://github.com/jarrodwatts/intermission",
+    "stargazers_count": 106,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 2,
+    "created_at": "2026-10-02T01:04:14Z",
+    "updated_at": "2026-10-07T18:03:41Z",
+    "pushed_at": "2026-10-02T04:15:08Z"
+  },
+  {
+    "id": 1404748076,
+    "name": "brand-identity-skill",
+    "full_name": "fatihaydost/brand-identity-skill",
+    "owner": {
+      "login": "fatihaydost",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93138685?v=4"
+    },
+    "description": "A Claude Code skill that designs a brand identity as one system: logo, typography and colour palette built together from one brief, measured, compared as identity cards, and delivered as a brand guidelines kit.",
+    "topics": [
+      "accessibility",
+      "agent-skills",
+      "agy",
+      "brand",
+      "brand-identity",
+      "branding",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "color",
+      "color-palette",
+      "design-tokens",
+      "font",
+      "logo",
+      "logo-design",
+      "skills",
+      "typography"
+    ],
+    "html_url": "https://github.com/fatihaydost/brand-identity-skill",
+    "stargazers_count": 102,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T19:00:50Z",
+    "updated_at": "2026-10-07T23:53:12Z",
+    "pushed_at": "2026-10-04T23:28:45Z"
+  },
+  {
+    "id": 1403810477,
+    "name": "ai-iso-skill",
+    "full_name": "MrBongoC/ai-iso-skill",
+    "owner": {
+      "login": "MrBongoC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91344858?v=4"
+    },
+    "description": "Claude skill that draws interactive isometric figures in a single HTML file",
+    "topics": [
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "isometric",
+      "svg"
+    ],
+    "html_url": "https://github.com/MrBongoC/ai-iso-skill",
+    "stargazers_count": 96,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-10-04T02:38:15Z",
+    "updated_at": "2026-10-08T01:56:10Z",
+    "pushed_at": "2026-10-04T02:52:27Z"
+  },
+  {
+    "id": 1407754231,
+    "name": "motionmaxxing",
+    "full_name": "Tejashmakwana/motionmaxxing",
+    "owner": {
+      "login": "Tejashmakwana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89969328?v=4"
+    },
+    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "claude-code",
+      "gsap",
+      "hyperframes",
+      "motion-graphics",
+      "motionmaxxing",
+      "video"
+    ],
+    "html_url": "https://github.com/Tejashmakwana/motionmaxxing",
+    "stargazers_count": 85,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T18:18:49Z",
+    "updated_at": "2026-10-07T23:30:46Z",
+    "pushed_at": "2026-10-06T18:20:43Z"
+  },
+  {
+    "id": 1408082051,
+    "name": "founder-skill",
+    "full_name": "Jakeschincariol/founder-skill",
+    "owner": {
+      "login": "Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+    },
+    "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+    "topics": [
+      "business-plan",
+      "claude-code",
+      "claude-skills",
+      "startup",
+      "subagents",
+      "unit-economics"
+    ],
+    "html_url": "https://github.com/Jakeschincariol/founder-skill",
+    "stargazers_count": 78,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T01:07:13Z",
+    "updated_at": "2026-10-08T00:42:31Z",
+    "pushed_at": "2026-10-07T01:07:17Z"
+  },
+  {
+    "id": 1400030485,
+    "name": "tweetytweets",
+    "full_name": "vedantdhande04/tweetytweets",
+    "owner": {
+      "login": "vedantdhande04",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76739690?v=4"
+    },
+    "description": "Autonomous X/Twitter posting pipeline for your AI agent. No API key, no paid scrapers: researches your niche, writes in your voice, publishes through a real browser, and verifies its own posts.",
+    "topics": [
+      "ai-agent",
+      "automation",
+      "browser-automation",
+      "claude-code",
+      "content-automation",
+      "mit-license",
+      "no-api",
+      "twitter",
+      "x"
+    ],
+    "html_url": "https://github.com/vedantdhande04/tweetytweets",
+    "stargazers_count": 62,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 1,
+    "created_at": "2026-10-01T13:21:53Z",
+    "updated_at": "2026-10-07T15:18:12Z",
+    "pushed_at": "2026-10-02T17:05:13Z"
+  },
+  {
+    "id": 1400046300,
+    "name": "ThinkTerm",
+    "full_name": "RoversX/ThinkTerm",
+    "owner": {
+      "login": "RoversX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85817538?v=4"
+    },
+    "description": "A modern terminal with a built-in multiplexer: close it and your sessions keep running. Run shells and tons of AI agents across your machines, then pick them up from desktop, browser, TUI and more. Written in Rust with no UI framework: interface drawn straight on the GPU. No Electron, GPUI or webview.",
+    "topics": [
+      "agent",
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "linux",
+      "macos",
+      "multiplayer",
+      "multiplexer",
+      "rust",
+      "terminal",
+      "terminal-emulator",
+      "terminal-multiplexer",
+      "tmux",
+      "tui",
+      "wezterm",
+      "windows"
+    ],
+    "html_url": "https://github.com/RoversX/ThinkTerm",
+    "stargazers_count": 59,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 3,
+    "created_at": "2026-10-01T13:32:20Z",
+    "updated_at": "2026-10-08T01:14:57Z",
+    "pushed_at": "2026-10-07T11:54:38Z"
+  },
+  {
+    "id": 1404241499,
+    "name": "vocaloid-style-mv-pipeline",
+    "full_name": "EGSECDA/vocaloid-style-mv-pipeline",
+    "owner": {
+      "login": "EGSECDA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128212024?v=4"
+    },
+    "description": "Production pipeline and Claude Code skill for Vocaloid-style hand-drawn (手書き) lyric music videos: deterministic Canvas2D/WebGL2 animation engine, JIZURA lyric motion, AI illustration, Blender toon 3D, headless rendering to 16:9 and 9:16.",
+    "topics": [
+      "animation",
+      "anime",
+      "blender",
+      "canvas",
+      "claude-code",
+      "claude-skill",
+      "ffmpeg",
+      "kinetic-typography",
+      "lyric-video",
+      "motion-graphics",
+      "music-video",
+      "playwright",
+      "vocaloid",
+      "webgl"
+    ],
+    "html_url": "https://github.com/EGSECDA/vocaloid-style-mv-pipeline",
+    "stargazers_count": 58,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T10:23:26Z",
+    "updated_at": "2026-10-08T01:29:42Z",
+    "pushed_at": "2026-10-04T11:38:15Z"
+  },
+  {
+    "id": 1402224782,
+    "name": "BashCut",
+    "full_name": "dongnguyenvie/BashCut",
+    "owner": {
+      "login": "dongnguyenvie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42445585?v=4"
+    },
+    "description": "Native macOS video editor that coding agents can drive: everything the UI does, Claude Code and Codex can do through the bashcut CLI or MCP server. Layered timeline, captions, voiceover, plugins.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "apple-silicon",
+      "bashcut",
+      "captions",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "homebrew-cask",
+      "macos",
+      "macos-app",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "plugins",
+      "swift",
+      "swiftui",
+      "video-editing",
+      "video-editor"
+    ],
+    "html_url": "https://github.com/dongnguyenvie/BashCut",
+    "stargazers_count": 55,
+    "language": "Swift",
+    "forks_count": 19,
+    "open_issues_count": 49,
+    "created_at": "2026-10-02T18:46:34Z",
+    "updated_at": "2026-10-08T00:19:48Z",
+    "pushed_at": "2026-10-07T20:34:54Z"
+  },
+  {
+    "id": 1399956919,
+    "name": "beatdeck",
+    "full_name": "borjaperfra/beatdeck",
+    "owner": {
+      "login": "borjaperfra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136318479?v=4"
+    },
+    "description": "Talks as beats, not slides: a fixed 1920×1080 React stage where one click is one beat. Offline, deterministic, presenter view, and a Claude Code skill.",
+    "topics": [
+      "claude-code",
+      "claude-skill",
+      "gsap",
+      "presentation",
+      "react",
+      "slides",
+      "talk"
+    ],
+    "html_url": "https://github.com/borjaperfra/beatdeck",
+    "stargazers_count": 54,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-10-01T12:40:27Z",
+    "updated_at": "2026-10-08T01:47:44Z",
+    "pushed_at": "2026-10-01T18:55:53Z"
+  },
+  {
+    "id": 1401725212,
+    "name": "token-tv",
+    "full_name": "click6067-ship-it/token-tv",
+    "owner": {
+      "login": "click6067-ship-it",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226941778?v=4"
+    },
+    "description": "Turn a ~$5 AliExpress clock into a physical AI usage dashboard (Claude, Codex, multi-account). Zero-flash where possible.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "desk-clock",
+      "geekmagic",
+      "python",
+      "smalltv",
+      "usage-monitor"
+    ],
+    "html_url": "https://github.com/click6067-ship-it/token-tv",
+    "stargazers_count": 54,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 7,
+    "created_at": "2026-10-02T12:54:10Z",
+    "updated_at": "2026-10-07T21:51:29Z",
+    "pushed_at": "2026-10-04T08:54:48Z"
+  }
+]

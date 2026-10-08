@@ -1,0 +1,613 @@
+[
+  {
+    "id": 1403307052,
+    "name": "artex-ko",
+    "full_name": "jiwoochris/artex-ko",
+    "owner": {
+      "login": "jiwoochris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83687471?v=4"
+    },
+    "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+    "topics": [
+      "ai-agent",
+      "autonomous-agents",
+      "blue-team",
+      "cybersecurity",
+      "detection-engineering",
+      "i18n",
+      "korean",
+      "llm",
+      "penetration-testing",
+      "security",
+      "security-research",
+      "security-tools",
+      "sigma-rules",
+      "threat-detection"
+    ],
+    "html_url": "https://github.com/jiwoochris/artex-ko",
+    "stargazers_count": 285,
+    "language": "Go",
+    "forks_count": 124,
+    "open_issues_count": 1,
+    "created_at": "2026-10-03T14:49:48Z",
+    "updated_at": "2026-10-08T01:55:43Z",
+    "pushed_at": "2026-10-08T01:42:18Z"
+  },
+  {
+    "id": 1401219750,
+    "name": "openqodex",
+    "full_name": "openqodex/openqodex",
+    "owner": {
+      "login": "openqodex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336816094?v=4"
+    },
+    "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-code-review",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "cline",
+      "code-quality",
+      "code-review",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "github-actions",
+      "linter",
+      "pre-commit",
+      "sast",
+      "secret-scanning",
+      "security",
+      "security-tools",
+      "static-analysis"
+    ],
+    "html_url": "https://github.com/openqodex/openqodex",
+    "stargazers_count": 274,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 6,
+    "created_at": "2026-10-02T06:19:06Z",
+    "updated_at": "2026-10-08T01:46:38Z",
+    "pushed_at": "2026-10-07T00:04:37Z"
+  },
+  {
+    "id": 1402328864,
+    "name": "box",
+    "full_name": "strands-agents/box",
+    "owner": {
+      "login": "strands-agents",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209155962?v=4"
+    },
+    "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-safety",
+      "containment",
+      "egress",
+      "harness",
+      "linux",
+      "llm",
+      "macos",
+      "mcp",
+      "policy",
+      "rust",
+      "sandbox",
+      "sandboxing",
+      "seatbelt",
+      "security",
+      "strands-agents",
+      "zero-trust"
+    ],
+    "html_url": "https://github.com/strands-agents/box",
+    "stargazers_count": 91,
+    "language": "Rust",
+    "forks_count": 4,
+    "open_issues_count": 7,
+    "created_at": "2026-10-02T20:34:08Z",
+    "updated_at": "2026-10-08T02:00:16Z",
+    "pushed_at": "2026-10-08T02:00:16Z"
+  },
+  {
+    "id": 1400039535,
+    "name": "witness-vault",
+    "full_name": "Hamidooh/witness-vault",
+    "owner": {
+      "login": "Hamidooh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121404750?v=4"
+    },
+    "description": "Zero-install, air-gapped, self-decrypting HTML vaults using AES-256-GCM and native WebCrypto.",
+    "topics": [
+      "aes-256-gcm",
+      "air-gapped",
+      "cryptography",
+      "offline-first",
+      "phython",
+      "privacy",
+      "security",
+      "vault",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/Hamidooh/witness-vault",
+    "stargazers_count": 43,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-01T13:28:07Z",
+    "updated_at": "2026-10-07T19:06:27Z",
+    "pushed_at": "2026-10-01T13:30:33Z"
+  },
+  {
+    "id": 1404566213,
+    "name": "VD-Google",
+    "full_name": "VD171/VD-Google",
+    "owner": {
+      "login": "VD171",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80125987?v=4"
+    },
+    "description": "Your Google services (RCS, Google Wallet, Play Integrity attestations) read on-device. No internet, root required.",
+    "topics": [
+      "android",
+      "attestation",
+      "google-wallet",
+      "jetpack-compose",
+      "kernelsu",
+      "kotlin",
+      "lsposed",
+      "magisk",
+      "material3",
+      "nfc",
+      "no-internet",
+      "play-integrity",
+      "privacy",
+      "rcs",
+      "root",
+      "security",
+      "vdgoogle"
+    ],
+    "html_url": "https://github.com/VD171/VD-Google",
+    "stargazers_count": 41,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T15:28:34Z",
+    "updated_at": "2026-10-07T06:21:14Z",
+    "pushed_at": "2026-10-05T12:27:30Z"
+  },
+  {
+    "id": 1407072843,
+    "name": "securify",
+    "full_name": "Hamidooh/securify",
+    "owner": {
+      "login": "Hamidooh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121404750?v=4"
+    },
+    "description": "High-speed web security auditor & DevSecOps dashboard for SSL, HTTP headers, DNS defenses, and port exposure.",
+    "topics": [
+      "devsecops",
+      "react19",
+      "security"
+    ],
+    "html_url": "https://github.com/Hamidooh/securify",
+    "stargazers_count": 22,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T10:00:48Z",
+    "updated_at": "2026-10-07T19:06:30Z",
+    "pushed_at": "2026-10-06T12:37:18Z"
+  },
+  {
+    "id": 1404802284,
+    "name": "M365",
+    "full_name": "omer-eltayeb/M365",
+    "owner": {
+      "login": "omer-eltayeb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166176279?v=4"
+    },
+    "description": "M365 PowerShell scripts for Microsoft 365 administration: Intune, Entra ID, Defender, Exchange Online, Purview, Teams, SharePoint and tenant management. Microsoft Graph and modern modules only, read-only by default, -WhatIf on every change, full comment-based help.",
+    "topics": [
+      "conditional-access",
+      "endpoint-management",
+      "entra-id",
+      "entra-id-governance",
+      "exchange-online",
+      "intune",
+      "microsoft-azure",
+      "microsoft-defender",
+      "microsoft-defender-for-cloud",
+      "microsoft-defender-for-endpoint",
+      "microsoft-defender-for-office-365",
+      "microsoft-defender-xdr",
+      "microsoft-graph",
+      "microsoft-intune",
+      "microsoft-purview",
+      "microsoft-sentinel",
+      "microsoft-teams",
+      "security",
+      "sharepoint-online",
+      "windows-autopilot"
+    ],
+    "html_url": "https://github.com/omer-eltayeb/M365",
+    "stargazers_count": 22,
+    "language": "PowerShell",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T20:14:41Z",
+    "updated_at": "2026-10-08T01:39:57Z",
+    "pushed_at": "2026-10-04T20:50:15Z"
+  },
+  {
+    "id": 1401229860,
+    "name": "Seep-Tool",
+    "full_name": "angusdevgo/Seep-Tool",
+    "owner": {
+      "login": "angusdevgo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89133686?v=4"
+    },
+    "description": "CWE-602 客户端鉴权脆弱性白盒审计方法论与纵深防御加固研究框架",
+    "topics": [
+      "appsec",
+      "client-side-security",
+      "cwe-602",
+      "defense-in-depth",
+      "documentation",
+      "ed25519",
+      "responsible-disclosure",
+      "security",
+      "security-audit",
+      "vulnerability-research"
+    ],
+    "html_url": "https://github.com/angusdevgo/Seep-Tool",
+    "stargazers_count": 17,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-10-02T06:27:57Z",
+    "updated_at": "2026-10-07T10:09:07Z",
+    "pushed_at": "2026-10-02T13:04:31Z"
+  },
+  {
+    "id": 1401406896,
+    "name": "OpenRod",
+    "full_name": "OpenRod/OpenRod",
+    "owner": {
+      "login": "OpenRod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336854237?v=4"
+    },
+    "description": "One-click sandboxes for AI agents, with egress policy, MCPs, skills and audit. Built on NVIDIA OpenShell.",
+    "topics": [
+      "ai-agents",
+      "coding-agents",
+      "developer-tools",
+      "egress",
+      "mcp",
+      "nvidia-openshell",
+      "openshell",
+      "sandbox",
+      "security",
+      "web-console"
+    ],
+    "html_url": "https://github.com/OpenRod/OpenRod",
+    "stargazers_count": 14,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-02T08:49:40Z",
+    "updated_at": "2026-10-07T20:00:23Z",
+    "pushed_at": "2026-10-07T20:06:11Z"
+  },
+  {
+    "id": 1407085863,
+    "name": "rippling-download",
+    "full_name": "Velocityiogaze/rippling-download",
+    "owner": {
+      "login": "Velocityiogaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330635543?v=4"
+    },
+    "description": "Rippling — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "download",
+      "rippling",
+      "rippling-download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/Velocityiogaze/rippling-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T10:12:47Z",
+    "updated_at": "2026-10-06T14:16:44Z",
+    "pushed_at": "2026-10-06T11:00:52Z"
+  },
+  {
+    "id": 1407258819,
+    "name": "1password-download",
+    "full_name": "Sightarbreed/1password-download",
+    "owner": {
+      "login": "Sightarbreed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330636076?v=4"
+    },
+    "description": "1Password — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "1password",
+      "1password-download",
+      "download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/Sightarbreed/1password-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T12:25:15Z",
+    "updated_at": "2026-10-06T14:31:49Z",
+    "pushed_at": "2026-10-06T12:26:34Z"
+  },
+  {
+    "id": 1407298018,
+    "name": "neubird-download",
+    "full_name": "RookStrainer/neubird-download",
+    "owner": {
+      "login": "RookStrainer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330636001?v=4"
+    },
+    "description": "NeuBird — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "download",
+      "neubird",
+      "neubird-download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/RookStrainer/neubird-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T12:50:51Z",
+    "updated_at": "2026-10-06T14:34:59Z",
+    "pushed_at": "2026-10-06T12:53:50Z"
+  },
+  {
+    "id": 1407294702,
+    "name": "moveit-download",
+    "full_name": "soulstreamstimulate/moveit-download",
+    "owner": {
+      "login": "soulstreamstimulate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330636285?v=4"
+    },
+    "description": "MOVEit — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "download",
+      "moveit",
+      "moveit-download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/soulstreamstimulate/moveit-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T12:48:48Z",
+    "updated_at": "2026-10-06T14:34:02Z",
+    "pushed_at": "2026-10-06T12:53:03Z"
+  },
+  {
+    "id": 1407119308,
+    "name": "manageengine-endpoint-central-download",
+    "full_name": "SenseiLizard/manageengine-endpoint-central-download",
+    "owner": {
+      "login": "SenseiLizard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330635555?v=4"
+    },
+    "description": "ManageEngine Endpoint Central — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "download",
+      "manageengine-endpoint-central",
+      "manageengine-endpoint-central-download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/SenseiLizard/manageengine-endpoint-central-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T10:42:36Z",
+    "updated_at": "2026-10-06T14:23:05Z",
+    "pushed_at": "2026-10-06T11:04:24Z"
+  },
+  {
+    "id": 1407253894,
+    "name": "hsi-donesafe-download",
+    "full_name": "Superkiliberate/hsi-donesafe-download",
+    "owner": {
+      "login": "Superkiliberate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330636085?v=4"
+    },
+    "description": "HSI Donesafe — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "download",
+      "hsi-donesafe",
+      "hsi-donesafe-download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/Superkiliberate/hsi-donesafe-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T12:21:36Z",
+    "updated_at": "2026-10-06T14:31:01Z",
+    "pushed_at": "2026-10-06T12:25:53Z"
+  },
+  {
+    "id": 1402940194,
+    "name": "easyssf",
+    "full_name": "easyssf/easyssf",
+    "owner": {
+      "login": "easyssf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245393392?v=4"
+    },
+    "description": "Building blocks for the OpenID Shared Signals Framework (SSF) for JVM based Apps",
+    "topics": [
+      "caep",
+      "java",
+      "openid",
+      "quarkus",
+      "security",
+      "shared-signals-framework",
+      "spring-boot",
+      "ssf"
+    ],
+    "html_url": "https://github.com/easyssf/easyssf",
+    "stargazers_count": 7,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T09:15:40Z",
+    "updated_at": "2026-10-06T10:27:32Z",
+    "pushed_at": "2026-10-06T09:03:25Z"
+  },
+  {
+    "id": 1407347217,
+    "name": "javascript-deobfuscator",
+    "full_name": "lolcaken/javascript-deobfuscator",
+    "owner": {
+      "login": "lolcaken",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134832517?v=4"
+    },
+    "description": "Deobfuscator for javascript-obfuscator 5.x output (string arrays, control-flow flattening, self-defending, RC4/base64)",
+    "topics": [
+      "ast",
+      "babel",
+      "deobfuscation",
+      "deobfuscator",
+      "javascript",
+      "malware-analysis",
+      "obfuscator",
+      "reverse-engineering",
+      "security",
+      "typescript"
+    ],
+    "html_url": "https://github.com/lolcaken/javascript-deobfuscator",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T13:23:11Z",
+    "updated_at": "2026-10-07T22:31:09Z",
+    "pushed_at": "2026-10-06T13:24:07Z"
+  },
+  {
+    "id": 1408702251,
+    "name": "aws-security-agent-claude",
+    "full_name": "renatofigueiredods/aws-security-agent-claude",
+    "owner": {
+      "login": "renatofigueiredods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248450809?v=4"
+    },
+    "description": "AWS Security Agent for Claude Code, adapted from the Kiro power. Code scan, diff scan, threat model, pentest and findings remediation, in English and Portuguese.",
+    "topics": [
+      "aws",
+      "aws-security-agent",
+      "claude-code",
+      "claude-code-plugin",
+      "mcp",
+      "pentest",
+      "security",
+      "threat-modeling"
+    ],
+    "html_url": "https://github.com/renatofigueiredods/aws-security-agent-claude",
+    "stargazers_count": 5,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T11:47:14Z",
+    "updated_at": "2026-10-07T13:55:04Z",
+    "pushed_at": "2026-10-07T12:08:04Z"
+  },
+  {
+    "id": 1402669106,
+    "name": "rowan",
+    "full_name": "hedgerow-dev/rowan",
+    "owner": {
+      "login": "hedgerow-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289219779?v=4"
+    },
+    "description": "Static security scanner for AI applications: source code, model files, dependencies and agent/MCP config, with evidence for every finding.",
+    "topics": [
+      "ai-security",
+      "mcp",
+      "opengrep",
+      "sast",
+      "security",
+      "static-analysis"
+    ],
+    "html_url": "https://github.com/hedgerow-dev/rowan",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 6,
+    "created_at": "2026-10-03T04:45:17Z",
+    "updated_at": "2026-10-07T17:14:08Z",
+    "pushed_at": "2026-10-07T17:21:49Z"
+  },
+  {
+    "id": 1405593954,
+    "name": "egressguard",
+    "full_name": "sentiens/egressguard",
+    "owner": {
+      "login": "sentiens",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2752050?v=4"
+    },
+    "description": "Kill switch for macOS that works with any VPN app (WireGuard, OpenVPN, IKEv2…): the Mac reaches the internet only on networks you trust, through a VPN tunnel, or not at all. Uses the built-in pf firewall, a small Go daemon and a menu bar app. Install with Homebrew.",
+    "topics": [
+      "dns-leak",
+      "firewall",
+      "golang",
+      "homebrew",
+      "ikev2",
+      "kill-switch",
+      "killswitch",
+      "leak-protection",
+      "macos",
+      "macos-app",
+      "menubar-app",
+      "network-security",
+      "openvpn",
+      "packet-filter",
+      "pf",
+      "privacy",
+      "security",
+      "vpn",
+      "vpn-kill-switch",
+      "wireguard"
+    ],
+    "html_url": "https://github.com/sentiens/egressguard",
+    "stargazers_count": 5,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T10:53:15Z",
+    "updated_at": "2026-10-05T14:36:46Z",
+    "pushed_at": "2026-10-05T14:36:44Z"
+  }
+]
