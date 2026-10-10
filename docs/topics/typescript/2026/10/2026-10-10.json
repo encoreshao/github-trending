@@ -1,0 +1,610 @@
+[
+  {
+    "id": 1408284340,
+    "name": "ts-rust",
+    "full_name": "pingdotgg/ts-rust",
+    "owner": {
+      "login": "pingdotgg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89191727?v=4"
+    },
+    "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+    "topics": [
+      "compiler",
+      "rust",
+      "tsc",
+      "typescript"
+    ],
+    "html_url": "https://github.com/pingdotgg/ts-rust",
+    "stargazers_count": 818,
+    "language": "Rust",
+    "forks_count": 53,
+    "open_issues_count": 7,
+    "created_at": "2026-10-07T05:17:07Z",
+    "updated_at": "2026-10-10T01:47:02Z",
+    "pushed_at": "2026-10-10T01:47:23Z"
+  },
+  {
+    "id": 1408371739,
+    "name": "ascii",
+    "full_name": "bas3line/ascii",
+    "owner": {
+      "login": "bas3line",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196133609?v=4"
+    },
+    "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+    "topics": [
+      "animation",
+      "ascii",
+      "ascii-art",
+      "astro",
+      "nextjs",
+      "react",
+      "typescript",
+      "web-components"
+    ],
+    "html_url": "https://github.com/bas3line/ascii",
+    "stargazers_count": 669,
+    "language": "TypeScript",
+    "forks_count": 38,
+    "open_issues_count": 11,
+    "created_at": "2026-10-07T06:48:54Z",
+    "updated_at": "2026-10-10T01:58:52Z",
+    "pushed_at": "2026-10-09T21:57:15Z"
+  },
+  {
+    "id": 1403597414,
+    "name": "open-instinct",
+    "full_name": "mariagorskikh/open-instinct",
+    "owner": {
+      "login": "mariagorskikh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174119592?v=4"
+    },
+    "description": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "composio",
+      "imessage",
+      "inkbox",
+      "instinct",
+      "maritime",
+      "open-source",
+      "personal-assistant",
+      "typescript"
+    ],
+    "html_url": "https://github.com/mariagorskikh/open-instinct",
+    "stargazers_count": 281,
+    "language": "TypeScript",
+    "forks_count": 64,
+    "open_issues_count": 4,
+    "created_at": "2026-10-03T20:07:59Z",
+    "updated_at": "2026-10-10T01:50:56Z",
+    "pushed_at": "2026-10-07T19:12:47Z"
+  },
+  {
+    "id": 1407444187,
+    "name": "BIGWORDS.PAGE",
+    "full_name": "SpeakingOfBrad/BIGWORDS.PAGE",
+    "owner": {
+      "login": "SpeakingOfBrad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/824333?v=4"
+    },
+    "description": "Full-screen text for any screen. The message lives in the URL, so there's no backend, accounts or storage.",
+    "topics": [
+      "fullscreen",
+      "kiosk",
+      "qr-code",
+      "signage",
+      "static-site",
+      "text-display",
+      "typescript",
+      "url-state",
+      "vite"
+    ],
+    "html_url": "https://github.com/SpeakingOfBrad/BIGWORDS.PAGE",
+    "stargazers_count": 143,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T14:30:49Z",
+    "updated_at": "2026-10-09T21:24:32Z",
+    "pushed_at": "2026-10-09T19:23:16Z"
+  },
+  {
+    "id": 1411591680,
+    "name": "kolo-frontend",
+    "full_name": "Stellar-Kolo/kolo-frontend",
+    "owner": {
+      "login": "Stellar-Kolo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340053772?v=4"
+    },
+    "description": "Kolo's Stellar community savings web app: Next.js member and admin dashboards, with wallet and Soroban integrations in development.",
+    "topics": [
+      "community-savings",
+      "fintech",
+      "kolo",
+      "nextjs",
+      "soroban-smart-contracts",
+      "stellar",
+      "stellar-wallet",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Stellar-Kolo/kolo-frontend",
+    "stargazers_count": 132,
+    "language": "TypeScript",
+    "forks_count": 128,
+    "open_issues_count": 2,
+    "created_at": "2026-10-09T09:20:57Z",
+    "updated_at": "2026-10-09T11:01:00Z",
+    "pushed_at": "2026-10-09T10:13:23Z"
+  },
+  {
+    "id": 1408745667,
+    "name": "local-settle-frontend",
+    "full_name": "Local-Settle/local-settle-frontend",
+    "owner": {
+      "login": "Local-Settle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339136476?v=4"
+    },
+    "description": "Open-source peer-to-peer payments on Stellar and Soroban. Connect a wallet, trade USDC, and coordinate local settlement.",
+    "topics": [
+      "fintech",
+      "nextjs",
+      "payments",
+      "peer-to-peer",
+      "soroban",
+      "stellar",
+      "typescript",
+      "usdc"
+    ],
+    "html_url": "https://github.com/Local-Settle/local-settle-frontend",
+    "stargazers_count": 132,
+    "language": "TypeScript",
+    "forks_count": 132,
+    "open_issues_count": 4,
+    "created_at": "2026-10-07T12:25:12Z",
+    "updated_at": "2026-10-08T16:53:45Z",
+    "pushed_at": "2026-10-07T12:51:04Z"
+  },
+  {
+    "id": 1408749184,
+    "name": "local-settle-backend",
+    "full_name": "Local-Settle/local-settle-backend",
+    "owner": {
+      "login": "Local-Settle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339136476?v=4"
+    },
+    "description": "Open-source Stellar and Soroban API for peer-to-peer USDC settlement, wallet authentication, orders, and escrow coordination.",
+    "topics": [
+      "fintech",
+      "nestjs",
+      "payments",
+      "peer-to-peer",
+      "soroban",
+      "stellar",
+      "trustless-work",
+      "typescript",
+      "usdc"
+    ],
+    "html_url": "https://github.com/Local-Settle/local-settle-backend",
+    "stargazers_count": 132,
+    "language": "TypeScript",
+    "forks_count": 129,
+    "open_issues_count": 2,
+    "created_at": "2026-10-07T12:27:53Z",
+    "updated_at": "2026-10-08T16:52:29Z",
+    "pushed_at": "2026-10-07T12:51:07Z"
+  },
+  {
+    "id": 1411596542,
+    "name": "kolo-backend",
+    "full_name": "Stellar-Kolo/kolo-backend",
+    "owner": {
+      "login": "Stellar-Kolo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340053772?v=4"
+    },
+    "description": "WhatsApp-first Stellar backend for Kolo: wallet operations, Stellar payments, Soroban savings groups, and queued community messaging.",
+    "topics": [
+      "community-savings",
+      "express",
+      "kolo",
+      "soroban",
+      "soroban-smart-contracts",
+      "stellar",
+      "stellar-sdk",
+      "typescript",
+      "whatsapp"
+    ],
+    "html_url": "https://github.com/Stellar-Kolo/kolo-backend",
+    "stargazers_count": 131,
+    "language": "TypeScript",
+    "forks_count": 128,
+    "open_issues_count": 2,
+    "created_at": "2026-10-09T09:25:01Z",
+    "updated_at": "2026-10-09T10:13:25Z",
+    "pushed_at": "2026-10-09T10:13:20Z"
+  },
+  {
+    "id": 1412345789,
+    "name": "clearledger",
+    "full_name": "Stellar-Clear/clearledger",
+    "owner": {
+      "login": "Stellar-Clear",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340292680?v=4"
+    },
+    "description": "Invoice finance infrastructure on Stellar: Soroban contracts, a Next.js app, TypeScript SDK and CLI, and Go indexer for USDC-backed workflows.",
+    "topics": [
+      "golang",
+      "invoice-finance",
+      "soroban",
+      "stellar",
+      "testnet",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Stellar-Clear/clearledger",
+    "stargazers_count": 131,
+    "language": "TypeScript",
+    "forks_count": 128,
+    "open_issues_count": 17,
+    "created_at": "2026-10-09T19:17:16Z",
+    "updated_at": "2026-10-09T20:32:57Z",
+    "pushed_at": "2026-10-09T20:29:25Z"
+  },
+  {
+    "id": 1410528286,
+    "name": "sentinel-frontend",
+    "full_name": "Stellar-Sentinel/sentinel-frontend",
+    "owner": {
+      "login": "Stellar-Sentinel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339700399?v=4"
+    },
+    "description": "Stellar Sentinel dashboard for Stellar account screening, network health, and Soroban contract flag events.",
+    "topics": [
+      "dashboard",
+      "nextjs",
+      "risk-monitoring",
+      "soroban",
+      "stellar",
+      "stellar-blockchain",
+      "stellar-horizon",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Stellar-Sentinel/sentinel-frontend",
+    "stargazers_count": 130,
+    "language": "TypeScript",
+    "forks_count": 131,
+    "open_issues_count": 2,
+    "created_at": "2026-10-08T14:59:15Z",
+    "updated_at": "2026-10-08T19:07:04Z",
+    "pushed_at": "2026-10-08T19:06:57Z"
+  },
+  {
+    "id": 1409478767,
+    "name": "promiscope-backend",
+    "full_name": "Stellar-Promiscope/promiscope-backend",
+    "owner": {
+      "login": "Stellar-Promiscope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339359471?v=4"
+    },
+    "description": "Promiscope backend service. Accountability API migration is underway; existing routes still serve legacy product workflows.",
+    "topics": [
+      "nodejs",
+      "stellar",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Stellar-Promiscope/promiscope-backend",
+    "stargazers_count": 128,
+    "language": "TypeScript",
+    "forks_count": 129,
+    "open_issues_count": 13,
+    "created_at": "2026-10-07T23:19:18Z",
+    "updated_at": "2026-10-08T00:57:13Z",
+    "pushed_at": "2026-10-08T00:57:09Z"
+  },
+  {
+    "id": 1402886491,
+    "name": "pi-knock",
+    "full_name": "Asigers/pi-knock",
+    "owner": {
+      "login": "Asigers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121010864?v=4"
+    },
+    "description": "Remote notifications for the Pi coding agent — Pushover, ntfy, and webhooks when tasks finish or need your input.",
+    "topics": [
+      "ai-coding-agent",
+      "apple-watch",
+      "developer-tools",
+      "notifications",
+      "ntfy",
+      "pi-coding-agent",
+      "pi-extension",
+      "push-notifications",
+      "pushover",
+      "remote-notifications",
+      "typescript",
+      "webhook"
+    ],
+    "html_url": "https://github.com/Asigers/pi-knock",
+    "stargazers_count": 113,
+    "language": "TypeScript",
+    "forks_count": 8,
+    "open_issues_count": 4,
+    "created_at": "2026-10-03T08:27:38Z",
+    "updated_at": "2026-10-06T06:08:51Z",
+    "pushed_at": "2026-10-05T01:47:35Z"
+  },
+  {
+    "id": 1403809641,
+    "name": "vibestart",
+    "full_name": "VinkyDev/vibestart",
+    "owner": {
+      "login": "VinkyDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65653876?v=4"
+    },
+    "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
+    "topics": [
+      "ai",
+      "ai-coding",
+      "cli",
+      "fullstack",
+      "lint",
+      "react",
+      "shadcn-ui",
+      "skills",
+      "tailwindcss",
+      "tanstack",
+      "typescript",
+      "vibe-coding",
+      "vite",
+      "vite-plus"
+    ],
+    "html_url": "https://github.com/VinkyDev/vibestart",
+    "stargazers_count": 86,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-10-04T02:36:55Z",
+    "updated_at": "2026-10-09T19:46:38Z",
+    "pushed_at": "2026-10-09T13:37:20Z"
+  },
+  {
+    "id": 1411783354,
+    "name": "filter-ast",
+    "full_name": "Zagorodnyi/filter-ast",
+    "owner": {
+      "login": "Zagorodnyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68632193?v=4"
+    },
+    "description": "Parses a declarative filter object with $op(value) strings into a typed, database-agnostic filter AST. Zero dependencies, ~50 ns per call.",
+    "topics": [
+      "ast",
+      "bun",
+      "database-agnostic",
+      "dsl",
+      "filter",
+      "filter-ast",
+      "javascript",
+      "mongodb",
+      "nodejs",
+      "orm",
+      "parser",
+      "query-builder",
+      "query-filter",
+      "rest-api",
+      "typescript",
+      "where-clause",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/Zagorodnyi/filter-ast",
+    "stargazers_count": 70,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T12:05:18Z",
+    "updated_at": "2026-10-09T18:44:12Z",
+    "pushed_at": "2026-10-09T18:39:26Z"
+  },
+  {
+    "id": 1408194108,
+    "name": "omo-dori-mode-experimental",
+    "full_name": "sisyphuslabs/omo-dori-mode-experimental",
+    "owner": {
+      "login": "sisyphuslabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251170166?v=4"
+    },
+    "description": "Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.",
+    "topics": [
+      "agents",
+      "automation",
+      "bun",
+      "coding-agent",
+      "dori",
+      "herdr",
+      "messenger-bot",
+      "omo",
+      "skill",
+      "typescript"
+    ],
+    "html_url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental",
+    "stargazers_count": 68,
+    "language": "TypeScript",
+    "forks_count": 59,
+    "open_issues_count": 1,
+    "created_at": "2026-10-07T03:32:07Z",
+    "updated_at": "2026-10-09T22:27:43Z",
+    "pushed_at": "2026-10-07T06:02:24Z"
+  },
+  {
+    "id": 1408279304,
+    "name": "position-sizer",
+    "full_name": "accomplish999/position-sizer",
+    "owner": {
+      "login": "accomplish999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181023006?v=4"
+    },
+    "description": "Position size calculators for Perps and DeFi.",
+    "topics": [
+      "cli",
+      "crypto",
+      "cryptocurrency",
+      "defi",
+      "impermanent-loss",
+      "perpetual-futures",
+      "position-sizing",
+      "risk",
+      "risk-analysis",
+      "risk-analytics",
+      "risk-assessment",
+      "risk-management",
+      "risk-modeling",
+      "risk-prediction",
+      "risk-scoring",
+      "typescript",
+      "uniswap"
+    ],
+    "html_url": "https://github.com/accomplish999/position-sizer",
+    "stargazers_count": 63,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T05:12:22Z",
+    "updated_at": "2026-10-07T21:36:24Z",
+    "pushed_at": "2026-10-07T21:36:22Z"
+  },
+  {
+    "id": 1404374196,
+    "name": "dsh-sieve",
+    "full_name": "Sev7eEn7/dsh-sieve",
+    "owner": {
+      "login": "Sev7eEn7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337696452?v=4"
+    },
+    "description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
+    "topics": [
+      "agent-tools",
+      "ai-agent",
+      "ai-coding",
+      "coding-agent",
+      "context-engineering",
+      "context-management",
+      "context-pruning",
+      "context-window",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "llm",
+      "llm-agent",
+      "llm-cost",
+      "prompt-compression",
+      "token-efficiency",
+      "token-optimization",
+      "tool-output",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Sev7eEn7/dsh-sieve",
+    "stargazers_count": 62,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 5,
+    "created_at": "2026-10-04T12:30:42Z",
+    "updated_at": "2026-10-10T01:49:29Z",
+    "pushed_at": "2026-10-08T09:56:33Z"
+  },
+  {
+    "id": 1403762779,
+    "name": "pheromone-network",
+    "full_name": "Wrste/pheromone-network",
+    "owner": {
+      "login": "Wrste",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28056826?v=4"
+    },
+    "description": "A zero-dependency TypeScript memory kernel that gives any agent long-term memory. No training or backpropagation: each output reads a few tag-compatible neighbors, updated by a manual Hebbian rule. Links used often are reinforced; idle ones evaporate by half-life. Based on the paper Local Pheromone Network (arXiv:2606.30669).",
+    "topics": [
+      "agent-memory",
+      "associative-memory",
+      "local-learning",
+      "memory",
+      "npm",
+      "offline-ai",
+      "semantic-recall",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Wrste/pheromone-network",
+    "stargazers_count": 53,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T01:11:53Z",
+    "updated_at": "2026-10-10T01:30:56Z",
+    "pushed_at": "2026-10-04T05:19:52Z"
+  },
+  {
+    "id": 1411335875,
+    "name": "scam-with-your-friends-web",
+    "full_name": "mrzh7/scam-with-your-friends-web",
+    "owner": {
+      "login": "mrzh7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236308372?v=4"
+    },
+    "description": "Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare.",
+    "topics": [
+      "ai-game",
+      "browser-game",
+      "call-center",
+      "cloudflare-workers",
+      "coop-game",
+      "dark-comedy",
+      "durable-objects",
+      "i18n",
+      "job-simulator",
+      "multiplayer",
+      "party-game",
+      "react",
+      "scam-with-your-friends",
+      "scam-with-your-friends-web",
+      "text-to-speech",
+      "threejs",
+      "typescript",
+      "voice-chat",
+      "web-game",
+      "webrtc"
+    ],
+    "html_url": "https://github.com/mrzh7/scam-with-your-friends-web",
+    "stargazers_count": 48,
+    "language": "TypeScript",
+    "forks_count": 18,
+    "open_issues_count": 7,
+    "created_at": "2026-10-09T05:27:48Z",
+    "updated_at": "2026-10-10T01:59:39Z",
+    "pushed_at": "2026-10-10T00:20:07Z"
+  },
+  {
+    "id": 1403486240,
+    "name": "awesome-javascript-jobs",
+    "full_name": "jsgurujobs/awesome-javascript-jobs",
+    "owner": {
+      "login": "jsgurujobs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337436353?v=4"
+    },
+    "description": "Remote JavaScript, TypeScript, React and Node.js jobs, updated daily",
+    "topics": [
+      "awesome-list",
+      "javascript",
+      "job-board",
+      "jobs",
+      "nodejs",
+      "react",
+      "remote-jobs",
+      "typescript"
+    ],
+    "html_url": "https://github.com/jsgurujobs/awesome-javascript-jobs",
+    "stargazers_count": 44,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T17:50:11Z",
+    "updated_at": "2026-10-09T06:00:09Z",
+    "pushed_at": "2026-10-09T06:00:04Z"
+  }
+]

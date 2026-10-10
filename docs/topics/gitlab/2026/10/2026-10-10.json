@@ -1,0 +1,498 @@
+[
+  {
+    "id": 1409774513,
+    "name": "GITBACK",
+    "full_name": "rayzien/GITBACK",
+    "owner": {
+      "login": "rayzien",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328525664?v=4"
+    },
+    "description": "Open source git backup tool , to save your hardwork and efforts by github.com/rayzien and github.com/pheonix14 ",
+    "topics": [
+      "backup",
+      "data",
+      "github",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/rayzien/GITBACK",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T05:19:38Z",
+    "updated_at": "2026-10-08T19:02:37Z",
+    "pushed_at": "2026-10-08T05:52:47Z"
+  },
+  {
+    "id": 1406759311,
+    "name": "touchmark",
+    "full_name": "bedrock-python/touchmark",
+    "owner": {
+      "login": "bedrock-python",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282949571?v=4"
+    },
+    "description": "Keep shared files in sync across many repositories through pull requests, without overwriting what a team has made its own.",
+    "topics": [
+      "cli",
+      "forgejo",
+      "gitea",
+      "github-actions",
+      "gitlab",
+      "go",
+      "pull-requests"
+    ],
+    "html_url": "https://github.com/bedrock-python/touchmark",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-06T05:41:18Z",
+    "updated_at": "2026-10-09T17:05:57Z",
+    "pushed_at": "2026-10-09T20:18:38Z"
+  },
+  {
+    "id": 1408542000,
+    "name": "brain",
+    "full_name": "rasielchang/brain",
+    "owner": {
+      "login": "rasielchang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1515337?v=4"
+    },
+    "description": "Local-first AI work management: evidence-based daily briefs, weekly reviews, and project risk tracking with Codex or Claude Code.",
+    "topics": [
+      "ai",
+      "asana",
+      "claude-code",
+      "codex",
+      "gitlab",
+      "local-first",
+      "productivity"
+    ],
+    "html_url": "https://github.com/rasielchang/brain",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T09:19:37Z",
+    "updated_at": "2026-10-09T23:12:50Z",
+    "pushed_at": "2026-10-07T09:21:20Z"
+  },
+  {
+    "id": 1405758674,
+    "name": "gitlab-pipelines-for-openchamber",
+    "full_name": "oroszgy/gitlab-pipelines-for-openchamber",
+    "owner": {
+      "login": "oroszgy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145334?v=4"
+    },
+    "description": "OpenChamber extension showing and managing GitLab CI/CD pipelines.",
+    "topics": [
+      "ci",
+      "gitlab",
+      "gitlab-ci",
+      "openchamber",
+      "openchamber-extension",
+      "pipelines"
+    ],
+    "html_url": "https://github.com/oroszgy/gitlab-pipelines-for-openchamber",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-05T12:54:12Z",
+    "updated_at": "2026-10-08T10:15:25Z",
+    "pushed_at": "2026-10-08T10:15:21Z"
+  },
+  {
+    "id": 1402796249,
+    "name": "runner-disk-report",
+    "full_name": "DanilaZanin/runner-disk-report",
+    "owner": {
+      "login": "DanilaZanin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74046158?v=4"
+    },
+    "description": "Read-only report of what fills Docker's disk on a GitLab Runner host, attributed to projects where provable",
+    "topics": [
+      "cli",
+      "devops",
+      "disk-usage",
+      "docker",
+      "gitlab",
+      "gitlab-runner",
+      "golang",
+      "prometheus"
+    ],
+    "html_url": "https://github.com/DanilaZanin/runner-disk-report",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T07:06:32Z",
+    "updated_at": "2026-10-05T06:30:52Z",
+    "pushed_at": "2026-10-03T07:21:22Z"
+  },
+  {
+    "id": 1403888666,
+    "name": "varatlas",
+    "full_name": "scenr-io/varatlas",
+    "owner": {
+      "login": "scenr-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280807513?v=4"
+    },
+    "description": "Find, audit and manage every GitLab CI/CD variable across your whole org.",
+    "topics": [
+      "ci-cd",
+      "devops",
+      "environment-variables",
+      "gitlab",
+      "gitlab-ci",
+      "platform-engineering",
+      "secrets-management",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/scenr-io/varatlas",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T04:29:49Z",
+    "updated_at": "2026-10-09T12:07:20Z",
+    "pushed_at": "2026-10-09T12:07:17Z"
+  },
+  {
+    "id": 1406606019,
+    "name": "argus-gitlab-review",
+    "full_name": "duedue/argus-gitlab-review",
+    "owner": {
+      "login": "duedue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4694172?v=4"
+    },
+    "description": "Self-hosted AI code reviewer for GitLab merge requests — reviews with Claude Code on your own subscription and posts findings under your GitLab identity.",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "code-review",
+      "code-review-assistant-active",
+      "devtools",
+      "docker",
+      "gitlab",
+      "llm",
+      "merge-request",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/duedue/argus-gitlab-review",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T02:43:35Z",
+    "updated_at": "2026-10-08T06:00:03Z",
+    "pushed_at": "2026-10-08T05:59:58Z"
+  },
+  {
+    "id": 1408889462,
+    "name": "gitlab-pipeline-monitor",
+    "full_name": "cookily/gitlab-pipeline-monitor",
+    "owner": {
+      "login": "cookily",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26380035?v=4"
+    },
+    "description": "macOS menu bar app: watch GitLab CI/CD pipelines, get native notifications on success/failure",
+    "topics": [
+      "ci-cd",
+      "gitlab",
+      "macos",
+      "menubar",
+      "swift"
+    ],
+    "html_url": "https://github.com/cookily/gitlab-pipeline-monitor",
+    "stargazers_count": 0,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T14:04:32Z",
+    "updated_at": "2026-10-07T14:24:57Z",
+    "pushed_at": "2026-10-07T14:25:07Z"
+  },
+  {
+    "id": 1412046820,
+    "name": "gitlab_group_protected_branch",
+    "full_name": "AeternaDataSources/gitlab_group_protected_branch",
+    "owner": {
+      "login": "AeternaDataSources",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320004632?v=4"
+    },
+    "description": "Terragrunt lookup unit for gitlab_group_protected_branch",
+    "topics": [
+      "gitlab",
+      "infra-datasource"
+    ],
+    "html_url": "https://github.com/AeternaDataSources/gitlab_group_protected_branch",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:15:50Z",
+    "updated_at": "2026-10-09T15:16:00Z",
+    "pushed_at": "2026-10-09T15:15:58Z"
+  },
+  {
+    "id": 1412050140,
+    "name": "gitlab_user_sshkeys",
+    "full_name": "AeternaDataSources/gitlab_user_sshkeys",
+    "owner": {
+      "login": "AeternaDataSources",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320004632?v=4"
+    },
+    "description": "Terragrunt lookup unit for gitlab_user_sshkeys",
+    "topics": [
+      "gitlab",
+      "infra-datasource"
+    ],
+    "html_url": "https://github.com/AeternaDataSources/gitlab_user_sshkeys",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:18:05Z",
+    "updated_at": "2026-10-09T15:18:15Z",
+    "pushed_at": "2026-10-09T15:18:13Z"
+  },
+  {
+    "id": 1412041571,
+    "name": "gitlab_project_error_tracking_client_key",
+    "full_name": "AeternaModules/gitlab_project_error_tracking_client_key",
+    "owner": {
+      "login": "AeternaModules",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251789014?v=4"
+    },
+    "description": "Terragrunt module for gitlab_project_error_tracking_client_key",
+    "topics": [
+      "gitlab",
+      "infra-module"
+    ],
+    "html_url": "https://github.com/AeternaModules/gitlab_project_error_tracking_client_key",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:11:48Z",
+    "updated_at": "2026-10-09T15:11:59Z",
+    "pushed_at": "2026-10-09T15:11:56Z"
+  },
+  {
+    "id": 1412041641,
+    "name": "gitlab_project_feature_flag_user_list",
+    "full_name": "AeternaModules/gitlab_project_feature_flag_user_list",
+    "owner": {
+      "login": "AeternaModules",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251789014?v=4"
+    },
+    "description": "Terragrunt module for gitlab_project_feature_flag_user_list",
+    "topics": [
+      "gitlab",
+      "infra-module"
+    ],
+    "html_url": "https://github.com/AeternaModules/gitlab_project_feature_flag_user_list",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:11:52Z",
+    "updated_at": "2026-10-09T15:12:02Z",
+    "pushed_at": "2026-10-09T15:12:00Z"
+  },
+  {
+    "id": 1412038599,
+    "name": "gitlab_compliance_framework_from_template",
+    "full_name": "AeternaModules/gitlab_compliance_framework_from_template",
+    "owner": {
+      "login": "AeternaModules",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251789014?v=4"
+    },
+    "description": "Terragrunt module for gitlab_compliance_framework_from_template",
+    "topics": [
+      "gitlab",
+      "infra-module"
+    ],
+    "html_url": "https://github.com/AeternaModules/gitlab_compliance_framework_from_template",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:09:38Z",
+    "updated_at": "2026-10-09T15:09:49Z",
+    "pushed_at": "2026-10-09T15:09:47Z"
+  },
+  {
+    "id": 1412042591,
+    "name": "gitlab_project_issue",
+    "full_name": "AeternaModules/gitlab_project_issue",
+    "owner": {
+      "login": "AeternaModules",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251789014?v=4"
+    },
+    "description": "Terragrunt module for gitlab_project_issue",
+    "topics": [
+      "gitlab",
+      "infra-module"
+    ],
+    "html_url": "https://github.com/AeternaModules/gitlab_project_issue",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:12:35Z",
+    "updated_at": "2026-10-09T15:12:45Z",
+    "pushed_at": "2026-10-09T15:12:42Z"
+  },
+  {
+    "id": 1404102395,
+    "name": "sentryward",
+    "full_name": "rdlugs/sentryward",
+    "owner": {
+      "login": "rdlugs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54662095?v=4"
+    },
+    "description": "Self-hosted AI code reviewer with automated reviews, inline suggestions, and flexible support for cloud and local models.",
+    "topics": [
+      "ai",
+      "code-quality",
+      "code-review",
+      "code-review-assistant",
+      "code-reviews",
+      "github-app",
+      "gitlab",
+      "llm",
+      "pull-requests",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/rdlugs/sentryward",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-04T07:54:25Z",
+    "updated_at": "2026-10-06T11:34:25Z",
+    "pushed_at": "2026-10-06T11:24:25Z"
+  },
+  {
+    "id": 1404590632,
+    "name": "GitMax",
+    "full_name": "lembergmax/GitMax",
+    "owner": {
+      "login": "lembergmax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151883998?v=4"
+    },
+    "description": "Personal Git client for Android: link GitHub and GitLab, clone and update many repos into one folder, commit and push from your phone.",
+    "topics": [
+      "android",
+      "git",
+      "git-client",
+      "github",
+      "gitlab",
+      "java",
+      "jgit",
+      "material-design",
+      "mobile",
+      "ssh"
+    ],
+    "html_url": "https://github.com/lembergmax/GitMax",
+    "stargazers_count": 0,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T15:55:48Z",
+    "updated_at": "2026-10-07T19:38:05Z",
+    "pushed_at": "2026-10-07T19:37:58Z"
+  },
+  {
+    "id": 1412044559,
+    "name": "gitlab_user_impersonation_token",
+    "full_name": "AeternaModules/gitlab_user_impersonation_token",
+    "owner": {
+      "login": "AeternaModules",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251789014?v=4"
+    },
+    "description": "Terragrunt module for gitlab_user_impersonation_token",
+    "topics": [
+      "gitlab",
+      "infra-module"
+    ],
+    "html_url": "https://github.com/AeternaModules/gitlab_user_impersonation_token",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:14:10Z",
+    "updated_at": "2026-10-09T15:14:20Z",
+    "pushed_at": "2026-10-09T15:14:18Z"
+  },
+  {
+    "id": 1412047382,
+    "name": "gitlab_instance_deploy_keys",
+    "full_name": "AeternaDataSources/gitlab_instance_deploy_keys",
+    "owner": {
+      "login": "AeternaDataSources",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320004632?v=4"
+    },
+    "description": "Terragrunt lookup unit for gitlab_instance_deploy_keys",
+    "topics": [
+      "gitlab",
+      "infra-datasource"
+    ],
+    "html_url": "https://github.com/AeternaDataSources/gitlab_instance_deploy_keys",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:16:12Z",
+    "updated_at": "2026-10-09T15:16:23Z",
+    "pushed_at": "2026-10-09T15:16:20Z"
+  },
+  {
+    "id": 1412048346,
+    "name": "gitlab_project_merge_request",
+    "full_name": "AeternaDataSources/gitlab_project_merge_request",
+    "owner": {
+      "login": "AeternaDataSources",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320004632?v=4"
+    },
+    "description": "Terragrunt lookup unit for gitlab_project_merge_request",
+    "topics": [
+      "gitlab",
+      "infra-datasource"
+    ],
+    "html_url": "https://github.com/AeternaDataSources/gitlab_project_merge_request",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:16:57Z",
+    "updated_at": "2026-10-09T15:17:08Z",
+    "pushed_at": "2026-10-09T15:17:06Z"
+  },
+  {
+    "id": 1412048537,
+    "name": "gitlab_project_milestone",
+    "full_name": "AeternaDataSources/gitlab_project_milestone",
+    "owner": {
+      "login": "AeternaDataSources",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320004632?v=4"
+    },
+    "description": "Terragrunt lookup unit for gitlab_project_milestone",
+    "topics": [
+      "gitlab",
+      "infra-datasource"
+    ],
+    "html_url": "https://github.com/AeternaDataSources/gitlab_project_milestone",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:17:05Z",
+    "updated_at": "2026-10-09T15:17:15Z",
+    "pushed_at": "2026-10-09T15:17:13Z"
+  }
+]

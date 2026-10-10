@@ -1,0 +1,583 @@
+[
+  {
+    "id": 1403307052,
+    "name": "artex-ko",
+    "full_name": "jiwoochris/artex-ko",
+    "owner": {
+      "login": "jiwoochris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83687471?v=4"
+    },
+    "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+    "topics": [
+      "ai-agent",
+      "autonomous-agents",
+      "blue-team",
+      "cybersecurity",
+      "detection-engineering",
+      "i18n",
+      "korean",
+      "llm",
+      "penetration-testing",
+      "security",
+      "security-research",
+      "security-tools",
+      "sigma-rules",
+      "threat-detection"
+    ],
+    "html_url": "https://github.com/jiwoochris/artex-ko",
+    "stargazers_count": 858,
+    "language": "Go",
+    "forks_count": 732,
+    "open_issues_count": 5,
+    "created_at": "2026-10-03T14:49:48Z",
+    "updated_at": "2026-10-10T01:41:49Z",
+    "pushed_at": "2026-10-09T12:52:40Z"
+  },
+  {
+    "id": 1407258819,
+    "name": "1password-download",
+    "full_name": "Sightarbreed/1password-download",
+    "owner": {
+      "login": "Sightarbreed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330636076?v=4"
+    },
+    "description": "1Password — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "1password",
+      "1password-download",
+      "download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/Sightarbreed/1password-download",
+    "stargazers_count": 135,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T12:25:15Z",
+    "updated_at": "2026-10-08T20:54:09Z",
+    "pushed_at": "2026-10-06T12:26:34Z"
+  },
+  {
+    "id": 1410530773,
+    "name": "sentinel-contracts",
+    "full_name": "Stellar-Sentinel/sentinel-contracts",
+    "owner": {
+      "login": "Stellar-Sentinel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339700399?v=4"
+    },
+    "description": "Soroban contract for authorized Stellar Sentinel flags, configurable thresholds, and latest-flag records.",
+    "topics": [
+      "risk-monitoring",
+      "rust",
+      "security",
+      "smart-contracts",
+      "soroban",
+      "stellar",
+      "stellar-blockchain",
+      "stellar-smart-contracts"
+    ],
+    "html_url": "https://github.com/Stellar-Sentinel/sentinel-contracts",
+    "stargazers_count": 131,
+    "language": "Rust",
+    "forks_count": 131,
+    "open_issues_count": 4,
+    "created_at": "2026-10-08T15:01:03Z",
+    "updated_at": "2026-10-09T20:24:45Z",
+    "pushed_at": "2026-10-09T20:24:37Z"
+  },
+  {
+    "id": 1410529758,
+    "name": "sentinel-backend",
+    "full_name": "Stellar-Sentinel/sentinel-backend",
+    "owner": {
+      "login": "Stellar-Sentinel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339700399?v=4"
+    },
+    "description": "FastAPI service for Stellar account screening, Soroban event monitoring, and network health.",
+    "topics": [
+      "blockchain",
+      "fastapi",
+      "python",
+      "rest-api",
+      "risk-monitoring",
+      "security",
+      "soroban",
+      "stellar",
+      "stellar-blockchain",
+      "stellar-horizon",
+      "stellar-rpc"
+    ],
+    "html_url": "https://github.com/Stellar-Sentinel/sentinel-backend",
+    "stargazers_count": 130,
+    "language": "Python",
+    "forks_count": 131,
+    "open_issues_count": 4,
+    "created_at": "2026-10-08T15:00:18Z",
+    "updated_at": "2026-10-09T20:18:14Z",
+    "pushed_at": "2026-10-09T20:18:07Z"
+  },
+  {
+    "id": 1404566213,
+    "name": "VD-Google",
+    "full_name": "VD171/VD-Google",
+    "owner": {
+      "login": "VD171",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80125987?v=4"
+    },
+    "description": "Your Google services (RCS, Google Wallet, Play Integrity attestations) read on-device. No internet, root required.",
+    "topics": [
+      "android",
+      "attestation",
+      "google-wallet",
+      "jetpack-compose",
+      "kernelsu",
+      "kotlin",
+      "lsposed",
+      "magisk",
+      "material3",
+      "nfc",
+      "no-internet",
+      "play-integrity",
+      "privacy",
+      "rcs",
+      "root",
+      "security",
+      "vdgoogle"
+    ],
+    "html_url": "https://github.com/VD171/VD-Google",
+    "stargazers_count": 49,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-10-04T15:28:34Z",
+    "updated_at": "2026-10-10T00:39:10Z",
+    "pushed_at": "2026-10-05T12:27:30Z"
+  },
+  {
+    "id": 1412357738,
+    "name": "bug-bounty-triage",
+    "full_name": "Sequester-AG/bug-bounty-triage",
+    "owner": {
+      "login": "Sequester-AG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179031404?v=4"
+    },
+    "description": "Agent skill for rigorous bug bounty report triage, validation, severity escalation, and submission-ready reporting.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "bug-bounty",
+      "security",
+      "vulnerability-triage"
+    ],
+    "html_url": "https://github.com/Sequester-AG/bug-bounty-triage",
+    "stargazers_count": 39,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T19:27:46Z",
+    "updated_at": "2026-10-10T01:31:16Z",
+    "pushed_at": "2026-10-09T19:35:13Z"
+  },
+  {
+    "id": 1404802284,
+    "name": "M365",
+    "full_name": "omer-eltayeb/M365",
+    "owner": {
+      "login": "omer-eltayeb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166176279?v=4"
+    },
+    "description": "M365 PowerShell scripts for Microsoft 365 administration: Intune, Entra ID, Defender, Exchange Online, Purview, Teams, SharePoint and tenant management. Microsoft Graph and modern modules only, read-only by default, -WhatIf on every change, full comment-based help.",
+    "topics": [
+      "conditional-access",
+      "endpoint-management",
+      "entra-id",
+      "entra-id-governance",
+      "exchange-online",
+      "intune",
+      "microsoft-azure",
+      "microsoft-defender",
+      "microsoft-defender-for-cloud",
+      "microsoft-defender-for-endpoint",
+      "microsoft-defender-for-office-365",
+      "microsoft-defender-xdr",
+      "microsoft-graph",
+      "microsoft-intune",
+      "microsoft-purview",
+      "microsoft-sentinel",
+      "microsoft-teams",
+      "security",
+      "sharepoint-online",
+      "windows-autopilot"
+    ],
+    "html_url": "https://github.com/omer-eltayeb/M365",
+    "stargazers_count": 28,
+    "language": "PowerShell",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T20:14:41Z",
+    "updated_at": "2026-10-09T20:47:29Z",
+    "pushed_at": "2026-10-04T20:50:15Z"
+  },
+  {
+    "id": 1407072843,
+    "name": "securify",
+    "full_name": "Hamidooh/securify",
+    "owner": {
+      "login": "Hamidooh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121404750?v=4"
+    },
+    "description": "High-speed web security auditor & DevSecOps dashboard for SSL, HTTP headers, DNS defenses, and port exposure.",
+    "topics": [
+      "devsecops",
+      "react19",
+      "security"
+    ],
+    "html_url": "https://github.com/Hamidooh/securify",
+    "stargazers_count": 22,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T10:00:48Z",
+    "updated_at": "2026-10-09T08:25:18Z",
+    "pushed_at": "2026-10-09T08:25:15Z"
+  },
+  {
+    "id": 1412022658,
+    "name": "awesome-reverse-engineering",
+    "full_name": "morluto/awesome-reverse-engineering",
+    "owner": {
+      "login": "morluto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76467478?v=4"
+    },
+    "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "binary-analysis",
+      "ctf",
+      "cybersecurity",
+      "debugging",
+      "decompiler",
+      "disassembler",
+      "dynamic-analysis",
+      "firmware",
+      "frida",
+      "ghidra",
+      "malware-analysis",
+      "mcp",
+      "reverse-engineering",
+      "security",
+      "security-tools",
+      "static-analysis"
+    ],
+    "html_url": "https://github.com/morluto/awesome-reverse-engineering",
+    "stargazers_count": 15,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T14:58:20Z",
+    "updated_at": "2026-10-10T01:59:35Z",
+    "pushed_at": "2026-10-09T15:58:27Z"
+  },
+  {
+    "id": 1407085863,
+    "name": "rippling-download",
+    "full_name": "Velocityiogaze/rippling-download",
+    "owner": {
+      "login": "Velocityiogaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330635543?v=4"
+    },
+    "description": "Rippling — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "download",
+      "rippling",
+      "rippling-download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/Velocityiogaze/rippling-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T10:12:47Z",
+    "updated_at": "2026-10-06T14:16:44Z",
+    "pushed_at": "2026-10-06T11:00:52Z"
+  },
+  {
+    "id": 1407294702,
+    "name": "moveit-download",
+    "full_name": "soulstreamstimulate/moveit-download",
+    "owner": {
+      "login": "soulstreamstimulate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330636285?v=4"
+    },
+    "description": "MOVEit — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "download",
+      "moveit",
+      "moveit-download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/soulstreamstimulate/moveit-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T12:48:48Z",
+    "updated_at": "2026-10-06T14:34:02Z",
+    "pushed_at": "2026-10-06T12:53:03Z"
+  },
+  {
+    "id": 1407298018,
+    "name": "neubird-download",
+    "full_name": "RookStrainer/neubird-download",
+    "owner": {
+      "login": "RookStrainer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330636001?v=4"
+    },
+    "description": "NeuBird — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "download",
+      "neubird",
+      "neubird-download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/RookStrainer/neubird-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T12:50:51Z",
+    "updated_at": "2026-10-06T14:34:59Z",
+    "pushed_at": "2026-10-06T12:53:50Z"
+  },
+  {
+    "id": 1407119308,
+    "name": "manageengine-endpoint-central-download",
+    "full_name": "SenseiLizard/manageengine-endpoint-central-download",
+    "owner": {
+      "login": "SenseiLizard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330635555?v=4"
+    },
+    "description": "ManageEngine Endpoint Central — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "download",
+      "manageengine-endpoint-central",
+      "manageengine-endpoint-central-download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/SenseiLizard/manageengine-endpoint-central-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T10:42:36Z",
+    "updated_at": "2026-10-06T14:23:05Z",
+    "pushed_at": "2026-10-06T11:04:24Z"
+  },
+  {
+    "id": 1407253894,
+    "name": "hsi-donesafe-download",
+    "full_name": "Superkiliberate/hsi-donesafe-download",
+    "owner": {
+      "login": "Superkiliberate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330636085?v=4"
+    },
+    "description": "HSI Donesafe — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "download",
+      "hsi-donesafe",
+      "hsi-donesafe-download",
+      "security",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/Superkiliberate/hsi-donesafe-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T12:21:36Z",
+    "updated_at": "2026-10-06T14:31:01Z",
+    "pushed_at": "2026-10-06T12:25:53Z"
+  },
+  {
+    "id": 1408342363,
+    "name": "wine-quarantine",
+    "full_name": "Deathxknight/wine-quarantine",
+    "owner": {
+      "login": "Deathxknight",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107177472?v=4"
+    },
+    "description": "Linux bash scripts to isolate untrusted Windows game EXEs in a networkless Firejail sandbox with behavioral monitoring",
+    "topics": [
+      "linux",
+      "security"
+    ],
+    "html_url": "https://github.com/Deathxknight/wine-quarantine",
+    "stargazers_count": 9,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T06:19:26Z",
+    "updated_at": "2026-10-09T19:26:12Z",
+    "pushed_at": "2026-10-08T09:55:57Z"
+  },
+  {
+    "id": 1408247582,
+    "name": "Lab-RATS-v1.6",
+    "full_name": "KAN3C0/Lab-RATS-v1.6",
+    "owner": {
+      "login": "KAN3C0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/302383333?v=4"
+    },
+    "description": "Lab-RATS is an open-source, lightweight Android Remote Administration framework packed with powerful monitoring and interaction capabilities.",
+    "topics": [
+      "2026",
+      "android",
+      "apk-build",
+      "c2",
+      "monitoring",
+      "remote",
+      "security"
+    ],
+    "html_url": "https://github.com/KAN3C0/Lab-RATS-v1.6",
+    "stargazers_count": 8,
+    "language": "Java",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T04:35:48Z",
+    "updated_at": "2026-10-09T16:20:23Z",
+    "pushed_at": "2026-10-08T08:28:58Z"
+  },
+  {
+    "id": 1402940194,
+    "name": "easyssf",
+    "full_name": "easyssf/easyssf",
+    "owner": {
+      "login": "easyssf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245393392?v=4"
+    },
+    "description": "Building blocks for the OpenID Shared Signals Framework (SSF) for JVM based Apps",
+    "topics": [
+      "caep",
+      "java",
+      "openid",
+      "quarkus",
+      "security",
+      "shared-signals-framework",
+      "spring-boot",
+      "ssf"
+    ],
+    "html_url": "https://github.com/easyssf/easyssf",
+    "stargazers_count": 8,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T09:15:40Z",
+    "updated_at": "2026-10-08T10:01:28Z",
+    "pushed_at": "2026-10-06T09:03:25Z"
+  },
+  {
+    "id": 1405888997,
+    "name": "styx-app",
+    "full_name": "NicholasFlemmer/styx-app",
+    "owner": {
+      "login": "NicholasFlemmer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176575528?v=4"
+    },
+    "description": "Styx is where everything converges: every repo you work in, the AI coding agents building in them, and every login they need to ship. Switch between all of it from one window. And like the river it's named after, nothing crosses over without you. Deploying, or touching live data, asks you first.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "desktop-app",
+      "developer-tools",
+      "devops",
+      "electron",
+      "gemini-cli",
+      "git-worktrees",
+      "hacktoberfest",
+      "security"
+    ],
+    "html_url": "https://github.com/NicholasFlemmer/styx-app",
+    "stargazers_count": 8,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 21,
+    "created_at": "2026-10-05T14:19:42Z",
+    "updated_at": "2026-10-09T13:19:54Z",
+    "pushed_at": "2026-10-09T13:35:08Z"
+  },
+  {
+    "id": 1407347217,
+    "name": "javascript-deobfuscator",
+    "full_name": "lolcaken/javascript-deobfuscator",
+    "owner": {
+      "login": "lolcaken",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134832517?v=4"
+    },
+    "description": "Deobfuscator for javascript-obfuscator 5.x output (string arrays, control-flow flattening, self-defending, RC4/base64)",
+    "topics": [
+      "ast",
+      "babel",
+      "deobfuscation",
+      "deobfuscator",
+      "javascript",
+      "malware-analysis",
+      "obfuscator",
+      "reverse-engineering",
+      "security",
+      "typescript"
+    ],
+    "html_url": "https://github.com/lolcaken/javascript-deobfuscator",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T13:23:11Z",
+    "updated_at": "2026-10-07T22:31:09Z",
+    "pushed_at": "2026-10-06T13:24:07Z"
+  },
+  {
+    "id": 1409442365,
+    "name": "ZT-HAC",
+    "full_name": "Albatany/ZT-HAC",
+    "owner": {
+      "login": "Albatany",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80281262?v=4"
+    },
+    "description": "Zero-Trust Host Access Controller",
+    "topics": [
+      "application",
+      "rust",
+      "rust-api",
+      "rust-crate",
+      "security",
+      "security-testing",
+      "security-tools"
+    ],
+    "html_url": "https://github.com/Albatany/ZT-HAC",
+    "stargazers_count": 6,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T22:27:00Z",
+    "updated_at": "2026-10-08T18:18:47Z",
+    "pushed_at": "2026-10-08T18:48:33Z"
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "id": 1403115747,
+    "name": "replica-skill",
+    "full_name": "Jakeschincariol/replica-skill",
+    "owner": {
+      "login": "Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+    },
+    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+    "topics": [
+      "agent",
+      "agent-skills",
+      "app-clone",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "indie-hacker",
+      "reverse-engineering",
+      "saas"
+    ],
+    "html_url": "https://github.com/Jakeschincariol/replica-skill",
+    "stargazers_count": 1391,
+    "language": "Python",
+    "forks_count": 180,
+    "open_issues_count": 5,
+    "created_at": "2026-10-03T12:07:49Z",
+    "updated_at": "2026-10-10T02:00:01Z",
+    "pushed_at": "2026-10-03T12:07:53Z"
+  },
+  {
+    "id": 1403847264,
+    "name": "mesh-avatar-studio",
+    "full_name": "shinshin86/mesh-avatar-studio",
+    "owner": {
+      "login": "shinshin86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8216064?v=4"
+    },
+    "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+    "topics": [
+      "2d-animation",
+      "avatar",
+      "claude-code",
+      "codex",
+      "mesh-deformation",
+      "vtuber",
+      "webgl"
+    ],
+    "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
+    "stargazers_count": 567,
+    "language": "TypeScript",
+    "forks_count": 68,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T03:33:57Z",
+    "updated_at": "2026-10-10T01:57:01Z",
+    "pushed_at": "2026-10-09T03:14:49Z"
+  },
+  {
+    "id": 1405965779,
+    "name": "mortiflix-oss",
+    "full_name": "GTKottman/mortiflix-oss",
+    "owner": {
+      "login": "GTKottman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259927371?v=4"
+    },
+    "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "harness",
+      "motion-design",
+      "remotion",
+      "video",
+      "video-production"
+    ],
+    "html_url": "https://github.com/GTKottman/mortiflix-oss",
+    "stargazers_count": 498,
+    "language": "JavaScript",
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T15:15:13Z",
+    "updated_at": "2026-10-09T23:24:28Z",
+    "pushed_at": "2026-10-08T20:38:29Z"
+  },
+  {
+    "id": 1410002762,
+    "name": "big-arrow-on-the-screen",
+    "full_name": "franzenzenhofer/big-arrow-on-the-screen",
+    "owner": {
+      "login": "franzenzenhofer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323190?v=4"
+    },
+    "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "macos",
+      "swift"
+    ],
+    "html_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "stargazers_count": 468,
+    "language": "Swift",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T08:39:15Z",
+    "updated_at": "2026-10-10T01:51:22Z",
+    "pushed_at": "2026-10-09T21:54:24Z"
+  },
+  {
+    "id": 1403731980,
+    "name": "animate",
+    "full_name": "cth9191/animate",
+    "owner": {
+      "login": "cth9191",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129889057?v=4"
+    },
+    "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
+    "topics": [
+      "animation",
+      "canvas",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "explainer-video",
+      "generative-art",
+      "motion-graphics",
+      "procedural-animation",
+      "storyboard"
+    ],
+    "html_url": "https://github.com/cth9191/animate",
+    "stargazers_count": 291,
+    "language": "JavaScript",
+    "forks_count": 49,
+    "open_issues_count": 1,
+    "created_at": "2026-10-04T00:05:25Z",
+    "updated_at": "2026-10-10T01:45:37Z",
+    "pushed_at": "2026-10-05T20:31:48Z"
+  },
+  {
+    "id": 1408082051,
+    "name": "founder-skill",
+    "full_name": "Jakeschincariol/founder-skill",
+    "owner": {
+      "login": "Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+    },
+    "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+    "topics": [
+      "business-plan",
+      "claude-code",
+      "claude-skills",
+      "startup",
+      "subagents",
+      "unit-economics"
+    ],
+    "html_url": "https://github.com/Jakeschincariol/founder-skill",
+    "stargazers_count": 190,
+    "language": "Python",
+    "forks_count": 17,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T01:07:13Z",
+    "updated_at": "2026-10-09T23:23:22Z",
+    "pushed_at": "2026-10-07T01:07:17Z"
+  },
+  {
+    "id": 1408967756,
+    "name": "ai-data-extractor",
+    "full_name": "nachisama/ai-data-extractor",
+    "owner": {
+      "login": "nachisama",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318008866?v=4"
+    },
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "topics": [
+      "ai",
+      "ai-data",
+      "ai-data-analysis",
+      "claude-code",
+      "cursor",
+      "data-extraction",
+      "data-extraction-tool",
+      "data-extractor",
+      "windsurf",
+      "windsurf-ai"
+    ],
+    "html_url": "https://github.com/nachisama/ai-data-extractor",
+    "stargazers_count": 149,
+    "language": "Python",
+    "forks_count": 52,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T14:57:39Z",
+    "updated_at": "2026-10-09T16:41:40Z",
+    "pushed_at": "2026-10-09T15:29:23Z"
+  },
+  {
+    "id": 1408203013,
+    "name": "vibeclaude",
+    "full_name": "transkatgirl/vibeclaude",
+    "owner": {
+      "login": "transkatgirl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10361870?v=4"
+    },
+    "description": "A port of opencode-buttplugio to Claude Code written by Opus 5.5.",
+    "topics": [
+      "buttplug",
+      "buttplug-io",
+      "buttplugio",
+      "claude-code",
+      "claude-code-plugin"
+    ],
+    "html_url": "https://github.com/transkatgirl/vibeclaude",
+    "stargazers_count": 144,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-10-07T03:43:11Z",
+    "updated_at": "2026-10-09T18:04:27Z",
+    "pushed_at": "2026-10-07T10:44:24Z"
+  },
+  {
+    "id": 1403810477,
+    "name": "ai-iso-skill",
+    "full_name": "MrBongoC/ai-iso-skill",
+    "owner": {
+      "login": "MrBongoC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91344858?v=4"
+    },
+    "description": "Claude skill that draws interactive isometric figures in a single HTML file",
+    "topics": [
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "isometric",
+      "svg"
+    ],
+    "html_url": "https://github.com/MrBongoC/ai-iso-skill",
+    "stargazers_count": 134,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T02:38:15Z",
+    "updated_at": "2026-10-09T23:38:46Z",
+    "pushed_at": "2026-10-04T02:52:27Z"
+  },
+  {
+    "id": 1404158154,
+    "name": "qiaomu-codex-imagegen",
+    "full_name": "joeseesun/qiaomu-codex-imagegen",
+    "owner": {
+      "login": "joeseesun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+    },
+    "description": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "image-generation",
+      "mcp",
+      "poster-design",
+      "xiaohongshu"
+    ],
+    "html_url": "https://github.com/joeseesun/qiaomu-codex-imagegen",
+    "stargazers_count": 125,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T08:47:02Z",
+    "updated_at": "2026-10-10T00:24:17Z",
+    "pushed_at": "2026-10-04T09:34:49Z"
+  },
+  {
+    "id": 1404748076,
+    "name": "brand-identity-skill",
+    "full_name": "fatihaydost/brand-identity-skill",
+    "owner": {
+      "login": "fatihaydost",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93138685?v=4"
+    },
+    "description": "A Claude Code skill that designs a brand identity as one system: logo, typography and colour palette built together from one brief, measured, compared as identity cards, and delivered as a brand guidelines kit.",
+    "topics": [
+      "accessibility",
+      "agent-skills",
+      "agy",
+      "brand",
+      "brand-identity",
+      "branding",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "color",
+      "color-palette",
+      "design-tokens",
+      "font",
+      "logo",
+      "logo-design",
+      "skills",
+      "typography"
+    ],
+    "html_url": "https://github.com/fatihaydost/brand-identity-skill",
+    "stargazers_count": 115,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 1,
+    "created_at": "2026-10-04T19:00:50Z",
+    "updated_at": "2026-10-09T23:41:24Z",
+    "pushed_at": "2026-10-04T23:28:45Z"
+  },
+  {
+    "id": 1405432060,
+    "name": "absent-author",
+    "full_name": "THUROI0787/absent-author",
+    "owner": {
+      "login": "THUROI0787",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89240729?v=4"
+    },
+    "description": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
+    "topics": [
+      "agent-skills",
+      "ai-generated-content-detection",
+      "claude-code",
+      "codex",
+      "llm",
+      "peer-review",
+      "research-integrity"
+    ],
+    "html_url": "https://github.com/THUROI0787/absent-author",
+    "stargazers_count": 112,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T08:41:20Z",
+    "updated_at": "2026-10-09T23:56:51Z",
+    "pushed_at": "2026-10-07T07:19:56Z"
+  },
+  {
+    "id": 1404778804,
+    "name": "factory",
+    "full_name": "Khalidabdi1/factory",
+    "owner": {
+      "login": "Khalidabdi1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127331761?v=4"
+    },
+    "description": "A live isometric world in the browser: a seaside town, a new city, a farming village and a Starship launch site, all simulated in real time. Built with Claude Opus 5.5, three.js, TypeScript and Next.js.",
+    "topics": [
+      "city-simulation",
+      "claude-code",
+      "isometric",
+      "nextjs",
+      "simulation",
+      "threejs",
+      "webgl"
+    ],
+    "html_url": "https://github.com/Khalidabdi1/factory",
+    "stargazers_count": 99,
+    "language": "TypeScript",
+    "forks_count": 20,
+    "open_issues_count": 1,
+    "created_at": "2026-10-04T19:41:49Z",
+    "updated_at": "2026-10-10T01:41:35Z",
+    "pushed_at": "2026-10-07T08:27:39Z"
+  },
+  {
+    "id": 1407754231,
+    "name": "motionmaxxing",
+    "full_name": "Tejashmakwana/motionmaxxing",
+    "owner": {
+      "login": "Tejashmakwana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89969328?v=4"
+    },
+    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "claude-code",
+      "gsap",
+      "hyperframes",
+      "motion-graphics",
+      "motionmaxxing",
+      "video"
+    ],
+    "html_url": "https://github.com/Tejashmakwana/motionmaxxing",
+    "stargazers_count": 90,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T18:18:49Z",
+    "updated_at": "2026-10-09T20:10:46Z",
+    "pushed_at": "2026-10-06T18:20:43Z"
+  },
+  {
+    "id": 1410570717,
+    "name": "Motion-graphics-skill",
+    "full_name": "Miftahul-Islam-Efaz/Motion-graphics-skill",
+    "owner": {
+      "login": "Miftahul-Islam-Efaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224967049?v=4"
+    },
+    "description": "Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption and sound-design complete videos, rendered locally without After Effects.",
+    "topics": [
+      "after-effects-alternative",
+      "agent-skills",
+      "ai-video",
+      "ai-video-editing",
+      "captions",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "motion-graphics",
+      "sound-design",
+      "text-to-video",
+      "threejs",
+      "video-automation",
+      "video-editing"
+    ],
+    "html_url": "https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill",
+    "stargazers_count": 84,
+    "language": "Shell",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T15:29:41Z",
+    "updated_at": "2026-10-10T00:53:47Z",
+    "pushed_at": "2026-10-09T01:11:32Z"
+  },
+  {
+    "id": 1404241499,
+    "name": "vocaloid-style-mv-pipeline",
+    "full_name": "EGSECDA/vocaloid-style-mv-pipeline",
+    "owner": {
+      "login": "EGSECDA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128212024?v=4"
+    },
+    "description": "Production pipeline and Claude Code skill for Vocaloid-style hand-drawn (手書き) lyric music videos: deterministic Canvas2D/WebGL2 animation engine, JIZURA lyric motion, AI illustration, Blender toon 3D, headless rendering to 16:9 and 9:16.",
+    "topics": [
+      "animation",
+      "anime",
+      "blender",
+      "canvas",
+      "claude-code",
+      "claude-skill",
+      "ffmpeg",
+      "kinetic-typography",
+      "lyric-video",
+      "motion-graphics",
+      "music-video",
+      "playwright",
+      "vocaloid",
+      "webgl"
+    ],
+    "html_url": "https://github.com/EGSECDA/vocaloid-style-mv-pipeline",
+    "stargazers_count": 83,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T10:23:26Z",
+    "updated_at": "2026-10-10T01:51:40Z",
+    "pushed_at": "2026-10-04T11:38:15Z"
+  },
+  {
+    "id": 1409175398,
+    "name": "mcpdelta",
+    "full_name": "mcpdelta/mcpdelta",
+    "owner": {
+      "login": "mcpdelta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339267225?v=4"
+    },
+    "description": "Delta MCP is a free app that sits between your AI apps and their MCP servers: one program per task instead of one tool call per step, up to 24.1× fewer tokens in our benchmarks. Every change is recorded and undoable. Coming soon for macOS, Windows and Linux. Shortcuts can run by themselves, on a schedule.",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-desktop",
+      "cursor",
+      "desktop-app",
+      "developer-tools",
+      "gemini-cli",
+      "llm-tools",
+      "mcp",
+      "mcp-servers",
+      "model-context-protocol",
+      "scheduled-tasks",
+      "token-optimization",
+      "vscode",
+      "windsurf",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/mcpdelta/mcpdelta",
+    "stargazers_count": 80,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T17:53:23Z",
+    "updated_at": "2026-10-09T14:45:43Z",
+    "pushed_at": "2026-10-09T14:45:39Z"
+  },
+  {
+    "id": 1406569451,
+    "name": "effortless",
+    "full_name": "HeyCubit/effortless",
+    "owner": {
+      "login": "HeyCubit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/338387473?v=4"
+    },
+    "description": "Claude Code mod: picks the reasoning effort for every prompt, shows the prompt cache and context, and hands off or compacts in one click",
+    "topics": [
+      "ai-tools",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "developer-tools",
+      "prompt-caching"
+    ],
+    "html_url": "https://github.com/HeyCubit/effortless",
+    "stargazers_count": 69,
+    "language": "HTML",
+    "forks_count": 7,
+    "open_issues_count": 12,
+    "created_at": "2026-10-06T01:51:25Z",
+    "updated_at": "2026-10-10T01:22:56Z",
+    "pushed_at": "2026-10-10T00:30:48Z"
+  },
+  {
+    "id": 1403984902,
+    "name": "rustdsh",
+    "full_name": "jimoto-no-llm/rustdsh",
+    "owner": {
+      "login": "jimoto-no-llm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328677283?v=4"
+    },
+    "description": "Fast Rust launcher for DeepSeek Harness, with clear Claude Code/Codex migration, model setup and lightweight local tools",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "command-line",
+      "cross-platform",
+      "dashboard",
+      "deepseek",
+      "developer-tools",
+      "dsh",
+      "mcp",
+      "model-context-protocol",
+      "performance",
+      "rust",
+      "token-optimization"
+    ],
+    "html_url": "https://github.com/jimoto-no-llm/rustdsh",
+    "stargazers_count": 67,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 91,
+    "created_at": "2026-10-04T06:05:05Z",
+    "updated_at": "2026-10-10T01:42:48Z",
+    "pushed_at": "2026-10-10T01:45:52Z"
+  },
+  {
+    "id": 1410647711,
+    "name": "skills",
+    "full_name": "ishuagrawal/skills",
+    "owner": {
+      "login": "ishuagrawal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29902139?v=4"
+    },
+    "description": "Agent skills for engineering and design",
+    "topics": [
+      "agent-skills",
+      "animation",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills"
+    ],
+    "html_url": "https://github.com/ishuagrawal/skills",
+    "stargazers_count": 64,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 1,
+    "created_at": "2026-10-08T16:27:37Z",
+    "updated_at": "2026-10-10T00:04:54Z",
+    "pushed_at": "2026-10-08T16:56:29Z"
+  }
+]

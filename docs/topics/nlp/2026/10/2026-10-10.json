@@ -1,0 +1,589 @@
+[
+  {
+    "id": 1404663451,
+    "name": "vox-intel-engine",
+    "full_name": "ronitgupta138/vox-intel-engine",
+    "owner": {
+      "login": "ronitgupta138",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208290786?v=4"
+    },
+    "description": "🎙️ Real-Time Multi-Modal Speech Telemetry & Acoustic DSP Engine (FastAPI, Python 3.11, Autocorrelation Pitch, FFT Spectral Energy & Lexical Pacing Analytics).",
+    "topics": [
+      "acoustics",
+      "audio-dsp",
+      "audio-processing",
+      "dsp",
+      "fastapi",
+      "fft",
+      "multimodal-ai",
+      "nlp",
+      "presentation-coach",
+      "python",
+      "signal-processing",
+      "speech-analytics"
+    ],
+    "html_url": "https://github.com/ronitgupta138/vox-intel-engine",
+    "stargazers_count": 41,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T17:17:50Z",
+    "updated_at": "2026-10-09T16:08:36Z",
+    "pushed_at": "2026-10-05T19:29:52Z"
+  },
+  {
+    "id": 1403001875,
+    "name": "nexa-ai-notice-analyzer",
+    "full_name": "codexanjan/nexa-ai-notice-analyzer",
+    "owner": {
+      "login": "codexanjan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277778132?v=4"
+    },
+    "description": "⚡ NEXA - AI Notice Intelligence System. Automatically parses, prioritizes, scores and extracts actionable deadlines & tasks from campus circulars.",
+    "topics": [
+      "ai",
+      "fastapi",
+      "machine-learning",
+      "nlp",
+      "ocr",
+      "pymupdf",
+      "react",
+      "student-productivity",
+      "typescript",
+      "vite"
+    ],
+    "html_url": "https://github.com/codexanjan/nexa-ai-notice-analyzer",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T10:24:28Z",
+    "updated_at": "2026-10-09T16:22:48Z",
+    "pushed_at": "2026-10-09T16:24:42Z"
+  },
+  {
+    "id": 1405303703,
+    "name": "ym-translation",
+    "full_name": "yumiao-dev/ym-translation",
+    "owner": {
+      "login": "yumiao-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266876697?v=4"
+    },
+    "description": "A 54.4M-parameter from-scratch Chinese<->English translation model, trained on a single AMD Instinct MI300A (~8.2h, 4.2B tokens). Weights: https://huggingface.co/yumiao-dev/ym-translation",
+    "topics": [
+      "amd-mi300a",
+      "chinese",
+      "from-scratch",
+      "nlp",
+      "on-device",
+      "pytorch",
+      "rocm",
+      "translation"
+    ],
+    "html_url": "https://github.com/yumiao-dev/ym-translation",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T07:06:16Z",
+    "updated_at": "2026-10-06T15:27:14Z",
+    "pushed_at": "2026-10-06T15:27:10Z"
+  },
+  {
+    "id": 1405617712,
+    "name": "judged-useless-queried-anyway",
+    "full_name": "bennidict23/judged-useless-queried-anyway",
+    "owner": {
+      "login": "bennidict23",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162539053?v=4"
+    },
+    "description": "Tool-using agents judge a failing source useless, yet keep querying it. Code and data for the paper.",
+    "topics": [
+      "agent-evaluation",
+      "large-language-models",
+      "llm-agents",
+      "nlp",
+      "retrieval-augmented-generation",
+      "tool-use"
+    ],
+    "html_url": "https://github.com/bennidict23/judged-useless-queried-anyway",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T11:12:07Z",
+    "updated_at": "2026-10-08T05:37:20Z",
+    "pushed_at": "2026-10-08T05:37:16Z"
+  },
+  {
+    "id": 1402843374,
+    "name": "llm-hallucination-detector",
+    "full_name": "SYasJ/llm-hallucination-detector",
+    "owner": {
+      "login": "SYasJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27597591?v=4"
+    },
+    "description": "Free, open-source LLM hallucination detector. See token-level confidence as a heatmap and check every claim against your own sources (RAG). Works with any OpenAI-compatible API, ChatGPT & Claude. Zero dependencies, runs locally.",
+    "topics": [
+      "ai",
+      "ai-hallucination",
+      "ai-safety",
+      "chatgpt",
+      "chrome-extension",
+      "claude",
+      "fact-checking",
+      "generative-ai",
+      "gpt",
+      "guardrails",
+      "hallucination-detection",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "logprobs",
+      "nlp",
+      "openai",
+      "python",
+      "retrieval-augmented-generation",
+      "trust-score"
+    ],
+    "html_url": "https://github.com/SYasJ/llm-hallucination-detector",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T07:50:39Z",
+    "updated_at": "2026-10-05T11:27:57Z",
+    "pushed_at": "2026-10-03T08:17:49Z"
+  },
+  {
+    "id": 1406353997,
+    "name": "distill",
+    "full_name": "shmidtqq65/distill",
+    "owner": {
+      "login": "shmidtqq65",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158785619?v=4"
+    },
+    "description": "TL;DR any website. Nothing leaves your browser.",
+    "topics": [
+      "bookmarklet",
+      "built-in-ai",
+      "chrome-extension",
+      "nlp",
+      "summarizer",
+      "tldr",
+      "userscript"
+    ],
+    "html_url": "https://github.com/shmidtqq65/distill",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T20:35:51Z",
+    "updated_at": "2026-10-07T11:23:53Z",
+    "pushed_at": "2026-10-06T10:34:02Z"
+  },
+  {
+    "id": 1403228767,
+    "name": "sencelium",
+    "full_name": "vitaliihalak/sencelium",
+    "owner": {
+      "login": "vitaliihalak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208174745?v=4"
+    },
+    "description": "Non-Transformer language model with a living, self-growing memory — gated-delta-rule blocks, inner voice loop, memory pool that keeps learning after training.",
+    "topics": [
+      "deep-learning",
+      "language-model",
+      "machine-learning",
+      "memory-augmented-neural-networks",
+      "nlp",
+      "pytorch",
+      "pytorch-lightning",
+      "recurrent-neural-networks",
+      "research"
+    ],
+    "html_url": "https://github.com/vitaliihalak/sencelium",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T13:47:12Z",
+    "updated_at": "2026-10-05T06:46:47Z",
+    "pushed_at": "2026-10-05T06:46:43Z"
+  },
+  {
+    "id": 1404074013,
+    "name": "hybrid-document-search",
+    "full_name": "shannonlee-dev/hybrid-document-search",
+    "owner": {
+      "login": "shannonlee-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218243641?v=4"
+    },
+    "description": "Hybrid document search service comparing sparse, dense, and hybrid retrieval methods.",
+    "topics": [
+      "document-search",
+      "faiss",
+      "hybrid-search",
+      "information-retrieval",
+      "nlp",
+      "python",
+      "semantic-search",
+      "sentence-transformers"
+    ],
+    "html_url": "https://github.com/shannonlee-dev/hybrid-document-search",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-04T07:28:36Z",
+    "updated_at": "2026-10-08T07:39:10Z",
+    "pushed_at": "2026-10-10T01:31:30Z"
+  },
+  {
+    "id": 1409310607,
+    "name": "croatian-profanity-list",
+    "full_name": "offshore-studio/croatian-profanity-list",
+    "owner": {
+      "login": "offshore-studio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4357371?v=4"
+    },
+    "description": "Open Croatian / South Slavic profanity wordlists and generation pipeline for content moderation (MIT)",
+    "topics": [
+      "croatian",
+      "moderation",
+      "nlp",
+      "profanities",
+      "profanity",
+      "profanity-check",
+      "profanity-detection",
+      "profanity-filter",
+      "profanity-filtering",
+      "profanity-library",
+      "profanity-validator",
+      "wordlist"
+    ],
+    "html_url": "https://github.com/offshore-studio/croatian-profanity-list",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T19:56:10Z",
+    "updated_at": "2026-10-08T09:30:48Z",
+    "pushed_at": "2026-10-07T21:34:08Z"
+  },
+  {
+    "id": 1403498789,
+    "name": "MEDORA-Ai",
+    "full_name": "Astreonix/MEDORA-Ai",
+    "owner": {
+      "login": "Astreonix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185596533?v=4"
+    },
+    "description": "MEDORA-AI Medical Memory & Care Companion 🩺 Turn scattered medical reports into one organized, searchable medical memory. Ask questions about your records, understand complex medical terms in simple English or Roman Urdu, track your medical timeline, and generate concise doctor briefs  with every answer linked back to its source document.",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "fastapi",
+      "gemini-api",
+      "healthcare",
+      "llm",
+      "medical-ai",
+      "medicalassistance",
+      "medicalrecords",
+      "nlp",
+      "rag",
+      "react"
+    ],
+    "html_url": "https://github.com/Astreonix/MEDORA-Ai",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T18:03:13Z",
+    "updated_at": "2026-10-05T08:00:30Z",
+    "pushed_at": "2026-10-04T06:49:03Z"
+  },
+  {
+    "id": 1403799217,
+    "name": "Sparkcv",
+    "full_name": "sulthan-shaik77/Sparkcv",
+    "owner": {
+      "login": "sulthan-shaik77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289140860?v=4"
+    },
+    "description": "AI resume vs JD analyzer - TF-IDF, skill ontology, match score & project suggestions",
+    "topics": [
+      "ai",
+      "ats",
+      "job-description",
+      "machine-learning",
+      "nlp",
+      "portfolio-project",
+      "python",
+      "resume-analyzer",
+      "scikit-learn",
+      "streamlit",
+      "tf-idf"
+    ],
+    "html_url": "https://github.com/sulthan-shaik77/Sparkcv",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T02:20:46Z",
+    "updated_at": "2026-10-08T09:34:25Z",
+    "pushed_at": "2026-10-04T06:41:44Z"
+  },
+  {
+    "id": 1407719659,
+    "name": "cluster-review-intelligence",
+    "full_name": "AnubhavKiroula/cluster-review-intelligence",
+    "owner": {
+      "login": "AnubhavKiroula",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222352503?v=4"
+    },
+    "description": "Cluster-level review analytics for Uttarakhand tourism: aspect-based sentiment on Hinglish reviews, competitive benchmarking and trend detection. AI–Tourism Hackathon 2026 (G5).",
+    "topics": [
+      "aspect-based-sentiment-analysis",
+      "hackathon",
+      "hinglish",
+      "hospitality",
+      "nlp",
+      "sentiment-analysis",
+      "streamlit",
+      "tourism",
+      "uttarakhand"
+    ],
+    "html_url": "https://github.com/AnubhavKiroula/cluster-review-intelligence",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 9,
+    "created_at": "2026-10-06T17:48:27Z",
+    "updated_at": "2026-10-09T18:45:15Z",
+    "pushed_at": "2026-10-06T21:55:39Z"
+  },
+  {
+    "id": 1406422927,
+    "name": "bench-laya-vs-llms",
+    "full_name": "stuaninauts/bench-laya-vs-llms",
+    "owner": {
+      "login": "stuaninauts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83479142?v=4"
+    },
+    "description": "Laya (open-source Jev) vs classic ML, local LLMs and GPT on 1,800 real financial complaints. Accuracy, latency, cost and calibration, with paired significance tests",
+    "topics": [
+      "benchmark",
+      "calibration",
+      "fintech",
+      "laya",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "nlp",
+      "text-classification"
+    ],
+    "html_url": "https://github.com/stuaninauts/bench-laya-vs-llms",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-05T22:02:06Z",
+    "updated_at": "2026-10-09T20:30:39Z",
+    "pushed_at": "2026-10-05T23:00:03Z"
+  },
+  {
+    "id": 1403479897,
+    "name": "noentenc",
+    "full_name": "marti-jorda-roca/noentenc",
+    "owner": {
+      "login": "marti-jorda-roca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108732053?v=4"
+    },
+    "description": "Fast and lightweight language detection and translation for Python, on CPU, without torch.",
+    "topics": [
+      "cpu",
+      "fast",
+      "language-detection",
+      "machine-translation",
+      "nlp",
+      "onnx",
+      "python",
+      "translation"
+    ],
+    "html_url": "https://github.com/marti-jorda-roca/noentenc",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-10-03T17:43:04Z",
+    "updated_at": "2026-10-07T13:18:42Z",
+    "pushed_at": "2026-10-07T13:18:38Z"
+  },
+  {
+    "id": 1408200310,
+    "name": "resume-analyzer",
+    "full_name": "dguywhoknows/resume-analyzer",
+    "owner": {
+      "login": "dguywhoknows",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149638616?v=4"
+    },
+    "description": "ATS-style keyword coverage, bullet-quality linting and AI rewrites that tailor your resume to a specific job.",
+    "topics": [
+      "github-pages",
+      "javascript",
+      "nlp",
+      "pdfjs",
+      "resume"
+    ],
+    "html_url": "https://github.com/dguywhoknows/resume-analyzer",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T03:39:37Z",
+    "updated_at": "2026-10-09T00:51:48Z",
+    "pushed_at": "2026-10-09T00:51:45Z"
+  },
+  {
+    "id": 1404509021,
+    "name": "legal-research-assistant",
+    "full_name": "sanskar-94/legal-research-assistant",
+    "owner": {
+      "login": "sanskar-94",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203060425?v=4"
+    },
+    "description": "Nyaya: citation-grounded legal research assistant for Indian law (RAG over 112k chunks of statutes, Constitution and Supreme Court judgments)",
+    "topics": [
+      "chromadb",
+      "indian-law",
+      "legal-tech",
+      "nlp",
+      "rag",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/sanskar-94/legal-research-assistant",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T14:29:18Z",
+    "updated_at": "2026-10-04T19:20:23Z",
+    "pushed_at": "2026-10-04T14:29:24Z"
+  },
+  {
+    "id": 1407639694,
+    "name": "kurdish-nlp-metrics",
+    "full_name": "Kurdish-Tech/kurdish-nlp-metrics",
+    "owner": {
+      "login": "Kurdish-Tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/295152490?v=4"
+    },
+    "description": "Open, independent, reproducible metrics for Kurdish language technology — tokenizer fertility, grammar-eval coverage, and more.",
+    "topics": [
+      "kurdish",
+      "kurmanji",
+      "low-resource-languages",
+      "metrics",
+      "nlp",
+      "nlp-metrics",
+      "open-source",
+      "sorani",
+      "tokenizer",
+      "zazaki"
+    ],
+    "html_url": "https://github.com/Kurdish-Tech/kurdish-nlp-metrics",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T16:43:50Z",
+    "updated_at": "2026-10-07T12:51:04Z",
+    "pushed_at": "2026-10-07T12:50:59Z"
+  },
+  {
+    "id": 1404212258,
+    "name": "VeilAI_Mask",
+    "full_name": "MOKSHSoni/VeilAI_Mask",
+    "owner": {
+      "login": "MOKSHSoni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200087557?v=4"
+    },
+    "description": "Local AI privacy firewall: detects sensitive data, minimises and masks it before it reaches an AI tool, then restores the reply on your device. Six detection layers (rules, honeytokens, GLiNER NER, Org DNA, local Qwen3 4B via Ollama). Runs fully offline.",
+    "topics": [
+      "ai-security",
+      "data-loss-prevention",
+      "data-masking",
+      "fastapi",
+      "gliner",
+      "llm",
+      "local-first",
+      "nlp",
+      "ollama",
+      "pii-detection",
+      "privacy",
+      "qwen"
+    ],
+    "html_url": "https://github.com/MOKSHSoni/VeilAI_Mask",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-04T09:45:41Z",
+    "updated_at": "2026-10-04T10:03:52Z",
+    "pushed_at": "2026-10-04T10:03:48Z"
+  },
+  {
+    "id": 1402809230,
+    "name": "tiny-gpt-scratch",
+    "full_name": "voupe-inc/tiny-gpt-scratch",
+    "owner": {
+      "login": "voupe-inc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329486124?v=4"
+    },
+    "description": "A small character-level GPT in PyTorch (LayerNorm, dropout, AdamW) with a CLI for training, sampling, and loss-curve evaluation.",
+    "topics": [
+      "deep-learning",
+      "from-scratch",
+      "gpt",
+      "language-model",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "transformer"
+    ],
+    "html_url": "https://github.com/voupe-inc/tiny-gpt-scratch",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-03T07:18:42Z",
+    "updated_at": "2026-10-05T14:50:14Z",
+    "pushed_at": "2026-10-03T10:21:19Z"
+  },
+  {
+    "id": 1407171979,
+    "name": "copiloto-tvn",
+    "full_name": "vorluno/copiloto-tvn",
+    "owner": {
+      "login": "vorluno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298370174?v=4"
+    },
+    "description": "Copiloto editorial con IA para TVN: prioriza noticias de Panamá con evidencia citada y borradores para revisión humana (hackIAthon 2026)",
+    "topics": [
+      "hackiathon",
+      "llm",
+      "nlp",
+      "panama",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/vorluno/copiloto-tvn",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T11:24:15Z",
+    "updated_at": "2026-10-09T03:46:19Z",
+    "pushed_at": "2026-10-09T03:46:16Z"
+  }
+]
