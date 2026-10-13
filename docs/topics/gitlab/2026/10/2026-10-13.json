@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1409774513,
+    "name": "GITBACK",
+    "full_name": "rayzien/GITBACK",
+    "owner": {
+      "login": "rayzien",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328525664?v=4"
+    },
+    "description": "Open source git backup tool , to save your hardwork and efforts by github.com/rayzien and github.com/pheonix14 ",
+    "topics": [
+      "backup",
+      "data",
+      "github",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/rayzien/GITBACK",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T05:19:38Z",
+    "updated_at": "2026-10-08T19:02:37Z",
+    "pushed_at": "2026-10-08T05:52:47Z"
+  },
+  {
+    "id": 1413796812,
+    "name": "claude-qa-agent",
+    "full_name": "GhassenAZZOUZ/claude-qa-agent",
+    "owner": {
+      "login": "GhassenAZZOUZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75794579?v=4"
+    },
+    "description": "Sixteen QA workflows for Claude Code: Playwright-BDD E2E & API testing, bug filing, fix verification, MR test impact, flaky triage, release readiness, load tests — GitLab-native.",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "bdd",
+      "claude-code",
+      "devops",
+      "gitlab",
+      "playwright",
+      "playwright-bdd",
+      "qa",
+      "test-automation"
+    ],
+    "html_url": "https://github.com/GhassenAZZOUZ/claude-qa-agent",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 8,
+    "created_at": "2026-10-11T00:41:08Z",
+    "updated_at": "2026-10-13T00:33:18Z",
+    "pushed_at": "2026-10-11T01:29:06Z"
+  },
+  {
+    "id": 1406759311,
+    "name": "touchmark",
+    "full_name": "bedrock-python/touchmark",
+    "owner": {
+      "login": "bedrock-python",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282949571?v=4"
+    },
+    "description": "Keep shared files in sync across many repositories through pull requests, without overwriting what a team has made its own.",
+    "topics": [
+      "cli",
+      "forgejo",
+      "gitea",
+      "github-actions",
+      "gitlab",
+      "go",
+      "pull-requests"
+    ],
+    "html_url": "https://github.com/bedrock-python/touchmark",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-06T05:41:18Z",
+    "updated_at": "2026-10-10T06:16:27Z",
+    "pushed_at": "2026-10-13T00:17:28Z"
+  },
+  {
+    "id": 1408542000,
+    "name": "brain",
+    "full_name": "rasielchang/brain",
+    "owner": {
+      "login": "rasielchang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1515337?v=4"
+    },
+    "description": "Local-first AI work management: evidence-based daily briefs, weekly reviews, and project risk tracking with Codex or Claude Code.",
+    "topics": [
+      "ai",
+      "asana",
+      "claude-code",
+      "codex",
+      "gitlab",
+      "local-first",
+      "productivity"
+    ],
+    "html_url": "https://github.com/rasielchang/brain",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T09:19:37Z",
+    "updated_at": "2026-10-09T23:12:50Z",
+    "pushed_at": "2026-10-07T09:21:20Z"
+  },
+  {
+    "id": 1412941111,
+    "name": "keybund",
+    "full_name": "firsttris/keybund",
+    "owner": {
+      "login": "firsttris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1709260?v=4"
+    },
+    "description": "SSH key manager for Linux: one SSH key per GitHub, GitLab or Bitbucket account, client and server, and the right Git identity per folder. Writes plain OpenSSH and Git config (includeIf, core.sshCommand), no agent and no daemon. Desktop app (Tauri) and CLI, written in Rust.",
+    "topics": [
+      "bitbucket",
+      "cli",
+      "desktop-app",
+      "developer-tools",
+      "dotfiles",
+      "git",
+      "git-config",
+      "github",
+      "gitlab",
+      "includeif",
+      "kde",
+      "linux",
+      "multiple-accounts",
+      "openssh",
+      "rust",
+      "ssh",
+      "ssh-config",
+      "ssh-key-management",
+      "ssh-keys",
+      "tauri"
+    ],
+    "html_url": "https://github.com/firsttris/keybund",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T08:13:32Z",
+    "updated_at": "2026-10-11T18:52:20Z",
+    "pushed_at": "2026-10-11T18:52:16Z"
+  },
+  {
+    "id": 1410945866,
+    "name": "bull-sre-devops",
+    "full_name": "medkarim19/bull-sre-devops",
+    "owner": {
+      "login": "medkarim19",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98952597?v=4"
+    },
+    "description": "Ansible/AWX automation of the Jenkins upgrade cycle (backup, validation, upgrade, rollback) and OS migration from CentOS 8 to Rocky Linux 10",
+    "topics": [
+      "ansible",
+      "automation",
+      "awx",
+      "backup",
+      "bash",
+      "cicd",
+      "devops",
+      "gitlab",
+      "infrastructure",
+      "jenkins",
+      "linux",
+      "migration",
+      "nexus-repository",
+      "python",
+      "rhel",
+      "rollback",
+      "selenium",
+      "sre",
+      "sysadmin",
+      "yaml"
+    ],
+    "html_url": "https://github.com/medkarim19/bull-sre-devops",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T20:56:13Z",
+    "updated_at": "2026-10-10T21:58:02Z",
+    "pushed_at": "2026-10-08T21:41:00Z"
+  },
+  {
+    "id": 1411202964,
+    "name": "Mirror-Repo",
+    "full_name": "bhawan-kavinda/Mirror-Repo",
+    "owner": {
+      "login": "bhawan-kavinda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223249222?v=4"
+    },
+    "description": "Automatic GitHub → GitLab mirroring. Push to GitHub, and the same commits, branches and tags land on GitLab seconds later. Zero servers, Python stdlib only.",
+    "topics": [
+      "automation",
+      "backup",
+      "cloudflare-workers",
+      "git",
+      "github-actions",
+      "github-app",
+      "gitlab",
+      "mirror",
+      "python"
+    ],
+    "html_url": "https://github.com/bhawan-kavinda/Mirror-Repo",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-09T02:54:55Z",
+    "updated_at": "2026-10-12T04:01:55Z",
+    "pushed_at": "2026-10-09T03:43:50Z"
+  },
+  {
+    "id": 1406606019,
+    "name": "argus-gitlab-review",
+    "full_name": "duedue/argus-gitlab-review",
+    "owner": {
+      "login": "duedue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4694172?v=4"
+    },
+    "description": "Self-hosted AI code reviewer for GitLab merge requests — reviews with Claude Code on your own subscription and posts findings under your GitLab identity.",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "code-review",
+      "code-review-assistant-active",
+      "devtools",
+      "docker",
+      "gitlab",
+      "llm",
+      "merge-request",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/duedue/argus-gitlab-review",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T02:43:35Z",
+    "updated_at": "2026-10-08T06:00:03Z",
+    "pushed_at": "2026-10-08T05:59:58Z"
+  },
+  {
+    "id": 1408889462,
+    "name": "gitlab-pipeline-monitor",
+    "full_name": "cookily/gitlab-pipeline-monitor",
+    "owner": {
+      "login": "cookily",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26380035?v=4"
+    },
+    "description": "macOS menu bar app: watch GitLab CI/CD pipelines, get native notifications on success/failure",
+    "topics": [
+      "ci-cd",
+      "gitlab",
+      "macos",
+      "menubar",
+      "swift"
+    ],
+    "html_url": "https://github.com/cookily/gitlab-pipeline-monitor",
+    "stargazers_count": 0,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T14:04:32Z",
+    "updated_at": "2026-10-07T14:24:57Z",
+    "pushed_at": "2026-10-07T14:25:07Z"
+  },
+  {
+    "id": 1415046702,
+    "name": "vault-sync-github",
+    "full_name": "x-o-r-r-o/vault-sync-github",
+    "owner": {
+      "login": "x-o-r-r-o",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26153928?v=4"
+    },
+    "description": "Obsidian plugin: sync and back up your vault on desktop and mobile with GitHub, GitLab or Gitea. No Git install, smart merging, history, optional end-to-end encryption.",
+    "topics": [
+      "backup",
+      "gitea",
+      "github",
+      "gitlab",
+      "obsidian",
+      "obsidian-plugin",
+      "sync"
+    ],
+    "html_url": "https://github.com/x-o-r-r-o/vault-sync-github",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T04:19:05Z",
+    "updated_at": "2026-10-12T19:08:31Z",
+    "pushed_at": "2026-10-12T19:08:30Z"
+  },
+  {
+    "id": 1413912062,
+    "name": "lookup_gitlab_project_protected_branch",
+    "full_name": "AeternaFoundry/lookup_gitlab_project_protected_branch",
+    "owner": {
+      "login": "AeternaFoundry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340196787?v=4"
+    },
+    "description": "Terragrunt lookup unit for gitlab_project_protected_branch",
+    "topics": [
+      "gitlab",
+      "infra-datasource"
+    ],
+    "html_url": "https://github.com/AeternaFoundry/lookup_gitlab_project_protected_branch",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T04:11:03Z",
+    "updated_at": "2026-10-12T22:40:51Z",
+    "pushed_at": "2026-10-11T04:11:10Z"
+  },
+  {
+    "id": 1413911253,
+    "name": "lookup_gitlab_group_hooks",
+    "full_name": "AeternaFoundry/lookup_gitlab_group_hooks",
+    "owner": {
+      "login": "AeternaFoundry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340196787?v=4"
+    },
+    "description": "Terragrunt lookup unit for gitlab_group_hooks",
+    "topics": [
+      "gitlab",
+      "infra-datasource"
+    ],
+    "html_url": "https://github.com/AeternaFoundry/lookup_gitlab_group_hooks",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T04:09:43Z",
+    "updated_at": "2026-10-12T22:40:41Z",
+    "pushed_at": "2026-10-11T04:09:50Z"
+  },
+  {
+    "id": 1413911548,
+    "name": "lookup_gitlab_instance_deploy_keys",
+    "full_name": "AeternaFoundry/lookup_gitlab_instance_deploy_keys",
+    "owner": {
+      "login": "AeternaFoundry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340196787?v=4"
+    },
+    "description": "Terragrunt lookup unit for gitlab_instance_deploy_keys",
+    "topics": [
+      "gitlab",
+      "infra-datasource"
+    ],
+    "html_url": "https://github.com/AeternaFoundry/lookup_gitlab_instance_deploy_keys",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T04:10:11Z",
+    "updated_at": "2026-10-12T22:40:45Z",
+    "pushed_at": "2026-10-11T04:10:18Z"
+  },
+  {
+    "id": 1413912100,
+    "name": "lookup_gitlab_project_protected_branches",
+    "full_name": "AeternaFoundry/lookup_gitlab_project_protected_branches",
+    "owner": {
+      "login": "AeternaFoundry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340196787?v=4"
+    },
+    "description": "Terragrunt lookup unit for gitlab_project_protected_branches",
+    "topics": [
+      "gitlab",
+      "infra-datasource"
+    ],
+    "html_url": "https://github.com/AeternaFoundry/lookup_gitlab_project_protected_branches",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T04:11:08Z",
+    "updated_at": "2026-10-12T22:40:52Z",
+    "pushed_at": "2026-10-11T04:11:15Z"
+  },
+  {
+    "id": 1413909117,
+    "name": "module_gitlab_project_integration_redmine",
+    "full_name": "AeternaFoundry/module_gitlab_project_integration_redmine",
+    "owner": {
+      "login": "AeternaFoundry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340196787?v=4"
+    },
+    "description": "Terragrunt module for gitlab_project_integration_redmine",
+    "topics": [
+      "gitlab",
+      "infra-module"
+    ],
+    "html_url": "https://github.com/AeternaFoundry/module_gitlab_project_integration_redmine",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T04:06:06Z",
+    "updated_at": "2026-10-12T23:12:22Z",
+    "pushed_at": "2026-10-11T04:06:13Z"
+  },
+  {
+    "id": 1413909305,
+    "name": "module_gitlab_project_membership",
+    "full_name": "AeternaFoundry/module_gitlab_project_membership",
+    "owner": {
+      "login": "AeternaFoundry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340196787?v=4"
+    },
+    "description": "Terragrunt module for gitlab_project_membership",
+    "topics": [
+      "gitlab",
+      "infra-module"
+    ],
+    "html_url": "https://github.com/AeternaFoundry/module_gitlab_project_membership",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T04:06:25Z",
+    "updated_at": "2026-10-12T23:12:24Z",
+    "pushed_at": "2026-10-11T04:06:32Z"
+  },
+  {
+    "id": 1413909806,
+    "name": "module_gitlab_repository_file",
+    "full_name": "AeternaFoundry/module_gitlab_repository_file",
+    "owner": {
+      "login": "AeternaFoundry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340196787?v=4"
+    },
+    "description": "Terragrunt module for gitlab_repository_file",
+    "topics": [
+      "gitlab",
+      "infra-module"
+    ],
+    "html_url": "https://github.com/AeternaFoundry/module_gitlab_repository_file",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T04:07:12Z",
+    "updated_at": "2026-10-12T23:12:30Z",
+    "pushed_at": "2026-10-11T04:07:19Z"
+  },
+  {
+    "id": 1412050708,
+    "name": "gitlab_pipeline_schedule",
+    "full_name": "AeternaPackages/gitlab_pipeline_schedule",
+    "owner": {
+      "login": "AeternaPackages",
+      "avatar_url": "https://avatars.githubusercontent.com/u/301419444?v=4"
+    },
+    "description": "Terragrunt package for gitlab_pipeline_schedule",
+    "topics": [
+      "gitlab",
+      "infra-package"
+    ],
+    "html_url": "https://github.com/AeternaPackages/gitlab_pipeline_schedule",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:18:27Z",
+    "updated_at": "2026-10-09T15:18:38Z",
+    "pushed_at": "2026-10-09T15:18:35Z"
+  },
+  {
+    "id": 1413912428,
+    "name": "lookup_gitlab_runners",
+    "full_name": "AeternaFoundry/lookup_gitlab_runners",
+    "owner": {
+      "login": "AeternaFoundry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340196787?v=4"
+    },
+    "description": "Terragrunt lookup unit for gitlab_runners",
+    "topics": [
+      "gitlab",
+      "infra-datasource"
+    ],
+    "html_url": "https://github.com/AeternaFoundry/lookup_gitlab_runners",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T04:11:39Z",
+    "updated_at": "2026-10-12T22:40:56Z",
+    "pushed_at": "2026-10-11T04:11:46Z"
+  },
+  {
+    "id": 1413912293,
+    "name": "lookup_gitlab_release_link",
+    "full_name": "AeternaFoundry/lookup_gitlab_release_link",
+    "owner": {
+      "login": "AeternaFoundry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340196787?v=4"
+    },
+    "description": "Terragrunt lookup unit for gitlab_release_link",
+    "topics": [
+      "gitlab",
+      "infra-datasource"
+    ],
+    "html_url": "https://github.com/AeternaFoundry/lookup_gitlab_release_link",
+    "stargazers_count": 0,
+    "language": "HCL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T04:11:28Z",
+    "updated_at": "2026-10-12T22:40:54Z",
+    "pushed_at": "2026-10-11T04:11:36Z"
+  }
+]

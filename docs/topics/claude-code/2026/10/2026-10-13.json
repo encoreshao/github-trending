@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1410002762,
+    "name": "big-arrow-on-the-screen",
+    "full_name": "franzenzenhofer/big-arrow-on-the-screen",
+    "owner": {
+      "login": "franzenzenhofer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323190?v=4"
+    },
+    "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "macos",
+      "swift"
+    ],
+    "html_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "stargazers_count": 670,
+    "language": "Swift",
+    "forks_count": 16,
+    "open_issues_count": 1,
+    "created_at": "2026-10-08T08:39:15Z",
+    "updated_at": "2026-10-13T00:40:43Z",
+    "pushed_at": "2026-10-12T16:38:15Z"
+  },
+  {
+    "id": 1408082051,
+    "name": "founder-skill",
+    "full_name": "Jakeschincariol/founder-skill",
+    "owner": {
+      "login": "Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+    },
+    "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+    "topics": [
+      "business-plan",
+      "claude-code",
+      "claude-skills",
+      "startup",
+      "subagents",
+      "unit-economics"
+    ],
+    "html_url": "https://github.com/Jakeschincariol/founder-skill",
+    "stargazers_count": 405,
+    "language": "Python",
+    "forks_count": 40,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T01:07:13Z",
+    "updated_at": "2026-10-13T01:44:50Z",
+    "pushed_at": "2026-10-07T01:07:17Z"
+  },
+  {
+    "id": 1407754231,
+    "name": "motionmaxxing",
+    "full_name": "Tejashmakwana/motionmaxxing",
+    "owner": {
+      "login": "Tejashmakwana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89969328?v=4"
+    },
+    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "claude-code",
+      "gsap",
+      "hyperframes",
+      "motion-graphics",
+      "motionmaxxing",
+      "video"
+    ],
+    "html_url": "https://github.com/Tejashmakwana/motionmaxxing",
+    "stargazers_count": 280,
+    "language": "JavaScript",
+    "forks_count": 28,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T18:18:49Z",
+    "updated_at": "2026-10-13T01:59:09Z",
+    "pushed_at": "2026-10-06T18:20:43Z"
+  },
+  {
+    "id": 1412910425,
+    "name": "agent-chrome-relay",
+    "full_name": "aindeev/agent-chrome-relay",
+    "owner": {
+      "login": "aindeev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6354229?v=4"
+    },
+    "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+    "topics": [
+      "agent-browser",
+      "ai-agents",
+      "browser-automation",
+      "cdp",
+      "chrome-extension",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "macos",
+      "paseo"
+    ],
+    "html_url": "https://github.com/aindeev/agent-chrome-relay",
+    "stargazers_count": 256,
+    "language": "Go",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-10-10T07:38:27Z",
+    "updated_at": "2026-10-13T01:57:09Z",
+    "pushed_at": "2026-10-13T01:57:34Z"
+  },
+  {
+    "id": 1414876018,
+    "name": "skills",
+    "full_name": "juliobsz/skills",
+    "owner": {
+      "login": "juliobsz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68253526?v=4"
+    },
+    "description": "An agent skill that builds award-caliber websites from one line",
+    "topics": [
+      "agent-skills",
+      "astro",
+      "awwwards",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "creative-coding",
+      "frontend",
+      "gsap",
+      "nextjs",
+      "web-design",
+      "webgl"
+    ],
+    "html_url": "https://github.com/juliobsz/skills",
+    "stargazers_count": 224,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T00:07:32Z",
+    "updated_at": "2026-10-13T01:42:48Z",
+    "pushed_at": "2026-10-13T01:05:32Z"
+  },
+  {
+    "id": 1411545320,
+    "name": "ai-promo-video-maker",
+    "full_name": "liyupi/ai-promo-video-maker",
+    "owner": {
+      "login": "liyupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26037703?v=4"
+    },
+    "description": "一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 AI 旁白并逐句转写校验、自动审图，最后交付一支 4K 商业宣传视频和可在线播放的网页版。App、网站、SaaS、开源项目、课程、AI 模型都能做，你只需确认需求、试听配乐。不用学剪辑软件，也不用花钱找外包。基于 Remotion + ElevenLabs，可直接克隆使用，也能一键安装为 Agent Skill。",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-video",
+      "ai-video-generator",
+      "aigc",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "marketing",
+      "motion-graphics",
+      "playwright",
+      "product-video",
+      "promo-video",
+      "react",
+      "remotion",
+      "text-to-speech",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/liyupi/ai-promo-video-maker",
+    "stargazers_count": 218,
+    "language": "Python",
+    "forks_count": 35,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T08:44:30Z",
+    "updated_at": "2026-10-13T01:55:19Z",
+    "pushed_at": "2026-10-09T08:44:49Z"
+  },
+  {
+    "id": 1408203013,
+    "name": "vibeclaude",
+    "full_name": "transkatgirl/vibeclaude",
+    "owner": {
+      "login": "transkatgirl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10361870?v=4"
+    },
+    "description": "A port of opencode-buttplugio to Claude Code written by Opus 5.5.",
+    "topics": [
+      "buttplug",
+      "buttplug-io",
+      "buttplugio",
+      "claude-code",
+      "claude-code-plugin"
+    ],
+    "html_url": "https://github.com/transkatgirl/vibeclaude",
+    "stargazers_count": 160,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-10-07T03:43:11Z",
+    "updated_at": "2026-10-13T00:07:58Z",
+    "pushed_at": "2026-10-07T10:44:24Z"
+  },
+  {
+    "id": 1410251326,
+    "name": "claude-show-your-work",
+    "full_name": "iamumeransari/claude-show-your-work",
+    "owner": {
+      "login": "iamumeransari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84062580?v=4"
+    },
+    "description": "Claude Code shows images and plays videos right in your terminal: screenshots, Playwright recordings, and synced before/after QA. Ghostty & kitty.",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-mod",
+      "claude-code-mods",
+      "claude-code-plugin",
+      "developer-tools",
+      "ghostty",
+      "kitty",
+      "kitty-graphics-protocol",
+      "playwright",
+      "screenshots",
+      "terminal",
+      "visual-qa"
+    ],
+    "html_url": "https://github.com/iamumeransari/claude-show-your-work",
+    "stargazers_count": 157,
+    "language": "TypeScript",
+    "forks_count": 12,
+    "open_issues_count": 5,
+    "created_at": "2026-10-08T11:57:55Z",
+    "updated_at": "2026-10-13T01:51:12Z",
+    "pushed_at": "2026-10-12T06:49:32Z"
+  },
+  {
+    "id": 1412918852,
+    "name": "agent-standup",
+    "full_name": "Atoll92/agent-standup",
+    "owner": {
+      "login": "Atoll92",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92542738?v=4"
+    },
+    "description": "Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero tokens.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "mistral",
+      "mistral-vibe",
+      "monitoring",
+      "subagents",
+      "visualization",
+      "vscode-extension"
+    ],
+    "html_url": "https://github.com/Atoll92/agent-standup",
+    "stargazers_count": 150,
+    "language": "HTML",
+    "forks_count": 20,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T07:48:17Z",
+    "updated_at": "2026-10-13T01:58:30Z",
+    "pushed_at": "2026-10-13T01:58:26Z"
+  },
+  {
+    "id": 1406569451,
+    "name": "effortless",
+    "full_name": "HeyCubit/effortless",
+    "owner": {
+      "login": "HeyCubit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/338387473?v=4"
+    },
+    "description": "Claude Code mod: picks the reasoning effort for every prompt, shows the prompt cache and context, and hands off or compacts in one click",
+    "topics": [
+      "ai-tools",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "developer-tools",
+      "prompt-caching"
+    ],
+    "html_url": "https://github.com/HeyCubit/effortless",
+    "stargazers_count": 146,
+    "language": "HTML",
+    "forks_count": 14,
+    "open_issues_count": 15,
+    "created_at": "2026-10-06T01:51:25Z",
+    "updated_at": "2026-10-12T22:00:37Z",
+    "pushed_at": "2026-10-11T22:34:11Z"
+  },
+  {
+    "id": 1407583549,
+    "name": "world-execute-me-lyric-mv",
+    "full_name": "Nyankomintsu/world-execute-me-lyric-mv",
+    "owner": {
+      "login": "Nyankomintsu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233780972?v=4"
+    },
+    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
+    "topics": [
+      "ai-generated",
+      "canvas",
+      "claude",
+      "claude-code",
+      "creative-coding",
+      "fan-work",
+      "generative-art",
+      "lyric-video",
+      "mili",
+      "music-video",
+      "prompts",
+      "webgl"
+    ],
+    "html_url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
+    "stargazers_count": 128,
+    "language": "JavaScript",
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T16:02:51Z",
+    "updated_at": "2026-10-12T20:08:43Z",
+    "pushed_at": "2026-10-06T16:04:03Z"
+  },
+  {
+    "id": 1411843792,
+    "name": "wx-bot",
+    "full_name": "lawrencewzen/wx-bot",
+    "owner": {
+      "login": "lawrencewzen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32676356?v=4"
+    },
+    "description": "把微信接入你的 AI Agent（Grok / Muse / Claude 等）· Connect WeChat to your personal AI agent via official iLink",
+    "topics": [
+      "ai-agent",
+      "bun",
+      "claude-code",
+      "llm",
+      "typescript",
+      "wechat",
+      "wechat-bot"
+    ],
+    "html_url": "https://github.com/lawrencewzen/wx-bot",
+    "stargazers_count": 122,
+    "language": "TypeScript",
+    "forks_count": 21,
+    "open_issues_count": 1,
+    "created_at": "2026-10-09T12:51:25Z",
+    "updated_at": "2026-10-13T01:30:19Z",
+    "pushed_at": "2026-10-11T11:46:55Z"
+  },
+  {
+    "id": 1411492489,
+    "name": "work-humanizer",
+    "full_name": "phuryn/work-humanizer",
+    "owner": {
+      "login": "phuryn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
+    },
+    "description": "A humanizer for work writing: takes the AI tone out without changing what your text says or commits to. Agent Skill + evidence: blind judges, hand-checked meaning changes, Pangram.",
+    "topics": [
+      "agent-skills",
+      "ai-detection",
+      "ai-writing",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "humanizer",
+      "writing"
+    ],
+    "html_url": "https://github.com/phuryn/work-humanizer",
+    "stargazers_count": 104,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T08:02:57Z",
+    "updated_at": "2026-10-12T19:10:05Z",
+    "pushed_at": "2026-10-10T10:09:15Z"
+  },
+  {
+    "id": 1410570717,
+    "name": "Motion-graphics-skill",
+    "full_name": "Miftahul-Islam-Efaz/Motion-graphics-skill",
+    "owner": {
+      "login": "Miftahul-Islam-Efaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224967049?v=4"
+    },
+    "description": "Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption and sound-design complete videos, rendered locally without After Effects.",
+    "topics": [
+      "after-effects-alternative",
+      "agent-skills",
+      "ai-video",
+      "ai-video-editing",
+      "captions",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "motion-graphics",
+      "sound-design",
+      "text-to-video",
+      "threejs",
+      "video-automation",
+      "video-editing"
+    ],
+    "html_url": "https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill",
+    "stargazers_count": 93,
+    "language": "Shell",
+    "forks_count": 15,
+    "open_issues_count": 1,
+    "created_at": "2026-10-08T15:29:41Z",
+    "updated_at": "2026-10-13T01:18:27Z",
+    "pushed_at": "2026-10-10T10:00:03Z"
+  },
+  {
+    "id": 1409175398,
+    "name": "mcpdelta",
+    "full_name": "mcpdelta/mcpdelta",
+    "owner": {
+      "login": "mcpdelta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339267225?v=4"
+    },
+    "description": "Delta MCP is a free app that sits between your AI apps and their MCP servers: one program per task instead of one tool call per step, up to 24.1× fewer tokens in our benchmarks. Every change is recorded and undoable. Coming soon for macOS, Windows and Linux. Shortcuts can run by themselves, on a schedule.",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-desktop",
+      "cursor",
+      "desktop-app",
+      "developer-tools",
+      "gemini-cli",
+      "llm-tools",
+      "mcp",
+      "mcp-servers",
+      "model-context-protocol",
+      "scheduled-tasks",
+      "token-optimization",
+      "vscode",
+      "windsurf",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/mcpdelta/mcpdelta",
+    "stargazers_count": 81,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T17:53:23Z",
+    "updated_at": "2026-10-12T20:55:41Z",
+    "pushed_at": "2026-10-10T12:51:22Z"
+  },
+  {
+    "id": 1411434514,
+    "name": "khan-explainer",
+    "full_name": "haiderfarooq3/khan-explainer",
+    "owner": {
+      "login": "haiderfarooq3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157701759?v=4"
+    },
+    "description": "Claude Code skill: Khan Academy style explainer videos. A pen draws while a voice explains. Free, local, no API keys.",
+    "topics": [
+      "agent-skills",
+      "ai-video",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skills",
+      "explainer-video",
+      "ffmpeg",
+      "khan-academy",
+      "macos",
+      "playwright",
+      "video-generation",
+      "whiteboard-animation"
+    ],
+    "html_url": "https://github.com/haiderfarooq3/khan-explainer",
+    "stargazers_count": 80,
+    "language": "JavaScript",
+    "forks_count": 22,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T07:10:05Z",
+    "updated_at": "2026-10-12T15:55:56Z",
+    "pushed_at": "2026-10-11T00:08:41Z"
+  },
+  {
+    "id": 1412855958,
+    "name": "cross-harness",
+    "full_name": "AI-BizOS/cross-harness",
+    "owner": {
+      "login": "AI-BizOS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332816952?v=4"
+    },
+    "description": "Open cross-harness protocol with terminal and local web interfaces",
+    "topics": [
+      "acp",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "mcp",
+      "multi-agent",
+      "orchestration",
+      "tui"
+    ],
+    "html_url": "https://github.com/AI-BizOS/cross-harness",
+    "stargazers_count": 79,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T06:37:06Z",
+    "updated_at": "2026-10-13T01:58:54Z",
+    "pushed_at": "2026-10-10T14:18:41Z"
+  },
+  {
+    "id": 1412610162,
+    "name": "atticus-mac",
+    "full_name": "SaarthurR/atticus-mac",
+    "owner": {
+      "login": "SaarthurR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123905329?v=4"
+    },
+    "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+    "topics": [
+      "claude",
+      "claude-code",
+      "macos",
+      "menubar-app",
+      "open-source",
+      "productivity",
+      "speech-recognition",
+      "swift",
+      "voice-assistant"
+    ],
+    "html_url": "https://github.com/SaarthurR/atticus-mac",
+    "stargazers_count": 78,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T01:07:04Z",
+    "updated_at": "2026-10-13T01:59:35Z",
+    "pushed_at": "2026-10-13T01:13:09Z"
+  },
+  {
+    "id": 1413307346,
+    "name": "mcd-git",
+    "full_name": "zhutoumeme/mcd-git",
+    "owner": {
+      "login": "zhutoumeme",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8815374?v=4"
+    },
+    "description": "用 git 命令点麦当劳：add 放购物车，rebase 凑最省，push 确认后才下单；card 生成 1024 吃麦贡献图（3D 汉堡天际线 / 年度小票）。基于麦当劳 MCP Server，附 --demo 无 Token 试玩和 Agent Skill。非官方参赛作品。",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "cli",
+      "git",
+      "mcdonalds",
+      "mcp",
+      "mcp-client",
+      "model-context-protocol",
+      "python",
+      "terminal",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/zhutoumeme/mcd-git",
+    "stargazers_count": 75,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T14:46:47Z",
+    "updated_at": "2026-10-13T01:18:02Z",
+    "pushed_at": "2026-10-12T12:19:28Z"
+  },
+  {
+    "id": 1413781544,
+    "name": "stop-describing-ui",
+    "full_name": "artouc/stop-describing-ui",
+    "owner": {
+      "login": "artouc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92306490?v=4"
+    },
+    "description": "An agent skill that strips explanatory copy out of user interfaces.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "design",
+      "microcopy",
+      "skills",
+      "ui",
+      "ui-copy",
+      "ux",
+      "ux-writing"
+    ],
+    "html_url": "https://github.com/artouc/stop-describing-ui",
+    "stargazers_count": 70,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T00:12:11Z",
+    "updated_at": "2026-10-13T00:12:00Z",
+    "pushed_at": "2026-10-11T08:06:16Z"
+  }
+]

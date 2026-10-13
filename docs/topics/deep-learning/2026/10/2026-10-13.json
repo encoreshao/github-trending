@@ -1,0 +1,588 @@
+[
+  {
+    "id": 1408120545,
+    "name": "zephon",
+    "full_name": "datologyai/zephon",
+    "owner": {
+      "login": "datologyai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146795414?v=4"
+    },
+    "description": "Fast, flexible, elastically deterministic data loading for foundation model training",
+    "topics": [
+      "data-loader",
+      "deep-learning",
+      "distributed-training",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/datologyai/zephon",
+    "stargazers_count": 66,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 12,
+    "created_at": "2026-10-07T01:59:41Z",
+    "updated_at": "2026-10-12T19:37:27Z",
+    "pushed_at": "2026-10-12T22:48:20Z"
+  },
+  {
+    "id": 1407631852,
+    "name": "awesome-spatial-transcriptomics",
+    "full_name": "wrab12/awesome-spatial-transcriptomics",
+    "owner": {
+      "login": "wrab12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109090911?v=4"
+    },
+    "description": "A curated list of tools, foundation models, datasets and tutorials for spatial transcriptomics and single-cell analysis, ordered the way an analysis goes.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "computational-biology",
+      "deep-learning",
+      "foundation-models",
+      "genomics",
+      "merfish",
+      "scrna-seq",
+      "single-cell",
+      "single-cell-rna-seq",
+      "spatial-omics",
+      "spatial-transcriptomics",
+      "visium",
+      "xenium"
+    ],
+    "html_url": "https://github.com/wrab12/awesome-spatial-transcriptomics",
+    "stargazers_count": 45,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T16:37:52Z",
+    "updated_at": "2026-10-12T20:11:42Z",
+    "pushed_at": "2026-10-12T14:28:49Z"
+  },
+  {
+    "id": 1408152368,
+    "name": "Autotrader",
+    "full_name": "PkLavc/Autotrader",
+    "owner": {
+      "login": "PkLavc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163757335?v=4"
+    },
+    "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
+    "topics": [
+      "ai-trading-system",
+      "algorithmic-trading-quantitative",
+      "artificial-intelligence",
+      "automated-trading-tool",
+      "deep-learning",
+      "finance",
+      "financial-machine-learning",
+      "github-actions",
+      "machine-learning",
+      "market-prediction",
+      "paper-trading-platform",
+      "portfolio-optimization",
+      "python",
+      "pytorch",
+      "quantitative-finance",
+      "quantitative-trading-tool",
+      "stock-market",
+      "stock-prediction",
+      "time-series-forecasting",
+      "trading-bot-ai-automated"
+    ],
+    "html_url": "https://github.com/PkLavc/Autotrader",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T02:43:14Z",
+    "updated_at": "2026-10-13T00:53:37Z",
+    "pushed_at": "2026-10-10T01:49:32Z"
+  },
+  {
+    "id": 1410911488,
+    "name": "Adaptive-Learnable-Hierarchical-Routing-",
+    "full_name": "vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-",
+    "owner": {
+      "login": "vdev-ctrl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339790151?v=4"
+    },
+    "description": "This repo is a alternative solution for standard self-attention. It uses tree routing with learnable functions for cheaper self-attention while not compromising accuracy.",
+    "topics": [
+      "attention-mechanism",
+      "deep-learning",
+      "efficient-inference",
+      "efficient-transformers",
+      "llm",
+      "long-context",
+      "pytorch",
+      "sparse-attention",
+      "sub-quadratic-attention",
+      "transformer",
+      "tree-attention"
+    ],
+    "html_url": "https://github.com/vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T20:18:52Z",
+    "updated_at": "2026-10-12T23:06:34Z",
+    "pushed_at": "2026-10-11T16:12:51Z"
+  },
+  {
+    "id": 1410347560,
+    "name": "selfplay2perfect",
+    "full_name": "lucidrains/selfplay2perfect",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of Play2Perfect, from Tyler Ga Wei Lum et al. of Stanford, but with a Self Play element",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "self-play"
+    ],
+    "html_url": "https://github.com/lucidrains/selfplay2perfect",
+    "stargazers_count": 5,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T13:00:56Z",
+    "updated_at": "2026-10-11T15:45:14Z",
+    "pushed_at": "2026-10-08T13:02:49Z"
+  },
+  {
+    "id": 1410319554,
+    "name": "nn-htop",
+    "full_name": "marviecephas/nn-htop",
+    "owner": {
+      "login": "marviecephas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120428022?v=4"
+    },
+    "description": "htop for Neural Networks: A terminal monitor for PyTorch layer activations and gradients",
+    "topics": [
+      "deep-learning",
+      "htop",
+      "machine-learning",
+      "monitoring",
+      "pytorch",
+      "terminal",
+      "textual",
+      "tui"
+    ],
+    "html_url": "https://github.com/marviecephas/nn-htop",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T12:42:50Z",
+    "updated_at": "2026-10-12T13:40:54Z",
+    "pushed_at": "2026-10-08T14:09:12Z"
+  },
+  {
+    "id": 1408321751,
+    "name": "Liquid-Network-Model",
+    "full_name": "blacklike02/Liquid-Network-Model",
+    "owner": {
+      "login": "blacklike02",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104318287?v=4"
+    },
+    "description": "Liquid Neural Network language model with LTC and CfC dynamics",
+    "topics": [
+      "closed-form-continuous-time",
+      "deep-learning",
+      "language-model",
+      "liquid-neural-networks",
+      "liquid-time-constant",
+      "llm",
+      "machine-learning",
+      "machine-learning-models",
+      "natural-language-processing",
+      "neural-network",
+      "open-source",
+      "pytorch",
+      "recurrent-neural-networks",
+      "text-generation"
+    ],
+    "html_url": "https://github.com/blacklike02/Liquid-Network-Model",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T05:57:19Z",
+    "updated_at": "2026-10-12T07:07:58Z",
+    "pushed_at": "2026-10-12T06:55:34Z"
+  },
+  {
+    "id": 1409044526,
+    "name": "omni",
+    "full_name": "prism-oncology/omni",
+    "owner": {
+      "login": "prism-oncology",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273068181?v=4"
+    },
+    "description": "[NeurIPS26] Scaling Multi-Teacher Distillation for Digital Pathology",
+    "topics": [
+      "deep-learning",
+      "digital-pathology",
+      "distillation",
+      "foundation-models",
+      "histopathology",
+      "multi-teacher"
+    ],
+    "html_url": "https://github.com/prism-oncology/omni",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T15:59:55Z",
+    "updated_at": "2026-10-12T22:48:37Z",
+    "pushed_at": "2026-10-12T00:27:10Z"
+  },
+  {
+    "id": 1410720572,
+    "name": "research-figure-library",
+    "full_name": "RuntimeWarning/research-figure-library",
+    "owner": {
+      "login": "RuntimeWarning",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45599640?v=4"
+    },
+    "description": "研图 Figure Atlas：289 张经典深度学习论文原图（附原文图注、出处与许可）与 28,102 个开源科研图标，中英文检索、改色下载。Original figures from 227 papers + research icons from 10 open-source packs.",
+    "topics": [
+      "academic-figures",
+      "bioicons",
+      "deep-learning",
+      "figure-library",
+      "github-pages",
+      "icon-library",
+      "machine-learning",
+      "neural-network-architecture",
+      "paper-figures",
+      "research",
+      "scientific-illustration",
+      "svg-icons"
+    ],
+    "html_url": "https://github.com/RuntimeWarning/research-figure-library",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-08T17:26:28Z",
+    "updated_at": "2026-10-10T07:13:55Z",
+    "pushed_at": "2026-10-09T04:39:44Z"
+  },
+  {
+    "id": 1411183473,
+    "name": "Suitable-for-complete-beginners-in-YOLO",
+    "full_name": "Kebeny/Suitable-for-complete-beginners-in-YOLO",
+    "owner": {
+      "login": "Kebeny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284743163?v=4"
+    },
+    "description": "A full-process YOLO object detection guide tool for beginners: automatically detects GPU/CPU and recommends training parameters, comes with built-in dataset generation and image labeling, real-time training logs and result visualization, supports real-time camera recognition and batch image recognition. Developed with PyQt5 + PyTorch + Ultralytics,",
+    "topics": [
+      "deep-learning",
+      "gui",
+      "object-detection",
+      "pyqt5",
+      "pytorch",
+      "ultralytics-yolo",
+      "windows",
+      "yolo"
+    ],
+    "html_url": "https://github.com/Kebeny/Suitable-for-complete-beginners-in-YOLO",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T02:30:16Z",
+    "updated_at": "2026-10-12T01:37:38Z",
+    "pushed_at": "2026-10-12T01:33:03Z"
+  },
+  {
+    "id": 1409945603,
+    "name": "maiorana2021-eeg-verification",
+    "full_name": "SANZAAAAA/maiorana2021-eeg-verification",
+    "owner": {
+      "login": "SANZAAAAA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135461769?v=4"
+    },
+    "description": "Maiorana 2021 任务无关 EEG 生物特征认证复现 (通道独立孪生 CNN, PyTorch)",
+    "topics": [
+      "biometrics",
+      "deep-learning",
+      "eeg",
+      "pytorch",
+      "reproduction",
+      "siamese-network",
+      "verification"
+    ],
+    "html_url": "https://github.com/SANZAAAAA/maiorana2021-eeg-verification",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T07:52:00Z",
+    "updated_at": "2026-10-10T02:03:21Z",
+    "pushed_at": "2026-10-08T08:18:51Z"
+  },
+  {
+    "id": 1413033436,
+    "name": "sar-flood-segmentation",
+    "full_name": "datawitholoye/sar-flood-segmentation",
+    "owner": {
+      "login": "datawitholoye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129138763?v=4"
+    },
+    "description": "Benchmarking CNN and Transformer models for cross-geographic flood segmentation from Sentinel-1 SAR imagery (Sen1Floods11). MSc dissertation, University of Hull.",
+    "topics": [
+      "deep-learning",
+      "flood-mapping",
+      "pytorch",
+      "remote-sensing",
+      "sar",
+      "segformer",
+      "semantic-segmentation",
+      "sen1floods11",
+      "sentinel-1",
+      "unet"
+    ],
+    "html_url": "https://github.com/datawitholoye/sar-flood-segmentation",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T10:00:28Z",
+    "updated_at": "2026-10-10T11:12:41Z",
+    "pushed_at": "2026-10-10T10:08:26Z"
+  },
+  {
+    "id": 1411914063,
+    "name": "mm300",
+    "full_name": "zhangjianbang-nb/mm300",
+    "owner": {
+      "login": "zhangjianbang-nb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330888932?v=4"
+    },
+    "description": "297 classic multimodal models: educational PyTorch re-implementations with exact arXiv-verified paper references and CPU smoke tests",
+    "topics": [
+      "deep-learning",
+      "education",
+      "multimodal",
+      "pytorch",
+      "research"
+    ],
+    "html_url": "https://github.com/zhangjianbang-nb/mm300",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T13:43:32Z",
+    "updated_at": "2026-10-09T22:42:09Z",
+    "pushed_at": "2026-10-09T13:44:01Z"
+  },
+  {
+    "id": 1412439737,
+    "name": "streaming-community",
+    "full_name": "secondwindoss/streaming-community",
+    "owner": {
+      "login": "secondwindoss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340219395?v=4"
+    },
+    "description": "Fast, accurate streaming of training data from cloud storage for PyTorch. Community-maintained fork of MosaicML Streaming.",
+    "topics": [
+      "cloud-storage",
+      "data-loading",
+      "dataset",
+      "deep-learning",
+      "distributed-training",
+      "machine-learning",
+      "python",
+      "pytorch",
+      "streaming"
+    ],
+    "html_url": "https://github.com/secondwindoss/streaming-community",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T20:52:44Z",
+    "updated_at": "2026-10-12T15:44:44Z",
+    "pushed_at": "2026-10-12T15:44:42Z"
+  },
+  {
+    "id": 1414460437,
+    "name": "henrys-stock-crash-prediction",
+    "full_name": "ZHHHenry/henrys-stock-crash-prediction",
+    "owner": {
+      "login": "ZHHHenry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/250961825?v=4"
+    },
+    "description": "LSTM baselines for A-share stock crash prediction: dual crash labels (extreme-return and market-model crash weeks), weekly panels (40-1577 stocks), reproducible training/eval pipeline.",
+    "topics": [
+      "a-share",
+      "crash-risk",
+      "deep-learning",
+      "lstm",
+      "pytorch",
+      "quantitative-finance",
+      "stock-crash-prediction",
+      "time-series"
+    ],
+    "html_url": "https://github.com/ZHHHenry/henrys-stock-crash-prediction",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T15:04:06Z",
+    "updated_at": "2026-10-11T16:49:41Z",
+    "pushed_at": "2026-10-11T15:04:28Z"
+  },
+  {
+    "id": 1411252459,
+    "name": "wood-multitask",
+    "full_name": "feng656/wood-multitask",
+    "owner": {
+      "login": "feng656",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186997768?v=4"
+    },
+    "description": "共享编码器多任务模型:木材年轮提取+缺陷检测+缺陷实例分类(ResNet34+FPN)。基于 UruDendro、VSB-TUO、VNWoodKnot 等公开数据集训练(Marichal 2025 / Kodytek 2021 等论文)",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "defect-detection",
+      "pytorch",
+      "wood"
+    ],
+    "html_url": "https://github.com/feng656/wood-multitask",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T03:54:04Z",
+    "updated_at": "2026-10-09T04:33:08Z",
+    "pushed_at": "2026-10-09T04:26:12Z"
+  },
+  {
+    "id": 1413880042,
+    "name": "PACE-Net",
+    "full_name": "xcljn/PACE-Net",
+    "owner": {
+      "login": "xcljn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243519056?v=4"
+    },
+    "description": "PACE-Net: Point-Aware Conditional Enhancement Network for Radio Map Reconstruction from Sparse Observations",
+    "topics": [
+      "convolutional-neural-network",
+      "deep-learning",
+      "pytorch",
+      "radio-map",
+      "radio-map-reconstruction",
+      "radio-unet",
+      "sparse-reconstruction",
+      "wireless-communication"
+    ],
+    "html_url": "https://github.com/xcljn/PACE-Net",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T03:17:06Z",
+    "updated_at": "2026-10-11T05:42:35Z",
+    "pushed_at": "2026-10-11T05:37:13Z"
+  },
+  {
+    "id": 1409505647,
+    "name": "DyssomniaNN",
+    "full_name": "danielathome19/DyssomniaNN",
+    "owner": {
+      "login": "danielathome19",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24834480?v=4"
+    },
+    "description": "A multi-scale spiking neural network framework modeling human sleep disorders, circadian regulation, neural dynamics, and perceived restedness through biophysical simulations.",
+    "topics": [
+      "biophysical-modeling",
+      "brain-computer-interface",
+      "circadian-rhythm",
+      "computational-modeling",
+      "computational-neuroscience",
+      "deep-learning",
+      "eeg-analysis",
+      "insomnia",
+      "leaky-integrate-and-fire",
+      "narcolepsy",
+      "neuromorphic-computing",
+      "neuropharmacology",
+      "neuroscience",
+      "neuroscience-inspired-ai",
+      "sleep",
+      "sleep-analysis",
+      "sleep-disorders",
+      "sleep-modeling",
+      "sleep-research",
+      "spiking-neural-networks"
+    ],
+    "html_url": "https://github.com/danielathome19/DyssomniaNN",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T00:02:52Z",
+    "updated_at": "2026-10-11T10:17:19Z",
+    "pushed_at": "2026-10-09T18:53:35Z"
+  },
+  {
+    "id": 1410637822,
+    "name": "Forma",
+    "full_name": "serg-bg/Forma",
+    "owner": {
+      "login": "serg-bg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135439209?v=4"
+    },
+    "description": "Forma: a desktop app for 3D deep-learning microscopy analysis on Mac and Windows",
+    "topics": [
+      "bioimage-analysis",
+      "deep-learning",
+      "microscopy",
+      "napari",
+      "neuroscience",
+      "nnunet",
+      "ome-zarr",
+      "segmentation"
+    ],
+    "html_url": "https://github.com/serg-bg/Forma",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T16:19:33Z",
+    "updated_at": "2026-10-12T15:35:04Z",
+    "pushed_at": "2026-10-08T17:41:11Z"
+  },
+  {
+    "id": 1411252782,
+    "name": "wood-pith",
+    "full_name": "feng656/wood-pith",
+    "owner": {
+      "login": "feng656",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186997768?v=4"
+    },
+    "description": "木材横截面树髓定位:传统几何、ArcPith 年轮弧反演、分层评价与子弧解释、2D-OA-Pith 深度学习。基于 UruDendro4 公开数据集(Marichal et al., ICPRS 2025)",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "pith-localization",
+      "pytorch",
+      "wood"
+    ],
+    "html_url": "https://github.com/feng656/wood-pith",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T03:54:31Z",
+    "updated_at": "2026-10-09T04:32:52Z",
+    "pushed_at": "2026-10-09T04:26:34Z"
+  }
+]

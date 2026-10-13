@@ -1,0 +1,603 @@
+[
+  {
+    "id": 1410002762,
+    "name": "big-arrow-on-the-screen",
+    "full_name": "franzenzenhofer/big-arrow-on-the-screen",
+    "owner": {
+      "login": "franzenzenhofer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323190?v=4"
+    },
+    "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "macos",
+      "swift"
+    ],
+    "html_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "stargazers_count": 670,
+    "language": "Swift",
+    "forks_count": 16,
+    "open_issues_count": 1,
+    "created_at": "2026-10-08T08:39:15Z",
+    "updated_at": "2026-10-13T00:40:43Z",
+    "pushed_at": "2026-10-12T16:38:15Z"
+  },
+  {
+    "id": 1412910425,
+    "name": "agent-chrome-relay",
+    "full_name": "aindeev/agent-chrome-relay",
+    "owner": {
+      "login": "aindeev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6354229?v=4"
+    },
+    "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+    "topics": [
+      "agent-browser",
+      "ai-agents",
+      "browser-automation",
+      "cdp",
+      "chrome-extension",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "macos",
+      "paseo"
+    ],
+    "html_url": "https://github.com/aindeev/agent-chrome-relay",
+    "stargazers_count": 256,
+    "language": "Go",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-10-10T07:38:27Z",
+    "updated_at": "2026-10-13T01:57:09Z",
+    "pushed_at": "2026-10-13T01:57:34Z"
+  },
+  {
+    "id": 1414876018,
+    "name": "skills",
+    "full_name": "juliobsz/skills",
+    "owner": {
+      "login": "juliobsz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68253526?v=4"
+    },
+    "description": "An agent skill that builds award-caliber websites from one line",
+    "topics": [
+      "agent-skills",
+      "astro",
+      "awwwards",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "creative-coding",
+      "frontend",
+      "gsap",
+      "nextjs",
+      "web-design",
+      "webgl"
+    ],
+    "html_url": "https://github.com/juliobsz/skills",
+    "stargazers_count": 224,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T00:07:32Z",
+    "updated_at": "2026-10-13T01:42:48Z",
+    "pushed_at": "2026-10-13T01:05:32Z"
+  },
+  {
+    "id": 1411545320,
+    "name": "ai-promo-video-maker",
+    "full_name": "liyupi/ai-promo-video-maker",
+    "owner": {
+      "login": "liyupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26037703?v=4"
+    },
+    "description": "一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 AI 旁白并逐句转写校验、自动审图，最后交付一支 4K 商业宣传视频和可在线播放的网页版。App、网站、SaaS、开源项目、课程、AI 模型都能做，你只需确认需求、试听配乐。不用学剪辑软件，也不用花钱找外包。基于 Remotion + ElevenLabs，可直接克隆使用，也能一键安装为 Agent Skill。",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-video",
+      "ai-video-generator",
+      "aigc",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "marketing",
+      "motion-graphics",
+      "playwright",
+      "product-video",
+      "promo-video",
+      "react",
+      "remotion",
+      "text-to-speech",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/liyupi/ai-promo-video-maker",
+    "stargazers_count": 218,
+    "language": "Python",
+    "forks_count": 35,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T08:44:30Z",
+    "updated_at": "2026-10-13T01:55:19Z",
+    "pushed_at": "2026-10-09T08:44:49Z"
+  },
+  {
+    "id": 1412918852,
+    "name": "agent-standup",
+    "full_name": "Atoll92/agent-standup",
+    "owner": {
+      "login": "Atoll92",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92542738?v=4"
+    },
+    "description": "Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero tokens.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "mistral",
+      "mistral-vibe",
+      "monitoring",
+      "subagents",
+      "visualization",
+      "vscode-extension"
+    ],
+    "html_url": "https://github.com/Atoll92/agent-standup",
+    "stargazers_count": 150,
+    "language": "HTML",
+    "forks_count": 20,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T07:48:17Z",
+    "updated_at": "2026-10-13T01:58:30Z",
+    "pushed_at": "2026-10-13T01:58:26Z"
+  },
+  {
+    "id": 1407421803,
+    "name": "dragon-codex-boot",
+    "full_name": "yushua0808-cpu/dragon-codex-boot",
+    "owner": {
+      "login": "yushua0808-cpu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/331950762?v=4"
+    },
+    "description": "Community Windows startup animation launcher for Codex with live-window handoff and reversible shortcut integration",
+    "topics": [
+      "codex",
+      "startup-animation",
+      "windows",
+      "wpf"
+    ],
+    "html_url": "https://github.com/yushua0808-cpu/dragon-codex-boot",
+    "stargazers_count": 111,
+    "language": "PowerShell",
+    "forks_count": 13,
+    "open_issues_count": 2,
+    "created_at": "2026-10-06T14:14:43Z",
+    "updated_at": "2026-10-12T15:53:32Z",
+    "pushed_at": "2026-10-06T14:20:08Z"
+  },
+  {
+    "id": 1411492489,
+    "name": "work-humanizer",
+    "full_name": "phuryn/work-humanizer",
+    "owner": {
+      "login": "phuryn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
+    },
+    "description": "A humanizer for work writing: takes the AI tone out without changing what your text says or commits to. Agent Skill + evidence: blind judges, hand-checked meaning changes, Pangram.",
+    "topics": [
+      "agent-skills",
+      "ai-detection",
+      "ai-writing",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "humanizer",
+      "writing"
+    ],
+    "html_url": "https://github.com/phuryn/work-humanizer",
+    "stargazers_count": 104,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T08:02:57Z",
+    "updated_at": "2026-10-12T19:10:05Z",
+    "pushed_at": "2026-10-10T10:09:15Z"
+  },
+  {
+    "id": 1410570717,
+    "name": "Motion-graphics-skill",
+    "full_name": "Miftahul-Islam-Efaz/Motion-graphics-skill",
+    "owner": {
+      "login": "Miftahul-Islam-Efaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224967049?v=4"
+    },
+    "description": "Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption and sound-design complete videos, rendered locally without After Effects.",
+    "topics": [
+      "after-effects-alternative",
+      "agent-skills",
+      "ai-video",
+      "ai-video-editing",
+      "captions",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "motion-graphics",
+      "sound-design",
+      "text-to-video",
+      "threejs",
+      "video-automation",
+      "video-editing"
+    ],
+    "html_url": "https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill",
+    "stargazers_count": 93,
+    "language": "Shell",
+    "forks_count": 15,
+    "open_issues_count": 1,
+    "created_at": "2026-10-08T15:29:41Z",
+    "updated_at": "2026-10-13T01:18:27Z",
+    "pushed_at": "2026-10-10T10:00:03Z"
+  },
+  {
+    "id": 1412855958,
+    "name": "cross-harness",
+    "full_name": "AI-BizOS/cross-harness",
+    "owner": {
+      "login": "AI-BizOS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332816952?v=4"
+    },
+    "description": "Open cross-harness protocol with terminal and local web interfaces",
+    "topics": [
+      "acp",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "mcp",
+      "multi-agent",
+      "orchestration",
+      "tui"
+    ],
+    "html_url": "https://github.com/AI-BizOS/cross-harness",
+    "stargazers_count": 79,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T06:37:06Z",
+    "updated_at": "2026-10-13T01:58:54Z",
+    "pushed_at": "2026-10-10T14:18:41Z"
+  },
+  {
+    "id": 1408672249,
+    "name": "uni-switch",
+    "full_name": "dieqiyun/uni-switch",
+    "owner": {
+      "login": "dieqiyun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167104531?v=4"
+    },
+    "description": "Open-source Codex and Claude API configuration manager for Windows, Linux and macOS. AGPL-3.0-only.",
+    "topics": [
+      "agpl",
+      "claude-code",
+      "codex",
+      "tauri"
+    ],
+    "html_url": "https://github.com/dieqiyun/uni-switch",
+    "stargazers_count": 69,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-07T11:20:31Z",
+    "updated_at": "2026-10-13T00:41:55Z",
+    "pushed_at": "2026-10-10T10:56:15Z"
+  },
+  {
+    "id": 1409481558,
+    "name": "gluon",
+    "full_name": "fidipro/gluon",
+    "owner": {
+      "login": "fidipro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291581283?v=4"
+    },
+    "description": "Control platform for coding agents",
+    "topics": [
+      "ai",
+      "bun",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "llm",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/fidipro/gluon",
+    "stargazers_count": 53,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-10-07T23:23:36Z",
+    "updated_at": "2026-10-12T13:38:29Z",
+    "pushed_at": "2026-10-12T22:59:07Z"
+  },
+  {
+    "id": 1409634033,
+    "name": "prism-viz",
+    "full_name": "floorianmb/prism-viz",
+    "owner": {
+      "login": "floorianmb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133264900?v=4"
+    },
+    "description": "Prism: sandboxed, themed, interactive visualizations in Obsidian notes",
+    "topics": [
+      "ai-agents",
+      "chartjs",
+      "claude-code",
+      "codex",
+      "d3",
+      "dashboard",
+      "data-visualization",
+      "katex",
+      "mermaid",
+      "obsidian",
+      "obsidian-md",
+      "obsidian-plugin",
+      "threejs",
+      "typescript",
+      "visualization"
+    ],
+    "html_url": "https://github.com/floorianmb/prism-viz",
+    "stargazers_count": 42,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T02:51:41Z",
+    "updated_at": "2026-10-12T20:57:45Z",
+    "pushed_at": "2026-10-11T05:35:45Z"
+  },
+  {
+    "id": 1409590274,
+    "name": "labyrinth-exploration",
+    "full_name": "nasqret/labyrinth-exploration",
+    "owner": {
+      "login": "nasqret",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9203586?v=4"
+    },
+    "description": "An agent skill for Codex, Claude Code and other clients: open-ended research as the exploration of a labyrinth, with a map of what is proved, refuted, conjectured and still dark, proof tiers, independent referees and campaigns of agents.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "knowledge-graph",
+      "mathematics",
+      "openai-codex",
+      "research",
+      "research-tools"
+    ],
+    "html_url": "https://github.com/nasqret/labyrinth-exploration",
+    "stargazers_count": 41,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T02:08:23Z",
+    "updated_at": "2026-10-13T01:40:38Z",
+    "pushed_at": "2026-10-09T00:23:23Z"
+  },
+  {
+    "id": 1410915039,
+    "name": "neurosquad-cli",
+    "full_name": "glmn-ai/neurosquad-cli",
+    "owner": {
+      "login": "glmn-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/327467700?v=4"
+    },
+    "description": "nsq — run several AI coding agents in your terminal and stop babysitting them. Open-source CLI by NeuroSquad.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "neurosquad",
+      "opencode",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/glmn-ai/neurosquad-cli",
+    "stargazers_count": 41,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T20:22:28Z",
+    "updated_at": "2026-10-12T22:40:15Z",
+    "pushed_at": "2026-10-12T19:22:24Z"
+  },
+  {
+    "id": 1407765685,
+    "name": "orbs",
+    "full_name": "nikuscs/orbs",
+    "owner": {
+      "login": "nikuscs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12662462?v=4"
+    },
+    "description": "🔮 Multi-bot chat you run yourself. Jev picks who answers, and a daemon on your machine runs each turn through Pi.",
+    "topics": [
+      "ai-agents",
+      "ai-group-chat",
+      "bun",
+      "chatbot",
+      "claude",
+      "cloudflare",
+      "cloudflare-d1",
+      "cloudflare-r2",
+      "cloudflare-workers",
+      "codex",
+      "durable-objects",
+      "grok",
+      "group-chat",
+      "llm",
+      "multi-agent",
+      "self-hosted",
+      "tanstack",
+      "typescript"
+    ],
+    "html_url": "https://github.com/nikuscs/orbs",
+    "stargazers_count": 36,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T18:29:18Z",
+    "updated_at": "2026-10-08T16:49:06Z",
+    "pushed_at": "2026-10-06T18:33:25Z"
+  },
+  {
+    "id": 1406516954,
+    "name": "ai-meeting-room",
+    "full_name": "sojei1989/ai-meeting-room",
+    "owner": {
+      "login": "sojei1989",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76703962?v=4"
+    },
+    "description": "Your AI company on your Mac: Claude Code and Codex CLI plan, build and review together, you approve every change. 本機三方開發會議室，你做決定。",
+    "topics": [
+      "ai-agents",
+      "ai-collaboration",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "gemini-cli",
+      "human-in-the-loop",
+      "macos",
+      "multi-agent",
+      "traditional-chinese"
+    ],
+    "html_url": "https://github.com/sojei1989/ai-meeting-room",
+    "stargazers_count": 34,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T00:27:50Z",
+    "updated_at": "2026-10-11T10:34:07Z",
+    "pushed_at": "2026-10-06T03:20:11Z"
+  },
+  {
+    "id": 1410115351,
+    "name": "ste-prompt",
+    "full_name": "menonpg/ste-prompt",
+    "owner": {
+      "login": "menonpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24590388?v=4"
+    },
+    "description": "ASD-STE100 Simplified Technical English as a plugin for Claude Code, Codex & coding agents — clearer, unambiguous LLM output",
+    "topics": [
+      "ai-agents",
+      "asd-ste100",
+      "claude-code",
+      "codex",
+      "controlled-language",
+      "llm",
+      "prompt-engineering",
+      "simplified-technical-english"
+    ],
+    "html_url": "https://github.com/menonpg/ste-prompt",
+    "stargazers_count": 33,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T10:04:43Z",
+    "updated_at": "2026-10-12T19:57:34Z",
+    "pushed_at": "2026-10-09T00:26:56Z"
+  },
+  {
+    "id": 1410684881,
+    "name": "better-readme-skill",
+    "full_name": "tommy0103/better-readme-skill",
+    "owner": {
+      "login": "tommy0103",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43411539?v=4"
+    },
+    "description": "Audit and rewrite your README so readers can bail fast — an Art of README agent skill",
+    "topics": [
+      "agent-skill",
+      "claude-code",
+      "codex",
+      "cognitive-funnel",
+      "documentation",
+      "readme",
+      "skills"
+    ],
+    "html_url": "https://github.com/tommy0103/better-readme-skill",
+    "stargazers_count": 27,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T16:58:17Z",
+    "updated_at": "2026-10-11T07:37:05Z",
+    "pushed_at": "2026-10-08T17:15:36Z"
+  },
+  {
+    "id": 1410529640,
+    "name": "openzine",
+    "full_name": "JosssphZhou/openzine",
+    "owner": {
+      "login": "JosssphZhou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260232027?v=4"
+    },
+    "description": "Turn a PDF or a folder of images into a 3D flip book you can page through. A skill for Claude Code and Codex.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "flipbook",
+      "pdf",
+      "webgl"
+    ],
+    "html_url": "https://github.com/JosssphZhou/openzine",
+    "stargazers_count": 26,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T15:00:13Z",
+    "updated_at": "2026-10-12T00:57:56Z",
+    "pushed_at": "2026-10-10T05:18:09Z"
+  },
+  {
+    "id": 1411058484,
+    "name": "extreme-motion-design",
+    "full_name": "dev-isaacmello/extreme-motion-design",
+    "owner": {
+      "login": "dev-isaacmello",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134700983?v=4"
+    },
+    "description": "Skill de motion design por código (Remotion) com trilha, narração e QA automático. Para Claude, Claude Code e Codex.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "motion-design",
+      "remotion"
+    ],
+    "html_url": "https://github.com/dev-isaacmello/extreme-motion-design",
+    "stargazers_count": 25,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T23:31:09Z",
+    "updated_at": "2026-10-13T00:32:58Z",
+    "pushed_at": "2026-10-11T18:14:45Z"
+  }
+]

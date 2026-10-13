@@ -1,0 +1,613 @@
+[
+  {
+    "id": 1411756837,
+    "name": "widefleet",
+    "full_name": "widefleet/widefleet",
+    "owner": {
+      "login": "widefleet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/338510189?v=4"
+    },
+    "description": "Platform for agent-built apps and workflows",
+    "topics": [
+      "citizen-developer",
+      "database",
+      "deployment",
+      "developer-tools",
+      "docker",
+      "internal-tools",
+      "rust",
+      "self-hosted",
+      "sso",
+      "svelte"
+    ],
+    "html_url": "https://github.com/widefleet/widefleet",
+    "stargazers_count": 36,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 3,
+    "created_at": "2026-10-09T11:45:35Z",
+    "updated_at": "2026-10-12T22:49:20Z",
+    "pushed_at": "2026-10-12T20:14:53Z"
+  },
+  {
+    "id": 1407138658,
+    "name": "couchbase-download",
+    "full_name": "pegasuscodeberth/couchbase-download",
+    "owner": {
+      "login": "pegasuscodeberth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330635557?v=4"
+    },
+    "description": "Couchbase — Database SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "topics": [
+      "couchbase",
+      "couchbase-download",
+      "database",
+      "download",
+      "softgit",
+      "software-download"
+    ],
+    "html_url": "https://github.com/pegasuscodeberth/couchbase-download",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T10:59:04Z",
+    "updated_at": "2026-10-06T14:25:37Z",
+    "pushed_at": "2026-10-06T11:12:07Z"
+  },
+  {
+    "id": 1409008043,
+    "name": "awesome-object-storage-native",
+    "full_name": "elyase/awesome-object-storage-native",
+    "owner": {
+      "login": "elyase",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1175888?v=4"
+    },
+    "description": "Open-source databases, application runtimes, and storage engines that use object storage for durable state, logs, indexes, or transactional datasets.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "database",
+      "distributed-systems",
+      "lakehouse",
+      "object-storage",
+      "s3",
+      "storage-engine",
+      "write-ahead-log"
+    ],
+    "html_url": "https://github.com/elyase/awesome-object-storage-native",
+    "stargazers_count": 9,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T15:33:31Z",
+    "updated_at": "2026-10-11T00:23:52Z",
+    "pushed_at": "2026-10-07T15:35:09Z"
+  },
+  {
+    "id": 1408930051,
+    "name": "LocalBase",
+    "full_name": "atharvaphadnis-ai/LocalBase",
+    "owner": {
+      "login": "atharvaphadnis-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273817649?v=4"
+    },
+    "description": "LocalBase — Your self-hosted backend, in one Python file. A lightweight Supabase alternative with SQLite databases, auto-generated REST APIs, a SQL editor, data grid, API keys, realtime WebSockets, backups, and a beautiful dashboard. No Docker, no Node, no cloud. Just python localbase.py.",
+    "topics": [
+      "api-rest",
+      "cloud",
+      "dashboard",
+      "data-grid",
+      "database",
+      "fastapi",
+      "firebase-alternative",
+      "html-css-javascript",
+      "lightweight",
+      "open-source",
+      "pydantic",
+      "python",
+      "rest-api",
+      "self-hosted",
+      "single-file",
+      "sql",
+      "sqlite",
+      "supabase-alternative",
+      "user-friendly",
+      "websockets"
+    ],
+    "html_url": "https://github.com/atharvaphadnis-ai/LocalBase",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-07T14:32:04Z",
+    "updated_at": "2026-10-12T00:37:13Z",
+    "pushed_at": "2026-10-08T04:20:41Z"
+  },
+  {
+    "id": 1408767516,
+    "name": "celer",
+    "full_name": "e-omunoz/celer",
+    "owner": {
+      "login": "e-omunoz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249751256?v=4"
+    },
+    "description": "Swift SQL for every database: a fast desktop SQL client for PostgreSQL, MySQL/MariaDB, SQL Server, SQLite, Informix and ODBC.",
+    "topics": [
+      "database",
+      "database-client",
+      "mcp",
+      "mysql",
+      "postgresql",
+      "rust",
+      "solidjs",
+      "sql",
+      "sql-client",
+      "sqlite",
+      "sqlserver",
+      "tauri"
+    ],
+    "html_url": "https://github.com/e-omunoz/celer",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 7,
+    "created_at": "2026-10-07T12:41:52Z",
+    "updated_at": "2026-10-12T21:51:21Z",
+    "pushed_at": "2026-10-13T01:44:31Z"
+  },
+  {
+    "id": 1415330036,
+    "name": "darudb-studio",
+    "full_name": "jooy2/darudb-studio",
+    "owner": {
+      "login": "jooy2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48266008?v=4"
+    },
+    "description": "DaruDB keeps an application's data in one local file. DaruDB Studio is the app for looking inside that file: open it, read its collections and objects, and change them, without writing a program to do it. It runs on Windows, macOS and Linux, and reads the same file whichever language wrote it.",
+    "topics": [
+      "database",
+      "database-management",
+      "electron-app",
+      "electron-application",
+      "electron-apps",
+      "local-data-storage",
+      "local-database",
+      "local-databases"
+    ],
+    "html_url": "https://github.com/jooy2/darudb-studio",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T08:55:39Z",
+    "updated_at": "2026-10-13T01:11:29Z",
+    "pushed_at": "2026-10-13T00:06:48Z"
+  },
+  {
+    "id": 1413795830,
+    "name": "sqlx",
+    "full_name": "secondwindoss/sqlx",
+    "owner": {
+      "login": "secondwindoss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340219395?v=4"
+    },
+    "description": "General purpose extensions to Go's database/sql: named queries, struct scanning and more. Community-maintained fork of jmoiron/sqlx.",
+    "topics": [
+      "database",
+      "database-sql",
+      "fork",
+      "go",
+      "golang",
+      "mysql",
+      "postgresql",
+      "sql",
+      "sqlite",
+      "sqlx"
+    ],
+    "html_url": "https://github.com/secondwindoss/sqlx",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T00:39:18Z",
+    "updated_at": "2026-10-12T00:17:25Z",
+    "pushed_at": "2026-10-12T00:17:23Z"
+  },
+  {
+    "id": 1412396769,
+    "name": "duckonwire",
+    "full_name": "misaelzapata/duckonwire",
+    "owner": {
+      "login": "misaelzapata",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2089365?v=4"
+    },
+    "description": "DuckDB, connected. Read and write with your favorite PostgreSQL drivers.",
+    "topics": [
+      "concurrency",
+      "cpp",
+      "database",
+      "duckdb",
+      "quack",
+      "sql"
+    ],
+    "html_url": "https://github.com/misaelzapata/duckonwire",
+    "stargazers_count": 2,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T20:06:30Z",
+    "updated_at": "2026-10-12T14:37:56Z",
+    "pushed_at": "2026-10-12T13:39:52Z"
+  },
+  {
+    "id": 1414291132,
+    "name": "squi",
+    "full_name": "farvisun/squi",
+    "owner": {
+      "login": "farvisun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7851913?v=4"
+    },
+    "description": "A fast, keyboard-driven terminal SQL client for PostgreSQL, MySQL, MariaDB and ClickHouse — over SSH, safe on production",
+    "topics": [
+      "bubbletea",
+      "cli",
+      "clickhouse",
+      "database",
+      "go",
+      "mariadb",
+      "mysql",
+      "postgresql",
+      "sql",
+      "terminal",
+      "tui"
+    ],
+    "html_url": "https://github.com/farvisun/squi",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T11:58:57Z",
+    "updated_at": "2026-10-11T14:45:13Z",
+    "pushed_at": "2026-10-11T14:48:03Z"
+  },
+  {
+    "id": 1415938663,
+    "name": "skiffdb",
+    "full_name": "skiffdb/skiffdb",
+    "owner": {
+      "login": "skiffdb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341568640?v=4"
+    },
+    "description": "SkiffDB is a high-performance, single-threaded, event-driven, in-memory key-value data store built from the ground up in Rust",
+    "topics": [
+      "caching",
+      "database",
+      "in-memory-caching",
+      "key-value-store",
+      "skiffdb"
+    ],
+    "html_url": "https://github.com/skiffdb/skiffdb",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T17:43:18Z",
+    "updated_at": "2026-10-12T18:36:37Z",
+    "pushed_at": "2026-10-12T17:48:03Z"
+  },
+  {
+    "id": 1413720196,
+    "name": "database",
+    "full_name": "tueen/database",
+    "owner": {
+      "login": "tueen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107625911?v=4"
+    },
+    "description": "The zero-config, high-throughput relational database engine engineered for Telegram bots and the Tueen ecosystem.",
+    "topics": [
+      "api",
+      "database",
+      "db",
+      "framework",
+      "php",
+      "php-framework",
+      "php-library",
+      "telegram",
+      "telegram-api",
+      "telegram-bot",
+      "telegram-database",
+      "telegrambot",
+      "telegrambotapi",
+      "tueen",
+      "tueen-framework"
+    ],
+    "html_url": "https://github.com/tueen/database",
+    "stargazers_count": 2,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T22:26:21Z",
+    "updated_at": "2026-10-10T22:48:33Z",
+    "pushed_at": "2026-10-10T22:48:29Z"
+  },
+  {
+    "id": 1410596751,
+    "name": "HistWarDB",
+    "full_name": "VincenzoManto/HistWarDB",
+    "owner": {
+      "login": "VincenzoManto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64726971?v=4"
+    },
+    "description": "A Dynamic Wikidata-Based Historical War Dataset",
+    "topics": [
+      "conflicts",
+      "data-science",
+      "database",
+      "dataset",
+      "economics",
+      "geopolitics",
+      "historical-conflicts",
+      "historical-data",
+      "history",
+      "sparql",
+      "wars",
+      "wikidata"
+    ],
+    "html_url": "https://github.com/VincenzoManto/HistWarDB",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 10,
+    "created_at": "2026-10-08T15:49:04Z",
+    "updated_at": "2026-10-12T17:28:41Z",
+    "pushed_at": "2026-10-12T17:28:38Z"
+  },
+  {
+    "id": 1408190072,
+    "name": "rupg",
+    "full_name": "tamnd/rupg",
+    "owner": {
+      "login": "tamnd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
+    },
+    "description": "A PostgreSQL 19 compatible database in Rust. One engine runs as a server and as an embedded library, on one compressed columnar file, with graph and vector indexes and a design that is ready for shards. The bar is 10x ClickHouse, DuckDB and PostgreSQL on ClickBench with a tenth of the resources.",
+    "topics": [
+      "clickbench",
+      "columnar-storage",
+      "compression",
+      "database",
+      "distributed-database",
+      "embedded-database",
+      "graph-database",
+      "htap",
+      "mvcc",
+      "olap",
+      "oltp",
+      "postgres",
+      "postgresql",
+      "query-engine",
+      "rust",
+      "sql",
+      "tpc-c",
+      "tpc-h",
+      "vector-search",
+      "wasm"
+    ],
+    "html_url": "https://github.com/tamnd/rupg",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 85,
+    "created_at": "2026-10-07T03:26:56Z",
+    "updated_at": "2026-10-12T23:38:16Z",
+    "pushed_at": "2026-10-12T23:38:22Z"
+  },
+  {
+    "id": 1412311543,
+    "name": "kharka",
+    "full_name": "jakobbeyer/kharka",
+    "owner": {
+      "login": "jakobbeyer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1223930?v=4"
+    },
+    "description": "A small local-first JSON store: every machine keeps a full replica, one hub orders and spreads the changes.",
+    "topics": [
+      "database",
+      "local-first",
+      "rust",
+      "sync"
+    ],
+    "html_url": "https://github.com/jakobbeyer/kharka",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T18:47:19Z",
+    "updated_at": "2026-10-10T12:35:42Z",
+    "pushed_at": "2026-10-10T12:37:36Z"
+  },
+  {
+    "id": 1412960382,
+    "name": "dev-learning-lab",
+    "full_name": "jhb010311/dev-learning-lab",
+    "owner": {
+      "login": "jhb010311",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124125499?v=4"
+    },
+    "description": "자바, 스프링, JPA, DB, 네트워크, 보안의 개념을 설정을 바꿔 실행해 보며 익히는 무료 실습실",
+    "topics": [
+      "backend",
+      "database",
+      "education",
+      "hibernate",
+      "interactive",
+      "java",
+      "jpa",
+      "korean",
+      "learning",
+      "network",
+      "security",
+      "simulator",
+      "spring",
+      "spring-boot",
+      "sql"
+    ],
+    "html_url": "https://github.com/jhb010311/dev-learning-lab",
+    "stargazers_count": 2,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T08:35:25Z",
+    "updated_at": "2026-10-12T19:44:40Z",
+    "pushed_at": "2026-10-12T19:44:35Z"
+  },
+  {
+    "id": 1412990792,
+    "name": "dbanalyzer",
+    "full_name": "MrIncognito7/dbanalyzer",
+    "owner": {
+      "login": "MrIncognito7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78158329?v=4"
+    },
+    "description": "analyse db with help of ai ",
+    "topics": [
+      "database",
+      "fastapi",
+      "javascript",
+      "langchain",
+      "python"
+    ],
+    "html_url": "https://github.com/MrIncognito7/dbanalyzer",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T09:10:31Z",
+    "updated_at": "2026-10-12T13:09:43Z",
+    "pushed_at": "2026-10-10T09:17:05Z"
+  },
+  {
+    "id": 1412857931,
+    "name": "sql-server-2012-ps2-fix",
+    "full_name": "xm2284/sql-server-2012-ps2-fix",
+    "owner": {
+      "login": "xm2284",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231259762?v=4"
+    },
+    "description": "SQL Server 2012 安装补丁 | PowerShell 2.0 修复 | 新版 Windows 装老版 SQL Server 报 MicrosoftWindowsPowerShellV2 错误时的一键修复工具箱。源自微软官方缓解包 ps2DLC（KB5065506），注册 PS2 程序集到 GAC 并写入注册表，让安装程序检查直接通过。关键词：SQL Server 2012 安装补丁 PowerShell 2.0 缺失 修复 SQL Server 2008 R2 2014 安装报错 MicrosoftWindowsPowerShellV2 Windows 11。",
+    "topics": [
+      "database",
+      "fix",
+      "installer",
+      "legacy",
+      "microsoft",
+      "patch",
+      "powershell",
+      "sql-server",
+      "sql-server-2012",
+      "windows",
+      "windows-10",
+      "windows-11"
+    ],
+    "html_url": "https://github.com/xm2284/sql-server-2012-ps2-fix",
+    "stargazers_count": 2,
+    "language": "PowerShell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T06:39:29Z",
+    "updated_at": "2026-10-11T10:07:52Z",
+    "pushed_at": "2026-10-10T06:41:11Z"
+  },
+  {
+    "id": 1407441457,
+    "name": "Database-AlmaLinux-to-Browser",
+    "full_name": "DavidDCN/Database-AlmaLinux-to-Browser",
+    "owner": {
+      "login": "DavidDCN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71557750?v=4"
+    },
+    "description": "Emulating Real Scenario on how to set-up and put data on Database in an AlmaLinux OS, where the browser can get its data  ",
+    "topics": [
+      "almalinux",
+      "database"
+    ],
+    "html_url": "https://github.com/DavidDCN/Database-AlmaLinux-to-Browser",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T14:28:56Z",
+    "updated_at": "2026-10-06T14:33:19Z",
+    "pushed_at": "2026-10-06T14:32:17Z"
+  },
+  {
+    "id": 1412856225,
+    "name": "cachedbd",
+    "full_name": "rsubrata383-debug/cachedbd",
+    "owner": {
+      "login": "rsubrata383-debug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246025905?v=4"
+    },
+    "description": "cachedb is a high-performance, single-threaded, event-driven, in-memory key-value data store built from the ground up in Rust. ",
+    "topics": [
+      "cache",
+      "caching",
+      "database",
+      "dictionary",
+      "distributed-systems",
+      "keyvaluestore",
+      "literedis",
+      "nosql",
+      "opensource",
+      "realtime"
+    ],
+    "html_url": "https://github.com/rsubrata383-debug/cachedbd",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T06:37:23Z",
+    "updated_at": "2026-10-12T17:14:15Z",
+    "pushed_at": "2026-10-12T17:14:11Z"
+  },
+  {
+    "id": 1415824466,
+    "name": "retro-rom-database",
+    "full_name": "Fractiontencapture/retro-rom-database",
+    "owner": {
+      "login": "Fractiontencapture",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320777413?v=4"
+    },
+    "description": "Organize and catalog your classic video game library with an intuitive, searchable retro gaming database software. Fetch game metadata, track ROM collections, and launch your favorite retro titles seamlessly across multiple emulator platforms.",
+    "topics": [
+      "arcade",
+      "database",
+      "emulation",
+      "emulator-data",
+      "game-database",
+      "gamedata",
+      "gaming",
+      "launchbox",
+      "mame",
+      "metadata",
+      "no-intro",
+      "redump",
+      "retrogaming",
+      "rom-collection",
+      "rom-database",
+      "roms",
+      "screenscraper",
+      "thegamesdb",
+      "tosec"
+    ],
+    "html_url": "https://github.com/Fractiontencapture/retro-rom-database",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T16:00:13Z",
+    "updated_at": "2026-10-12T16:06:12Z",
+    "pushed_at": "2026-10-12T16:05:41Z"
+  }
+]
