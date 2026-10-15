@@ -1,0 +1,576 @@
+[
+  {
+    "id": 1413653643,
+    "name": "hermes-official-plugins",
+    "full_name": "NousResearch/hermes-official-plugins",
+    "owner": {
+      "login": "NousResearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134168893?v=4"
+    },
+    "description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+    "topics": [
+      "agent-plugins",
+      "ai-agents",
+      "claude",
+      "hermes",
+      "hermes-agent",
+      "home-assistant",
+      "llm",
+      "model-provider",
+      "nous-research",
+      "plugins",
+      "spotify"
+    ],
+    "html_url": "https://github.com/NousResearch/hermes-official-plugins",
+    "stargazers_count": 278,
+    "language": "Python",
+    "forks_count": 28,
+    "open_issues_count": 60,
+    "created_at": "2026-10-10T20:51:25Z",
+    "updated_at": "2026-10-14T22:05:12Z",
+    "pushed_at": "2026-10-14T22:05:06Z"
+  },
+  {
+    "id": 1409585810,
+    "name": "harness-mate-plat",
+    "full_name": "liaosiliangCodeLife/harness-mate-plat",
+    "owner": {
+      "login": "liaosiliangCodeLife",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45889630?v=4"
+    },
+    "description": "端到端智能体平台：把本机的 AI Agent 变成人人可用的 Web 产品（Vue 3 + Flask + Go WS 网关 + Docker 部署）",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "autonomous-agents",
+      "chatbot",
+      "deepseek",
+      "dsh",
+      "harness",
+      "harness-agent",
+      "hermes",
+      "llm",
+      "llm-agent",
+      "llmops",
+      "mcp",
+      "metamuse",
+      "multi-agent",
+      "opc",
+      "openai",
+      "ptp-agent",
+      "rag",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/liaosiliangCodeLife/harness-mate-plat",
+    "stargazers_count": 21,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 2,
+    "created_at": "2026-10-08T02:03:17Z",
+    "updated_at": "2026-10-12T14:07:30Z",
+    "pushed_at": "2026-10-12T14:07:25Z"
+  },
+  {
+    "id": 1411990589,
+    "name": "hermes-watch",
+    "full_name": "styles01/hermes-watch",
+    "owner": {
+      "login": "styles01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11393400?v=4"
+    },
+    "description": "A voice remote for AI agents: push-to-talk, procedural avatar + live status ring on the M5Stack StopWatch (ESP32-S3 round AMOLED). Hermes gadget firmware, hub plugin, desktop sim, WiFi OTA.",
+    "topics": [
+      "ai-agent",
+      "amoled",
+      "esp32s3",
+      "hermes",
+      "m5stack",
+      "ota-updates",
+      "push-to-talk",
+      "voice-assistant"
+    ],
+    "html_url": "https://github.com/styles01/hermes-watch",
+    "stargazers_count": 15,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T14:36:30Z",
+    "updated_at": "2026-10-14T02:47:02Z",
+    "pushed_at": "2026-10-10T17:14:46Z"
+  },
+  {
+    "id": 1412445890,
+    "name": "AgentHub",
+    "full_name": "iamvicliu/AgentHub",
+    "owner": {
+      "login": "iamvicliu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8925514?v=4"
+    },
+    "description": "把 Claude Code、Codex、Cursor 等 10 种 AI Agent 的本地会话汇到一处，统一搜索、阅读和管理（macOS，支持 Apple 芯片和 Intel 芯片）。",
+    "topics": [
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "cursor",
+      "deepseek-harness",
+      "developer-tools",
+      "electron",
+      "gemini-cli",
+      "hermes",
+      "local-first",
+      "macos",
+      "openclaw",
+      "opencode",
+      "pi",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/iamvicliu/AgentHub",
+    "stargazers_count": 6,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T20:59:52Z",
+    "updated_at": "2026-10-11T06:37:48Z",
+    "pushed_at": "2026-10-11T03:37:35Z"
+  },
+  {
+    "id": 1414212050,
+    "name": "hermes-mobile-adapter",
+    "full_name": "geniok1980/hermes-mobile-adapter",
+    "owner": {
+      "login": "geniok1980",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14368119?v=4"
+    },
+    "description": "Подключите Hermes Agent к своему мобильному приложению: платформенный WS-адаптер + SDK (TS/Python) + примеры",
+    "topics": [
+      "adapter",
+      "ai-agent",
+      "hermes",
+      "hermes-agent",
+      "mobile",
+      "react-native",
+      "websocket"
+    ],
+    "html_url": "https://github.com/geniok1980/hermes-mobile-adapter",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T10:27:02Z",
+    "updated_at": "2026-10-14T17:26:17Z",
+    "pushed_at": "2026-10-14T17:26:12Z"
+  },
+  {
+    "id": 1410633926,
+    "name": "hermes-balance-widget",
+    "full_name": "OMOX563/hermes-balance-widget",
+    "owner": {
+      "login": "OMOX563",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136057120?v=4"
+    },
+    "description": "Hermes 桌面端余额挂件：九家厂商余额/额度/用量，漫画玻璃气泡 + 九张专属角色 + token 计价 + DeepSeek/GLM/MiMo 分时自动切价（hermes-balance-widget）",
+    "topics": [
+      "balance-widget",
+      "deepseek",
+      "desktop-plugin",
+      "hermes",
+      "hermes-plugin",
+      "llm-pricing"
+    ],
+    "html_url": "https://github.com/OMOX563/hermes-balance-widget",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T16:16:25Z",
+    "updated_at": "2026-10-11T10:01:32Z",
+    "pushed_at": "2026-10-11T05:11:26Z"
+  },
+  {
+    "id": 1411328968,
+    "name": "hermes-quest",
+    "full_name": "ap08960695/hermes-quest",
+    "owner": {
+      "login": "ap08960695",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17912262?v=4"
+    },
+    "description": "A read-only pixel-art RPG dashboard that turns Hermes Agent kanban activity into a living game world.",
+    "topics": [
+      "ai-agents",
+      "dashboard-plugin",
+      "game",
+      "hermes",
+      "hermes-agent",
+      "kanban",
+      "pixel-art",
+      "visualization"
+    ],
+    "html_url": "https://github.com/ap08960695/hermes-quest",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T05:20:22Z",
+    "updated_at": "2026-10-14T17:27:38Z",
+    "pushed_at": "2026-10-14T19:01:58Z"
+  },
+  {
+    "id": 1416554330,
+    "name": "scope-recall-win",
+    "full_name": "phfqy/scope-recall-win",
+    "owner": {
+      "login": "phfqy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176888441?v=4"
+    },
+    "description": "Scope Recall v3 记忆核心的 Windows 桌面管理控制台（WinUI 3 · Fluent 明暗主题 · Mica · 18 视图）。记忆总览与按原因明细、全局检索、候选/队列/审计、档案关系图、共享库接入、部署/诊断/备份/升级。读=只读直连 SQLite；写=只经官方维护 CLI。exe 免管理员安装。",
+    "topics": [
+      "csharp",
+      "desktop-app",
+      "dotnet",
+      "fluent-design",
+      "hermes",
+      "inno-setup",
+      "memory-management",
+      "sqlite",
+      "windows",
+      "winui3"
+    ],
+    "html_url": "https://github.com/phfqy/scope-recall-win",
+    "stargazers_count": 1,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T06:16:06Z",
+    "updated_at": "2026-10-14T17:14:25Z",
+    "pushed_at": "2026-10-14T17:21:51Z"
+  },
+  {
+    "id": 1415015307,
+    "name": "agentbox",
+    "full_name": "rjial/agentbox",
+    "owner": {
+      "login": "rjial",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34384804?v=4"
+    },
+    "description": "Claude Code and Hermes Agent, running right on your Android phone.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "kernelsu",
+      "kernelsu-module",
+      "kernelsu-modules",
+      "kernelsu-next"
+    ],
+    "html_url": "https://github.com/rjial/agentbox",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T03:38:01Z",
+    "updated_at": "2026-10-14T21:51:32Z",
+    "pushed_at": "2026-10-14T21:51:40Z"
+  },
+  {
+    "id": 1415846529,
+    "name": "hermes-n8n-rest",
+    "full_name": "OctaLectzz/hermes-n8n-rest",
+    "owner": {
+      "login": "OctaLectzz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52871933?v=4"
+    },
+    "description": "A complementary REST API integration for Hermes Agent and n8n. Keep the official n8n-official MCP server enabled as the primary workflow integration; use this plugin when REST endpoints are useful as a secondary path.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-plugin",
+      "hermes-skills",
+      "n8n",
+      "n8n-node"
+    ],
+    "html_url": "https://github.com/OctaLectzz/hermes-n8n-rest",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T16:19:29Z",
+    "updated_at": "2026-10-13T07:28:28Z",
+    "pushed_at": "2026-10-12T16:49:14Z"
+  },
+  {
+    "id": 1418471352,
+    "name": "hermes-pdf-reader",
+    "full_name": "Ronniealgo/hermes-pdf-reader",
+    "owner": {
+      "login": "Ronniealgo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221396818?v=4"
+    },
+    "description": "Hermes 桌面应用的媒体查看器插件：对话图片右侧面板查看、左右切换 + 本地 PDF 应用内阅读；单文件、零依赖",
+    "topics": [
+      "desktop-app",
+      "electron",
+      "hermes",
+      "image-viewer",
+      "javascript",
+      "pdf",
+      "plugin"
+    ],
+    "html_url": "https://github.com/Ronniealgo/hermes-pdf-reader",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T06:25:36Z",
+    "updated_at": "2026-10-14T09:37:56Z",
+    "pushed_at": "2026-10-14T09:37:54Z"
+  },
+  {
+    "id": 1418472569,
+    "name": "murmur",
+    "full_name": "getumbrel/murmur",
+    "owner": {
+      "login": "getumbrel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59408891?v=4"
+    },
+    "description": "A beautiful way to use Hermes. Chat with your AI agents, one at a time or all together, in the browser, on your Mac or PC, and on your phone.",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "umbrel"
+    ],
+    "html_url": "https://github.com/getumbrel/murmur",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T06:26:49Z",
+    "updated_at": "2026-10-14T22:09:45Z",
+    "pushed_at": "2026-10-14T22:09:41Z"
+  },
+  {
+    "id": 1417705722,
+    "name": "opencode-shepherd",
+    "full_name": "Okazakee/opencode-shepherd",
+    "owner": {
+      "login": "Okazakee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17621558?v=4"
+    },
+    "description": "Watch over opencode sessions from anywhere: alerts for stopped turns, questions and permissions, plus a dependency-free CLI to reply. A plugin for Hermes Agent.",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "hermes",
+      "hermes-agent",
+      "hermes-plugin",
+      "monitoring",
+      "opencode",
+      "python",
+      "ssh",
+      "watchdog"
+    ],
+    "html_url": "https://github.com/Okazakee/opencode-shepherd",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T18:22:22Z",
+    "updated_at": "2026-10-14T19:34:10Z",
+    "pushed_at": "2026-10-14T19:34:07Z"
+  },
+  {
+    "id": 1414869668,
+    "name": "wechatai",
+    "full_name": "moutsea/wechatai",
+    "owner": {
+      "login": "moutsea",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22448894?v=4"
+    },
+    "description": "把你的 AI 接入微信。Bring your own models and agents into WeChat.",
+    "topics": [
+      "ai",
+      "cloudflare-workers",
+      "hermes",
+      "openclaw",
+      "self-hosted",
+      "wechat"
+    ],
+    "html_url": "https://github.com/moutsea/wechatai",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T23:55:41Z",
+    "updated_at": "2026-10-14T09:48:39Z",
+    "pushed_at": "2026-10-14T09:48:34Z"
+  },
+  {
+    "id": 1419108612,
+    "name": "aow",
+    "full_name": "yorkart/aow",
+    "owner": {
+      "login": "yorkart",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1518356?v=4"
+    },
+    "description": "Agent-oriented Workbench(ADE)",
+    "topics": [
+      "acp",
+      "ade",
+      "agent-ide",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "hermes",
+      "orca",
+      "pi",
+      "terminal",
+      "worktrees",
+      "zed"
+    ],
+    "html_url": "https://github.com/yorkart/aow",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T14:18:11Z",
+    "updated_at": "2026-10-14T14:28:38Z",
+    "pushed_at": "2026-10-14T14:37:24Z"
+  },
+  {
+    "id": 1415834552,
+    "name": "HED-Space-Desktop",
+    "full_name": "HouusamGE19/HED-Space-Desktop",
+    "owner": {
+      "login": "HouusamGE19",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96494723?v=4"
+    },
+    "description": "AI-assisted desktop media application built with Codex and Hermes to explore an unfamiliar Tauri/Rust stack.",
+    "topics": [
+      "ai-assisted-development",
+      "codex",
+      "desktop-app",
+      "hermes",
+      "mpv",
+      "rust",
+      "sqlite",
+      "tauri"
+    ],
+    "html_url": "https://github.com/HouusamGE19/HED-Space-Desktop",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T16:08:43Z",
+    "updated_at": "2026-10-12T22:12:53Z",
+    "pushed_at": "2026-10-12T16:08:55Z"
+  },
+  {
+    "id": 1414802895,
+    "name": "hermes-oracle-memory",
+    "full_name": "xl3v3r/hermes-oracle-memory",
+    "owner": {
+      "login": "xl3v3r",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199692609?v=4"
+    },
+    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "memory",
+      "oracle",
+      "vector-database"
+    ],
+    "html_url": "https://github.com/xl3v3r/hermes-oracle-memory",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T21:55:15Z",
+    "updated_at": "2026-10-14T20:47:04Z",
+    "pushed_at": "2026-10-14T20:47:01Z"
+  },
+  {
+    "id": 1411173366,
+    "name": "cygdr",
+    "full_name": "grym3s/cygdr",
+    "owner": {
+      "login": "grym3s",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99300571?v=4"
+    },
+    "description": "Clean Your God Damn Room. Agent workspace hygiene with private scratch, cautious cleanup, and no mystery deletions.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "hermes",
+      "python",
+      "workspace-hygiene"
+    ],
+    "html_url": "https://github.com/grym3s/cygdr",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T02:18:44Z",
+    "updated_at": "2026-10-09T02:26:51Z",
+    "pushed_at": "2026-10-09T02:26:48Z"
+  },
+  {
+    "id": 1418486687,
+    "name": "hermes-paper-agent",
+    "full_name": "Witthaya499/hermes-paper-agent",
+    "owner": {
+      "login": "Witthaya499",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300028335?v=4"
+    },
+    "description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+    "topics": [
+      "agent",
+      "cron",
+      "daily-briefing",
+      "hermes",
+      "llm",
+      "local-llm",
+      "newspaper",
+      "personal-dashboard",
+      "python",
+      "self-hosted",
+      "static-site",
+      "typography"
+    ],
+    "html_url": "https://github.com/Witthaya499/hermes-paper-agent",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T06:40:26Z",
+    "updated_at": "2026-10-14T06:41:18Z",
+    "pushed_at": "2026-10-14T06:40:52Z"
+  },
+  {
+    "id": 1410545663,
+    "name": "st-ticket-tools",
+    "full_name": "mlixer/st-ticket-tools",
+    "owner": {
+      "login": "mlixer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260008614?v=4"
+    },
+    "description": "SillyTavern extension: the chat side of ticket-server. Part of The Braid.",
+    "topics": [
+      "hermes",
+      "sillytavern",
+      "sillytavern-extension"
+    ],
+    "html_url": "https://github.com/mlixer/st-ticket-tools",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T15:11:27Z",
+    "updated_at": "2026-10-08T15:13:49Z",
+    "pushed_at": "2026-10-08T15:12:30Z"
+  }
+]

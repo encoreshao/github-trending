@@ -1,0 +1,612 @@
+[
+  {
+    "id": 1414685342,
+    "name": "esp32-iphone-agent",
+    "full_name": "onehumanbeing/esp32-iphone-agent",
+    "owner": {
+      "login": "onehumanbeing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20528382?v=4"
+    },
+    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "topics": [
+      "ai-agent",
+      "airplay",
+      "automation",
+      "computer-use",
+      "esp32",
+      "esp32-s3",
+      "iphone",
+      "llm",
+      "usb-hid"
+    ],
+    "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "stargazers_count": 2104,
+    "language": "C",
+    "forks_count": 280,
+    "open_issues_count": 3,
+    "created_at": "2026-10-11T19:10:25Z",
+    "updated_at": "2026-10-15T01:59:08Z",
+    "pushed_at": "2026-10-15T01:56:44Z"
+  },
+  {
+    "id": 1416766144,
+    "name": "scout",
+    "full_name": "outcrawlai/scout",
+    "owner": {
+      "login": "outcrawlai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326615483?v=4"
+    },
+    "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+    "topics": [
+      "ai-agent",
+      "browser-agent",
+      "browser-automation",
+      "cdp",
+      "llm",
+      "typescript",
+      "web-automation"
+    ],
+    "html_url": "https://github.com/outcrawlai/scout",
+    "stargazers_count": 658,
+    "language": "TypeScript",
+    "forks_count": 22,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T09:18:55Z",
+    "updated_at": "2026-10-15T01:46:01Z",
+    "pushed_at": "2026-10-15T00:44:38Z"
+  },
+  {
+    "id": 1415358670,
+    "name": "solid-glass",
+    "full_name": "deeplethe/solid-glass",
+    "owner": {
+      "login": "deeplethe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282846749?v=4"
+    },
+    "description": "A design system for AI applications. Material, physical, tactile, technical.",
+    "topics": [
+      "agent-ui",
+      "ai",
+      "ai-agents",
+      "chat-ui",
+      "design-system",
+      "llm",
+      "react",
+      "shadcn",
+      "shadcn-ui",
+      "tailwindcss",
+      "theme"
+    ],
+    "html_url": "https://github.com/deeplethe/solid-glass",
+    "stargazers_count": 604,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T09:19:02Z",
+    "updated_at": "2026-10-15T01:42:44Z",
+    "pushed_at": "2026-10-14T14:01:43Z"
+  },
+  {
+    "id": 1413190537,
+    "name": "mcd-coupon-strategist",
+    "full_name": "Ayzzz123/mcd-coupon-strategist",
+    "owner": {
+      "login": "Ayzzz123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249872811?v=4"
+    },
+    "description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+    "topics": [
+      "agent",
+      "cost-optimization",
+      "coupon",
+      "llm",
+      "mcd-mcp",
+      "mcdonalds",
+      "mcp",
+      "python",
+      "skill",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
+    "stargazers_count": 304,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T12:59:19Z",
+    "updated_at": "2026-10-15T02:00:12Z",
+    "pushed_at": "2026-10-14T12:19:04Z"
+  },
+  {
+    "id": 1413653643,
+    "name": "hermes-official-plugins",
+    "full_name": "NousResearch/hermes-official-plugins",
+    "owner": {
+      "login": "NousResearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134168893?v=4"
+    },
+    "description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+    "topics": [
+      "agent-plugins",
+      "ai-agents",
+      "claude",
+      "hermes",
+      "hermes-agent",
+      "home-assistant",
+      "llm",
+      "model-provider",
+      "nous-research",
+      "plugins",
+      "spotify"
+    ],
+    "html_url": "https://github.com/NousResearch/hermes-official-plugins",
+    "stargazers_count": 278,
+    "language": "Python",
+    "forks_count": 28,
+    "open_issues_count": 60,
+    "created_at": "2026-10-10T20:51:25Z",
+    "updated_at": "2026-10-14T22:05:12Z",
+    "pushed_at": "2026-10-14T22:05:06Z"
+  },
+  {
+    "id": 1411530691,
+    "name": "blender-ai-addon",
+    "full_name": "BlenderGPT3D/blender-ai-addon",
+    "owner": {
+      "login": "BlenderGPT3D",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340037382?v=4"
+    },
+    "description": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+    "topics": [
+      "3d-graphics",
+      "ai",
+      "blender",
+      "blender-addon",
+      "blender-plugin",
+      "chatgpt",
+      "generative-ai",
+      "gpt",
+      "llm",
+      "python"
+    ],
+    "html_url": "https://github.com/BlenderGPT3D/blender-ai-addon",
+    "stargazers_count": 213,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T08:34:03Z",
+    "updated_at": "2026-10-15T01:20:17Z",
+    "pushed_at": "2026-10-09T09:11:13Z"
+  },
+  {
+    "id": 1414354754,
+    "name": "xiryn",
+    "full_name": "SouravBeraAkaSpeed/xiryn",
+    "owner": {
+      "login": "SouravBeraAkaSpeed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112430623?v=4"
+    },
+    "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
+    "topics": [
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "byok",
+      "computer-use",
+      "docker",
+      "firecrawl",
+      "llm",
+      "local-first",
+      "multi-agent",
+      "nextjs",
+      "ollama",
+      "open-source",
+      "openai",
+      "personal-agent",
+      "privacy",
+      "self-hosted",
+      "sqlite",
+      "telegram-bot",
+      "typescript"
+    ],
+    "html_url": "https://github.com/SouravBeraAkaSpeed/xiryn",
+    "stargazers_count": 176,
+    "language": "TypeScript",
+    "forks_count": 26,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T13:12:31Z",
+    "updated_at": "2026-10-15T01:46:54Z",
+    "pushed_at": "2026-10-13T16:20:19Z"
+  },
+  {
+    "id": 1412981259,
+    "name": "RuiC-oc-ferry",
+    "full_name": "HRuiCcc/RuiC-oc-ferry",
+    "owner": {
+      "login": "HRuiCcc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319719670?v=4"
+    },
+    "description": "把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口",
+    "topics": [
+      "electron",
+      "free-models",
+      "llm",
+      "macos",
+      "openai-compatible",
+      "opencode",
+      "tray-app",
+      "windows",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/HRuiCcc/RuiC-oc-ferry",
+    "stargazers_count": 156,
+    "language": "JavaScript",
+    "forks_count": 24,
+    "open_issues_count": 3,
+    "created_at": "2026-10-10T08:59:18Z",
+    "updated_at": "2026-10-15T01:50:14Z",
+    "pushed_at": "2026-10-12T09:33:57Z"
+  },
+  {
+    "id": 1411843792,
+    "name": "wx-bot",
+    "full_name": "lawrencewzen/wx-bot",
+    "owner": {
+      "login": "lawrencewzen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32676356?v=4"
+    },
+    "description": "把微信接入你的 AI Agent（Grok / Muse / Claude 等）· Connect WeChat to your personal AI agent via official iLink",
+    "topics": [
+      "ai-agent",
+      "bun",
+      "claude-code",
+      "llm",
+      "typescript",
+      "wechat",
+      "wechat-bot"
+    ],
+    "html_url": "https://github.com/lawrencewzen/wx-bot",
+    "stargazers_count": 135,
+    "language": "TypeScript",
+    "forks_count": 24,
+    "open_issues_count": 3,
+    "created_at": "2026-10-09T12:51:25Z",
+    "updated_at": "2026-10-15T01:59:38Z",
+    "pushed_at": "2026-10-11T11:46:55Z"
+  },
+  {
+    "id": 1412998022,
+    "name": "diff-tour",
+    "full_name": "init-co-jp/diff-tour",
+    "owner": {
+      "login": "init-co-jp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148442191?v=4"
+    },
+    "description": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
+    "topics": [
+      "cli",
+      "code-review",
+      "git",
+      "go",
+      "learning",
+      "llm",
+      "onboarding",
+      "tui"
+    ],
+    "html_url": "https://github.com/init-co-jp/diff-tour",
+    "stargazers_count": 134,
+    "language": "Go",
+    "forks_count": 6,
+    "open_issues_count": 2,
+    "created_at": "2026-10-10T09:19:05Z",
+    "updated_at": "2026-10-15T00:38:27Z",
+    "pushed_at": "2026-10-11T16:34:53Z"
+  },
+  {
+    "id": 1414327429,
+    "name": "awesome-iran-mcp",
+    "full_name": "sepehr071/awesome-iran-mcp",
+    "owner": {
+      "login": "sepehr071",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52960282?v=4"
+    },
+    "description": "19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "awesome",
+      "claude",
+      "claude-code-plugin",
+      "digikala",
+      "iran",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "mcp-servers",
+      "model-context-protocol",
+      "persian",
+      "price-comparison",
+      "snappfood",
+      "unofficial-api"
+    ],
+    "html_url": "https://github.com/sepehr071/awesome-iran-mcp",
+    "stargazers_count": 97,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 1,
+    "created_at": "2026-10-11T12:42:59Z",
+    "updated_at": "2026-10-14T22:01:14Z",
+    "pushed_at": "2026-10-14T22:01:18Z"
+  },
+  {
+    "id": 1415380468,
+    "name": "ai-slop-detector",
+    "full_name": "FeedHive/ai-slop-detector",
+    "owner": {
+      "login": "FeedHive",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68555706?v=4"
+    },
+    "description": "120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex.",
+    "topics": [
+      "agent-skills",
+      "ai-slop",
+      "ai-writing",
+      "claude-code",
+      "copywriting",
+      "llm",
+      "writing"
+    ],
+    "html_url": "https://github.com/FeedHive/ai-slop-detector",
+    "stargazers_count": 72,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-10-12T09:38:49Z",
+    "updated_at": "2026-10-15T00:59:11Z",
+    "pushed_at": "2026-10-12T09:38:53Z"
+  },
+  {
+    "id": 1416407675,
+    "name": "opencode-rust",
+    "full_name": "vakandi/opencode-rust",
+    "owner": {
+      "login": "vakandi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106479214?v=4"
+    },
+    "description": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
+    "topics": [
+      "ai",
+      "cli",
+      "coding-agent",
+      "llm",
+      "lsp",
+      "mcp",
+      "opencode",
+      "rust",
+      "tui"
+    ],
+    "html_url": "https://github.com/vakandi/opencode-rust",
+    "stargazers_count": 71,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T03:36:43Z",
+    "updated_at": "2026-10-14T21:24:21Z",
+    "pushed_at": "2026-10-14T21:24:29Z"
+  },
+  {
+    "id": 1415280260,
+    "name": "DishwasherBench",
+    "full_name": "composo-ai/DishwasherBench",
+    "owner": {
+      "login": "composo-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135719717?v=4"
+    },
+    "description": "A dishwasher-loading game on a physical simulation of one real machine, built to benchmark language models and playable in a browser. The game inside is called Spotless.",
+    "topics": [
+      "ai-agents",
+      "benchmark",
+      "evaluation",
+      "game",
+      "llm",
+      "llm-benchmark",
+      "mcp",
+      "physics-simulation",
+      "simulation",
+      "typescript",
+      "webgpu"
+    ],
+    "html_url": "https://github.com/composo-ai/DishwasherBench",
+    "stargazers_count": 66,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 48,
+    "created_at": "2026-10-12T08:08:16Z",
+    "updated_at": "2026-10-14T22:33:45Z",
+    "pushed_at": "2026-10-14T13:59:44Z"
+  },
+  {
+    "id": 1414577473,
+    "name": "jevcrawl",
+    "full_name": "RayenMlayeh/jevcrawl",
+    "owner": {
+      "login": "RayenMlayeh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128719203?v=4"
+    },
+    "description": "MCP server and CLI that crawls websites for AI agents: finds the answer page 2x more often than Crawl4AI, 10x cheaper per answer than letting Claude crawl.",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "crawler",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "python",
+      "rag",
+      "web-crawler",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/RayenMlayeh/jevcrawl",
+    "stargazers_count": 53,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 6,
+    "created_at": "2026-10-11T17:06:36Z",
+    "updated_at": "2026-10-15T01:59:20Z",
+    "pushed_at": "2026-10-15T00:10:08Z"
+  },
+  {
+    "id": 1414016336,
+    "name": "simul-subtitle",
+    "full_name": "KorenKrita/simul-subtitle",
+    "owner": {
+      "login": "KorenKrita",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22239339?v=4"
+    },
+    "description": "日语、英语视频与直播实时同传悬浮字幕（Android / macOS / Windows）｜本地离线语音识别 · 自备 LLM 翻译（BYOK）",
+    "topics": [
+      "android",
+      "asr",
+      "compose-desktop",
+      "kotlin-multiplatform",
+      "live-caption",
+      "llm",
+      "macos",
+      "reazonspeech",
+      "sherpa-onnx",
+      "speech-recognition",
+      "subtitle",
+      "translation",
+      "windows"
+    ],
+    "html_url": "https://github.com/KorenKrita/simul-subtitle",
+    "stargazers_count": 41,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T06:37:19Z",
+    "updated_at": "2026-10-14T22:28:31Z",
+    "pushed_at": "2026-10-14T10:16:57Z"
+  },
+  {
+    "id": 1409683147,
+    "name": "zcode-claim-9router",
+    "full_name": "0xgetz/zcode-claim-9router",
+    "owner": {
+      "login": "0xgetz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219692780?v=4"
+    },
+    "description": "Automate the ZCode free Start-Plan claim (z.ai token/cookies -> ZCode JWT -> Start Plan) and wire GLM into 9Router as a glm provider pool. Web UI console + CLI. Reverse-engineered from ZCode 3.14.4.",
+    "topics": [
+      "9router",
+      "ai",
+      "automation",
+      "browser-automation",
+      "cdp",
+      "coding-plan",
+      "glm",
+      "glm-5",
+      "llm",
+      "open-webui",
+      "python",
+      "reverse-engineering",
+      "token-farm",
+      "z-ai",
+      "zai",
+      "zcode"
+    ],
+    "html_url": "https://github.com/0xgetz/zcode-claim-9router",
+    "stargazers_count": 40,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 2,
+    "created_at": "2026-10-08T03:43:27Z",
+    "updated_at": "2026-10-15T01:08:16Z",
+    "pushed_at": "2026-10-08T06:27:03Z"
+  },
+  {
+    "id": 1410115351,
+    "name": "ste-prompt",
+    "full_name": "menonpg/ste-prompt",
+    "owner": {
+      "login": "menonpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24590388?v=4"
+    },
+    "description": "ASD-STE100 Simplified Technical English as a plugin for Claude Code, Codex & coding agents — clearer, unambiguous LLM output",
+    "topics": [
+      "ai-agents",
+      "asd-ste100",
+      "claude-code",
+      "codex",
+      "controlled-language",
+      "llm",
+      "prompt-engineering",
+      "simplified-technical-english"
+    ],
+    "html_url": "https://github.com/menonpg/ste-prompt",
+    "stargazers_count": 39,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T10:04:43Z",
+    "updated_at": "2026-10-14T20:42:30Z",
+    "pushed_at": "2026-10-09T00:26:56Z"
+  },
+  {
+    "id": 1410911488,
+    "name": "Adaptive-Learnable-Hierarchical-Routing-",
+    "full_name": "vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-",
+    "owner": {
+      "login": "vdev-ctrl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339790151?v=4"
+    },
+    "description": "This repo is a alternative solution for standard self-attention. It uses tree routing with learnable functions for cheaper self-attention while not compromising accuracy.",
+    "topics": [
+      "attention-mechanism",
+      "deep-learning",
+      "efficient-inference",
+      "efficient-transformers",
+      "llm",
+      "long-context",
+      "pytorch",
+      "sparse-attention",
+      "sub-quadratic-attention",
+      "transformer",
+      "tree-attention"
+    ],
+    "html_url": "https://github.com/vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-",
+    "stargazers_count": 38,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-08T20:18:52Z",
+    "updated_at": "2026-10-14T19:21:21Z",
+    "pushed_at": "2026-10-11T16:12:51Z"
+  },
+  {
+    "id": 1412982686,
+    "name": "OpenArchEvo",
+    "full_name": "Optima-CityU/OpenArchEvo",
+    "owner": {
+      "login": "Optima-CityU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73569403?v=4"
+    },
+    "description": "Architecture search beyond the search space: an LLM writes architecture programs, population-based evolution decides which survive. Reference code + 171-architecture zoo for native spiking sequence models.",
+    "topics": [
+      "automl",
+      "evolutionary-computation",
+      "llm",
+      "neural-architecture-search",
+      "open-ended-search",
+      "spiking-neural-networks",
+      "surrogate-models"
+    ],
+    "html_url": "https://github.com/Optima-CityU/OpenArchEvo",
+    "stargazers_count": 37,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T09:00:54Z",
+    "updated_at": "2026-10-15T01:53:56Z",
+    "pushed_at": "2026-10-10T13:54:56Z"
+  }
+]
