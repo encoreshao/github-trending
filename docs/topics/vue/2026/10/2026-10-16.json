@@ -1,0 +1,604 @@
+[
+  {
+    "id": 1415654862,
+    "name": "LovelyCarve",
+    "full_name": "LovelyTeams/LovelyCarve",
+    "owner": {
+      "login": "LovelyTeams",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341289578?v=4"
+    },
+    "description": "a forensic carver with a soft heart · 基于 Rust、Tauri 2 与 Vue 3 的桌面磁盘取证与数据恢复工具：只读解析镜像、文件系统与加密卷，提供原类型预览、全局搜索、时间线、文件雕刻与插件分析",
+    "topics": [
+      "bitlocker",
+      "ctf",
+      "data-recovery",
+      "dfir",
+      "digital-forensics",
+      "disk-image",
+      "file-carving",
+      "forensics",
+      "ntfs",
+      "rust",
+      "tauri",
+      "vue"
+    ],
+    "html_url": "https://github.com/LovelyTeams/LovelyCarve",
+    "stargazers_count": 42,
+    "language": "Rust",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T13:38:35Z",
+    "updated_at": "2026-10-15T15:50:28Z",
+    "pushed_at": "2026-10-15T15:50:23Z"
+  },
+  {
+    "id": 1417741278,
+    "name": "orchestra",
+    "full_name": "theorchestradev/orchestra",
+    "owner": {
+      "login": "theorchestradev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342007606?v=4"
+    },
+    "description": "A desktop app for running coding agents side by side in project-based terminal sessions.",
+    "topics": [
+      "agent-development-environment",
+      "agent-orchestration",
+      "agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "go",
+      "terminal",
+      "vue",
+      "wails"
+    ],
+    "html_url": "https://github.com/theorchestradev/orchestra",
+    "stargazers_count": 14,
+    "language": "Go",
+    "forks_count": 2,
+    "open_issues_count": 3,
+    "created_at": "2026-10-13T18:41:11Z",
+    "updated_at": "2026-10-16T00:53:07Z",
+    "pushed_at": "2026-10-16T00:53:36Z"
+  },
+  {
+    "id": 1412853601,
+    "name": "sellrika",
+    "full_name": "sellrika/sellrika",
+    "owner": {
+      "login": "sellrika",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340465811?v=4"
+    },
+    "description": "Point of sale and online store in one app, for shops, cafés and restaurants. Source-available, self-hostable.",
+    "topics": [
+      "bun",
+      "docker",
+      "ecommerce",
+      "inertiajs",
+      "inventory",
+      "online-store",
+      "point-of-sale",
+      "pos",
+      "self-hosted",
+      "source-available",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/sellrika/sellrika",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 5,
+    "created_at": "2026-10-10T06:34:24Z",
+    "updated_at": "2026-10-15T06:45:57Z",
+    "pushed_at": "2026-10-15T06:45:54Z"
+  },
+  {
+    "id": 1411735951,
+    "name": "LinkLine",
+    "full_name": "yaonikaixin999999/LinkLine",
+    "owner": {
+      "login": "yaonikaixin999999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154858262?v=4"
+    },
+    "description": "LinkLine：基于 LXMusic 开源项目再开发的多平台音乐桌面客户端，支持跨平台收藏同步、音质切换、歌词与更新中心。",
+    "topics": [
+      "desktop-app",
+      "electron",
+      "lxmusic",
+      "music-player",
+      "vue",
+      "windows"
+    ],
+    "html_url": "https://github.com/yaonikaixin999999/LinkLine",
+    "stargazers_count": 10,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-09T11:28:48Z",
+    "updated_at": "2026-10-15T14:43:41Z",
+    "pushed_at": "2026-10-15T15:11:14Z"
+  },
+  {
+    "id": 1416379728,
+    "name": "hermes-prd-workbench",
+    "full_name": "YuxForge/hermes-prd-workbench",
+    "owner": {
+      "login": "YuxForge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32887220?v=4"
+    },
+    "description": "Self-hosted AI workbench that turns requirements into PRDs, technical specs, test cases, estimates, and interactive prototypes with Hermes Agent.",
+    "topics": [
+      "ai-agent",
+      "docker-compose",
+      "document-generation",
+      "docx",
+      "hermes-agent",
+      "llm",
+      "mermaid",
+      "prd",
+      "prd-generator",
+      "product-management",
+      "requirements-engineering",
+      "self-hosted",
+      "self-hosted-ai",
+      "spring-boot",
+      "technical-specification",
+      "test-case-generation",
+      "vue",
+      "vue3"
+    ],
+    "html_url": "https://github.com/YuxForge/hermes-prd-workbench",
+    "stargazers_count": 8,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-13T03:00:37Z",
+    "updated_at": "2026-10-14T12:15:15Z",
+    "pushed_at": "2026-10-14T01:10:37Z"
+  },
+  {
+    "id": 1411356942,
+    "name": "CmdPalm",
+    "full_name": "rahatsagor/CmdPalm",
+    "owner": {
+      "login": "rahatsagor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78367084?v=4"
+    },
+    "description": "Use your phone as a trackpad, keyboard and button deck for your Mac",
+    "topics": [
+      "keyboard",
+      "macos",
+      "menu-bar-app",
+      "remote-control",
+      "rust",
+      "stream-deck",
+      "swift",
+      "trackpad",
+      "vue"
+    ],
+    "html_url": "https://github.com/rahatsagor/CmdPalm",
+    "stargazers_count": 6,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T05:51:01Z",
+    "updated_at": "2026-10-14T21:28:01Z",
+    "pushed_at": "2026-10-14T09:14:17Z"
+  },
+  {
+    "id": 1417826883,
+    "name": "LocalLeaf",
+    "full_name": "leoaliperti/LocalLeaf",
+    "owner": {
+      "login": "leoaliperti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170821476?v=4"
+    },
+    "description": "Local-first LaTeX editor with an Overleaf-style interface. Native Rust + Tauri, uses your installed TeX, built-in MCP server for AI agents.",
+    "topics": [
+      "latex",
+      "local-first",
+      "mcp",
+      "overleaf",
+      "rust",
+      "tauri",
+      "vue"
+    ],
+    "html_url": "https://github.com/leoaliperti/LocalLeaf",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-10-13T19:26:45Z",
+    "updated_at": "2026-10-15T14:36:24Z",
+    "pushed_at": "2026-10-14T20:44:32Z"
+  },
+  {
+    "id": 1412983698,
+    "name": "dewee-webchat",
+    "full_name": "nextlevelbuilder/dewee-webchat",
+    "owner": {
+      "login": "nextlevelbuilder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246974152?v=4"
+    },
+    "description": "Embeddable chat widget for Dewee AI agents — streamed reasoning & tool calls, React/Vue/Astro/Next.js/PHP, secure backend handler.",
+    "topics": [
+      "ai-agent",
+      "astro",
+      "chat-widget",
+      "chatbot",
+      "cloudflare-workers",
+      "dewee",
+      "nextjs",
+      "php",
+      "react",
+      "vue",
+      "web-component"
+    ],
+    "html_url": "https://github.com/nextlevelbuilder/dewee-webchat",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-10T09:02:04Z",
+    "updated_at": "2026-10-15T19:42:08Z",
+    "pushed_at": "2026-10-10T10:16:51Z"
+  },
+  {
+    "id": 1414331365,
+    "name": "campus-pass",
+    "full_name": "pingzipingzi/campus-pass",
+    "owner": {
+      "login": "pingzipingzi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271755384?v=4"
+    },
+    "description": "基于 Spring Boot、Vue、Redis 与 RabbitMQ 的校园活动并发报名系统",
+    "topics": [
+      "java",
+      "jmeter",
+      "mysql",
+      "rabbitmq",
+      "redis",
+      "spring-boot",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/pingzipingzi/campus-pass",
+    "stargazers_count": 3,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T12:47:42Z",
+    "updated_at": "2026-10-12T03:33:56Z",
+    "pushed_at": "2026-10-12T03:33:52Z"
+  },
+  {
+    "id": 1413583353,
+    "name": "nitro",
+    "full_name": "nitroframework/nitro",
+    "owner": {
+      "login": "nitroframework",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230612480?v=4"
+    },
+    "description": "A full-stack framework for Laravel. Write components in PHP and Blade; Nitro compiles them to JavaScript that runs in the browser, and calls the server only when you ask it to.",
+    "topics": [
+      "blade",
+      "compiler",
+      "components",
+      "framework",
+      "full-stack",
+      "javascript",
+      "laravel",
+      "livewire-alternative",
+      "php",
+      "react",
+      "reactive",
+      "solidjs",
+      "svelte",
+      "vue"
+    ],
+    "html_url": "https://github.com/nitroframework/nitro",
+    "stargazers_count": 2,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T19:24:36Z",
+    "updated_at": "2026-10-15T21:59:51Z",
+    "pushed_at": "2026-10-15T21:59:49Z"
+  },
+  {
+    "id": 1419049537,
+    "name": "safetype",
+    "full_name": "karammm/safetype",
+    "owner": {
+      "login": "karammm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56406583?v=4"
+    },
+    "description": "Open-source TypeScript SDK that detects profanity, hate speech and harassment as people type — then masks, warns, blocks or suggests replacements. Works with any input, React, Vue, Angular, plus a rich-text editor.",
+    "topics": [
+      "angular",
+      "bad-words",
+      "censorship",
+      "chat-moderation",
+      "content-moderation",
+      "harassment-detection",
+      "hate-speech",
+      "hindi",
+      "hinglish",
+      "javascript",
+      "multilingual",
+      "profanity",
+      "profanity-filter",
+      "python",
+      "react",
+      "rich-text-editor",
+      "text-moderation",
+      "trust-and-safety",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/karammm/safetype",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-14T13:53:00Z",
+    "updated_at": "2026-10-15T18:12:35Z",
+    "pushed_at": "2026-10-15T18:12:30Z"
+  },
+  {
+    "id": 1411327579,
+    "name": "ModelScout-Desktop",
+    "full_name": "Huaxidesu/ModelScout-Desktop",
+    "owner": {
+      "login": "Huaxidesu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45794248?v=4"
+    },
+    "description": "一款用于自动检测大语言模型 API 能力及参数限制的桌面工具。只需提供 API 地址和密钥，即可批量获取模型信息，并生成 OpenCode、DeepSeekHardness 等工具所需的配置文件。",
+    "topics": [
+      "ai-models",
+      "api-testing",
+      "configuration-generator",
+      "desktop-app",
+      "llm",
+      "model-capabilities",
+      "model-discovery",
+      "model-probing",
+      "openai-compatible",
+      "opencode",
+      "rust",
+      "tauri",
+      "vue"
+    ],
+    "html_url": "https://github.com/Huaxidesu/ModelScout-Desktop",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T05:19:05Z",
+    "updated_at": "2026-10-11T13:42:52Z",
+    "pushed_at": "2026-10-11T12:53:58Z"
+  },
+  {
+    "id": 1415245083,
+    "name": "AI_tingshu",
+    "full_name": "GooChen55/AI_tingshu",
+    "owner": {
+      "login": "GooChen55",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211043016?v=4"
+    },
+    "description": "听见智能听书平台 | Java 17 + Vue/UniApp + FastAPI | 页面内 AI 助手、RAG 知识问答、只读运营问数与模拟交易",
+    "topics": [
+      "ai-agent",
+      "audiobook",
+      "fastapi",
+      "java",
+      "rag",
+      "spring-boot",
+      "uniapp",
+      "vue"
+    ],
+    "html_url": "https://github.com/GooChen55/AI_tingshu",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T07:36:12Z",
+    "updated_at": "2026-10-12T07:48:55Z",
+    "pushed_at": "2026-10-12T07:48:52Z"
+  },
+  {
+    "id": 1412863858,
+    "name": "opspanel",
+    "full_name": "smash-hq/opspanel",
+    "owner": {
+      "login": "smash-hq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67949557?v=4"
+    },
+    "description": "开箱即用的服务器运维面板。  A single binary, zero-agent, out-of-the-box server operations panel.",
+    "topics": [
+      "devops",
+      "golang",
+      "monitoring",
+      "server-management",
+      "vue",
+      "web-terminal"
+    ],
+    "html_url": "https://github.com/smash-hq/opspanel",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T06:46:39Z",
+    "updated_at": "2026-10-15T12:14:25Z",
+    "pushed_at": "2026-10-15T12:14:21Z"
+  },
+  {
+    "id": 1415526734,
+    "name": "vault-lm",
+    "full_name": "willgoodson/vault-lm",
+    "owner": {
+      "login": "willgoodson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57233238?v=4"
+    },
+    "description": "Turn a folder of Markdown notes into a study partner: cited chat, flashcards, quizzes and mind maps, running locally (Rust + Tauri)",
+    "topics": [
+      "desktop-app",
+      "flashcards",
+      "llm",
+      "local-first",
+      "markdown",
+      "notes",
+      "obsidian",
+      "ollama",
+      "rag",
+      "rust",
+      "spaced-repetition",
+      "study",
+      "tauri",
+      "vue"
+    ],
+    "html_url": "https://github.com/willgoodson/vault-lm",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-10-12T11:49:34Z",
+    "updated_at": "2026-10-12T16:52:12Z",
+    "pushed_at": "2026-10-12T16:52:08Z"
+  },
+  {
+    "id": 1418595297,
+    "name": "nprogress-next",
+    "full_name": "Naaach/nprogress-next",
+    "owner": {
+      "login": "Naaach",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19396332?v=4"
+    },
+    "description": "Minimalist, dependency-free, multi-framework progress bar. A drop-in replacement for NProgress.",
+    "topics": [
+      "nprogress",
+      "progress-bar",
+      "react",
+      "typescript",
+      "vue",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/Naaach/nprogress-next",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T08:26:20Z",
+    "updated_at": "2026-10-14T14:29:36Z",
+    "pushed_at": "2026-10-14T14:30:07Z"
+  },
+  {
+    "id": 1413677804,
+    "name": "xiaozhi-esp32-server-golang-frontend",
+    "full_name": "31415-n/xiaozhi-esp32-server-golang-frontend",
+    "owner": {
+      "login": "31415-n",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21974926?v=4"
+    },
+    "description": "Redesigned Vue 3 admin console for xiaozhi-esp32-server-golang — desktop-first UI/UX, strict modular architecture, RU/EN/ZH i18n.",
+    "topics": [
+      "esp32",
+      "esp32-s3",
+      "typescript",
+      "vue",
+      "xiaozhi",
+      "xiaozhi-ai",
+      "xiaozhi-esp32",
+      "xiaozhi-server"
+    ],
+    "html_url": "https://github.com/31415-n/xiaozhi-esp32-server-golang-frontend",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T21:22:27Z",
+    "updated_at": "2026-10-11T21:47:43Z",
+    "pushed_at": "2026-10-10T23:23:29Z"
+  },
+  {
+    "id": 1417065137,
+    "name": "opslens-ai",
+    "full_name": "chen-xinyi111/opslens-ai",
+    "owner": {
+      "login": "chen-xinyi111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192220524?v=4"
+    },
+    "description": "面向本机 Docker 应用的 AI 辅助运维工作台：证据采集、知识检索、Agent 调查与核验，以及隔离实验中的人工审批和恢复验证。",
+    "topics": [
+      "ai-agent",
+      "devops",
+      "docker",
+      "fastapi",
+      "langgraph",
+      "rag",
+      "vue"
+    ],
+    "html_url": "https://github.com/chen-xinyi111/opslens-ai",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T13:01:04Z",
+    "updated_at": "2026-10-14T12:03:58Z",
+    "pushed_at": "2026-10-14T12:03:53Z"
+  },
+  {
+    "id": 1414183421,
+    "name": "QUI-theme",
+    "full_name": "Aegisir/QUI-theme",
+    "owner": {
+      "login": "Aegisir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210194364?v=4"
+    },
+    "description": "腾讯 QQ Web 主题交互示例与 Vue 3 组件库，提供可复用组件、图标和本地化示例",
+    "topics": [
+      "pnpm",
+      "qq",
+      "tencent",
+      "tencent-x5",
+      "typescript",
+      "vue",
+      "web"
+    ],
+    "html_url": "https://github.com/Aegisir/QUI-theme",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T09:49:24Z",
+    "updated_at": "2026-10-13T23:59:22Z",
+    "pushed_at": "2026-10-11T10:51:04Z"
+  },
+  {
+    "id": 1411364482,
+    "name": "blog_studio",
+    "full_name": "zhoujiakang/blog_studio",
+    "owner": {
+      "login": "zhoujiakang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238675596?v=4"
+    },
+    "description": "拾笺 InkJian — 本地 Markdown 写作、随手小记与 Vue 博客编辑工具，目前支持 macOS。",
+    "topics": [
+      "blog",
+      "flutter",
+      "local-first",
+      "macos",
+      "markdown",
+      "vue"
+    ],
+    "html_url": "https://github.com/zhoujiakang/blog_studio",
+    "stargazers_count": 1,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T05:58:36Z",
+    "updated_at": "2026-10-12T15:29:18Z",
+    "pushed_at": "2026-10-12T15:29:14Z"
+  }
+]

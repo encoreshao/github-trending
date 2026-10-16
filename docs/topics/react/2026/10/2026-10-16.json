@@ -1,0 +1,621 @@
+[
+  {
+    "id": 1413021530,
+    "name": "talorys",
+    "full_name": "rociiu/talorys",
+    "owner": {
+      "login": "rociiu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23930?v=4"
+    },
+    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+    "topics": [
+      "ai-agent",
+      "cloudflare",
+      "cloudflare-workers",
+      "durable-objects",
+      "personal-assistant",
+      "react",
+      "self-hosted",
+      "typescript",
+      "workers-ai"
+    ],
+    "html_url": "https://github.com/rociiu/talorys",
+    "stargazers_count": 1163,
+    "language": "TypeScript",
+    "forks_count": 104,
+    "open_issues_count": 10,
+    "created_at": "2026-10-10T09:46:56Z",
+    "updated_at": "2026-10-16T01:57:46Z",
+    "pushed_at": "2026-10-16T01:36:10Z"
+  },
+  {
+    "id": 1415358670,
+    "name": "solid-glass",
+    "full_name": "deeplethe/solid-glass",
+    "owner": {
+      "login": "deeplethe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282846749?v=4"
+    },
+    "description": "A design system for AI applications. Material, physical, tactile, technical.",
+    "topics": [
+      "agent-ui",
+      "ai",
+      "ai-agents",
+      "chat-ui",
+      "design-system",
+      "llm",
+      "react",
+      "shadcn",
+      "shadcn-ui",
+      "tailwindcss",
+      "theme"
+    ],
+    "html_url": "https://github.com/deeplethe/solid-glass",
+    "stargazers_count": 1016,
+    "language": "TypeScript",
+    "forks_count": 16,
+    "open_issues_count": 3,
+    "created_at": "2026-10-12T09:19:02Z",
+    "updated_at": "2026-10-16T01:42:09Z",
+    "pushed_at": "2026-10-15T17:47:23Z"
+  },
+  {
+    "id": 1419078245,
+    "name": "open-claude-ui",
+    "full_name": "Caho1/open-claude-ui",
+    "owner": {
+      "login": "Caho1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124897849?v=4"
+    },
+    "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+    "topics": [
+      "anthropic",
+      "audioworklet",
+      "claude",
+      "design-system",
+      "framer-motion",
+      "motion-physics",
+      "react",
+      "reverse-engineering",
+      "tailwindcss",
+      "ui-components"
+    ],
+    "html_url": "https://github.com/Caho1/open-claude-ui",
+    "stargazers_count": 757,
+    "language": "TypeScript",
+    "forks_count": 177,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T14:05:05Z",
+    "updated_at": "2026-10-16T01:59:36Z",
+    "pushed_at": "2026-10-16T01:46:43Z"
+  },
+  {
+    "id": 1412143785,
+    "name": "robot-heads",
+    "full_name": "fayazara/robot-heads",
+    "owner": {
+      "login": "fayazara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15716057?v=4"
+    },
+    "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
+    "topics": [
+      "ai-agents",
+      "animation",
+      "avatar",
+      "canvas",
+      "react",
+      "robot"
+    ],
+    "html_url": "https://github.com/fayazara/robot-heads",
+    "stargazers_count": 343,
+    "language": "TypeScript",
+    "forks_count": 54,
+    "open_issues_count": 3,
+    "created_at": "2026-10-09T16:28:47Z",
+    "updated_at": "2026-10-15T21:11:02Z",
+    "pushed_at": "2026-10-10T05:18:23Z"
+  },
+  {
+    "id": 1411545320,
+    "name": "ai-promo-video-maker",
+    "full_name": "liyupi/ai-promo-video-maker",
+    "owner": {
+      "login": "liyupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26037703?v=4"
+    },
+    "description": "一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 AI 旁白并逐句转写校验、自动审图，最后交付一支 4K 商业宣传视频和可在线播放的网页版。App、网站、SaaS、开源项目、课程、AI 模型都能做，你只需确认需求、试听配乐。不用学剪辑软件，也不用花钱找外包。基于 Remotion + ElevenLabs，可直接克隆使用，也能一键安装为 Agent Skill。",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-video",
+      "ai-video-generator",
+      "aigc",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "marketing",
+      "motion-graphics",
+      "playwright",
+      "product-video",
+      "promo-video",
+      "react",
+      "remotion",
+      "text-to-speech",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/liyupi/ai-promo-video-maker",
+    "stargazers_count": 289,
+    "language": "Python",
+    "forks_count": 46,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T08:44:30Z",
+    "updated_at": "2026-10-16T01:04:48Z",
+    "pushed_at": "2026-10-09T08:44:49Z"
+  },
+  {
+    "id": 1411335875,
+    "name": "scam-with-your-friends-web",
+    "full_name": "mrzh7/scam-with-your-friends-web",
+    "owner": {
+      "login": "mrzh7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236308372?v=4"
+    },
+    "description": "Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare.",
+    "topics": [
+      "ai-game",
+      "browser-game",
+      "call-center",
+      "cloudflare-workers",
+      "coop-game",
+      "dark-comedy",
+      "fan-game",
+      "game-remake",
+      "multiplayer",
+      "open-source",
+      "party-game",
+      "react",
+      "scam-with-your-friends",
+      "scam-with-your-friends-web",
+      "steam",
+      "threejs",
+      "typescript",
+      "unofficial",
+      "voice-chat",
+      "webrtc"
+    ],
+    "html_url": "https://github.com/mrzh7/scam-with-your-friends-web",
+    "stargazers_count": 231,
+    "language": "TypeScript",
+    "forks_count": 19,
+    "open_issues_count": 7,
+    "created_at": "2026-10-09T05:27:48Z",
+    "updated_at": "2026-10-15T02:51:05Z",
+    "pushed_at": "2026-10-12T22:04:00Z"
+  },
+  {
+    "id": 1414107238,
+    "name": "librecalculator",
+    "full_name": "tonyzedginidze/librecalculator",
+    "owner": {
+      "login": "tonyzedginidze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119799979?v=4"
+    },
+    "description": "The universe in numbers. Free, open-source calculators for everything countable.",
+    "topics": [
+      "astro",
+      "bun",
+      "calculator",
+      "calculators",
+      "education",
+      "finance-calculator",
+      "learning",
+      "math",
+      "no-ads",
+      "open-source",
+      "privacy",
+      "react",
+      "tauri",
+      "typescript",
+      "unit-converter"
+    ],
+    "html_url": "https://github.com/tonyzedginidze/librecalculator",
+    "stargazers_count": 185,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T08:17:26Z",
+    "updated_at": "2026-10-16T01:15:18Z",
+    "pushed_at": "2026-10-15T19:53:45Z"
+  },
+  {
+    "id": 1414791664,
+    "name": "windle",
+    "full_name": "cxmza/windle",
+    "owner": {
+      "login": "cxmza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340972230?v=4"
+    },
+    "description": "Ship or slash — onchain promises with collateral on Solana. Teams back promises, markets price them, the chain decides.",
+    "topics": [
+      "defi",
+      "fastify",
+      "monorepo",
+      "prediction-markets",
+      "react",
+      "sign-in-with-solana",
+      "solana",
+      "threejs",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/cxmza/windle",
+    "stargazers_count": 182,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 4,
+    "created_at": "2026-10-11T21:37:08Z",
+    "updated_at": "2026-10-12T10:55:50Z",
+    "pushed_at": "2026-10-12T19:24:32Z"
+  },
+  {
+    "id": 1418755561,
+    "name": "profound-clone",
+    "full_name": "yaojingang/profound-clone",
+    "owner": {
+      "login": "yaojingang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
+    },
+    "description": "Profound (tryprofound.com) 前后台 1:1 学习复刻 · Next.js 16 / React 19 / SQLite · Educational replica for learning only, not affiliated with Profound Inc.",
+    "topics": [
+      "ai-search",
+      "clone",
+      "dashboard",
+      "educational",
+      "nextjs",
+      "react",
+      "seo",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/yaojingang/profound-clone",
+    "stargazers_count": 74,
+    "language": "TypeScript",
+    "forks_count": 59,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T10:50:01Z",
+    "updated_at": "2026-10-16T01:51:35Z",
+    "pushed_at": "2026-10-14T11:32:47Z"
+  },
+  {
+    "id": 1412029312,
+    "name": "countinghouse",
+    "full_name": "jameshaworthcs/countinghouse",
+    "owner": {
+      "login": "jameshaworthcs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25639211?v=4"
+    },
+    "description": "Counting House: a private, local-first UK personal finance tracker. Statements in, git-versioned JSON out: estate value, spending, tax year and projections.",
+    "topics": [
+      "hono",
+      "local-first",
+      "personal-finance",
+      "privacy",
+      "react",
+      "self-hosted",
+      "typescript",
+      "uk"
+    ],
+    "html_url": "https://github.com/jameshaworthcs/countinghouse",
+    "stargazers_count": 52,
+    "language": "TypeScript",
+    "forks_count": 24,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:03:05Z",
+    "updated_at": "2026-10-11T16:02:08Z",
+    "pushed_at": "2026-10-11T16:02:04Z"
+  },
+  {
+    "id": 1411617314,
+    "name": "uploadcn",
+    "full_name": "uploadcn/uploadcn",
+    "owner": {
+      "login": "uploadcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340059914?v=4"
+    },
+    "description": "Production-ready file uploads, built for shadcn. Blocks, hooks and an upload engine for S3, R2, Cloudinary and more.",
+    "topics": [
+      "cloudflare-r2",
+      "dropzone",
+      "file-upload",
+      "nextjs",
+      "react",
+      "registry",
+      "s3",
+      "shadcn",
+      "shadcn-ui",
+      "tailwindcss"
+    ],
+    "html_url": "https://github.com/uploadcn/uploadcn",
+    "stargazers_count": 49,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T09:43:11Z",
+    "updated_at": "2026-10-15T17:48:07Z",
+    "pushed_at": "2026-10-14T20:40:04Z"
+  },
+  {
+    "id": 1415959569,
+    "name": "exploded",
+    "full_name": "diip3sh/exploded",
+    "owner": {
+      "login": "diip3sh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99866329?v=4"
+    },
+    "description": "Take a real UI component apart. A Claude Code skill + runtime that explodes a live component into paint layers, states and tokens. Nothing is redrawn, no number is typed.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "component-documentation",
+      "css",
+      "design-engineering",
+      "design-systems",
+      "design-tokens",
+      "isometric",
+      "react",
+      "ui-components"
+    ],
+    "html_url": "https://github.com/diip3sh/exploded",
+    "stargazers_count": 45,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T18:03:04Z",
+    "updated_at": "2026-10-15T15:57:13Z",
+    "pushed_at": "2026-10-13T06:26:35Z"
+  },
+  {
+    "id": 1411723523,
+    "name": "opencalque",
+    "full_name": "laurent512/opencalque",
+    "owner": {
+      "login": "laurent512",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4173291?v=4"
+    },
+    "description": "Open-source 2D architectural editor with a Figma-like interface, a local CLI, and practical workflows for humans and AI agents.",
+    "topics": [
+      "2d",
+      "ai-agents",
+      "architecture",
+      "cad",
+      "editor",
+      "electron",
+      "floor-plan",
+      "floorplan",
+      "local-first",
+      "open-source",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/laurent512/opencalque",
+    "stargazers_count": 38,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T11:19:43Z",
+    "updated_at": "2026-10-15T22:42:40Z",
+    "pushed_at": "2026-10-15T15:22:32Z"
+  },
+  {
+    "id": 1414282033,
+    "name": "red-bean-nian-gao",
+    "full_name": "MalganisWu/red-bean-nian-gao",
+    "owner": {
+      "login": "MalganisWu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270712737?v=4"
+    },
+    "description": "AI Agent 对话平台 —— 流式对话、工具调用、子 Agent 委派、定时任务，以及每一次运行的完整审计轨迹。",
+    "topics": [
+      "agent-platform",
+      "ai-agent",
+      "fastify",
+      "postgresql",
+      "react",
+      "sse",
+      "typescript"
+    ],
+    "html_url": "https://github.com/MalganisWu/red-bean-nian-gao",
+    "stargazers_count": 35,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T11:48:03Z",
+    "updated_at": "2026-10-16T01:59:02Z",
+    "pushed_at": "2026-10-15T17:20:23Z"
+  },
+  {
+    "id": 1416457396,
+    "name": "muse-desktop",
+    "full_name": "robzilla1738/muse-desktop",
+    "owner": {
+      "login": "robzilla1738",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135086771?v=4"
+    },
+    "description": "Unofficial macOS, Windows, and Linux desktop companion for Muse Code by Robert Courson. Real CLI sessions, voice input, and five themes. Not affiliated with Meta.",
+    "topics": [
+      "desktop-app",
+      "electron",
+      "linux",
+      "macos",
+      "muse-code",
+      "react",
+      "sparkle",
+      "typescript",
+      "unofficial",
+      "windows"
+    ],
+    "html_url": "https://github.com/robzilla1738/muse-desktop",
+    "stargazers_count": 30,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 7,
+    "created_at": "2026-10-13T04:32:19Z",
+    "updated_at": "2026-10-15T13:44:13Z",
+    "pushed_at": "2026-10-14T17:38:02Z"
+  },
+  {
+    "id": 1416486627,
+    "name": "gausify-orbit",
+    "full_name": "obraia/gausify-orbit",
+    "owner": {
+      "login": "obraia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59900769?v=4"
+    },
+    "description": "Turn orbit videos (including AI-generated ones) into Gaussian Splats, 100% locally: desktop app (Tauri) and a WebGPU version that runs in the browser.",
+    "topics": [
+      "3d-gaussian-splatting",
+      "3d-reconstruction",
+      "colmap",
+      "gaussian-splatting",
+      "novel-view-synthesis",
+      "photogrammetry",
+      "react",
+      "rust",
+      "sam2",
+      "structure-from-motion",
+      "tauri",
+      "typescript",
+      "wasm",
+      "webgpu",
+      "webxr"
+    ],
+    "html_url": "https://github.com/obraia/gausify-orbit",
+    "stargazers_count": 24,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T05:02:30Z",
+    "updated_at": "2026-10-15T19:56:03Z",
+    "pushed_at": "2026-10-15T19:55:58Z"
+  },
+  {
+    "id": 1412432584,
+    "name": "blobz",
+    "full_name": "lirena00/blobz",
+    "owner": {
+      "login": "lirena00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92094239?v=4"
+    },
+    "description": "Deterministic SVG avatars from any name or ID. React components, a framework-free generator, and a hosted image API.",
+    "topics": [
+      "avatar",
+      "avatar-generator",
+      "deterministic",
+      "nextjs",
+      "profile-picture",
+      "react",
+      "svg",
+      "typescript"
+    ],
+    "html_url": "https://github.com/lirena00/blobz",
+    "stargazers_count": 24,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T20:44:39Z",
+    "updated_at": "2026-10-15T20:37:56Z",
+    "pushed_at": "2026-10-14T11:25:03Z"
+  },
+  {
+    "id": 1413117654,
+    "name": "AntigravitySwissKnife",
+    "full_name": "ChillingWombat/AntigravitySwissKnife",
+    "owner": {
+      "login": "ChillingWombat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67216903?v=4"
+    },
+    "description": "Cross-platform companion for Google Antigravity: Account Switcher, Custom Model Gateway, UI/UX Enhancement, Preview Browser, File Explorer, GitHub Workspace, Token Monitor, and many more features !",
+    "topics": [
+      "account-switcher",
+      "ai-agent",
+      "antigravity",
+      "antigravity-ai",
+      "antigravity-extension",
+      "developer-tools",
+      "electron",
+      "golang",
+      "google-antigravity",
+      "linux-app",
+      "macos-app",
+      "productivity",
+      "react",
+      "windows-app",
+      "workspace"
+    ],
+    "html_url": "https://github.com/ChillingWombat/AntigravitySwissKnife",
+    "stargazers_count": 21,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T11:36:19Z",
+    "updated_at": "2026-10-15T12:34:45Z",
+    "pushed_at": "2026-10-15T14:05:20Z"
+  },
+  {
+    "id": 1421166573,
+    "name": "lindyson-ai",
+    "full_name": "orylite/lindyson-ai",
+    "owner": {
+      "login": "orylite",
+      "avatar_url": "https://avatars.githubusercontent.com/u/343153009?v=4"
+    },
+    "description": "AI video & image generation workspace for e-commerce teams, built on Volcengine Seedance / Seedream, with MCP for ChatGPT & Codex · 面向电商团队的 AI 视频与图片生成工作台",
+    "topics": [
+      "ai-video-generation",
+      "fastify",
+      "mcp",
+      "react",
+      "seedance",
+      "seedream",
+      "typescript",
+      "volcengine"
+    ],
+    "html_url": "https://github.com/orylite/lindyson-ai",
+    "stargazers_count": 18,
+    "language": "TypeScript",
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T18:23:28Z",
+    "updated_at": "2026-10-16T00:58:39Z",
+    "pushed_at": "2026-10-15T22:59:49Z"
+  },
+  {
+    "id": 1412433350,
+    "name": "anatomy-figures",
+    "full_name": "wheresryan22/anatomy-figures",
+    "owner": {
+      "login": "wheresryan22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96392276?v=4"
+    },
+    "description": "Every Anatomy figure as a live, themeable React component or custom element: 52 isometric machines drawn by Claude with the /anatomy skill.",
+    "topics": [
+      "claude",
+      "illustration",
+      "isometric",
+      "react",
+      "svg",
+      "web-components",
+      "webgl"
+    ],
+    "html_url": "https://github.com/wheresryan22/anatomy-figures",
+    "stargazers_count": 17,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T20:45:35Z",
+    "updated_at": "2026-10-15T17:47:51Z",
+    "pushed_at": "2026-10-09T21:16:01Z"
+  }
+]

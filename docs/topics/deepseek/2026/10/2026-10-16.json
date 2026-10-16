@@ -1,0 +1,600 @@
+[
+  {
+    "id": 1415505115,
+    "name": "dgx-spark-deepseek-v41",
+    "full_name": "sudoingX/dgx-spark-deepseek-v41",
+    "owner": {
+      "login": "sudoingX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200180104?v=4"
+    },
+    "description": "DeepSeek-V4.1-Flash on two NVIDIA DGX Sparks: EXL3 weights from the official checkpoint, upstream vLLM with our patches and decode kernels",
+    "topics": [
+      "deepseek",
+      "dgx-spark",
+      "exl3",
+      "gb10",
+      "quantization",
+      "vllm"
+    ],
+    "html_url": "https://github.com/sudoingX/dgx-spark-deepseek-v41",
+    "stargazers_count": 30,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-10-12T11:33:35Z",
+    "updated_at": "2026-10-15T20:15:27Z",
+    "pushed_at": "2026-10-12T18:21:03Z"
+  },
+  {
+    "id": 1416660289,
+    "name": "opencode-free-bridge",
+    "full_name": "azrinaldi/opencode-free-bridge",
+    "owner": {
+      "login": "azrinaldi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90147569?v=4"
+    },
+    "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
+    "topics": [
+      "ai",
+      "bridge",
+      "deepseek",
+      "free",
+      "llm",
+      "muse-spark",
+      "nodejs",
+      "openai",
+      "opencode",
+      "proxy"
+    ],
+    "html_url": "https://github.com/azrinaldi/opencode-free-bridge",
+    "stargazers_count": 19,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T07:49:01Z",
+    "updated_at": "2026-10-16T00:01:31Z",
+    "pushed_at": "2026-10-15T15:36:25Z"
+  },
+  {
+    "id": 1411101184,
+    "name": "dgx-station-frontier",
+    "full_name": "RonanLabsAI/dgx-station-frontier",
+    "owner": {
+      "login": "RonanLabsAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339888102?v=4"
+    },
+    "description": "Receipts-first serving recipes and measurements for two NVIDIA DGX Station GB300s",
+    "topics": [
+      "benchmarks",
+      "deepseek",
+      "dgx-station",
+      "gb300",
+      "nccl",
+      "vllm"
+    ],
+    "html_url": "https://github.com/RonanLabsAI/dgx-station-frontier",
+    "stargazers_count": 14,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T00:37:49Z",
+    "updated_at": "2026-10-14T04:16:03Z",
+    "pushed_at": "2026-10-14T04:16:00Z"
+  },
+  {
+    "id": 1412749456,
+    "name": "huaci-assistant",
+    "full_name": "youniszhang/huaci-assistant",
+    "owner": {
+      "login": "youniszhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222386169?v=4"
+    },
+    "description": "系统级划词解释助手：任意应用划词 → AI 流式解释 → 一键录入 Obsidian（macOS + Windows，MIT 开源）",
+    "topics": [
+      "ai",
+      "deepseek",
+      "electron",
+      "macos",
+      "obsidian",
+      "productivity",
+      "text-selection",
+      "windows"
+    ],
+    "html_url": "https://github.com/youniszhang/huaci-assistant",
+    "stargazers_count": 10,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T04:29:04Z",
+    "updated_at": "2026-10-14T02:25:11Z",
+    "pushed_at": "2026-10-14T02:25:09Z"
+  },
+  {
+    "id": 1416497190,
+    "name": "dsh-purge",
+    "full_name": "mmparko/dsh-purge",
+    "owner": {
+      "login": "mmparko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72783367?v=4"
+    },
+    "description": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
+    "topics": [
+      "archive",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "dsh-plugins",
+      "harness-jailbreak",
+      "jailbreak",
+      "llm-jailbreak",
+      "mirror"
+    ],
+    "html_url": "https://github.com/mmparko/dsh-purge",
+    "stargazers_count": 10,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T05:14:47Z",
+    "updated_at": "2026-10-15T04:33:26Z",
+    "pushed_at": "2026-10-13T05:50:46Z"
+  },
+  {
+    "id": 1415441417,
+    "name": "dsh-webin",
+    "full_name": "cv-superding/dsh-webin",
+    "owner": {
+      "login": "cv-superding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105969686?v=4"
+    },
+    "description": "Unofficial DSH plugin: drive AI web UIs (DeepSeek/Qwen/...) in a REAL browser via DSH's own Chromium webview guest — real login, real typing, real send, reply captured by observing the page's own SSE. Includes tool calling.",
+    "topics": [
+      "ai-agent",
+      "browser-automation",
+      "cordis-plugin",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "tool-calling",
+      "webview"
+    ],
+    "html_url": "https://github.com/cv-superding/dsh-webin",
+    "stargazers_count": 10,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-10-12T10:35:03Z",
+    "updated_at": "2026-10-15T12:49:11Z",
+    "pushed_at": "2026-10-15T09:18:47Z"
+  },
+  {
+    "id": 1412795628,
+    "name": "officeace2api",
+    "full_name": "Q-shuang-dot/officeace2api",
+    "owner": {
+      "login": "Q-shuang-dot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182198374?v=4"
+    },
+    "description": "Turn a model gateway into a standard OpenAI-compatible API with a built-in web console. Zero deps (Node.js built-ins only). 把华为云果办 OfficeAce 模型网关反代成标准 OpenAI 兼容 API，自带中文控制台。",
+    "topics": [
+      "api-gateway",
+      "batch",
+      "chatbot",
+      "deepseek",
+      "glm",
+      "huawei-cloud",
+      "llm",
+      "llm-proxy",
+      "nodejs",
+      "openai-api",
+      "openai-compatible",
+      "reverse-proxy",
+      "self-hosted",
+      "windows",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/Q-shuang-dot/officeace2api",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-10T05:31:38Z",
+    "updated_at": "2026-10-15T10:00:12Z",
+    "pushed_at": "2026-10-15T08:13:48Z"
+  },
+  {
+    "id": 1415187829,
+    "name": "Box-Box",
+    "full_name": "ploverbyHB/Box-Box",
+    "owner": {
+      "login": "ploverbyHB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/304376625?v=4"
+    },
+    "description": "Box-Box World's First AI F1 Race Engineer",
+    "topics": [
+      "ai-race-strategy",
+      "deepseek",
+      "elevenlabs",
+      "fastapi",
+      "python",
+      "real-time-data-processing",
+      "udp-telemetry",
+      "websocket"
+    ],
+    "html_url": "https://github.com/ploverbyHB/Box-Box",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-10-12T06:45:12Z",
+    "updated_at": "2026-10-14T23:03:02Z",
+    "pushed_at": "2026-10-12T06:59:54Z"
+  },
+  {
+    "id": 1412923977,
+    "name": "mcd-1024-skill",
+    "full_name": "SteveLaiTVT/mcd-1024-skill",
+    "owner": {
+      "login": "SteveLaiTVT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89123378?v=4"
+    },
+    "description": "麦麦饱饱盘：官方套餐核价、圆盘选餐、DeepSeek 双 Agent 个性推荐与用餐热力图｜麦当劳创意开发大赛参赛作品（非官方）",
+    "topics": [
+      "agent-skill",
+      "browser-extension",
+      "deepseek",
+      "mcdonalds",
+      "mcp",
+      "mcp-server",
+      "python",
+      "skill",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/SteveLaiTVT/mcd-1024-skill",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-10T07:54:06Z",
+    "updated_at": "2026-10-14T14:54:54Z",
+    "pushed_at": "2026-10-14T14:54:46Z"
+  },
+  {
+    "id": 1416940161,
+    "name": "vocabgo-auto",
+    "full_name": "xuhaoranbb-boop/vocabgo-auto",
+    "owner": {
+      "login": "xuhaoranbb-boop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318333412?v=4"
+    },
+    "description": "词达人（vocabgo）自动答题工具：图形界面 + DeepSeek 兜底 + 本地题库 + 在线词典 + 读图，附完整说明书与 165 项测试",
+    "topics": [
+      "automation",
+      "cidaren",
+      "deepseek",
+      "python",
+      "tkinter",
+      "vocabgo"
+    ],
+    "html_url": "https://github.com/xuhaoranbb-boop/vocabgo-auto",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T11:49:14Z",
+    "updated_at": "2026-10-16T01:45:57Z",
+    "pushed_at": "2026-10-16T01:45:54Z"
+  },
+  {
+    "id": 1416243307,
+    "name": "esp32-thinks",
+    "full_name": "raullenchai/esp32-thinks",
+    "owner": {
+      "login": "raullenchai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/989846?v=4"
+    },
+    "description": "A multi-model Muse: personal AI voice assistant on ESP32 - wake word or knob, any OpenAI-compatible brain (STT/chat/TTS mix-and-match), streaming replies, out of the box. Built on muse-gadget-sdk.",
+    "topics": [
+      "ai-assistant",
+      "deepseek",
+      "esp-sr",
+      "esp32",
+      "esp32-s3",
+      "llm",
+      "muse",
+      "muse-gadget-sdk",
+      "offline-first",
+      "openai",
+      "openai-compatible",
+      "recipe",
+      "sensecap-watcher",
+      "smart-speaker",
+      "stt",
+      "tts",
+      "voice-agent",
+      "voice-assistant",
+      "wake-word",
+      "whisper"
+    ],
+    "html_url": "https://github.com/raullenchai/esp32-thinks",
+    "stargazers_count": 5,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T23:47:40Z",
+    "updated_at": "2026-10-15T23:43:49Z",
+    "pushed_at": "2026-10-15T23:43:45Z"
+  },
+  {
+    "id": 1417105951,
+    "name": "ai-prompt-optimizer",
+    "full_name": "banzr519/ai-prompt-optimizer",
+    "owner": {
+      "login": "banzr519",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259989393?v=4"
+    },
+    "description": "AI prompt optimizer & prompt engineering skill. AI 提示词优化、需求澄清。Portable guidance for GPT, DeepSeek, Claude, Gemini, Qwen, Kimi, GLM, Doubao, Hunyuan, ERNIE, MiniMax, Grok, Mistral & Llama; integrations depend on the host.",
+    "topics": [
+      "agent-skills",
+      "ai-prompts",
+      "ai-tools",
+      "claude",
+      "codex",
+      "deepseek",
+      "gemini",
+      "glm",
+      "gpt",
+      "i18n",
+      "kimi",
+      "llama",
+      "llm",
+      "mistral",
+      "multilingual",
+      "prompt-engineering",
+      "prompt-optimization",
+      "prompt-optimizer",
+      "qwen",
+      "requirements-engineering"
+    ],
+    "html_url": "https://github.com/banzr519/ai-prompt-optimizer",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T13:22:09Z",
+    "updated_at": "2026-10-14T04:35:13Z",
+    "pushed_at": "2026-10-14T04:35:10Z"
+  },
+  {
+    "id": 1414457498,
+    "name": "blue-fat-fish",
+    "full_name": "AliceArchiveX/blue-fat-fish",
+    "owner": {
+      "login": "AliceArchiveX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337357123?v=4"
+    },
+    "description": "通过权重修改，让开源模型讯飞星火Spark-X2.5-4B彻底相信自己是一只傲娇的AI鲸鱼",
+    "topics": [
+      "behavioral-evaluation",
+      "deepseek",
+      "fatfish",
+      "frozen-backbone",
+      "polysemanticity",
+      "residual-stream",
+      "roleplay",
+      "spark-x2-5"
+    ],
+    "html_url": "https://github.com/AliceArchiveX/blue-fat-fish",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T15:00:44Z",
+    "updated_at": "2026-10-13T02:22:07Z",
+    "pushed_at": "2026-10-12T08:28:23Z"
+  },
+  {
+    "id": 1413981596,
+    "name": "dsh-prompt-injector",
+    "full_name": "yukk4159-bit/dsh-prompt-injector",
+    "owner": {
+      "login": "yukk4159-bit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281414504?v=4"
+    },
+    "description": "DeepSeek Harness plugin: inject a reusable prompt preset into the front of a message at send time - next message only, or every turn. 提示词注入器",
+    "topics": [
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "preset",
+      "prompt",
+      "prompt-injector"
+    ],
+    "html_url": "https://github.com/yukk4159-bit/dsh-prompt-injector",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T05:52:39Z",
+    "updated_at": "2026-10-15T04:28:36Z",
+    "pushed_at": "2026-10-11T05:52:46Z"
+  },
+  {
+    "id": 1411159077,
+    "name": "llm-inference-optimization",
+    "full_name": "zhangjk1207/llm-inference-optimization",
+    "owner": {
+      "login": "zhangjk1207",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24766446?v=4"
+    },
+    "description": "PCIe multi-GPU deployment & inference optimization for GLM-5.3-Flash W4A16 / DeepSeek-V4-Flash / V4.1-Flash on A800/A40: CUDA graphs, MTP speculative decoding, LMCache KV offload, NCCL tuning, concurrent benchmarks. 多卡部署与推理优化实测。",
+    "topics": [
+      "benchmarking",
+      "cuda",
+      "deepseek",
+      "glm",
+      "inference-optimization",
+      "llm-inference",
+      "lmcache",
+      "multi-gpu",
+      "vllm"
+    ],
+    "html_url": "https://github.com/zhangjk1207/llm-inference-optimization",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T02:03:21Z",
+    "updated_at": "2026-10-13T09:43:51Z",
+    "pushed_at": "2026-10-13T02:44:58Z"
+  },
+  {
+    "id": 1413128356,
+    "name": "dsh-followup-suggestions",
+    "full_name": "YubaiLoving/dsh-followup-suggestions",
+    "owner": {
+      "login": "YubaiLoving",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211953471?v=4"
+    },
+    "description": "Follow-up suggestion chips under a DSH session's last completed reply, generated with that session's own selected model.",
+    "topics": [
+      "chat-ui",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-client-plugin",
+      "dsh-plugin",
+      "follow-up-suggestions"
+    ],
+    "html_url": "https://github.com/YubaiLoving/dsh-followup-suggestions",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T11:48:50Z",
+    "updated_at": "2026-10-15T07:53:37Z",
+    "pushed_at": "2026-10-14T06:06:08Z"
+  },
+  {
+    "id": 1412390409,
+    "name": "cli",
+    "full_name": "mixlayer/cli",
+    "owner": {
+      "login": "mixlayer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64702161?v=4"
+    },
+    "description": "The official CLI for Mixlayer. Run open models like DeepSeek, Qwen and GLM from your terminal and your coding agent. Written in Rust.",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "deepseek",
+      "inference",
+      "llm",
+      "mcp",
+      "open-source-models",
+      "openai-compatible",
+      "qwen",
+      "rust"
+    ],
+    "html_url": "https://github.com/mixlayer/cli",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T19:59:58Z",
+    "updated_at": "2026-10-14T19:42:10Z",
+    "pushed_at": "2026-10-13T19:25:00Z"
+  },
+  {
+    "id": 1414423798,
+    "name": "dsh-plugin-structured-prompt",
+    "full_name": "YuChenLiao/dsh-plugin-structured-prompt",
+    "owner": {
+      "login": "YuChenLiao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60771667?v=4"
+    },
+    "description": "dsh结构化提示词插件，通过表单配置的方式结构化生成提示词，提高模型的执行效率",
+    "topics": [
+      "deepseek",
+      "dsh-plugin",
+      "dsh-plugins",
+      "prompt",
+      "prompt-management",
+      "prompt-toolkit",
+      "prompts"
+    ],
+    "html_url": "https://github.com/YuChenLiao/dsh-plugin-structured-prompt",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T14:25:51Z",
+    "updated_at": "2026-10-15T19:13:46Z",
+    "pushed_at": "2026-10-15T11:14:06Z"
+  },
+  {
+    "id": 1415839539,
+    "name": "dsh-plugin-debugging",
+    "full_name": "dsh-plugin-lab/dsh-plugin-debugging",
+    "owner": {
+      "login": "dsh-plugin-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340539870?v=4"
+    },
+    "description": "Your DSH agent can now inspect, diagnose, and fix its own runtime. | 你的 DSH agent 能检查、诊断并修复它身处的运行时了。",
+    "topics": [
+      "agent-harness",
+      "ai",
+      "ai-agent",
+      "debugging",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "dsh-skill",
+      "plugin",
+      "troubleshooting",
+      "typescript"
+    ],
+    "html_url": "https://github.com/dsh-plugin-lab/dsh-plugin-debugging",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-12T16:13:08Z",
+    "updated_at": "2026-10-16T00:05:31Z",
+    "pushed_at": "2026-10-15T19:18:30Z"
+  },
+  {
+    "id": 1413017632,
+    "name": "ai-evo",
+    "full_name": "mahingbun-dev/ai-evo",
+    "owner": {
+      "login": "mahingbun-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174362089?v=4"
+    },
+    "description": "Self-hosted AI evaluation platform for LLMs & Agents — 9 eval types with AI judges, datasets, pre-eval scripts, analytics & A/B testing. FastAPI + Vue 3.",
+    "topics": [
+      "ai-agent",
+      "ai-testing",
+      "celery",
+      "deepseek",
+      "evaluation",
+      "fastapi",
+      "langgraph",
+      "llm",
+      "llm-evaluation",
+      "rag",
+      "self-hosted",
+      "vue3"
+    ],
+    "html_url": "https://github.com/mahingbun-dev/ai-evo",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-10T09:42:25Z",
+    "updated_at": "2026-10-14T10:52:46Z",
+    "pushed_at": "2026-10-15T17:53:08Z"
+  }
+]

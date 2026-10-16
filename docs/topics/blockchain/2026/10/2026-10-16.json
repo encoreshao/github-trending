@@ -1,0 +1,550 @@
+[
+  {
+    "id": 1417843932,
+    "name": "solana-classic",
+    "full_name": "solana-classic/solana-classic",
+    "owner": {
+      "login": "solana-classic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277901045?v=4"
+    },
+    "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+    "topics": [
+      "agave",
+      "blockchain",
+      "memecoins",
+      "nft",
+      "open-source",
+      "solana",
+      "svm",
+      "testnet"
+    ],
+    "html_url": "https://github.com/solana-classic/solana-classic",
+    "stargazers_count": 394,
+    "language": "Rust",
+    "forks_count": 57,
+    "open_issues_count": 6,
+    "created_at": "2026-10-13T19:35:48Z",
+    "updated_at": "2026-10-16T01:48:06Z",
+    "pushed_at": "2026-10-16T01:57:23Z"
+  },
+  {
+    "id": 1418470443,
+    "name": "crypto-mcp-servers",
+    "full_name": "narekgevorgyan/crypto-mcp-servers",
+    "owner": {
+      "login": "narekgevorgyan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1522746?v=4"
+    },
+    "description": "100+ verified crypto MCP servers for AI agents: market data, exchanges, wallets, on-chain, DeFi, and more",
+    "topics": [
+      "ai-agents",
+      "awesome-list",
+      "blockchain",
+      "claude",
+      "coinstats",
+      "crypto",
+      "cryptocurrency",
+      "defi",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "web3"
+    ],
+    "html_url": "https://github.com/narekgevorgyan/crypto-mcp-servers",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 5,
+    "created_at": "2026-10-14T06:24:47Z",
+    "updated_at": "2026-10-15T12:22:09Z",
+    "pushed_at": "2026-10-14T06:24:51Z"
+  },
+  {
+    "id": 1416602332,
+    "name": "MiniEVM",
+    "full_name": "AstraeusZhao/MiniEVM",
+    "owner": {
+      "login": "AstraeusZhao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191604365?v=4"
+    },
+    "description": "A Rust implementation of EVM L2 execution layer, built for studying EVM opcodes and L2 core mechanics.",
+    "topics": [
+      "blockchain",
+      "ethereum",
+      "evm",
+      "rust",
+      "web3"
+    ],
+    "html_url": "https://github.com/AstraeusZhao/MiniEVM",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T07:00:44Z",
+    "updated_at": "2026-10-15T10:33:27Z",
+    "pushed_at": "2026-10-14T16:15:18Z"
+  },
+  {
+    "id": 1412161380,
+    "name": "LandChain-LandRegistrySystem",
+    "full_name": "bhavyweb3/LandChain-LandRegistrySystem",
+    "owner": {
+      "login": "bhavyweb3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247006739?v=4"
+    },
+    "description": "LandChain is a blockchain-based land registry prototype built with Python, Flask, HTML, CSS, and JavaScript. It uses SHA-256 hashing and JSON storage to support land registration, ownership transfers, transaction history, integrity verification, and digital ownership certificates.",
+    "topics": [
+      "blockchain",
+      "blockchain-technology",
+      "college-project",
+      "flask",
+      "landregistry",
+      "sha256"
+    ],
+    "html_url": "https://github.com/bhavyweb3/LandChain-LandRegistrySystem",
+    "stargazers_count": 2,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T16:44:07Z",
+    "updated_at": "2026-10-10T04:59:48Z",
+    "pushed_at": "2026-10-10T02:15:12Z"
+  },
+  {
+    "id": 1412172990,
+    "name": "hacktoberfest-hack-day-hamirpur-26-innovex",
+    "full_name": "HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-innovex",
+    "owner": {
+      "login": "HackIndiaXYZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
+    },
+    "description": "Hackathon team repository for Innovex - [hackindia-team:hacktoberfest-hack-day-hamirpur-26:innovex]",
+    "topics": [
+      "ai-ml",
+      "blockchain",
+      "cloud",
+      "cybersecurity",
+      "generative-ai",
+      "web3"
+    ],
+    "html_url": "https://github.com/HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-innovex",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T16:53:09Z",
+    "updated_at": "2026-10-09T17:40:08Z",
+    "pushed_at": "2026-10-09T16:53:11Z"
+  },
+  {
+    "id": 1413419686,
+    "name": "Argos-Memecoin-sniper",
+    "full_name": "COEFR/Argos-Memecoin-sniper",
+    "owner": {
+      "login": "COEFR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93232732?v=4"
+    },
+    "description": "Argos: detecta grupos de wallets que compran juntas en Solana leyendo la blockchain. Cosecha lanzamientos de pump.fun, arma los grupos con union-find, mide cada aviso contra el resultado real y corre un test de control contra tokens al azar.",
+    "topics": [
+      "blockchain",
+      "crypto-scanner",
+      "memecoins",
+      "no-custody",
+      "onchain-analysis",
+      "pumpfun",
+      "python",
+      "solana",
+      "union-find",
+      "wallet-tracker"
+    ],
+    "html_url": "https://github.com/COEFR/Argos-Memecoin-sniper",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T16:33:01Z",
+    "updated_at": "2026-10-16T02:00:25Z",
+    "pushed_at": "2026-10-16T02:00:21Z"
+  },
+  {
+    "id": 1413208872,
+    "name": "quantiscoin-node",
+    "full_name": "Palscodev/quantiscoin-node",
+    "owner": {
+      "login": "Palscodev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218414589?v=4"
+    },
+    "description": "QuantisCoin node: run a full node and mine QTS on your computer or Raspberry Pi",
+    "topics": [
+      "blockchain",
+      "cryptocurrency",
+      "proof-of-work",
+      "python",
+      "raspberry-pi"
+    ],
+    "html_url": "https://github.com/Palscodev/quantiscoin-node",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T13:17:38Z",
+    "updated_at": "2026-10-12T20:48:56Z",
+    "pushed_at": "2026-10-12T20:48:53Z"
+  },
+  {
+    "id": 1415892676,
+    "name": "web3-arbitrage-bot-for-beginners",
+    "full_name": "quartzcaveseh2290/web3-arbitrage-bot-for-beginners",
+    "owner": {
+      "login": "quartzcaveseh2290",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341469481?v=4"
+    },
+    "description": "An introduction to arbitrage contract concepts, wallets and the off-chain role in Web3 automation.",
+    "topics": [
+      "blockchain",
+      "defi",
+      "documentation",
+      "ethereum",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/quartzcaveseh2290/web3-arbitrage-bot-for-beginners",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T17:00:27Z",
+    "updated_at": "2026-10-16T02:00:14Z",
+    "pushed_at": "2026-10-16T02:00:10Z"
+  },
+  {
+    "id": 1415893960,
+    "name": "how-to-build-ethereum-arbitrage-bot-wallet-setup",
+    "full_name": "gatuhe968731/how-to-build-ethereum-arbitrage-bot-wallet-setup",
+    "owner": {
+      "login": "gatuhe968731",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341490520?v=4"
+    },
+    "description": "A video-based guide to building an Ethereum arbitrage bot, focusing on wallet connection and Ethereum network preparation.",
+    "topics": [
+      "aave",
+      "blockchain",
+      "defi",
+      "documentation",
+      "ethereum",
+      "metamask",
+      "solidity",
+      "tutorial",
+      "uniswap",
+      "web3"
+    ],
+    "html_url": "https://github.com/gatuhe968731/how-to-build-ethereum-arbitrage-bot-wallet-setup",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T17:01:37Z",
+    "updated_at": "2026-10-16T02:00:19Z",
+    "pushed_at": "2026-10-16T02:00:15Z"
+  },
+  {
+    "id": 1412108976,
+    "name": "hacktoberfest-hack-day-hamirpur-26-shaurya",
+    "full_name": "HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-shaurya",
+    "owner": {
+      "login": "HackIndiaXYZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
+    },
+    "description": "Hackathon team repository for Shaurya - [hackindia-team:hacktoberfest-hack-day-hamirpur-26:shaurya]",
+    "topics": [
+      "ai-ml",
+      "blockchain",
+      "cloud",
+      "cybersecurity",
+      "generative-ai",
+      "web3"
+    ],
+    "html_url": "https://github.com/HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-shaurya",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T15:59:35Z",
+    "updated_at": "2026-10-09T17:41:05Z",
+    "pushed_at": "2026-10-09T15:59:37Z"
+  },
+  {
+    "id": 1412143891,
+    "name": "requant",
+    "full_name": "requant-network/requant",
+    "owner": {
+      "login": "requant-network",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340499913?v=4"
+    },
+    "description": "Requant (RQT): experimental proof-of-work coin whose work is a deep int8 network on GPU tensor cores (TNet v1). Node, wallet, swap maker and spec; public testnet, pre-alpha.",
+    "topics": [
+      "atomic-swaps",
+      "blockchain",
+      "cryptocurrency",
+      "gpu-mining",
+      "int8",
+      "payment-channels",
+      "proof-of-work",
+      "requant",
+      "rust",
+      "tensor-cores",
+      "testnet"
+    ],
+    "html_url": "https://github.com/requant-network/requant",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T16:28:52Z",
+    "updated_at": "2026-10-12T11:17:41Z",
+    "pushed_at": "2026-10-12T11:17:37Z"
+  },
+  {
+    "id": 1411697642,
+    "name": "revine",
+    "full_name": "jopanmatthew/revine",
+    "owner": {
+      "login": "jopanmatthew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139143883?v=4"
+    },
+    "description": "revine - privacy-first invoice factoring on Sepolia",
+    "topics": [
+      "blockchain",
+      "finance",
+      "nft",
+      "noir",
+      "rwa",
+      "smart-contract",
+      "solidity",
+      "typescript",
+      "web3",
+      "zk-proofs"
+    ],
+    "html_url": "https://github.com/jopanmatthew/revine",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T10:57:08Z",
+    "updated_at": "2026-10-15T13:29:23Z",
+    "pushed_at": "2026-10-15T13:29:19Z"
+  },
+  {
+    "id": 1415899814,
+    "name": "how-to-launch-aave-arbitrage-bot-loan-execution",
+    "full_name": "tundracruise5rg1xq/how-to-launch-aave-arbitrage-bot-loan-execution",
+    "owner": {
+      "login": "tundracruise5rg1xq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341416769?v=4"
+    },
+    "description": "A video-based guide to launching an arbitrage execution workflow, focusing on the role of Aave borrowing in arbitrage execution.",
+    "topics": [
+      "aave",
+      "blockchain",
+      "defi",
+      "dex",
+      "documentation",
+      "ethereum",
+      "smart-contracts",
+      "solidity",
+      "web3"
+    ],
+    "html_url": "https://github.com/tundracruise5rg1xq/how-to-launch-aave-arbitrage-bot-loan-execution",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T17:06:54Z",
+    "updated_at": "2026-10-16T02:00:19Z",
+    "pushed_at": "2026-10-16T02:00:16Z"
+  },
+  {
+    "id": 1412214976,
+    "name": "hacktoberfest-hack-day-hamirpur-26-friday-force",
+    "full_name": "HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-friday-force",
+    "owner": {
+      "login": "HackIndiaXYZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
+    },
+    "description": "Hackathon team repository for Friday Force - [hackindia-team:hacktoberfest-hack-day-hamirpur-26:friday-force]",
+    "topics": [
+      "ai-ml",
+      "blockchain",
+      "cloud",
+      "cybersecurity",
+      "generative-ai",
+      "web3"
+    ],
+    "html_url": "https://github.com/HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-friday-force",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T17:25:58Z",
+    "updated_at": "2026-10-09T17:39:14Z",
+    "pushed_at": "2026-10-09T17:26:00Z"
+  },
+  {
+    "id": 1412020119,
+    "name": "hacktoberfest-hack-day-hamirpur-26-team-transformers",
+    "full_name": "HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-team-transformers",
+    "owner": {
+      "login": "HackIndiaXYZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
+    },
+    "description": "Hackathon team repository for TEAM TRANSFORMERS - [hackindia-team:hacktoberfest-hack-day-hamirpur-26:team-transformers]",
+    "topics": [
+      "ai-ml",
+      "blockchain",
+      "cloud",
+      "cybersecurity",
+      "generative-ai",
+      "web3"
+    ],
+    "html_url": "https://github.com/HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-team-transformers",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T14:56:30Z",
+    "updated_at": "2026-10-09T17:41:58Z",
+    "pushed_at": "2026-10-09T14:56:32Z"
+  },
+  {
+    "id": 1415902106,
+    "name": "how-to-configure-arbitrage-bot-deployment-steps",
+    "full_name": "brook-focus930321/how-to-configure-arbitrage-bot-deployment-steps",
+    "owner": {
+      "login": "brook-focus930321",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341468778?v=4"
+    },
+    "description": "A video-based guide to configuring an Ethereum arbitrage project, focusing on contract deployment steps and transaction handling.",
+    "topics": [
+      "blockchain",
+      "dex",
+      "ethereum",
+      "metamask",
+      "solidity",
+      "uniswap"
+    ],
+    "html_url": "https://github.com/brook-focus930321/how-to-configure-arbitrage-bot-deployment-steps",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T17:09:00Z",
+    "updated_at": "2026-10-16T02:00:20Z",
+    "pushed_at": "2026-10-16T02:00:16Z"
+  },
+  {
+    "id": 1415915307,
+    "name": "how-to-get-started-with-arbitrage-bot-execution-parameters",
+    "full_name": "Sunnyjamihrbh63/how-to-get-started-with-arbitrage-bot-execution-parameters",
+    "owner": {
+      "login": "Sunnyjamihrbh63",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312060703?v=4"
+    },
+    "description": "A video-based guide to getting started with DeFi arbitrage development, focusing on minimum output limits and contract execution parameters.",
+    "topics": [
+      "blockchain",
+      "defi",
+      "dex",
+      "documentation",
+      "ethereum",
+      "metamask",
+      "smart-contracts",
+      "solidity",
+      "web3"
+    ],
+    "html_url": "https://github.com/Sunnyjamihrbh63/how-to-get-started-with-arbitrage-bot-execution-parameters",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T17:21:10Z",
+    "updated_at": "2026-10-16T02:00:20Z",
+    "pushed_at": "2026-10-16T02:00:16Z"
+  },
+  {
+    "id": 1415900564,
+    "name": "how-to-launch-web3-arbitrage-bot-offchain-components",
+    "full_name": "vastcoral237329/how-to-launch-web3-arbitrage-bot-offchain-components",
+    "owner": {
+      "login": "vastcoral237329",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341471852?v=4"
+    },
+    "description": "A video-based guide to launching an arbitrage execution workflow, focusing on the separation of off-chain opportunity search and on-chain execution.",
+    "topics": [
+      "blockchain",
+      "defi",
+      "ethereum",
+      "metamask",
+      "solidity",
+      "web3"
+    ],
+    "html_url": "https://github.com/vastcoral237329/how-to-launch-web3-arbitrage-bot-offchain-components",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T17:07:34Z",
+    "updated_at": "2026-10-16T02:00:20Z",
+    "pushed_at": "2026-10-16T02:00:16Z"
+  },
+  {
+    "id": 1412138255,
+    "name": "hacktoberfest-hack-day-hamirpur-26-team-awesome",
+    "full_name": "HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-team-awesome",
+    "owner": {
+      "login": "HackIndiaXYZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
+    },
+    "description": "Hackathon team repository for Team Awesome - [hackindia-team:hacktoberfest-hack-day-hamirpur-26:team-awesome]",
+    "topics": [
+      "ai-ml",
+      "blockchain",
+      "cloud",
+      "cybersecurity",
+      "generative-ai",
+      "web3"
+    ],
+    "html_url": "https://github.com/HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-team-awesome",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T16:23:56Z",
+    "updated_at": "2026-10-09T17:40:53Z",
+    "pushed_at": "2026-10-09T16:23:57Z"
+  },
+  {
+    "id": 1412138474,
+    "name": "hacktoberfest-hack-day-hamirpur-26-black-bulls",
+    "full_name": "HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-black-bulls",
+    "owner": {
+      "login": "HackIndiaXYZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
+    },
+    "description": "Hackathon team repository for Black Bulls - [hackindia-team:hacktoberfest-hack-day-hamirpur-26:black-bulls]",
+    "topics": [
+      "ai-ml",
+      "blockchain",
+      "cloud",
+      "cybersecurity",
+      "generative-ai",
+      "web3"
+    ],
+    "html_url": "https://github.com/HackIndiaXYZ/hacktoberfest-hack-day-hamirpur-26-black-bulls",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-09T16:24:07Z",
+    "updated_at": "2026-10-09T17:40:49Z",
+    "pushed_at": "2026-10-09T16:24:09Z"
+  }
+]
