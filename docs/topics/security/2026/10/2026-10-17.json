@@ -1,0 +1,613 @@
+[
+  {
+    "id": 1415198283,
+    "name": "diarea",
+    "full_name": "kriszwart/diarea",
+    "owner": {
+      "login": "kriszwart",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73168099?v=4"
+    },
+    "description": "💩 Defensive agent that finds what your frontend leaks: exposed keys, source maps, API maps and debug globals. Chrome extension + CLI.",
+    "topics": [
+      "chrome-extension",
+      "cli",
+      "devtools",
+      "frontend",
+      "security",
+      "source-maps"
+    ],
+    "html_url": "https://github.com/kriszwart/diarea",
+    "stargazers_count": 56,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T06:55:42Z",
+    "updated_at": "2026-10-17T01:46:26Z",
+    "pushed_at": "2026-10-16T02:03:16Z"
+  },
+  {
+    "id": 1414470888,
+    "name": "skills",
+    "full_name": "zero-lab-ai/skills",
+    "owner": {
+      "login": "zero-lab-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261683058?v=4"
+    },
+    "description": "Portable, evidence-bound security skills for authorized defensive assessment, red teaming, penetration testing, detection engineering, and engagement operations.",
+    "topics": [
+      "agent-skills",
+      "ai-security",
+      "blue-team",
+      "claude-code",
+      "codex",
+      "penetration-testing",
+      "red-team",
+      "security"
+    ],
+    "html_url": "https://github.com/zero-lab-ai/skills",
+    "stargazers_count": 53,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T15:14:54Z",
+    "updated_at": "2026-10-15T23:46:03Z",
+    "pushed_at": "2026-10-15T15:45:42Z"
+  },
+  {
+    "id": 1419961140,
+    "name": "wombat-wireguard-mac-app",
+    "full_name": "ventz/wombat-wireguard-mac-app",
+    "owner": {
+      "login": "ventz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/901168?v=4"
+    },
+    "description": "WireGuard, AmneziaWG and Cisco AnyConnect in one native, free and open-source macOS VPN client: SwiftUI app, Network Extension, kill switch, on-demand, and a wombat CLI",
+    "topics": [
+      "amneziawg",
+      "anyconnect",
+      "censorship-circumvention",
+      "cisco-anyconnect",
+      "cli",
+      "homebrew-cask",
+      "kill-switch",
+      "macos",
+      "macos-app",
+      "network-extension",
+      "open-source",
+      "openconnect",
+      "privacy",
+      "security",
+      "swift",
+      "swiftui",
+      "vpn",
+      "vpn-client",
+      "wireguard",
+      "wireguard-client"
+    ],
+    "html_url": "https://github.com/ventz/wombat-wireguard-mac-app",
+    "stargazers_count": 31,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T23:42:48Z",
+    "updated_at": "2026-10-17T01:46:20Z",
+    "pushed_at": "2026-10-17T01:51:06Z"
+  },
+  {
+    "id": 1413903108,
+    "name": "laya-guard",
+    "full_name": "scs0209/laya-guard",
+    "owner": {
+      "login": "scs0209",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110822847?v=4"
+    },
+    "description": "Free local guardrail for AI coding agents: every tool_call judged on-device (regex + Laya), allow/review/block",
+    "topics": [
+      "ai-agents",
+      "ai-safety",
+      "claude-code",
+      "coding-assistant",
+      "fastapi",
+      "guardrails",
+      "llm-security",
+      "local-first",
+      "prompt-injection",
+      "security"
+    ],
+    "html_url": "https://github.com/scs0209/laya-guard",
+    "stargazers_count": 27,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 17,
+    "created_at": "2026-10-11T03:55:14Z",
+    "updated_at": "2026-10-17T00:52:32Z",
+    "pushed_at": "2026-10-17T00:52:41Z"
+  },
+  {
+    "id": 1413585108,
+    "name": "sieve",
+    "full_name": "casareanderson/sieve",
+    "owner": {
+      "login": "casareanderson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51646180?v=4"
+    },
+    "description": "Find the CVEs that matter on a Linux box and its running containers. Reads the package lists already there, asks OSV.dev, ranks by CISA KEV and EPSS. No scanner binary, no database, no server.",
+    "topics": [
+      "cve",
+      "docker",
+      "homelab",
+      "osv",
+      "security",
+      "vulnerability-scanner"
+    ],
+    "html_url": "https://github.com/casareanderson/sieve",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T19:26:54Z",
+    "updated_at": "2026-10-15T20:02:17Z",
+    "pushed_at": "2026-10-15T20:02:17Z"
+  },
+  {
+    "id": 1421156512,
+    "name": "nv",
+    "full_name": "HelpFreedom/nv",
+    "owner": {
+      "login": "HelpFreedom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86966636?v=4"
+    },
+    "description": "Neovim 0.12, собранный с нуля: проверенный код, серверы языков без сети, цвета из обоев, всё по-русски · A security-minded Neovim config built from scratch",
+    "topics": [
+      "arch-linux",
+      "lsp",
+      "lua",
+      "neovim",
+      "neovim-config",
+      "nvim",
+      "pywal",
+      "russian",
+      "security",
+      "tree-sitter"
+    ],
+    "html_url": "https://github.com/HelpFreedom/nv",
+    "stargazers_count": 12,
+    "language": "Lua",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T18:14:45Z",
+    "updated_at": "2026-10-16T19:36:13Z",
+    "pushed_at": "2026-10-15T18:15:04Z"
+  },
+  {
+    "id": 1420920398,
+    "name": "vulnerator-ai",
+    "full_name": "irraz/vulnerator-ai",
+    "owner": {
+      "login": "irraz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65178233?v=4"
+    },
+    "description": "Autonomous OODA-loop pentesting agent. Hermes brain, Kali + Playwright tools over MCP, ATT&CK as the Orient language.",
+    "topics": [
+      "ai-agents",
+      "autonomous-agents",
+      "kali-linux",
+      "llm-agents",
+      "offensive-security",
+      "ooda-loop",
+      "pentesting",
+      "playwright",
+      "security"
+    ],
+    "html_url": "https://github.com/irraz/vulnerator-ai",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T15:07:57Z",
+    "updated_at": "2026-10-16T20:00:01Z",
+    "pushed_at": "2026-10-16T19:38:03Z"
+  },
+  {
+    "id": 1419077444,
+    "name": "ai-service-indicators",
+    "full_name": "synapticcybersecurity/ai-service-indicators",
+    "owner": {
+      "login": "synapticcybersecurity",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218162739?v=4"
+    },
+    "description": "DNS hostnames of generative-AI services, classified by role (chat app, API, agent, web, auth, CDN, telemetry) for measuring observed AI usage.",
+    "topics": [
+      "ai-governance",
+      "dataset",
+      "dns",
+      "generative-ai",
+      "network-monitoring",
+      "security",
+      "shadow-ai",
+      "splunk"
+    ],
+    "html_url": "https://github.com/synapticcybersecurity/ai-service-indicators",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T14:04:44Z",
+    "updated_at": "2026-10-15T15:23:08Z",
+    "pushed_at": "2026-10-15T15:23:04Z"
+  },
+  {
+    "id": 1417809913,
+    "name": "csp-forge",
+    "full_name": "MrLouisWright/csp-forge",
+    "owner": {
+      "login": "MrLouisWright",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107797683?v=4"
+    },
+    "description": "Scan a built static site (dist/, build/, out/) or live URL and generate a tight Content-Security-Policy with sha256 hashes for inline code. Outputs header, meta, Nginx, Apache, Netlify, Vercel, Helmet, JSON; --check mode for CI.",
+    "topics": [
+      "content-security-policy",
+      "csp",
+      "helmet",
+      "netlify",
+      "nginx",
+      "security",
+      "security-headers",
+      "static-site",
+      "vercel",
+      "vite"
+    ],
+    "html_url": "https://github.com/MrLouisWright/csp-forge",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T19:16:58Z",
+    "updated_at": "2026-10-16T18:39:02Z",
+    "pushed_at": "2026-10-15T09:50:52Z"
+  },
+  {
+    "id": 1417712374,
+    "name": "header-sentinel",
+    "full_name": "MrLouisWright/header-sentinel",
+    "owner": {
+      "login": "MrLouisWright",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107797683?v=4"
+    },
+    "description": "CI-friendly CLI and API that fails builds when deployed URLs are missing or misconfigure HTTP security headers (HSTS, CSP, COOP, cookies...) with specific fixes. JSON & SARIF output.",
+    "topics": [
+      "ci",
+      "cli",
+      "content-security-policy",
+      "csp",
+      "github-action",
+      "headers",
+      "hsts",
+      "sarif",
+      "security",
+      "security-headers"
+    ],
+    "html_url": "https://github.com/MrLouisWright/header-sentinel",
+    "stargazers_count": 5,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T18:25:40Z",
+    "updated_at": "2026-10-16T18:39:02Z",
+    "pushed_at": "2026-10-15T09:51:53Z"
+  },
+  {
+    "id": 1413911055,
+    "name": "cloakroom",
+    "full_name": "shanjeevrajendran/cloakroom",
+    "owner": {
+      "login": "shanjeevrajendran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78858766?v=4"
+    },
+    "description": "A privacy layer for Claude Code: names, emails, addresses and API keys are swapped for placeholders before the model sees them",
+    "topics": [
+      "api-keys",
+      "claude-code",
+      "claude-code-plugin",
+      "data-privacy",
+      "llm",
+      "pii",
+      "privacy",
+      "redaction",
+      "secrets",
+      "security"
+    ],
+    "html_url": "https://github.com/shanjeevrajendran/cloakroom",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T04:09:21Z",
+    "updated_at": "2026-10-16T09:53:20Z",
+    "pushed_at": "2026-10-16T04:16:01Z"
+  },
+  {
+    "id": 1412928171,
+    "name": "social-supermarket_il-sole",
+    "full_name": "CieriS/social-supermarket_il-sole",
+    "owner": {
+      "login": "CieriS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113926114?v=4"
+    },
+    "description": "Back-office web app that ranks the families applying to a social supermarket: applications, scoring against the evaluation grid, shopping cards. Vanilla PHP and MySQL, no framework. Started as a 2021 high-school exam project, completed with tests, CI and security hardening. Demo data only.",
+    "topics": [
+      "back-office",
+      "crud",
+      "docker",
+      "docker-compose",
+      "food-bank",
+      "github-actions",
+      "legacy-code",
+      "mariadb",
+      "mysql",
+      "no-framework",
+      "nonprofit",
+      "php",
+      "phpunit",
+      "portfolio",
+      "refactoring",
+      "school-project",
+      "security",
+      "social-supermarket",
+      "vanilla-php",
+      "web-application"
+    ],
+    "html_url": "https://github.com/CieriS/social-supermarket_il-sole",
+    "stargazers_count": 4,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T07:58:58Z",
+    "updated_at": "2026-10-14T21:39:10Z",
+    "pushed_at": "2026-10-14T05:19:44Z"
+  },
+  {
+    "id": 1416818659,
+    "name": "rev-core",
+    "full_name": "ronitgupta138/rev-core",
+    "owner": {
+      "login": "ronitgupta138",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208290786?v=4"
+    },
+    "description": "⚡ Autonomous reverse engineering engine & Model Context Protocol (MCP) server for binaries and applications in Systems Rust",
+    "topics": [
+      "ai-agents",
+      "asar",
+      "binary-analysis",
+      "claude-code",
+      "disassembler",
+      "electron",
+      "elf",
+      "forensics",
+      "mcp",
+      "mcp-server",
+      "reverse-engineering",
+      "rust",
+      "security",
+      "static-analysis"
+    ],
+    "html_url": "https://github.com/ronitgupta138/rev-core",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 7,
+    "created_at": "2026-10-13T10:04:28Z",
+    "updated_at": "2026-10-14T00:37:07Z",
+    "pushed_at": "2026-10-13T11:44:59Z"
+  },
+  {
+    "id": 1415410401,
+    "name": "password",
+    "full_name": "0xtangmengyao/password",
+    "owner": {
+      "login": "0xtangmengyao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337149651?v=4"
+    },
+    "description": "密管（MiGuan）：本地优先的密码管理器，提供离线 HTML 应用和 Python CLI",
+    "topics": [
+      "cli",
+      "html",
+      "local-first",
+      "offline-first",
+      "password-manager",
+      "python",
+      "security"
+    ],
+    "html_url": "https://github.com/0xtangmengyao/password",
+    "stargazers_count": 4,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T10:06:31Z",
+    "updated_at": "2026-10-16T16:05:13Z",
+    "pushed_at": "2026-10-13T22:45:30Z"
+  },
+  {
+    "id": 1421435552,
+    "name": "heldkeys",
+    "full_name": "hugomn/heldkeys",
+    "owner": {
+      "login": "hugomn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/497957?v=4"
+    },
+    "description": "Which keys is your agent holding? Lists the credentials an AI agent can reach on your laptop, in a sandbox, or in CI, and flags risky AI agent steps in GitHub workflows.",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "credentials",
+      "devsecops",
+      "github-actions",
+      "mcp",
+      "prompt-injection",
+      "rust",
+      "secrets",
+      "security"
+    ],
+    "html_url": "https://github.com/hugomn/heldkeys",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T23:40:52Z",
+    "updated_at": "2026-10-16T14:38:44Z",
+    "pushed_at": "2026-10-16T14:38:39Z"
+  },
+  {
+    "id": 1416602207,
+    "name": "evm-patterns",
+    "full_name": "AstraeusZhao/evm-patterns",
+    "owner": {
+      "login": "AstraeusZhao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191604365?v=4"
+    },
+    "description": "Collection of Solidity smart contract patterns and security audit examples, built with Foundry",
+    "topics": [
+      "audit",
+      "ethereum",
+      "foundry",
+      "security",
+      "smart-contracts",
+      "solidity",
+      "web3"
+    ],
+    "html_url": "https://github.com/AstraeusZhao/evm-patterns",
+    "stargazers_count": 3,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T07:00:38Z",
+    "updated_at": "2026-10-15T10:34:28Z",
+    "pushed_at": "2026-10-14T14:36:30Z"
+  },
+  {
+    "id": 1418875915,
+    "name": "agentconfig-doctor",
+    "full_name": "vasikmansuri/agentconfig-doctor",
+    "owner": {
+      "login": "vasikmansuri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169521092?v=4"
+    },
+    "description": "MCP security scanner & config linter for AI coding agents. Finds leaked secrets, risky commands, broad permissions and invalid MCP servers in Claude Code, Cursor and VS Code (Copilot) configs. Local-first CLI, no telemetry.",
+    "topics": [
+      "ai-agents",
+      "ai-security",
+      "claude-code",
+      "cli",
+      "cursor",
+      "developer-tools",
+      "devsecops",
+      "github-copilot",
+      "linter",
+      "llm-security",
+      "mcp",
+      "mcp-security",
+      "model-context-protocol",
+      "secret-scanning",
+      "secrets-detection",
+      "security",
+      "security-scanner",
+      "static-analysis",
+      "typescript",
+      "vscode"
+    ],
+    "html_url": "https://github.com/vasikmansuri/agentconfig-doctor",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-14T12:30:05Z",
+    "updated_at": "2026-10-14T12:48:40Z",
+    "pushed_at": "2026-10-14T20:31:52Z"
+  },
+  {
+    "id": 1419179888,
+    "name": "2026-ISE-PREP",
+    "full_name": "fanfan20001206/2026-ISE-PREP",
+    "owner": {
+      "login": "fanfan20001206",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8265952?v=4"
+    },
+    "description": "2026 信息安全工程师备考冲刺。内容包括知识点总结、渠道卷、密码学、认证技术、iptables、Android 安全等，适合备考复习与知识梳理。",
+    "topics": [
+      "information-security",
+      "ise",
+      "security"
+    ],
+    "html_url": "https://github.com/fanfan20001206/2026-ISE-PREP",
+    "stargazers_count": 3,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T14:47:31Z",
+    "updated_at": "2026-10-16T15:59:46Z",
+    "pushed_at": "2026-10-16T15:59:42Z"
+  },
+  {
+    "id": 1414322481,
+    "name": "boti-dlya-poiska-informacii-tg",
+    "full_name": "irenep64122/boti-dlya-poiska-informacii-tg",
+    "owner": {
+      "login": "irenep64122",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328361048?v=4"
+    },
+    "description": "Полный справочник Telegram ботов для сбора сведений из публичных реестров, проверки физлиц, юридических лиц, сайтов, IP и каналов. | Бот: https://t.me/newdeanonimichbot?start=nO9wWn_gE466D",
+    "topics": [
+      "boti-dlya-poiska",
+      "information-gathering",
+      "osint-catalog",
+      "search-bots",
+      "security",
+      "telegram-directory"
+    ],
+    "html_url": "https://github.com/irenep64122/boti-dlya-poiska-informacii-tg",
+    "stargazers_count": 3,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T12:37:21Z",
+    "updated_at": "2026-10-11T15:24:39Z",
+    "pushed_at": "2026-10-11T15:24:35Z"
+  },
+  {
+    "id": 1421283884,
+    "name": "bodycam",
+    "full_name": "omlahore/bodycam",
+    "owner": {
+      "login": "omlahore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119071446?v=4"
+    },
+    "description": "Records what AI coding agents like Claude Code and Codex do on your Mac: commands, files, secrets and network. CLI and menu bar app.",
+    "topics": [
+      "agent-security",
+      "ai-agents",
+      "ai-security",
+      "audit-log",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "endpoint-security",
+      "eslogger",
+      "gemini-cli",
+      "golang",
+      "llm-security",
+      "macos",
+      "menu-bar-app",
+      "security",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/omlahore/bodycam",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T20:21:17Z",
+    "updated_at": "2026-10-16T20:53:41Z",
+    "pushed_at": "2026-10-15T23:59:15Z"
+  }
+]

@@ -1,0 +1,585 @@
+[
+  {
+    "id": 1413781544,
+    "name": "stop-describing-ui",
+    "full_name": "artouc/stop-describing-ui",
+    "owner": {
+      "login": "artouc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92306490?v=4"
+    },
+    "description": "An agent skill that strips explanatory copy out of user interfaces.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "design",
+      "microcopy",
+      "skills",
+      "ui",
+      "ui-copy",
+      "ux",
+      "ux-writing"
+    ],
+    "html_url": "https://github.com/artouc/stop-describing-ui",
+    "stargazers_count": 81,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T00:12:11Z",
+    "updated_at": "2026-10-16T09:54:47Z",
+    "pushed_at": "2026-10-11T08:06:16Z"
+  },
+  {
+    "id": 1421307025,
+    "name": "jumpstart-3d",
+    "full_name": "MaxSikorski/jumpstart-3d",
+    "owner": {
+      "login": "MaxSikorski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61440952?v=4"
+    },
+    "description": "Browser-based 3D CAD by J.Siwek, community-maintained. No install.",
+    "topics": [
+      "3d-printing",
+      "cad",
+      "design",
+      "webassembly"
+    ],
+    "html_url": "https://github.com/MaxSikorski/jumpstart-3d",
+    "stargazers_count": 60,
+    "language": "HTML",
+    "forks_count": 21,
+    "open_issues_count": 4,
+    "created_at": "2026-10-15T20:46:52Z",
+    "updated_at": "2026-10-17T01:21:21Z",
+    "pushed_at": "2026-10-16T04:21:09Z"
+  },
+  {
+    "id": 1419918921,
+    "name": "beyondartist",
+    "full_name": "beyondtahir/beyondartist",
+    "owner": {
+      "login": "beyondtahir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265382092?v=4"
+    },
+    "description": "AI design skill for freelancers, content creators and digital marketers. Think like a designer. Execute like an artist.",
+    "topics": [
+      "agent-skills",
+      "art-direction",
+      "carousels",
+      "creative-ai",
+      "design",
+      "thumbnails"
+    ],
+    "html_url": "https://github.com/beyondtahir/beyondartist",
+    "stargazers_count": 15,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T22:36:07Z",
+    "updated_at": "2026-10-16T16:42:43Z",
+    "pushed_at": "2026-10-14T23:21:22Z"
+  },
+  {
+    "id": 1414133261,
+    "name": "zack-design-skills",
+    "full_name": "yckonnnnn/zack-design-skills",
+    "owner": {
+      "login": "yckonnnnn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237904703?v=4"
+    },
+    "description": "8 个设计技能 + 60 条可执行判断标准，专治网页「一眼就是 AI 做的」。装进 Claude Code / Cursor / Codex 即用。",
+    "topics": [
+      "ai",
+      "anti-ai-slop",
+      "claude-code",
+      "codex",
+      "cursor",
+      "design",
+      "design-system",
+      "frontend",
+      "prompt-engineering",
+      "skills",
+      "typography",
+      "ui-design",
+      "web-design"
+    ],
+    "html_url": "https://github.com/yckonnnnn/zack-design-skills",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T08:49:47Z",
+    "updated_at": "2026-10-16T08:17:09Z",
+    "pushed_at": "2026-10-16T08:17:05Z"
+  },
+  {
+    "id": 1421025526,
+    "name": "logo-to-stickers",
+    "full_name": "huyanxius/logo-to-stickers",
+    "owner": {
+      "login": "huyanxius",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178478063?v=4"
+    },
+    "description": "Turn brand marks into playful paper sticker characters. A reusable skill with 15 real examples and their prompts.",
+    "topics": [
+      "agent-skills",
+      "branding",
+      "codex-skill",
+      "design",
+      "generative-art",
+      "image-generation",
+      "logo",
+      "paper-art",
+      "stickers"
+    ],
+    "html_url": "https://github.com/huyanxius/logo-to-stickers",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T16:29:41Z",
+    "updated_at": "2026-10-16T19:49:15Z",
+    "pushed_at": "2026-10-15T16:31:57Z"
+  },
+  {
+    "id": 1413504689,
+    "name": "HexCollagePro",
+    "full_name": "Jaypsmall/HexCollagePro",
+    "owner": {
+      "login": "Jaypsmall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58961137?v=4"
+    },
+    "description": "🎨 HexCollagePro ✨ es una aplicación móvil de estudio de arte creativo desarrollada en Flutter, diseñada para generar collages y composiciones visuales dinámicas con una interfaz fluida y un elegante diseño de temática oscura y dorada",
+    "topics": [
+      "android",
+      "android-application",
+      "android-development",
+      "androidstudio",
+      "collage",
+      "collage-creator",
+      "design",
+      "dibujo",
+      "flutter",
+      "flutter-app",
+      "fotography",
+      "fotos"
+    ],
+    "html_url": "https://github.com/Jaypsmall/HexCollagePro",
+    "stargazers_count": 2,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T17:59:48Z",
+    "updated_at": "2026-10-11T07:37:29Z",
+    "pushed_at": "2026-10-10T19:52:48Z"
+  },
+  {
+    "id": 1420812794,
+    "name": "designers-brain",
+    "full_name": "dwgx/designers-brain",
+    "owner": {
+      "login": "dwgx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143298346?v=4"
+    },
+    "description": "A brain for designers — distilling artists' visual languages into composable, verifiable modules + an ask-first design-consultant skill for AI agents.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "art",
+      "deep-research",
+      "design",
+      "knowledge-base",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/dwgx/designers-brain",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T13:54:58Z",
+    "updated_at": "2026-10-16T11:47:57Z",
+    "pushed_at": "2026-10-16T11:47:53Z"
+  },
+  {
+    "id": 1419863109,
+    "name": "designlab",
+    "full_name": "peakaboooo/designlab",
+    "owner": {
+      "login": "peakaboooo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332254406?v=4"
+    },
+    "description": "Lab Design : générateurs visuels procéduraux dans le navigateur (motifs, textures, mosaïques, dégradés). License Free",
+    "topics": [
+      "design",
+      "design-pattern",
+      "design-patterns",
+      "design-tool",
+      "design-tools"
+    ],
+    "html_url": "https://github.com/peakaboooo/designlab",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T21:19:05Z",
+    "updated_at": "2026-10-16T17:06:42Z",
+    "pushed_at": "2026-10-16T15:51:23Z"
+  },
+  {
+    "id": 1416734822,
+    "name": "design-taste",
+    "full_name": "linkxzhou/design-taste",
+    "owner": {
+      "login": "linkxzhou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5823710?v=4"
+    },
+    "description": "Agent skill that gives coding agents design taste: create, audit and redesign UIs, score websites, images and game art. English + 简体中文 editions.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "design",
+      "design-tokens",
+      "ui-design"
+    ],
+    "html_url": "https://github.com/linkxzhou/design-taste",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T08:52:42Z",
+    "updated_at": "2026-10-14T08:37:37Z",
+    "pushed_at": "2026-10-14T01:41:37Z"
+  },
+  {
+    "id": 1421595284,
+    "name": "Python-Design-Patterns-",
+    "full_name": "rayaantasnim/Python-Design-Patterns-",
+    "owner": {
+      "login": "rayaantasnim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252061615?v=4"
+    },
+    "description": "Welcome to the enterprise-grade repository showcasing a robust collection of Python design pattern systems built strictly upon the Gang of Four (GoF) paradigms. This documentation serves as a definitive structural, creational, and behavioral architectural reference for modern software engineering, clean code principles, and low-coupling paradigms.",
+    "topics": [
+      "alghorithm",
+      "design",
+      "gang-of-four",
+      "gof",
+      "pattern"
+    ],
+    "html_url": "https://github.com/rayaantasnim/Python-Design-Patterns-",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T03:33:04Z",
+    "updated_at": "2026-10-16T04:09:37Z",
+    "pushed_at": "2026-10-16T03:38:26Z"
+  },
+  {
+    "id": 1416785848,
+    "name": "ArtCraft",
+    "full_name": "Wu-Yijun/ArtCraft",
+    "owner": {
+      "login": "Wu-Yijun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126391865?v=4"
+    },
+    "description": "ArtCraft is a collection of open-source creative tools that run directly in your browser. It is a simple place to find free online alternatives to Photoshop, Illustrator, Lightroom, Premiere, After Effects, Figma, AutoCAD, Excel, PowerPoint, Word and Acrobat.",
+    "topics": [
+      "adobe",
+      "art",
+      "autocad",
+      "design",
+      "docs",
+      "editing",
+      "images",
+      "office",
+      "online-editor",
+      "pdf",
+      "videos"
+    ],
+    "html_url": "https://github.com/Wu-Yijun/ArtCraft",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T09:36:02Z",
+    "updated_at": "2026-10-15T05:30:33Z",
+    "pushed_at": "2026-10-15T05:30:29Z"
+  },
+  {
+    "id": 1415756962,
+    "name": "chromatic-gallery",
+    "full_name": "mrprkr/chromatic-gallery",
+    "owner": {
+      "login": "mrprkr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6835002?v=4"
+    },
+    "description": "Modern image gallery with chromatic sorting, duplicate detection, responsive design, and super fast loading",
+    "topics": [
+      "design",
+      "gallery",
+      "images",
+      "react",
+      "react-components",
+      "reactjs",
+      "typescript",
+      "ui"
+    ],
+    "html_url": "https://github.com/mrprkr/chromatic-gallery",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T15:02:28Z",
+    "updated_at": "2026-10-13T23:56:13Z",
+    "pushed_at": "2026-10-13T23:56:03Z"
+  },
+  {
+    "id": 1419921357,
+    "name": "Design-Ore",
+    "full_name": "Irom-codesjavanhtm/Design-Ore",
+    "owner": {
+      "login": "Irom-codesjavanhtm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116954646?v=4"
+    },
+    "description": "Open-source collaborative whiteboard for diagrams, flowcharts, and product design.",
+    "topics": [
+      "collaboration",
+      "design",
+      "laravel",
+      "opensource",
+      "whiteboard"
+    ],
+    "html_url": "https://github.com/Irom-codesjavanhtm/Design-Ore",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T22:39:44Z",
+    "updated_at": "2026-10-14T22:52:17Z",
+    "pushed_at": "2026-10-14T22:39:50Z"
+  },
+  {
+    "id": 1420569382,
+    "name": "design-studio",
+    "full_name": "guiboorges/design-studio",
+    "owner": {
+      "login": "guiboorges",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342158987?v=4"
+    },
+    "description": "A design team for Claude Code and Codex: a creative director, 9 specialist agents, and a cited, research-verified design knowledge base (typography, color, layout, accessibility, media specs, styles, history).",
+    "topics": [
+      "accessibility",
+      "agent-skills",
+      "ai",
+      "claude-code",
+      "codex",
+      "design",
+      "plugin",
+      "typography",
+      "ui-design",
+      "ux-design"
+    ],
+    "html_url": "https://github.com/guiboorges/design-studio",
+    "stargazers_count": 1,
+    "language": "CSS",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T10:57:43Z",
+    "updated_at": "2026-10-15T16:09:01Z",
+    "pushed_at": "2026-10-15T16:08:57Z"
+  },
+  {
+    "id": 1421621790,
+    "name": "fp8-mac-vhdl",
+    "full_name": "amine-belkacem/fp8-mac-vhdl",
+    "owner": {
+      "login": "amine-belkacem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46816824?v=4"
+    },
+    "description": "FP8 (E4M3) multiply-accumulate unit in VHDL for AI inference – synthesized on Cyclone IV, verified with Questa/GHDL testbenches",
+    "topics": [
+      "ai",
+      "ai-inference",
+      "design",
+      "digital-design",
+      "fp8",
+      "fpga",
+      "ghdl",
+      "hardware",
+      "hardware-acceleration",
+      "quartus",
+      "vhdl"
+    ],
+    "html_url": "https://github.com/amine-belkacem/fp8-mac-vhdl",
+    "stargazers_count": 1,
+    "language": "VHDL",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T04:04:09Z",
+    "updated_at": "2026-10-16T17:13:38Z",
+    "pushed_at": "2026-10-16T17:13:35Z"
+  },
+  {
+    "id": 1422652358,
+    "name": "roygbviz",
+    "full_name": "KhaiShea/roygbviz",
+    "owner": {
+      "login": "KhaiShea",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116863684?v=4"
+    },
+    "description": "A pretty plotnine theme and rainbow palette for research papers. Twelve colours, light and dark, made so non-technical friends can follow the figures without falling asleep.",
+    "topics": [
+      "academic-writing",
+      "color-palette",
+      "dark-mode-toggle",
+      "data-visualisation",
+      "data-visualizations",
+      "design",
+      "figures",
+      "ggplot2",
+      "grammar-of-graphics",
+      "lgbtqia",
+      "light-mode",
+      "matplotlib",
+      "oklch",
+      "plotnine",
+      "plotting",
+      "python",
+      "rainbow",
+      "research",
+      "scientific-visualization",
+      "theme"
+    ],
+    "html_url": "https://github.com/KhaiShea/roygbviz",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T20:41:27Z",
+    "updated_at": "2026-10-17T00:34:53Z",
+    "pushed_at": "2026-10-16T22:36:44Z"
+  },
+  {
+    "id": 1413798719,
+    "name": "design-studio",
+    "full_name": "bsanat/design-studio",
+    "owner": {
+      "login": "bsanat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248975691?v=4"
+    },
+    "description": null,
+    "topics": [
+      "design",
+      "design-pattern",
+      "design-patterns",
+      "design-system",
+      "design-systems",
+      "design-thinking",
+      "design-tokens",
+      "design-tool",
+      "design-tools",
+      "web",
+      "website",
+      "website-design",
+      "websites"
+    ],
+    "html_url": "https://github.com/bsanat/design-studio",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T00:44:42Z",
+    "updated_at": "2026-10-11T04:33:32Z",
+    "pushed_at": "2026-10-11T04:28:37Z"
+  },
+  {
+    "id": 1421284384,
+    "name": "adhd-mode",
+    "full_name": "MarcoZorn/adhd-mode",
+    "owner": {
+      "login": "MarcoZorn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186262157?v=4"
+    },
+    "description": "⚡ ADHD Mode for Claude Code: a neurodivergent brainstorm team of AI agents. Wild ideas → technical breakdown → taste → blind-jury Idea Court.",
+    "topics": [
+      "adhd",
+      "ai-agents",
+      "anthropic",
+      "brainstorming",
+      "claude-code",
+      "claude-code-agents",
+      "claude-code-plugin",
+      "creativity",
+      "design",
+      "ideation",
+      "llm-as-a-judge",
+      "multi-agent",
+      "neurodivergent",
+      "subagents"
+    ],
+    "html_url": "https://github.com/MarcoZorn/adhd-mode",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T20:21:49Z",
+    "updated_at": "2026-10-15T20:32:25Z",
+    "pushed_at": "2026-10-15T20:32:27Z"
+  },
+  {
+    "id": 1413580307,
+    "name": "lhg-ecom-design",
+    "full_name": "lhg-plugs/lhg-ecom-design",
+    "owner": {
+      "login": "lhg-plugs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340703478?v=4"
+    },
+    "description": "小白也能做出高点击主图的 Claude Code 插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-ecom-design",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-plugin",
+      "design",
+      "ecommerce",
+      "product-image",
+      "taobao"
+    ],
+    "html_url": "https://github.com/lhg-plugs/lhg-ecom-design",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-10T19:20:55Z",
+    "updated_at": "2026-10-10T19:21:20Z",
+    "pushed_at": "2026-10-10T19:21:14Z"
+  },
+  {
+    "id": 1413122141,
+    "name": "skills",
+    "full_name": "quantipixels/skills",
+    "owner": {
+      "login": "quantipixels",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13754360?v=4"
+    },
+    "description": "Agent engineering skills",
+    "topics": [
+      "agent-skills",
+      "design",
+      "engineering",
+      "productivity",
+      "skills"
+    ],
+    "html_url": "https://github.com/quantipixels/skills",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 9,
+    "created_at": "2026-10-10T11:41:35Z",
+    "updated_at": "2026-10-13T10:29:18Z",
+    "pushed_at": "2026-10-13T10:29:30Z"
+  }
+]
