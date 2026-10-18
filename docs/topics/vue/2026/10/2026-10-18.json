@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1415654862,
+    "name": "LovelyCarve",
+    "full_name": "LovelyTeams/LovelyCarve",
+    "owner": {
+      "login": "LovelyTeams",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341289578?v=4"
+    },
+    "description": "a forensic carver with a soft heart · 基于 Rust、Tauri 2 与 Vue 3 的桌面磁盘取证与数据恢复工具：只读解析镜像、文件系统与加密卷，提供原类型预览、全局搜索、时间线、文件雕刻与插件分析",
+    "topics": [
+      "bitlocker",
+      "ctf",
+      "data-recovery",
+      "dfir",
+      "digital-forensics",
+      "disk-image",
+      "file-carving",
+      "forensics",
+      "ntfs",
+      "rust",
+      "tauri",
+      "vue"
+    ],
+    "html_url": "https://github.com/LovelyTeams/LovelyCarve",
+    "stargazers_count": 43,
+    "language": "Rust",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T13:38:35Z",
+    "updated_at": "2026-10-17T15:10:10Z",
+    "pushed_at": "2026-10-17T15:10:06Z"
+  },
+  {
+    "id": 1417741278,
+    "name": "orchestra",
+    "full_name": "theorchestradev/orchestra",
+    "owner": {
+      "login": "theorchestradev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342007606?v=4"
+    },
+    "description": "A desktop app for running coding agents side by side in project-based terminal sessions.",
+    "topics": [
+      "agent-development-environment",
+      "agent-orchestration",
+      "agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "go",
+      "terminal",
+      "vue",
+      "wails"
+    ],
+    "html_url": "https://github.com/theorchestradev/orchestra",
+    "stargazers_count": 16,
+    "language": "Go",
+    "forks_count": 2,
+    "open_issues_count": 4,
+    "created_at": "2026-10-13T18:41:11Z",
+    "updated_at": "2026-10-17T23:39:39Z",
+    "pushed_at": "2026-10-16T17:40:31Z"
+  },
+  {
+    "id": 1416379728,
+    "name": "hermes-prd-workbench",
+    "full_name": "YuxForge/hermes-prd-workbench",
+    "owner": {
+      "login": "YuxForge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32887220?v=4"
+    },
+    "description": "Self-hosted AI workbench that turns requirements into PRDs, technical specs, test cases, estimates, and interactive prototypes with Hermes Agent.",
+    "topics": [
+      "ai-agent",
+      "docker-compose",
+      "document-generation",
+      "docx",
+      "hermes-agent",
+      "llm",
+      "mermaid",
+      "prd",
+      "prd-generator",
+      "product-management",
+      "requirements-engineering",
+      "self-hosted",
+      "self-hosted-ai",
+      "spring-boot",
+      "technical-specification",
+      "test-case-generation",
+      "vue",
+      "vue3"
+    ],
+    "html_url": "https://github.com/YuxForge/hermes-prd-workbench",
+    "stargazers_count": 8,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-13T03:00:37Z",
+    "updated_at": "2026-10-14T12:15:15Z",
+    "pushed_at": "2026-10-14T01:10:37Z"
+  },
+  {
+    "id": 1417826883,
+    "name": "LocalLeaf",
+    "full_name": "leoaliperti/LocalLeaf",
+    "owner": {
+      "login": "leoaliperti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170821476?v=4"
+    },
+    "description": "Local-first LaTeX editor with an Overleaf-style interface. Native Rust + Tauri, uses your installed TeX, built-in MCP server for AI agents.",
+    "topics": [
+      "latex",
+      "local-first",
+      "mcp",
+      "overleaf",
+      "rust",
+      "tauri",
+      "vue"
+    ],
+    "html_url": "https://github.com/leoaliperti/LocalLeaf",
+    "stargazers_count": 8,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-10-13T19:26:45Z",
+    "updated_at": "2026-10-17T20:54:34Z",
+    "pushed_at": "2026-10-14T20:44:32Z"
+  },
+  {
+    "id": 1414331365,
+    "name": "campus-pass",
+    "full_name": "pingzipingzi/campus-pass",
+    "owner": {
+      "login": "pingzipingzi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271755384?v=4"
+    },
+    "description": "基于 Spring Boot、Vue、Redis 与 RabbitMQ 的校园活动并发报名系统",
+    "topics": [
+      "java",
+      "jmeter",
+      "mysql",
+      "rabbitmq",
+      "redis",
+      "spring-boot",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/pingzipingzi/campus-pass",
+    "stargazers_count": 3,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T12:47:42Z",
+    "updated_at": "2026-10-12T03:33:56Z",
+    "pushed_at": "2026-10-12T03:33:52Z"
+  },
+  {
+    "id": 1419049537,
+    "name": "safetype",
+    "full_name": "karammm/safetype",
+    "owner": {
+      "login": "karammm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56406583?v=4"
+    },
+    "description": "Open-source TypeScript SDK that detects profanity, hate speech and harassment as people type — then masks, warns, blocks or suggests replacements. Works with any input, React, Vue, Angular, plus a rich-text editor.",
+    "topics": [
+      "angular",
+      "bad-words",
+      "censorship",
+      "chat-moderation",
+      "content-moderation",
+      "harassment-detection",
+      "hate-speech",
+      "hindi",
+      "hinglish",
+      "javascript",
+      "multilingual",
+      "profanity",
+      "profanity-filter",
+      "python",
+      "react",
+      "rich-text-editor",
+      "text-moderation",
+      "trust-and-safety",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/karammm/safetype",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-14T13:53:00Z",
+    "updated_at": "2026-10-17T09:34:57Z",
+    "pushed_at": "2026-10-16T15:09:42Z"
+  },
+  {
+    "id": 1416832646,
+    "name": "sql-pro",
+    "full_name": "necessarylion/sql-pro",
+    "owner": {
+      "login": "necessarylion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42437544?v=4"
+    },
+    "description": "A small, fast desktop SQL client for MySQL, MariaDB, PostgreSQL, SQL Server and SQLite. Built with Tauri, Rust and Vue. Runs on macOS, Windows and Linux.",
+    "topics": [
+      "cross-platform",
+      "database-client",
+      "database-gui",
+      "database-management",
+      "desktop-app",
+      "mariadb",
+      "mssql",
+      "mysql",
+      "postgresql",
+      "rust",
+      "sequel-pro",
+      "sql-client",
+      "sql-server",
+      "sqlite",
+      "ssh-tunnel",
+      "tauri",
+      "tauri-app",
+      "typescript",
+      "vue",
+      "vue3"
+    ],
+    "html_url": "https://github.com/necessarylion/sql-pro",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-13T10:17:03Z",
+    "updated_at": "2026-10-17T17:24:10Z",
+    "pushed_at": "2026-10-18T01:49:26Z"
+  },
+  {
+    "id": 1414356551,
+    "name": "dorm-management-system",
+    "full_name": "zhengweilin142/dorm-management-system",
+    "owner": {
+      "login": "zhengweilin142",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340857425?v=4"
+    },
+    "description": "高校宿舍管理系统 · 基于 Spring Boot + Vue 的前后端分离项目（宿舍楼宇/床位分配/调宿/卫生检查/水电费/报修/访客登记 + 完整权限体系）",
+    "topics": [
+      "admin-system",
+      "dormitory-management",
+      "element-ui",
+      "graduation-project",
+      "mybatis-plus",
+      "redis",
+      "spring-boot",
+      "vue"
+    ],
+    "html_url": "https://github.com/zhengweilin142/dorm-management-system",
+    "stargazers_count": 2,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T13:14:27Z",
+    "updated_at": "2026-10-16T08:48:03Z",
+    "pushed_at": "2026-10-13T15:33:14Z"
+  },
+  {
+    "id": 1423828792,
+    "name": "nex-app-legacy",
+    "full_name": "nerotvlive/nex-app-legacy",
+    "owner": {
+      "login": "nerotvlive",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131570399?v=4"
+    },
+    "description": "A modular multi-purpose cross-os desktop Minecraft app that integrates CurseForge, Modrinth and NEX ",
+    "topics": [
+      "api",
+      "bootstrap",
+      "curseforge",
+      "fabric",
+      "forge",
+      "html",
+      "javascript",
+      "js",
+      "launcher",
+      "minecraft",
+      "modding",
+      "modrinth",
+      "modular",
+      "neoforge",
+      "quilt",
+      "tailwindcss",
+      "ts",
+      "typescript",
+      "vue",
+      "zyneon"
+    ],
+    "html_url": "https://github.com/nerotvlive/nex-app-legacy",
+    "stargazers_count": 2,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T23:17:51Z",
+    "updated_at": "2026-10-18T00:19:41Z",
+    "pushed_at": "2026-10-18T00:19:37Z"
+  },
+  {
+    "id": 1418868805,
+    "name": "devstack",
+    "full_name": "nuetzliches/devstack",
+    "owner": {
+      "login": "nuetzliches",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42233624?v=4"
+    },
+    "description": "Local development orchestrator: infra via compose, processes from immutable artifacts, a main slot that only holds a stack that built and passed health.",
+    "topics": [
+      "dev-environment",
+      "developer-tools",
+      "docker-compose",
+      "health-check",
+      "hot-reload",
+      "local-development",
+      "mcp",
+      "orchestrator",
+      "rust",
+      "vue",
+      "windows",
+      "zero-downtime"
+    ],
+    "html_url": "https://github.com/nuetzliches/devstack",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-14T12:24:13Z",
+    "updated_at": "2026-10-18T00:43:04Z",
+    "pushed_at": "2026-10-18T00:44:32Z"
+  },
+  {
+    "id": 1415245083,
+    "name": "AI_tingshu",
+    "full_name": "GooChen55/AI_tingshu",
+    "owner": {
+      "login": "GooChen55",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211043016?v=4"
+    },
+    "description": "听见智能听书平台 | Java 17 + Vue/UniApp + FastAPI | 页面内 AI 助手、RAG 知识问答、只读运营问数与模拟交易",
+    "topics": [
+      "ai-agent",
+      "audiobook",
+      "fastapi",
+      "java",
+      "rag",
+      "spring-boot",
+      "uniapp",
+      "vue"
+    ],
+    "html_url": "https://github.com/GooChen55/AI_tingshu",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T07:36:12Z",
+    "updated_at": "2026-10-12T07:48:55Z",
+    "pushed_at": "2026-10-12T07:48:52Z"
+  },
+  {
+    "id": 1422845811,
+    "name": "eslint-plugin-vuekit",
+    "full_name": "sxzz/eslint-plugin-vuekit",
+    "owner": {
+      "login": "sxzz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6481596?v=4"
+    },
+    "description": "Modern ESLint plugin for Vue 3",
+    "topics": [
+      "eslint",
+      "plugin",
+      "vue"
+    ],
+    "html_url": "https://github.com/sxzz/eslint-plugin-vuekit",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T01:45:32Z",
+    "updated_at": "2026-10-17T14:11:03Z",
+    "pushed_at": "2026-10-17T14:11:00Z"
+  },
+  {
+    "id": 1415526734,
+    "name": "vault-lm",
+    "full_name": "willgoodson/vault-lm",
+    "owner": {
+      "login": "willgoodson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57233238?v=4"
+    },
+    "description": "Turn a folder of Markdown notes into a study partner: cited chat, flashcards, quizzes and mind maps, running locally (Rust + Tauri)",
+    "topics": [
+      "desktop-app",
+      "flashcards",
+      "llm",
+      "local-first",
+      "markdown",
+      "notes",
+      "obsidian",
+      "ollama",
+      "rag",
+      "rust",
+      "spaced-repetition",
+      "study",
+      "tauri",
+      "vue"
+    ],
+    "html_url": "https://github.com/willgoodson/vault-lm",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-10-12T11:49:34Z",
+    "updated_at": "2026-10-12T16:52:12Z",
+    "pushed_at": "2026-10-12T16:52:08Z"
+  },
+  {
+    "id": 1418595297,
+    "name": "nprogress-next",
+    "full_name": "Naaach/nprogress-next",
+    "owner": {
+      "login": "Naaach",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19396332?v=4"
+    },
+    "description": "Minimalist, dependency-free, multi-framework progress bar. A drop-in replacement for NProgress.",
+    "topics": [
+      "nprogress",
+      "progress-bar",
+      "react",
+      "typescript",
+      "vue",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/Naaach/nprogress-next",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T08:26:20Z",
+    "updated_at": "2026-10-14T14:29:36Z",
+    "pushed_at": "2026-10-14T14:30:07Z"
+  },
+  {
+    "id": 1414183421,
+    "name": "QUI-theme",
+    "full_name": "Aegisir/QUI-theme",
+    "owner": {
+      "login": "Aegisir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210194364?v=4"
+    },
+    "description": "腾讯 QQ Web 主题交互示例与 Vue 3 组件库，提供可复用组件、图标和本地化示例",
+    "topics": [
+      "pnpm",
+      "qq",
+      "tencent",
+      "tencent-x5",
+      "typescript",
+      "vue",
+      "web"
+    ],
+    "html_url": "https://github.com/Aegisir/QUI-theme",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T09:49:24Z",
+    "updated_at": "2026-10-13T23:59:22Z",
+    "pushed_at": "2026-10-11T10:51:04Z"
+  },
+  {
+    "id": 1415352611,
+    "name": "coal-blending-system",
+    "full_name": "TrainK1ng/coal-blending-system",
+    "owner": {
+      "login": "TrainK1ng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128702892?v=4"
+    },
+    "description": "Full-stack coal blending decision support with cost-aware optimization, reflectance analysis, price synchronization, and reproducible benchmarks.",
+    "topics": [
+      "coal-blending",
+      "docker",
+      "java",
+      "optimization",
+      "postgresql",
+      "spring-boot",
+      "vue"
+    ],
+    "html_url": "https://github.com/TrainK1ng/coal-blending-system",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T09:13:56Z",
+    "updated_at": "2026-10-12T10:00:58Z",
+    "pushed_at": "2026-10-12T09:14:02Z"
+  },
+  {
+    "id": 1421242977,
+    "name": "ditherdance",
+    "full_name": "biering/ditherdance",
+    "owner": {
+      "login": "biering",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1353438?v=4"
+    },
+    "description": "Dithering for the web: dither any image (Floyd-Steinberg, Atkinson, Bayer), or draw a dither gradient from any string. Editor and demo at dither.dance",
+    "topics": [
+      "atkinson",
+      "bayer",
+      "canvas",
+      "dither",
+      "dithering",
+      "floyd-steinberg",
+      "generative-art",
+      "gradient",
+      "image-processing",
+      "imagedata",
+      "pixel-art",
+      "react",
+      "typescript",
+      "vue",
+      "web-components",
+      "webgl"
+    ],
+    "html_url": "https://github.com/biering/ditherdance",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-15T19:38:28Z",
+    "updated_at": "2026-10-16T10:50:30Z",
+    "pushed_at": "2026-10-16T10:50:39Z"
+  },
+  {
+    "id": 1417065137,
+    "name": "opslens-ai",
+    "full_name": "chen-xinyi111/opslens-ai",
+    "owner": {
+      "login": "chen-xinyi111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192220524?v=4"
+    },
+    "description": "面向本机 Docker 应用的 AI 辅助运维工作台：证据采集、知识检索、Agent 调查与核验，以及隔离实验中的人工审批和恢复验证。",
+    "topics": [
+      "ai-agent",
+      "devops",
+      "docker",
+      "fastapi",
+      "langgraph",
+      "rag",
+      "vue"
+    ],
+    "html_url": "https://github.com/chen-xinyi111/opslens-ai",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T13:01:04Z",
+    "updated_at": "2026-10-14T12:03:58Z",
+    "pushed_at": "2026-10-14T12:03:53Z"
+  },
+  {
+    "id": 1422078510,
+    "name": "AmuzASCII-studio",
+    "full_name": "listoCheck/AmuzASCII-studio",
+    "owner": {
+      "login": "listoCheck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92678018?v=4"
+    },
+    "description": "Photo and video ascii redactor ",
+    "topics": [
+      "ascii-art",
+      "javascript",
+      "python3",
+      "vue"
+    ],
+    "html_url": "https://github.com/listoCheck/AmuzASCII-studio",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-16T11:36:03Z",
+    "updated_at": "2026-10-16T19:05:00Z",
+    "pushed_at": "2026-10-16T16:53:34Z"
+  },
+  {
+    "id": 1418848758,
+    "name": "proxity",
+    "full_name": "Glimor/proxity",
+    "owner": {
+      "login": "Glimor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98030573?v=4"
+    },
+    "description": "Per-application proxy routing for Windows with configurable kill switches and traffic insights.",
+    "topics": [
+      "golang",
+      "http-proxy",
+      "networking",
+      "privacy",
+      "proxy",
+      "socks5",
+      "typescript",
+      "vue",
+      "wails",
+      "windows"
+    ],
+    "html_url": "https://github.com/Glimor/proxity",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-14T12:08:51Z",
+    "updated_at": "2026-10-15T15:58:41Z",
+    "pushed_at": "2026-10-15T10:29:16Z"
+  }
+]

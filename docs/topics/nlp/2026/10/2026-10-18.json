@@ -1,0 +1,606 @@
+[
+  {
+    "id": 1416341587,
+    "name": "cjkfold",
+    "full_name": "cdcailf/cjkfold",
+    "owner": {
+      "login": "cdcailf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31536977?v=4"
+    },
+    "description": "Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again.",
+    "topics": [
+      "chinese",
+      "cjk",
+      "nfkc",
+      "nlp",
+      "pdf-extraction",
+      "rag",
+      "retrieval",
+      "text-normalization",
+      "unicode"
+    ],
+    "html_url": "https://github.com/cdcailf/cjkfold",
+    "stargazers_count": 203,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T02:16:26Z",
+    "updated_at": "2026-10-17T05:07:43Z",
+    "pushed_at": "2026-10-15T04:04:53Z"
+  },
+  {
+    "id": 1418392145,
+    "name": "train-jev",
+    "full_name": "shibing624/train-jev",
+    "owner": {
+      "login": "shibing624",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10249622?v=4"
+    },
+    "description": "Train JEV-style System 1 decision models on Qwen3.5 and Qwen3.8-27B: 24-slot decision head, KL distillation, calibration and serving. 在 Qwen 上训练 JEV 风格的 System 1 决策模型。",
+    "topics": [
+      "calibration",
+      "decision-model",
+      "distillation",
+      "fine-tuning",
+      "llm",
+      "lora",
+      "nlp",
+      "pytorch",
+      "qwen",
+      "qwen3"
+    ],
+    "html_url": "https://github.com/shibing624/train-jev",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-10-14T05:05:23Z",
+    "updated_at": "2026-10-17T09:52:28Z",
+    "pushed_at": "2026-10-16T14:17:56Z"
+  },
+  {
+    "id": 1416098321,
+    "name": "from-nlp-2-llm",
+    "full_name": "qursaan/from-nlp-2-llm",
+    "owner": {
+      "login": "qursaan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4340555?v=4"
+    },
+    "description": "Student materials for \"From NLP to LLM: The Evolution of Language Intelligence\" by Mahmmoud A. Mahdi: the book, student workbook, lab manual, and the Sanad project checkpoints.",
+    "topics": [
+      "arabic-nlp",
+      "large-language-models",
+      "llm",
+      "natural-language-processing",
+      "nlp",
+      "transformers"
+    ],
+    "html_url": "https://github.com/qursaan/from-nlp-2-llm",
+    "stargazers_count": 9,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T20:28:16Z",
+    "updated_at": "2026-10-17T17:24:59Z",
+    "pushed_at": "2026-10-12T20:38:55Z"
+  },
+  {
+    "id": 1420862589,
+    "name": "bumblebee-cec",
+    "full_name": "Siddarthb07/bumblebee-cec",
+    "owner": {
+      "login": "Siddarthb07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247587454?v=4"
+    },
+    "description": "Transformer-free closed-corpus correlator. Ask, cite, or refuse from a frozen pack. Not a chatbot LLM.",
+    "topics": [
+      "abstention",
+      "machine-learning",
+      "nlp",
+      "python",
+      "pytorch",
+      "question-answering",
+      "retrieval"
+    ],
+    "html_url": "https://github.com/Siddarthb07/bumblebee-cec",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-15T14:27:51Z",
+    "updated_at": "2026-10-17T16:46:26Z",
+    "pushed_at": "2026-10-15T18:46:33Z"
+  },
+  {
+    "id": 1421998433,
+    "name": "BanglaBBQ-benchmark",
+    "full_name": "SummitAnthony/BanglaBBQ-benchmark",
+    "owner": {
+      "login": "SummitAnthony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29682583?v=4"
+    },
+    "description": "BanglaBBQ: a bias benchmark for question answering in the Bangladeshi context (English and Bangla)",
+    "topics": [
+      "bangla",
+      "bangladesh",
+      "benchmark",
+      "bengali",
+      "bias",
+      "dataset",
+      "fairness",
+      "llm-evaluation",
+      "nlp",
+      "question-answering"
+    ],
+    "html_url": "https://github.com/SummitAnthony/BanglaBBQ-benchmark",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T10:17:34Z",
+    "updated_at": "2026-10-17T15:19:08Z",
+    "pushed_at": "2026-10-17T15:19:04Z"
+  },
+  {
+    "id": 1414652228,
+    "name": "voynich-research",
+    "full_name": "d2kx/voynich-research",
+    "owner": {
+      "login": "d2kx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4834966?v=4"
+    },
+    "description": "Empirical, visual, and computational research on the Voynich Manuscript (Beinecke MS 408)",
+    "topics": [
+      "beinecke-ms-408",
+      "codicology",
+      "computational-linguistics",
+      "cryptanalysis",
+      "cryptography",
+      "decipherment",
+      "digital-humanities",
+      "historical-ciphers",
+      "linguistics",
+      "medieval-manuscripts",
+      "nlp",
+      "paleography",
+      "python",
+      "voynich",
+      "voynich-manuscript"
+    ],
+    "html_url": "https://github.com/d2kx/voynich-research",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T18:30:15Z",
+    "updated_at": "2026-10-14T02:18:06Z",
+    "pushed_at": "2026-10-14T02:18:02Z"
+  },
+  {
+    "id": 1413784574,
+    "name": "rougers",
+    "full_name": "SyntaxSpirits/rougers",
+    "owner": {
+      "login": "SyntaxSpirits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172089767?v=4"
+    },
+    "description": "Fast ROUGE metrics in Rust with scores identical to Google's rouge-score; drop-in Python package",
+    "topics": [
+      "evaluation",
+      "llm-evaluation",
+      "nlp",
+      "pyo3",
+      "python",
+      "rouge",
+      "rust",
+      "summarization"
+    ],
+    "html_url": "https://github.com/SyntaxSpirits/rougers",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T00:17:40Z",
+    "updated_at": "2026-10-17T20:42:58Z",
+    "pushed_at": "2026-10-12T01:11:04Z"
+  },
+  {
+    "id": 1416877249,
+    "name": "cineverse",
+    "full_name": "codexanjan/cineverse",
+    "owner": {
+      "login": "codexanjan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277778132?v=4"
+    },
+    "description": "🎬 Intelligent Cinematic Universe & AI Movie Recommendation Engine powered by Latent Semantic NLP, Hybrid SVD Collaborative Filtering, and GSAP/Framer Motion.",
+    "topics": [
+      "ai",
+      "cinema",
+      "collaborative-filtering",
+      "fastapi",
+      "framer-motion",
+      "gsap",
+      "machine-learning",
+      "movielens",
+      "movies",
+      "nextjs",
+      "nlp",
+      "python",
+      "recommender-system",
+      "tailwindcss",
+      "tmdb",
+      "typescript",
+      "vercel"
+    ],
+    "html_url": "https://github.com/codexanjan/cineverse",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T10:58:09Z",
+    "updated_at": "2026-10-15T04:43:31Z",
+    "pushed_at": "2026-10-15T03:54:21Z"
+  },
+  {
+    "id": 1417193452,
+    "name": "Just-Pass-Twice-NER",
+    "full_name": "a-3wais/Just-Pass-Twice-NER",
+    "owner": {
+      "login": "a-3wais",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100516198?v=4"
+    },
+    "description": "official repo for the paper Just pass Twice (JPT): state-of-the-art zero-shot named entity recognition (NER) with decoder-only LLMs. +7.9 F1 on CrossNER/MIT, 20× faster than generative NER. Appeared in ACL 2026 main conference.",
+    "topics": [
+      "acl",
+      "acl2026",
+      "gliner",
+      "information-extraction",
+      "named-entity-recognition",
+      "ner",
+      "nlp",
+      "token-classification",
+      "zero-shot-ner"
+    ],
+    "html_url": "https://github.com/a-3wais/Just-Pass-Twice-NER",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T14:07:37Z",
+    "updated_at": "2026-10-14T14:07:24Z",
+    "pushed_at": "2026-10-13T18:02:50Z"
+  },
+  {
+    "id": 1418498072,
+    "name": "PremiseCheck",
+    "full_name": "OpenLAIR/PremiseCheck",
+    "owner": {
+      "login": "OpenLAIR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263098388?v=4"
+    },
+    "description": "PremiseCheck: efficient fact-checking of human and AI peer reviews",
+    "topics": [
+      "ai-for-science",
+      "ai-scientist",
+      "auto-research",
+      "autoresearch",
+      "benchmark",
+      "decision-models",
+      "evaluation",
+      "fact-checking",
+      "jev",
+      "jev-ai",
+      "jev-model",
+      "llm",
+      "nlp",
+      "peer-review",
+      "rsi",
+      "scientific-review"
+    ],
+    "html_url": "https://github.com/OpenLAIR/PremiseCheck",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T06:52:05Z",
+    "updated_at": "2026-10-16T20:00:58Z",
+    "pushed_at": "2026-10-16T20:00:53Z"
+  },
+  {
+    "id": 1417914591,
+    "name": "lana",
+    "full_name": "3-mmc/lana",
+    "owner": {
+      "login": "3-mmc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128826935?v=4"
+    },
+    "description": "Lana (Linguistic ANAlysis): Praat's acoustic analysis with word, phone and speaker tiers filled by speech recognition. Browser and desktop (macOS, Windows, Linux).",
+    "topics": [
+      "acoustics",
+      "asr",
+      "linguistic-analysis",
+      "linguistics",
+      "nlp",
+      "phonetics",
+      "praat"
+    ],
+    "html_url": "https://github.com/3-mmc/lana",
+    "stargazers_count": 2,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T20:16:35Z",
+    "updated_at": "2026-10-16T17:05:50Z",
+    "pushed_at": "2026-10-15T20:48:58Z"
+  },
+  {
+    "id": 1414603534,
+    "name": "langdetect-rs",
+    "full_name": "SyntaxSpirits/langdetect-rs",
+    "owner": {
+      "login": "SyntaxSpirits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172089767?v=4"
+    },
+    "description": "Fast drop-in replacement for Python's langdetect: bit-identical results from a Rust core",
+    "topics": [
+      "langdetect",
+      "language-detection",
+      "nlp",
+      "pyo3",
+      "python",
+      "rust",
+      "text-processing"
+    ],
+    "html_url": "https://github.com/SyntaxSpirits/langdetect-rs",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T17:34:56Z",
+    "updated_at": "2026-10-17T20:41:56Z",
+    "pushed_at": "2026-10-17T20:37:46Z"
+  },
+  {
+    "id": 1419894128,
+    "name": "cv-screening-poc",
+    "full_name": "ccramirez20/cv-screening-poc",
+    "owner": {
+      "login": "ccramirez20",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157065924?v=4"
+    },
+    "description": "LLM-assisted résumé screening prototype (FastAPI + OpenAI). Synthetic data only.",
+    "topics": [
+      "fastapi",
+      "llm",
+      "nlp",
+      "openai",
+      "python",
+      "resume-parsing"
+    ],
+    "html_url": "https://github.com/ccramirez20/cv-screening-poc",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T22:00:15Z",
+    "updated_at": "2026-10-14T22:05:32Z",
+    "pushed_at": "2026-10-14T22:00:21Z"
+  },
+  {
+    "id": 1413954521,
+    "name": "doculens-multi-agent",
+    "full_name": "Chowdri-Furkhan07/doculens-multi-agent",
+    "owner": {
+      "login": "Chowdri-Furkhan07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188982331?v=4"
+    },
+    "description": "Streamlit app that runs a three-agent pipeline on uploaded .txt documents: BART summarization, RoBERTa sentiment analysis, and a keyword-based consistency check, orchestrated by a coordinator with per-agent error isolation.",
+    "topics": [
+      "huggingface-transformers",
+      "multi-agent-systems",
+      "nlp",
+      "sentiment-analysis",
+      "streamlit",
+      "text-summarization"
+    ],
+    "html_url": "https://github.com/Chowdri-Furkhan07/doculens-multi-agent",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-11T05:13:16Z",
+    "updated_at": "2026-10-17T08:35:22Z",
+    "pushed_at": "2026-10-17T08:24:06Z"
+  },
+  {
+    "id": 1423850199,
+    "name": "resume-ats-harness",
+    "full_name": "kamalkimahek14/resume-ats-harness",
+    "owner": {
+      "login": "kamalkimahek14",
+      "avatar_url": "https://avatars.githubusercontent.com/u/304618371?v=4"
+    },
+    "description": "Test harness for resumes: ATS-style parsing, job-post matching, a company-split held-out set with a separation proof, and a judge rubric. Python stdlib, tests, CI.",
+    "topics": [
+      "ats",
+      "evaluation",
+      "held-out-evaluation",
+      "nlp",
+      "python",
+      "resume"
+    ],
+    "html_url": "https://github.com/kamalkimahek14/resume-ats-harness",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T00:01:22Z",
+    "updated_at": "2026-10-18T00:40:51Z",
+    "pushed_at": "2026-10-18T00:02:09Z"
+  },
+  {
+    "id": 1416216594,
+    "name": "Sentra-AI-Powered-Sentiment-Analysis",
+    "full_name": "scientistayat-engineer/Sentra-AI-Powered-Sentiment-Analysis",
+    "owner": {
+      "login": "scientistayat-engineer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278471377?v=4"
+    },
+    "description": "AI-powered sentiment analysis web app. Classifies text as Positive, Negative or Neutral using a scikit-learn model (TF-IDF + Logistic Regression), with a Flask API, Firebase auth and history, and Vercel deployment.",
+    "topics": [
+      "firebase",
+      "firestore",
+      "flask",
+      "html-css-javascript",
+      "javascript",
+      "logistic-regression",
+      "machine-learning",
+      "nlp",
+      "python",
+      "rest-api",
+      "scikit-learn",
+      "sentiment-analysis",
+      "td-idf",
+      "text-classification",
+      "vercel"
+    ],
+    "html_url": "https://github.com/scientistayat-engineer/Sentra-AI-Powered-Sentiment-Analysis",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T23:03:34Z",
+    "updated_at": "2026-10-13T20:41:38Z",
+    "pushed_at": "2026-10-13T07:26:34Z"
+  },
+  {
+    "id": 1419306029,
+    "name": "cag_seminario",
+    "full_name": "nelsonfern/cag_seminario",
+    "owner": {
+      "login": "nelsonfern",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191414039?v=4"
+    },
+    "description": "Agente de tramites publicos de La Rioja (Argentina) que compara CAG (Cache-Augmented Generation) contra RAG. Proyecto academico con fuentes oficiales y metricas reproducibles.",
+    "topics": [
+      "agentes-ia",
+      "cag",
+      "embeddings",
+      "fastapi",
+      "llm",
+      "nlp",
+      "python",
+      "rag",
+      "seminario"
+    ],
+    "html_url": "https://github.com/nelsonfern/cag_seminario",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T15:44:10Z",
+    "updated_at": "2026-10-15T22:06:21Z",
+    "pushed_at": "2026-10-15T22:06:02Z"
+  },
+  {
+    "id": 1418281405,
+    "name": "pocherk-humanizer-ru",
+    "full_name": "neiroseti-ai/pocherk-humanizer-ru",
+    "owner": {
+      "login": "neiroseti-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/335510607?v=4"
+    },
+    "description": "Research-backed Russian AI humanizer skill for Claude Code. Blind test vs humanizer, humanizer-ru, slopotron: fewest meaning errors (0.03/text). Rules from 1851 human vs 4189 AI texts (Claude, GigaChat, YandexGPT). Хьюманайзер для русского текста: убирает признаки нейросети, не теряя смысл.",
+    "topics": [
+      "agent-skills",
+      "ai-detection",
+      "ai-humanizer",
+      "ai-writing",
+      "anthropic",
+      "anti-slop",
+      "claude",
+      "claude-code",
+      "claude-skill",
+      "claude-skills",
+      "copywriting",
+      "gigachat",
+      "humanize-ai-text",
+      "humanizer",
+      "llm",
+      "nlp",
+      "russian",
+      "russian-language",
+      "russian-nlp",
+      "yandexgpt"
+    ],
+    "html_url": "https://github.com/neiroseti-ai/pocherk-humanizer-ru",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T02:55:44Z",
+    "updated_at": "2026-10-14T12:42:20Z",
+    "pushed_at": "2026-10-14T03:11:08Z"
+  },
+  {
+    "id": 1416419392,
+    "name": "rag-playbook",
+    "full_name": "warlog7997/rag-playbook",
+    "owner": {
+      "login": "warlog7997",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13105240?v=4"
+    },
+    "description": "RAG from broken to production-ready — 6 problem-driven chapters with real examples from production AI systems",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "chromadb",
+      "claude",
+      "education",
+      "embeddings",
+      "hybrid-search",
+      "langchain",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "vector-search"
+    ],
+    "html_url": "https://github.com/warlog7997/rag-playbook",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T03:50:24Z",
+    "updated_at": "2026-10-13T14:09:29Z",
+    "pushed_at": "2026-10-13T14:09:24Z"
+  },
+  {
+    "id": 1423777274,
+    "name": "M1",
+    "full_name": "XRedMzK/M1",
+    "owner": {
+      "login": "XRedMzK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67847191?v=4"
+    },
+    "description": "Experimental modular current-turn event understanding with explicit feature and model interfaces",
+    "topics": [
+      "event-extraction",
+      "experimental",
+      "nlp",
+      "pytorch",
+      "research",
+      "structured-prediction"
+    ],
+    "html_url": "https://github.com/XRedMzK/M1",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T21:51:56Z",
+    "updated_at": "2026-10-17T22:28:10Z",
+    "pushed_at": "2026-10-17T21:52:12Z"
+  }
+]
