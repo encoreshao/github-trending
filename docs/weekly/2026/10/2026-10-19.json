@@ -1,0 +1,494 @@
+[
+  {
+    "id": 1398080271,
+    "name": "photocraft",
+    "full_name": "storytold/photocraft",
+    "owner": {
+      "login": "storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+    "topics": [
+      "art",
+      "image-editing",
+      "image-editing-software",
+      "image-editor",
+      "images",
+      "photo-editing",
+      "rust"
+    ],
+    "html_url": "https://github.com/storytold/photocraft",
+    "stargazers_count": 67528,
+    "language": "Rust",
+    "forks_count": 11884,
+    "open_issues_count": 2731,
+    "created_at": "2026-09-30T13:37:48Z",
+    "updated_at": "2026-10-19T01:57:12Z",
+    "pushed_at": "2026-10-18T22:59:21Z"
+  },
+  {
+    "id": 1385946301,
+    "name": "Strata",
+    "full_name": "Niko1221/Strata",
+    "owner": {
+      "login": "Niko1221",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86886444?v=4"
+    },
+    "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+    "topics": [],
+    "html_url": "https://github.com/Niko1221/Strata",
+    "stargazers_count": 27505,
+    "language": "C++",
+    "forks_count": 2909,
+    "open_issues_count": 1344,
+    "created_at": "2026-09-24T16:40:20Z",
+    "updated_at": "2026-10-19T01:58:33Z",
+    "pushed_at": "2026-10-17T06:50:46Z"
+  },
+  {
+    "id": 1385896447,
+    "name": "dsh-our-free-model",
+    "full_name": "Ebony-Vinyl/dsh-our-free-model",
+    "owner": {
+      "login": "Ebony-Vinyl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245557608?v=4"
+    },
+    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "free-model",
+      "llm",
+      "model-provider",
+      "openai-compatible"
+    ],
+    "html_url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+    "stargazers_count": 24936,
+    "language": "JavaScript",
+    "forks_count": 536,
+    "open_issues_count": 222,
+    "created_at": "2026-09-24T16:17:19Z",
+    "updated_at": "2026-10-19T02:01:37Z",
+    "pushed_at": "2026-10-19T01:47:01Z"
+  },
+  {
+    "id": 1410124849,
+    "name": "anatomy",
+    "full_name": "wheresryan22/anatomy",
+    "owner": {
+      "login": "wheresryan22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96392276?v=4"
+    },
+    "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+    "topics": [
+      "agent-skill",
+      "open-source",
+      "svg",
+      "vizualization"
+    ],
+    "html_url": "https://github.com/wheresryan22/anatomy",
+    "stargazers_count": 16059,
+    "language": "JavaScript",
+    "forks_count": 1232,
+    "open_issues_count": 50,
+    "created_at": "2026-10-08T10:12:49Z",
+    "updated_at": "2026-10-19T02:00:58Z",
+    "pushed_at": "2026-10-18T20:20:24Z"
+  },
+  {
+    "id": 1383809012,
+    "name": "magpie",
+    "full_name": "yetone/magpie",
+    "owner": {
+      "login": "yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+    },
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "deepseek",
+      "gemini-cli",
+      "llm",
+      "macos"
+    ],
+    "html_url": "https://github.com/yetone/magpie",
+    "stargazers_count": 16027,
+    "language": "Go",
+    "forks_count": 1157,
+    "open_issues_count": 1118,
+    "created_at": "2026-09-23T16:22:35Z",
+    "updated_at": "2026-10-19T02:02:00Z",
+    "pushed_at": "2026-10-19T01:51:43Z"
+  },
+  {
+    "id": 1398086162,
+    "name": "pdfcraft",
+    "full_name": "storytold/pdfcraft",
+    "owner": {
+      "login": "storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
+    "topics": [
+      "document-processing",
+      "documents",
+      "pdf",
+      "pdf-generation",
+      "pdf-processing",
+      "pdf-tools",
+      "pdf-viewer",
+      "rust"
+    ],
+    "html_url": "https://github.com/storytold/pdfcraft",
+    "stargazers_count": 15925,
+    "language": "Rust",
+    "forks_count": 6164,
+    "open_issues_count": 1582,
+    "created_at": "2026-09-30T13:39:37Z",
+    "updated_at": "2026-10-19T02:01:16Z",
+    "pushed_at": "2026-10-18T22:22:30Z"
+  },
+  {
+    "id": 1407950271,
+    "name": "math",
+    "full_name": "openai/math",
+    "owner": {
+      "login": "openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/openai/math",
+    "stargazers_count": 15175,
+    "language": "Lean",
+    "forks_count": 1762,
+    "open_issues_count": 0,
+    "created_at": "2026-10-06T21:47:02Z",
+    "updated_at": "2026-10-19T01:33:14Z",
+    "pushed_at": "2026-10-12T21:55:27Z"
+  },
+  {
+    "id": 1398091865,
+    "name": "filmcraft",
+    "full_name": "storytold/filmcraft",
+    "owner": {
+      "login": "storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
+    "topics": [
+      "art",
+      "rust",
+      "video",
+      "video-editing",
+      "video-editor",
+      "video-processing"
+    ],
+    "html_url": "https://github.com/storytold/filmcraft",
+    "stargazers_count": 14859,
+    "language": "Rust",
+    "forks_count": 6207,
+    "open_issues_count": 1181,
+    "created_at": "2026-09-30T13:41:20Z",
+    "updated_at": "2026-10-19T01:58:20Z",
+    "pushed_at": "2026-10-18T18:40:09Z"
+  },
+  {
+    "id": 1408489772,
+    "name": "wordcraft",
+    "full_name": "storytold/wordcraft",
+    "owner": {
+      "login": "storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "topics": [],
+    "html_url": "https://github.com/storytold/wordcraft",
+    "stargazers_count": 14409,
+    "language": "Rust",
+    "forks_count": 3833,
+    "open_issues_count": 1205,
+    "created_at": "2026-10-07T08:34:24Z",
+    "updated_at": "2026-10-19T02:00:26Z",
+    "pushed_at": "2026-10-18T21:11:52Z"
+  },
+  {
+    "id": 1398185212,
+    "name": "lightcraft",
+    "full_name": "storytold/lightcraft",
+    "owner": {
+      "login": "storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
+    "topics": [
+      "art",
+      "photography",
+      "raw",
+      "raw-editor",
+      "raw-processing",
+      "rust"
+    ],
+    "html_url": "https://github.com/storytold/lightcraft",
+    "stargazers_count": 13701,
+    "language": "Rust",
+    "forks_count": 5206,
+    "open_issues_count": 883,
+    "created_at": "2026-09-30T14:09:27Z",
+    "updated_at": "2026-10-19T01:54:36Z",
+    "pushed_at": "2026-10-18T22:59:34Z"
+  },
+  {
+    "id": 1385817306,
+    "name": "DiPlay",
+    "full_name": "shihabal3amri/DiPlay",
+    "owner": {
+      "login": "shihabal3amri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42039842?v=4"
+    },
+    "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+    "topics": [],
+    "html_url": "https://github.com/shihabal3amri/DiPlay",
+    "stargazers_count": 11503,
+    "language": "Kotlin",
+    "forks_count": 1462,
+    "open_issues_count": 265,
+    "created_at": "2026-09-24T15:36:38Z",
+    "updated_at": "2026-10-19T02:00:39Z",
+    "pushed_at": "2026-10-17T18:09:04Z"
+  },
+  {
+    "id": 1385776214,
+    "name": "DroidDeck",
+    "full_name": "Droid-Deck/DroidDeck",
+    "owner": {
+      "login": "Droid-Deck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333418672?v=4"
+    },
+    "description": "DroidDeck brings the SteamOS experience to Android",
+    "topics": [],
+    "html_url": "https://github.com/Droid-Deck/DroidDeck",
+    "stargazers_count": 10863,
+    "language": "Kotlin",
+    "forks_count": 546,
+    "open_issues_count": 374,
+    "created_at": "2026-09-24T15:14:13Z",
+    "updated_at": "2026-10-19T02:01:58Z",
+    "pushed_at": "2026-10-19T01:57:29Z"
+  },
+  {
+    "id": 1398097510,
+    "name": "vectorcraft",
+    "full_name": "storytold/vectorcraft",
+    "owner": {
+      "login": "storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "description": "VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
+    "topics": [
+      "art",
+      "rust",
+      "rust-lang",
+      "svg",
+      "svg-editor",
+      "vector-graphics"
+    ],
+    "html_url": "https://github.com/storytold/vectorcraft",
+    "stargazers_count": 9848,
+    "language": "Rust",
+    "forks_count": 4816,
+    "open_issues_count": 643,
+    "created_at": "2026-09-30T13:43:03Z",
+    "updated_at": "2026-10-19T01:42:39Z",
+    "pushed_at": "2026-10-18T18:39:23Z"
+  },
+  {
+    "id": 1397016507,
+    "name": "universal-modder",
+    "full_name": "rehan-remade/universal-modder",
+    "owner": {
+      "login": "rehan-remade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173837546?v=4"
+    },
+    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "topics": [
+      "age-of-empires",
+      "claude-code",
+      "claude-code-plugin",
+      "fal",
+      "game-assets",
+      "game-modding",
+      "mcp",
+      "modding",
+      "reverse-engineering",
+      "tmodloader"
+    ],
+    "html_url": "https://github.com/rehan-remade/universal-modder",
+    "stargazers_count": 8354,
+    "language": "Python",
+    "forks_count": 912,
+    "open_issues_count": 21,
+    "created_at": "2026-09-30T05:00:35Z",
+    "updated_at": "2026-10-19T01:57:54Z",
+    "pushed_at": "2026-10-18T20:38:43Z"
+  },
+  {
+    "id": 1393965829,
+    "name": "AIHOT",
+    "full_name": "KKKKhazix/AIHOT",
+    "owner": {
+      "login": "KKKKhazix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
+    },
+    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "topics": [
+      "ai",
+      "chinese",
+      "content-curation",
+      "daily-digest",
+      "docker-compose",
+      "llm",
+      "mcp",
+      "news-aggregator",
+      "postgresql",
+      "rss",
+      "self-hosted",
+      "typescript"
+    ],
+    "html_url": "https://github.com/KKKKhazix/AIHOT",
+    "stargazers_count": 8017,
+    "language": "TypeScript",
+    "forks_count": 1951,
+    "open_issues_count": 2,
+    "created_at": "2026-09-28T23:40:05Z",
+    "updated_at": "2026-10-19T01:46:54Z",
+    "pushed_at": "2026-10-18T19:20:16Z"
+  },
+  {
+    "id": 1378288598,
+    "name": "ZCode",
+    "full_name": "zai-org/ZCode",
+    "owner": {
+      "login": "zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "topics": [],
+    "html_url": "https://github.com/zai-org/ZCode",
+    "stargazers_count": 7934,
+    "language": "TypeScript",
+    "forks_count": 2446,
+    "open_issues_count": 11,
+    "created_at": "2026-09-20T12:01:16Z",
+    "updated_at": "2026-10-19T01:37:43Z",
+    "pushed_at": "2026-10-10T11:02:50Z"
+  },
+  {
+    "id": 1379574728,
+    "name": "jev-chat-jarvis",
+    "full_name": "jev-chat/jev-chat-jarvis",
+    "owner": {
+      "login": "jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "description": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。",
+    "topics": [
+      "accessibility-service",
+      "ai-assistant",
+      "android",
+      "chat-assistant",
+      "chat-copilot",
+      "llm",
+      "ocr",
+      "qq",
+      "whatsapp"
+    ],
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "stargazers_count": 7890,
+    "language": "Kotlin",
+    "forks_count": 1281,
+    "open_issues_count": 30,
+    "created_at": "2026-09-21T11:12:53Z",
+    "updated_at": "2026-10-19T01:56:22Z",
+    "pushed_at": "2026-10-16T09:46:28Z"
+  },
+  {
+    "id": 1400136506,
+    "name": "effectcraft",
+    "full_name": "storytold/effectcraft",
+    "owner": {
+      "login": "storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "description": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
+    "topics": [
+      "art",
+      "compositing",
+      "compositing-software",
+      "motion-graphics",
+      "rust"
+    ],
+    "html_url": "https://github.com/storytold/effectcraft",
+    "stargazers_count": 7324,
+    "language": "Rust",
+    "forks_count": 3896,
+    "open_issues_count": 577,
+    "created_at": "2026-10-01T14:24:46Z",
+    "updated_at": "2026-10-19T01:56:18Z",
+    "pushed_at": "2026-10-18T18:36:11Z"
+  },
+  {
+    "id": 1377211520,
+    "name": "laya-mlx",
+    "full_name": "mizorewww/laya-mlx",
+    "owner": {
+      "login": "mizorewww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
+    },
+    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "topics": [
+      "apple-silicon",
+      "decision-model",
+      "inference",
+      "laya",
+      "local-ai",
+      "machine-learning",
+      "mlx",
+      "modernbert",
+      "system-one",
+      "typed-decisions"
+    ],
+    "html_url": "https://github.com/mizorewww/laya-mlx",
+    "stargazers_count": 6969,
+    "language": "Python",
+    "forks_count": 568,
+    "open_issues_count": 0,
+    "created_at": "2026-09-19T13:50:26Z",
+    "updated_at": "2026-10-19T00:17:34Z",
+    "pushed_at": "2026-10-10T01:40:05Z"
+  },
+  {
+    "id": 1407951147,
+    "name": "harness2",
+    "full_name": "google-research/harness2",
+    "owner": {
+      "login": "google-research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43830688?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/google-research/harness2",
+    "stargazers_count": 6726,
+    "language": "Python",
+    "forks_count": 608,
+    "open_issues_count": 66,
+    "created_at": "2026-10-06T21:48:11Z",
+    "updated_at": "2026-10-19T02:01:55Z",
+    "pushed_at": "2026-10-14T02:22:51Z"
+  }
+]
