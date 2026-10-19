@@ -1,0 +1,499 @@
+[
+  {
+    "id": 1415313946,
+    "name": "d2r-mobile",
+    "full_name": "jhaizhou-ops/d2r-mobile",
+    "owner": {
+      "login": "jhaizhou-ops",
+      "avatar_url": "https://avatars.githubusercontent.com/u/258432107?v=4"
+    },
+    "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+    "topics": [
+      "compatibility-layer",
+      "diablo-2-resurrected",
+      "diablo2",
+      "game-port",
+      "ios",
+      "ipad",
+      "iphone",
+      "mac",
+      "macos",
+      "metal",
+      "reign-of-the-warlock"
+    ],
+    "html_url": "https://github.com/jhaizhou-ops/d2r-mobile",
+    "stargazers_count": 3856,
+    "language": "C",
+    "forks_count": 1085,
+    "open_issues_count": 31,
+    "created_at": "2026-10-12T08:41:19Z",
+    "updated_at": "2026-10-19T01:58:52Z",
+    "pushed_at": "2026-10-17T14:08:55Z"
+  },
+  {
+    "id": 1416386910,
+    "name": "qwen21-nsfw-pose-skill",
+    "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
+    "owner": {
+      "login": "Arekejoker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131444687?v=4"
+    },
+    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "topics": [
+      "agent-skill",
+      "comfyui",
+      "image-generation",
+      "openclaw",
+      "pose-control",
+      "qwen-image"
+    ],
+    "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+    "stargazers_count": 2862,
+    "language": "Python",
+    "forks_count": 538,
+    "open_issues_count": 5,
+    "created_at": "2026-10-13T03:09:42Z",
+    "updated_at": "2026-10-19T01:59:52Z",
+    "pushed_at": "2026-10-17T04:54:54Z"
+  },
+  {
+    "id": 1420751050,
+    "name": "git-ai",
+    "full_name": "feder-cr/git-ai",
+    "owner": {
+      "login": "feder-cr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85809106?v=4"
+    },
+    "description": "Git designed for AI agents.",
+    "topics": [
+      "ai-agents",
+      "coding-agents",
+      "git",
+      "golang",
+      "scion",
+      "version-control"
+    ],
+    "html_url": "https://github.com/feder-cr/git-ai",
+    "stargazers_count": 2301,
+    "language": "Go",
+    "forks_count": 258,
+    "open_issues_count": 2,
+    "created_at": "2026-10-15T13:12:02Z",
+    "updated_at": "2026-10-19T01:57:51Z",
+    "pushed_at": "2026-10-18T23:08:00Z"
+  },
+  {
+    "id": 1417456983,
+    "name": "everything",
+    "full_name": "HeyPuter/everything",
+    "owner": {
+      "login": "HeyPuter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103972607?v=4"
+    },
+    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+    "topics": [
+      "adobe",
+      "cad",
+      "office",
+      "photoshop",
+      "saas",
+      "spreadsheet"
+    ],
+    "html_url": "https://github.com/HeyPuter/everything",
+    "stargazers_count": 2222,
+    "language": "JavaScript",
+    "forks_count": 316,
+    "open_issues_count": 10,
+    "created_at": "2026-10-13T16:18:22Z",
+    "updated_at": "2026-10-19T01:56:10Z",
+    "pushed_at": "2026-10-18T19:50:05Z"
+  },
+  {
+    "id": 1423101235,
+    "name": "tv-vibehack",
+    "full_name": "Gathin23/tv-vibehack",
+    "owner": {
+      "login": "Gathin23",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94786511?v=4"
+    },
+    "description": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
+    "topics": [
+      "adb",
+      "android-tv",
+      "claude-code",
+      "debloat",
+      "launcher",
+      "xiaomi"
+    ],
+    "html_url": "https://github.com/Gathin23/tv-vibehack",
+    "stargazers_count": 2094,
+    "language": "Java",
+    "forks_count": 249,
+    "open_issues_count": 63,
+    "created_at": "2026-10-17T08:12:35Z",
+    "updated_at": "2026-10-19T01:59:47Z",
+    "pushed_at": "2026-10-18T13:25:17Z"
+  },
+  {
+    "id": 1415358670,
+    "name": "solid-glass",
+    "full_name": "deeplethe/solid-glass",
+    "owner": {
+      "login": "deeplethe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282846749?v=4"
+    },
+    "description": "A design system for AI applications. Material, physical, tactile, technical.",
+    "topics": [
+      "agent-ui",
+      "ai",
+      "ai-agents",
+      "chat-ui",
+      "design-system",
+      "llm",
+      "react",
+      "shadcn",
+      "shadcn-ui",
+      "tailwindcss",
+      "theme"
+    ],
+    "html_url": "https://github.com/deeplethe/solid-glass",
+    "stargazers_count": 2068,
+    "language": "TypeScript",
+    "forks_count": 27,
+    "open_issues_count": 3,
+    "created_at": "2026-10-12T09:19:02Z",
+    "updated_at": "2026-10-19T01:42:21Z",
+    "pushed_at": "2026-10-18T08:47:04Z"
+  },
+  {
+    "id": 1419746236,
+    "name": "BRUTAL",
+    "full_name": "ahwootech/BRUTAL",
+    "owner": {
+      "login": "ahwootech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189169933?v=4"
+    },
+    "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+    "topics": [
+      "csharp",
+      "dotnet",
+      "game-engine",
+      "gamedev",
+      "vulkan"
+    ],
+    "html_url": "https://github.com/ahwootech/BRUTAL",
+    "stargazers_count": 1904,
+    "language": "C#",
+    "forks_count": 102,
+    "open_issues_count": 12,
+    "created_at": "2026-10-14T19:33:56Z",
+    "updated_at": "2026-10-19T01:55:07Z",
+    "pushed_at": "2026-10-18T19:22:22Z"
+  },
+  {
+    "id": 1420063501,
+    "name": "handwired",
+    "full_name": "chenglou/handwired",
+    "owner": {
+      "login": "chenglou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1909539?v=4"
+    },
+    "description": "Turn your regular JavaScript code into a neural net.",
+    "topics": [],
+    "html_url": "https://github.com/chenglou/handwired",
+    "stargazers_count": 1732,
+    "language": "TypeScript",
+    "forks_count": 144,
+    "open_issues_count": 9,
+    "created_at": "2026-10-15T02:15:09Z",
+    "updated_at": "2026-10-19T01:49:37Z",
+    "pushed_at": "2026-10-17T01:12:12Z"
+  },
+  {
+    "id": 1419982962,
+    "name": "uncharted_pc",
+    "full_name": "Supermedo/uncharted_pc",
+    "owner": {
+      "login": "Supermedo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28518750?v=4"
+    },
+    "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+    "topics": [],
+    "html_url": "https://github.com/Supermedo/uncharted_pc",
+    "stargazers_count": 1457,
+    "language": "C++",
+    "forks_count": 75,
+    "open_issues_count": 290,
+    "created_at": "2026-10-15T00:17:23Z",
+    "updated_at": "2026-10-19T01:58:15Z",
+    "pushed_at": "2026-10-17T23:37:21Z"
+  },
+  {
+    "id": 1419078245,
+    "name": "open-claude-ui",
+    "full_name": "Caho1/open-claude-ui",
+    "owner": {
+      "login": "Caho1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124897849?v=4"
+    },
+    "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+    "topics": [
+      "anthropic",
+      "audioworklet",
+      "claude",
+      "design-system",
+      "framer-motion",
+      "motion-physics",
+      "react",
+      "reverse-engineering",
+      "tailwindcss",
+      "ui-components"
+    ],
+    "html_url": "https://github.com/Caho1/open-claude-ui",
+    "stargazers_count": 1210,
+    "language": "TypeScript",
+    "forks_count": 260,
+    "open_issues_count": 2,
+    "created_at": "2026-10-14T14:05:05Z",
+    "updated_at": "2026-10-19T01:42:21Z",
+    "pushed_at": "2026-10-17T16:29:43Z"
+  },
+  {
+    "id": 1416044960,
+    "name": "net-merge",
+    "full_name": "rohit267/net-merge",
+    "owner": {
+      "login": "rohit267",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28225593?v=4"
+    },
+    "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+    "topics": [
+      "bandwidth-aggregation",
+      "downloader",
+      "golang",
+      "linux",
+      "load-balancing",
+      "macos",
+      "networking",
+      "tethering",
+      "tun",
+      "wifi",
+      "windows",
+      "wintun"
+    ],
+    "html_url": "https://github.com/rohit267/net-merge",
+    "stargazers_count": 1147,
+    "language": "Go",
+    "forks_count": 45,
+    "open_issues_count": 1,
+    "created_at": "2026-10-12T19:28:45Z",
+    "updated_at": "2026-10-19T01:57:43Z",
+    "pushed_at": "2026-10-18T20:59:23Z"
+  },
+  {
+    "id": 1415214046,
+    "name": "new-term-radar",
+    "full_name": "zhuyansen/new-term-radar",
+    "owner": {
+      "login": "zhuyansen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24306647?v=4"
+    },
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "aisa",
+      "claude-code",
+      "claude-skills",
+      "google-trends",
+      "keyword-research",
+      "mcp",
+      "mcp-server",
+      "seo",
+      "trends"
+    ],
+    "html_url": "https://github.com/zhuyansen/new-term-radar",
+    "stargazers_count": 1110,
+    "language": "Python",
+    "forks_count": 423,
+    "open_issues_count": 2,
+    "created_at": "2026-10-12T07:11:01Z",
+    "updated_at": "2026-10-19T00:28:22Z",
+    "pushed_at": "2026-10-18T07:47:52Z"
+  },
+  {
+    "id": 1415622546,
+    "name": "ShadowOfTheColossus-PC",
+    "full_name": "AjncSystem/ShadowOfTheColossus-PC",
+    "owner": {
+      "login": "AjncSystem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/305895304?v=4"
+    },
+    "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+    "topics": [],
+    "html_url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+    "stargazers_count": 1084,
+    "language": "C++",
+    "forks_count": 54,
+    "open_issues_count": 120,
+    "created_at": "2026-10-12T13:11:53Z",
+    "updated_at": "2026-10-19T01:55:54Z",
+    "pushed_at": "2026-10-17T01:41:22Z"
+  },
+  {
+    "id": 1416766144,
+    "name": "scout",
+    "full_name": "outcrawlai/scout",
+    "owner": {
+      "login": "outcrawlai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326615483?v=4"
+    },
+    "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+    "topics": [
+      "ai-agent",
+      "browser-agent",
+      "browser-automation",
+      "cdp",
+      "llm",
+      "typescript",
+      "web-automation"
+    ],
+    "html_url": "https://github.com/outcrawlai/scout",
+    "stargazers_count": 945,
+    "language": "TypeScript",
+    "forks_count": 29,
+    "open_issues_count": 4,
+    "created_at": "2026-10-13T09:18:55Z",
+    "updated_at": "2026-10-19T00:59:37Z",
+    "pushed_at": "2026-10-19T00:59:33Z"
+  },
+  {
+    "id": 1422399929,
+    "name": "xscreensaver",
+    "full_name": "xscreensaver-official/xscreensaver",
+    "owner": {
+      "login": "xscreensaver-official",
+      "avatar_url": "https://avatars.githubusercontent.com/u/343638566?v=4"
+    },
+    "description": "There is no official XScreenSaver GitHub repository.",
+    "topics": [],
+    "html_url": "https://github.com/xscreensaver-official/xscreensaver",
+    "stargazers_count": 867,
+    "language": null,
+    "forks_count": 24,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T16:24:44Z",
+    "updated_at": "2026-10-19T01:54:48Z",
+    "pushed_at": "2026-10-16T16:29:21Z"
+  },
+  {
+    "id": 1423689866,
+    "name": "MacNativeGames",
+    "full_name": "ly05010419/MacNativeGames",
+    "owner": {
+      "login": "ly05010419",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1425386?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/ly05010419/MacNativeGames",
+    "stargazers_count": 858,
+    "language": "C",
+    "forks_count": 126,
+    "open_issues_count": 12,
+    "created_at": "2026-10-17T19:52:00Z",
+    "updated_at": "2026-10-19T01:58:07Z",
+    "pushed_at": "2026-10-18T20:23:13Z"
+  },
+  {
+    "id": 1417411861,
+    "name": "gptibo",
+    "full_name": "CoolkHz/gptibo",
+    "owner": {
+      "login": "CoolkHz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34871925?v=4"
+    },
+    "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+    "topics": [],
+    "html_url": "https://github.com/CoolkHz/gptibo",
+    "stargazers_count": 828,
+    "language": "TypeScript",
+    "forks_count": 496,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T15:57:19Z",
+    "updated_at": "2026-10-19T01:46:58Z",
+    "pushed_at": "2026-10-14T02:40:46Z"
+  },
+  {
+    "id": 1420305104,
+    "name": "earshot",
+    "full_name": "Leonxlnx/earshot",
+    "owner": {
+      "login": "Leonxlnx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+    },
+    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "topics": [
+      "ai-agents",
+      "audio",
+      "claude-code",
+      "mcp",
+      "sound-design"
+    ],
+    "html_url": "https://github.com/Leonxlnx/earshot",
+    "stargazers_count": 823,
+    "language": "Python",
+    "forks_count": 50,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T06:52:46Z",
+    "updated_at": "2026-10-19T01:58:29Z",
+    "pushed_at": "2026-10-18T07:22:49Z"
+  },
+  {
+    "id": 1420743720,
+    "name": "Hy-Memory",
+    "full_name": "Tencent-Hunyuan/Hy-Memory",
+    "owner": {
+      "login": "Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+    "stargazers_count": 803,
+    "language": "Python",
+    "forks_count": 68,
+    "open_issues_count": 25,
+    "created_at": "2026-10-15T13:06:56Z",
+    "updated_at": "2026-10-19T01:59:12Z",
+    "pushed_at": "2026-10-18T14:30:24Z"
+  },
+  {
+    "id": 1418155445,
+    "name": "overdrive",
+    "full_name": "MyLuxy/overdrive",
+    "owner": {
+      "login": "MyLuxy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240354279?v=4"
+    },
+    "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+    "topics": [
+      "exfat",
+      "game-store",
+      "homebrew",
+      "jailbreak",
+      "ps5",
+      "ps5-homebrew",
+      "reverse-engineering",
+      "shadowmountplus"
+    ],
+    "html_url": "https://github.com/MyLuxy/overdrive",
+    "stargazers_count": 794,
+    "language": "C++",
+    "forks_count": 184,
+    "open_issues_count": 9,
+    "created_at": "2026-10-14T00:07:08Z",
+    "updated_at": "2026-10-19T01:53:43Z",
+    "pushed_at": "2026-10-19T01:27:48Z"
+  }
+]

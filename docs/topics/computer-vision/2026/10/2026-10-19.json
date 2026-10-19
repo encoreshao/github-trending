@@ -1,0 +1,603 @@
+[
+  {
+    "id": 1420107446,
+    "name": "brandpose",
+    "full_name": "escudero/brandpose",
+    "owner": {
+      "login": "escudero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31652?v=4"
+    },
+    "description": "Personal project: where shoppers look, estimated from an ordinary security camera and open source AI (YOLO11, Gaze-LLE, Depth Anything V2)",
+    "topics": [
+      "3d-reconstruction",
+      "blender",
+      "camera-calibration",
+      "cctv",
+      "computer-vision",
+      "depth-anything",
+      "depth-estimation",
+      "gaze-estimation",
+      "people-tracking",
+      "pose-estimation",
+      "python",
+      "retail-analytics",
+      "video-analytics",
+      "yolo11"
+    ],
+    "html_url": "https://github.com/escudero/brandpose",
+    "stargazers_count": 100,
+    "language": "Python",
+    "forks_count": 24,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T03:11:47Z",
+    "updated_at": "2026-10-19T01:42:41Z",
+    "pushed_at": "2026-10-19T01:22:53Z"
+  },
+  {
+    "id": 1422962789,
+    "name": "harshpreet-hand",
+    "full_name": "harshpreet931/harshpreet-hand",
+    "owner": {
+      "login": "harshpreet931",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122544630?v=4"
+    },
+    "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "computer-networks",
+      "computer-vision",
+      "font",
+      "fonttools",
+      "generative-ai",
+      "handwriting",
+      "handwriting-font",
+      "notes",
+      "open-font-license",
+      "opencv",
+      "opentype",
+      "python",
+      "remotion",
+      "ttf",
+      "typography",
+      "webfont",
+      "woff2"
+    ],
+    "html_url": "https://github.com/harshpreet931/harshpreet-hand",
+    "stargazers_count": 37,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T05:00:41Z",
+    "updated_at": "2026-10-18T16:00:55Z",
+    "pushed_at": "2026-10-17T05:01:54Z"
+  },
+  {
+    "id": 1415534440,
+    "name": "vh-toolbox",
+    "full_name": "gerardponsmoll/vh-toolbox",
+    "owner": {
+      "login": "gerardponsmoll",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31319705?v=4"
+    },
+    "description": "Interactive demos for the Virtual Humans lecture (University of Tübingen): SMPL viewer with shape and pose controls",
+    "topics": [
+      "computer-vision",
+      "smpl",
+      "teaching",
+      "virtual-humans"
+    ],
+    "html_url": "https://github.com/gerardponsmoll/vh-toolbox",
+    "stargazers_count": 23,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T11:55:41Z",
+    "updated_at": "2026-10-16T14:14:48Z",
+    "pushed_at": "2026-10-12T19:09:33Z"
+  },
+  {
+    "id": 1420417569,
+    "name": "ReText",
+    "full_name": "timmzak/ReText",
+    "owner": {
+      "login": "timmzak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6562928?v=4"
+    },
+    "description": "ReText: Text Boosts Generalization in Image-Based Person Re-identification",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "person-re-identification"
+    ],
+    "html_url": "https://github.com/timmzak/ReText",
+    "stargazers_count": 21,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-15T08:41:36Z",
+    "updated_at": "2026-10-18T08:52:30Z",
+    "pushed_at": "2026-10-16T09:25:59Z"
+  },
+  {
+    "id": 1423946886,
+    "name": "mvkit",
+    "full_name": "maaazhuang/mvkit",
+    "owner": {
+      "login": "maaazhuang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151714682?v=4"
+    },
+    "description": "Industrial machine vision library with C11 and C++14 APIs.",
+    "topics": [
+      "3d-reconstruction",
+      "camera-calibration",
+      "computer-vision",
+      "image-processing",
+      "machine-vision",
+      "template-matching"
+    ],
+    "html_url": "https://github.com/maaazhuang/mvkit",
+    "stargazers_count": 11,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T03:15:48Z",
+    "updated_at": "2026-10-19T01:47:07Z",
+    "pushed_at": "2026-10-18T03:22:50Z"
+  },
+  {
+    "id": 1420742080,
+    "name": "stolen-bike-watch",
+    "full_name": "mintcloud/stolen-bike-watch",
+    "owner": {
+      "login": "mintcloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1436242?v=4"
+    },
+    "description": "Finds a stolen bike on second-hand marketplaces by ranking photos, not keywords — a CLIP pre-gate in front of a vision-LLM recognition pass. ~900 listings/day → ~4 worth looking at, $14/mo.",
+    "topics": [
+      "anthropic",
+      "bike-theft",
+      "claude",
+      "clip",
+      "computer-vision",
+      "marketplace-monitor",
+      "milanuncios",
+      "stolen-bike",
+      "vision-language-model",
+      "wallapop"
+    ],
+    "html_url": "https://github.com/mintcloud/stolen-bike-watch",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T13:05:45Z",
+    "updated_at": "2026-10-19T00:37:31Z",
+    "pushed_at": "2026-10-16T14:02:41Z"
+  },
+  {
+    "id": 1424326467,
+    "name": "SciForge",
+    "full_name": "sddzlsc/SciForge",
+    "owner": {
+      "login": "sddzlsc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31798901?v=4"
+    },
+    "description": "Local-first research agent harness for deep learning: literature → reading → ideas → GPU experiments → papers & publication figures. DeepSeek-powered, custom OpenAI-compatible LLMs, SSH GPU orchestration.",
+    "topics": [
+      "agent-harness",
+      "arxiv",
+      "computer-vision",
+      "deep-learning",
+      "deepseek",
+      "fastapi",
+      "gpu",
+      "literature-review",
+      "llm",
+      "nlp",
+      "paper-writing",
+      "python",
+      "research-agent",
+      "scientific-research"
+    ],
+    "html_url": "https://github.com/sddzlsc/SciForge",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T12:03:32Z",
+    "updated_at": "2026-10-19T01:28:50Z",
+    "pushed_at": "2026-10-18T14:40:40Z"
+  },
+  {
+    "id": 1420092707,
+    "name": "pid-parser",
+    "full_name": "dzakybd/pid-parser",
+    "owner": {
+      "login": "dzakybd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8055093?v=4"
+    },
+    "description": "Turn a P&ID drawing into data you can ask: SQL + graph for people and AI agents. Skill for coding agents and a LangChain Deep Agents version.",
+    "topics": [
+      "agent-skills",
+      "computer-vision",
+      "knowledge-graph",
+      "langchain",
+      "pid"
+    ],
+    "html_url": "https://github.com/dzakybd/pid-parser",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T02:53:34Z",
+    "updated_at": "2026-10-17T11:05:48Z",
+    "pushed_at": "2026-10-15T16:38:20Z"
+  },
+  {
+    "id": 1424375213,
+    "name": "DuckBuddy",
+    "full_name": "Animan-AI/DuckBuddy",
+    "owner": {
+      "login": "Animan-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173772376?v=4"
+    },
+    "description": "Your real-life buddy duck: an open-source embodied AI robot duck that walks, hears, sees, and has a life of its own. 让 DuckBuddy 成为你真正的生活伙伴鸭：开源具身智能小鸭机器人，运动、语音、视觉与生命层全部跑在机器人自己身上。Feetech servos + Orange Pi Zero 3W, built on Pollen Robotics' Microduck (unofficial).",
+    "topics": [
+      "biped-robot",
+      "computer-vision",
+      "embodied-ai",
+      "feetech",
+      "microduck",
+      "open-source-hardware",
+      "orange-pi",
+      "reinforcement-learning",
+      "robotics",
+      "speech-recognition"
+    ],
+    "html_url": "https://github.com/Animan-AI/DuckBuddy",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T12:57:22Z",
+    "updated_at": "2026-10-19T01:36:02Z",
+    "pushed_at": "2026-10-19T00:33:01Z"
+  },
+  {
+    "id": 1418893305,
+    "name": "secretly-elastic",
+    "full_name": "WalterSimoncini/secretly-elastic",
+    "owner": {
+      "login": "WalterSimoncini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5881915?v=4"
+    },
+    "description": "Code for the paper \"Your Transformer Is Secretly Elastic\"",
+    "topics": [
+      "computer-vision",
+      "embeddings",
+      "inference",
+      "machinelearning",
+      "pruning",
+      "retrieval"
+    ],
+    "html_url": "https://github.com/WalterSimoncini/secretly-elastic",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-14T12:42:31Z",
+    "updated_at": "2026-10-16T08:49:15Z",
+    "pushed_at": "2026-10-14T20:54:40Z"
+  },
+  {
+    "id": 1423797634,
+    "name": "zorya-classifier",
+    "full_name": "zoomplus/zorya-classifier",
+    "owner": {
+      "login": "zoomplus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15846052?v=4"
+    },
+    "description": "Provider-independent TypeScript classification with native decision and ordinary vision models; coarse-to-fine object localization. MIT.",
+    "topics": [
+      "classification",
+      "computer-vision",
+      "deep-learning",
+      "image-classification",
+      "npm-package",
+      "object-detection",
+      "typescript"
+    ],
+    "html_url": "https://github.com/zoomplus/zorya-classifier",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T22:20:01Z",
+    "updated_at": "2026-10-18T16:42:41Z",
+    "pushed_at": "2026-10-17T23:18:29Z"
+  },
+  {
+    "id": 1420134350,
+    "name": "Awesome-Vision-Language-AI",
+    "full_name": "ishandutta2007/Awesome-Vision-Language-AI",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top Vision Language AI (Opensource)  Star if you like it! ",
+    "topics": [
+      "awesome-list",
+      "computer-vision",
+      "curated-list",
+      "multimodal-ai",
+      "multimodal-llm",
+      "vision-language",
+      "vision-language-models"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-Vision-Language-AI",
+    "stargazers_count": 3,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-15T03:46:35Z",
+    "updated_at": "2026-10-15T11:01:39Z",
+    "pushed_at": "2026-10-15T11:02:39Z"
+  },
+  {
+    "id": 1422001731,
+    "name": "stereo-camera-iphone",
+    "full_name": "francescopeluso/stereo-camera-iphone",
+    "owner": {
+      "login": "francescopeluso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59664699?v=4"
+    },
+    "description": "Real-time stereo depth on iPhone using the wide + ultra-wide cameras. Rectification and SGM matching written from scratch in Metal, plus YOLO11n-seg object segmentation with distance estimation. A personal study project for Artificial Vision.",
+    "topics": [
+      "computer-vision",
+      "depth-map",
+      "instance-segmentation",
+      "ios",
+      "stereo-vision",
+      "swift"
+    ],
+    "html_url": "https://github.com/francescopeluso/stereo-camera-iphone",
+    "stargazers_count": 3,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T10:20:41Z",
+    "updated_at": "2026-10-17T12:58:36Z",
+    "pushed_at": "2026-10-17T20:05:11Z"
+  },
+  {
+    "id": 1424485982,
+    "name": "multilingual-prescription-intelligence",
+    "full_name": "laalaalaee/multilingual-prescription-intelligence",
+    "owner": {
+      "login": "laalaalaee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107997024?v=4"
+    },
+    "description": "AI-Powered Multilingual Prescription Intelligence System: reads handwritten prescriptions with TrOCR, flags drug interactions, and translates the result to Hindi or French. FastAPI, PyTorch, MySQL.",
+    "topics": [
+      "computer-vision",
+      "drug-interactions",
+      "fastapi",
+      "handwriting-recognition",
+      "healthcare",
+      "machine-translation",
+      "mysql",
+      "nlp",
+      "ocr",
+      "python",
+      "pytorch",
+      "student-project",
+      "transformers",
+      "trocr"
+    ],
+    "html_url": "https://github.com/laalaalaee/multilingual-prescription-intelligence",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T14:53:13Z",
+    "updated_at": "2026-10-18T18:23:25Z",
+    "pushed_at": "2026-10-18T15:11:20Z"
+  },
+  {
+    "id": 1415728180,
+    "name": "JacobianAvatar",
+    "full_name": "wcy199705/JacobianAvatar",
+    "owner": {
+      "login": "wcy199705",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88014820?v=4"
+    },
+    "description": "[ECCV 2026] JacobianAvatar: Temporally Consistent Semi-rigid Avatar Reconstruction from a Monocular Video",
+    "topics": [
+      "avatar",
+      "computer-vision",
+      "eccv2026",
+      "human-reconstruction",
+      "non-rigid-deformation"
+    ],
+    "html_url": "https://github.com/wcy199705/JacobianAvatar",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T14:39:07Z",
+    "updated_at": "2026-10-15T03:32:48Z",
+    "pushed_at": "2026-10-12T14:54:58Z"
+  },
+  {
+    "id": 1415489138,
+    "name": "EllipseForeground",
+    "full_name": "routersys/EllipseForeground",
+    "owner": {
+      "login": "routersys",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219506782?v=4"
+    },
+    "description": "楕円で大まかに指定した範囲から、画像の前景のアルファマットを求めるPythonのライブラリ。論文、評価のコード、評価の結果も収録しています。",
+    "topics": [
+      "alpha-matting",
+      "computer-vision",
+      "dynamic-programming",
+      "foreground-extraction",
+      "hierarchical-segmentation",
+      "image-processing",
+      "image-segmentation",
+      "numpy",
+      "python",
+      "reproducible-research",
+      "single-linkage"
+    ],
+    "html_url": "https://github.com/routersys/EllipseForeground",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T11:19:40Z",
+    "updated_at": "2026-10-14T23:22:07Z",
+    "pushed_at": "2026-10-14T23:22:02Z"
+  },
+  {
+    "id": 1422298949,
+    "name": "hoflow",
+    "full_name": "zerchen/hoflow",
+    "owner": {
+      "login": "zerchen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34809134?v=4"
+    },
+    "description": "HO-Flow: Generalizable Hand-Object Interaction Generation with Latent Flow Matching, ECCV 2026",
+    "topics": [
+      "computer-vision",
+      "embodied-ai",
+      "robotics"
+    ],
+    "html_url": "https://github.com/zerchen/hoflow",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T14:53:43Z",
+    "updated_at": "2026-10-17T02:36:03Z",
+    "pushed_at": "2026-10-16T15:53:43Z"
+  },
+  {
+    "id": 1418475439,
+    "name": "Lannotex",
+    "full_name": "Lourdhu02/Lannotex",
+    "owner": {
+      "login": "Lourdhu02",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109408033?v=4"
+    },
+    "description": "Fast, offline-first image annotation for boxes, polygons and classes. Free, MIT, LabelMe-compatible; exports YOLO, COCO, Labelme and CSV.",
+    "topics": [
+      "annotation-tool",
+      "coco",
+      "computer-vision",
+      "data-labeling",
+      "dataset",
+      "desktop-app",
+      "image-annotation",
+      "image-segmentation",
+      "labeling-tool",
+      "labelme",
+      "machine-learning",
+      "object-detection",
+      "offline-first",
+      "pyside6",
+      "qt",
+      "yolo"
+    ],
+    "html_url": "https://github.com/Lourdhu02/Lannotex",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T06:29:29Z",
+    "updated_at": "2026-10-14T18:44:16Z",
+    "pushed_at": "2026-10-14T18:49:39Z"
+  },
+  {
+    "id": 1416274868,
+    "name": "pharmai-vision",
+    "full_name": "Nikhil-creat/pharmai-vision",
+    "owner": {
+      "login": "Nikhil-creat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123522558?v=4"
+    },
+    "description": "Agentic AI medicine assistant: scan packs/pills with vision AI, FDA-grounded answers, interaction checker, medicine cabinet with reminders, voice in EN/TE/HI. Groq + openFDA. Designed & developed by NIKHIL CHARY SRIRAMOJU.",
+    "topics": [
+      "agentic-ai",
+      "ai-assistants",
+      "cnn",
+      "computer-vision",
+      "docker",
+      "fastapi",
+      "github-pages",
+      "graphrag",
+      "groq",
+      "healthcare",
+      "langgraph",
+      "llm",
+      "medicine",
+      "nikhilcharysriramoju",
+      "openfda",
+      "pharmai-vision",
+      "pill-identifier",
+      "pwa",
+      "qdrant",
+      "rag"
+    ],
+    "html_url": "https://github.com/Nikhil-creat/pharmai-vision",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T00:39:39Z",
+    "updated_at": "2026-10-18T04:11:04Z",
+    "pushed_at": "2026-10-13T01:06:31Z"
+  },
+  {
+    "id": 1423169328,
+    "name": "mohammad-javad-asadi",
+    "full_name": "mohammad-javad-asadi/mohammad-javad-asadi",
+    "owner": {
+      "login": "mohammad-javad-asadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297095305?v=4"
+    },
+    "description": "Founder & Systems Architect @RyNxt. M.Sc. in CE. Low-level OS kernel optimization, DirectStorage, C++ & real-time pathology AI researcher.",
+    "topics": [
+      "computer-vision",
+      "cpp",
+      "deep-learning",
+      "diffusion-models",
+      "directstorage",
+      "dpc-latency",
+      "electronjs",
+      "full-stack",
+      "kernel-optimization",
+      "low-latency",
+      "mongodb",
+      "nextjs",
+      "nodejs",
+      "performance-tuning",
+      "pytorch",
+      "rynxt",
+      "systems-architecture",
+      "tensorrt",
+      "u-net",
+      "virtual-staining"
+    ],
+    "html_url": "https://github.com/mohammad-javad-asadi/mohammad-javad-asadi",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T09:40:50Z",
+    "updated_at": "2026-10-17T13:16:17Z",
+    "pushed_at": "2026-10-17T09:54:18Z"
+  }
+]

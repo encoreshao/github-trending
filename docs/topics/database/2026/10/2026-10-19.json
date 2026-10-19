@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1421490995,
+    "name": "kividb",
+    "full_name": "kividbio/kividb",
+    "owner": {
+      "login": "kividbio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263324995?v=4"
+    },
+    "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
+    "topics": [
+      "cache",
+      "database",
+      "dragonfly-alternative",
+      "drop-in-replacement",
+      "full-text-search",
+      "high-performance",
+      "in-memory",
+      "io-uring",
+      "key-value-store",
+      "kividb",
+      "multithreaded",
+      "nosql",
+      "redis",
+      "redis-alternative",
+      "redis-compatible",
+      "resp",
+      "rust",
+      "valkey",
+      "vector-database",
+      "vector-search"
+    ],
+    "html_url": "https://github.com/kividbio/kividb",
+    "stargazers_count": 118,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 12,
+    "created_at": "2026-10-16T01:07:52Z",
+    "updated_at": "2026-10-19T01:37:38Z",
+    "pushed_at": "2026-10-18T18:57:26Z"
+  },
+  {
+    "id": 1420029613,
+    "name": "tarndb",
+    "full_name": "ReazGan/tarndb",
+    "owner": {
+      "login": "ReazGan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93791503?v=4"
+    },
+    "description": "Crash-safe embedded key-value store in C",
+    "topics": [
+      "c",
+      "database",
+      "key-value-store",
+      "storage-engine"
+    ],
+    "html_url": "https://github.com/ReazGan/tarndb",
+    "stargazers_count": 49,
+    "language": "C",
+    "forks_count": 21,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T01:28:07Z",
+    "updated_at": "2026-10-16T18:32:37Z",
+    "pushed_at": "2026-10-15T01:46:46Z"
+  },
+  {
+    "id": 1418293209,
+    "name": "kastor-dbeaver-ai-chat",
+    "full_name": "EduardoRocha234/kastor-dbeaver-ai-chat",
+    "owner": {
+      "login": "EduardoRocha234",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96595059?v=4"
+    },
+    "description": "Chatbot de IA integrado ao DBeaver, que permite conectar qualquer modelo.",
+    "topics": [
+      "ai",
+      "chat",
+      "chat-application",
+      "chatbot",
+      "database",
+      "database-design",
+      "database-management",
+      "database-schema",
+      "database-tools",
+      "dbeaver",
+      "dbeaver-mcp",
+      "dbeaver-plugin",
+      "dbeaver-windows",
+      "openia-api"
+    ],
+    "html_url": "https://github.com/EduardoRocha234/kastor-dbeaver-ai-chat",
+    "stargazers_count": 4,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T03:08:53Z",
+    "updated_at": "2026-10-17T15:58:12Z",
+    "pushed_at": "2026-10-14T22:25:55Z"
+  },
+  {
+    "id": 1415330036,
+    "name": "darudb-studio",
+    "full_name": "jooy2/darudb-studio",
+    "owner": {
+      "login": "jooy2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48266008?v=4"
+    },
+    "description": "DaruDB keeps an application's data in one local file. DaruDB Studio is the app for looking inside that file: open it, read its collections and objects, and change them, without writing a program to do it. It runs on Windows, macOS and Linux, and reads the same file whichever language wrote it.",
+    "topics": [
+      "database",
+      "database-management",
+      "electron-app",
+      "electron-application",
+      "electron-apps",
+      "local-data-storage",
+      "local-database",
+      "local-databases"
+    ],
+    "html_url": "https://github.com/jooy2/darudb-studio",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T08:55:39Z",
+    "updated_at": "2026-10-15T02:15:02Z",
+    "pushed_at": "2026-10-15T02:14:58Z"
+  },
+  {
+    "id": 1423619795,
+    "name": "dbeast_manager",
+    "full_name": "macolszewski/dbeast_manager",
+    "owner": {
+      "login": "macolszewski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41488459?v=4"
+    },
+    "description": "Fast native database client for PostgreSQL, MySQL and SQLite, written in Rust: SQL console, editable result grid, query plans, schema graph, data transfer and a secure MCP server for AI agents.",
+    "topics": [
+      "ai-agents",
+      "database",
+      "database-client",
+      "desktop-app",
+      "developer-tools",
+      "egui",
+      "gui",
+      "mcp",
+      "model-context-protocol",
+      "mysql",
+      "postgresql",
+      "rust",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/macolszewski/dbeast_manager",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T18:21:16Z",
+    "updated_at": "2026-10-18T16:46:44Z",
+    "pushed_at": "2026-10-18T16:46:40Z"
+  },
+  {
+    "id": 1422830275,
+    "name": "txbypass",
+    "full_name": "mpyw/txbypass",
+    "owner": {
+      "login": "mpyw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1351893?v=4"
+    },
+    "description": "Go linter that reports a database handle used from inside a transaction it bypasses",
+    "topics": [
+      "bun",
+      "database",
+      "go",
+      "go-analysis",
+      "golang",
+      "gorm",
+      "linter",
+      "mongodb",
+      "pgx",
+      "sql",
+      "static-analysis",
+      "transaction"
+    ],
+    "html_url": "https://github.com/mpyw/txbypass",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 7,
+    "created_at": "2026-10-17T01:16:31Z",
+    "updated_at": "2026-10-18T12:08:47Z",
+    "pushed_at": "2026-10-18T01:15:37Z"
+  },
+  {
+    "id": 1416176477,
+    "name": "dbfromscratch",
+    "full_name": "shellhaki/dbfromscratch",
+    "owner": {
+      "login": "shellhaki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165590443?v=4"
+    },
+    "description": "A SQL database written from scratch in Go, using only the standard library.",
+    "topics": [
+      "database",
+      "sql"
+    ],
+    "html_url": "https://github.com/shellhaki/dbfromscratch",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T22:05:43Z",
+    "updated_at": "2026-10-13T06:36:03Z",
+    "pushed_at": "2026-10-12T22:06:30Z"
+  },
+  {
+    "id": 1415824466,
+    "name": "retro-rom-database",
+    "full_name": "Fractiontencapture/retro-rom-database",
+    "owner": {
+      "login": "Fractiontencapture",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320777413?v=4"
+    },
+    "description": "Organize and catalog your classic video game library with an intuitive, searchable retro gaming database software. Fetch game metadata, track ROM collections, and launch your favorite retro titles seamlessly across multiple emulator platforms.",
+    "topics": [
+      "arcade",
+      "database",
+      "emulation",
+      "emulator-data",
+      "game-database",
+      "gamedata",
+      "gaming",
+      "launchbox",
+      "mame",
+      "metadata",
+      "no-intro",
+      "redump",
+      "retrogaming",
+      "rom-collection",
+      "rom-database",
+      "roms",
+      "screenscraper",
+      "thegamesdb",
+      "tosec"
+    ],
+    "html_url": "https://github.com/Fractiontencapture/retro-rom-database",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-12T16:00:13Z",
+    "updated_at": "2026-10-17T11:20:24Z",
+    "pushed_at": "2026-10-12T16:05:41Z"
+  },
+  {
+    "id": 1417053097,
+    "name": "violet",
+    "full_name": "KingTimer12/violet",
+    "owner": {
+      "login": "KingTimer12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40837742?v=4"
+    },
+    "description": "A modern, fast database client in the spirit of DBeaver, written in Rust.",
+    "topics": [
+      "database",
+      "database-gui",
+      "database-management",
+      "database-tools",
+      "databases",
+      "egui",
+      "fast",
+      "memory-safety",
+      "rust",
+      "rustlang",
+      "vibecoded",
+      "vibecoding"
+    ],
+    "html_url": "https://github.com/KingTimer12/violet",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T12:54:43Z",
+    "updated_at": "2026-10-16T18:00:56Z",
+    "pushed_at": "2026-10-16T18:49:07Z"
+  },
+  {
+    "id": 1423405734,
+    "name": "3DDB",
+    "full_name": "VincenzoManto/3DDB",
+    "owner": {
+      "login": "VincenzoManto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64726971?v=4"
+    },
+    "description": "3DDB - A database as a living 3D datacenter. Every query is a pulse. Every table is a rack. Every user walks the floor.",
+    "topics": [
+      "3d",
+      "data-science",
+      "database",
+      "mssql",
+      "mysql",
+      "postgresql",
+      "sql",
+      "threejs"
+    ],
+    "html_url": "https://github.com/VincenzoManto/3DDB",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T14:20:39Z",
+    "updated_at": "2026-10-18T09:53:36Z",
+    "pushed_at": "2026-10-18T08:46:39Z"
+  },
+  {
+    "id": 1416290904,
+    "name": "check-sql",
+    "full_name": "vericto/check-sql",
+    "owner": {
+      "login": "vericto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/295450070?v=4"
+    },
+    "description": "GitHub Action that checks the SQL in your pull requests against your Vericto rules and annotates findings with Code Scanning",
+    "topics": [
+      "ai-agents",
+      "ci",
+      "database",
+      "github-actions",
+      "migrations",
+      "mysql",
+      "postgres",
+      "security",
+      "sql"
+    ],
+    "html_url": "https://github.com/vericto/check-sql",
+    "stargazers_count": 2,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-13T01:05:03Z",
+    "updated_at": "2026-10-19T00:50:50Z",
+    "pushed_at": "2026-10-19T00:50:46Z"
+  },
+  {
+    "id": 1415946437,
+    "name": "run-cradle",
+    "full_name": "just-every/run-cradle",
+    "owner": {
+      "login": "just-every",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213184375?v=4"
+    },
+    "description": "Records, views and forms in one workspace. 100% free, open source alternative to Airtable and Smartsheet.",
+    "topics": [
+      "airtable-alternative",
+      "database",
+      "open-source",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/just-every/run-cradle",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 6,
+    "created_at": "2026-10-12T17:50:41Z",
+    "updated_at": "2026-10-19T00:03:37Z",
+    "pushed_at": "2026-10-19T00:03:32Z"
+  },
+  {
+    "id": 1424117777,
+    "name": "SPBT_DB",
+    "full_name": "DanyloKob/SPBT_DB",
+    "owner": {
+      "login": "DanyloKob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94801357?v=4"
+    },
+    "description": "Tiny embedded database for Node.js bots on small VPSes: LMDB-backed keys, indexes, TTL, a restart-proof scheduler and buffered counters. No server, no SQL, no UI, on purpose.",
+    "topics": [
+      "database",
+      "discord-bot",
+      "embedded-database",
+      "key-value-store",
+      "lmdb",
+      "nodejs",
+      "small-footprint",
+      "vps"
+    ],
+    "html_url": "https://github.com/DanyloKob/SPBT_DB",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T07:41:07Z",
+    "updated_at": "2026-10-18T10:24:40Z",
+    "pushed_at": "2026-10-18T09:59:21Z"
+  },
+  {
+    "id": 1418705635,
+    "name": "AETHERVAULT",
+    "full_name": "KINGODIN1124/AETHERVAULT",
+    "owner": {
+      "login": "KINGODIN1124",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226671098?v=4"
+    },
+    "description": "High-speed Steam depot manifest (.manifest) & Lua API Gateway. Providing instant manifest downloads, Lua configs, and high availability for tools and bots.",
+    "topics": [
+      "api-gateway",
+      "database",
+      "lua-scripts",
+      "manifest",
+      "manifest-v3",
+      "rest-api",
+      "steam",
+      "steam-manifest",
+      "steam-tools",
+      "steamcmd"
+    ],
+    "html_url": "https://github.com/KINGODIN1124/AETHERVAULT",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T10:02:16Z",
+    "updated_at": "2026-10-15T09:00:28Z",
+    "pushed_at": "2026-10-15T09:00:24Z"
+  },
+  {
+    "id": 1419967340,
+    "name": "encina",
+    "full_name": "merlimat/encina",
+    "owner": {
+      "login": "merlimat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62500?v=4"
+    },
+    "description": "encina is an embedded, ordered key-value store for Rust",
+    "topics": [
+      "database",
+      "keyvalue",
+      "rust"
+    ],
+    "html_url": "https://github.com/merlimat/encina",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-14T23:52:34Z",
+    "updated_at": "2026-10-18T16:34:45Z",
+    "pushed_at": "2026-10-19T00:57:15Z"
+  },
+  {
+    "id": 1421528597,
+    "name": "zoolife-banco-de-dados",
+    "full_name": "Vwhatrj/zoolife-banco-de-dados",
+    "owner": {
+      "login": "Vwhatrj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/335192398?v=4"
+    },
+    "description": "Banco de dados de uma rede de clínicas veterinárias em MariaDB (12 tabelas, dados fictícios) com API REST em FastAPI, login JWT e testes.",
+    "topics": [
+      "banco-de-dados",
+      "database",
+      "fastapi",
+      "jwt",
+      "mariadb",
+      "modelagem-de-dados",
+      "python",
+      "rest-api",
+      "sql"
+    ],
+    "html_url": "https://github.com/Vwhatrj/zoolife-banco-de-dados",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T02:02:53Z",
+    "updated_at": "2026-10-16T04:06:48Z",
+    "pushed_at": "2026-10-16T03:44:19Z"
+  },
+  {
+    "id": 1423101032,
+    "name": "dsh-db-studio",
+    "full_name": "mektpoy/dsh-db-studio",
+    "owner": {
+      "login": "mektpoy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31686206?v=4"
+    },
+    "description": "Database management plugin for DeepSeek Harness: SQLite and PostgreSQL connections, schema browser, SQL runner with a read-only guard, and a db tool the model can call.",
+    "topics": [
+      "database",
+      "deepseek-harness",
+      "dsh",
+      "plugin",
+      "postgres",
+      "postgresql",
+      "sql-client",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/mektpoy/dsh-db-studio",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T08:12:18Z",
+    "updated_at": "2026-10-17T15:11:54Z",
+    "pushed_at": "2026-10-17T15:10:38Z"
+  },
+  {
+    "id": 1423030614,
+    "name": "dbstudio",
+    "full_name": "firexsantos/dbstudio",
+    "owner": {
+      "login": "firexsantos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32186260?v=4"
+    },
+    "description": "Manajer database MySQL/MariaDB, PostgreSQL & SQLite — SSH tunnel, ERD, salin tabel antar server, schema sync. Web & desktop (Linux/Windows).",
+    "topics": [
+      "database",
+      "database-gui",
+      "electron",
+      "erd",
+      "mariadb",
+      "mysql",
+      "postgresql",
+      "sql-client",
+      "sqlite",
+      "ssh-tunnel"
+    ],
+    "html_url": "https://github.com/firexsantos/dbstudio",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T06:38:51Z",
+    "updated_at": "2026-10-17T11:31:35Z",
+    "pushed_at": "2026-10-17T11:16:22Z"
+  },
+  {
+    "id": 1421458796,
+    "name": "sql-cheatsheet",
+    "full_name": "Ezra-Zhao/sql-cheatsheet",
+    "owner": {
+      "login": "Ezra-Zhao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176055286?v=4"
+    },
+    "description": "SQL 速查表：30 条高频查询（JOIN/CTE/聚合/事务），全部实跑验证 | SQL cheatsheet — 30 essential queries, all executed & verified | 中文 · Español · Português",
+    "topics": [
+      "cheatsheet",
+      "database",
+      "mysql",
+      "postgresql",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/Ezra-Zhao/sql-cheatsheet",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T00:18:49Z",
+    "updated_at": "2026-10-16T00:19:02Z",
+    "pushed_at": "2026-10-16T00:18:56Z"
+  },
+  {
+    "id": 1415992262,
+    "name": "omp-postgresql",
+    "full_name": "itskoleban/omp-postgresql",
+    "owner": {
+      "login": "itskoleban",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205335121?v=4"
+    },
+    "description": "Asynchronous PostgreSQL component for open.mp, built with C++20 and libpq. Features prepared statements, parameterized queries, connection pooling, transactions, batch execution, callbacks, and automatic reconnection.",
+    "topics": [
+      "asynchronous",
+      "connection-pooling",
+      "cpp",
+      "cpp20",
+      "database",
+      "database-component",
+      "gta-san-andreas-dowload",
+      "libpq",
+      "multithreading",
+      "open-mp",
+      "openmp",
+      "pawn",
+      "postgresql",
+      "prepared-statements",
+      "transactions"
+    ],
+    "html_url": "https://github.com/itskoleban/omp-postgresql",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-12T18:35:14Z",
+    "updated_at": "2026-10-19T00:48:49Z",
+    "pushed_at": "2026-10-19T01:51:54Z"
+  }
+]
