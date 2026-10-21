@@ -1,0 +1,607 @@
+[
+  {
+    "id": 1421490995,
+    "name": "kividb",
+    "full_name": "kividbio/kividb",
+    "owner": {
+      "login": "kividbio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263324995?v=4"
+    },
+    "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
+    "topics": [
+      "cache",
+      "database",
+      "dragonfly-alternative",
+      "drop-in-replacement",
+      "full-text-search",
+      "high-performance",
+      "in-memory",
+      "io-uring",
+      "key-value-store",
+      "kividb",
+      "multithreaded",
+      "nosql",
+      "redis",
+      "redis-alternative",
+      "redis-compatible",
+      "resp",
+      "rust",
+      "valkey",
+      "vector-database",
+      "vector-search"
+    ],
+    "html_url": "https://github.com/kividbio/kividb",
+    "stargazers_count": 338,
+    "language": "Rust",
+    "forks_count": 11,
+    "open_issues_count": 15,
+    "created_at": "2026-10-16T01:07:52Z",
+    "updated_at": "2026-10-21T01:52:15Z",
+    "pushed_at": "2026-10-20T22:52:20Z"
+  },
+  {
+    "id": 1420886144,
+    "name": "ruvio",
+    "full_name": "salihcantekin/ruvio",
+    "owner": {
+      "login": "salihcantekin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17653555?v=4"
+    },
+    "description": "Redis-compatible, open-source in-memory database written in Rust. Multi-shard, 287 commands, clients for Rust, .NET, Go, Java, Python and Node.js",
+    "topics": [
+      "cache",
+      "database",
+      "nosql-database",
+      "redis",
+      "rust"
+    ],
+    "html_url": "https://github.com/salihcantekin/ruvio",
+    "stargazers_count": 131,
+    "language": "Rust",
+    "forks_count": 13,
+    "open_issues_count": 2,
+    "created_at": "2026-10-15T14:43:38Z",
+    "updated_at": "2026-10-21T01:19:33Z",
+    "pushed_at": "2026-10-20T23:58:16Z"
+  },
+  {
+    "id": 1420029613,
+    "name": "tarndb",
+    "full_name": "ReazGan/tarndb",
+    "owner": {
+      "login": "ReazGan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93791503?v=4"
+    },
+    "description": "Crash-safe embedded key-value store in C",
+    "topics": [
+      "c",
+      "database",
+      "key-value-store",
+      "storage-engine"
+    ],
+    "html_url": "https://github.com/ReazGan/tarndb",
+    "stargazers_count": 50,
+    "language": "C",
+    "forks_count": 21,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T01:28:07Z",
+    "updated_at": "2026-10-19T17:45:28Z",
+    "pushed_at": "2026-10-15T01:46:46Z"
+  },
+  {
+    "id": 1423297796,
+    "name": "noema",
+    "full_name": "Guembri01/noema",
+    "owner": {
+      "login": "Guembri01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100989581?v=4"
+    },
+    "description": "An original, open-source, self-hosted workspace for notes, docs and databases.",
+    "topics": [
+      "database",
+      "docs",
+      "local-first",
+      "nextjs",
+      "notes",
+      "notion-alternative",
+      "open-source",
+      "postgres",
+      "prisma",
+      "self-hosted",
+      "tauri",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Guembri01/noema",
+    "stargazers_count": 15,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 74,
+    "created_at": "2026-10-17T12:17:37Z",
+    "updated_at": "2026-10-21T01:13:18Z",
+    "pushed_at": "2026-10-21T01:41:01Z"
+  },
+  {
+    "id": 1423848232,
+    "name": "PractiSQL",
+    "full_name": "canyrtcn/PractiSQL",
+    "owner": {
+      "login": "canyrtcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200778076?v=4"
+    },
+    "description": "A desktop SQL learning workspace that brings local SQLite, an AI tutor, visual schemas and hands-on practice together through a coordinated AI harness.",
+    "topics": [
+      "ai-harness",
+      "ai-tutor",
+      "database",
+      "database-tools",
+      "education",
+      "educational-technology",
+      "electron",
+      "harness",
+      "harness-engineering",
+      "interactive-learning",
+      "learn-sql",
+      "learning",
+      "playground",
+      "sql",
+      "sql-learning",
+      "sqlite",
+      "text-to-sql",
+      "windows"
+    ],
+    "html_url": "https://github.com/canyrtcn/PractiSQL",
+    "stargazers_count": 12,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T23:57:24Z",
+    "updated_at": "2026-10-20T23:57:50Z",
+    "pushed_at": "2026-10-20T21:03:29Z"
+  },
+  {
+    "id": 1425571951,
+    "name": "genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "full_name": "alphaparkinc/genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Real-time Tarjan SCC cycle detection on lock Wait-For-Graphs with minimal-cost victim transaction arbitrator",
+    "topics": [
+      "agent-skills",
+      "concurrency-control",
+      "database",
+      "deadlock-detector",
+      "distributed-systems",
+      "lock-manager",
+      "mcp",
+      "python-standard-library",
+      "tarjan-scc",
+      "transaction-arbitrator",
+      "wait-for-graph"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T12:19:17Z",
+    "updated_at": "2026-10-19T12:19:53Z",
+    "pushed_at": "2026-10-19T12:19:54Z"
+  },
+  {
+    "id": 1425572819,
+    "name": "genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "full_name": "Alpha-Park/genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Real-time Tarjan SCC cycle detection on lock Wait-For-Graphs with minimal-cost victim transaction arbitrator",
+    "topics": [
+      "agent-skills",
+      "concurrency-control",
+      "database",
+      "deadlock-detector",
+      "distributed-systems",
+      "lock-manager",
+      "mcp",
+      "python-standard-library",
+      "tarjan-scc",
+      "transaction-arbitrator",
+      "wait-for-graph"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T12:20:01Z",
+    "updated_at": "2026-10-19T12:20:40Z",
+    "pushed_at": "2026-10-19T12:20:40Z"
+  },
+  {
+    "id": 1418654873,
+    "name": "tikv-python",
+    "full_name": "slavabobik/tikv-python",
+    "owner": {
+      "login": "slavabobik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4003346?v=4"
+    },
+    "description": "Pure-Python client for TiKV's raw key-value API — blocking and asyncio, no Rust toolchain",
+    "topics": [
+      "asyncio",
+      "database",
+      "grpc",
+      "key-value",
+      "python",
+      "rawkv",
+      "tikv"
+    ],
+    "html_url": "https://github.com/slavabobik/tikv-python",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 6,
+    "created_at": "2026-10-14T09:17:10Z",
+    "updated_at": "2026-10-20T14:26:00Z",
+    "pushed_at": "2026-10-19T09:08:17Z"
+  },
+  {
+    "id": 1418293209,
+    "name": "kastor-dbeaver-ai-chat",
+    "full_name": "EduardoRocha234/kastor-dbeaver-ai-chat",
+    "owner": {
+      "login": "EduardoRocha234",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96595059?v=4"
+    },
+    "description": "Chatbot de IA integrado ao DBeaver, que permite conectar qualquer modelo.",
+    "topics": [
+      "ai",
+      "chat",
+      "chat-application",
+      "chatbot",
+      "database",
+      "database-design",
+      "database-management",
+      "database-schema",
+      "database-tools",
+      "dbeaver",
+      "dbeaver-mcp",
+      "dbeaver-plugin",
+      "dbeaver-windows",
+      "openia-api"
+    ],
+    "html_url": "https://github.com/EduardoRocha234/kastor-dbeaver-ai-chat",
+    "stargazers_count": 4,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T03:08:53Z",
+    "updated_at": "2026-10-17T15:58:12Z",
+    "pushed_at": "2026-10-14T22:25:55Z"
+  },
+  {
+    "id": 1423619795,
+    "name": "dbeast_manager",
+    "full_name": "macolszewski/dbeast_manager",
+    "owner": {
+      "login": "macolszewski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41488459?v=4"
+    },
+    "description": "Fast native database client for PostgreSQL, MySQL and SQLite, written in Rust: SQL console, editable result grid, query plans, schema graph, data transfer and a secure MCP server for AI agents.",
+    "topics": [
+      "ai-agents",
+      "database",
+      "database-client",
+      "desktop-app",
+      "developer-tools",
+      "egui",
+      "gui",
+      "mcp",
+      "model-context-protocol",
+      "mysql",
+      "postgresql",
+      "rust",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/macolszewski/dbeast_manager",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T18:21:16Z",
+    "updated_at": "2026-10-20T16:48:45Z",
+    "pushed_at": "2026-10-20T07:44:39Z"
+  },
+  {
+    "id": 1422292816,
+    "name": "pgdeclare",
+    "full_name": "powertime-org/pgdeclare",
+    "owner": {
+      "login": "powertime-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/343580878?v=4"
+    },
+    "description": "Declarative Postgres schemas: diff the live database against your SQL files, with before/after migration blocks and a hash ledger.",
+    "topics": [
+      "cli",
+      "database",
+      "declarative",
+      "migrations",
+      "postgres",
+      "postgresql",
+      "python",
+      "schema",
+      "schema-diff"
+    ],
+    "html_url": "https://github.com/powertime-org/pgdeclare",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T14:48:35Z",
+    "updated_at": "2026-10-20T01:06:23Z",
+    "pushed_at": "2026-10-19T23:51:14Z"
+  },
+  {
+    "id": 1422830275,
+    "name": "txbypass",
+    "full_name": "mpyw/txbypass",
+    "owner": {
+      "login": "mpyw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1351893?v=4"
+    },
+    "description": "Go linter that reports a database handle used from inside a transaction it bypasses",
+    "topics": [
+      "bun",
+      "database",
+      "go",
+      "go-analysis",
+      "golang",
+      "gorm",
+      "linter",
+      "mongodb",
+      "pgx",
+      "sql",
+      "static-analysis",
+      "transaction"
+    ],
+    "html_url": "https://github.com/mpyw/txbypass",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 6,
+    "created_at": "2026-10-17T01:16:31Z",
+    "updated_at": "2026-10-19T18:06:29Z",
+    "pushed_at": "2026-10-19T18:13:16Z"
+  },
+  {
+    "id": 1423405734,
+    "name": "3DDB",
+    "full_name": "VincenzoManto/3DDB",
+    "owner": {
+      "login": "VincenzoManto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64726971?v=4"
+    },
+    "description": "3DDB - A database as a living 3D datacenter. Every query is a pulse. Every table is a rack. Every user walks the floor.",
+    "topics": [
+      "3d",
+      "data-science",
+      "database",
+      "mssql",
+      "mysql",
+      "postgresql",
+      "sql",
+      "threejs"
+    ],
+    "html_url": "https://github.com/VincenzoManto/3DDB",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T14:20:39Z",
+    "updated_at": "2026-10-20T16:27:39Z",
+    "pushed_at": "2026-10-18T08:46:39Z"
+  },
+  {
+    "id": 1420979399,
+    "name": "MiniBank_Cpp",
+    "full_name": "datasifaw/MiniBank_Cpp",
+    "owner": {
+      "login": "datasifaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183567756?v=4"
+    },
+    "description": "MiniBank - Simulation bancaire en C++",
+    "topics": [
+      "banking",
+      "bnp",
+      "bourse",
+      "cpp",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "dataset",
+      "inteligencia-artificial",
+      "paris",
+      "trade",
+      "transactions",
+      "virement-interac-ordre-interaction"
+    ],
+    "html_url": "https://github.com/datasifaw/MiniBank_Cpp",
+    "stargazers_count": 2,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T15:55:13Z",
+    "updated_at": "2026-10-20T15:54:23Z",
+    "pushed_at": "2026-10-20T15:54:18Z"
+  },
+  {
+    "id": 1424368037,
+    "name": "emerald-emd",
+    "full_name": "kfireliyahu/emerald-emd",
+    "owner": {
+      "login": "kfireliyahu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339485894?v=4"
+    },
+    "description": "The database under the chat: a local, file-based database you and an AI model fill together, where every table has real types and real checks. Desktop app and MCP server. No server, no account.",
+    "topics": [
+      "database",
+      "desktop-app",
+      "electron",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "sqlite",
+      "typescript"
+    ],
+    "html_url": "https://github.com/kfireliyahu/emerald-emd",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T12:50:24Z",
+    "updated_at": "2026-10-20T12:54:18Z",
+    "pushed_at": "2026-10-20T12:54:14Z"
+  },
+  {
+    "id": 1424117777,
+    "name": "SPBT_DB",
+    "full_name": "DanyloKob/SPBT_DB",
+    "owner": {
+      "login": "DanyloKob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94801357?v=4"
+    },
+    "description": "Tiny embedded database for Node.js bots on small VPSes: LMDB-backed keys, indexes, TTL, a restart-proof scheduler and buffered counters. No server, no SQL, no UI, on purpose.",
+    "topics": [
+      "database",
+      "discord-bot",
+      "embedded-database",
+      "key-value-store",
+      "lmdb",
+      "nodejs",
+      "small-footprint",
+      "vps"
+    ],
+    "html_url": "https://github.com/DanyloKob/SPBT_DB",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T07:41:07Z",
+    "updated_at": "2026-10-18T10:24:40Z",
+    "pushed_at": "2026-10-18T09:59:21Z"
+  },
+  {
+    "id": 1424174707,
+    "name": "dbiji",
+    "full_name": "ilhamnadhif/dbiji",
+    "owner": {
+      "login": "ilhamnadhif",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60680429?v=4"
+    },
+    "description": "Lightweight SQL database client for macOS, written entirely in Rust — a native DBeaver alternative for PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, ClickHouse and more.",
+    "topics": [
+      "database",
+      "dbeaver-alternative",
+      "egui",
+      "macos",
+      "mysql",
+      "postgresql",
+      "rust",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/ilhamnadhif/dbiji",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T08:53:42Z",
+    "updated_at": "2026-10-20T12:33:33Z",
+    "pushed_at": "2026-10-20T12:33:28Z"
+  },
+  {
+    "id": 1419967340,
+    "name": "encina",
+    "full_name": "merlimat/encina",
+    "owner": {
+      "login": "merlimat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62500?v=4"
+    },
+    "description": "encina is an embedded, ordered key-value store for Rust",
+    "topics": [
+      "database",
+      "keyvalue",
+      "rust"
+    ],
+    "html_url": "https://github.com/merlimat/encina",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-14T23:52:34Z",
+    "updated_at": "2026-10-20T23:30:29Z",
+    "pushed_at": "2026-10-20T23:30:24Z"
+  },
+  {
+    "id": 1423101032,
+    "name": "dsh-db-studio",
+    "full_name": "mektpoy/dsh-db-studio",
+    "owner": {
+      "login": "mektpoy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31686206?v=4"
+    },
+    "description": "Database management plugin for DeepSeek Harness: SQLite and PostgreSQL connections, schema browser, SQL runner with a read-only guard, and a db tool the model can call.",
+    "topics": [
+      "database",
+      "deepseek-harness",
+      "dsh",
+      "plugin",
+      "postgres",
+      "postgresql",
+      "sql-client",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/mektpoy/dsh-db-studio",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T08:12:18Z",
+    "updated_at": "2026-10-17T15:11:54Z",
+    "pushed_at": "2026-10-17T15:10:38Z"
+  },
+  {
+    "id": 1423030614,
+    "name": "dbstudio",
+    "full_name": "firexsantos/dbstudio",
+    "owner": {
+      "login": "firexsantos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32186260?v=4"
+    },
+    "description": "Manajer database MySQL/MariaDB, PostgreSQL & SQLite — SSH tunnel, ERD, salin tabel antar server, schema sync. Web & desktop (Linux/Windows).",
+    "topics": [
+      "database",
+      "database-gui",
+      "electron",
+      "erd",
+      "mariadb",
+      "mysql",
+      "postgresql",
+      "sql-client",
+      "sqlite",
+      "ssh-tunnel"
+    ],
+    "html_url": "https://github.com/firexsantos/dbstudio",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T06:38:51Z",
+    "updated_at": "2026-10-17T11:31:35Z",
+    "pushed_at": "2026-10-17T11:16:22Z"
+  }
+]

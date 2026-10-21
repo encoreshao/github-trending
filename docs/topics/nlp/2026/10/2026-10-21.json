@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1422850523,
+    "name": "Xing4.0-29B-Intent",
+    "full_name": "XingChen-AGI/Xing4.0-29B-Intent",
+    "owner": {
+      "login": "XingChen-AGI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321774266?v=4"
+    },
+    "description": "Xing4.0-29B-Intent - schema-guided intent recognition and structured information extraction (intent and slot filling, entity, relation and event extraction). A 29B MoE with 4B activated parameters, Apache-2.0.",
+    "topics": [
+      "information-extraction",
+      "intent-recognition",
+      "llm",
+      "moe",
+      "nlp",
+      "schema-guided"
+    ],
+    "html_url": "https://github.com/XingChen-AGI/Xing4.0-29B-Intent",
+    "stargazers_count": 15,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T01:54:24Z",
+    "updated_at": "2026-10-20T07:56:36Z",
+    "pushed_at": "2026-10-19T09:59:50Z"
+  },
+  {
+    "id": 1418392145,
+    "name": "train-jev",
+    "full_name": "shibing624/train-jev",
+    "owner": {
+      "login": "shibing624",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10249622?v=4"
+    },
+    "description": "Train JEV-style System 1 decision models on Qwen3.5 and Qwen3.8-27B: 24-slot decision head, KL distillation, calibration and serving. 在 Qwen 上训练 JEV 风格的 System 1 决策模型。",
+    "topics": [
+      "calibration",
+      "decision-model",
+      "distillation",
+      "fine-tuning",
+      "llm",
+      "lora",
+      "nlp",
+      "pytorch",
+      "qwen",
+      "qwen3"
+    ],
+    "html_url": "https://github.com/shibing624/train-jev",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-10-14T05:05:23Z",
+    "updated_at": "2026-10-20T09:47:41Z",
+    "pushed_at": "2026-10-19T10:21:39Z"
+  },
+  {
+    "id": 1424326467,
+    "name": "SciForge",
+    "full_name": "sddzlsc/SciForge",
+    "owner": {
+      "login": "sddzlsc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31798901?v=4"
+    },
+    "description": "Local-first research agent harness for deep learning: literature → reading → ideas → GPU experiments → papers & publication figures. DeepSeek-powered, custom OpenAI-compatible LLMs, SSH GPU orchestration.",
+    "topics": [
+      "agent-harness",
+      "arxiv",
+      "computer-vision",
+      "deep-learning",
+      "deepseek",
+      "fastapi",
+      "gpu",
+      "literature-review",
+      "llm",
+      "nlp",
+      "paper-writing",
+      "python",
+      "research-agent",
+      "scientific-research"
+    ],
+    "html_url": "https://github.com/sddzlsc/SciForge",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T12:03:32Z",
+    "updated_at": "2026-10-19T23:01:15Z",
+    "pushed_at": "2026-10-18T14:40:40Z"
+  },
+  {
+    "id": 1426922503,
+    "name": "genpark-entropy-hallucination-detector-skill",
+    "full_name": "alphaparkinc/genpark-entropy-hallucination-detector-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Token entropy and n-gram perplexity analyzer auditing LLM outputs for degenerate repetition loops and vocabulary collapse",
+    "topics": [
+      "agent-skills",
+      "ai-safety",
+      "guardrails",
+      "hallucination-detection",
+      "llm-evaluation",
+      "mcp",
+      "nlp",
+      "perplexity",
+      "python-standard-library",
+      "shannon-entropy",
+      "token-analyzer"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-entropy-hallucination-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T11:23:11Z",
+    "updated_at": "2026-10-20T11:23:52Z",
+    "pushed_at": "2026-10-20T11:23:54Z"
+  },
+  {
+    "id": 1426918565,
+    "name": "genpark-jinja-like-prompt-template-renderer-skill",
+    "full_name": "alphaparkinc/genpark-jinja-like-prompt-template-renderer-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Safe zero-dependency Jinja-like prompt template parser and renderer supporting for-loops, if-conditions, and variables",
+    "topics": [
+      "agent-skills",
+      "jinja",
+      "llm-tools",
+      "mcp",
+      "nlp",
+      "prompt-engineering",
+      "prompt-renderer",
+      "python-standard-library",
+      "string-formatting",
+      "template-engine",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-jinja-like-prompt-template-renderer-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T11:19:35Z",
+    "updated_at": "2026-10-20T11:20:17Z",
+    "pushed_at": "2026-10-20T11:20:20Z"
+  },
+  {
+    "id": 1425889111,
+    "name": "genpark-few-shot-mmr-diversity-selector-skill",
+    "full_name": "Alpha-Park/genpark-few-shot-mmr-diversity-selector-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Maximal Marginal Relevance (MMR) exemplar selector optimizing semantic relevance and diversity for LLM prompt engineering",
+    "topics": [
+      "agent-skills",
+      "cosine-similarity",
+      "diversity-selection",
+      "few-shot",
+      "in-context-learning",
+      "llm-optimization",
+      "mcp",
+      "mmr",
+      "nlp",
+      "prompt-engineering",
+      "python-standard-library"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-few-shot-mmr-diversity-selector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T16:29:55Z",
+    "updated_at": "2026-10-20T01:00:55Z",
+    "pushed_at": "2026-10-20T00:57:21Z"
+  },
+  {
+    "id": 1426886222,
+    "name": "genpark-pii-redactor-and-data-masker-skill",
+    "full_name": "alphaparkinc/genpark-pii-redactor-and-data-masker-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Regex and Luhn heuristic PII redaction and tokenization engine sanitizing sensitive emails, phones, IPs, and credit cards",
+    "topics": [
+      "agent-skills",
+      "data-masking",
+      "data-sanitization",
+      "gdpr-compliance",
+      "luhn-algorithm",
+      "mcp",
+      "nlp",
+      "pii-redactor",
+      "privacy",
+      "python-standard-library",
+      "security"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-pii-redactor-and-data-masker-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T10:48:24Z",
+    "updated_at": "2026-10-20T10:48:46Z",
+    "pushed_at": "2026-10-20T10:48:47Z"
+  },
+  {
+    "id": 1426919445,
+    "name": "genpark-jinja-like-prompt-template-renderer-skill",
+    "full_name": "Alpha-Park/genpark-jinja-like-prompt-template-renderer-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Safe zero-dependency Jinja-like prompt template parser and renderer supporting for-loops, if-conditions, and variables",
+    "topics": [
+      "agent-skills",
+      "jinja",
+      "llm-tools",
+      "mcp",
+      "nlp",
+      "prompt-engineering",
+      "prompt-renderer",
+      "python-standard-library",
+      "string-formatting",
+      "template-engine",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-jinja-like-prompt-template-renderer-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T11:20:28Z",
+    "updated_at": "2026-10-20T11:21:11Z",
+    "pushed_at": "2026-10-20T11:21:15Z"
+  },
+  {
+    "id": 1426886635,
+    "name": "genpark-pii-redactor-and-data-masker-skill",
+    "full_name": "Alpha-Park/genpark-pii-redactor-and-data-masker-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Regex and Luhn heuristic PII redaction and tokenization engine sanitizing sensitive emails, phones, IPs, and credit cards",
+    "topics": [
+      "agent-skills",
+      "data-masking",
+      "data-sanitization",
+      "gdpr-compliance",
+      "luhn-algorithm",
+      "mcp",
+      "nlp",
+      "pii-redactor",
+      "privacy",
+      "python-standard-library",
+      "security"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-pii-redactor-and-data-masker-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T10:48:50Z",
+    "updated_at": "2026-10-20T10:49:13Z",
+    "pushed_at": "2026-10-20T10:49:15Z"
+  },
+  {
+    "id": 1426923330,
+    "name": "genpark-entropy-hallucination-detector-skill",
+    "full_name": "Alpha-Park/genpark-entropy-hallucination-detector-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Token entropy and n-gram perplexity analyzer auditing LLM outputs for degenerate repetition loops and vocabulary collapse",
+    "topics": [
+      "agent-skills",
+      "ai-safety",
+      "guardrails",
+      "hallucination-detection",
+      "llm-evaluation",
+      "mcp",
+      "nlp",
+      "perplexity",
+      "python-standard-library",
+      "shannon-entropy",
+      "token-analyzer"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-entropy-hallucination-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T11:24:01Z",
+    "updated_at": "2026-10-20T11:24:45Z",
+    "pushed_at": "2026-10-20T11:24:47Z"
+  },
+  {
+    "id": 1425888450,
+    "name": "genpark-few-shot-mmr-diversity-selector-skill",
+    "full_name": "alphaparkinc/genpark-few-shot-mmr-diversity-selector-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Maximal Marginal Relevance (MMR) exemplar selector optimizing semantic relevance and diversity for LLM prompt engineering",
+    "topics": [
+      "agent-skills",
+      "cosine-similarity",
+      "diversity-selection",
+      "few-shot",
+      "in-context-learning",
+      "llm-optimization",
+      "mcp",
+      "mmr",
+      "nlp",
+      "prompt-engineering",
+      "python-standard-library"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-few-shot-mmr-diversity-selector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T16:29:21Z",
+    "updated_at": "2026-10-19T16:29:48Z",
+    "pushed_at": "2026-10-19T16:29:50Z"
+  },
+  {
+    "id": 1421998433,
+    "name": "BanglaBBQ-benchmark",
+    "full_name": "SummitAnthony/BanglaBBQ-benchmark",
+    "owner": {
+      "login": "SummitAnthony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29682583?v=4"
+    },
+    "description": "BanglaBBQ: a bias benchmark for question answering in the Bangladeshi context (English and Bangla)",
+    "topics": [
+      "bangla",
+      "bangladesh",
+      "benchmark",
+      "bengali",
+      "bias",
+      "dataset",
+      "fairness",
+      "llm-evaluation",
+      "nlp",
+      "question-answering"
+    ],
+    "html_url": "https://github.com/SummitAnthony/BanglaBBQ-benchmark",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T10:17:34Z",
+    "updated_at": "2026-10-17T15:19:08Z",
+    "pushed_at": "2026-10-17T15:19:04Z"
+  },
+  {
+    "id": 1420862589,
+    "name": "bumblebee-cec",
+    "full_name": "Siddarthb07/bumblebee-cec",
+    "owner": {
+      "login": "Siddarthb07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247587454?v=4"
+    },
+    "description": "Transformer-free closed-corpus correlator. Ask, cite, or refuse from a frozen pack. Not a chatbot LLM.",
+    "topics": [
+      "abstention",
+      "machine-learning",
+      "nlp",
+      "python",
+      "pytorch",
+      "question-answering",
+      "retrieval"
+    ],
+    "html_url": "https://github.com/Siddarthb07/bumblebee-cec",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-15T14:27:51Z",
+    "updated_at": "2026-10-17T16:46:26Z",
+    "pushed_at": "2026-10-15T18:46:33Z"
+  },
+  {
+    "id": 1418498072,
+    "name": "PremiseCheck",
+    "full_name": "OpenLAIR/PremiseCheck",
+    "owner": {
+      "login": "OpenLAIR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263098388?v=4"
+    },
+    "description": "PremiseCheck: efficient fact-checking of human and AI peer reviews",
+    "topics": [
+      "ai-for-science",
+      "ai-scientist",
+      "auto-research",
+      "autoresearch",
+      "benchmark",
+      "decision-models",
+      "evaluation",
+      "fact-checking",
+      "jev",
+      "jev-ai",
+      "jev-model",
+      "llm",
+      "nlp",
+      "peer-review",
+      "rsi",
+      "scientific-review"
+    ],
+    "html_url": "https://github.com/OpenLAIR/PremiseCheck",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T06:52:05Z",
+    "updated_at": "2026-10-20T02:10:35Z",
+    "pushed_at": "2026-10-16T20:00:53Z"
+  },
+  {
+    "id": 1424485982,
+    "name": "multilingual-prescription-intelligence",
+    "full_name": "laalaalaee/multilingual-prescription-intelligence",
+    "owner": {
+      "login": "laalaalaee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107997024?v=4"
+    },
+    "description": "AI-Powered Multilingual Prescription Intelligence System: reads handwritten prescriptions with TrOCR, flags drug interactions, and translates the result to Hindi or French. FastAPI, PyTorch, MySQL.",
+    "topics": [
+      "computer-vision",
+      "drug-interactions",
+      "fastapi",
+      "handwriting-recognition",
+      "healthcare",
+      "machine-translation",
+      "mysql",
+      "nlp",
+      "ocr",
+      "python",
+      "pytorch",
+      "student-project",
+      "transformers",
+      "trocr"
+    ],
+    "html_url": "https://github.com/laalaalaee/multilingual-prescription-intelligence",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T14:53:13Z",
+    "updated_at": "2026-10-18T18:23:25Z",
+    "pushed_at": "2026-10-18T15:11:20Z"
+  },
+  {
+    "id": 1425272974,
+    "name": "trnorm-js",
+    "full_name": "ozguradmin/trnorm-js",
+    "owner": {
+      "login": "ozguradmin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98276091?v=4"
+    },
+    "description": "Turkish text normalization for speech in JavaScript - same output as Python trnorm (npm: @ozgurguler/trnorm)",
+    "topics": [
+      "asr",
+      "javascript",
+      "nlp",
+      "number-to-words",
+      "speech",
+      "text-normalization",
+      "tts",
+      "turkish"
+    ],
+    "html_url": "https://github.com/ozguradmin/trnorm-js",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T07:37:06Z",
+    "updated_at": "2026-10-19T21:14:45Z",
+    "pushed_at": "2026-10-19T17:17:33Z"
+  },
+  {
+    "id": 1423777274,
+    "name": "M1-Event-Understanding",
+    "full_name": "XRedMzK/M1-Event-Understanding",
+    "owner": {
+      "login": "XRedMzK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67847191?v=4"
+    },
+    "description": "Experimental modular event understanding with explicit feature and trained-state interfaces: events, argument roles, polarity, relations and canonicalization.",
+    "topics": [
+      "event-extraction",
+      "experimental",
+      "nlp",
+      "pytorch",
+      "research",
+      "structured-prediction"
+    ],
+    "html_url": "https://github.com/XRedMzK/M1-Event-Understanding",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-10-17T21:51:56Z",
+    "updated_at": "2026-10-20T08:25:04Z",
+    "pushed_at": "2026-10-20T08:25:00Z"
+  },
+  {
+    "id": 1423412921,
+    "name": "ResQPulse-AI",
+    "full_name": "GgauravJ05/ResQPulse-AI",
+    "owner": {
+      "login": "GgauravJ05",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176826383?v=4"
+    },
+    "description": "Turn messy emergency reports (typed or spoken) into structured, prioritised, explainable alerts with DistilBERT, Flan-T5 and Whisper. Runs offline on a laptop.",
+    "topics": [
+      "disaster-response",
+      "distilbert",
+      "emergency-response",
+      "explainable-ai",
+      "fastapi",
+      "flan-t5",
+      "hackathon",
+      "nlp",
+      "streamlit",
+      "transformers",
+      "whisper"
+    ],
+    "html_url": "https://github.com/GgauravJ05/ResQPulse-AI",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T14:28:09Z",
+    "updated_at": "2026-10-19T09:59:43Z",
+    "pushed_at": "2026-10-17T14:45:32Z"
+  },
+  {
+    "id": 1420857299,
+    "name": "social-humanizer",
+    "full_name": "Jubayer-ahamed42/social-humanizer",
+    "owner": {
+      "login": "Jubayer-ahamed42",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324400705?v=4"
+    },
+    "description": "Universal AI Social Media Humanizer & Algorithmic Risk Auditor. Strips robotic AI patterns, prevents reach penalties, and enforces human burstiness across Facebook, LinkedIn, X, Threads, and Instagram.",
+    "topics": [
+      "ai-humanizer",
+      "algorithm-compliance",
+      "anti-ai",
+      "anti-ai-detection",
+      "burstiness",
+      "cli",
+      "facebook",
+      "gradio",
+      "humanizer",
+      "instagram",
+      "linkedin",
+      "nlp",
+      "open-source",
+      "python",
+      "social-media",
+      "social-media-automation",
+      "threads"
+    ],
+    "html_url": "https://github.com/Jubayer-ahamed42/social-humanizer",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T14:24:19Z",
+    "updated_at": "2026-10-19T13:00:56Z",
+    "pushed_at": "2026-10-15T15:04:23Z"
+  },
+  {
+    "id": 1422007902,
+    "name": "campus-assistant",
+    "full_name": "terpeterter/campus-assistant",
+    "owner": {
+      "login": "terpeterter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175385508?v=4"
+    },
+    "description": "🎓 Интеллектуальный ИИ-ассистент для первокурсников Московского Политеха на базе RAG и регламентов вуза.",
+    "topics": [
+      "ai-assistants",
+      "bm25",
+      "moscow-polytech",
+      "nlp",
+      "python",
+      "rag",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/terpeterter/campus-assistant",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T10:26:34Z",
+    "updated_at": "2026-10-20T08:30:53Z",
+    "pushed_at": "2026-10-20T08:30:49Z"
+  }
+]

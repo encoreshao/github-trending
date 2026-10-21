@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1426054526,
+    "name": "redmine_pull_requests",
+    "full_name": "aarondpn/redmine_pull_requests",
+    "owner": {
+      "login": "aarondpn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58708656?v=4"
+    },
+    "description": "Redmine plugin: link GitHub pull requests and GitLab merge requests to issues, with reviews, checks and webhooks. Redmine 5.0–7.0.",
+    "topics": [
+      "github",
+      "gitlab",
+      "merge-requests",
+      "pull-requests",
+      "redmine",
+      "redmine-plugin",
+      "webhooks"
+    ],
+    "html_url": "https://github.com/aarondpn/redmine_pull_requests",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-19T19:03:09Z",
+    "updated_at": "2026-10-20T15:15:11Z",
+    "pushed_at": "2026-10-19T22:10:05Z"
+  },
+  {
+    "id": 1418466261,
+    "name": "Git-sync",
+    "full_name": "Littledavedai/Git-sync",
+    "owner": {
+      "login": "Littledavedai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319339110?v=4"
+    },
+    "description": "一键把本地代码同时推送到两个远端（GitHub + 自建 GitLab / Gitea / 任意 git 服务），并在推送前告诉你远端到底长什么样。",
+    "topics": [
+      "cli",
+      "devtools",
+      "git",
+      "github",
+      "gitlab",
+      "python",
+      "sync"
+    ],
+    "html_url": "https://github.com/Littledavedai/Git-sync",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T06:21:03Z",
+    "updated_at": "2026-10-15T06:00:53Z",
+    "pushed_at": "2026-10-15T07:30:16Z"
+  },
+  {
+    "id": 1424775093,
+    "name": "my-code-dashboard",
+    "full_name": "olegiv/my-code-dashboard",
+    "owner": {
+      "login": "olegiv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/914452?v=4"
+    },
+    "description": "Self-hosted security dashboard for GitHub and GitLab repositories, built with Go, HTMX, and Alpine.js.",
+    "topics": [
+      "alpinejs",
+      "devsecops",
+      "github",
+      "gitlab",
+      "golang",
+      "htmx",
+      "security-dashboard",
+      "self-hosted",
+      "vulnerability-management"
+    ],
+    "html_url": "https://github.com/olegiv/my-code-dashboard",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T20:10:17Z",
+    "updated_at": "2026-10-19T19:14:04Z",
+    "pushed_at": "2026-10-19T19:13:58Z"
+  },
+  {
+    "id": 1419345530,
+    "name": "github-to-gitlab-sync",
+    "full_name": "FahimFBA/github-to-gitlab-sync",
+    "owner": {
+      "login": "FahimFBA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64195132?v=4"
+    },
+    "description": "Mirror a GitHub repository to GitLab (gitlab.com or self-hosted) with a few lines of workflow YAML",
+    "topics": [
+      "backup",
+      "ci-cd",
+      "git-sync",
+      "github-actions",
+      "gitlab",
+      "mirror"
+    ],
+    "html_url": "https://github.com/FahimFBA/github-to-gitlab-sync",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T16:02:11Z",
+    "updated_at": "2026-10-14T18:09:18Z",
+    "pushed_at": "2026-10-14T18:11:03Z"
+  },
+  {
+    "id": 1421580644,
+    "name": "repo-harbor",
+    "full_name": "zzxCoding/repo-harbor",
+    "owner": {
+      "login": "zzxCoding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33575021?v=4"
+    },
+    "description": "Self-hosted code maps and MCP access for AI, with GitLab sync, a web dashboard, and repository-level permissions.",
+    "topics": [
+      "code-intelligence",
+      "codegraph",
+      "docker",
+      "gitlab",
+      "mcp",
+      "mcp-server",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/zzxCoding/repo-harbor",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T03:13:14Z",
+    "updated_at": "2026-10-16T05:37:49Z",
+    "pushed_at": "2026-10-16T05:37:45Z"
+  },
+  {
+    "id": 1419697842,
+    "name": "git-for-me",
+    "full_name": "bikemeardsley/git-for-me",
+    "owner": {
+      "login": "bikemeardsley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31864042?v=4"
+    },
+    "description": "Odds are, most of what you want to build is already open source. Tell your AI agent what you're making: it finds the repos on GitHub, GitLab and Codeberg, every one checked live.",
+    "topics": [
+      "agent-skills",
+      "antigravity-plugin",
+      "antigravity-skills",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "codeberg",
+      "codex-skill",
+      "copilot-cli",
+      "github",
+      "github-api",
+      "github-search",
+      "gitlab",
+      "hermes-skill",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "nodejs",
+      "open-source",
+      "skill-md",
+      "typescript"
+    ],
+    "html_url": "https://github.com/bikemeardsley/git-for-me",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T19:01:04Z",
+    "updated_at": "2026-10-16T16:36:39Z",
+    "pushed_at": "2026-10-16T16:36:36Z"
+  },
+  {
+    "id": 1425921494,
+    "name": "dsh-maestro-review",
+    "full_name": "ddtcorex/dsh-maestro-review",
+    "owner": {
+      "login": "ddtcorex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103315997?v=4"
+    },
+    "description": "Maestro Review for the DeepSeek Harness web host: GitLab webhook intake, project mappings with local worktrees, the Settings section and Telegram digests, on the maestro-reviewer engine",
+    "topics": [
+      "ai-review",
+      "code-review",
+      "cordis",
+      "deepseek-harness",
+      "dsh-plugin",
+      "gitlab",
+      "gitlab-webhook",
+      "maestro",
+      "merge-request",
+      "telegram"
+    ],
+    "html_url": "https://github.com/ddtcorex/dsh-maestro-review",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T16:59:28Z",
+    "updated_at": "2026-10-20T10:07:45Z",
+    "pushed_at": "2026-10-19T17:37:48Z"
+  },
+  {
+    "id": 1420525351,
+    "name": "Opsboard",
+    "full_name": "Javohir-dev/Opsboard",
+    "owner": {
+      "login": "Javohir-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97449821?v=4"
+    },
+    "description": "A local dashboard for developers who work with Claude Code: sessions & agents, Claude usage limits, GitLab/GitHub merge requests, Jira tasks, Docker and Postgres — in one browser tab.",
+    "topics": [
+      "anthropic",
+      "claude",
+      "claude-code",
+      "dashboard",
+      "developer-tools",
+      "docker",
+      "github",
+      "gitlab",
+      "jira",
+      "postgres",
+      "python",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/Javohir-dev/Opsboard",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T10:15:09Z",
+    "updated_at": "2026-10-20T15:27:48Z",
+    "pushed_at": "2026-10-20T15:27:43Z"
+  },
+  {
+    "id": 1423196953,
+    "name": "gcli",
+    "full_name": "Davis91216/gcli",
+    "owner": {
+      "login": "Davis91216",
+      "avatar_url": "https://avatars.githubusercontent.com/u/302236279?v=4"
+    },
+    "description": "Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https://lists.sr.ht/~herrhotzenplotz/gcli-devel",
+    "topics": [
+      "c",
+      "cli",
+      "freebsd",
+      "github-api",
+      "gitlab",
+      "gitlab-api",
+      "libcurl",
+      "linux",
+      "open-source",
+      "terminal",
+      "unix"
+    ],
+    "html_url": "https://github.com/Davis91216/gcli",
+    "stargazers_count": 0,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T10:11:14Z",
+    "updated_at": "2026-10-17T10:14:17Z",
+    "pushed_at": "2026-10-17T10:14:13Z"
+  },
+  {
+    "id": 1426173832,
+    "name": "soba",
+    "full_name": "Carolynd8161/soba",
+    "owner": {
+      "login": "Carolynd8161",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334472498?v=4"
+    },
+    "description": "Automated, encrypted Git repository backups from GitHub, GitLab, Bitbucket, Azure DevOps, Gitea, and Sourcehut",
+    "topics": [
+      "automation",
+      "azure-devops",
+      "backup",
+      "bitbucket",
+      "cli",
+      "docker",
+      "encryption",
+      "git",
+      "git-backup",
+      "git-bundle",
+      "gitea",
+      "github",
+      "gitlab",
+      "golang",
+      "kubernetes",
+      "repository-backup",
+      "self-hosted",
+      "sourcehut"
+    ],
+    "html_url": "https://github.com/Carolynd8161/soba",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T21:01:22Z",
+    "updated_at": "2026-10-19T21:04:17Z",
+    "pushed_at": "2026-10-19T21:04:12Z"
+  },
+  {
+    "id": 1423765445,
+    "name": "gibr",
+    "full_name": "pieterlee89/gibr",
+    "owner": {
+      "login": "pieterlee89",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322882359?v=4"
+    },
+    "description": "A smarter CLI for creating Git branches.",
+    "topics": [
+      "automation",
+      "cli",
+      "developer-tools",
+      "devtools",
+      "git",
+      "github",
+      "gitlab",
+      "jira",
+      "linear",
+      "productivity",
+      "python",
+      "youtrack"
+    ],
+    "html_url": "https://github.com/pieterlee89/gibr",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T21:36:40Z",
+    "updated_at": "2026-10-17T21:37:24Z",
+    "pushed_at": "2026-10-17T21:36:48Z"
+  },
+  {
+    "id": 1423612686,
+    "name": "gitlab-mobile",
+    "full_name": "akari-sora/gitlab-mobile",
+    "owner": {
+      "login": "akari-sora",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84017085?v=4"
+    },
+    "description": "GitLab Mobile — Mobile-first Flutter client for Android and iOS. Canonical development & issues on GitLab. Mirror; canonical repo and issues: gitlab.com/aa22396584/gitlab-mobile",
+    "topics": [
+      "android",
+      "dart",
+      "flutter",
+      "gitlab",
+      "ios",
+      "mobile"
+    ],
+    "html_url": "https://github.com/akari-sora/gitlab-mobile",
+    "stargazers_count": 0,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T18:12:34Z",
+    "updated_at": "2026-10-21T01:13:38Z",
+    "pushed_at": "2026-10-21T01:14:07Z"
+  },
+  {
+    "id": 1418302790,
+    "name": "sitekeeper",
+    "full_name": "Stephen-Psaradellis/sitekeeper",
+    "owner": {
+      "login": "Stephen-Psaradellis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51421588?v=4"
+    },
+    "description": "Owner writes an issue; GitLab Duo flows ship the website change, tested and verified. GitLab Life After Code entry.",
+    "topics": [
+      "ci-cd",
+      "gitlab",
+      "gitlab-duo",
+      "hackathon",
+      "static-site",
+      "website-maintenance"
+    ],
+    "html_url": "https://github.com/Stephen-Psaradellis/sitekeeper",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T03:20:25Z",
+    "updated_at": "2026-10-16T11:31:32Z",
+    "pushed_at": "2026-10-16T11:31:28Z"
+  },
+  {
+    "id": 1418655712,
+    "name": "Obsidian-claude-cycle",
+    "full_name": "kwangsing3/Obsidian-claude-cycle",
+    "owner": {
+      "login": "kwangsing3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18378969?v=4"
+    },
+    "description": "A self-updating Obsidian knowledge base for your code projects, maintained daily by Claude Code. 由 Claude Code 每天自動維護的 Obsidian 專案知識庫框架",
+    "topics": [
+      "automation",
+      "claude-code",
+      "gitlab",
+      "knowledge-management",
+      "obsidian",
+      "powershell"
+    ],
+    "html_url": "https://github.com/kwangsing3/Obsidian-claude-cycle",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-14T09:17:57Z",
+    "updated_at": "2026-10-14T09:40:42Z",
+    "pushed_at": "2026-10-14T09:40:35Z"
+  },
+  {
+    "id": 1424740559,
+    "name": "soba",
+    "full_name": "nlaurent7640/soba",
+    "owner": {
+      "login": "nlaurent7640",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334659499?v=4"
+    },
+    "description": "Automated, encrypted Git repository backups from GitHub, GitLab, Bitbucket, Azure DevOps, Gitea, and Sourcehut",
+    "topics": [
+      "automation",
+      "azure-devops",
+      "backup",
+      "bitbucket",
+      "cli",
+      "docker",
+      "encryption",
+      "git",
+      "git-backup",
+      "git-bundle",
+      "gitea",
+      "github",
+      "gitlab",
+      "golang",
+      "kubernetes",
+      "repository-backup",
+      "self-hosted",
+      "sourcehut"
+    ],
+    "html_url": "https://github.com/nlaurent7640/soba",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T19:32:26Z",
+    "updated_at": "2026-10-18T19:33:00Z",
+    "pushed_at": "2026-10-18T19:32:39Z"
+  },
+  {
+    "id": 1425387191,
+    "name": "gscan",
+    "full_name": "AindriuB/gscan",
+    "owner": {
+      "login": "AindriuB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3417729?v=4"
+    },
+    "description": "Survey local Git repositories from the command line",
+    "topics": [
+      "git",
+      "github",
+      "gitlab",
+      "macos",
+      "macos-package",
+      "repository-analysis",
+      "rust",
+      "rust-cli",
+      "unix",
+      "unix-tools"
+    ],
+    "html_url": "https://github.com/AindriuB/gscan",
+    "stargazers_count": 0,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T09:28:42Z",
+    "updated_at": "2026-10-19T11:15:15Z",
+    "pushed_at": "2026-10-19T11:21:09Z"
+  },
+  {
+    "id": 1420329711,
+    "name": "whats-next",
+    "full_name": "egribnau/whats-next",
+    "owner": {
+      "login": "egribnau",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8597342?v=4"
+    },
+    "description": "What's next, epics and milestones from Forgejo, GitLab or GitHub, in docked panes in Claude Code",
+    "topics": [
+      "claude-code",
+      "claude-code-mod",
+      "claude-code-mods",
+      "claude-code-plugin",
+      "forgejo",
+      "github-issues",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/egribnau/whats-next",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-15T07:16:36Z",
+    "updated_at": "2026-10-20T10:09:12Z",
+    "pushed_at": "2026-10-18T19:57:20Z"
+  },
+  {
+    "id": 1424002031,
+    "name": "gcli",
+    "full_name": "Jeno257/gcli",
+    "owner": {
+      "login": "Jeno257",
+      "avatar_url": "https://avatars.githubusercontent.com/u/302270818?v=4"
+    },
+    "description": "Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https://lists.sr.ht/~herrhotzenplotz/gcli-devel",
+    "topics": [
+      "c",
+      "cli",
+      "freebsd",
+      "github-api",
+      "gitlab",
+      "gitlab-api",
+      "libcurl",
+      "linux",
+      "open-source",
+      "terminal",
+      "unix"
+    ],
+    "html_url": "https://github.com/Jeno257/gcli",
+    "stargazers_count": 0,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T04:53:30Z",
+    "updated_at": "2026-10-18T04:54:52Z",
+    "pushed_at": "2026-10-18T04:53:54Z"
+  },
+  {
+    "id": 1427655768,
+    "name": "gitlab-readonly-mcp",
+    "full_name": "igordev96/gitlab-readonly-mcp",
+    "owner": {
+      "login": "igordev96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91806111?v=4"
+    },
+    "description": "Read-only, git-backed MCP server for a self-managed GitLab",
+    "topics": [
+      "ai-agents",
+      "developer-tools",
+      "git",
+      "gitlab",
+      "mcp",
+      "typescript"
+    ],
+    "html_url": "https://github.com/igordev96/gitlab-readonly-mcp",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T23:10:27Z",
+    "updated_at": "2026-10-21T00:27:13Z",
+    "pushed_at": "2026-10-21T00:27:09Z"
+  },
+  {
+    "id": 1424003505,
+    "name": "gcli",
+    "full_name": "KostasLaurent411/gcli",
+    "owner": {
+      "login": "KostasLaurent411",
+      "avatar_url": "https://avatars.githubusercontent.com/u/302274726?v=4"
+    },
+    "description": "Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https://lists.sr.ht/~herrhotzenplotz/gcli-devel",
+    "topics": [
+      "c",
+      "cli",
+      "freebsd",
+      "github-api",
+      "gitlab",
+      "gitlab-api",
+      "libcurl",
+      "linux",
+      "open-source",
+      "terminal",
+      "unix"
+    ],
+    "html_url": "https://github.com/KostasLaurent411/gcli",
+    "stargazers_count": 0,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T04:55:14Z",
+    "updated_at": "2026-10-18T04:56:21Z",
+    "pushed_at": "2026-10-18T04:55:32Z"
+  }
+]
