@@ -1,0 +1,621 @@
+[
+  {
+    "id": 1427392527,
+    "name": "shrimpreel",
+    "full_name": "qianshuixia/shrimpreel",
+    "owner": {
+      "login": "qianshuixia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332790452?v=4"
+    },
+    "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+    "topics": [
+      "ai-video",
+      "cloudflare-d1",
+      "cloudflare-r2",
+      "cloudflare-workers",
+      "fal-ai",
+      "hono",
+      "image-to-video",
+      "react",
+      "saas-boilerplate",
+      "saas-template",
+      "tanstack-start",
+      "typescript"
+    ],
+    "html_url": "https://github.com/qianshuixia/shrimpreel",
+    "stargazers_count": 212,
+    "language": "TypeScript",
+    "forks_count": 81,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T18:08:00Z",
+    "updated_at": "2026-10-23T00:50:21Z",
+    "pushed_at": "2026-10-21T18:03:41Z"
+  },
+  {
+    "id": 1426588210,
+    "name": "claude-super-sidebar",
+    "full_name": "Zafer-Liu/claude-super-sidebar",
+    "owner": {
+      "login": "Zafer-Liu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273271302?v=4"
+    },
+    "description": "A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.",
+    "topics": [
+      "agent-visualization",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "multi-agent",
+      "nodejs",
+      "sidebar",
+      "task-visualization",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Zafer-Liu/claude-super-sidebar",
+    "stargazers_count": 155,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T06:18:04Z",
+    "updated_at": "2026-10-23T01:22:21Z",
+    "pushed_at": "2026-10-22T14:41:07Z"
+  },
+  {
+    "id": 1424169831,
+    "name": "Jotlet",
+    "full_name": "wee-b/Jotlet",
+    "owner": {
+      "login": "wee-b",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186723760?v=4"
+    },
+    "description": "随手记，本地日记小工具",
+    "topics": [
+      "calendar",
+      "desktop-app",
+      "electron",
+      "local-first",
+      "timeline",
+      "typescript",
+      "vite",
+      "windows"
+    ],
+    "html_url": "https://github.com/wee-b/Jotlet",
+    "stargazers_count": 105,
+    "language": "TypeScript",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T08:47:30Z",
+    "updated_at": "2026-10-22T08:24:46Z",
+    "pushed_at": "2026-10-22T08:24:39Z"
+  },
+  {
+    "id": 1422637634,
+    "name": "slide.ng",
+    "full_name": "slide-ng/slide.ng",
+    "owner": {
+      "login": "slide-ng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/343244322?v=4"
+    },
+    "description": "Slidev-style presentations written in markdown, compiled with Angular. The core app and the slide-ng command line.",
+    "topics": [
+      "angular",
+      "cli",
+      "markdown",
+      "presentation",
+      "presentation-tools",
+      "slide-deck",
+      "slide-ng",
+      "slides",
+      "slidev",
+      "typescript"
+    ],
+    "html_url": "https://github.com/slide-ng/slide.ng",
+    "stargazers_count": 105,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 2,
+    "created_at": "2026-10-16T20:22:58Z",
+    "updated_at": "2026-10-22T17:19:27Z",
+    "pushed_at": "2026-10-22T23:47:34Z"
+  },
+  {
+    "id": 1426073056,
+    "name": "stalemap",
+    "full_name": "Umair/stalemap",
+    "owner": {
+      "login": "Umair",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104675?v=4"
+    },
+    "description": "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
+    "topics": [
+      "agents-md",
+      "ai-agents",
+      "breaking-changes",
+      "changelog",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "dependencies",
+      "developer-tools",
+      "javascript",
+      "knowledge-cutoff",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "npm",
+      "opencode",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Umair/stalemap",
+    "stargazers_count": 98,
+    "language": "TypeScript",
+    "forks_count": 41,
+    "open_issues_count": 1,
+    "created_at": "2026-10-19T19:21:32Z",
+    "updated_at": "2026-10-22T23:19:35Z",
+    "pushed_at": "2026-10-21T14:13:28Z"
+  },
+  {
+    "id": 1424819645,
+    "name": "mixmusic",
+    "full_name": "fzn0x/mixmusic",
+    "owner": {
+      "login": "fzn0x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50759463?v=4"
+    },
+    "description": "MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community themes and plugins.",
+    "topics": [
+      "cross-platform",
+      "desktop-app",
+      "equalizer",
+      "go",
+      "linux",
+      "macos",
+      "music-player",
+      "mygo",
+      "native-ui",
+      "open-source",
+      "plugins",
+      "preact",
+      "spotify",
+      "spotify-client",
+      "synced-lyrics",
+      "themes",
+      "typescript",
+      "windows",
+      "youtube-music",
+      "yt-dlp"
+    ],
+    "html_url": "https://github.com/fzn0x/mixmusic",
+    "stargazers_count": 85,
+    "language": "Go",
+    "forks_count": 2,
+    "open_issues_count": 8,
+    "created_at": "2026-10-18T21:02:40Z",
+    "updated_at": "2026-10-23T00:27:03Z",
+    "pushed_at": "2026-10-22T15:29:37Z"
+  },
+  {
+    "id": 1423969147,
+    "name": "kirari",
+    "full_name": "vortexkit/kirari",
+    "owner": {
+      "login": "vortexkit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160188616?v=4"
+    },
+    "description": "A lightweight, fast, and minimal code syntax highlighter.",
+    "topics": [
+      "code",
+      "codeblock",
+      "highlight",
+      "highlighter",
+      "javascript",
+      "lightweight",
+      "markdown",
+      "mdx",
+      "minimal",
+      "react",
+      "remark-plugin",
+      "streaming",
+      "streaming-api",
+      "streaming-tools",
+      "syntax",
+      "syntax-highlighter",
+      "syntax-highlighting",
+      "typescript"
+    ],
+    "html_url": "https://github.com/vortexkit/kirari",
+    "stargazers_count": 73,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 2,
+    "created_at": "2026-10-18T03:57:23Z",
+    "updated_at": "2026-10-22T15:39:19Z",
+    "pushed_at": "2026-10-22T08:33:34Z"
+  },
+  {
+    "id": 1427795647,
+    "name": "McCosmos",
+    "full_name": "ayingQAQ/McCosmos",
+    "owner": {
+      "login": "ayingQAQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140624509?v=4"
+    },
+    "description": "McCosmos · 麦门星图｜基于麦当劳 MCP 营养数据的三维卡通美食宇宙，支持真实餐品图片、营养图鉴与星际探索。",
+    "topics": [
+      "data-visualization",
+      "mcdonalds",
+      "mcp",
+      "nutrition",
+      "react",
+      "threejs",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ayingQAQ/McCosmos",
+    "stargazers_count": 54,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T02:42:11Z",
+    "updated_at": "2026-10-22T14:03:33Z",
+    "pushed_at": "2026-10-22T14:01:22Z"
+  },
+  {
+    "id": 1424249359,
+    "name": "bencho",
+    "full_name": "cabralorenzo/bencho",
+    "owner": {
+      "login": "cabralorenzo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55093715?v=4"
+    },
+    "description": "41 free interactive React blocks and 24 synthesised interface sounds from bencho.dev. Copy a folder, ship it.",
+    "topics": [
+      "animation",
+      "components",
+      "design-system",
+      "micro-interactions",
+      "react",
+      "sound-design",
+      "typescript",
+      "ui",
+      "web-audio"
+    ],
+    "html_url": "https://github.com/cabralorenzo/bencho",
+    "stargazers_count": 49,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-10-18T10:26:27Z",
+    "updated_at": "2026-10-22T14:39:35Z",
+    "pushed_at": "2026-10-22T14:33:25Z"
+  },
+  {
+    "id": 1421548717,
+    "name": "rusteerio",
+    "full_name": "context-dot-dev/rusteerio",
+    "owner": {
+      "login": "context-dot-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168444613?v=4"
+    },
+    "description": "Cheerio-compatible HTML/XML processing powered by Rust, with configurable parallel extraction. Built by context.dev.",
+    "topics": [
+      "cheerio",
+      "html",
+      "nodejs",
+      "npm",
+      "rust",
+      "typescript",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/context-dot-dev/rusteerio",
+    "stargazers_count": 43,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T02:30:38Z",
+    "updated_at": "2026-10-21T17:33:36Z",
+    "pushed_at": "2026-10-16T02:40:17Z"
+  },
+  {
+    "id": 1425557015,
+    "name": "dquickts",
+    "full_name": "stencil-hq/dquickts",
+    "owner": {
+      "login": "stencil-hq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290938359?v=4"
+    },
+    "description": "QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another process. Native TypeScript, a REPL that survives restarts, Rust bindings.",
+    "topics": [
+      "c",
+      "durable-execution",
+      "embeddable",
+      "hibernation",
+      "interpreter",
+      "javascript",
+      "javascript-engine",
+      "quickjs",
+      "repl",
+      "rust",
+      "snapshots",
+      "typescript"
+    ],
+    "html_url": "https://github.com/stencil-hq/dquickts",
+    "stargazers_count": 39,
+    "language": "C",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T12:06:42Z",
+    "updated_at": "2026-10-23T01:54:11Z",
+    "pushed_at": "2026-10-20T19:17:57Z"
+  },
+  {
+    "id": 1429375453,
+    "name": "lean-electron-vue",
+    "full_name": "mrcen3204097569-spec/lean-electron-vue",
+    "owner": {
+      "login": "mrcen3204097569-spec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297694703?v=4"
+    },
+    "description": "轻量的 Electron + Vite + Vue 3 + TypeScript 桌面应用模板，不依赖第三方集成插件 | A lean Electron + Vite + Vue 3 + TS desktop app template",
+    "topics": [
+      "desktop-app",
+      "electron",
+      "electron-builder",
+      "electron-updater",
+      "element-plus",
+      "pinia",
+      "template",
+      "typescript",
+      "vite",
+      "vue3"
+    ],
+    "html_url": "https://github.com/mrcen3204097569-spec/lean-electron-vue",
+    "stargazers_count": 35,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T07:09:16Z",
+    "updated_at": "2026-10-22T22:28:27Z",
+    "pushed_at": "2026-10-22T07:09:23Z"
+  },
+  {
+    "id": 1424266930,
+    "name": "desktop-app-starter",
+    "full_name": "hassancs91/desktop-app-starter",
+    "owner": {
+      "login": "hassancs91",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51578605?v=4"
+    },
+    "description": "Free Electron + React + TypeScript starter for building desktop apps with Claude Code",
+    "topics": [
+      "boilerplate",
+      "claude-code",
+      "desktop-app",
+      "electron",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/hassancs91/desktop-app-starter",
+    "stargazers_count": 35,
+    "language": "TypeScript",
+    "forks_count": 34,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T10:49:22Z",
+    "updated_at": "2026-10-22T10:21:30Z",
+    "pushed_at": "2026-10-18T10:49:29Z"
+  },
+  {
+    "id": 1429734084,
+    "name": "ticket-tear",
+    "full_name": "Sam1983Aing/ticket-tear",
+    "owner": {
+      "login": "Sam1983Aing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169861563?v=4"
+    },
+    "description": "A 3D ticket you can bend, flip and tear off. Verlet paper physics, holographic GLSL foil and a rip sound made in code. Built with Gemini 4 Argon.",
+    "topics": [
+      "antigravity",
+      "gemini",
+      "glsl",
+      "physics",
+      "shaders",
+      "threejs",
+      "typescript",
+      "verlet",
+      "vite",
+      "web-audio",
+      "webgl"
+    ],
+    "html_url": "https://github.com/Sam1983Aing/ticket-tear",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T12:43:31Z",
+    "updated_at": "2026-10-23T01:58:18Z",
+    "pushed_at": "2026-10-22T12:43:37Z"
+  },
+  {
+    "id": 1425308544,
+    "name": "Open-Hermes-Bot",
+    "full_name": "AZERDSQ131/Open-Hermes-Bot",
+    "owner": {
+      "login": "AZERDSQ131",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178401543?v=4"
+    },
+    "description": "Hermes Bot — a native Mac interface to the Hermes agents you already have.",
+    "topics": [
+      "ai-agents",
+      "chat",
+      "electron",
+      "hermes",
+      "llm",
+      "macos",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/AZERDSQ131/Open-Hermes-Bot",
+    "stargazers_count": 24,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 9,
+    "created_at": "2026-10-19T08:12:44Z",
+    "updated_at": "2026-10-22T22:50:43Z",
+    "pushed_at": "2026-10-22T17:31:02Z"
+  },
+  {
+    "id": 1430074842,
+    "name": "effect-email",
+    "full_name": "doeixd/effect-email",
+    "owner": {
+      "login": "doeixd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13461122?v=4"
+    },
+    "description": "Effect-native transactional email for TypeScript: typed messages, durable delivery, providers, policies, SMTP, HTTP gateway, and workflows.",
+    "topics": [
+      "alchemy",
+      "bun",
+      "cloudflare-email",
+      "cloudflare-workers",
+      "effect",
+      "effect-ts",
+      "email",
+      "smtp",
+      "transactional-email",
+      "typescript"
+    ],
+    "html_url": "https://github.com/doeixd/effect-email",
+    "stargazers_count": 19,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T17:39:26Z",
+    "updated_at": "2026-10-23T01:41:56Z",
+    "pushed_at": "2026-10-22T21:24:13Z"
+  },
+  {
+    "id": 1423297796,
+    "name": "noema",
+    "full_name": "Guembri01/noema",
+    "owner": {
+      "login": "Guembri01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100989581?v=4"
+    },
+    "description": "An original, open-source, self-hosted workspace for notes, docs and databases.",
+    "topics": [
+      "database",
+      "docs",
+      "local-first",
+      "nextjs",
+      "notes",
+      "notion-alternative",
+      "open-source",
+      "postgres",
+      "prisma",
+      "self-hosted",
+      "tauri",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Guembri01/noema",
+    "stargazers_count": 18,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-10-17T12:17:37Z",
+    "updated_at": "2026-10-22T21:53:55Z",
+    "pushed_at": "2026-10-22T21:53:51Z"
+  },
+  {
+    "id": 1426657588,
+    "name": "explainer-studio",
+    "full_name": "reedodev/explainer-studio",
+    "owner": {
+      "login": "reedodev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251564416?v=4"
+    },
+    "description": "One line in, an explainer video out, in eight hand-drawn styles (Claude Code skill)",
+    "topics": [
+      "agent-skills",
+      "animation",
+      "claude-code",
+      "explainer-video",
+      "ffmpeg",
+      "korean",
+      "typescript",
+      "video-generation",
+      "whiteboard"
+    ],
+    "html_url": "https://github.com/reedodev/explainer-studio",
+    "stargazers_count": 17,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T07:28:55Z",
+    "updated_at": "2026-10-23T00:59:25Z",
+    "pushed_at": "2026-10-22T11:00:10Z"
+  },
+  {
+    "id": 1428439343,
+    "name": "esp-labs-web",
+    "full_name": "agharsallah/esp-labs-web",
+    "owner": {
+      "login": "agharsallah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17379925?v=4"
+    },
+    "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons for every track with interactive simulators, a code reader for the esp-labs firmware, and the bench log.",
+    "topics": [
+      "education",
+      "electronics",
+      "embedded",
+      "esp32",
+      "esp32-s3",
+      "interactive-learning",
+      "pinout",
+      "react",
+      "react-router",
+      "simulator",
+      "tanstack-query",
+      "typescript",
+      "vite"
+    ],
+    "html_url": "https://github.com/agharsallah/esp-labs-web",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T13:40:04Z",
+    "updated_at": "2026-10-22T17:39:58Z",
+    "pushed_at": "2026-10-21T13:40:10Z"
+  },
+  {
+    "id": 1423408683,
+    "name": "bug-frame",
+    "full_name": "vmatheus3/bug-frame",
+    "owner": {
+      "login": "vmatheus3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36926144?v=4"
+    },
+    "description": "Free, open-source visual bug reporting for any website. Frame a problem, capture the context, and hand it to your team or AI coding agent.",
+    "topics": [
+      "bug-reporting",
+      "feedback",
+      "open-source",
+      "screenshot",
+      "self-hosted",
+      "typescript"
+    ],
+    "html_url": "https://github.com/vmatheus3/bug-frame",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 2,
+    "created_at": "2026-10-17T14:23:40Z",
+    "updated_at": "2026-10-22T22:04:25Z",
+    "pushed_at": "2026-10-17T14:53:24Z"
+  }
+]

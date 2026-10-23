@@ -1,0 +1,621 @@
+[
+  {
+    "id": 1422850523,
+    "name": "Xing4.0-29B-Intent",
+    "full_name": "XingChen-AGI/Xing4.0-29B-Intent",
+    "owner": {
+      "login": "XingChen-AGI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321774266?v=4"
+    },
+    "description": "Xing4.0-29B-Intent - schema-guided intent recognition and structured information extraction (intent and slot filling, entity, relation and event extraction). A 29B MoE with 4B activated parameters, Apache-2.0.",
+    "topics": [
+      "information-extraction",
+      "intent-recognition",
+      "llm",
+      "moe",
+      "nlp",
+      "schema-guided"
+    ],
+    "html_url": "https://github.com/XingChen-AGI/Xing4.0-29B-Intent",
+    "stargazers_count": 28,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T01:54:24Z",
+    "updated_at": "2026-10-23T01:12:39Z",
+    "pushed_at": "2026-10-19T09:59:50Z"
+  },
+  {
+    "id": 1424640834,
+    "name": "transmuter",
+    "full_name": "georgeguimaraes/transmuter",
+    "owner": {
+      "login": "georgeguimaraes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2929?v=4"
+    },
+    "description": "Runs Hugging Face ONNX models on any Nx backend, with no per-architecture code",
+    "topics": [
+      "computer-vision",
+      "elixir",
+      "emlx",
+      "exla",
+      "huggingface",
+      "inference",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "nx",
+      "onnx",
+      "speech-recognition",
+      "text-to-speech",
+      "transformers"
+    ],
+    "html_url": "https://github.com/georgeguimaraes/transmuter",
+    "stargazers_count": 13,
+    "language": "Elixir",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-18T17:34:25Z",
+    "updated_at": "2026-10-22T22:57:26Z",
+    "pushed_at": "2026-10-22T22:58:13Z"
+  },
+  {
+    "id": 1428839043,
+    "name": "Machine-learning-pipeline",
+    "full_name": "recranvvi5c/Machine-learning-pipeline",
+    "owner": {
+      "login": "recranvvi5c",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267072?v=4"
+    },
+    "description": "Reproducible text-classification pipeline - Hydra configs, DVC data, MLflow tracking and a scikit-learn grid search.",
+    "topics": [
+      "dvc",
+      "experiment-tracking",
+      "grid-search",
+      "hydra",
+      "machine-learning",
+      "mlflow",
+      "nlp",
+      "pipeline",
+      "python",
+      "reproducibility",
+      "scikit-learn",
+      "text-classification",
+      "tooling"
+    ],
+    "html_url": "https://github.com/recranvvi5c/Machine-learning-pipeline",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-21T19:28:45Z",
+    "updated_at": "2026-10-22T03:56:35Z",
+    "pushed_at": "2026-10-21T20:09:29Z"
+  },
+  {
+    "id": 1429785504,
+    "name": "groot",
+    "full_name": "leofmarciano/groot",
+    "owner": {
+      "login": "leofmarciano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131293652?v=4"
+    },
+    "description": "🌳 Groot 1 — open typed-decision model. Calibrated choice/score/yes-no answers over 64k-token states in one forward pass, System One API compatible, with a pure Bend engine. Beats Jev and Julia 1 on typed decisions.",
+    "topics": [
+      "bend",
+      "bend-lang",
+      "calibration",
+      "decision-model",
+      "jev",
+      "llm-routing",
+      "long-context",
+      "machine-learning",
+      "mmbert",
+      "modernbert",
+      "multilingual",
+      "nlp",
+      "pytorch",
+      "system-one",
+      "text-classification",
+      "typed-decisions"
+    ],
+    "html_url": "https://github.com/leofmarciano/groot",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T13:27:57Z",
+    "updated_at": "2026-10-22T23:58:15Z",
+    "pushed_at": "2026-10-22T13:34:19Z"
+  },
+  {
+    "id": 1424326467,
+    "name": "SciForge",
+    "full_name": "sddzlsc/SciForge",
+    "owner": {
+      "login": "sddzlsc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31798901?v=4"
+    },
+    "description": "Local-first research agent harness for deep learning: literature → reading → ideas → GPU experiments → papers & publication figures. DeepSeek-powered, custom OpenAI-compatible LLMs, SSH GPU orchestration.",
+    "topics": [
+      "agent-harness",
+      "arxiv",
+      "computer-vision",
+      "deep-learning",
+      "deepseek",
+      "fastapi",
+      "gpu",
+      "literature-review",
+      "llm",
+      "nlp",
+      "paper-writing",
+      "python",
+      "research-agent",
+      "scientific-research"
+    ],
+    "html_url": "https://github.com/sddzlsc/SciForge",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T12:03:32Z",
+    "updated_at": "2026-10-19T23:01:15Z",
+    "pushed_at": "2026-10-18T14:40:40Z"
+  },
+  {
+    "id": 1427972616,
+    "name": "genpark-context-window-token-pruner-skill",
+    "full_name": "Alpha-Park/genpark-context-window-token-pruner-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Priority-weighted context window token pruner and FIFO eviction engine protecting LLM prompt boundaries",
+    "topics": [
+      "agent-skills",
+      "context-management",
+      "context-window",
+      "fifo-eviction",
+      "llm-optimization",
+      "mcp",
+      "memory",
+      "nlp",
+      "prompt-compression",
+      "python-standard-library",
+      "token-pruner"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-context-window-token-pruner-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T06:31:30Z",
+    "updated_at": "2026-10-21T06:31:57Z",
+    "pushed_at": "2026-10-21T06:31:58Z"
+  },
+  {
+    "id": 1426918565,
+    "name": "genpark-jinja-like-prompt-template-renderer-skill",
+    "full_name": "alphaparkinc/genpark-jinja-like-prompt-template-renderer-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Safe zero-dependency Jinja-like prompt template parser and renderer supporting for-loops, if-conditions, and variables",
+    "topics": [
+      "agent-skills",
+      "jinja",
+      "llm-tools",
+      "mcp",
+      "nlp",
+      "prompt-engineering",
+      "prompt-renderer",
+      "python-standard-library",
+      "string-formatting",
+      "template-engine",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-jinja-like-prompt-template-renderer-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T11:19:35Z",
+    "updated_at": "2026-10-20T11:20:17Z",
+    "pushed_at": "2026-10-20T11:20:20Z"
+  },
+  {
+    "id": 1425889111,
+    "name": "genpark-few-shot-mmr-diversity-selector-skill",
+    "full_name": "Alpha-Park/genpark-few-shot-mmr-diversity-selector-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Maximal Marginal Relevance (MMR) exemplar selector optimizing semantic relevance and diversity for LLM prompt engineering",
+    "topics": [
+      "agent-skills",
+      "cosine-similarity",
+      "diversity-selection",
+      "few-shot",
+      "in-context-learning",
+      "llm-optimization",
+      "mcp",
+      "mmr",
+      "nlp",
+      "prompt-engineering",
+      "python-standard-library"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-few-shot-mmr-diversity-selector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T16:29:55Z",
+    "updated_at": "2026-10-21T19:36:31Z",
+    "pushed_at": "2026-10-20T00:57:21Z"
+  },
+  {
+    "id": 1426919445,
+    "name": "genpark-jinja-like-prompt-template-renderer-skill",
+    "full_name": "Alpha-Park/genpark-jinja-like-prompt-template-renderer-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Safe zero-dependency Jinja-like prompt template parser and renderer supporting for-loops, if-conditions, and variables",
+    "topics": [
+      "agent-skills",
+      "jinja",
+      "llm-tools",
+      "mcp",
+      "nlp",
+      "prompt-engineering",
+      "prompt-renderer",
+      "python-standard-library",
+      "string-formatting",
+      "template-engine",
+      "zero-dependency"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-jinja-like-prompt-template-renderer-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T11:20:28Z",
+    "updated_at": "2026-10-20T11:21:11Z",
+    "pushed_at": "2026-10-20T11:21:15Z"
+  },
+  {
+    "id": 1426886635,
+    "name": "genpark-pii-redactor-and-data-masker-skill",
+    "full_name": "Alpha-Park/genpark-pii-redactor-and-data-masker-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Regex and Luhn heuristic PII redaction and tokenization engine sanitizing sensitive emails, phones, IPs, and credit cards",
+    "topics": [
+      "agent-skills",
+      "data-masking",
+      "data-sanitization",
+      "gdpr-compliance",
+      "luhn-algorithm",
+      "mcp",
+      "nlp",
+      "pii-redactor",
+      "privacy",
+      "python-standard-library",
+      "security"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-pii-redactor-and-data-masker-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T10:48:50Z",
+    "updated_at": "2026-10-20T10:49:13Z",
+    "pushed_at": "2026-10-20T10:49:15Z"
+  },
+  {
+    "id": 1426922503,
+    "name": "genpark-entropy-hallucination-detector-skill",
+    "full_name": "alphaparkinc/genpark-entropy-hallucination-detector-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Token entropy and n-gram perplexity analyzer auditing LLM outputs for degenerate repetition loops and vocabulary collapse",
+    "topics": [
+      "agent-skills",
+      "ai-safety",
+      "guardrails",
+      "hallucination-detection",
+      "llm-evaluation",
+      "mcp",
+      "nlp",
+      "perplexity",
+      "python-standard-library",
+      "shannon-entropy",
+      "token-analyzer"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-entropy-hallucination-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T11:23:11Z",
+    "updated_at": "2026-10-20T11:23:52Z",
+    "pushed_at": "2026-10-20T11:23:54Z"
+  },
+  {
+    "id": 1426886222,
+    "name": "genpark-pii-redactor-and-data-masker-skill",
+    "full_name": "alphaparkinc/genpark-pii-redactor-and-data-masker-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Regex and Luhn heuristic PII redaction and tokenization engine sanitizing sensitive emails, phones, IPs, and credit cards",
+    "topics": [
+      "agent-skills",
+      "data-masking",
+      "data-sanitization",
+      "gdpr-compliance",
+      "luhn-algorithm",
+      "mcp",
+      "nlp",
+      "pii-redactor",
+      "privacy",
+      "python-standard-library",
+      "security"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-pii-redactor-and-data-masker-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T10:48:24Z",
+    "updated_at": "2026-10-20T10:48:46Z",
+    "pushed_at": "2026-10-20T10:48:47Z"
+  },
+  {
+    "id": 1427978001,
+    "name": "genpark-prompt-drift-semantic-fingerprint-skill",
+    "full_name": "Alpha-Park/genpark-prompt-drift-semantic-fingerprint-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Prompt template drift and structural fingerprint sentinel detecting unauthorized prompt mutations and regressions",
+    "topics": [
+      "agent-skills",
+      "ai-governance",
+      "ci-cd",
+      "mcp",
+      "nlp",
+      "prompt-drift",
+      "prompt-registry",
+      "prompt-security",
+      "python-standard-library",
+      "quality-assurance",
+      "semantic-fingerprint"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-prompt-drift-semantic-fingerprint-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T06:37:11Z",
+    "updated_at": "2026-10-21T06:37:40Z",
+    "pushed_at": "2026-10-21T06:37:41Z"
+  },
+  {
+    "id": 1427972086,
+    "name": "genpark-context-window-token-pruner-skill",
+    "full_name": "alphaparkinc/genpark-context-window-token-pruner-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Priority-weighted context window token pruner and FIFO eviction engine protecting LLM prompt boundaries",
+    "topics": [
+      "agent-skills",
+      "context-management",
+      "context-window",
+      "fifo-eviction",
+      "llm-optimization",
+      "mcp",
+      "memory",
+      "nlp",
+      "prompt-compression",
+      "python-standard-library",
+      "token-pruner"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-context-window-token-pruner-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T06:30:55Z",
+    "updated_at": "2026-10-21T06:31:23Z",
+    "pushed_at": "2026-10-21T06:31:25Z"
+  },
+  {
+    "id": 1425888450,
+    "name": "genpark-few-shot-mmr-diversity-selector-skill",
+    "full_name": "alphaparkinc/genpark-few-shot-mmr-diversity-selector-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Maximal Marginal Relevance (MMR) exemplar selector optimizing semantic relevance and diversity for LLM prompt engineering",
+    "topics": [
+      "agent-skills",
+      "cosine-similarity",
+      "diversity-selection",
+      "few-shot",
+      "in-context-learning",
+      "llm-optimization",
+      "mcp",
+      "mmr",
+      "nlp",
+      "prompt-engineering",
+      "python-standard-library"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-few-shot-mmr-diversity-selector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T16:29:21Z",
+    "updated_at": "2026-10-19T16:29:48Z",
+    "pushed_at": "2026-10-19T16:29:50Z"
+  },
+  {
+    "id": 1426923330,
+    "name": "genpark-entropy-hallucination-detector-skill",
+    "full_name": "Alpha-Park/genpark-entropy-hallucination-detector-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Token entropy and n-gram perplexity analyzer auditing LLM outputs for degenerate repetition loops and vocabulary collapse",
+    "topics": [
+      "agent-skills",
+      "ai-safety",
+      "guardrails",
+      "hallucination-detection",
+      "llm-evaluation",
+      "mcp",
+      "nlp",
+      "perplexity",
+      "python-standard-library",
+      "shannon-entropy",
+      "token-analyzer"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-entropy-hallucination-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T11:24:01Z",
+    "updated_at": "2026-10-20T11:24:45Z",
+    "pushed_at": "2026-10-20T11:24:47Z"
+  },
+  {
+    "id": 1427977452,
+    "name": "genpark-prompt-drift-semantic-fingerprint-skill",
+    "full_name": "alphaparkinc/genpark-prompt-drift-semantic-fingerprint-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Prompt template drift and structural fingerprint sentinel detecting unauthorized prompt mutations and regressions",
+    "topics": [
+      "agent-skills",
+      "ai-governance",
+      "ci-cd",
+      "mcp",
+      "nlp",
+      "prompt-drift",
+      "prompt-registry",
+      "prompt-security",
+      "python-standard-library",
+      "quality-assurance",
+      "semantic-fingerprint"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-prompt-drift-semantic-fingerprint-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T06:36:35Z",
+    "updated_at": "2026-10-21T06:37:04Z",
+    "pushed_at": "2026-10-21T06:37:06Z"
+  },
+  {
+    "id": 1421998433,
+    "name": "BanglaBBQ-benchmark",
+    "full_name": "SummitAnthony/BanglaBBQ-benchmark",
+    "owner": {
+      "login": "SummitAnthony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29682583?v=4"
+    },
+    "description": "BanglaBBQ: a bias benchmark for question answering in the Bangladeshi context (English and Bangla)",
+    "topics": [
+      "bangla",
+      "bangladesh",
+      "benchmark",
+      "bengali",
+      "bias",
+      "dataset",
+      "fairness",
+      "llm-evaluation",
+      "nlp",
+      "question-answering"
+    ],
+    "html_url": "https://github.com/SummitAnthony/BanglaBBQ-benchmark",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T10:17:34Z",
+    "updated_at": "2026-10-17T15:19:08Z",
+    "pushed_at": "2026-10-17T15:19:04Z"
+  },
+  {
+    "id": 1425272974,
+    "name": "trnorm-js",
+    "full_name": "ozguradmin/trnorm-js",
+    "owner": {
+      "login": "ozguradmin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98276091?v=4"
+    },
+    "description": "Turkish text normalization for speech in JavaScript - same output as Python trnorm (npm: @ozgurguler/trnorm)",
+    "topics": [
+      "asr",
+      "javascript",
+      "nlp",
+      "number-to-words",
+      "speech",
+      "text-normalization",
+      "tts",
+      "turkish"
+    ],
+    "html_url": "https://github.com/ozguradmin/trnorm-js",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T07:37:06Z",
+    "updated_at": "2026-10-22T17:39:10Z",
+    "pushed_at": "2026-10-19T17:17:33Z"
+  },
+  {
+    "id": 1423777274,
+    "name": "M1-Event-Understanding",
+    "full_name": "XRedMzK/M1-Event-Understanding",
+    "owner": {
+      "login": "XRedMzK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67847191?v=4"
+    },
+    "description": "Experimental modular event understanding with explicit feature and trained-state interfaces: events, argument roles, polarity, relations and canonicalization.",
+    "topics": [
+      "event-extraction",
+      "experimental",
+      "nlp",
+      "pytorch",
+      "research",
+      "structured-prediction"
+    ],
+    "html_url": "https://github.com/XRedMzK/M1-Event-Understanding",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-10-17T21:51:56Z",
+    "updated_at": "2026-10-21T07:29:49Z",
+    "pushed_at": "2026-10-20T08:25:00Z"
+  }
+]

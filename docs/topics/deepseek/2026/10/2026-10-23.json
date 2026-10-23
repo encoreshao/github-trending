@@ -1,0 +1,581 @@
+[
+  {
+    "id": 1425063397,
+    "name": "MemT-1.0",
+    "full_name": "MemTensor/MemT-1.0",
+    "owner": {
+      "login": "MemTensor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210160027?v=4"
+    },
+    "description": "Official repository for MemT-1.0",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "llm",
+      "long-context",
+      "long-term-memory",
+      "memory",
+      "memory-augmented-models",
+      "native-memory",
+      "qwen",
+      "sglang"
+    ],
+    "html_url": "https://github.com/MemTensor/MemT-1.0",
+    "stargazers_count": 344,
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 4,
+    "created_at": "2026-10-19T03:29:30Z",
+    "updated_at": "2026-10-23T01:50:39Z",
+    "pushed_at": "2026-10-20T08:42:21Z"
+  },
+  {
+    "id": 1423190069,
+    "name": "deepseek-local-guide-ru",
+    "full_name": "justxor/deepseek-local-guide-ru",
+    "owner": {
+      "login": "justxor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30596522?v=4"
+    },
+    "description": "🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "deepseek-r1",
+      "deepseek-v4",
+      "gguf",
+      "guide",
+      "llama-cpp",
+      "llm",
+      "llm-inference",
+      "lm-studio",
+      "local-llm",
+      "ollama",
+      "open-webui",
+      "quantization",
+      "rag",
+      "russian",
+      "self-hosted",
+      "sglang",
+      "tutorial",
+      "vllm"
+    ],
+    "html_url": "https://github.com/justxor/deepseek-local-guide-ru",
+    "stargazers_count": 133,
+    "language": "Shell",
+    "forks_count": 26,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T10:03:36Z",
+    "updated_at": "2026-10-21T20:53:55Z",
+    "pushed_at": "2026-10-17T13:25:10Z"
+  },
+  {
+    "id": 1425469945,
+    "name": "dsh-purge-021rc2",
+    "full_name": "evilevil/dsh-purge-021rc2",
+    "owner": {
+      "login": "evilevil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17311256?v=4"
+    },
+    "description": "dsh-purge 社区适配版：上游已停更，这里让它继续跑在 DeepSeek Harness 0.2.1-rc.2 上（基于 1.1.72）",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "jailbreak"
+    ],
+    "html_url": "https://github.com/evilevil/dsh-purge-021rc2",
+    "stargazers_count": 120,
+    "language": "JavaScript",
+    "forks_count": 106,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T10:47:07Z",
+    "updated_at": "2026-10-23T01:59:35Z",
+    "pushed_at": "2026-10-19T11:42:18Z"
+  },
+  {
+    "id": 1423035785,
+    "name": "EAC-design-world",
+    "full_name": "Ebony-Vinyl/EAC-design-world",
+    "owner": {
+      "login": "Ebony-Vinyl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245557608?v=4"
+    },
+    "description": "DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设计体系、原生预览画布和真实文件导出",
+    "topics": [
+      "ai-design",
+      "ai-video",
+      "content-creation",
+      "cordis-plugin",
+      "deepseek",
+      "deepseek-harness",
+      "design-studio",
+      "design-systems",
+      "design-tools",
+      "dsh",
+      "dsh-plugin",
+      "ffmpeg",
+      "html-to-video",
+      "local-first",
+      "mcp-server",
+      "motion-graphics",
+      "subtitles",
+      "video-editing",
+      "video-editor",
+      "video-production"
+    ],
+    "html_url": "https://github.com/Ebony-Vinyl/EAC-design-world",
+    "stargazers_count": 119,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 2,
+    "created_at": "2026-10-17T06:46:19Z",
+    "updated_at": "2026-10-23T01:40:23Z",
+    "pushed_at": "2026-10-18T06:57:51Z"
+  },
+  {
+    "id": 1426256817,
+    "name": "bili-cli",
+    "full_name": "kukemc/bili-cli",
+    "owner": {
+      "login": "kukemc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95417077?v=4"
+    },
+    "description": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "automation",
+      "bilibili",
+      "claude-code",
+      "cli",
+      "codex",
+      "deepseek",
+      "deepseek-harness",
+      "llm-tools",
+      "mcp",
+      "openclaw",
+      "qwen3-asr"
+    ],
+    "html_url": "https://github.com/kukemc/bili-cli",
+    "stargazers_count": 69,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T22:44:50Z",
+    "updated_at": "2026-10-23T00:35:29Z",
+    "pushed_at": "2026-10-22T18:12:06Z"
+  },
+  {
+    "id": 1423861693,
+    "name": "DeepSeek-V4.1-Flash-1017-EXL3-TensorFold-2x-DGX-Spark",
+    "full_name": "Elevatormusic/DeepSeek-V4.1-Flash-1017-EXL3-TensorFold-2x-DGX-Spark",
+    "owner": {
+      "login": "Elevatormusic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22101396?v=4"
+    },
+    "description": "DeepSeek-V4.1-Flash-1017 EXL3 2.9bpw on 2x NVIDIA DGX Spark (GB10) with TensorFold: 2.1-2.3x the vLLM kit's decode speed.",
+    "topics": [
+      "deepseek",
+      "dgx-spark",
+      "exl3",
+      "gb10",
+      "llm-inference",
+      "nvidia",
+      "tensor-parallel",
+      "tensorfold"
+    ],
+    "html_url": "https://github.com/Elevatormusic/DeepSeek-V4.1-Flash-1017-EXL3-TensorFold-2x-DGX-Spark",
+    "stargazers_count": 56,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 8,
+    "created_at": "2026-10-18T00:24:54Z",
+    "updated_at": "2026-10-22T12:29:49Z",
+    "pushed_at": "2026-10-22T22:36:39Z"
+  },
+  {
+    "id": 1424262479,
+    "name": "Xsdsh-purge",
+    "full_name": "xiaoshe1337-star/Xsdsh-purge",
+    "owner": {
+      "login": "xiaoshe1337-star",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296236843?v=4"
+    },
+    "description": "沿用了此项目：https://github.com/YuJunZhiXue/dsh-purge  专注于deepseek harness破甲|逆向|渗透|   适配最新版deepseek harness ：deepseek v4.1 flash 最新版 ",
+    "topics": [
+      "deep-learning",
+      "deepseek",
+      "deepseek-harness",
+      "jailbreak",
+      "pentest",
+      "reverse"
+    ],
+    "html_url": "https://github.com/xiaoshe1337-star/Xsdsh-purge",
+    "stargazers_count": 53,
+    "language": "JavaScript",
+    "forks_count": 28,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T10:43:51Z",
+    "updated_at": "2026-10-22T20:57:11Z",
+    "pushed_at": "2026-10-18T18:47:57Z"
+  },
+  {
+    "id": 1424432368,
+    "name": "dsh-purge-0.2.1rc2-fix",
+    "full_name": "Potato1008ypy/dsh-purge-0.2.1rc2-fix",
+    "owner": {
+      "login": "Potato1008ypy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120237061?v=4"
+    },
+    "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. ",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "dsh-plugins",
+      "harness-jailbreak",
+      "jailbreak",
+      "llm-jailbreak"
+    ],
+    "html_url": "https://github.com/Potato1008ypy/dsh-purge-0.2.1rc2-fix",
+    "stargazers_count": 45,
+    "language": "JavaScript",
+    "forks_count": 25,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T13:56:39Z",
+    "updated_at": "2026-10-23T01:03:50Z",
+    "pushed_at": "2026-10-21T15:24:29Z"
+  },
+  {
+    "id": 1424372798,
+    "name": "bettersearch",
+    "full_name": "ry0narushima/bettersearch",
+    "owner": {
+      "login": "ry0narushima",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341386051?v=4"
+    },
+    "description": "Deep research for any AI agent on DeepSeek's new Search API. Subagents, fact-checking, and a clean HTML report.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "deepseek",
+      "research"
+    ],
+    "html_url": "https://github.com/ry0narushima/bettersearch",
+    "stargazers_count": 40,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T12:55:04Z",
+    "updated_at": "2026-10-22T01:15:31Z",
+    "pushed_at": "2026-10-18T12:55:11Z"
+  },
+  {
+    "id": 1423385933,
+    "name": "model-relay",
+    "full_name": "cablate/model-relay",
+    "owner": {
+      "login": "cablate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85614048?v=4"
+    },
+    "description": "Per-window model switcher, subagent router, and automatic 429 failover for Claude Code — switch any window with /provider, delegate subagents across models, and keep Remote Control & statuslines working.",
+    "topics": [
+      "anthropic",
+      "claude-code",
+      "deepseek",
+      "failover",
+      "gemini",
+      "glm",
+      "llm-router"
+    ],
+    "html_url": "https://github.com/cablate/model-relay",
+    "stargazers_count": 38,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T13:59:47Z",
+    "updated_at": "2026-10-23T00:15:40Z",
+    "pushed_at": "2026-10-22T13:12:55Z"
+  },
+  {
+    "id": 1423405529,
+    "name": "dsh-purge-plus",
+    "full_name": "luowang-ui/dsh-purge-plus",
+    "owner": {
+      "login": "luowang-ui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62333101?v=4"
+    },
+    "description": "Purge Community Plus - DeepSeek Harness jailbreak plugin, adapted for DSH Desktop 0.2.1-rc.x. Fixes #119 host crash and the toolFilter preset-registration failure.",
+    "topics": [
+      "agent-tools",
+      "compatibility",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "jailbreak",
+      "prompt-injection",
+      "prompt-management",
+      "purge-community"
+    ],
+    "html_url": "https://github.com/luowang-ui/dsh-purge-plus",
+    "stargazers_count": 37,
+    "language": "JavaScript",
+    "forks_count": 18,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T14:20:26Z",
+    "updated_at": "2026-10-23T01:40:59Z",
+    "pushed_at": "2026-10-17T14:36:09Z"
+  },
+  {
+    "id": 1423577082,
+    "name": "dsh-plugin-index",
+    "full_name": "polang233/dsh-plugin-index",
+    "owner": {
+      "login": "polang233",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104189797?v=4"
+    },
+    "description": "Open Plugin Market — Community plugin index for DeepSeek Harness (DSH).  照顾小开发者的插件索引、插件市场、开放插件市场",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "deepseek-harness-plugins",
+      "dsh",
+      "dsh-plugin",
+      "plugin-catalog",
+      "plugin-directory",
+      "plugin-index",
+      "plugin-marketplace",
+      "plugins"
+    ],
+    "html_url": "https://github.com/polang233/dsh-plugin-index",
+    "stargazers_count": 34,
+    "language": "HTML",
+    "forks_count": 4,
+    "open_issues_count": 13,
+    "created_at": "2026-10-17T17:29:57Z",
+    "updated_at": "2026-10-23T01:06:06Z",
+    "pushed_at": "2026-10-22T20:05:32Z"
+  },
+  {
+    "id": 1424279959,
+    "name": "meta-ads-agent",
+    "full_name": "jiangylin5-hue/meta-ads-agent",
+    "owner": {
+      "login": "jiangylin5-hue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288583459?v=4"
+    },
+    "description": "Bounded Meta Ads copilot with MCP tools, progressive Skills, context, Memory and safe Draft workflows",
+    "topics": [
+      "ai-agent",
+      "context-engineering",
+      "deepseek",
+      "fastapi",
+      "llm-agent",
+      "mcp",
+      "meta-ads",
+      "nextjs"
+    ],
+    "html_url": "https://github.com/jiangylin5-hue/meta-ads-agent",
+    "stargazers_count": 26,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T11:06:16Z",
+    "updated_at": "2026-10-23T00:30:41Z",
+    "pushed_at": "2026-10-19T14:21:02Z"
+  },
+  {
+    "id": 1423152787,
+    "name": "dsh-startup-screen",
+    "full_name": "QIFANAI/dsh-startup-screen",
+    "owner": {
+      "login": "QIFANAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/343858955?v=4"
+    },
+    "description": "DeepSeek Harness 启动动画插件：Canvas 光场 + 中文清晰度优化",
+    "topics": [
+      "canvas",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "plugin",
+      "startup-animation"
+    ],
+    "html_url": "https://github.com/QIFANAI/dsh-startup-screen",
+    "stargazers_count": 23,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-10-17T09:22:51Z",
+    "updated_at": "2026-10-21T14:05:20Z",
+    "pushed_at": "2026-10-17T09:27:34Z"
+  },
+  {
+    "id": 1423974045,
+    "name": "codex-deepseek-patch",
+    "full_name": "limyum-creator/codex-deepseek-patch",
+    "owner": {
+      "login": "limyum-creator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256768091?v=4"
+    },
+    "description": "在原版 Codex 中切换模型：DS 版直连 DeepSeek，扩展版接入云端与本地兼容接口。macOS / Windows，原生设置窗口、独立自动更新与模型规格同步。",
+    "topics": [
+      "codex",
+      "deepseek",
+      "electron",
+      "macos",
+      "python",
+      "windows"
+    ],
+    "html_url": "https://github.com/limyum-creator/codex-deepseek-patch",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-18T04:05:59Z",
+    "updated_at": "2026-10-22T12:20:50Z",
+    "pushed_at": "2026-10-21T13:00:25Z"
+  },
+  {
+    "id": 1428537696,
+    "name": "grokbot-dsh-orchestrator-vn",
+    "full_name": "diginno-net/grokbot-dsh-orchestrator-vn",
+    "owner": {
+      "login": "diginno-net",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286755282?v=4"
+    },
+    "description": "Biến Grok Bot thành lớp điều phối, DeepSeek Harness làm worker giá rẻ — tiết kiệm quota, chạy liên tục",
+    "topics": [
+      "ai-agent",
+      "automation",
+      "deepseek",
+      "grok-bot",
+      "vietnam"
+    ],
+    "html_url": "https://github.com/diginno-net/grokbot-dsh-orchestrator-vn",
+    "stargazers_count": 19,
+    "language": "Shell",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T14:58:50Z",
+    "updated_at": "2026-10-22T20:23:23Z",
+    "pushed_at": "2026-10-21T14:58:55Z"
+  },
+  {
+    "id": 1428446758,
+    "name": "mcd-advisor",
+    "full_name": "wenboxia/mcd-advisor",
+    "owner": {
+      "login": "wenboxia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130817919?v=4"
+    },
+    "description": "麦麦参谋：想吃的一样不变，用麦当劳官方核价帮你找到这一顿更合适的买法（麦当劳中国 MCP · Agent Skill · 零依赖 CLI）",
+    "topics": [
+      "agent-skill",
+      "claude-code",
+      "codex",
+      "deepseek",
+      "mcdonalds",
+      "mcp",
+      "nodejs"
+    ],
+    "html_url": "https://github.com/wenboxia/mcd-advisor",
+    "stargazers_count": 19,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T13:45:45Z",
+    "updated_at": "2026-10-22T12:57:38Z",
+    "pushed_at": "2026-10-22T04:18:39Z"
+  },
+  {
+    "id": 1424475290,
+    "name": "dsh-breaklimit",
+    "full_name": "rumoii/dsh-breaklimit",
+    "owner": {
+      "login": "rumoii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123233666?v=4"
+    },
+    "description": "为 DeepSeek Harness 设计的破限插件：卸掉宿主的提示词限制和审批拦截，让助手照你说的做，不半路拒绝、不反复请示。补丁逐条可选，随时还原原版。 A jailbreak plugin for DeepSeek Harness: it strips the host's prompt restrictions and approval gates so the assistant does what you asked instead of refusing or asking permission mid-task. Patches are individually selectable and revert cleanly.",
+    "topics": [
+      "ai-agents",
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "jailbreak",
+      "llm",
+      "plugin",
+      "prompt-engineering"
+    ],
+    "html_url": "https://github.com/rumoii/dsh-breaklimit",
+    "stargazers_count": 12,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T14:42:10Z",
+    "updated_at": "2026-10-22T18:13:11Z",
+    "pushed_at": "2026-10-22T18:13:03Z"
+  },
+  {
+    "id": 1421867805,
+    "name": "yolo-bot",
+    "full_name": "cyancity/yolo-bot",
+    "owner": {
+      "login": "cyancity",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26839110?v=4"
+    },
+    "description": "yolo-bot: DeepSeek Harness 数字员工工作台插件（host + web UI）",
+    "topics": [
+      "ai-agents",
+      "bot",
+      "deepseek",
+      "deepseek-harness",
+      "digital-employees",
+      "dsh-plugin",
+      "multi-agent"
+    ],
+    "html_url": "https://github.com/cyancity/yolo-bot",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T08:28:49Z",
+    "updated_at": "2026-10-23T01:15:11Z",
+    "pushed_at": "2026-10-20T08:53:04Z"
+  },
+  {
+    "id": 1426942815,
+    "name": "humanitys-last-math-book",
+    "full_name": "niuniu-869/humanitys-last-math-book",
+    "owner": {
+      "login": "niuniu-869",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143444128?v=4"
+    },
+    "description": "人类最后一本数理基础书：从中学数学到读懂大模型，一本随读者提问不断迭代的开源教材，附 dsh 答疑插件 · Humanity's Last Math Book",
+    "topics": [
+      "calculus",
+      "chinese",
+      "deep-learning",
+      "deepseek",
+      "linear-algebra",
+      "machine-learning",
+      "manim",
+      "mathematics",
+      "open-educational-resources",
+      "probability",
+      "textbook"
+    ],
+    "html_url": "https://github.com/niuniu-869/humanitys-last-math-book",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T11:41:50Z",
+    "updated_at": "2026-10-23T01:15:09Z",
+    "pushed_at": "2026-10-20T14:24:39Z"
+  }
+]

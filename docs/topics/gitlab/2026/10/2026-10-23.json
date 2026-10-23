@@ -1,0 +1,585 @@
+[
+  {
+    "id": 1426431419,
+    "name": "ReleaseFlow",
+    "full_name": "hoangluongtran0309/ReleaseFlow",
+    "owner": {
+      "login": "hoangluongtran0309",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340414283?v=4"
+    },
+    "description": "Self-hosted release notes: turn merged pull requests and finished issues into notes a person has reviewed, written for each audience, and delivered where they read them.",
+    "topics": [
+      "changelog",
+      "docker",
+      "github",
+      "gitlab",
+      "java",
+      "jira",
+      "linear",
+      "postgresql",
+      "release-management",
+      "release-notes",
+      "self-hosted",
+      "spring-boot"
+    ],
+    "html_url": "https://github.com/hoangluongtran0309/ReleaseFlow",
+    "stargazers_count": 3,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 20,
+    "created_at": "2026-10-20T03:00:21Z",
+    "updated_at": "2026-10-21T14:01:06Z",
+    "pushed_at": "2026-10-20T15:24:38Z"
+  },
+  {
+    "id": 1426054526,
+    "name": "redmine_pull_requests",
+    "full_name": "aarondpn/redmine_pull_requests",
+    "owner": {
+      "login": "aarondpn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58708656?v=4"
+    },
+    "description": "Redmine plugin: link GitHub pull requests and GitLab merge requests to issues, with reviews, checks and webhooks. Redmine 5.0–7.0.",
+    "topics": [
+      "github",
+      "gitlab",
+      "merge-requests",
+      "pull-requests",
+      "redmine",
+      "redmine-plugin",
+      "webhooks"
+    ],
+    "html_url": "https://github.com/aarondpn/redmine_pull_requests",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-19T19:03:09Z",
+    "updated_at": "2026-10-20T15:15:11Z",
+    "pushed_at": "2026-10-19T22:10:05Z"
+  },
+  {
+    "id": 1424775093,
+    "name": "my-code-dashboard",
+    "full_name": "olegiv/my-code-dashboard",
+    "owner": {
+      "login": "olegiv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/914452?v=4"
+    },
+    "description": "Self-hosted security dashboard for GitHub and GitLab repositories, built with Go, HTMX, and Alpine.js.",
+    "topics": [
+      "alpinejs",
+      "devsecops",
+      "github",
+      "gitlab",
+      "golang",
+      "htmx",
+      "security-dashboard",
+      "self-hosted",
+      "vulnerability-management"
+    ],
+    "html_url": "https://github.com/olegiv/my-code-dashboard",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T20:10:17Z",
+    "updated_at": "2026-10-19T19:14:04Z",
+    "pushed_at": "2026-10-19T19:13:58Z"
+  },
+  {
+    "id": 1430250580,
+    "name": "nohalt",
+    "full_name": "Seityl/nohalt",
+    "owner": {
+      "login": "Seityl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153787001?v=4"
+    },
+    "description": "Autonomous coding agents that keep going until the forge says done. Supervises opencode / Claude Code fleets on GitHub and GitLab issues.",
+    "topics": [
+      "ai-agents",
+      "autonomous-agents",
+      "ci",
+      "claude-code",
+      "coding-agents",
+      "frappe",
+      "github",
+      "gitlab",
+      "opencode",
+      "python"
+    ],
+    "html_url": "https://github.com/Seityl/nohalt",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-22T20:37:49Z",
+    "updated_at": "2026-10-23T00:01:19Z",
+    "pushed_at": "2026-10-23T00:01:26Z"
+  },
+  {
+    "id": 1428818873,
+    "name": "dsh-plugins",
+    "full_name": "k0ndrateff/dsh-plugins",
+    "owner": {
+      "login": "k0ndrateff",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63606405?v=4"
+    },
+    "description": "Useful developer plugins for DeepSeek Harness.",
+    "topics": [
+      "atlassian",
+      "deepseek-harness",
+      "dsh-plugin",
+      "figma",
+      "gitlab",
+      "jira",
+      "plugins",
+      "sentry"
+    ],
+    "html_url": "https://github.com/k0ndrateff/dsh-plugins",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T19:08:28Z",
+    "updated_at": "2026-10-23T01:06:28Z",
+    "pushed_at": "2026-10-23T01:06:24Z"
+  },
+  {
+    "id": 1423118990,
+    "name": "gitbackup",
+    "full_name": "MarvAmBass/gitbackup",
+    "owner": {
+      "login": "MarvAmBass",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8941027?v=4"
+    },
+    "description": "History-preserving git backup for GitHub, GitLab, Gitea/Forgejo, sourcehut and plain git – with a web UI",
+    "topics": [
+      "backup",
+      "forgejo",
+      "git",
+      "gitea",
+      "github",
+      "gitlab",
+      "golang",
+      "self-hosted",
+      "sourcehut"
+    ],
+    "html_url": "https://github.com/MarvAmBass/gitbackup",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T08:37:16Z",
+    "updated_at": "2026-10-22T22:15:50Z",
+    "pushed_at": "2026-10-17T12:32:27Z"
+  },
+  {
+    "id": 1428385657,
+    "name": "NS8-GitLab",
+    "full_name": "BLS-ISP/NS8-GitLab",
+    "owner": {
+      "login": "BLS-ISP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271538661?v=4"
+    },
+    "description": "Self-hosted GitLab Community Edition DevSecOps platform for NethServer 8 (NS8) with Git, CI/CD Runner, and Container Registry",
+    "topics": [
+      "ci-cd",
+      "devsecops",
+      "gitlab",
+      "nethserver8",
+      "ns8"
+    ],
+    "html_url": "https://github.com/BLS-ISP/NS8-GitLab",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T12:55:54Z",
+    "updated_at": "2026-10-22T15:01:39Z",
+    "pushed_at": "2026-10-22T14:42:54Z"
+  },
+  {
+    "id": 1421580644,
+    "name": "repo-harbor",
+    "full_name": "zzxCoding/repo-harbor",
+    "owner": {
+      "login": "zzxCoding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33575021?v=4"
+    },
+    "description": "Self-hosted code maps and MCP access for AI, with GitLab, GitHub and generic Git sync, a web dashboard, and repository-scoped tokens.",
+    "topics": [
+      "code-intelligence",
+      "codegraph",
+      "docker",
+      "git",
+      "github",
+      "gitlab",
+      "mcp",
+      "mcp-server",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/zzxCoding/repo-harbor",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T03:13:14Z",
+    "updated_at": "2026-10-21T03:42:40Z",
+    "pushed_at": "2026-10-21T03:42:37Z"
+  },
+  {
+    "id": 1429222137,
+    "name": "asyncself",
+    "full_name": "tikvio/asyncself",
+    "owner": {
+      "login": "tikvio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297261093?v=4"
+    },
+    "description": "Your background coding worker.",
+    "topics": [
+      "ai-coding-agent",
+      "automation",
+      "codex",
+      "coding-agent",
+      "elixir",
+      "github",
+      "gitlab",
+      "linear"
+    ],
+    "html_url": "https://github.com/tikvio/asyncself",
+    "stargazers_count": 1,
+    "language": "Elixir",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T04:05:28Z",
+    "updated_at": "2026-10-22T14:13:48Z",
+    "pushed_at": "2026-10-22T13:56:52Z"
+  },
+  {
+    "id": 1425921494,
+    "name": "dsh-maestro-review",
+    "full_name": "ddtcorex/dsh-maestro-review",
+    "owner": {
+      "login": "ddtcorex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103315997?v=4"
+    },
+    "description": "Maestro Review for the DeepSeek Harness web host: GitLab webhook intake, project mappings with local worktrees, the Settings section and Telegram digests, on the maestro-reviewer engine",
+    "topics": [
+      "ai-review",
+      "code-review",
+      "cordis",
+      "deepseek-harness",
+      "dsh-plugin",
+      "gitlab",
+      "gitlab-webhook",
+      "maestro",
+      "merge-request",
+      "telegram"
+    ],
+    "html_url": "https://github.com/ddtcorex/dsh-maestro-review",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T16:59:28Z",
+    "updated_at": "2026-10-21T11:38:48Z",
+    "pushed_at": "2026-10-21T11:39:06Z"
+  },
+  {
+    "id": 1423612686,
+    "name": "gitlab-mobile",
+    "full_name": "akari-sora/gitlab-mobile",
+    "owner": {
+      "login": "akari-sora",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84017085?v=4"
+    },
+    "description": "GitLab Mobile — Mobile-first Flutter client for Android and iOS. Canonical development & issues on GitLab. Mirror; canonical repo and issues: gitlab.com/aa22396584/gitlab-mobile",
+    "topics": [
+      "android",
+      "dart",
+      "flutter",
+      "gitlab",
+      "ios",
+      "mobile"
+    ],
+    "html_url": "https://github.com/akari-sora/gitlab-mobile",
+    "stargazers_count": 0,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T18:12:34Z",
+    "updated_at": "2026-10-22T21:57:16Z",
+    "pushed_at": "2026-10-22T21:57:09Z"
+  },
+  {
+    "id": 1425387191,
+    "name": "gscan",
+    "full_name": "AindriuB/gscan",
+    "owner": {
+      "login": "AindriuB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3417729?v=4"
+    },
+    "description": "Survey local Git repositories from the command line",
+    "topics": [
+      "git",
+      "github",
+      "gitlab",
+      "macos",
+      "macos-package",
+      "repository-analysis",
+      "rust",
+      "rust-cli",
+      "unix",
+      "unix-tools"
+    ],
+    "html_url": "https://github.com/AindriuB/gscan",
+    "stargazers_count": 0,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T09:28:42Z",
+    "updated_at": "2026-10-19T11:15:15Z",
+    "pushed_at": "2026-10-19T11:21:09Z"
+  },
+  {
+    "id": 1424235189,
+    "name": "agent-sandbox",
+    "full_name": "cypr0/agent-sandbox",
+    "owner": {
+      "login": "cypr0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103377777?v=4"
+    },
+    "description": "Docker sandbox for Claude Code and Hermes Agent: GitHub/GitLab ticket workflow, DevSecOps review pipeline, guardrails and a documentation writer",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "devsecops",
+      "docker",
+      "documentation",
+      "github",
+      "gitlab",
+      "gitops",
+      "hermes-agent",
+      "homelab",
+      "kubernetes",
+      "sandbox"
+    ],
+    "html_url": "https://github.com/cypr0/agent-sandbox",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T10:08:25Z",
+    "updated_at": "2026-10-18T14:16:24Z",
+    "pushed_at": "2026-10-18T14:16:20Z"
+  },
+  {
+    "id": 1427386840,
+    "name": "code-review-service",
+    "full_name": "yi-nology/code-review-service",
+    "owner": {
+      "login": "yi-nology",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63343176?v=4"
+    },
+    "description": "AI 代码评审网关：接入 GitHub / GitLab / Gitea / GitCode / 腾讯云 Code，用 Open Code Review 做多智能体评审，回写行内评论与 commit status",
+    "topics": [
+      "ai",
+      "code-review",
+      "devops",
+      "gitcode",
+      "gitea",
+      "github",
+      "gitlab",
+      "golang",
+      "llm",
+      "mcp",
+      "ocr",
+      "open-code-review",
+      "quality-gate",
+      "vue"
+    ],
+    "html_url": "https://github.com/yi-nology/code-review-service",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T18:02:30Z",
+    "updated_at": "2026-10-21T16:54:52Z",
+    "pushed_at": "2026-10-21T16:55:13Z"
+  },
+  {
+    "id": 1427655768,
+    "name": "gitlab-readonly-mcp",
+    "full_name": "igordev96/gitlab-readonly-mcp",
+    "owner": {
+      "login": "igordev96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91806111?v=4"
+    },
+    "description": "Read-only, git-backed MCP server for a self-managed GitLab",
+    "topics": [
+      "ai-agents",
+      "developer-tools",
+      "git",
+      "gitlab",
+      "mcp",
+      "typescript"
+    ],
+    "html_url": "https://github.com/igordev96/gitlab-readonly-mcp",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T23:10:27Z",
+    "updated_at": "2026-10-21T22:31:45Z",
+    "pushed_at": "2026-10-21T22:31:41Z"
+  },
+  {
+    "id": 1429672006,
+    "name": "buff-connector",
+    "full_name": "buffsystems/buff-connector",
+    "owner": {
+      "login": "buffsystems",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345420356?v=4"
+    },
+    "description": "Коннектор Buff — агент в вашем периметре: ИИ-агенты работают с кодом, трекерами и документами, а контент, ключи и интеллектуальная собственность остаются у вас. An agent inside your perimeter: Buff's AI agents work with your code, trackers and documents, while content, keys and IP stay with you.",
+    "topics": [
+      "ai-agents",
+      "confluence",
+      "connector",
+      "gitlab",
+      "jira",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "on-premise",
+      "security",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/buffsystems/buff-connector",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T11:48:02Z",
+    "updated_at": "2026-10-22T15:43:06Z",
+    "pushed_at": "2026-10-22T15:43:01Z"
+  },
+  {
+    "id": 1425880128,
+    "name": "vigie",
+    "full_name": "sgaunet/vigie",
+    "owner": {
+      "login": "sgaunet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1552102?v=4"
+    },
+    "description": "Read-only CLI that prints a one-line status of the GitLab project behind your git clone: branches, pipelines, merge requests and issues, with a live --watch mode.",
+    "topics": [
+      "cli",
+      "developer-tools",
+      "gitlab",
+      "gitlab-ci",
+      "go",
+      "golang",
+      "merge-requests",
+      "pipelines",
+      "status-line",
+      "terminal"
+    ],
+    "html_url": "https://github.com/sgaunet/vigie",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T16:21:36Z",
+    "updated_at": "2026-10-21T21:12:25Z",
+    "pushed_at": "2026-10-21T21:16:08Z"
+  },
+  {
+    "id": 1423444589,
+    "name": "pyTooling.GitLab",
+    "full_name": "pyTooling/pyTooling.GitLab",
+    "owner": {
+      "login": "pyTooling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93549182?v=4"
+    },
+    "description": "Working with GitLab pipelines - workflow files, action files, convert pipeline runs to (OTLP) traces.",
+    "topics": [
+      "gitlab",
+      "gitlab-ci",
+      "pipeline",
+      "pytooling",
+      "trace"
+    ],
+    "html_url": "https://github.com/pyTooling/pyTooling.GitLab",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-17T15:01:54Z",
+    "updated_at": "2026-10-20T06:31:53Z",
+    "pushed_at": "2026-10-22T19:04:41Z"
+  },
+  {
+    "id": 1422760149,
+    "name": "heinzel",
+    "full_name": "v0lumehi/heinzel",
+    "owner": {
+      "login": "v0lumehi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34629096?v=4"
+    },
+    "description": "Self-hosted AI teammate for Slack and Microsoft Teams: proactive, team memory, MCP tools, coding sessions with draft MRs. Any LLM, your infrastructure.",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "chatops",
+      "gitlab",
+      "kubernetes",
+      "llm",
+      "mcp",
+      "microsoft-teams",
+      "self-hosted",
+      "slack-bot",
+      "typescript"
+    ],
+    "html_url": "https://github.com/v0lumehi/heinzel",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-16T23:12:56Z",
+    "updated_at": "2026-10-17T18:02:59Z",
+    "pushed_at": "2026-10-17T18:02:55Z"
+  },
+  {
+    "id": 1423458071,
+    "name": "ci-accelerator",
+    "full_name": "hoobiboobi/ci-accelerator",
+    "owner": {
+      "login": "hoobiboobi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176516562?v=4"
+    },
+    "description": "Self-hosted fast CI builds for GitLab: a persistent BuildKit build farm with shared cache on Kubernetes, packaged as Helm charts.",
+    "topics": [
+      "build-cache",
+      "buildkit",
+      "ci",
+      "docker",
+      "gitlab",
+      "gitlab-runner",
+      "helm",
+      "kubernetes",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/hoobiboobi/ci-accelerator",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-17T15:16:32Z",
+    "updated_at": "2026-10-21T19:39:52Z",
+    "pushed_at": "2026-10-21T19:39:48Z"
+  }
+]
