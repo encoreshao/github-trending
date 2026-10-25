@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1425326764,
+    "name": "the-machine",
+    "full_name": "rosehahah/the-machine",
+    "owner": {
+      "login": "rosehahah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156568457?v=4"
+    },
+    "description": "A fan-made, open-source recreation of The Machine from Person of Interest — MPOV on your own cameras, plus the console. With deep thanks to POI.",
+    "topics": [
+      "computer-vision",
+      "fan-project",
+      "person-of-interest",
+      "the-machine"
+    ],
+    "html_url": "https://github.com/rosehahah/the-machine",
+    "stargazers_count": 92,
+    "language": "JavaScript",
+    "forks_count": 14,
+    "open_issues_count": 2,
+    "created_at": "2026-10-19T08:30:54Z",
+    "updated_at": "2026-10-24T09:49:06Z",
+    "pushed_at": "2026-10-21T15:41:10Z"
+  },
+  {
+    "id": 1431719963,
+    "name": "sam3-segmentation",
+    "full_name": "lillyguisnet/sam3-segmentation",
+    "owner": {
+      "login": "lillyguisnet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76911950?v=4"
+    },
+    "description": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
+    "topics": [
+      "agent-skills",
+      "annotation",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "computer-vision",
+      "image-segmentation",
+      "instance-segmentation",
+      "sam3",
+      "segment-anything"
+    ],
+    "html_url": "https://github.com/lillyguisnet/sam3-segmentation",
+    "stargazers_count": 64,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T01:49:15Z",
+    "updated_at": "2026-10-24T23:51:31Z",
+    "pushed_at": "2026-10-24T02:12:32Z"
+  },
+  {
+    "id": 1424375213,
+    "name": "DuckBuddy",
+    "full_name": "Animan-AI/DuckBuddy",
+    "owner": {
+      "login": "Animan-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173772376?v=4"
+    },
+    "description": "Your real-life buddy duck: an open-source embodied AI robot duck that walks, hears, sees, and has a life of its own. 让 DuckBuddy 成为你真正的生活伙伴鸭：开源具身智能小鸭机器人，运动、语音、视觉与生命层全部跑在机器人自己身上。Feetech servos + Orange Pi Zero 3W, built on Pollen Robotics' Microduck (unofficial).",
+    "topics": [
+      "biped-robot",
+      "computer-vision",
+      "embodied-ai",
+      "feetech",
+      "microduck",
+      "open-source-hardware",
+      "orange-pi",
+      "reinforcement-learning",
+      "robotics",
+      "speech-recognition"
+    ],
+    "html_url": "https://github.com/Animan-AI/DuckBuddy",
+    "stargazers_count": 48,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-10-18T12:57:22Z",
+    "updated_at": "2026-10-25T00:53:10Z",
+    "pushed_at": "2026-10-24T17:13:25Z"
+  },
+  {
+    "id": 1423946886,
+    "name": "mvkit",
+    "full_name": "maaazhuang/mvkit",
+    "owner": {
+      "login": "maaazhuang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151714682?v=4"
+    },
+    "description": "Industrial machine vision library with C11 and C++14 APIs.",
+    "topics": [
+      "3d-reconstruction",
+      "camera-calibration",
+      "computer-vision",
+      "image-processing",
+      "machine-vision",
+      "template-matching"
+    ],
+    "html_url": "https://github.com/maaazhuang/mvkit",
+    "stargazers_count": 29,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T03:15:48Z",
+    "updated_at": "2026-10-24T08:40:06Z",
+    "pushed_at": "2026-10-18T03:22:50Z"
+  },
+  {
+    "id": 1428781417,
+    "name": "ALPS",
+    "full_name": "UCSC-VLAA/ALPS",
+    "owner": {
+      "login": "UCSC-VLAA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92564714?v=4"
+    },
+    "description": "🏔️ ALPS: Visual State Encoders for World Models",
+    "topics": [
+      "computer-vision",
+      "contrastive-learning",
+      "embodied-ai",
+      "jax",
+      "libero",
+      "pytorch",
+      "representation-learning",
+      "robot-learning",
+      "self-supervised-learning",
+      "vision-language",
+      "vision-transformer",
+      "world-models"
+    ],
+    "html_url": "https://github.com/UCSC-VLAA/ALPS",
+    "stargazers_count": 22,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T18:32:33Z",
+    "updated_at": "2026-10-24T21:01:42Z",
+    "pushed_at": "2026-10-22T01:45:18Z"
+  },
+  {
+    "id": 1427555221,
+    "name": "ai-squat-coach",
+    "full_name": "nimrafaryal/ai-squat-coach",
+    "owner": {
+      "login": "nimrafaryal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135431065?v=4"
+    },
+    "description": "AI squat coach: counts reps, scores form, voice coaching and a live dashboard",
+    "topics": [
+      "computer-vision",
+      "fitness",
+      "mediapipe"
+    ],
+    "html_url": "https://github.com/nimrafaryal/ai-squat-coach",
+    "stargazers_count": 18,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T20:55:27Z",
+    "updated_at": "2026-10-23T11:11:35Z",
+    "pushed_at": "2026-10-20T21:07:19Z"
+  },
+  {
+    "id": 1430113995,
+    "name": "firered-ai-switch",
+    "full_name": "xhinzz/firered-ai-switch",
+    "owner": {
+      "login": "xhinzz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45099203?v=4"
+    },
+    "description": "An AI that plays Pokémon FireRed on a real Nintendo Switch: capture card in, emulated Bluetooth controller out. LLM strategist + deterministic skills, map localisation from the pret decomp, ACE toolkit.",
+    "topics": [
+      "ai-agent",
+      "computer-vision",
+      "game-ai",
+      "llm",
+      "nintendo-switch",
+      "opencv",
+      "pathfinding",
+      "pokemon",
+      "python",
+      "reverse-engineering"
+    ],
+    "html_url": "https://github.com/xhinzz/firered-ai-switch",
+    "stargazers_count": 15,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T18:16:11Z",
+    "updated_at": "2026-10-24T08:39:56Z",
+    "pushed_at": "2026-10-23T14:50:43Z"
+  },
+  {
+    "id": 1430997632,
+    "name": "robotics-roadmap-2026",
+    "full_name": "justxor/robotics-roadmap-2026",
+    "owner": {
+      "login": "justxor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30596522?v=4"
+    },
+    "description": "Открытый курс: собери первого робота и войди в робототехнику с нуля за 6 месяцев. Электроника → Arduino/ESP32 → CAD и 3D-печать → рука SO-101 → ROS 2 (SLAM, Nav2) → PID/LQR, CV → LeRobot. 100+ ресурсов, схемы, готовый код, железо на 3 бюджета, план по неделям и 30 идей проектов",
+    "topics": [
+      "arduino",
+      "computer-vision",
+      "course",
+      "embedded",
+      "esp32",
+      "lerobot",
+      "nav2",
+      "pid-control",
+      "roadmap",
+      "robot-arm",
+      "robotics",
+      "ros2",
+      "russian",
+      "slam",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/justxor/robotics-roadmap-2026",
+    "stargazers_count": 14,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T12:08:02Z",
+    "updated_at": "2026-10-24T19:21:42Z",
+    "pushed_at": "2026-10-23T13:05:09Z"
+  },
+  {
+    "id": 1424640834,
+    "name": "transmuter",
+    "full_name": "georgeguimaraes/transmuter",
+    "owner": {
+      "login": "georgeguimaraes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2929?v=4"
+    },
+    "description": "Runs Hugging Face ONNX models on any Nx backend, with no per-architecture code",
+    "topics": [
+      "computer-vision",
+      "elixir",
+      "emlx",
+      "exla",
+      "huggingface",
+      "inference",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "nx",
+      "onnx",
+      "speech-recognition",
+      "text-to-speech",
+      "transformers"
+    ],
+    "html_url": "https://github.com/georgeguimaraes/transmuter",
+    "stargazers_count": 13,
+    "language": "Elixir",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-18T17:34:25Z",
+    "updated_at": "2026-10-25T01:12:04Z",
+    "pushed_at": "2026-10-25T01:13:20Z"
+  },
+  {
+    "id": 1426346994,
+    "name": "Stereo-Motion-Measurement",
+    "full_name": "sirikiki/Stereo-Motion-Measurement",
+    "owner": {
+      "login": "sirikiki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139841903?v=4"
+    },
+    "description": "Turn your low-cost stereo camera into a 3D motion tracker! A Windows desktop app with live XYZ, interactive trajectories, guided stereo calibration, and recording/playback.",
+    "topics": [
+      "3d-tracking",
+      "camera-calibration",
+      "computer-vision",
+      "data-visualization",
+      "machine-vision",
+      "motion-tracking",
+      "opencv-python",
+      "stereo-calibration",
+      "stereo-vision"
+    ],
+    "html_url": "https://github.com/sirikiki/Stereo-Motion-Measurement",
+    "stargazers_count": 13,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T01:01:10Z",
+    "updated_at": "2026-10-24T17:26:01Z",
+    "pushed_at": "2026-10-23T15:47:27Z"
+  },
+  {
+    "id": 1428332202,
+    "name": "computer-vision-engineering",
+    "full_name": "usamahz/computer-vision-engineering",
+    "owner": {
+      "login": "usamahz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39458672?v=4"
+    },
+    "description": "A reading path for computer vision engineering, from photon to production. Primary sources in dependency order, evidence-graded claims, and a runnable benchmark per section.",
+    "topics": [
+      "awesome-list",
+      "benchmarks",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "machine-learning",
+      "reading-list"
+    ],
+    "html_url": "https://github.com/usamahz/computer-vision-engineering",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T12:09:50Z",
+    "updated_at": "2026-10-24T18:24:32Z",
+    "pushed_at": "2026-10-21T17:39:05Z"
+  },
+  {
+    "id": 1424326467,
+    "name": "SciForge",
+    "full_name": "sddzlsc/SciForge",
+    "owner": {
+      "login": "sddzlsc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31798901?v=4"
+    },
+    "description": "Local-first research agent harness for deep learning: literature → reading → ideas → GPU experiments → papers & publication figures. DeepSeek-powered, custom OpenAI-compatible LLMs, SSH GPU orchestration.",
+    "topics": [
+      "agent-harness",
+      "arxiv",
+      "computer-vision",
+      "deep-learning",
+      "deepseek",
+      "fastapi",
+      "gpu",
+      "literature-review",
+      "llm",
+      "nlp",
+      "paper-writing",
+      "python",
+      "research-agent",
+      "scientific-research"
+    ],
+    "html_url": "https://github.com/sddzlsc/SciForge",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T12:03:32Z",
+    "updated_at": "2026-10-19T23:01:15Z",
+    "pushed_at": "2026-10-18T14:40:40Z"
+  },
+  {
+    "id": 1429685491,
+    "name": "genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "full_name": "alphaparkinc/genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Dynamically scales high-resolution image and video frame dimensions to fit multimodal vision-LLM token budgets | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550",
+    "topics": [
+      "agent-skills",
+      "computer-vision",
+      "cost-optimization",
+      "image-preprocessor",
+      "mcp",
+      "multimodal",
+      "patch-calculator",
+      "python-standard-library",
+      "resolution-scaler",
+      "token-budget",
+      "vision-llm"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T12:00:27Z",
+    "updated_at": "2026-10-22T12:00:56Z",
+    "pushed_at": "2026-10-22T12:00:47Z"
+  },
+  {
+    "id": 1429686031,
+    "name": "genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "full_name": "Alpha-Park/genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Dynamically scales high-resolution image and video frame dimensions to fit multimodal vision-LLM token budgets | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550",
+    "topics": [
+      "agent-skills",
+      "computer-vision",
+      "cost-optimization",
+      "image-preprocessor",
+      "mcp",
+      "multimodal",
+      "patch-calculator",
+      "python-standard-library",
+      "resolution-scaler",
+      "token-budget",
+      "vision-llm"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T12:00:58Z",
+    "updated_at": "2026-10-22T12:01:25Z",
+    "pushed_at": "2026-10-22T12:01:17Z"
+  },
+  {
+    "id": 1426306236,
+    "name": "HumanoidPose",
+    "full_name": "eth-siplab/HumanoidPose",
+    "owner": {
+      "login": "eth-siplab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54275788?v=4"
+    },
+    "description": "Official code for \"Vision as Proprioception: Estimating Humanoid Robot Pose from Video\"",
+    "topics": [
+      "3d-vision",
+      "computer-vision",
+      "embodied-ai",
+      "humanoid-robot",
+      "robot-learning",
+      "robot-perception",
+      "robot-pose"
+    ],
+    "html_url": "https://github.com/eth-siplab/HumanoidPose",
+    "stargazers_count": 6,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-20T00:00:05Z",
+    "updated_at": "2026-10-24T00:18:28Z",
+    "pushed_at": "2026-10-21T19:53:26Z"
+  },
+  {
+    "id": 1428244836,
+    "name": "RayCodes_Indra_OCR",
+    "full_name": "47thtechcorner/RayCodes_Indra_OCR",
+    "owner": {
+      "login": "47thtechcorner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233621018?v=4"
+    },
+    "description": "Indra OCR: Replace Google Tesseract & PaddleOCR on CPU - 1.25M vision AI model running 49 p/s on CPU with 0MB VRAM",
+    "topics": [
+      "computer-vision",
+      "cpu-inference",
+      "document-ai",
+      "ocr",
+      "paddleocr",
+      "tesseract"
+    ],
+    "html_url": "https://github.com/47thtechcorner/RayCodes_Indra_OCR",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T10:49:37Z",
+    "updated_at": "2026-10-24T11:41:52Z",
+    "pushed_at": "2026-10-21T12:29:22Z"
+  },
+  {
+    "id": 1425555445,
+    "name": "ZEHEN",
+    "full_name": "priyanshusta/ZEHEN",
+    "owner": {
+      "login": "priyanshusta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205022447?v=4"
+    },
+    "description": "Free, open source hand-gesture and voice control for Windows. Webcam gestures move the cursor; say Zehen and an AI assistant opens apps, clicks, types and answers out loud. Offline wake word, no extra hardware.",
+    "topics": [
+      "accessibility",
+      "ai-assistant",
+      "computer-vision",
+      "gesture-control",
+      "hand-tracking",
+      "hands-free",
+      "handwriting-recognition",
+      "hci",
+      "jarvis",
+      "mediapipe",
+      "offline",
+      "open-source",
+      "opencv",
+      "python",
+      "speech-recognition",
+      "voice-assistant",
+      "voice-control",
+      "wake-word",
+      "windows",
+      "windows-automation"
+    ],
+    "html_url": "https://github.com/priyanshusta/ZEHEN",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 2,
+    "created_at": "2026-10-19T12:05:23Z",
+    "updated_at": "2026-10-24T19:06:44Z",
+    "pushed_at": "2026-10-24T15:38:35Z"
+  },
+  {
+    "id": 1429209593,
+    "name": "OpenCV-Lab",
+    "full_name": "pranataa-labs/OpenCV-Lab",
+    "owner": {
+      "login": "pranataa-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119145932?v=4"
+    },
+    "description": "Interactive Computer Vision Playground Exploring OpenCV: Image Processing, Contours, Filtering, Object Detection, And Video Manipulation Recipes.",
+    "topics": [
+      "computer-vision",
+      "image-processing",
+      "jupyter-notebook",
+      "object-detection",
+      "opencv",
+      "python"
+    ],
+    "html_url": "https://github.com/pranataa-labs/OpenCV-Lab",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T03:48:00Z",
+    "updated_at": "2026-10-24T16:49:31Z",
+    "pushed_at": "2026-10-23T20:26:22Z"
+  },
+  {
+    "id": 1427853072,
+    "name": "ppe-vision",
+    "full_name": "arielshakaramiro/ppe-vision",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "PPE compliance monitoring from camera feeds and recordings, with reviewable evidence — YOLO pose + PPE detection, FastAPI, and a React dashboard.",
+    "topics": [
+      "cctv",
+      "computer-vision",
+      "fastapi",
+      "object-detection",
+      "occupational-safety",
+      "ppe-detection",
+      "react",
+      "ultralytics",
+      "workplace-safety",
+      "yolo"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/ppe-vision",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T03:57:15Z",
+    "updated_at": "2026-10-24T10:39:44Z",
+    "pushed_at": "2026-10-21T12:07:00Z"
+  },
+  {
+    "id": 1428121267,
+    "name": "precog-macos",
+    "full_name": "lulu38m/precog-macos",
+    "owner": {
+      "login": "lulu38m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118172406?v=4"
+    },
+    "description": "Control your Mac with hand gestures, Minority Report style. Webcam only, 100% on-device (Apple Vision).",
+    "topics": [
+      "computer-vision",
+      "gesture-control",
+      "gesture-recognition",
+      "hand-tracking",
+      "macos",
+      "menubar-app",
+      "minority-report",
+      "swift",
+      "swiftui",
+      "webcam"
+    ],
+    "html_url": "https://github.com/lulu38m/precog-macos",
+    "stargazers_count": 3,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T08:52:21Z",
+    "updated_at": "2026-10-21T12:22:38Z",
+    "pushed_at": "2026-10-21T11:19:40Z"
+  }
+]

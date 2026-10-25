@@ -1,0 +1,603 @@
+[
+  {
+    "id": 1430540152,
+    "name": "litpage",
+    "full_name": "litmers-dev/litpage",
+    "owner": {
+      "login": "litmers-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251139756?v=4"
+    },
+    "description": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
+    "topics": [
+      "ai",
+      "block-editor",
+      "database",
+      "knowledge-base",
+      "nodejs",
+      "open-source",
+      "react",
+      "self-hosted",
+      "sqlite",
+      "workspace"
+    ],
+    "html_url": "https://github.com/litmers-dev/litpage",
+    "stargazers_count": 34,
+    "language": "TypeScript",
+    "forks_count": 30,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T03:39:35Z",
+    "updated_at": "2026-10-25T01:59:24Z",
+    "pushed_at": "2026-10-23T09:42:22Z"
+  },
+  {
+    "id": 1425571951,
+    "name": "genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "full_name": "alphaparkinc/genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Real-time Tarjan SCC cycle detection on lock Wait-For-Graphs with minimal-cost victim transaction arbitrator",
+    "topics": [
+      "agent-skills",
+      "concurrency-control",
+      "database",
+      "deadlock-detector",
+      "distributed-systems",
+      "lock-manager",
+      "mcp",
+      "python-standard-library",
+      "tarjan-scc",
+      "transaction-arbitrator",
+      "wait-for-graph"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T12:19:17Z",
+    "updated_at": "2026-10-19T12:19:53Z",
+    "pushed_at": "2026-10-19T12:19:54Z"
+  },
+  {
+    "id": 1425572819,
+    "name": "genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "full_name": "Alpha-Park/genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Real-time Tarjan SCC cycle detection on lock Wait-For-Graphs with minimal-cost victim transaction arbitrator",
+    "topics": [
+      "agent-skills",
+      "concurrency-control",
+      "database",
+      "deadlock-detector",
+      "distributed-systems",
+      "lock-manager",
+      "mcp",
+      "python-standard-library",
+      "tarjan-scc",
+      "transaction-arbitrator",
+      "wait-for-graph"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-distributed-deadlock-wait-for-graph-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T12:20:01Z",
+    "updated_at": "2026-10-19T12:20:40Z",
+    "pushed_at": "2026-10-19T12:20:40Z"
+  },
+  {
+    "id": 1428163032,
+    "name": "rustyrobo",
+    "full_name": "Tatayoyoh/rustyrobo",
+    "owner": {
+      "login": "Tatayoyoh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13559581?v=4"
+    },
+    "description": "A functional port of Robomongo (Robo 3T) to Rust",
+    "topics": [
+      "database",
+      "database-client",
+      "mongo",
+      "mongodb",
+      "nosql",
+      "robo3t",
+      "robomongo",
+      "studio3t"
+    ],
+    "html_url": "https://github.com/Tatayoyoh/rustyrobo",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T09:30:32Z",
+    "updated_at": "2026-10-24T13:59:46Z",
+    "pushed_at": "2026-10-22T20:05:17Z"
+  },
+  {
+    "id": 1426999692,
+    "name": "dbolympics",
+    "full_name": "dbolympics/dbolympics",
+    "owner": {
+      "login": "dbolympics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341512429?v=4"
+    },
+    "description": "DB Olympics: Taking SQL benchmarking to the agentic era.",
+    "topics": [
+      "benchmark",
+      "database"
+    ],
+    "html_url": "https://github.com/dbolympics/dbolympics",
+    "stargazers_count": 5,
+    "language": "HTML",
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-10-20T12:33:27Z",
+    "updated_at": "2026-10-24T19:50:50Z",
+    "pushed_at": "2026-10-23T21:28:26Z"
+  },
+  {
+    "id": 1432433089,
+    "name": "laravel-query-sentinel",
+    "full_name": "sihabsantydwi/laravel-query-sentinel",
+    "owner": {
+      "login": "sihabsantydwi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333821026?v=4"
+    },
+    "description": "🛡️ Real-time database query telemetry, N+1 detection, automated query plan indexing advisor, and slow query interceptor",
+    "topics": [
+      "database",
+      "laravel",
+      "mysql",
+      "php",
+      "postgresql",
+      "query-optimization",
+      "telemetry"
+    ],
+    "html_url": "https://github.com/sihabsantydwi/laravel-query-sentinel",
+    "stargazers_count": 4,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T17:36:36Z",
+    "updated_at": "2026-10-24T18:54:04Z",
+    "pushed_at": "2026-10-24T18:54:02Z"
+  },
+  {
+    "id": 1426294278,
+    "name": "designing-databases",
+    "full_name": "vstlmkh/designing-databases",
+    "owner": {
+      "login": "vstlmkh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62574760?v=4"
+    },
+    "description": "Agent Skill for designing, auditing and tuning relational databases on PostgreSQL and MySQL/InnoDB — schema and key design, index strategy, EXPLAIN-plan diagnosis, locking, and zero-downtime migrations.",
+    "topics": [
+      "agent-skill",
+      "ai-agent",
+      "anthropic",
+      "claude-code",
+      "claude-skill",
+      "database",
+      "database-administration",
+      "database-design",
+      "database-migrations",
+      "dba",
+      "indexing",
+      "innodb",
+      "mysql",
+      "performance-tuning",
+      "postgresql",
+      "query-optimization",
+      "sql",
+      "zero-downtime"
+    ],
+    "html_url": "https://github.com/vstlmkh/designing-databases",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T23:41:26Z",
+    "updated_at": "2026-10-23T04:19:58Z",
+    "pushed_at": "2026-10-21T09:34:03Z"
+  },
+  {
+    "id": 1431811046,
+    "name": "mydb",
+    "full_name": "yzsind/mydb",
+    "owner": {
+      "login": "yzsind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11732887?v=4"
+    },
+    "description": "A high-performance database, compatible with MySQL",
+    "topics": [
+      "ai-database",
+      "database",
+      "mysql",
+      "postgresql"
+    ],
+    "html_url": "https://github.com/yzsind/mydb",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-24T04:27:56Z",
+    "updated_at": "2026-10-24T08:15:25Z",
+    "pushed_at": "2026-10-25T01:55:42Z"
+  },
+  {
+    "id": 1429167958,
+    "name": "rowflare",
+    "full_name": "rowflare/rowflare",
+    "owner": {
+      "login": "rowflare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/346141327?v=4"
+    },
+    "description": "Open-source Airtable alternative that runs on your own Cloudflare account. Grid, kanban, calendar, timeline and gallery views, formulas, automations, AI fields, REST API and MCP server. One base per SQLite Durable Object, $5/month for the whole team.",
+    "topics": [
+      "airtable",
+      "airtable-alternative",
+      "cloudflare",
+      "cloudflare-workers",
+      "database",
+      "kanban",
+      "low-code",
+      "no-code",
+      "self-hosted",
+      "spreadsheet"
+    ],
+    "html_url": "https://github.com/rowflare/rowflare",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T02:53:00Z",
+    "updated_at": "2026-10-23T18:35:24Z",
+    "pushed_at": "2026-10-23T02:23:53Z"
+  },
+  {
+    "id": 1427516673,
+    "name": "abyssdb",
+    "full_name": "abyssdblabs/abyssdb",
+    "owner": {
+      "login": "abyssdblabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345744539?v=4"
+    },
+    "description": "Infinitely fast. Perfectly consistent. Zero-knowledge. The AI-native, post-quantum, interplanetary SQL database. ACID, BASE and CAP, formally proven.",
+    "topics": [
+      "ai-native",
+      "blockchain",
+      "cap-theorem",
+      "consensus",
+      "database",
+      "dev-null",
+      "distributed-systems",
+      "golang",
+      "key-value",
+      "mcp",
+      "ml-kem",
+      "post-quantum-cryptography",
+      "postgresql",
+      "raft",
+      "rust",
+      "satire",
+      "serverless",
+      "sql",
+      "webassembly",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/abyssdblabs/abyssdb",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-10-20T20:12:37Z",
+    "updated_at": "2026-10-22T03:21:46Z",
+    "pushed_at": "2026-10-21T09:45:36Z"
+  },
+  {
+    "id": 1424368037,
+    "name": "emerald-emd",
+    "full_name": "kfireliyahu/emerald-emd",
+    "owner": {
+      "login": "kfireliyahu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339485894?v=4"
+    },
+    "description": "The database under the chat: a local, file-based database you and an AI model fill together, where every table has real types and real checks. Desktop app and MCP server. No server, no account.",
+    "topics": [
+      "database",
+      "desktop-app",
+      "electron",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "sqlite",
+      "typescript"
+    ],
+    "html_url": "https://github.com/kfireliyahu/emerald-emd",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T12:50:24Z",
+    "updated_at": "2026-10-24T05:50:57Z",
+    "pushed_at": "2026-10-24T05:50:54Z"
+  },
+  {
+    "id": 1429740551,
+    "name": "tobira",
+    "full_name": "xavidop/tobira",
+    "owner": {
+      "login": "xavidop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4416096?v=4"
+    },
+    "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series and vector databases, with a read-only guard built in.",
+    "topics": [
+      "ai",
+      "bubbletea",
+      "cli",
+      "database",
+      "golang",
+      "mcp",
+      "mongodb",
+      "mysql",
+      "postgres",
+      "redis",
+      "sql",
+      "terminal",
+      "tui",
+      "vector-database"
+    ],
+    "html_url": "https://github.com/xavidop/tobira",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T12:49:14Z",
+    "updated_at": "2026-10-23T17:20:12Z",
+    "pushed_at": "2026-10-23T17:20:10Z"
+  },
+  {
+    "id": 1424174707,
+    "name": "dbiji",
+    "full_name": "ilhamnadhif/dbiji",
+    "owner": {
+      "login": "ilhamnadhif",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60680429?v=4"
+    },
+    "description": "Lightweight SQL database client for macOS, written entirely in Rust — a native DBeaver alternative for PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, ClickHouse and more.",
+    "topics": [
+      "database",
+      "dbeaver-alternative",
+      "egui",
+      "macos",
+      "mysql",
+      "postgresql",
+      "rust",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/ilhamnadhif/dbiji",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T08:53:42Z",
+    "updated_at": "2026-10-23T19:01:43Z",
+    "pushed_at": "2026-10-23T19:01:39Z"
+  },
+  {
+    "id": 1424117777,
+    "name": "SPBT_DB",
+    "full_name": "DanyloKob/SPBT_DB",
+    "owner": {
+      "login": "DanyloKob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94801357?v=4"
+    },
+    "description": "Tiny embedded database for Node.js bots on small VPSes: LMDB-backed keys, indexes, TTL, a restart-proof scheduler and buffered counters. No server, no SQL, no UI, on purpose.",
+    "topics": [
+      "database",
+      "discord-bot",
+      "embedded-database",
+      "key-value-store",
+      "lmdb",
+      "nodejs",
+      "small-footprint",
+      "vps"
+    ],
+    "html_url": "https://github.com/DanyloKob/SPBT_DB",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T07:41:07Z",
+    "updated_at": "2026-10-18T10:24:40Z",
+    "pushed_at": "2026-10-18T09:59:21Z"
+  },
+  {
+    "id": 1427666307,
+    "name": "ksqlc",
+    "full_name": "yiyux/ksqlc",
+    "owner": {
+      "login": "yiyux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333576?v=4"
+    },
+    "description": "Cliente liviano de SQL multiplataforma",
+    "topics": [
+      "database",
+      "database-client",
+      "database-management",
+      "database-tools",
+      "databases"
+    ],
+    "html_url": "https://github.com/yiyux/ksqlc",
+    "stargazers_count": 2,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T23:27:03Z",
+    "updated_at": "2026-10-21T20:22:58Z",
+    "pushed_at": "2026-10-21T20:22:54Z"
+  },
+  {
+    "id": 1429310835,
+    "name": "file-to-database-skill",
+    "full_name": "Thomaszhou22/file-to-database-skill",
+    "owner": {
+      "login": "Thomaszhou22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240298148?v=4"
+    },
+    "description": "Turn data files (CSV/Excel/JSON/JSONL/TSV) into a validated database, then operate it in natural language — pluggable methodology, quality gates, migration ledger, visual delivery",
+    "topics": [
+      "agent-skills",
+      "claude-skills",
+      "clawhub",
+      "csv",
+      "data-engineering",
+      "data-modeling",
+      "database",
+      "llm-agents",
+      "natural-language-interface",
+      "openclaw",
+      "postgresql",
+      "schema-design",
+      "sql",
+      "sqlite",
+      "supabase"
+    ],
+    "html_url": "https://github.com/Thomaszhou22/file-to-database-skill",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T06:00:29Z",
+    "updated_at": "2026-10-23T02:20:21Z",
+    "pushed_at": "2026-10-22T07:26:58Z"
+  },
+  {
+    "id": 1428945588,
+    "name": "Plugin-Databases",
+    "full_name": "Termix-SSH/Plugin-Databases",
+    "owner": {
+      "login": "Termix-SSH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236961563?v=4"
+    },
+    "description": "Browse and edit MySQL, MariaDB, PostgreSQL and SQLite databases on your hosts from one tab.",
+    "topics": [
+      "database",
+      "mysql",
+      "postgresql",
+      "self-hosted",
+      "termix",
+      "termix-plugin"
+    ],
+    "html_url": "https://github.com/Termix-SSH/Plugin-Databases",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-21T21:23:32Z",
+    "updated_at": "2026-10-22T18:12:19Z",
+    "pushed_at": "2026-10-22T18:12:20Z"
+  },
+  {
+    "id": 1429451739,
+    "name": "Awesome-In-Database-Machine-Learning",
+    "full_name": "ishandutta2007/Awesome-In-Database-Machine-Learning",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top In Database Machine Learning (Opensource)  Star if you like it! ",
+    "topics": [
+      "awesome-list",
+      "curated-list",
+      "database",
+      "in-database-ml",
+      "machine-learning",
+      "sql"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-In-Database-Machine-Learning",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T08:22:42Z",
+    "updated_at": "2026-10-22T14:06:32Z",
+    "pushed_at": "2026-10-22T13:59:45Z"
+  },
+  {
+    "id": 1428623298,
+    "name": "open-erd",
+    "full_name": "TOMOSIA-VIETNAM/open-erd",
+    "owner": {
+      "login": "TOMOSIA-VIETNAM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67255515?v=4"
+    },
+    "description": "An agent draws the ERD of any project from its source code, even without foreign keys. Interactive SVG, Excel and draw.io. Claude Code plugin.",
+    "topics": [
+      "ai-agent",
+      "claude-code",
+      "claude-code-plugin",
+      "data-model",
+      "database",
+      "django",
+      "documentation",
+      "entity-relationship-diagram",
+      "er-diagram",
+      "erd",
+      "laravel",
+      "mongoose",
+      "prisma",
+      "rails",
+      "schema",
+      "svg"
+    ],
+    "html_url": "https://github.com/TOMOSIA-VIETNAM/open-erd",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T16:09:39Z",
+    "updated_at": "2026-10-24T06:52:33Z",
+    "pushed_at": "2026-10-24T06:52:29Z"
+  },
+  {
+    "id": 1430550405,
+    "name": "dbstick",
+    "full_name": "mpyw/dbstick",
+    "owner": {
+      "login": "mpyw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1351893?v=4"
+    },
+    "description": "Outrun replication lag in Go: read your own writes from the primary, even on the next request",
+    "topics": [
+      "database",
+      "database-sql",
+      "go",
+      "go-library",
+      "golang",
+      "gorm",
+      "laravel",
+      "pgx",
+      "primary-replica",
+      "read-replica",
+      "read-your-writes",
+      "redis",
+      "replication-lag"
+    ],
+    "html_url": "https://github.com/mpyw/dbstick",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T03:54:01Z",
+    "updated_at": "2026-10-23T23:02:26Z",
+    "pushed_at": "2026-10-23T23:02:23Z"
+  }
+]

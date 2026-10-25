@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1424548693,
+    "name": "lexfridman-cn",
+    "full_name": "joeseesun/lexfridman-cn",
+    "owner": {
+      "login": "joeseesun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+    },
+    "description": "Lex Fridman 播客中文导航站:506 期全目录、AI 中文精读、官方音频/文稿与全文 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.",
+    "topics": [
+      "ai-translation",
+      "chinese",
+      "lex-fridman",
+      "podcast",
+      "python",
+      "rss",
+      "static-site"
+    ],
+    "html_url": "https://github.com/joeseesun/lexfridman-cn",
+    "stargazers_count": 238,
+    "language": "HTML",
+    "forks_count": 32,
+    "open_issues_count": 2,
+    "created_at": "2026-10-18T15:55:16Z",
+    "updated_at": "2026-10-25T01:01:31Z",
+    "pushed_at": "2026-10-25T01:01:28Z"
+  },
+  {
+    "id": 1427831289,
+    "name": "mcd-saver-checkup",
+    "full_name": "lklbar666/mcd-saver-checkup",
+    "owner": {
+      "login": "lklbar666",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90894131?v=4"
+    },
+    "description": "麦当劳省钱体检：不看你想吃什么，先看你已经亏在哪。基于麦当劳中国 MCP 的差价审计 Skill——枚举所有买法，用 calculate-price 逐个复算，报差额、归因与凑单临界点。",
+    "topics": [
+      "agent-skill",
+      "chinese",
+      "mcdonalds",
+      "mcp",
+      "price-audit",
+      "python"
+    ],
+    "html_url": "https://github.com/lklbar666/mcd-saver-checkup",
+    "stargazers_count": 206,
+    "language": "HTML",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T03:28:42Z",
+    "updated_at": "2026-10-24T23:51:20Z",
+    "pushed_at": "2026-10-24T08:58:14Z"
+  },
+  {
+    "id": 1431815066,
+    "name": "mcd-self-butler",
+    "full_name": "jouaaaaaa/mcd-self-butler",
+    "owner": {
+      "login": "jouaaaaaa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186379871?v=4"
+    },
+    "description": "麦当劳自助管家 McButler — 基于麦当劳 MCP 的点单参谋：每日推荐 / 套餐健康体检 / 门店全成本比价 / 团餐智能配餐 / 麦险分信用评级 / 麦门小剧场。麦当劳 1024 程序员节参赛作品。",
+    "topics": [
+      "credit-scoring",
+      "mcdonalds",
+      "mcp",
+      "nutrition",
+      "python",
+      "skill",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/jouaaaaaa/mcd-self-butler",
+    "stargazers_count": 164,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T04:34:37Z",
+    "updated_at": "2026-10-25T01:52:05Z",
+    "pushed_at": "2026-10-24T04:39:19Z"
+  },
+  {
+    "id": 1426714207,
+    "name": "SuperGhidra",
+    "full_name": "yuatemycat/SuperGhidra",
+    "owner": {
+      "login": "yuatemycat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/344623529?v=4"
+    },
+    "description": "SuperGhidra: Autonomous Agent Reverse Engineering, Lock-Free Ghidra Daemon & C++ Recovery Suite",
+    "topics": [
+      "arm64",
+      "binary-analysis",
+      "decompiler",
+      "disassembler",
+      "ghidra",
+      "mcp",
+      "pcode",
+      "python",
+      "reverseengineering",
+      "reversing",
+      "smt-solver",
+      "x86-64",
+      "z3"
+    ],
+    "html_url": "https://github.com/yuatemycat/SuperGhidra",
+    "stargazers_count": 138,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 1,
+    "created_at": "2026-10-20T08:22:31Z",
+    "updated_at": "2026-10-25T00:57:09Z",
+    "pushed_at": "2026-10-24T12:50:28Z"
+  },
+  {
+    "id": 1429468579,
+    "name": "rom-cli",
+    "full_name": "danisiber/rom-cli",
+    "owner": {
+      "login": "danisiber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197707372?v=4"
+    },
+    "description": "Terminal CLI to search and download ROMs, ISOs and Switch games. Interactive Textual UI, cross-platform catalog, resumable downloads.",
+    "topics": [
+      "cli",
+      "game-downloader",
+      "python",
+      "retro-gaming",
+      "rom-cli",
+      "roms",
+      "switch",
+      "textual"
+    ],
+    "html_url": "https://github.com/danisiber/rom-cli",
+    "stargazers_count": 119,
+    "language": "Python",
+    "forks_count": 27,
+    "open_issues_count": 2,
+    "created_at": "2026-10-22T08:38:38Z",
+    "updated_at": "2026-10-24T15:51:24Z",
+    "pushed_at": "2026-10-22T08:55:27Z"
+  },
+  {
+    "id": 1428619599,
+    "name": "maimen-order-manager",
+    "full_name": "BEN020406/maimen-order-manager",
+    "owner": {
+      "login": "BEN020406",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113499338?v=4"
+    },
+    "description": "麦当劳 MCP 技能：待评价清单、好评兑礼进度、发票报销门槛凑单、单次抽奖确认。99 项测试，非官方产品。",
+    "topics": [
+      "ai-agent",
+      "cli",
+      "mcdonalds",
+      "mcp",
+      "personal-productivity",
+      "python",
+      "skill",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/BEN020406/maimen-order-manager",
+    "stargazers_count": 109,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T16:06:41Z",
+    "updated_at": "2026-10-24T10:44:16Z",
+    "pushed_at": "2026-10-22T01:37:59Z"
+  },
+  {
+    "id": 1426805854,
+    "name": "mw4-texture-streaming-research",
+    "full_name": "voidfnc/mw4-texture-streaming-research",
+    "owner": {
+      "login": "voidfnc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194750710?v=4"
+    },
+    "description": "Research tooling for MW4 on-demand texture streaming: loopback proxy, hosts manager, resumable mirror, control GUI. Code and notes only - no game files.",
+    "topics": [
+      "game-research",
+      "networking",
+      "proxy",
+      "python",
+      "reverse-engineering",
+      "security-research",
+      "texture-streaming",
+      "tkinter",
+      "windows"
+    ],
+    "html_url": "https://github.com/voidfnc/mw4-texture-streaming-research",
+    "stargazers_count": 102,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 4,
+    "created_at": "2026-10-20T09:35:08Z",
+    "updated_at": "2026-10-25T00:20:55Z",
+    "pushed_at": "2026-10-23T21:40:58Z"
+  },
+  {
+    "id": 1430497383,
+    "name": "mcd-coupon-xray",
+    "full_name": "wahaha-potato/mcd-coupon-xray",
+    "owner": {
+      "login": "wahaha-potato",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190681132?v=4"
+    },
+    "description": "麦麦省的券谁都能领，但领了不等于楼下那家店认。一键领全后逐家门店校验哪张券真的能核销，并算出券后实付，直接回答「去哪家店、用哪张券、省多少钱」。基于麦当劳 MCP。",
+    "topics": [
+      "ai-agent",
+      "coupon",
+      "mcdonalds",
+      "mcp",
+      "mcp-server",
+      "python",
+      "skill",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/wahaha-potato/mcd-coupon-xray",
+    "stargazers_count": 91,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T02:38:59Z",
+    "updated_at": "2026-10-25T01:52:24Z",
+    "pushed_at": "2026-10-23T03:08:02Z"
+  },
+  {
+    "id": 1428879188,
+    "name": "Advanced-Bioinformatics",
+    "full_name": "talharaziq/Advanced-Bioinformatics",
+    "owner": {
+      "login": "talharaziq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/317331910?v=4"
+    },
+    "description": "A free, hands-on bioinformatics roadmap from Linux, Python & R to RNA-seq, genomics, Bioconductor, and advanced transcriptomics. Curated English tutorials, YouTube playlists, practical exercises, and research tools.",
+    "topics": [
+      "bioconductor",
+      "bioinformatics",
+      "bioinformatics-tutorials",
+      "computational-biology",
+      "data-science",
+      "genomics",
+      "learning-resources",
+      "linux",
+      "open-education",
+      "python",
+      "r",
+      "rna-seq",
+      "single-cell",
+      "transcriptomics"
+    ],
+    "html_url": "https://github.com/talharaziq/Advanced-Bioinformatics",
+    "stargazers_count": 80,
+    "language": null,
+    "forks_count": 19,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T20:10:17Z",
+    "updated_at": "2026-10-24T20:55:16Z",
+    "pushed_at": "2026-10-21T20:25:17Z"
+  },
+  {
+    "id": 1431982102,
+    "name": "Oh-My-McDonald",
+    "full_name": "xiaozhangup/Oh-My-McDonald",
+    "owner": {
+      "login": "xiaozhangup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68374769?v=4"
+    },
+    "description": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。",
+    "topics": [
+      "ai-agent",
+      "ai-skill",
+      "coupons",
+      "data-visualization",
+      "mcdonalds",
+      "mcdonalds-mcp",
+      "mcp",
+      "model-context-protocol",
+      "nutrition",
+      "python",
+      "voxel"
+    ],
+    "html_url": "https://github.com/xiaozhangup/Oh-My-McDonald",
+    "stargazers_count": 79,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T08:38:16Z",
+    "updated_at": "2026-10-25T01:58:02Z",
+    "pushed_at": "2026-10-24T11:44:24Z"
+  },
+  {
+    "id": 1429663337,
+    "name": "yt-view-bot",
+    "full_name": "yatrjzgbwurs/yt-view-bot",
+    "owner": {
+      "login": "yatrjzgbwurs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334723796?v=4"
+    },
+    "description": "YouTube view bot: multi-threaded view inflation, proxy rotation, watch-time retention, and randomized user-agent/device fingerprinting per view.",
+    "topics": [
+      "playwright",
+      "proxy-rotation",
+      "python",
+      "selenium",
+      "video-views",
+      "view-increaser",
+      "watch-time",
+      "youtube-api",
+      "youtube-automation",
+      "youtube-bot",
+      "youtube-growth",
+      "youtube-promotion",
+      "youtube-traffic",
+      "yt-bot"
+    ],
+    "html_url": "https://github.com/yatrjzgbwurs/yt-view-bot",
+    "stargazers_count": 75,
+    "language": "HTML",
+    "forks_count": 34,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T11:40:00Z",
+    "updated_at": "2026-10-24T22:24:00Z",
+    "pushed_at": "2026-10-24T22:23:56Z"
+  },
+  {
+    "id": 1428784561,
+    "name": "PhoneHackScan",
+    "full_name": "UCYBERS/PhoneHackScan",
+    "owner": {
+      "login": "UCYBERS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90274068?v=4"
+    },
+    "description": "Android & iPhone intrusion check",
+    "topics": [
+      "android",
+      "androidqf",
+      "cybersecurity",
+      "intrusion-detection",
+      "ios",
+      "iphone",
+      "malware-detection",
+      "mobile-forensics",
+      "mobile-security",
+      "mvt",
+      "pegasus",
+      "privacy",
+      "python",
+      "spyware",
+      "spyware-detection",
+      "stalkerware",
+      "ucybers",
+      "ucybers-tools",
+      "virustotal"
+    ],
+    "html_url": "https://github.com/UCYBERS/PhoneHackScan",
+    "stargazers_count": 74,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T18:35:37Z",
+    "updated_at": "2026-10-24T16:51:16Z",
+    "pushed_at": "2026-10-21T22:27:59Z"
+  },
+  {
+    "id": 1426664469,
+    "name": "maya-workflow-kit-for-blender",
+    "full_name": "5hyuns/maya-workflow-kit-for-blender",
+    "owner": {
+      "login": "5hyuns",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253003362?v=4"
+    },
+    "description": "Maya Workflow Kit: the whole Maya workflow in Blender, in one install. Hotbox, marking menus, Channel Box, Attribute Editor, menu sets, shelves and Maya concepts. Free, GPL Blender extension for Maya users.",
+    "topics": [
+      "3d",
+      "autodesk-maya",
+      "blender",
+      "blender-addon",
+      "blender-extension",
+      "channel-box",
+      "hotbox",
+      "keymap",
+      "marking-menu",
+      "maya",
+      "maya-users",
+      "python",
+      "technical-art",
+      "workflow"
+    ],
+    "html_url": "https://github.com/5hyuns/maya-workflow-kit-for-blender",
+    "stargazers_count": 74,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-10-20T07:35:16Z",
+    "updated_at": "2026-10-25T01:06:30Z",
+    "pushed_at": "2026-10-24T19:38:14Z"
+  },
+  {
+    "id": 1424819881,
+    "name": "armiger",
+    "full_name": "spencernorton/armiger",
+    "owner": {
+      "login": "spencernorton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131503564?v=4"
+    },
+    "description": "Fast local classification of torrent and media metadata, with ONNX inference and optional enrichment.",
+    "topics": [
+      "bittorrent",
+      "classification",
+      "conformal-prediction",
+      "dht",
+      "metadata",
+      "norvitech",
+      "onnx",
+      "python",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/spencernorton/armiger",
+    "stargazers_count": 69,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T21:02:58Z",
+    "updated_at": "2026-10-25T01:40:08Z",
+    "pushed_at": "2026-10-25T01:40:05Z"
+  },
+  {
+    "id": 1429205213,
+    "name": "Treasure-Radar",
+    "full_name": "Th3chef/Treasure-Radar",
+    "owner": {
+      "login": "Th3chef",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42616956?v=4"
+    },
+    "description": "Helldivers 2 mod: a sonar radar with every sample, medal, Super Credit, Requisition Slip and supply around you, where your map opens.",
+    "topics": [
+      "game-mod",
+      "helldivers-2-mod",
+      "helldivers2",
+      "lua",
+      "python"
+    ],
+    "html_url": "https://github.com/Th3chef/Treasure-Radar",
+    "stargazers_count": 50,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-22T03:41:45Z",
+    "updated_at": "2026-10-24T20:49:56Z",
+    "pushed_at": "2026-10-23T10:50:09Z"
+  },
+  {
+    "id": 1427163001,
+    "name": "procedural-alpine-lake",
+    "full_name": "Leonxlnx/procedural-alpine-lake",
+    "owner": {
+      "login": "Leonxlnx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+    },
+    "description": "A 60 second cinematic alpine lake film rendered entirely from code. Procedural terrain, GPU erosion, forest, water, sky and a fully synthesized soundtrack in Python and GLSL.",
+    "topics": [
+      "glsl",
+      "moderngl",
+      "opengl",
+      "procedural-audio",
+      "procedural-generation",
+      "python",
+      "raymarching",
+      "terrain-generation"
+    ],
+    "html_url": "https://github.com/Leonxlnx/procedural-alpine-lake",
+    "stargazers_count": 49,
+    "language": "GLSL",
+    "forks_count": 11,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T14:47:16Z",
+    "updated_at": "2026-10-24T13:50:52Z",
+    "pushed_at": "2026-10-20T21:57:14Z"
+  },
+  {
+    "id": 1429387161,
+    "name": "contextcraft",
+    "full_name": "khanhtq29vn/contextcraft",
+    "owner": {
+      "login": "khanhtq29vn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345208720?v=4"
+    },
+    "description": "AST-Aware, Personalized-PageRank-Ranked, Token-Budgeted Codebase Compressor for LLMs",
+    "topics": [
+      "ai-engineering",
+      "ast",
+      "codebase-to-prompt",
+      "coding-agents",
+      "context-compression",
+      "developer-tools",
+      "knapsack-problem",
+      "llm",
+      "pagerank",
+      "python",
+      "rag",
+      "tree-sitter"
+    ],
+    "html_url": "https://github.com/khanhtq29vn/contextcraft",
+    "stargazers_count": 45,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 9,
+    "created_at": "2026-10-22T07:20:53Z",
+    "updated_at": "2026-10-25T01:59:52Z",
+    "pushed_at": "2026-10-24T04:08:16Z"
+  },
+  {
+    "id": 1429052057,
+    "name": "yandex-station-root",
+    "full_name": "hu553in/yandex-station-root",
+    "owner": {
+      "login": "hu553in",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37346043?v=4"
+    },
+    "description": "Root ADB and OTA controls for Yandex Stations, tested only on Mini 2",
+    "topics": [
+      "adb",
+      "dns",
+      "mitmproxy",
+      "ota",
+      "python",
+      "root",
+      "smart-speaker",
+      "yandex",
+      "yandex-station"
+    ],
+    "html_url": "https://github.com/hu553in/yandex-station-root",
+    "stargazers_count": 43,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T00:00:30Z",
+    "updated_at": "2026-10-24T22:27:54Z",
+    "pushed_at": "2026-10-22T17:43:41Z"
+  },
+  {
+    "id": 1425436631,
+    "name": "human-value-allocation",
+    "full_name": "kling01/human-value-allocation",
+    "owner": {
+      "login": "kling01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103892922?v=4"
+    },
+    "description": "Evidence-linked analysis of human contributions in human–AI conversations. Research preview.",
+    "topics": [
+      "agent-evaluation",
+      "human-ai-collaboration",
+      "human-in-the-loop",
+      "llm-evaluation",
+      "python",
+      "trace-analysis"
+    ],
+    "html_url": "https://github.com/kling01/human-value-allocation",
+    "stargazers_count": 36,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T10:14:29Z",
+    "updated_at": "2026-10-24T22:37:56Z",
+    "pushed_at": "2026-10-20T08:59:03Z"
+  },
+  {
+    "id": 1428727577,
+    "name": "php-rce",
+    "full_name": "david-alvarez-rosa/php-rce",
+    "owner": {
+      "login": "david-alvarez-rosa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77437099?v=4"
+    },
+    "description": "Exploits for CVE-2026-109618 / CVE-2026-109619 to achieve RCE on PHP targets",
+    "topics": [
+      "cve",
+      "exploit",
+      "penetration-testing",
+      "php",
+      "python",
+      "rce",
+      "security"
+    ],
+    "html_url": "https://github.com/david-alvarez-rosa/php-rce",
+    "stargazers_count": 35,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T17:42:17Z",
+    "updated_at": "2026-10-24T14:26:27Z",
+    "pushed_at": "2026-10-21T18:51:46Z"
+  }
+]

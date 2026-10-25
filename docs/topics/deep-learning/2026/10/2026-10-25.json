@@ -1,0 +1,604 @@
+[
+  {
+    "id": 1428486097,
+    "name": "opal",
+    "full_name": "xingjian-bai/opal",
+    "owner": {
+      "login": "xingjian-bai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93810179?v=4"
+    },
+    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
+    "topics": [
+      "deep-learning",
+      "llm-agents",
+      "optimizer",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/xingjian-bai/opal",
+    "stargazers_count": 197,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T14:17:50Z",
+    "updated_at": "2026-10-25T01:56:40Z",
+    "pushed_at": "2026-10-24T17:54:56Z"
+  },
+  {
+    "id": 1424262479,
+    "name": "Xsdsh-purge",
+    "full_name": "xiaoshe1337-star/Xsdsh-purge",
+    "owner": {
+      "login": "xiaoshe1337-star",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296236843?v=4"
+    },
+    "description": "沿用了此项目：https://github.com/YuJunZhiXue/dsh-purge  专注于deepseek harness破甲|逆向|渗透|   适配最新版deepseek harness ：deepseek v4.1 flash 最新版 ",
+    "topics": [
+      "deep-learning",
+      "deepseek",
+      "deepseek-harness",
+      "jailbreak",
+      "pentest",
+      "reverse"
+    ],
+    "html_url": "https://github.com/xiaoshe1337-star/Xsdsh-purge",
+    "stargazers_count": 70,
+    "language": "JavaScript",
+    "forks_count": 33,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T10:43:51Z",
+    "updated_at": "2026-10-24T19:00:43Z",
+    "pushed_at": "2026-10-18T18:47:57Z"
+  },
+  {
+    "id": 1428105252,
+    "name": "mafdet",
+    "full_name": "TheLastOxygen/mafdet",
+    "owner": {
+      "login": "TheLastOxygen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64108633?v=4"
+    },
+    "description": "You type. It already knows. Local LLMs that read and think while you type.",
+    "topics": [
+      "deep-learning",
+      "framework",
+      "large-language-models",
+      "llm-inference",
+      "llm-tools",
+      "local-ai",
+      "local-development",
+      "machine-learning",
+      "research-project",
+      "research-tool"
+    ],
+    "html_url": "https://github.com/TheLastOxygen/mafdet",
+    "stargazers_count": 50,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T08:37:56Z",
+    "updated_at": "2026-10-24T22:42:25Z",
+    "pushed_at": "2026-10-23T17:44:49Z"
+  },
+  {
+    "id": 1429736272,
+    "name": "decisionformer",
+    "full_name": "FrontiersMindAI/decisionformer",
+    "owner": {
+      "login": "FrontiersMindAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256152998?v=4"
+    },
+    "description": "Transformers for decision models: fine-tune, load and serve calibrated decsion-model on any Hugging Face model.",
+    "topics": [
+      "decision-model",
+      "decision-models",
+      "decoder",
+      "deep-learning",
+      "encoder",
+      "glm",
+      "jev-model",
+      "llm",
+      "machine-learning",
+      "pytorch",
+      "qwen"
+    ],
+    "html_url": "https://github.com/FrontiersMindAI/decisionformer",
+    "stargazers_count": 31,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T12:45:27Z",
+    "updated_at": "2026-10-25T01:54:38Z",
+    "pushed_at": "2026-10-23T21:00:56Z"
+  },
+  {
+    "id": 1426942815,
+    "name": "humanitys-last-math-book",
+    "full_name": "niuniu-869/humanitys-last-math-book",
+    "owner": {
+      "login": "niuniu-869",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143444128?v=4"
+    },
+    "description": "人类最后一本数理基础书：从中学数学到读懂大模型，一本随读者提问不断迭代的开源教材，附 dsh 答疑插件 · Humanity's Last Math Book",
+    "topics": [
+      "calculus",
+      "chinese",
+      "deep-learning",
+      "deepseek",
+      "linear-algebra",
+      "machine-learning",
+      "manim",
+      "mathematics",
+      "open-educational-resources",
+      "probability",
+      "textbook"
+    ],
+    "html_url": "https://github.com/niuniu-869/humanitys-last-math-book",
+    "stargazers_count": 15,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T11:41:50Z",
+    "updated_at": "2026-10-24T07:05:33Z",
+    "pushed_at": "2026-10-20T14:24:39Z"
+  },
+  {
+    "id": 1428332202,
+    "name": "computer-vision-engineering",
+    "full_name": "usamahz/computer-vision-engineering",
+    "owner": {
+      "login": "usamahz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39458672?v=4"
+    },
+    "description": "A reading path for computer vision engineering, from photon to production. Primary sources in dependency order, evidence-graded claims, and a runnable benchmark per section.",
+    "topics": [
+      "awesome-list",
+      "benchmarks",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "machine-learning",
+      "reading-list"
+    ],
+    "html_url": "https://github.com/usamahz/computer-vision-engineering",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T12:09:50Z",
+    "updated_at": "2026-10-24T18:24:32Z",
+    "pushed_at": "2026-10-21T17:39:05Z"
+  },
+  {
+    "id": 1424326467,
+    "name": "SciForge",
+    "full_name": "sddzlsc/SciForge",
+    "owner": {
+      "login": "sddzlsc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31798901?v=4"
+    },
+    "description": "Local-first research agent harness for deep learning: literature → reading → ideas → GPU experiments → papers & publication figures. DeepSeek-powered, custom OpenAI-compatible LLMs, SSH GPU orchestration.",
+    "topics": [
+      "agent-harness",
+      "arxiv",
+      "computer-vision",
+      "deep-learning",
+      "deepseek",
+      "fastapi",
+      "gpu",
+      "literature-review",
+      "llm",
+      "nlp",
+      "paper-writing",
+      "python",
+      "research-agent",
+      "scientific-research"
+    ],
+    "html_url": "https://github.com/sddzlsc/SciForge",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T12:03:32Z",
+    "updated_at": "2026-10-19T23:01:15Z",
+    "pushed_at": "2026-10-18T14:40:40Z"
+  },
+  {
+    "id": 1425498245,
+    "name": "python-for-ml-researchers",
+    "full_name": "mahfuzswe/python-for-ml-researchers",
+    "owner": {
+      "login": "mahfuzswe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95442955?v=4"
+    },
+    "description": "🐍 Learn every core Python concept for Machine Learning & Deep Learning in 2–3 hours. Hands-on Jupyter notebook with ML examples, practice tasks & solutions.",
+    "topics": [
+      "begineer-friendly",
+      "data-science",
+      "deep-learning",
+      "jupyter-notebook",
+      "machine-learning",
+      "ml-research",
+      "numpy",
+      "pandas",
+      "python",
+      "python-tutorial"
+    ],
+    "html_url": "https://github.com/mahfuzswe/python-for-ml-researchers",
+    "stargazers_count": 7,
+    "language": "Jupyter Notebook",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T11:14:21Z",
+    "updated_at": "2026-10-24T10:00:35Z",
+    "pushed_at": "2026-10-19T13:15:16Z"
+  },
+  {
+    "id": 1426172863,
+    "name": "RayCodes_Timestral",
+    "full_name": "47thtechcorner/RayCodes_Timestral",
+    "owner": {
+      "login": "47thtechcorner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233621018?v=4"
+    },
+    "description": "Mistral Timestral: Tiny 209M AI Predicts Stocks Locally on CPU! Zero-shot probabilistic forecasting foundation model.",
+    "topics": [
+      "deep-learning",
+      "forecasting",
+      "local-ai",
+      "machine-learning",
+      "mistral-ai",
+      "python",
+      "stock-prediction",
+      "time-series",
+      "timestral",
+      "zero-shot"
+    ],
+    "html_url": "https://github.com/47thtechcorner/RayCodes_Timestral",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T21:00:29Z",
+    "updated_at": "2026-10-23T07:14:21Z",
+    "pushed_at": "2026-10-19T21:00:40Z"
+  },
+  {
+    "id": 1425428158,
+    "name": "pingala8-llm",
+    "full_name": "Genrius-AI/pingala8-llm",
+    "owner": {
+      "login": "Genrius-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261781825?v=4"
+    },
+    "description": "2-bit LLMs for llama.cpp: 85% smaller, beats IQ2_XXS at the same size, no retraining. One-click Windows build.",
+    "topics": [
+      "2-bit",
+      "ai",
+      "cuda",
+      "deep-learning",
+      "generative-ai",
+      "gguf",
+      "inference",
+      "large-language-models",
+      "llama",
+      "llama-cpp",
+      "llama3",
+      "llm",
+      "llm-inference",
+      "local-llm",
+      "machine-learning",
+      "model-compression",
+      "post-training-quantization",
+      "quantization",
+      "qwen3",
+      "trellis-coded-quantization"
+    ],
+    "html_url": "https://github.com/Genrius-AI/pingala8-llm",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 8,
+    "created_at": "2026-10-19T10:06:41Z",
+    "updated_at": "2026-10-24T18:00:13Z",
+    "pushed_at": "2026-10-24T19:13:34Z"
+  },
+  {
+    "id": 1423981234,
+    "name": "luminamoon",
+    "full_name": "cloverx-id/luminamoon",
+    "owner": {
+      "login": "cloverx-id",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330458045?v=4"
+    },
+    "description": "PROJECT LUMI (LuminaMoon & LuminaV Optimizer): Low-Precision BF16/FP16 Deep Learning Optimizer (Convex Lookahead Momentum CLM & TD-CLM), High-Throughput Multimodal DataLoader (SIMD, Arrow/Parquet, XXH3 Dedup), and Formal Z3 SMT Verification in Rust & Python (PyTorch / NumPy).",
+    "topics": [
+      "arrow",
+      "avx512",
+      "bfloat16",
+      "dataloader",
+      "deep-learning",
+      "formal-verification",
+      "fp16",
+      "luminamoon",
+      "luminav",
+      "multimodal",
+      "optimizer",
+      "parquet",
+      "project-lumi",
+      "python",
+      "pytorch",
+      "rust",
+      "simd",
+      "stochastic-rounding",
+      "triton",
+      "vulkan"
+    ],
+    "html_url": "https://github.com/cloverx-id/luminamoon",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-18T04:18:30Z",
+    "updated_at": "2026-10-25T01:46:21Z",
+    "pushed_at": "2026-10-25T01:56:15Z"
+  },
+  {
+    "id": 1427344972,
+    "name": "awesome-superposition",
+    "full_name": "EEthanShi/awesome-superposition",
+    "owner": {
+      "login": "EEthanShi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71121453?v=4"
+    },
+    "description": "A curated reading list on feature superposition in neural networks, plus a daily arXiv feed on superposition and mechanistic interpretability.",
+    "topics": [
+      "arxiv",
+      "awesome-list",
+      "deep-learning",
+      "interpretability",
+      "machine-learning",
+      "mechanistic-interpretability",
+      "paper-list",
+      "polysemanticity",
+      "sparse-autoencoders",
+      "superposition"
+    ],
+    "html_url": "https://github.com/EEthanShi/awesome-superposition",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T17:24:01Z",
+    "updated_at": "2026-10-24T06:19:04Z",
+    "pushed_at": "2026-10-24T06:19:00Z"
+  },
+  {
+    "id": 1424997503,
+    "name": "IEFG-CDAN",
+    "full_name": "jwtjwtjwt628-debug/IEFG-CDAN",
+    "owner": {
+      "login": "jwtjwtjwt628-debug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329444571?v=4"
+    },
+    "description": "IEFG-CDAN: Information-Entropy-aware Fine-Grained Conditional Domain Adversarial Network for cross-working-condition bearing fault diagnosis (CWRU)",
+    "topics": [
+      "conditional-adversarial-network",
+      "cwru",
+      "deep-learning",
+      "domain-adaptation",
+      "fault-diagnosis",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/jwtjwtjwt628-debug/IEFG-CDAN",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T01:55:30Z",
+    "updated_at": "2026-10-20T13:12:37Z",
+    "pushed_at": "2026-10-19T02:03:02Z"
+  },
+  {
+    "id": 1424385991,
+    "name": "ThinkNet-Prototype",
+    "full_name": "Naksh7Gupta/ThinkNet-Prototype",
+    "owner": {
+      "login": "Naksh7Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216264695?v=4"
+    },
+    "description": "Design, train, and optimize Large Language Models with an AI-powered visual engineering platform. Build custom Transformer architectures, import pretrained models, and generate runnable PyTorch code. An integrated AI agent assists with debugging, while a compute estimator calculates hardware costs.",
+    "topics": [
+      "ai-research",
+      "deep-learning",
+      "llm",
+      "machine-learning",
+      "transformers"
+    ],
+    "html_url": "https://github.com/Naksh7Gupta/ThinkNet-Prototype",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T13:08:42Z",
+    "updated_at": "2026-10-23T15:47:05Z",
+    "pushed_at": "2026-10-22T11:29:11Z"
+  },
+  {
+    "id": 1424007229,
+    "name": "noiselab",
+    "full_name": "krolyxon/noiselab",
+    "owner": {
+      "login": "krolyxon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106688908?v=4"
+    },
+    "description": "Which speech denoiser works best, when, and at what cost? 11 algorithms, one benchmark, a Simulink model and an interactive web app.",
+    "topics": [
+      "audio",
+      "benchmark",
+      "deep-learning",
+      "deepfilternet",
+      "demucs",
+      "dsp",
+      "flask",
+      "matlab",
+      "mmsegmentation",
+      "noise-reduction",
+      "noise-suppression",
+      "numpy",
+      "pesquisa",
+      "scipy",
+      "signal-processing",
+      "simulink",
+      "spectral-subtraction",
+      "speech-enhancement",
+      "wiener-filter"
+    ],
+    "html_url": "https://github.com/krolyxon/noiselab",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T05:00:21Z",
+    "updated_at": "2026-10-23T07:14:32Z",
+    "pushed_at": "2026-10-22T17:53:08Z"
+  },
+  {
+    "id": 1426404968,
+    "name": "Cleanfield",
+    "full_name": "CleanfieldVoice/Cleanfield",
+    "owner": {
+      "login": "CleanfieldVoice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345009429?v=4"
+    },
+    "description": "Neural noise suppression and echo cancellation engine: bit-exact 16 kHz models, dependency-free Rust, runs natively and in the browser via WebAssembly.",
+    "topics": [
+      "audio-dsp",
+      "deep-learning",
+      "echo-cancellation",
+      "inference-engine",
+      "noise-suppression",
+      "real-time",
+      "rust",
+      "speech-enhancement",
+      "wasm",
+      "webassembly"
+    ],
+    "html_url": "https://github.com/CleanfieldVoice/Cleanfield",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T02:23:56Z",
+    "updated_at": "2026-10-23T13:51:35Z",
+    "pushed_at": "2026-10-23T13:51:30Z"
+  },
+  {
+    "id": 1426972500,
+    "name": "deepcw-desktop",
+    "full_name": "dedadeda26/deepcw-desktop",
+    "owner": {
+      "login": "dedadeda26",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142579907?v=4"
+    },
+    "description": "Offline Windows desktop CW decoder built on e04's DeepCW neural engine: multi-signal decoding, CAT rig control, WSJT-X UDP, bilingual UI.",
+    "topics": [
+      "amateur-radio",
+      "cw",
+      "decoder",
+      "deep-learning",
+      "electron",
+      "ham-radio",
+      "morse-code",
+      "radio",
+      "windows",
+      "wsjtx"
+    ],
+    "html_url": "https://github.com/dedadeda26/deepcw-desktop",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T12:09:11Z",
+    "updated_at": "2026-10-23T13:35:26Z",
+    "pushed_at": "2026-10-23T13:35:29Z"
+  },
+  {
+    "id": 1424968011,
+    "name": "deepfake-utfpr",
+    "full_name": "carlosportella16/deepfake-utfpr",
+    "owner": {
+      "login": "carlosportella16",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66968264?v=4"
+    },
+    "description": "Detector de voz deepfake em português (PT-BR): ensemble de CNNs residuais sobre espectrogramas log-mel, robusto a codecs e ao WhatsApp",
+    "topics": [
+      "anti-spoofing",
+      "audio-classification",
+      "cnn",
+      "deep-learning",
+      "deepfake-detection",
+      "keras",
+      "pt-br",
+      "tensorflow"
+    ],
+    "html_url": "https://github.com/carlosportella16/deepfake-utfpr",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-19T01:08:54Z",
+    "updated_at": "2026-10-19T11:01:44Z",
+    "pushed_at": "2026-10-19T01:31:29Z"
+  },
+  {
+    "id": 1431107166,
+    "name": "ThinkNet",
+    "full_name": "Naksh7Gupta/ThinkNet",
+    "owner": {
+      "login": "Naksh7Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216264695?v=4"
+    },
+    "description": "ThinkNet is an all-in-one AI platform to design LLMs, build reasoning models, implement research papers, and automate AI engineering. Explore multi-agent systems, multimodal AI, and robotics with 20+ AI libraries, compute estimation, dataset tools, quantization, and GPU support. Train and optimize AI models while accelerating research.",
+    "topics": [
+      "ai",
+      "ai-research",
+      "artificial-intelligence",
+      "deep-learning",
+      "llm"
+    ],
+    "html_url": "https://github.com/Naksh7Gupta/ThinkNet",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T13:49:33Z",
+    "updated_at": "2026-10-24T12:19:01Z",
+    "pushed_at": "2026-10-24T12:18:56Z"
+  },
+  {
+    "id": 1424867143,
+    "name": "DigitVision",
+    "full_name": "MahdiKordian/DigitVision",
+    "owner": {
+      "login": "MahdiKordian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314552004?v=4"
+    },
+    "description": "Handwritten digit recognition with a CNN trained on MNIST (99.32% accuracy). Upload or snap a photo and get the predicted digit with confidence and full preprocessing visualization. Built with TensorFlow, OpenCV, and Streamlit.",
+    "topics": [
+      "deep-learning",
+      "digit-recognition",
+      "mnist",
+      "opencv",
+      "streamlit",
+      "tensorflow"
+    ],
+    "html_url": "https://github.com/MahdiKordian/DigitVision",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-18T22:14:12Z",
+    "updated_at": "2026-10-20T09:38:42Z",
+    "pushed_at": "2026-10-18T23:59:29Z"
+  }
+]
