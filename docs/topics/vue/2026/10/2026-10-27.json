@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1430142712,
+    "name": "vasta",
+    "full_name": "ariedotme/vasta",
+    "owner": {
+      "login": "ariedotme",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105331534?v=4"
+    },
+    "description": "Open-source, self-hosted alternative to Capacities and Notion: notes, tasks and daily notes as typed objects. Local-first, works offline, MCP for your agents.",
+    "topics": [
+      "capacities",
+      "crdt",
+      "daily-notes",
+      "knowledge-management",
+      "local-first",
+      "mcp",
+      "note-taking",
+      "notes",
+      "notion-alternative",
+      "obsidian-alternative",
+      "offline-first",
+      "personal-knowledge-management",
+      "pkm",
+      "second-brain",
+      "self-hosted",
+      "sqlite",
+      "tauri",
+      "typescript",
+      "vue",
+      "yjs"
+    ],
+    "html_url": "https://github.com/ariedotme/vasta",
+    "stargazers_count": 31,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 34,
+    "created_at": "2026-10-22T18:44:07Z",
+    "updated_at": "2026-10-26T17:59:12Z",
+    "pushed_at": "2026-10-26T23:08:33Z"
+  },
+  {
+    "id": 1431934980,
+    "name": "Afterglow-Desktop",
+    "full_name": "kldhsh123/Afterglow-Desktop",
+    "owner": {
+      "login": "kldhsh123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123392781?v=4"
+    },
+    "description": "基于 RAG（免微调）重现语气与记忆的 Afterglow 桌面端。让曾经对话的温度，延续为往后的陪伴。 | Official Desktop client for Afterglow, powered by RAG (no fine-tuning needed). Let the warmth of past conversations continue into companionship.",
+    "topics": [
+      "afterglow",
+      "ai-companion",
+      "digital-companion",
+      "lancedb",
+      "llm",
+      "python",
+      "qq-chat",
+      "rag",
+      "semantic-search",
+      "tauri",
+      "tauri2",
+      "vector-database",
+      "vue"
+    ],
+    "html_url": "https://github.com/kldhsh123/Afterglow-Desktop",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T07:34:51Z",
+    "updated_at": "2026-10-24T16:01:48Z",
+    "pushed_at": "2026-10-24T10:28:05Z"
+  },
+  {
+    "id": 1428047129,
+    "name": "ai-cut",
+    "full_name": "heshengtao/ai-cut",
+    "owner": {
+      "login": "heshengtao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20573295?v=4"
+    },
+    "description": "An AI-native video editing workstation that teaches AI to edit videos, supporting MCP and Agent Skills to connect to any AI Harness!让AI学会剪视频的AI原生视频编辑工作站，支持MCP和Agent Skills接入任意AI Harness！",
+    "topics": [
+      "ai-agent",
+      "mcp",
+      "rust",
+      "tauri",
+      "video-editing",
+      "vue"
+    ],
+    "html_url": "https://github.com/heshengtao/ai-cut",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T07:44:00Z",
+    "updated_at": "2026-10-26T18:54:46Z",
+    "pushed_at": "2026-10-26T18:54:42Z"
+  },
+  {
+    "id": 1426465602,
+    "name": "vaultguard",
+    "full_name": "kianPk/vaultguard",
+    "owner": {
+      "login": "kianPk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133995651?v=4"
+    },
+    "description": "Vaultguard — defensive secrets toolkit (password score, JWT decode, hash)",
+    "topics": [
+      "crypto",
+      "jwt",
+      "nodejs",
+      "security",
+      "vue"
+    ],
+    "html_url": "https://github.com/kianPk/vaultguard",
+    "stargazers_count": 4,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T03:46:28Z",
+    "updated_at": "2026-10-26T18:30:45Z",
+    "pushed_at": "2026-10-25T20:06:45Z"
+  },
+  {
+    "id": 1427999696,
+    "name": "intel-radar",
+    "full_name": "kianPk/intel-radar",
+    "owner": {
+      "login": "kianPk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133995651?v=4"
+    },
+    "description": "Intel Radar — threat intelligence console (IoCs + asset matches)",
+    "topics": [
+      "security",
+      "soc",
+      "threat-intel",
+      "vue"
+    ],
+    "html_url": "https://github.com/kianPk/intel-radar",
+    "stargazers_count": 4,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T06:59:48Z",
+    "updated_at": "2026-10-26T18:30:41Z",
+    "pushed_at": "2026-10-25T20:06:49Z"
+  },
+  {
+    "id": 1427999901,
+    "name": "honeypot-deck",
+    "full_name": "kianPk/honeypot-deck",
+    "owner": {
+      "login": "kianPk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133995651?v=4"
+    },
+    "description": "Honeypot Deck — decoy service attack stream (Vue + Socket.IO)",
+    "topics": [
+      "honeypot",
+      "security",
+      "socket-io",
+      "vue"
+    ],
+    "html_url": "https://github.com/kianPk/honeypot-deck",
+    "stargazers_count": 4,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T07:00:01Z",
+    "updated_at": "2026-10-26T18:30:40Z",
+    "pushed_at": "2026-10-25T20:06:50Z"
+  },
+  {
+    "id": 1430214685,
+    "name": "dvfonts",
+    "full_name": "yashau/dvfonts",
+    "owner": {
+      "login": "yashau",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2152657?v=4"
+    },
+    "description": "Open Dhivehi (Thaana) fonts for the web: a Google-Fonts-style CSS API and downloads, plus agent-ready @yashau/thaana packages for React, Svelte, Vue and plain JS (phonetic keyboard, bidi toolkit, llms.txt).",
+    "topics": [
+      "bidi",
+      "cloudflare-workers",
+      "dhivehi",
+      "font-library",
+      "fonts",
+      "fonttools",
+      "keyboard",
+      "llms-txt",
+      "maldives",
+      "npm-package",
+      "react",
+      "rtl",
+      "svelte",
+      "sveltekit",
+      "thaana",
+      "typography",
+      "unicode",
+      "vue",
+      "webfonts",
+      "woff2"
+    ],
+    "html_url": "https://github.com/yashau/dvfonts",
+    "stargazers_count": 4,
+    "language": "Svelte",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-22T19:58:03Z",
+    "updated_at": "2026-10-26T12:58:39Z",
+    "pushed_at": "2026-10-26T22:45:28Z"
+  },
+  {
+    "id": 1427999503,
+    "name": "flowscope",
+    "full_name": "kianPk/flowscope",
+    "owner": {
+      "login": "kianPk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133995651?v=4"
+    },
+    "description": "Flowscope — network flow analyzer (Vue + Express)",
+    "topics": [
+      "express",
+      "networking",
+      "security",
+      "vue"
+    ],
+    "html_url": "https://github.com/kianPk/flowscope",
+    "stargazers_count": 4,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T06:59:35Z",
+    "updated_at": "2026-10-26T18:30:42Z",
+    "pushed_at": "2026-10-25T20:06:47Z"
+  },
+  {
+    "id": 1429924426,
+    "name": "Voxpad",
+    "full_name": "L-at-nnes/Voxpad",
+    "owner": {
+      "login": "L-at-nnes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201150075?v=4"
+    },
+    "description": "Fast, portable soundboard for voice chat. Global hotkeys, virtual-mic routing, built with Rust and Tauri.",
+    "topics": [
+      "audio",
+      "desktop-app",
+      "discord",
+      "fluxer",
+      "hotkeys",
+      "lightweight",
+      "portable",
+      "rust",
+      "soundboard",
+      "soundboard-app",
+      "stream",
+      "streaming",
+      "tauri",
+      "twitch",
+      "typescript",
+      "vb-cable",
+      "voicemod-github",
+      "vue",
+      "windows"
+    ],
+    "html_url": "https://github.com/L-at-nnes/Voxpad",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T15:23:22Z",
+    "updated_at": "2026-10-22T15:35:55Z",
+    "pushed_at": "2026-10-22T15:30:41Z"
+  },
+  {
+    "id": 1426465435,
+    "name": "netprobe-lab",
+    "full_name": "kianPk/netprobe-lab",
+    "owner": {
+      "login": "kianPk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133995651?v=4"
+    },
+    "description": "Netprobe Lab — allowlisted DNS/TCP/CIDR diagnostics (Vue + Node)",
+    "topics": [
+      "cidr",
+      "dns",
+      "networking",
+      "nodejs",
+      "vue"
+    ],
+    "html_url": "https://github.com/kianPk/netprobe-lab",
+    "stargazers_count": 4,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T03:46:13Z",
+    "updated_at": "2026-10-26T18:30:45Z",
+    "pushed_at": "2026-10-25T20:06:46Z"
+  },
+  {
+    "id": 1426465263,
+    "name": "sentinel-grid",
+    "full_name": "kianPk/sentinel-grid",
+    "owner": {
+      "login": "kianPk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133995651?v=4"
+    },
+    "description": "Sentinel Grid — SOC console (Vue alert triage + asset risk)",
+    "topics": [
+      "express",
+      "nodejs",
+      "security",
+      "soc",
+      "vue"
+    ],
+    "html_url": "https://github.com/kianPk/sentinel-grid",
+    "stargazers_count": 4,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T03:45:58Z",
+    "updated_at": "2026-10-26T18:30:46Z",
+    "pushed_at": "2026-10-25T20:06:44Z"
+  },
+  {
+    "id": 1428591163,
+    "name": "comentaeuquero",
+    "full_name": "Augustogobatto/comentaeuquero",
+    "owner": {
+      "login": "Augustogobatto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117290240?v=4"
+    },
+    "description": "Comentou, recebeu a DM. Automação de direct do Instagram e WhatsApp oficial, self-hosted, sem mensalidade.",
+    "topics": [
+      "automation",
+      "fair-code",
+      "fastapi",
+      "instagram",
+      "manychat-alternative",
+      "self-hosted",
+      "vue",
+      "whatsapp"
+    ],
+    "html_url": "https://github.com/Augustogobatto/comentaeuquero",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T15:42:23Z",
+    "updated_at": "2026-10-24T14:47:39Z",
+    "pushed_at": "2026-10-22T12:47:37Z"
+  },
+  {
+    "id": 1429260058,
+    "name": "skin-nexus",
+    "full_name": "YimingZhanshen/skin-nexus",
+    "owner": {
+      "login": "YimingZhanshen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76594627?v=4"
+    },
+    "description": "SkinNexus / 肤枢 — 下一代 Minecraft 皮肤站：Yggdrasil 外置登录兼容、一键迁移 blessing-skin-server、自托管优先 (AGPL-3.0)",
+    "topics": [
+      "authlib-injector",
+      "blessing",
+      "blessing-skin",
+      "blessing-skin-server",
+      "go",
+      "minecraft",
+      "self-hosted",
+      "skin-server",
+      "vue",
+      "yggdrasil"
+    ],
+    "html_url": "https://github.com/YimingZhanshen/skin-nexus",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T04:56:28Z",
+    "updated_at": "2026-10-27T01:53:58Z",
+    "pushed_at": "2026-10-27T01:53:55Z"
+  },
+  {
+    "id": 1432048887,
+    "name": "frontend",
+    "full_name": "seekra-se/frontend",
+    "owner": {
+      "login": "seekra-se",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347323893?v=4"
+    },
+    "description": "A mirror of the frontend of Seekra",
+    "topics": [
+      "css",
+      "eslint",
+      "frontend",
+      "frontend-web",
+      "html",
+      "javascript",
+      "open-source",
+      "prettier",
+      "search",
+      "search-engine",
+      "userinterface",
+      "vite",
+      "vitejs",
+      "vitest",
+      "vue",
+      "vue-router",
+      "vue3",
+      "vuejs3"
+    ],
+    "html_url": "https://github.com/seekra-se/frontend",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T10:05:49Z",
+    "updated_at": "2026-10-24T20:37:25Z",
+    "pushed_at": "2026-10-24T20:38:26Z"
+  },
+  {
+    "id": 1426682691,
+    "name": "nearfield-commerce-platform",
+    "full_name": "znnw/nearfield-commerce-platform",
+    "owner": {
+      "login": "znnw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203036067?v=4"
+    },
+    "description": "Full-stack local-commerce platform for nearby discovery, deals, reviews, and social experiences.",
+    "topics": [
+      "flash-sale",
+      "geospatial",
+      "java",
+      "javascript",
+      "mybatis-plus",
+      "mysql",
+      "nginx",
+      "redis",
+      "redisson",
+      "rest-api",
+      "spring-boot",
+      "vue"
+    ],
+    "html_url": "https://github.com/znnw/nearfield-commerce-platform",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T07:52:28Z",
+    "updated_at": "2026-10-23T08:21:38Z",
+    "pushed_at": "2026-10-20T08:34:13Z"
+  },
+  {
+    "id": 1430190978,
+    "name": "Flandora",
+    "full_name": "OMSociety/Flandora",
+    "owner": {
+      "login": "OMSociety",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85862362?v=4"
+    },
+    "description": "把微信个人号接成 OneBot v11 服务端",
+    "topics": [
+      "bridge",
+      "fastapi",
+      "frida",
+      "onebot",
+      "onebot-v11",
+      "python",
+      "uiautomation",
+      "vue",
+      "wechat",
+      "wechat-bot",
+      "wechat-desktop",
+      "windows"
+    ],
+    "html_url": "https://github.com/OMSociety/Flandora",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T19:32:52Z",
+    "updated_at": "2026-10-26T22:48:56Z",
+    "pushed_at": "2026-10-26T22:48:52Z"
+  },
+  {
+    "id": 1427066637,
+    "name": "fun-loader",
+    "full_name": "VectorChi/fun-loader",
+    "owner": {
+      "login": "VectorChi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80969723?v=4"
+    },
+    "description": "Playful, rotating loading text for AI apps. Tiny web component for HTML, React and Vue.",
+    "topics": [
+      "ai",
+      "animations-library",
+      "llm",
+      "loading",
+      "loading-animation",
+      "loading-animations",
+      "loading-indicator",
+      "reactjs",
+      "vue",
+      "web-components"
+    ],
+    "html_url": "https://github.com/VectorChi/fun-loader",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T13:29:57Z",
+    "updated_at": "2026-10-24T15:02:12Z",
+    "pushed_at": "2026-10-24T19:05:04Z"
+  },
+  {
+    "id": 1431138585,
+    "name": "second-shift",
+    "full_name": "piotrekno1/second-shift",
+    "owner": {
+      "login": "piotrekno1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173166?v=4"
+    },
+    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "topics": [
+      "agent-skills",
+      "agentops",
+      "ai-agents",
+      "ai-code-review",
+      "ai-governance",
+      "audit-log",
+      "automation",
+      "code-review",
+      "cron",
+      "developer-tools",
+      "django",
+      "gitops",
+      "llm",
+      "llmops",
+      "mcp",
+      "model-context-protocol",
+      "sandbox",
+      "scheduled-tasks",
+      "self-hosted",
+      "vue"
+    ],
+    "html_url": "https://github.com/piotrekno1/second-shift",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 10,
+    "created_at": "2026-10-23T14:16:39Z",
+    "updated_at": "2026-10-26T20:34:00Z",
+    "pushed_at": "2026-10-26T19:23:51Z"
+  },
+  {
+    "id": 1432176952,
+    "name": "SIRAP_2",
+    "full_name": "eduardoceballos666/SIRAP_2",
+    "owner": {
+      "login": "eduardoceballos666",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246870858?v=4"
+    },
+    "description": "Sistema de Deteccion y Reconocimiento Automatico de Placas",
+    "topics": [
+      "fastapi",
+      "huggingface",
+      "ocr-python",
+      "ocr-recognition",
+      "optuna",
+      "plates",
+      "roboflow",
+      "truck",
+      "vision-ai",
+      "vue",
+      "yolo11"
+    ],
+    "html_url": "https://github.com/eduardoceballos666/SIRAP_2",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T12:49:09Z",
+    "updated_at": "2026-10-27T01:57:16Z",
+    "pushed_at": "2026-10-27T01:57:12Z"
+  },
+  {
+    "id": 1432206901,
+    "name": "deepseek-json-viewer",
+    "full_name": "bgzolab/deepseek-json-viewer",
+    "owner": {
+      "login": "bgzolab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284358111?v=4"
+    },
+    "description": "Local-first, browser-only viewer for exported DeepSeek chats: import JSON, browse and search offline. No uploads.",
+    "topics": [
+      "chat-export",
+      "deepseek",
+      "deepseek-chat",
+      "indexeddb",
+      "json-viewer",
+      "local-first",
+      "markdown",
+      "offline-first",
+      "typescript",
+      "vite",
+      "vue"
+    ],
+    "html_url": "https://github.com/bgzolab/deepseek-json-viewer",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 8,
+    "created_at": "2026-10-24T13:24:00Z",
+    "updated_at": "2026-10-25T15:21:32Z",
+    "pushed_at": "2026-10-26T01:16:03Z"
+  }
+]

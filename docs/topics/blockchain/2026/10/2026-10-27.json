@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1427516673,
+    "name": "abyssdb",
+    "full_name": "abyssdblabs/abyssdb",
+    "owner": {
+      "login": "abyssdblabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345744539?v=4"
+    },
+    "description": "Infinitely fast. Perfectly consistent. Zero-knowledge. The AI-native, post-quantum, interplanetary SQL database. ACID, BASE and CAP, formally proven.",
+    "topics": [
+      "ai-native",
+      "blockchain",
+      "cap-theorem",
+      "consensus",
+      "database",
+      "dev-null",
+      "distributed-systems",
+      "golang",
+      "key-value",
+      "mcp",
+      "ml-kem",
+      "post-quantum-cryptography",
+      "postgresql",
+      "raft",
+      "rust",
+      "satire",
+      "serverless",
+      "sql",
+      "webassembly",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/abyssdblabs/abyssdb",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-10-20T20:12:37Z",
+    "updated_at": "2026-10-22T03:21:46Z",
+    "pushed_at": "2026-10-21T09:45:36Z"
+  },
+  {
+    "id": 1429568627,
+    "name": "erpc-sdk",
+    "full_name": "elsoul/erpc-sdk",
+    "owner": {
+      "login": "elsoul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42315168?v=4"
+    },
+    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
+    "topics": [
+      "blockchain",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "cloud",
+      "cloudflare",
+      "deno",
+      "ethreum",
+      "gpt",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "pnpm",
+      "react",
+      "rpc",
+      "rust",
+      "solana",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/elsoul/erpc-sdk",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T10:10:05Z",
+    "updated_at": "2026-10-25T20:30:21Z",
+    "pushed_at": "2026-10-25T20:30:18Z"
+  },
+  {
+    "id": 1429546351,
+    "name": "armax-coin",
+    "full_name": "acxxcxx/armax-coin",
+    "owner": {
+      "login": "acxxcxx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61428012?v=4"
+    },
+    "description": "Proof-of-Work Layer-1 testnet with NIST FIPS 204 (ML-DSA-65) post-quantum signatures.",
+    "topics": [
+      "blockchain",
+      "cryptocurrency",
+      "golang",
+      "mining",
+      "p2p-network",
+      "post-quantum-cryptography",
+      "proof-of-work"
+    ],
+    "html_url": "https://github.com/acxxcxx/armax-coin",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-22T09:49:49Z",
+    "updated_at": "2026-10-26T18:47:33Z",
+    "pushed_at": "2026-10-26T18:52:36Z"
+  },
+  {
+    "id": 1432045880,
+    "name": "siworld",
+    "full_name": "siworld-labs/siworld",
+    "owner": {
+      "login": "siworld-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347326376?v=4"
+    },
+    "description": "Shielded payment protocol with fixed-capacity blocks, post-quantum note encryption, and recursive STARK verification.",
+    "topics": [
+      "blockchain",
+      "cryptography",
+      "post-quantum-cryptography",
+      "privacy",
+      "rust",
+      "stark",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/siworld-labs/siworld",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-24T10:01:53Z",
+    "updated_at": "2026-10-26T02:22:10Z",
+    "pushed_at": "2026-10-27T00:47:01Z"
+  },
+  {
+    "id": 1427144169,
+    "name": "diogenes-web3-security-mcp",
+    "full_name": "stand-out-of-my-sun/diogenes-web3-security-mcp",
+    "owner": {
+      "login": "stand-out-of-my-sun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/343882949?v=4"
+    },
+    "description": "15 Web3, DeFi & HTTP 402 security tools: EVM/Move contract auditor, Solana Anchor CPI scanner, SPL risk & liquidity inspectors, whale flow tracker, Jito fee estimator, EIP-712 & EVM calldata decoders, MEV evaluator, address-poisoning detector, 402 verifier, Bitcoin UTXO planner, and non-KYC bridge comparator.",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "crypto",
+      "defi",
+      "eip712",
+      "glama",
+      "l402",
+      "lightning-network",
+      "mcp",
+      "mcp-server",
+      "mev",
+      "security-audit",
+      "smart-contracts",
+      "solana",
+      "streamable-http",
+      "tensorblock",
+      "thorchain",
+      "utxo",
+      "web3",
+      "x402"
+    ],
+    "html_url": "https://github.com/stand-out-of-my-sun/diogenes-web3-security-mcp",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T14:32:16Z",
+    "updated_at": "2026-10-26T17:51:19Z",
+    "pushed_at": "2026-10-26T17:51:16Z"
+  },
+  {
+    "id": 1430249291,
+    "name": "massive-x-ios",
+    "full_name": "whoisfedor/massive-x-ios",
+    "owner": {
+      "login": "whoisfedor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167010226?v=4"
+    },
+    "description": "Massive X is a native, non-custodial iOS wallet for the Massa blockchain. Secure on-device key storage, local transaction signing, Face ID, and Mainnet support. Built with SwiftUI.",
+    "topics": [
+      "blockchain",
+      "crypto-wallet-ui",
+      "cryptocurrency",
+      "cryptowallet",
+      "ios",
+      "ios-app",
+      "massa",
+      "massa-blockchain",
+      "non-custodial",
+      "swift",
+      "swift-ui",
+      "web3",
+      "web3-wallet"
+    ],
+    "html_url": "https://github.com/whoisfedor/massive-x-ios",
+    "stargazers_count": 1,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T20:36:23Z",
+    "updated_at": "2026-10-26T11:48:59Z",
+    "pushed_at": "2026-10-26T11:48:55Z"
+  },
+  {
+    "id": 1429720328,
+    "name": "Digital-Collectibles-Management-App",
+    "full_name": "amoltathesoftwareengineer/Digital-Collectibles-Management-App",
+    "owner": {
+      "login": "amoltathesoftwareengineer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172461155?v=4"
+    },
+    "description": "Repository name: Digital-Collectibles-Management-App Description: A digital collectibles management application concept for organizing assets and displaying collection details.",
+    "topics": [
+      "asset-management",
+      "blockchain",
+      "collectibles",
+      "collection-tracker",
+      "digital-assets",
+      "digital-collectibles",
+      "frontend",
+      "portfolio-project",
+      "web-application",
+      "web3"
+    ],
+    "html_url": "https://github.com/amoltathesoftwareengineer/Digital-Collectibles-Management-App",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T12:31:33Z",
+    "updated_at": "2026-10-24T10:08:48Z",
+    "pushed_at": "2026-10-22T12:31:34Z"
+  },
+  {
+    "id": 1428990290,
+    "name": "verge-mempool",
+    "full_name": "vergecurrency/verge-mempool",
+    "owner": {
+      "login": "vergecurrency",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16771005?v=4"
+    },
+    "description": "rust based electrum server and blockchain explorer for verge",
+    "topics": [
+      "blockchain",
+      "blockchain-analytics",
+      "blockchain-explorer",
+      "blockchain-network",
+      "blockchain-technology",
+      "blockchain-tool",
+      "electrs",
+      "electrum",
+      "explorer",
+      "rust"
+    ],
+    "html_url": "https://github.com/vergecurrency/verge-mempool",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T22:22:40Z",
+    "updated_at": "2026-10-26T19:50:06Z",
+    "pushed_at": "2026-10-26T19:50:01Z"
+  },
+  {
+    "id": 1426673983,
+    "name": "kairos",
+    "full_name": "kairoschain/kairos",
+    "owner": {
+      "login": "kairoschain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345184884?v=4"
+    },
+    "description": "Kairos Chain: a proof-native Layer 1. Every block carries one recursive proof of the entire chain. Fork of Parano1d (Apache-2.0).",
+    "topics": [
+      "blockchain",
+      "layer1",
+      "post-quantum",
+      "proof-of-work",
+      "rust",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/kairoschain/kairos",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T07:44:19Z",
+    "updated_at": "2026-10-20T17:29:42Z",
+    "pushed_at": "2026-10-20T08:38:44Z"
+  },
+  {
+    "id": 1427823189,
+    "name": "HacdsDeFi",
+    "full_name": "s6050105/HacdsDeFi",
+    "owner": {
+      "login": "s6050105",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78310577?v=4"
+    },
+    "description": "hacds on Hacash mainnet: HVM DeFi contract, scoring oracle, chain indexer, and a cold/hot wallet console",
+    "topics": [
+      "amm",
+      "blockchain",
+      "defi",
+      "electron",
+      "fitsh",
+      "hacash",
+      "hacd",
+      "hvm",
+      "lending",
+      "oracle",
+      "smart-contract",
+      "wallet"
+    ],
+    "html_url": "https://github.com/s6050105/HacdsDeFi",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T03:17:50Z",
+    "updated_at": "2026-10-24T15:05:42Z",
+    "pushed_at": "2026-10-24T15:05:39Z"
+  },
+  {
+    "id": 1432067591,
+    "name": "parano1d-sdk",
+    "full_name": "ignotusnemo/parano1d-sdk",
+    "owner": {
+      "login": "ignotusnemo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270571917?v=4"
+    },
+    "description": "TypeScript and Rust SDK for Parano1d: native tokens, launchpad, DEX, NFTs and proof-native contracts.",
+    "topics": [
+      "blockchain",
+      "defi",
+      "nft",
+      "parano1d",
+      "post-quantum",
+      "rust",
+      "sdk",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ignotusnemo/parano1d-sdk",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T10:30:28Z",
+    "updated_at": "2026-10-24T17:25:08Z",
+    "pushed_at": "2026-10-24T10:30:44Z"
+  },
+  {
+    "id": 1431731562,
+    "name": "monadproject",
+    "full_name": "salmanfidinillah/monadproject",
+    "owner": {
+      "login": "salmanfidinillah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273075767?v=4"
+    },
+    "description": "BOM OPER — A multiplayer hot-potato game for Monad Testnet, featuring on-chain bomb passes, timed rounds, and verifiable results.",
+    "topics": [
+      "blockchain",
+      "monad",
+      "monad-testnet",
+      "multiplayer-game",
+      "react",
+      "smart-contracts",
+      "solidity",
+      "typescript",
+      "web3",
+      "web3-gaming"
+    ],
+    "html_url": "https://github.com/salmanfidinillah/monadproject",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T02:10:56Z",
+    "updated_at": "2026-10-24T09:27:21Z",
+    "pushed_at": "2026-10-24T09:27:18Z"
+  },
+  {
+    "id": 1432597119,
+    "name": "winex-core",
+    "full_name": "WinexCoin/winex-core",
+    "owner": {
+      "login": "WinexCoin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347405677?v=4"
+    },
+    "description": "Autonomous, decentralized Layer-1 Proof-of-Work (PoW) blockchain secured by double SHA-256. Strictly capped 10M supply, zero pre-mine tax, deterministic 15-minute blocks.",
+    "topics": [
+      "bitcoin-fork",
+      "blockchain",
+      "cryptocurrency",
+      "decentralized",
+      "fair-launch",
+      "go",
+      "layer-1",
+      "mining",
+      "proof-of-work",
+      "sha256"
+    ],
+    "html_url": "https://github.com/WinexCoin/winex-core",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T21:09:43Z",
+    "updated_at": "2026-10-25T19:47:35Z",
+    "pushed_at": "2026-10-25T19:50:34Z"
+  },
+  {
+    "id": 1433013457,
+    "name": "web3-learning",
+    "full_name": "bilalabic/web3-learning",
+    "owner": {
+      "login": "bilalabic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66368641?v=4"
+    },
+    "description": "Archive of beginner blockchain learning projects: Sui Move 21-day challenge and a Stellar bill-splitting dApp",
+    "topics": [
+      "blockchain",
+      "learning",
+      "move",
+      "stellar",
+      "sui"
+    ],
+    "html_url": "https://github.com/bilalabic/web3-learning",
+    "stargazers_count": 1,
+    "language": "Move",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T09:10:17Z",
+    "updated_at": "2026-10-25T09:50:39Z",
+    "pushed_at": "2026-10-25T09:10:24Z"
+  },
+  {
+    "id": 1434180109,
+    "name": "seedcrystal",
+    "full_name": "osmium-labs/seedcrystal",
+    "owner": {
+      "login": "osmium-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160355835?v=4"
+    },
+    "description": "Multi-coin DNS seeder for Bitcoin-protocol UTXO chains: crawls the P2P network, scores nodes, and serves the healthy ones from its own authoritative DNS server or through Cloudflare.",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "cloudflare",
+      "cryptocurrency",
+      "dns",
+      "dns-seeder",
+      "dns-server",
+      "osmium",
+      "p2p",
+      "peer-discovery",
+      "raptoreum",
+      "rust",
+      "utxo"
+    ],
+    "html_url": "https://github.com/osmium-labs/seedcrystal",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T09:42:45Z",
+    "updated_at": "2026-10-26T18:02:48Z",
+    "pushed_at": "2026-10-26T17:11:34Z"
+  },
+  {
+    "id": 1426887112,
+    "name": "decard",
+    "full_name": "AlleyBo55/decard",
+    "owner": {
+      "login": "AlleyBo55",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23420935?v=4"
+    },
+    "description": null,
+    "topics": [
+      "blockchain",
+      "card",
+      "collector-crypt",
+      "gacha",
+      "pokedex",
+      "pokemon",
+      "pokemon-cards",
+      "pokemon-tcg",
+      "rwa",
+      "solana",
+      "solana-transactions",
+      "tcg"
+    ],
+    "html_url": "https://github.com/AlleyBo55/decard",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-20T10:49:19Z",
+    "updated_at": "2026-10-26T04:20:50Z",
+    "pushed_at": "2026-10-26T04:20:46Z"
+  },
+  {
+    "id": 1434638009,
+    "name": "gett",
+    "full_name": "naviko/gett",
+    "owner": {
+      "login": "naviko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22467046?v=4"
+    },
+    "description": "Simple utility for downloading files, extracting archives, FTP, network tools, API calls using sandboxed environments with lightweight virus scanning to keep things safe.",
+    "topics": [
+      "api",
+      "blockchain",
+      "container",
+      "curl",
+      "extractor",
+      "ftp",
+      "ftp-client",
+      "ipfs",
+      "microvm",
+      "networking",
+      "sandbox",
+      "wget",
+      "yara-x"
+    ],
+    "html_url": "https://github.com/naviko/gett",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T16:24:47Z",
+    "updated_at": "2026-10-26T19:40:57Z",
+    "pushed_at": "2026-10-26T19:41:14Z"
+  },
+  {
+    "id": 1427579040,
+    "name": "stableflow",
+    "full_name": "daniserrano7/stableflow",
+    "owner": {
+      "login": "daniserrano7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60034715?v=4"
+    },
+    "description": "Real-time tracker of USDC flows on Base. Indexer, API, live dashboard and an MCP server you can query from Claude or ChatGPT.",
+    "topics": [
+      "blockchain",
+      "data-pipeline",
+      "data-visualization",
+      "database",
+      "defi",
+      "fintech",
+      "indexer",
+      "mcp"
+    ],
+    "html_url": "https://github.com/daniserrano7/stableflow",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-20T21:23:35Z",
+    "updated_at": "2026-10-21T12:00:23Z",
+    "pushed_at": "2026-10-21T12:00:20Z"
+  },
+  {
+    "id": 1431812001,
+    "name": "Top4Sec-SmartContract-RAG",
+    "full_name": "yaowcui-ai/Top4Sec-SmartContract-RAG",
+    "owner": {
+      "login": "yaowcui-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313653585?v=4"
+    },
+    "description": "四大顶会区块链智能合约论文问答系统 | LightRAG · PDF evidence · naive/mix · FastAPI · isolated MySQL",
+    "topics": [
+      "academic-papers",
+      "blockchain",
+      "fastapi",
+      "lightrag",
+      "mysql",
+      "rag",
+      "reranking",
+      "smart-contracts"
+    ],
+    "html_url": "https://github.com/yaowcui-ai/Top4Sec-SmartContract-RAG",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T04:29:32Z",
+    "updated_at": "2026-10-24T05:12:15Z",
+    "pushed_at": "2026-10-24T05:12:11Z"
+  },
+  {
+    "id": 1428839239,
+    "name": "server",
+    "full_name": "Win-Proof-of-Skill/server",
+    "owner": {
+      "login": "Win-Proof-of-Skill",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345372154?v=4"
+    },
+    "description": "A server built on top of shardus, for a proof of skill",
+    "topics": [
+      "blockchain",
+      "proof-of-skill"
+    ],
+    "html_url": "https://github.com/Win-Proof-of-Skill/server",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T19:28:57Z",
+    "updated_at": "2026-10-26T17:35:11Z",
+    "pushed_at": "2026-10-26T17:35:07Z"
+  }
+]
