@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1431719963,
+    "name": "sam3-segmentation",
+    "full_name": "lillyguisnet/sam3-segmentation",
+    "owner": {
+      "login": "lillyguisnet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76911950?v=4"
+    },
+    "description": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
+    "topics": [
+      "agent-skills",
+      "annotation",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "computer-vision",
+      "image-segmentation",
+      "instance-segmentation",
+      "sam3",
+      "segment-anything"
+    ],
+    "html_url": "https://github.com/lillyguisnet/sam3-segmentation",
+    "stargazers_count": 106,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 1,
+    "created_at": "2026-10-24T01:49:15Z",
+    "updated_at": "2026-10-27T21:05:17Z",
+    "pushed_at": "2026-10-24T02:12:32Z"
+  },
+  {
+    "id": 1432684488,
+    "name": "screenplink",
+    "full_name": "vkorost/screenplink",
+    "owner": {
+      "login": "vkorost",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45642330?v=4"
+    },
+    "description": "A laser dry-fire shooting game: your matte monitor is the target, an ordinary webcam watches it from the side, and your laser trainer leaves bullet holes where you hit.",
+    "topics": [
+      "claude-code",
+      "computer-vision",
+      "dry-fire",
+      "dryfire",
+      "game",
+      "laser",
+      "mcp",
+      "monitor",
+      "opencv",
+      "python",
+      "shooting-game",
+      "shooting-range",
+      "training"
+    ],
+    "html_url": "https://github.com/vkorost/screenplink",
+    "stargazers_count": 63,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 1,
+    "created_at": "2026-10-24T23:41:52Z",
+    "updated_at": "2026-10-28T01:56:44Z",
+    "pushed_at": "2026-10-27T18:10:27Z"
+  },
+  {
+    "id": 1433794497,
+    "name": "openskycam",
+    "full_name": "Deibler/openskycam",
+    "owner": {
+      "login": "Deibler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33723577?v=4"
+    },
+    "description": "Record a sky camera around the clock, keep the footage on your own disk, and find what flew past.",
+    "topics": [
+      "astronomy",
+      "cloudflare-workers",
+      "computer-vision",
+      "mcp",
+      "meteor-detection",
+      "object-tracking",
+      "rtsp",
+      "self-hosted",
+      "sky-camera",
+      "yolo"
+    ],
+    "html_url": "https://github.com/Deibler/openskycam",
+    "stargazers_count": 61,
+    "language": "TypeScript",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T01:53:40Z",
+    "updated_at": "2026-10-28T01:38:06Z",
+    "pushed_at": "2026-10-26T02:51:12Z"
+  },
+  {
+    "id": 1428781417,
+    "name": "ALPS",
+    "full_name": "UCSC-VLAA/ALPS",
+    "owner": {
+      "login": "UCSC-VLAA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92564714?v=4"
+    },
+    "description": "🏔️ ALPS: Visual State Encoders for World Models",
+    "topics": [
+      "computer-vision",
+      "contrastive-learning",
+      "embodied-ai",
+      "jax",
+      "libero",
+      "pytorch",
+      "representation-learning",
+      "robot-learning",
+      "self-supervised-learning",
+      "vision-language",
+      "vision-transformer",
+      "world-models"
+    ],
+    "html_url": "https://github.com/UCSC-VLAA/ALPS",
+    "stargazers_count": 29,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-10-21T18:32:33Z",
+    "updated_at": "2026-10-27T05:12:34Z",
+    "pushed_at": "2026-10-22T01:45:18Z"
+  },
+  {
+    "id": 1430997632,
+    "name": "robotics-roadmap-2026",
+    "full_name": "justxor/robotics-roadmap-2026",
+    "owner": {
+      "login": "justxor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30596522?v=4"
+    },
+    "description": "Открытый курс: собери первого робота и войди в робототехнику с нуля за 6 месяцев. Электроника → Arduino/ESP32 → CAD и 3D-печать → рука SO-101 → ROS 2 (SLAM, Nav2) → PID/LQR, CV → LeRobot. 100+ ресурсов, схемы, готовый код, железо на 3 бюджета, план по неделям и 30 идей проектов",
+    "topics": [
+      "arduino",
+      "computer-vision",
+      "course",
+      "embedded",
+      "esp32",
+      "lerobot",
+      "nav2",
+      "pid-control",
+      "roadmap",
+      "robot-arm",
+      "robotics",
+      "ros2",
+      "russian",
+      "slam",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/justxor/robotics-roadmap-2026",
+    "stargazers_count": 25,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T12:08:02Z",
+    "updated_at": "2026-10-26T18:51:09Z",
+    "pushed_at": "2026-10-23T13:05:09Z"
+  },
+  {
+    "id": 1430113995,
+    "name": "firered-ai-switch",
+    "full_name": "xhinzz/firered-ai-switch",
+    "owner": {
+      "login": "xhinzz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45099203?v=4"
+    },
+    "description": "An AI that plays Pokémon FireRed on a real Nintendo Switch: capture card in, emulated Bluetooth controller out. LLM strategist + deterministic skills, map localisation from the pret decomp, ACE toolkit.",
+    "topics": [
+      "ai-agent",
+      "computer-vision",
+      "game-ai",
+      "llm",
+      "nintendo-switch",
+      "opencv",
+      "pathfinding",
+      "pokemon",
+      "python",
+      "reverse-engineering"
+    ],
+    "html_url": "https://github.com/xhinzz/firered-ai-switch",
+    "stargazers_count": 15,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T18:16:11Z",
+    "updated_at": "2026-10-24T08:39:56Z",
+    "pushed_at": "2026-10-23T14:50:43Z"
+  },
+  {
+    "id": 1428332202,
+    "name": "computer-vision-engineering",
+    "full_name": "usamahz/computer-vision-engineering",
+    "owner": {
+      "login": "usamahz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39458672?v=4"
+    },
+    "description": "A reading path for computer vision engineering, from photon to production. Primary sources in dependency order, evidence-graded claims, and a runnable benchmark per section.",
+    "topics": [
+      "awesome-list",
+      "benchmarks",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "machine-learning",
+      "reading-list"
+    ],
+    "html_url": "https://github.com/usamahz/computer-vision-engineering",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-10-21T12:09:50Z",
+    "updated_at": "2026-10-26T12:37:06Z",
+    "pushed_at": "2026-10-21T17:39:05Z"
+  },
+  {
+    "id": 1428244836,
+    "name": "RayCodes_Indra_OCR",
+    "full_name": "47thtechcorner/RayCodes_Indra_OCR",
+    "owner": {
+      "login": "47thtechcorner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233621018?v=4"
+    },
+    "description": "Indra OCR: Replace Google Tesseract & PaddleOCR on CPU - 1.25M vision AI model running 49 p/s on CPU with 0MB VRAM",
+    "topics": [
+      "computer-vision",
+      "cpu-inference",
+      "document-ai",
+      "ocr",
+      "paddleocr",
+      "tesseract"
+    ],
+    "html_url": "https://github.com/47thtechcorner/RayCodes_Indra_OCR",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T10:49:37Z",
+    "updated_at": "2026-10-25T23:33:29Z",
+    "pushed_at": "2026-10-21T12:29:22Z"
+  },
+  {
+    "id": 1432467026,
+    "name": "badminton-ai-analysis",
+    "full_name": "KiranYelisetti/badminton-ai-analysis",
+    "owner": {
+      "login": "KiranYelisetti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71172818?v=4"
+    },
+    "description": "AI badminton match analysis from one phone video: architecture + step-by-step build guide to paste into any AI assistant",
+    "topics": [
+      "badminton",
+      "computer-vision",
+      "mediapipe",
+      "pose-estimation",
+      "sports-analytics",
+      "yolox"
+    ],
+    "html_url": "https://github.com/KiranYelisetti/badminton-ai-analysis",
+    "stargazers_count": 7,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T18:16:48Z",
+    "updated_at": "2026-10-25T17:50:31Z",
+    "pushed_at": "2026-10-24T18:16:54Z"
+  },
+  {
+    "id": 1429685491,
+    "name": "genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "full_name": "alphaparkinc/genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Dynamically scales high-resolution image and video frame dimensions to fit multimodal vision-LLM token budgets | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550",
+    "topics": [
+      "agent-skills",
+      "computer-vision",
+      "cost-optimization",
+      "image-preprocessor",
+      "mcp",
+      "multimodal",
+      "patch-calculator",
+      "python-standard-library",
+      "resolution-scaler",
+      "token-budget",
+      "vision-llm"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T12:00:27Z",
+    "updated_at": "2026-10-22T12:00:56Z",
+    "pushed_at": "2026-10-22T12:00:47Z"
+  },
+  {
+    "id": 1428199472,
+    "name": "Restaurant-Analysis",
+    "full_name": "Raafat-Nagy/Restaurant-Analysis",
+    "owner": {
+      "login": "Raafat-Nagy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105138072?v=4"
+    },
+    "description": "Restaurant analysis using YOLO26 Pose for person detection, seated guest counting, table occupancy tracking, and MJPEG video streaming.",
+    "topics": [
+      "computer-vision",
+      "fastapi",
+      "occupancy-tracking",
+      "opencv",
+      "pose-estimation",
+      "restaurant-analytics",
+      "video-processing",
+      "yolo-detection",
+      "yolo-people-counting",
+      "yolo-pose"
+    ],
+    "html_url": "https://github.com/Raafat-Nagy/Restaurant-Analysis",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T10:04:43Z",
+    "updated_at": "2026-10-27T14:17:32Z",
+    "pushed_at": "2026-10-21T10:04:55Z"
+  },
+  {
+    "id": 1429686031,
+    "name": "genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "full_name": "Alpha-Park/genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Dynamically scales high-resolution image and video frame dimensions to fit multimodal vision-LLM token budgets | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550",
+    "topics": [
+      "agent-skills",
+      "computer-vision",
+      "cost-optimization",
+      "image-preprocessor",
+      "mcp",
+      "multimodal",
+      "patch-calculator",
+      "python-standard-library",
+      "resolution-scaler",
+      "token-budget",
+      "vision-llm"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T12:00:58Z",
+    "updated_at": "2026-10-22T12:01:25Z",
+    "pushed_at": "2026-10-22T12:01:17Z"
+  },
+  {
+    "id": 1433353373,
+    "name": "Ghostmark-Image",
+    "full_name": "thevijayparmar/Ghostmark-Image",
+    "owner": {
+      "login": "thevijayparmar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208922446?v=4"
+    },
+    "description": "Invisible photo watermark: hides location, altitude and time in the pixels. Survives WhatsApp, crops and black-and-white. Android (Kotlin), Python, JavaScript. Apache-2.0.",
+    "topics": [
+      "android",
+      "computer-vision",
+      "geotag",
+      "gps",
+      "image-processing",
+      "invisible-watermark",
+      "kotlin",
+      "photo-forensics",
+      "provenance",
+      "python",
+      "steganography",
+      "watermark"
+    ],
+    "html_url": "https://github.com/thevijayparmar/Ghostmark-Image",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T15:39:49Z",
+    "updated_at": "2026-10-27T20:51:13Z",
+    "pushed_at": "2026-10-25T20:02:48Z"
+  },
+  {
+    "id": 1435460193,
+    "name": "redstream",
+    "full_name": "redstream-dev/redstream",
+    "owner": {
+      "login": "redstream-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348719986?v=4"
+    },
+    "description": "An open-source, ROCm-based functional equivalent of NVIDIA DeepStream",
+    "topics": [
+      "c-language",
+      "computer-vision",
+      "deepstream",
+      "gpu",
+      "gstreamer",
+      "gstreamer-plugins",
+      "hip",
+      "inference",
+      "migraphx",
+      "object-detection",
+      "object-tracking",
+      "rocm",
+      "video-analytics"
+    ],
+    "html_url": "https://github.com/redstream-dev/redstream",
+    "stargazers_count": 5,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T08:36:01Z",
+    "updated_at": "2026-10-27T18:29:10Z",
+    "pushed_at": "2026-10-27T10:43:09Z"
+  },
+  {
+    "id": 1427853072,
+    "name": "ppe-vision",
+    "full_name": "arielshakaramiro/ppe-vision",
+    "owner": {
+      "login": "arielshakaramiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217843780?v=4"
+    },
+    "description": "PPE compliance monitoring from camera feeds and recordings, with reviewable evidence — YOLO pose + PPE detection, FastAPI, and a React dashboard.",
+    "topics": [
+      "cctv",
+      "computer-vision",
+      "fastapi",
+      "object-detection",
+      "occupational-safety",
+      "ppe-detection",
+      "react",
+      "ultralytics",
+      "workplace-safety",
+      "yolo"
+    ],
+    "html_url": "https://github.com/arielshakaramiro/ppe-vision",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-10-21T03:57:15Z",
+    "updated_at": "2026-10-27T04:45:26Z",
+    "pushed_at": "2026-10-21T12:07:00Z"
+  },
+  {
+    "id": 1435163688,
+    "name": "ff-tracking",
+    "full_name": "authrain-cloud-abdullahformuli/ff-tracking",
+    "owner": {
+      "login": "authrain-cloud-abdullahformuli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263127623?v=4"
+    },
+    "description": "Procedural AI screen filming & tracking engine in Rust, SkSL, and fframes",
+    "topics": [
+      "computer-vision",
+      "fframes",
+      "motion-graphics",
+      "rust",
+      "shader",
+      "skia",
+      "sksl"
+    ],
+    "html_url": "https://github.com/authrain-cloud-abdullahformuli/ff-tracking",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T02:39:09Z",
+    "updated_at": "2026-10-27T16:26:32Z",
+    "pushed_at": "2026-10-27T02:41:46Z"
+  },
+  {
+    "id": 1432460034,
+    "name": "jarvis",
+    "full_name": "jahajeevan/jarvis",
+    "owner": {
+      "login": "jahajeevan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231216245?v=4"
+    },
+    "description": "A local-first cinematic desktop assistant for macOS, powered by Ollama, Qwen, offline speech, gestures, private memory, and a native shell.",
+    "topics": [
+      "ai-assistant",
+      "computer-vision",
+      "gesture-control",
+      "jarvis",
+      "local-ai",
+      "macos",
+      "ollama",
+      "privacy",
+      "qwen",
+      "react",
+      "threejs",
+      "typescript",
+      "voice-assistant"
+    ],
+    "html_url": "https://github.com/jahajeevan/jarvis",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T18:08:15Z",
+    "updated_at": "2026-10-26T10:31:43Z",
+    "pushed_at": "2026-10-26T10:31:38Z"
+  },
+  {
+    "id": 1429209593,
+    "name": "OpenCV-Lab",
+    "full_name": "pranataa-labs/OpenCV-Lab",
+    "owner": {
+      "login": "pranataa-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119145932?v=4"
+    },
+    "description": "Interactive Computer Vision Playground Exploring OpenCV: Image Processing, Contours, Filtering, Object Detection, And Video Manipulation Recipes.",
+    "topics": [
+      "computer-vision",
+      "image-processing",
+      "jupyter-notebook",
+      "object-detection",
+      "opencv",
+      "python"
+    ],
+    "html_url": "https://github.com/pranataa-labs/OpenCV-Lab",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T03:48:00Z",
+    "updated_at": "2026-10-24T16:49:31Z",
+    "pushed_at": "2026-10-23T20:26:22Z"
+  },
+  {
+    "id": 1430752209,
+    "name": "tradingview-chartsense",
+    "full_name": "85599/tradingview-chartsense",
+    "owner": {
+      "login": "85599",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29569069?v=4"
+    },
+    "description": "Drop a TradingView screenshot, get a plain-English technical read with levels, a TradingView-style gauge and an auditable confidence score. Local-first Next.js. Your API key only ever goes to your provider.",
+    "topics": [
+      "ai",
+      "chart-analysis",
+      "computer-vision",
+      "llm",
+      "local-first",
+      "nextjs",
+      "nifty50",
+      "stock-market",
+      "technical-analysis",
+      "tradingview",
+      "typescript"
+    ],
+    "html_url": "https://github.com/85599/tradingview-chartsense",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T08:00:53Z",
+    "updated_at": "2026-10-26T06:56:37Z",
+    "pushed_at": "2026-10-23T08:18:03Z"
+  },
+  {
+    "id": 1428121267,
+    "name": "precog-macos",
+    "full_name": "lulu38m/precog-macos",
+    "owner": {
+      "login": "lulu38m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118172406?v=4"
+    },
+    "description": "Control your Mac with hand gestures, Minority Report style. Webcam only, 100% on-device (Apple Vision).",
+    "topics": [
+      "computer-vision",
+      "gesture-control",
+      "gesture-recognition",
+      "hand-tracking",
+      "macos",
+      "menubar-app",
+      "minority-report",
+      "swift",
+      "swiftui",
+      "webcam"
+    ],
+    "html_url": "https://github.com/lulu38m/precog-macos",
+    "stargazers_count": 3,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T08:52:21Z",
+    "updated_at": "2026-10-21T12:22:38Z",
+    "pushed_at": "2026-10-21T11:19:40Z"
+  }
+]

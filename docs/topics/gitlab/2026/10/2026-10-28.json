@@ -1,0 +1,571 @@
+[
+  {
+    "id": 1432302722,
+    "name": "repoknow",
+    "full_name": "gdpu11/repoknow",
+    "owner": {
+      "login": "gdpu11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20701501?v=4"
+    },
+    "description": "Self-hosted, model-free knowledge base for GitHub and GitLab repositories, with group imports, cross-repository search and read-only MCP.",
+    "topics": [
+      "code-search",
+      "cpu-only",
+      "developer-tools",
+      "github",
+      "gitlab",
+      "knowledge-base",
+      "mcp",
+      "python",
+      "self-hosted",
+      "sqlite",
+      "tree-sitter"
+    ],
+    "html_url": "https://github.com/gdpu11/repoknow",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T15:08:55Z",
+    "updated_at": "2026-10-26T00:14:11Z",
+    "pushed_at": "2026-10-25T15:24:13Z"
+  },
+  {
+    "id": 1432056902,
+    "name": "LastHelp",
+    "full_name": "CodigoSH/LastHelp",
+    "owner": {
+      "login": "CodigoSH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259958073?v=4"
+    },
+    "description": "Self-hosted feedback portal that speaks to your forge. Single binary, no account needed to report, and accepted items become real issues in GitHub, GitLab, Forgejo or Gitea.",
+    "topics": [
+      "codigosh",
+      "feedback",
+      "forgejo",
+      "github",
+      "gitlab",
+      "go",
+      "portal",
+      "self-hosted",
+      "support"
+    ],
+    "html_url": "https://github.com/CodigoSH/LastHelp",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T10:16:23Z",
+    "updated_at": "2026-10-25T20:59:33Z",
+    "pushed_at": "2026-10-25T13:22:39Z"
+  },
+  {
+    "id": 1430302362,
+    "name": "vtk-archive",
+    "full_name": "pyvista/vtk-archive",
+    "owner": {
+      "login": "pyvista",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50384771?v=4"
+    },
+    "description": "A read-only archive of VTK's GitLab issues, merge requests and discussions, rebuilt daily as static files.",
+    "topics": [
+      "archive",
+      "gitlab",
+      "pyvista",
+      "scientific-visualization",
+      "static-site",
+      "vtk"
+    ],
+    "html_url": "https://github.com/pyvista/vtk-archive",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T21:42:10Z",
+    "updated_at": "2026-10-23T21:34:09Z",
+    "pushed_at": "2026-10-23T21:34:04Z"
+  },
+  {
+    "id": 1431801356,
+    "name": "gitpersona",
+    "full_name": "weikxs/gitpersona",
+    "owner": {
+      "login": "weikxs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/346254602?v=4"
+    },
+    "description": "Git profiles that follow your directories: commit identity, HTTPS credentials, SSH key, signing and the gh/glab account, per directory. GitHub, GitLab, Bitbucket and self-hosted.",
+    "topics": [
+      "bitbucket",
+      "cli",
+      "developer-tools",
+      "gh",
+      "git",
+      "git-config",
+      "github",
+      "gitlab",
+      "golang",
+      "multiple-accounts"
+    ],
+    "html_url": "https://github.com/weikxs/gitpersona",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T04:12:09Z",
+    "updated_at": "2026-10-27T19:40:35Z",
+    "pushed_at": "2026-10-27T20:17:38Z"
+  },
+  {
+    "id": 1428818873,
+    "name": "dsh-plugins",
+    "full_name": "k0ndrateff/dsh-plugins",
+    "owner": {
+      "login": "k0ndrateff",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63606405?v=4"
+    },
+    "description": "Useful developer plugins for DeepSeek Harness.",
+    "topics": [
+      "atlassian",
+      "deepseek-harness",
+      "dsh-plugin",
+      "figma",
+      "gitlab",
+      "jira",
+      "plugins",
+      "sentry"
+    ],
+    "html_url": "https://github.com/k0ndrateff/dsh-plugins",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T19:08:28Z",
+    "updated_at": "2026-10-26T21:07:24Z",
+    "pushed_at": "2026-10-26T21:07:20Z"
+  },
+  {
+    "id": 1430250580,
+    "name": "nohalt",
+    "full_name": "Seityl/nohalt",
+    "owner": {
+      "login": "Seityl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153787001?v=4"
+    },
+    "description": "Autonomous coding agents that keep going until the forge says done. Supervises opencode / Claude Code fleets on GitHub and GitLab issues.",
+    "topics": [
+      "ai-agents",
+      "autonomous-agents",
+      "ci",
+      "claude-code",
+      "coding-agents",
+      "frappe",
+      "github",
+      "gitlab",
+      "opencode",
+      "python"
+    ],
+    "html_url": "https://github.com/Seityl/nohalt",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-22T20:37:49Z",
+    "updated_at": "2026-10-28T01:54:24Z",
+    "pushed_at": "2026-10-28T01:54:32Z"
+  },
+  {
+    "id": 1432507495,
+    "name": "CVE-2026-110264",
+    "full_name": "emirwtz/CVE-2026-110264",
+    "owner": {
+      "login": "emirwtz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206140722?v=4"
+    },
+    "description": "Non-invasive Python detector for CVE-2026-110264 in GitLab, featuring version checks, offline log analysis, and JSON reporting.",
+    "topics": [
+      "cve",
+      "cybersecurity",
+      "gitlab",
+      "info-sec",
+      "log-analysis",
+      "open-source",
+      "python",
+      "security-tools",
+      "threat-detection",
+      "vulnerability-detection"
+    ],
+    "html_url": "https://github.com/emirwtz/CVE-2026-110264",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T19:06:47Z",
+    "updated_at": "2026-10-24T19:10:48Z",
+    "pushed_at": "2026-10-24T19:09:31Z"
+  },
+  {
+    "id": 1428385657,
+    "name": "NS8-GitLab",
+    "full_name": "BLS-ISP/NS8-GitLab",
+    "owner": {
+      "login": "BLS-ISP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271538661?v=4"
+    },
+    "description": "Self-hosted GitLab Community Edition DevSecOps platform for NethServer 8 (NS8) with Git, CI/CD Runner, and Container Registry",
+    "topics": [
+      "ci-cd",
+      "devsecops",
+      "gitlab",
+      "nethserver8",
+      "ns8"
+    ],
+    "html_url": "https://github.com/BLS-ISP/NS8-GitLab",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T12:55:54Z",
+    "updated_at": "2026-10-23T16:41:22Z",
+    "pushed_at": "2026-10-23T16:43:02Z"
+  },
+  {
+    "id": 1429533370,
+    "name": "PipeLineMedic",
+    "full_name": "Alen983/PipeLineMedic",
+    "owner": {
+      "login": "Alen983",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81340664?v=4"
+    },
+    "description": "When CI goes red, PipelineMedic investigates, fixes it on a branch and opens a merge request with an evidence report, then stops. You review and merge. Deploys stay manual.",
+    "topics": [
+      "ai-catalog",
+      "gitlab",
+      "gitlab-ci",
+      "gitlab-duo-agent-platform",
+      "gitlab-duo-flows",
+      "javascript",
+      "nodejs",
+      "npm",
+      "sast",
+      "yaml"
+    ],
+    "html_url": "https://github.com/Alen983/PipeLineMedic",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T09:38:27Z",
+    "updated_at": "2026-10-23T08:50:50Z",
+    "pushed_at": "2026-10-23T08:50:12Z"
+  },
+  {
+    "id": 1431935058,
+    "name": "diffnotes",
+    "full_name": "igorkasyanchuk/diffnotes",
+    "owner": {
+      "login": "igorkasyanchuk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11101?v=4"
+    },
+    "description": "Your coding agent explains its pull request; your team reads the notes, screenshots and live demos inside the diff on GitHub, GitLab and Bitbucket. Self-hosted, MIT.",
+    "topics": [
+      "ai-agents",
+      "bitbucket",
+      "chrome-extension",
+      "code-review",
+      "github",
+      "gitlab",
+      "pull-requests",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/igorkasyanchuk/diffnotes",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-10-24T07:34:56Z",
+    "updated_at": "2026-10-27T22:39:12Z",
+    "pushed_at": "2026-10-27T22:39:11Z"
+  },
+  {
+    "id": 1430120131,
+    "name": "CVE-2026-110264",
+    "full_name": "al4n4n/CVE-2026-110264",
+    "owner": {
+      "login": "al4n4n",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29759390?v=4"
+    },
+    "description": "CVE-2026-110264: GitLab pre-auth RCE via Onigmo integer overflow in org-ruby. Docker-based validation, admin check script, attack surface analysis.",
+    "topics": [
+      "cve",
+      "cve-2026-110264",
+      "docker",
+      "gitlab",
+      "integer-overflow",
+      "onigmo",
+      "org-ruby",
+      "ruby",
+      "security-research",
+      "vulnerability"
+    ],
+    "html_url": "https://github.com/al4n4n/CVE-2026-110264",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T18:22:11Z",
+    "updated_at": "2026-10-27T20:07:09Z",
+    "pushed_at": "2026-10-27T20:07:05Z"
+  },
+  {
+    "id": 1429222137,
+    "name": "asyncself",
+    "full_name": "tikvio/asyncself",
+    "owner": {
+      "login": "tikvio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297261093?v=4"
+    },
+    "description": "Your background coding worker.",
+    "topics": [
+      "ai-coding-agent",
+      "automation",
+      "codex",
+      "coding-agent",
+      "elixir",
+      "github",
+      "gitlab",
+      "linear"
+    ],
+    "html_url": "https://github.com/tikvio/asyncself",
+    "stargazers_count": 1,
+    "language": "Elixir",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T04:05:28Z",
+    "updated_at": "2026-10-26T18:19:51Z",
+    "pushed_at": "2026-10-26T18:19:46Z"
+  },
+  {
+    "id": 1431211591,
+    "name": "prtop",
+    "full_name": "TomyCesaille/prtop",
+    "owner": {
+      "login": "TomyCesaille",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8269304?v=4"
+    },
+    "description": "htop for your GitLab merge requests and GitHub pull requests, from review to production. Built to wake Claude Code.",
+    "topics": [
+      "claude-code",
+      "cli",
+      "code-review",
+      "github",
+      "gitlab",
+      "htop",
+      "merge-requests",
+      "pull-requests",
+      "python",
+      "terminal"
+    ],
+    "html_url": "https://github.com/TomyCesaille/prtop",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-10-23T15:20:16Z",
+    "updated_at": "2026-10-27T15:17:49Z",
+    "pushed_at": "2026-10-27T16:02:36Z"
+  },
+  {
+    "id": 1431076356,
+    "name": "glab-release-notes",
+    "full_name": "redb0/glab-release-notes",
+    "owner": {
+      "login": "redb0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30475117?v=4"
+    },
+    "description": "GitLab CI CLI that writes release notes from merged MRs: a label picks the section, a one-line quote is the entry.",
+    "topics": [
+      "changelog",
+      "cli",
+      "gitlab",
+      "gitlab-ci",
+      "jira",
+      "merge-request",
+      "python",
+      "release-notes"
+    ],
+    "html_url": "https://github.com/redb0/glab-release-notes",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T13:22:02Z",
+    "updated_at": "2026-10-24T14:12:06Z",
+    "pushed_at": "2026-10-24T14:12:05Z"
+  },
+  {
+    "id": 1433804605,
+    "name": "orchestration-ai",
+    "full_name": "danielbmendprofissional/orchestration-ai",
+    "owner": {
+      "login": "danielbmendprofissional",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348079641?v=4"
+    },
+    "description": "Ecossistema de engenharia assistida por IA, desenhado para GitLab (vitrine)",
+    "topics": [
+      "ai-assisted-development",
+      "ci-cd",
+      "claude-code",
+      "gitlab",
+      "orchestration-ai"
+    ],
+    "html_url": "https://github.com/danielbmendprofissional/orchestration-ai",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T02:09:19Z",
+    "updated_at": "2026-10-26T02:09:28Z",
+    "pushed_at": "2026-10-26T02:09:24Z"
+  },
+  {
+    "id": 1433919168,
+    "name": "Hedwig",
+    "full_name": "projectGloria/Hedwig",
+    "owner": {
+      "login": "projectGloria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203261208?v=4"
+    },
+    "description": "🦉 High-fidelity Git repository and release archiving desktop app for Windows, with automated transfers to personal GitHub or GitLab accounts.",
+    "topics": [
+      "archive-tool",
+      "backup",
+      "desktop-app",
+      "dpapi",
+      "electron",
+      "git",
+      "git-archive",
+      "git-lfs",
+      "github",
+      "gitlab",
+      "migration-tool",
+      "offline-first",
+      "react",
+      "react-19",
+      "repository-mirror",
+      "submodules",
+      "typescript",
+      "win32",
+      "windows"
+    ],
+    "html_url": "https://github.com/projectGloria/Hedwig",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T04:55:12Z",
+    "updated_at": "2026-10-26T06:17:27Z",
+    "pushed_at": "2026-10-26T05:34:35Z"
+  },
+  {
+    "id": 1433807352,
+    "name": "orchestration-ai-pipeline-esteira-workspace",
+    "full_name": "danielbmendprofissional/orchestration-ai-pipeline-esteira-workspace",
+    "owner": {
+      "login": "danielbmendprofissional",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348079641?v=4"
+    },
+    "description": "Workspace da Esteira: regras, ADRs e specs da plataforma de fluxo de deploy",
+    "topics": [
+      "claude-code",
+      "gitlab",
+      "orchestration-ai"
+    ],
+    "html_url": "https://github.com/danielbmendprofissional/orchestration-ai-pipeline-esteira-workspace",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T02:13:18Z",
+    "updated_at": "2026-10-26T02:13:37Z",
+    "pushed_at": "2026-10-26T02:13:30Z"
+  },
+  {
+    "id": 1431833705,
+    "name": "pipepulse",
+    "full_name": "morveusz93/pipepulse",
+    "owner": {
+      "login": "morveusz93",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31955354?v=4"
+    },
+    "description": "Pipeline health dashboard for GitLab™: history, trends, MTTR and inline failure logs. Not affiliated with GitLab Inc.",
+    "topics": [
+      "ci-cd",
+      "dashboard",
+      "devops",
+      "gitlab",
+      "gitlab-ci"
+    ],
+    "html_url": "https://github.com/morveusz93/pipepulse",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T05:06:01Z",
+    "updated_at": "2026-10-25T06:02:44Z",
+    "pushed_at": "2026-10-25T06:02:39Z"
+  },
+  {
+    "id": 1429672006,
+    "name": "buff-connector",
+    "full_name": "buffsystems/buff-connector",
+    "owner": {
+      "login": "buffsystems",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345420356?v=4"
+    },
+    "description": "Коннектор Buff — агент в вашем периметре: ИИ-агенты работают с кодом, трекерами и документами, а контент, ключи и интеллектуальная собственность остаются у вас. An agent inside your perimeter: Buff's AI agents work with your code, trackers and documents, while content, keys and IP stay with you.",
+    "topics": [
+      "ai-agents",
+      "confluence",
+      "connector",
+      "gitlab",
+      "jira",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "on-premise",
+      "security",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/buffsystems/buff-connector",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T11:48:02Z",
+    "updated_at": "2026-10-22T15:43:06Z",
+    "pushed_at": "2026-10-22T15:43:01Z"
+  },
+  {
+    "id": 1433806915,
+    "name": "orchestration-ai-ops",
+    "full_name": "danielbmendprofissional/orchestration-ai-ops",
+    "owner": {
+      "login": "danielbmendprofissional",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348079641?v=4"
+    },
+    "description": "Agents, ferramentas e documentacao de operacao da IA (ecossistema GitLab)",
+    "topics": [
+      "claude-code",
+      "gitlab",
+      "orchestration-ai"
+    ],
+    "html_url": "https://github.com/danielbmendprofissional/orchestration-ai-ops",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T02:12:43Z",
+    "updated_at": "2026-10-26T02:12:55Z",
+    "pushed_at": "2026-10-26T02:12:49Z"
+  }
+]

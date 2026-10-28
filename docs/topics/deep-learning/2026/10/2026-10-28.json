@@ -1,0 +1,590 @@
+[
+  {
+    "id": 1428486097,
+    "name": "opal",
+    "full_name": "xingjian-bai/opal",
+    "owner": {
+      "login": "xingjian-bai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93810179?v=4"
+    },
+    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
+    "topics": [
+      "deep-learning",
+      "llm-agents",
+      "optimizer",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/xingjian-bai/opal",
+    "stargazers_count": 230,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T14:17:50Z",
+    "updated_at": "2026-10-28T01:30:33Z",
+    "pushed_at": "2026-10-25T04:26:53Z"
+  },
+  {
+    "id": 1428105252,
+    "name": "mafdet",
+    "full_name": "TheLastOxygen/mafdet",
+    "owner": {
+      "login": "TheLastOxygen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64108633?v=4"
+    },
+    "description": "You type. It already knows. Local LLMs that read and think while you type.",
+    "topics": [
+      "deep-learning",
+      "framework",
+      "large-language-models",
+      "llm-inference",
+      "llm-tools",
+      "local-ai",
+      "local-development",
+      "machine-learning",
+      "research-project",
+      "research-tool"
+    ],
+    "html_url": "https://github.com/TheLastOxygen/mafdet",
+    "stargazers_count": 67,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T08:37:56Z",
+    "updated_at": "2026-10-27T21:25:18Z",
+    "pushed_at": "2026-10-27T10:13:12Z"
+  },
+  {
+    "id": 1429736272,
+    "name": "decisionformer",
+    "full_name": "FrontiersMindAI/decisionformer",
+    "owner": {
+      "login": "FrontiersMindAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256152998?v=4"
+    },
+    "description": "Transformers for decision models: fine-tune, load and serve calibrated decsion-model on any Hugging Face model.",
+    "topics": [
+      "decision-model",
+      "decision-models",
+      "decoder",
+      "deep-learning",
+      "encoder",
+      "glm",
+      "jev-model",
+      "llm",
+      "machine-learning",
+      "pytorch",
+      "qwen"
+    ],
+    "html_url": "https://github.com/FrontiersMindAI/decisionformer",
+    "stargazers_count": 39,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T12:45:27Z",
+    "updated_at": "2026-10-27T20:45:42Z",
+    "pushed_at": "2026-10-27T20:45:36Z"
+  },
+  {
+    "id": 1428332202,
+    "name": "computer-vision-engineering",
+    "full_name": "usamahz/computer-vision-engineering",
+    "owner": {
+      "login": "usamahz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39458672?v=4"
+    },
+    "description": "A reading path for computer vision engineering, from photon to production. Primary sources in dependency order, evidence-graded claims, and a runnable benchmark per section.",
+    "topics": [
+      "awesome-list",
+      "benchmarks",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "machine-learning",
+      "reading-list"
+    ],
+    "html_url": "https://github.com/usamahz/computer-vision-engineering",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "created_at": "2026-10-21T12:09:50Z",
+    "updated_at": "2026-10-26T12:37:06Z",
+    "pushed_at": "2026-10-21T17:39:05Z"
+  },
+  {
+    "id": 1433478506,
+    "name": "attention-contact-planning",
+    "full_name": "lucidrains/attention-contact-planning",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of Attention-based Contact Planning, by Junzhe He of ETH Zürich",
+    "topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning",
+      "humanoid-robotics"
+    ],
+    "html_url": "https://github.com/lucidrains/attention-contact-planning",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T17:54:41Z",
+    "updated_at": "2026-10-27T19:39:49Z",
+    "pushed_at": "2026-10-27T19:39:46Z"
+  },
+  {
+    "id": 1435826146,
+    "name": "ouroboros",
+    "full_name": "gkjuwon-tech/ouroboros",
+    "owner": {
+      "login": "gkjuwon-tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282586936?v=4"
+    },
+    "description": "Runs multi-B LLMs on a 2GB laptop MX150 (beating RTX 4060 in token decode) & hits 23.35 TFLOPS on A100 — zero-dependency single-file Rust GPU compiler",
+    "topics": [
+      "compiler",
+      "cuda",
+      "deep-learning",
+      "e-graphs",
+      "gpu",
+      "inference",
+      "llm",
+      "machine-learning",
+      "ptx",
+      "quantization",
+      "rust",
+      "safetensors"
+    ],
+    "html_url": "https://github.com/gkjuwon-tech/ouroboros",
+    "stargazers_count": 9,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T14:15:03Z",
+    "updated_at": "2026-10-28T01:38:14Z",
+    "pushed_at": "2026-10-27T23:01:38Z"
+  },
+  {
+    "id": 1435865431,
+    "name": "diff-soup",
+    "full_name": "stmorgenstern/diff-soup",
+    "owner": {
+      "login": "stmorgenstern",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63276909?v=4"
+    },
+    "description": "a general-purpose, differentiable scientific software for simulating IBVP and BVP PD(A)Es + ODEs + DAEs",
+    "topics": [
+      "deep-learning",
+      "differentiable",
+      "differential-equations",
+      "dynamics",
+      "fem",
+      "jax",
+      "multiphysics",
+      "partial-differential-equations",
+      "simulation",
+      "stiff-ode"
+    ],
+    "html_url": "https://github.com/stmorgenstern/diff-soup",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T14:46:18Z",
+    "updated_at": "2026-10-27T17:35:46Z",
+    "pushed_at": "2026-10-27T15:07:04Z"
+  },
+  {
+    "id": 1435769581,
+    "name": "Inkhue",
+    "full_name": "TonyD365/Inkhue",
+    "owner": {
+      "login": "TonyD365",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230882215?v=4"
+    },
+    "description": "A black-and-white print that carries its own color. Print photos and documents on any B/W printer; scan them, and the color comes back.",
+    "topics": [
+      "color",
+      "cross-platform",
+      "deep-learning",
+      "halftone",
+      "image-processing",
+      "onnx",
+      "open-source",
+      "printing",
+      "pyside6",
+      "reed-solomon",
+      "scanning",
+      "steganography"
+    ],
+    "html_url": "https://github.com/TonyD365/Inkhue",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 7,
+    "created_at": "2026-10-27T13:28:42Z",
+    "updated_at": "2026-10-27T23:50:35Z",
+    "pushed_at": "2026-10-27T23:50:50Z"
+  },
+  {
+    "id": 1429492336,
+    "name": "GateFormer",
+    "full_name": "DavidHamlyn/GateFormer",
+    "owner": {
+      "login": "DavidHamlyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119620808?v=4"
+    },
+    "description": "GateFormer: forecast-space decomposition for intra-hour solar irradiance forecasting from sky images. Energy and AI (2026). Paper, results and citation. Code coming soon.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "gateformer",
+      "multimodal-learning",
+      "photovoltaics",
+      "renewable-energy",
+      "research-paper",
+      "sky-images",
+      "solar-energy",
+      "solar-forecasting",
+      "solar-irradiance",
+      "time-series-forecasting",
+      "vision-transformer"
+    ],
+    "html_url": "https://github.com/DavidHamlyn/GateFormer",
+    "stargazers_count": 3,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T09:01:01Z",
+    "updated_at": "2026-10-26T21:46:57Z",
+    "pushed_at": "2026-10-23T15:19:13Z"
+  },
+  {
+    "id": 1434829926,
+    "name": "tt-rl",
+    "full_name": "scaleresearch/tt-rl",
+    "owner": {
+      "login": "scaleresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/304091625?v=4"
+    },
+    "description": "Reinforcement learning on Tenstorrent hardware: DQN, PPO and SAC trained natively on TT-NN",
+    "topics": [
+      "atari",
+      "deep-learning",
+      "dqn",
+      "mujoco",
+      "onnx",
+      "ppo",
+      "python",
+      "reinforcement-learning",
+      "sac",
+      "tenstorrent",
+      "ttnn"
+    ],
+    "html_url": "https://github.com/scaleresearch/tt-rl",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T19:18:24Z",
+    "updated_at": "2026-10-27T21:57:48Z",
+    "pushed_at": "2026-10-27T14:01:44Z"
+  },
+  {
+    "id": 1429754101,
+    "name": "Dimmer-KV",
+    "full_name": "SrikanthBalaaji/Dimmer-KV",
+    "owner": {
+      "login": "SrikanthBalaaji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184128393?v=4"
+    },
+    "description": "KV cache compression for LLM inference: 37× smaller KV cache at full-cache accuracy. Per-token precision on transform coding, question-time refinement, and attention over the compressed cache. PyTorch + Hugging Face.",
+    "topics": [
+      "attention",
+      "deep-learning",
+      "gpu",
+      "huggingface",
+      "inference-optimization",
+      "kv-cache",
+      "kv-cache-compression",
+      "llama",
+      "llm",
+      "llm-inference",
+      "long-context",
+      "memory-efficient",
+      "memory-efficient-compression",
+      "modelcompression",
+      "pca",
+      "quantization",
+      "transformers"
+    ],
+    "html_url": "https://github.com/SrikanthBalaaji/Dimmer-KV",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-22T13:01:08Z",
+    "updated_at": "2026-10-26T00:13:28Z",
+    "pushed_at": "2026-10-26T09:39:43Z"
+  },
+  {
+    "id": 1434370502,
+    "name": "Inside-the-Game",
+    "full_name": "mirzayasirabdullahbaig07/Inside-the-Game",
+    "owner": {
+      "login": "mirzayasirabdullahbaig07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194883236?v=4"
+    },
+    "description": "Multi-agent match intelligence built on synthetic football event data (no real Premier League data used). Built for the Inside the Game: Developer Hackathon.",
+    "topics": [
+      "agents",
+      "ai",
+      "deep-learning",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "python",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/mirzayasirabdullahbaig07/Inside-the-Game",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T12:46:11Z",
+    "updated_at": "2026-10-26T17:00:51Z",
+    "pushed_at": "2026-10-26T12:46:42Z"
+  },
+  {
+    "id": 1430758615,
+    "name": "ai-research-foundations",
+    "full_name": "amirlankalm/ai-research-foundations",
+    "owner": {
+      "login": "amirlankalm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229579867?v=4"
+    },
+    "description": "A visual, intuition-first path from basic Python to AI research fundamentals: PyTorch, nanoGPT, DPO, and DeepSeekMath GRPO loss walkthrough.",
+    "topics": [
+      "ai-research",
+      "artificial-intelligence",
+      "curriculum",
+      "deep-learning",
+      "deepseek",
+      "deepseek-r1",
+      "dpo",
+      "grpo",
+      "interpretability",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "paper-walkthrough",
+      "python",
+      "pytorch",
+      "reasoning-models",
+      "reinforcement-learning",
+      "rlhf",
+      "transformers"
+    ],
+    "html_url": "https://github.com/amirlankalm/ai-research-foundations",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-23T08:07:37Z",
+    "updated_at": "2026-10-26T07:21:20Z",
+    "pushed_at": "2026-10-25T07:17:16Z"
+  },
+  {
+    "id": 1432789143,
+    "name": "pinn-vs-ssf-schrodinger",
+    "full_name": "NodeBox-Labs/pinn-vs-ssf-schrodinger",
+    "owner": {
+      "login": "NodeBox-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334027616?v=4"
+    },
+    "description": "A reproducible benchmark comparing Physics-Informed Neural Networks (PINNs) against a Strang split-step Fourier reference solver for the 1D Schrödinger/GPE. Honest failure analysis included.",
+    "topics": [
+      "deep-learning",
+      "deep-learning-algorithms",
+      "gross-pitaevskii",
+      "physics-informed-neural-networks",
+      "pytorch",
+      "reproducibility",
+      "schrodinger-equation",
+      "scientific-machine-learning",
+      "spectral-bias",
+      "split-step-fourier-method"
+    ],
+    "html_url": "https://github.com/NodeBox-Labs/pinn-vs-ssf-schrodinger",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T03:15:45Z",
+    "updated_at": "2026-10-28T01:32:52Z",
+    "pushed_at": "2026-10-28T01:32:48Z"
+  },
+  {
+    "id": 1431107166,
+    "name": "ThinkNet",
+    "full_name": "Naksh7Gupta/ThinkNet",
+    "owner": {
+      "login": "Naksh7Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216264695?v=4"
+    },
+    "description": "ThinkNet is an AI research and engineering platform to design, train, and experiment with LLMs, traditional ML, Agents training, multimodal AI, and robotics through a GUI. With AI agents, custom data pipelines, ThinkNet Datasets, simulation, and 10+ AI libraries, we aim to turn AI Thinkers into AI Builders through real-world projects.",
+    "topics": [
+      "ai",
+      "ai-research",
+      "artificial-intelligence",
+      "deep-learning",
+      "llm"
+    ],
+    "html_url": "https://github.com/Naksh7Gupta/ThinkNet",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-23T13:49:33Z",
+    "updated_at": "2026-10-27T14:51:26Z",
+    "pushed_at": "2026-10-27T14:43:34Z"
+  },
+  {
+    "id": 1432832288,
+    "name": "soteria",
+    "full_name": "gavin-ho1/soteria",
+    "owner": {
+      "login": "gavin-ho1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111702279?v=4"
+    },
+    "description": "Video-based prediction of clonic seizure onset. Official implementation of \"SOTERIA: Video-based Seizure Prediction\", ICIIBMS 2026.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "epilepsy",
+      "pytorch",
+      "seizure-prediction",
+      "time-series"
+    ],
+    "html_url": "https://github.com/gavin-ho1/soteria",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T04:37:27Z",
+    "updated_at": "2026-10-27T00:45:36Z",
+    "pushed_at": "2026-10-27T00:45:33Z"
+  },
+  {
+    "id": 1436479442,
+    "name": "how-llms-work",
+    "full_name": "Kinvecta/how-llms-work",
+    "owner": {
+      "login": "Kinvecta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342687445?v=4"
+    },
+    "description": "How Large Language Models Work: from math to transformers. A free 30-episode course with a runnable notebook for every episode.",
+    "topics": [
+      "deep-learning",
+      "education",
+      "gpt-2",
+      "jupyter-notebook",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "transformers"
+    ],
+    "html_url": "https://github.com/Kinvecta/how-llms-work",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-28T01:44:57Z",
+    "updated_at": "2026-10-28T01:52:47Z",
+    "pushed_at": "2026-10-28T01:54:43Z"
+  },
+  {
+    "id": 1427768071,
+    "name": "crop-disease-detection",
+    "full_name": "MD-shahriar6/crop-disease-detection",
+    "owner": {
+      "login": "MD-shahriar6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262060380?v=4"
+    },
+    "description": "AI crop disease detector for farmers: photo diagnosis with Bangla/English advice (MobileNetV2 + FastAPI + Gemini)",
+    "topics": [
+      "agriculture",
+      "bangladesh",
+      "computer-vision",
+      "deep-learning",
+      "fastapi",
+      "gemini",
+      "tensorflow",
+      "transfer-learning"
+    ],
+    "html_url": "https://github.com/MD-shahriar6/crop-disease-detection",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T02:03:21Z",
+    "updated_at": "2026-10-21T03:02:08Z",
+    "pushed_at": "2026-10-21T02:46:01Z"
+  },
+  {
+    "id": 1428367434,
+    "name": "claude-ml-skills",
+    "full_name": "ame-ml-ai/claude-ml-skills",
+    "owner": {
+      "login": "ame-ml-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94102446?v=4"
+    },
+    "description": "Claude skills for ML: turn research papers into clear breakdowns and minimal, runnable PyTorch code",
+    "topics": [
+      "claude",
+      "claude-skills",
+      "deep-learning",
+      "llm",
+      "paper-implementation",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/ame-ml-ai/claude-ml-skills",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T12:40:22Z",
+    "updated_at": "2026-10-21T16:54:54Z",
+    "pushed_at": "2026-10-21T13:57:36Z"
+  },
+  {
+    "id": 1431181945,
+    "name": "rsna-knee-abnormality-detection",
+    "full_name": "gokdenis/rsna-knee-abnormality-detection",
+    "owner": {
+      "login": "gokdenis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92694805?v=4"
+    },
+    "description": "RSNA Knee Abnormality Detection (Kaggle 2026): CoAtNet MIL fine-tuned with OAI MOAKS expert readings. Private LB 0.943, rank 345/6,425 (top 5.4%).",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "kaggle",
+      "medical-imaging",
+      "mri",
+      "multiple-instance-learning",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/gokdenis/rsna-knee-abnormality-detection",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T14:54:02Z",
+    "updated_at": "2026-10-24T20:39:58Z",
+    "pushed_at": "2026-10-24T20:39:54Z"
+  }
+]

@@ -1,0 +1,585 @@
+[
+  {
+    "id": 1430540152,
+    "name": "litpage",
+    "full_name": "litmers-dev/litpage",
+    "owner": {
+      "login": "litmers-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251139756?v=4"
+    },
+    "description": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
+    "topics": [
+      "ai",
+      "block-editor",
+      "database",
+      "knowledge-base",
+      "nodejs",
+      "open-source",
+      "react",
+      "self-hosted",
+      "sqlite",
+      "workspace"
+    ],
+    "html_url": "https://github.com/litmers-dev/litpage",
+    "stargazers_count": 79,
+    "language": "TypeScript",
+    "forks_count": 42,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T03:39:35Z",
+    "updated_at": "2026-10-28T00:35:57Z",
+    "pushed_at": "2026-10-26T02:18:25Z"
+  },
+  {
+    "id": 1431996468,
+    "name": "locklens",
+    "full_name": "Huy-8bit/locklens",
+    "owner": {
+      "login": "Huy-8bit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85545963?v=4"
+    },
+    "description": "PostgreSQL monitoring and incident investigation",
+    "topics": [
+      "database",
+      "dba",
+      "incident-response",
+      "lock-monitoring",
+      "monitoring",
+      "observability",
+      "posrgresql",
+      "postgres"
+    ],
+    "html_url": "https://github.com/Huy-8bit/locklens",
+    "stargazers_count": 13,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T08:56:48Z",
+    "updated_at": "2026-10-27T15:45:48Z",
+    "pushed_at": "2026-10-27T15:54:31Z"
+  },
+  {
+    "id": 1428163032,
+    "name": "rustyrobo",
+    "full_name": "Tatayoyoh/rustyrobo",
+    "owner": {
+      "login": "Tatayoyoh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13559581?v=4"
+    },
+    "description": "A functional port of Robomongo (Robo 3T) to Rust",
+    "topics": [
+      "database",
+      "database-client",
+      "mongo",
+      "mongodb",
+      "nosql",
+      "robo3t",
+      "robomongo",
+      "studio3t"
+    ],
+    "html_url": "https://github.com/Tatayoyoh/rustyrobo",
+    "stargazers_count": 7,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T09:30:32Z",
+    "updated_at": "2026-10-27T15:58:49Z",
+    "pushed_at": "2026-10-27T15:58:46Z"
+  },
+  {
+    "id": 1433451072,
+    "name": "toydb",
+    "full_name": "deepdigger69/toydb",
+    "owner": {
+      "login": "deepdigger69",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13528597?v=4"
+    },
+    "description": "Distributed SQL database in Rust - Raft, MVCC, SQL engine.",
+    "topics": [
+      "database",
+      "distributed-systems",
+      "raft",
+      "rust",
+      "sql"
+    ],
+    "html_url": "https://github.com/deepdigger69/toydb",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T17:23:56Z",
+    "updated_at": "2026-10-25T19:41:02Z",
+    "pushed_at": "2026-10-25T18:47:16Z"
+  },
+  {
+    "id": 1432461179,
+    "name": "PEOPLEOPS-DATA-PROJECT",
+    "full_name": "MrAbdulSamadDEV/PEOPLEOPS-DATA-PROJECT",
+    "owner": {
+      "login": "MrAbdulSamadDEV",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309018155?v=4"
+    },
+    "description": " CODE BY ABDULSAMAD",
+    "topics": [
+      "data",
+      "data-analytics",
+      "data-engineering",
+      "data-science",
+      "data-structures",
+      "data-visualization",
+      "database",
+      "databricks",
+      "python",
+      "python-3",
+      "python-dep",
+      "python-lambda",
+      "python-library",
+      "python-script",
+      "python2",
+      "python3",
+      "sql",
+      "sql-server",
+      "sqlite-database",
+      "sqlserver"
+    ],
+    "html_url": "https://github.com/MrAbdulSamadDEV/PEOPLEOPS-DATA-PROJECT",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T18:09:38Z",
+    "updated_at": "2026-10-27T12:06:00Z",
+    "pushed_at": "2026-10-24T19:06:54Z"
+  },
+  {
+    "id": 1431811046,
+    "name": "mydb",
+    "full_name": "yzsind/mydb",
+    "owner": {
+      "login": "yzsind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11732887?v=4"
+    },
+    "description": "A high-performance database, compatible with MySQL",
+    "topics": [
+      "ai-database",
+      "database",
+      "mysql",
+      "postgresql"
+    ],
+    "html_url": "https://github.com/yzsind/mydb",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T04:27:56Z",
+    "updated_at": "2026-10-27T08:16:49Z",
+    "pushed_at": "2026-10-28T01:45:19Z"
+  },
+  {
+    "id": 1433454638,
+    "name": "sqlite-clone",
+    "full_name": "deepdigger69/sqlite-clone",
+    "owner": {
+      "login": "deepdigger69",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13528597?v=4"
+    },
+    "description": "A SQLite clone from scratch in C - pager, B-tree, REPL.",
+    "topics": [
+      "btree",
+      "c",
+      "database",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/deepdigger69/sqlite-clone",
+    "stargazers_count": 4,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T17:27:53Z",
+    "updated_at": "2026-10-25T19:18:21Z",
+    "pushed_at": "2026-10-25T17:28:00Z"
+  },
+  {
+    "id": 1433962210,
+    "name": "dera",
+    "full_name": "krishanth7/dera",
+    "owner": {
+      "login": "krishanth7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206872299?v=4"
+    },
+    "description": "DERA — An open-source, deterministic database reverse engineering platform. Explore schemas, visualize relationships, analyze database structures, detect issues, and generate engineering documentation. No AI models. No external AI APIs.",
+    "topics": [
+      "database",
+      "database-analysis",
+      "database-engineering",
+      "database-migration",
+      "database-schema",
+      "database-tools",
+      "database-visualization",
+      "entity-relationship-diagram",
+      "fastapi",
+      "mysql",
+      "opensource",
+      "postgresql",
+      "reverse-engineering",
+      "reverse-engineering-tools",
+      "schema-diff",
+      "schema-inspection",
+      "schema-visualization",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/krishanth7/dera",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-26T05:54:29Z",
+    "updated_at": "2026-10-27T15:44:56Z",
+    "pushed_at": "2026-10-27T17:36:03Z"
+  },
+  {
+    "id": 1428623298,
+    "name": "open-erd",
+    "full_name": "TOMOSIA-VIETNAM/open-erd",
+    "owner": {
+      "login": "TOMOSIA-VIETNAM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67255515?v=4"
+    },
+    "description": "An agent draws the ERD of any project from its source code, even without foreign keys. Interactive SVG, Excel and draw.io. Claude Code plugin.",
+    "topics": [
+      "ai-agent",
+      "claude-code",
+      "claude-code-plugin",
+      "data-model",
+      "database",
+      "django",
+      "documentation",
+      "entity-relationship-diagram",
+      "er-diagram",
+      "erd",
+      "laravel",
+      "mongoose",
+      "prisma",
+      "rails",
+      "schema",
+      "svg"
+    ],
+    "html_url": "https://github.com/TOMOSIA-VIETNAM/open-erd",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-21T16:09:39Z",
+    "updated_at": "2026-10-28T01:49:43Z",
+    "pushed_at": "2026-10-27T09:58:08Z"
+  },
+  {
+    "id": 1428462672,
+    "name": "munich-mobility-planning-agents",
+    "full_name": "exasol-labs/munich-mobility-planning-agents",
+    "owner": {
+      "login": "exasol-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234353807?v=4"
+    },
+    "description": "A step-by-step tutorial that turns Munich's open transport and population data into live planning dashboards. Uses Exasol database + AI agent + Dash Server.",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "analytics",
+      "database",
+      "exasol",
+      "mcp",
+      "munich",
+      "public-transport",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/exasol-labs/munich-mobility-planning-agents",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T13:58:18Z",
+    "updated_at": "2026-10-27T19:33:30Z",
+    "pushed_at": "2026-10-26T10:14:15Z"
+  },
+  {
+    "id": 1433456285,
+    "name": "log-structured-store",
+    "full_name": "deepdigger69/log-structured-store",
+    "owner": {
+      "login": "deepdigger69",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13528597?v=4"
+    },
+    "description": "Bitcask-style embedded storage engine.",
+    "topics": [
+      "bitcask",
+      "database",
+      "go",
+      "storage-engine"
+    ],
+    "html_url": "https://github.com/deepdigger69/log-structured-store",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T17:29:47Z",
+    "updated_at": "2026-10-25T18:40:40Z",
+    "pushed_at": "2026-10-25T17:29:55Z"
+  },
+  {
+    "id": 1433455842,
+    "name": "columnar-db",
+    "full_name": "deepdigger69/columnar-db",
+    "owner": {
+      "login": "deepdigger69",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13528597?v=4"
+    },
+    "description": "Embeddable columnar database engine.",
+    "topics": [
+      "analytics",
+      "columnar",
+      "database",
+      "go"
+    ],
+    "html_url": "https://github.com/deepdigger69/columnar-db",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T17:29:14Z",
+    "updated_at": "2026-10-25T18:40:41Z",
+    "pushed_at": "2026-10-25T17:29:27Z"
+  },
+  {
+    "id": 1429740551,
+    "name": "tobira",
+    "full_name": "xavidop/tobira",
+    "owner": {
+      "login": "xavidop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4416096?v=4"
+    },
+    "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series and vector databases, with a read-only guard built in.",
+    "topics": [
+      "ai",
+      "bubbletea",
+      "cli",
+      "database",
+      "golang",
+      "mcp",
+      "mongodb",
+      "mysql",
+      "postgres",
+      "redis",
+      "sql",
+      "terminal",
+      "tui",
+      "vector-database"
+    ],
+    "html_url": "https://github.com/xavidop/tobira",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T12:49:14Z",
+    "updated_at": "2026-10-23T17:20:12Z",
+    "pushed_at": "2026-10-23T17:20:10Z"
+  },
+  {
+    "id": 1429310835,
+    "name": "file-to-database-skill",
+    "full_name": "Thomaszhou22/file-to-database-skill",
+    "owner": {
+      "login": "Thomaszhou22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240298148?v=4"
+    },
+    "description": "Turn data files (CSV/Excel/JSON/JSONL/TSV) into a validated database, then operate it in natural language — pluggable methodology, quality gates, migration ledger, visual delivery",
+    "topics": [
+      "agent-skills",
+      "claude-skills",
+      "clawhub",
+      "csv",
+      "data-engineering",
+      "data-modeling",
+      "database",
+      "llm-agents",
+      "natural-language-interface",
+      "openclaw",
+      "postgresql",
+      "schema-design",
+      "sql",
+      "sqlite",
+      "supabase"
+    ],
+    "html_url": "https://github.com/Thomaszhou22/file-to-database-skill",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T06:00:29Z",
+    "updated_at": "2026-10-23T02:20:21Z",
+    "pushed_at": "2026-10-22T07:26:58Z"
+  },
+  {
+    "id": 1434188060,
+    "name": "houyidb",
+    "full_name": "houyidb-community/houyidb",
+    "owner": {
+      "login": "houyidb-community",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348226444?v=4"
+    },
+    "description": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
+    "topics": [
+      "ai",
+      "database",
+      "embeddings",
+      "hnsw",
+      "pgwire",
+      "postgres",
+      "rag",
+      "rust",
+      "vector-database",
+      "vector-search"
+    ],
+    "html_url": "https://github.com/houyidb-community/houyidb",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T09:50:07Z",
+    "updated_at": "2026-10-27T05:52:40Z",
+    "pushed_at": "2026-10-27T05:52:37Z"
+  },
+  {
+    "id": 1430550405,
+    "name": "dbstick",
+    "full_name": "mpyw/dbstick",
+    "owner": {
+      "login": "mpyw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1351893?v=4"
+    },
+    "description": "Outrun replication lag in Go: read your own writes from the primary, even on the next request",
+    "topics": [
+      "database",
+      "database-sql",
+      "go",
+      "go-library",
+      "golang",
+      "gorm",
+      "laravel",
+      "pgx",
+      "primary-replica",
+      "read-replica",
+      "read-your-writes",
+      "redis",
+      "replication-lag"
+    ],
+    "html_url": "https://github.com/mpyw/dbstick",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T03:54:01Z",
+    "updated_at": "2026-10-23T23:02:26Z",
+    "pushed_at": "2026-10-23T23:02:23Z"
+  },
+  {
+    "id": 1434812337,
+    "name": "chinese-laws",
+    "full_name": "YuleBest/chinese-laws",
+    "owner": {
+      "login": "YuleBest",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173187511?v=4"
+    },
+    "description": "中国法律法规 Markdown 版本，收录中国两千多部法律法规（不含地方性法规），从权威来源同步",
+    "topics": [
+      "chinese",
+      "chinese-law",
+      "database",
+      "law",
+      "laws"
+    ],
+    "html_url": "https://github.com/YuleBest/chinese-laws",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T19:00:50Z",
+    "updated_at": "2026-10-26T21:49:52Z",
+    "pushed_at": "2026-10-26T21:49:47Z"
+  },
+  {
+    "id": 1427793535,
+    "name": "db-audit",
+    "full_name": "haidervf/db-audit",
+    "owner": {
+      "login": "haidervf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211919061?v=4"
+    },
+    "description": "db-audit is a small web app that you run on your own computer. You point it at a SQL Server, Azure SQL Database or Azure SQL Managed Instance database, and it shows you what is inside: the tables, the code, how everything is connected, and the scheduled jobs that run against it.",
+    "topics": [
+      "data",
+      "data-analysis",
+      "data-analytics",
+      "database",
+      "database-management"
+    ],
+    "html_url": "https://github.com/haidervf/db-audit",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-21T02:39:09Z",
+    "updated_at": "2026-10-21T04:02:32Z",
+    "pushed_at": "2026-10-21T03:41:21Z"
+  },
+  {
+    "id": 1429451739,
+    "name": "Awesome-In-Database-Machine-Learning",
+    "full_name": "ishandutta2007/Awesome-In-Database-Machine-Learning",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top In Database Machine Learning (Opensource)  Star if you like it! ",
+    "topics": [
+      "awesome-list",
+      "curated-list",
+      "database",
+      "in-database-ml",
+      "machine-learning",
+      "sql"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-In-Database-Machine-Learning",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-22T08:22:42Z",
+    "updated_at": "2026-10-22T14:06:32Z",
+    "pushed_at": "2026-10-22T13:59:45Z"
+  },
+  {
+    "id": 1434894930,
+    "name": "pon-db",
+    "full_name": "robertoaleman/pon-db",
+    "owner": {
+      "login": "robertoaleman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8903445?v=4"
+    },
+    "description": "PON-DB Engine database engine encapsulated in a single, portable and strictly encrypted binary format",
+    "topics": [
+      "data-structures",
+      "database",
+      "file-format",
+      "rust"
+    ],
+    "html_url": "https://github.com/robertoaleman/pon-db",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T20:26:24Z",
+    "updated_at": "2026-10-28T01:23:11Z",
+    "pushed_at": "2026-10-28T01:23:07Z"
+  }
+]
