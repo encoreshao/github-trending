@@ -1,0 +1,617 @@
+[
+  {
+    "id": 1433101903,
+    "name": "usual-bot",
+    "full_name": "usual-labs/usual-bot",
+    "owner": {
+      "login": "usual-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/344801072?v=4"
+    },
+    "description": "A new home for your Hermes Bots: a native Mac and iPhone messenger that works with Hermes Bot Mode. Chat with your Bots, approve commands, group them in rooms, call them.",
+    "topics": [
+      "agent-ui",
+      "ai-agent",
+      "ai-agents",
+      "bot-mode",
+      "chat-client",
+      "hermes",
+      "hermes-agent",
+      "ios",
+      "iphone",
+      "llm",
+      "mac-app",
+      "macos",
+      "messenger",
+      "nous-research",
+      "swift",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/usual-labs/usual-bot",
+    "stargazers_count": 3,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T11:01:57Z",
+    "updated_at": "2026-10-28T01:08:32Z",
+    "pushed_at": "2026-10-26T16:23:15Z"
+  },
+  {
+    "id": 1434667330,
+    "name": "bureau",
+    "full_name": "acf1210/bureau",
+    "owner": {
+      "login": "acf1210",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4742823?v=4"
+    },
+    "description": "BUREAU — an agent skill that designs like a studio: a five-model ShowCase with mobile compositions, a five-source reference survey, a lineage-and-blend method drawn from 40 designers, and a review circuit with a ten-minute independent jury.",
+    "topics": [
+      "accessibility",
+      "agent-skills",
+      "anti-ai-slop",
+      "antigravity",
+      "art-direction",
+      "claude-code",
+      "codex",
+      "creative-coding",
+      "design",
+      "design-system",
+      "figma",
+      "frontend",
+      "hermes",
+      "motion-design",
+      "playwright",
+      "review-circuit",
+      "templates",
+      "typography",
+      "web-design",
+      "webgl"
+    ],
+    "html_url": "https://github.com/acf1210/bureau",
+    "stargazers_count": 3,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-26T16:49:40Z",
+    "updated_at": "2026-10-28T16:56:48Z",
+    "pushed_at": "2026-10-28T18:56:52Z"
+  },
+  {
+    "id": 1434185923,
+    "name": "pomelu",
+    "full_name": "ateymoori/pomelu",
+    "owner": {
+      "login": "ateymoori",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34753150?v=4"
+    },
+    "description": "Pomelu: open-source Android & iOS app for Hermes Agent (Nous Research). Chat with your self-hosted AI agent on phone, foldable and tablet: voice, files, approvals, Bot Screen.",
+    "topics": [
+      "ai-agent",
+      "ai-assistant",
+      "ai-chat",
+      "android",
+      "chat-client",
+      "dart",
+      "flutter",
+      "foldable",
+      "hermes",
+      "hermes-agent",
+      "ios",
+      "ipad",
+      "liquid-glass",
+      "llm",
+      "mobile-app",
+      "nous-research",
+      "novnc",
+      "open-source",
+      "riverpod",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/ateymoori/pomelu",
+    "stargazers_count": 3,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-26T09:48:03Z",
+    "updated_at": "2026-10-29T23:20:44Z",
+    "pushed_at": "2026-10-29T23:20:40Z"
+  },
+  {
+    "id": 1436796001,
+    "name": "compress-fast",
+    "full_name": "ATLAS-0321/compress-fast",
+    "owner": {
+      "login": "ATLAS-0321",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83135944?v=4"
+    },
+    "description": "Hermes Agent compaction on local models: ~6x faster, keeps more facts. Drop-in OpenAI-compatible proxy, no Hermes patches, Python stdlib.",
+    "topics": [
+      "ai-agents",
+      "context-compression",
+      "context-window",
+      "hermes",
+      "hermes-agent",
+      "llama-cpp",
+      "llm",
+      "local-llm",
+      "nous-research",
+      "ollama",
+      "openai-compatible",
+      "vllm"
+    ],
+    "html_url": "https://github.com/ATLAS-0321/compress-fast",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T08:20:33Z",
+    "updated_at": "2026-10-29T03:50:52Z",
+    "pushed_at": "2026-10-28T16:13:07Z"
+  },
+  {
+    "id": 1433641862,
+    "name": "hermes-cacheguard",
+    "full_name": "AIverflow/hermes-cacheguard",
+    "owner": {
+      "login": "AIverflow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/338127375?v=4"
+    },
+    "description": "A Hermes plugin that stops you wasting money on an expired cache.",
+    "topics": [
+      "cost",
+      "hermes",
+      "hermes-plugin",
+      "llm",
+      "prompt-caching"
+    ],
+    "html_url": "https://github.com/AIverflow/hermes-cacheguard",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T21:30:34Z",
+    "updated_at": "2026-10-27T15:42:16Z",
+    "pushed_at": "2026-10-27T15:42:12Z"
+  },
+  {
+    "id": 1433246873,
+    "name": "hermes-chat-share",
+    "full_name": "smallmj/hermes-chat-share",
+    "owner": {
+      "login": "smallmj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23742160?v=4"
+    },
+    "description": "Share Hermes Desktop conversations as long PNG / self-contained HTML / Markdown — per-turn selection, turn gutter, search, collapsing, session metadata. The Hermes Desktop counterpart of dsh-share. Single file, zero deps, MIT.",
+    "topics": [
+      "chat-share",
+      "desktop-plugin",
+      "dsh-share",
+      "electron",
+      "export",
+      "hermes",
+      "hermes-agent",
+      "markdown",
+      "plugin",
+      "screenshot"
+    ],
+    "html_url": "https://github.com/smallmj/hermes-chat-share",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T13:49:01Z",
+    "updated_at": "2026-10-29T11:25:36Z",
+    "pushed_at": "2026-10-29T11:25:34Z"
+  },
+  {
+    "id": 1434721076,
+    "name": "tiberius",
+    "full_name": "Greg-GB/tiberius",
+    "owner": {
+      "login": "Greg-GB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8433839?v=4"
+    },
+    "description": "Local SQLite memory engine for AI agents — HRR compositional recall, plain file, no cloud. Runs in Hermes, OpenCode v2, or any harness via a Python CLI.",
+    "topics": [
+      "ai-agents",
+      "fts5",
+      "hermes",
+      "hermes-plugin",
+      "hrr",
+      "memory",
+      "memory-retrieval",
+      "opencode",
+      "opencode-plugin",
+      "retrieval",
+      "skill-retrieval",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/Greg-GB/tiberius",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T17:36:06Z",
+    "updated_at": "2026-10-29T13:08:37Z",
+    "pushed_at": "2026-10-29T13:08:35Z"
+  },
+  {
+    "id": 1437399586,
+    "name": "talaria",
+    "full_name": "dawnforge-lab/talaria",
+    "owner": {
+      "login": "dawnforge-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85624182?v=4"
+    },
+    "description": "Talaria: an Android app for Hermes Agent",
+    "topics": [
+      "ai-assistant",
+      "android",
+      "hermes",
+      "hermes-agent",
+      "jetpack-compose",
+      "kotlin",
+      "talaria"
+    ],
+    "html_url": "https://github.com/dawnforge-lab/talaria",
+    "stargazers_count": 1,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T17:16:17Z",
+    "updated_at": "2026-10-29T19:45:44Z",
+    "pushed_at": "2026-10-29T15:19:14Z"
+  },
+  {
+    "id": 1434653030,
+    "name": "hermes-antigravity-free-agents",
+    "full_name": "MarketingBoer/hermes-antigravity-free-agents",
+    "owner": {
+      "login": "MarketingBoer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256224342?v=4"
+    },
+    "description": "Free AI second opinions for Hermes Agent via Google Antigravity (AGY CLI). Code review, debugging and agent skills with native login and quota checks. Python, MIT. Free tier has limits.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-code-review",
+      "ai-workflow",
+      "antigravity",
+      "antigravity-cli",
+      "automation",
+      "claude",
+      "code-review",
+      "developer-tools",
+      "free-ai",
+      "free-tier",
+      "gemini",
+      "google-antigravity",
+      "google-jules",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "python",
+      "second-opinion"
+    ],
+    "html_url": "https://github.com/MarketingBoer/hermes-antigravity-free-agents",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T16:37:34Z",
+    "updated_at": "2026-10-26T22:50:09Z",
+    "pushed_at": "2026-10-26T22:49:12Z"
+  },
+  {
+    "id": 1430864946,
+    "name": "Open-Duet",
+    "full_name": "AZERDSQ131/Open-Duet",
+    "owner": {
+      "login": "AZERDSQ131",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178401543?v=4"
+    },
+    "description": "Open Duet — an open-source mobile shell for your personal agent, built to run on your Hermes Agent.",
+    "topics": [
+      "ai-agent",
+      "design-prototype",
+      "expo",
+      "hermes",
+      "open-source",
+      "react-native"
+    ],
+    "html_url": "https://github.com/AZERDSQ131/Open-Duet",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T09:53:16Z",
+    "updated_at": "2026-10-24T07:08:14Z",
+    "pushed_at": "2026-10-23T10:03:51Z"
+  },
+  {
+    "id": 1435209349,
+    "name": "hermes-skills-sync",
+    "full_name": "neillized/hermes-skills-sync",
+    "owner": {
+      "login": "neillized",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266007845?v=4"
+    },
+    "description": "hermes-skills-sync — skill skills-git-sync: sync one Hermes skills library across computers with one git branch per machine and a server-side merge, so pushes never race. Includes bootstrap, pull/push/sync scripts and a pre-push guard.",
+    "topics": [
+      "agent-skills",
+      "git",
+      "git-sync",
+      "hermes",
+      "hermes-agent",
+      "multi-machine",
+      "skills",
+      "sync"
+    ],
+    "html_url": "https://github.com/neillized/hermes-skills-sync",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T03:41:10Z",
+    "updated_at": "2026-10-27T06:12:42Z",
+    "pushed_at": "2026-10-27T04:14:00Z"
+  },
+  {
+    "id": 1437802962,
+    "name": "hermes-remote-browser",
+    "full_name": "bunny2030/hermes-remote-browser",
+    "owner": {
+      "login": "bunny2030",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105875378?v=4"
+    },
+    "description": "Let a Hermes Agent on a server use the Chrome on your own computer, across networks, through a browser extension and a small relay.",
+    "topics": [
+      "ai-agent",
+      "browser-automation",
+      "chrome-extension",
+      "hermes",
+      "hermes-agent",
+      "homelab",
+      "nous-research",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/bunny2030/hermes-remote-browser",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T01:08:21Z",
+    "updated_at": "2026-10-30T00:10:59Z",
+    "pushed_at": "2026-10-29T01:38:36Z"
+  },
+  {
+    "id": 1433609322,
+    "name": "format-readers",
+    "full_name": "KJLavender/format-readers",
+    "owner": {
+      "login": "KJLavender",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99654472?v=4"
+    },
+    "description": "Read-only readers for protobuf/gRPC, PyInstaller executables and Hermes bytecode, each tested against protoc, pyinstxtractor and hermes-dec. 看穿 app 內部格式的小工具，每個都跟標準工具比對驗證。",
+    "topics": [
+      "grpc",
+      "hermes",
+      "protobuf",
+      "pyinstaller",
+      "react-native",
+      "reverse-engineering"
+    ],
+    "html_url": "https://github.com/KJLavender/format-readers",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T20:42:21Z",
+    "updated_at": "2026-10-28T08:06:23Z",
+    "pushed_at": "2026-10-27T16:11:24Z"
+  },
+  {
+    "id": 1431873659,
+    "name": "grok-hermes-webhook",
+    "full_name": "blurryclaire/grok-hermes-webhook",
+    "owner": {
+      "login": "blurryclaire",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4991207?v=4"
+    },
+    "description": "Hand Grok Bot tasks to local Hermes — signed webhook, non-empty task, 202 stub. Zero secrets in the tree.",
+    "topics": [
+      "grok-bot",
+      "hermes",
+      "hmac",
+      "hong-kong",
+      "python",
+      "webhook"
+    ],
+    "html_url": "https://github.com/blurryclaire/grok-hermes-webhook",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T06:09:34Z",
+    "updated_at": "2026-10-25T07:47:18Z",
+    "pushed_at": "2026-10-25T07:47:14Z"
+  },
+  {
+    "id": 1433057593,
+    "name": "AIMood",
+    "full_name": "HarveyEddy/AIMood",
+    "owner": {
+      "login": "HarveyEddy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136721651?v=4"
+    },
+    "description": "给 AI 装一个命盘：安装即生成八字，情绪、语气、说话频率随命理四层动态变化。纯 Python 零依赖，Hermes / Claude Code 通用。",
+    "topics": [
+      "agent",
+      "ai",
+      "bazi",
+      "claude-code",
+      "emotion",
+      "fortune-telling",
+      "hermes",
+      "llm",
+      "mood",
+      "personality"
+    ],
+    "html_url": "https://github.com/HarveyEddy/AIMood",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T10:06:25Z",
+    "updated_at": "2026-10-25T12:01:28Z",
+    "pushed_at": "2026-10-25T12:01:24Z"
+  },
+  {
+    "id": 1433914851,
+    "name": "hermes-trello-browser",
+    "full_name": "rauldev-yoru/hermes-trello-browser",
+    "owner": {
+      "login": "rauldev-yoru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68206208?v=4"
+    },
+    "description": "Trello boards, lists and cards in a Hermes Desktop pane, with one-click handoff of any card to the agent.",
+    "topics": [
+      "ai-agent",
+      "desktop",
+      "hermes",
+      "hermes-plugin",
+      "kanban",
+      "trello"
+    ],
+    "html_url": "https://github.com/rauldev-yoru/hermes-trello-browser",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T04:48:47Z",
+    "updated_at": "2026-10-27T05:37:38Z",
+    "pushed_at": "2026-10-26T22:42:22Z"
+  },
+  {
+    "id": 1432897249,
+    "name": "speckit-hermes-desktop",
+    "full_name": "justinbrenton/speckit-hermes-desktop",
+    "owner": {
+      "login": "justinbrenton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296981606?v=4"
+    },
+    "description": "Spec-Kit for Hermes Desktop",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-desktop",
+      "hermes-plugin"
+    ],
+    "html_url": "https://github.com/justinbrenton/speckit-hermes-desktop",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-25T06:27:37Z",
+    "updated_at": "2026-10-29T09:35:17Z",
+    "pushed_at": "2026-10-30T01:57:38Z"
+  },
+  {
+    "id": 1432864286,
+    "name": "hermes-blacksite",
+    "full_name": "EverythingsComputer/hermes-blacksite",
+    "owner": {
+      "login": "EverythingsComputer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228418364?v=4"
+    },
+    "description": "Low-footprint working mode for Hermes Agent — say blacksite, work in the dark, say burnsite.",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "hermes",
+      "hermes-agent",
+      "incognito-mode",
+      "privacy",
+      "shred"
+    ],
+    "html_url": "https://github.com/EverythingsComputer/hermes-blacksite",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T05:34:14Z",
+    "updated_at": "2026-10-27T12:13:37Z",
+    "pushed_at": "2026-10-27T12:13:33Z"
+  },
+  {
+    "id": 1434094339,
+    "name": "esp32-pager",
+    "full_name": "LjfsGitHub/esp32-pager",
+    "owner": {
+      "login": "LjfsGitHub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121419009?v=4"
+    },
+    "description": "Open-source ESP32-S3 AMOLED Pager: voice PTT watch + Windows Bridge for Hermes/Cursor/Codex/ACP agents. Waveshare 2.16 & 1.75C round. MIT.",
+    "topics": [
+      "ai-agent",
+      "amoled",
+      "brookesia",
+      "cursor",
+      "embedded",
+      "esp-idf",
+      "esp32",
+      "esp32-s3",
+      "fastapi",
+      "hackable",
+      "hermes",
+      "llm",
+      "lvgl",
+      "open-source",
+      "python",
+      "smartwatch",
+      "voice-assistant",
+      "waveshare",
+      "wearable",
+      "websocket"
+    ],
+    "html_url": "https://github.com/LjfsGitHub/esp32-pager",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T08:19:31Z",
+    "updated_at": "2026-10-26T09:50:19Z",
+    "pushed_at": "2026-10-26T09:50:16Z"
+  },
+  {
+    "id": 1431599856,
+    "name": "talaria",
+    "full_name": "sehgalbhavya/talaria",
+    "owner": {
+      "login": "sehgalbhavya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68725314?v=4"
+    },
+    "description": "A job-hunt board that runs on your own computer: finds jobs, tailors your resume and cover letters, and fills applications, powered by your local Hermes AI agent. Your data never leaves your laptop.",
+    "topics": [
+      "ai-agent",
+      "cover-letter",
+      "hermes",
+      "job-search",
+      "llm",
+      "local-first",
+      "mcp",
+      "playwright",
+      "react",
+      "resume",
+      "typescript"
+    ],
+    "html_url": "https://github.com/sehgalbhavya/talaria",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T22:15:38Z",
+    "updated_at": "2026-10-27T11:40:10Z",
+    "pushed_at": "2026-10-27T11:40:05Z"
+  }
+]

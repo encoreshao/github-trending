@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1437331670,
+    "name": "jobbot-rpocket",
+    "full_name": "F33686arCentaur/jobbot-rpocket",
+    "owner": {
+      "login": "F33686arCentaur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345151640?v=4"
+    },
+    "description": "Telegram bot that searches DOU/Djinni/Jooble/RemoteOK/Work.ua for matching jobs, filters by your own profiles/keywords, and pushes new or reopened postings with resume/cover-letter tailoring",
+    "topics": [
+      "aiogram",
+      "chat-memory",
+      "cloudflare-workers",
+      "cloudflare-workers-ai",
+      "firebase",
+      "job-alerts",
+      "job-search",
+      "job-tracker",
+      "jobs",
+      "nlp",
+      "open-source-project",
+      "qwen3",
+      "scraper",
+      "speech-to-text",
+      "sqlite",
+      "telegram",
+      "telegram-bot-ai-assistant",
+      "telegram-bot-with-ai",
+      "voice-assistant",
+      "vosk"
+    ],
+    "html_url": "https://github.com/F33686arCentaur/jobbot-rpocket",
+    "stargazers_count": 32,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T16:17:27Z",
+    "updated_at": "2026-10-29T15:49:43Z",
+    "pushed_at": "2026-10-28T16:17:37Z"
+  },
+  {
+    "id": 1437336121,
+    "name": "tasking-resp",
+    "full_name": "Novaemperor98577/tasking-resp",
+    "owner": {
+      "login": "Novaemperor98577",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345208412?v=4"
+    },
+    "description": "Conversational task manager for teams — Telegram + AI agent + PostgreSQL. Assign, track, and get reminded about tasks in natural language, with role-based manager visibility.",
+    "topics": [
+      "binance",
+      "binance-api",
+      "binance-auto-bot",
+      "bybit",
+      "bybit-api",
+      "bybit-trader",
+      "chatops",
+      "crypto",
+      "cryptocurrency",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "nlp",
+      "okx",
+      "okx-api",
+      "p2p",
+      "task-management",
+      "task-manager",
+      "telegram-bot-ai-assistant",
+      "telegram-bot-with-ai"
+    ],
+    "html_url": "https://github.com/Novaemperor98577/tasking-resp",
+    "stargazers_count": 32,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T16:21:17Z",
+    "updated_at": "2026-10-29T15:44:19Z",
+    "pushed_at": "2026-10-28T16:21:26Z"
+  },
+  {
+    "id": 1431085048,
+    "name": "yomiyasu-mini",
+    "full_name": "nanaism/yomiyasu-mini",
+    "owner": {
+      "login": "nanaism",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72681409?v=4"
+    },
+    "description": "AIが書いた日本語を推敲するスキル yomiyasu を、スキルの大きさに上限がある環境向けに短くしたスキル（SKILL.md 18,000字以下）",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "gemini",
+      "japanese",
+      "llm",
+      "nlp",
+      "writing-assistant",
+      "writing-tools"
+    ],
+    "html_url": "https://github.com/nanaism/yomiyasu-mini",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T13:29:50Z",
+    "updated_at": "2026-10-29T01:55:17Z",
+    "pushed_at": "2026-10-25T05:32:21Z"
+  },
+  {
+    "id": 1431803331,
+    "name": "genpark-levenshtein-fuzzy-tool-matcher-skill",
+    "full_name": "Alpha-Park/genpark-levenshtein-fuzzy-tool-matcher-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "Fast Levenshtein distance and fuzzy similarity matcher autocorrecting hallucinated or typo-prone LLM tool calls",
+    "topics": [
+      "agent-skills",
+      "autocorrect",
+      "damerau-levenshtein",
+      "developer-tools",
+      "fuzzy-matching",
+      "hallucination-guard",
+      "levenshtein-distance",
+      "mcp",
+      "nlp",
+      "python-standard-library",
+      "tool-call-repair"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-levenshtein-fuzzy-tool-matcher-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T04:15:09Z",
+    "updated_at": "2026-10-24T04:15:34Z",
+    "pushed_at": "2026-10-24T04:15:35Z"
+  },
+  {
+    "id": 1432247363,
+    "name": "genpark-simhash-near-duplicate-detector-skill",
+    "full_name": "Alpha-Park/genpark-simhash-near-duplicate-detector-skill",
+    "owner": {
+      "login": "Alpha-Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135208971?v=4"
+    },
+    "description": "64-bit SimHash Hamming distance engine with char n-gram weighted projection for detecting redundant or plagiarism LLM outputs",
+    "topics": [
+      "agent-skills",
+      "content-moderation",
+      "deduplication",
+      "hamming-distance",
+      "high-performance",
+      "mcp",
+      "near-duplicate",
+      "nlp",
+      "python-standard-library",
+      "quality-assurance",
+      "simhash"
+    ],
+    "html_url": "https://github.com/Alpha-Park/genpark-simhash-near-duplicate-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T14:08:40Z",
+    "updated_at": "2026-10-24T14:09:17Z",
+    "pushed_at": "2026-10-24T14:09:19Z"
+  },
+  {
+    "id": 1432246447,
+    "name": "genpark-simhash-near-duplicate-detector-skill",
+    "full_name": "alphaparkinc/genpark-simhash-near-duplicate-detector-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "64-bit SimHash Hamming distance engine with char n-gram weighted projection for detecting redundant or plagiarism LLM outputs",
+    "topics": [
+      "agent-skills",
+      "content-moderation",
+      "deduplication",
+      "hamming-distance",
+      "high-performance",
+      "mcp",
+      "near-duplicate",
+      "nlp",
+      "python-standard-library",
+      "quality-assurance",
+      "simhash"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-simhash-near-duplicate-detector-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T14:07:45Z",
+    "updated_at": "2026-10-24T14:08:31Z",
+    "pushed_at": "2026-10-24T14:08:33Z"
+  },
+  {
+    "id": 1431802975,
+    "name": "genpark-levenshtein-fuzzy-tool-matcher-skill",
+    "full_name": "alphaparkinc/genpark-levenshtein-fuzzy-tool-matcher-skill",
+    "owner": {
+      "login": "alphaparkinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135203240?v=4"
+    },
+    "description": "Fast Levenshtein distance and fuzzy similarity matcher autocorrecting hallucinated or typo-prone LLM tool calls",
+    "topics": [
+      "agent-skills",
+      "autocorrect",
+      "damerau-levenshtein",
+      "developer-tools",
+      "fuzzy-matching",
+      "hallucination-guard",
+      "levenshtein-distance",
+      "mcp",
+      "nlp",
+      "python-standard-library",
+      "tool-call-repair"
+    ],
+    "html_url": "https://github.com/alphaparkinc/genpark-levenshtein-fuzzy-tool-matcher-skill",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T04:14:37Z",
+    "updated_at": "2026-10-24T04:15:04Z",
+    "pushed_at": "2026-10-24T04:15:04Z"
+  },
+  {
+    "id": 1434133387,
+    "name": "skejja",
+    "full_name": "vincyberx/skejja",
+    "owner": {
+      "login": "vincyberx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97370624?v=4"
+    },
+    "description": "Small local System One decision model (Choice, yes/no, Score) for short texts in 5 languages, fast enough for a Raspberry Pi",
+    "topics": [
+      "agents",
+      "edge-ai",
+      "home-automation",
+      "intent-classification",
+      "multilingual",
+      "nlp",
+      "onnx",
+      "onnxruntime",
+      "raspberry-pi",
+      "zero-shot-classification"
+    ],
+    "html_url": "https://github.com/vincyberx/skejja",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T08:58:00Z",
+    "updated_at": "2026-10-27T18:05:02Z",
+    "pushed_at": "2026-10-26T15:36:15Z"
+  },
+  {
+    "id": 1437530608,
+    "name": "awesome-cdllm",
+    "full_name": "TokenRhythm/awesome-cdllm",
+    "owner": {
+      "login": "TokenRhythm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275098769?v=4"
+    },
+    "description": "A curated list of continuous-space diffusion and flow language models. Companion repository of the survey \"Continuous-Space Diffusion and Flow Language Models: A Survey\".",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "continuous-diffusion",
+      "diffusion-language-models",
+      "diffusion-models",
+      "flow-matching",
+      "language-models",
+      "nlp",
+      "survey",
+      "text-generation"
+    ],
+    "html_url": "https://github.com/TokenRhythm/awesome-cdllm",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T19:18:57Z",
+    "updated_at": "2026-10-30T01:38:13Z",
+    "pushed_at": "2026-10-28T19:19:24Z"
+  },
+  {
+    "id": 1433815778,
+    "name": "boss_find_skill",
+    "full_name": "ccccty/boss_find_skill",
+    "owner": {
+      "login": "ccccty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185998079?v=4"
+    },
+    "description": "把招聘岗位变成每日更新的技术考纲：抓岗位 → 筛方向 → 抽概念 → 八字段学习卡片 → 间隔重复站点",
+    "topics": [
+      "agent-skill",
+      "claude-code",
+      "job-market",
+      "learning-tools",
+      "nlp",
+      "pwa",
+      "python",
+      "spaced-repetition"
+    ],
+    "html_url": "https://github.com/ccccty/boss_find_skill",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T02:25:37Z",
+    "updated_at": "2026-10-27T02:43:44Z",
+    "pushed_at": "2026-10-27T02:43:41Z"
+  },
+  {
+    "id": 1430598575,
+    "name": "17B331",
+    "full_name": "chengyu-cs/17B331",
+    "owner": {
+      "login": "chengyu-cs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310396679?v=4"
+    },
+    "description": "黄霄雲（Ghost Huang）公开语料库  粉丝整理的机器可读一手文字语料：34,341 条公开发言（2014-2026，微博/B站/抖音/公众号/小红书/演出现场），JSONL + 事实卡 + 索引。Fan-compiled machine-readable corpus, maintained by 雲渡星海.",
+    "topics": [
+      "chinese-corpus",
+      "corpus",
+      "dataset",
+      "digital-humanities",
+      "huangxiaoyun",
+      "jsonl",
+      "nlp"
+    ],
+    "html_url": "https://github.com/chengyu-cs/17B331",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T05:05:03Z",
+    "updated_at": "2026-10-23T09:01:27Z",
+    "pushed_at": "2026-10-23T07:50:27Z"
+  },
+  {
+    "id": 1432109626,
+    "name": "JIK",
+    "full_name": "ChrisRoyse/JIK",
+    "owner": {
+      "login": "ChrisRoyse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180246641?v=4"
+    },
+    "description": "JIK (Jesus Is King): a from-scratch meaning-native language model that predicts the next meaning, not the next token.",
+    "topics": [
+      "christianity",
+      "embeddings",
+      "from-scratch",
+      "language-model",
+      "machine-learning",
+      "multimodal",
+      "nlp",
+      "representation-learning",
+      "research"
+    ],
+    "html_url": "https://github.com/ChrisRoyse/JIK",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T11:24:44Z",
+    "updated_at": "2026-10-25T17:14:05Z",
+    "pushed_at": "2026-10-25T17:14:00Z"
+  },
+  {
+    "id": 1432440794,
+    "name": "Book-Recommendation-for-NLP",
+    "full_name": "SwayamShah16/Book-Recommendation-for-NLP",
+    "owner": {
+      "login": "SwayamShah16",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184517916?v=4"
+    },
+    "description": "BookWise is a Python and Streamlit web application for discovering books, receiving content-based suggestions, organizing a personal shelf, tracking reading progress, and exploring catalogue and text insights.",
+    "topics": [
+      "books",
+      "nlp",
+      "nlp-keywords-extraction",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/SwayamShah16/Book-Recommendation-for-NLP",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T17:45:35Z",
+    "updated_at": "2026-10-27T17:07:22Z",
+    "pushed_at": "2026-10-27T17:07:17Z"
+  },
+  {
+    "id": 1435544841,
+    "name": "HybridRAG-Eval",
+    "full_name": "faizanjutt473/HybridRAG-Eval",
+    "owner": {
+      "login": "faizanjutt473",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180731651?v=4"
+    },
+    "description": "Hybrid RAG system that combines BM25 keyword and FAISS vector search with cross-encoder reranking and source-cited answers. Includes a 47-question benchmark that measures Hit@k, MRR and answer correctness, and compares fixed-size vs recursive chunking over 22 PDF, DOCX and TXT documents.",
+    "topics": [
+      "bm25",
+      "chunking",
+      "cross-encoder",
+      "faiss",
+      "gemini",
+      "hybrid-search",
+      "llm-evaluation",
+      "nlp",
+      "python",
+      "rag",
+      "reranking",
+      "retrieval-augmented-generation",
+      "sentence-transformers",
+      "varolline",
+      "vector-search"
+    ],
+    "html_url": "https://github.com/faizanjutt473/HybridRAG-Eval",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T09:57:32Z",
+    "updated_at": "2026-10-28T16:28:54Z",
+    "pushed_at": "2026-10-27T10:16:03Z"
+  },
+  {
+    "id": 1433148736,
+    "name": "humanizer21",
+    "full_name": "novgar21/humanizer21",
+    "owner": {
+      "login": "novgar21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171406693?v=4"
+    },
+    "description": "Turkmen language humanizer: removes AI tells and fixes Turkmen spelling, grammar and punctuation. Works with Claude, ChatGPT, Grok and Gemini.",
+    "topics": [
+      "agent-skills",
+      "claude-skill",
+      "codex-skill",
+      "deepseek-skill-openclaw",
+      "grok-skill",
+      "humanizer",
+      "language",
+      "nlp",
+      "opencode-skills",
+      "proofreading",
+      "turkmen",
+      "turkmen-language",
+      "turkmen-nlp",
+      "turkmenistan"
+    ],
+    "html_url": "https://github.com/novgar21/humanizer21",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T11:59:05Z",
+    "updated_at": "2026-10-26T07:58:05Z",
+    "pushed_at": "2026-10-26T07:59:10Z"
+  },
+  {
+    "id": 1434889943,
+    "name": "pks-agent-danish",
+    "full_name": "pksorensen/pks-agent-danish",
+    "owner": {
+      "login": "pksorensen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2718591?v=4"
+    },
+    "description": "Dansk, med omtanke. En lokal dansk tekstlinter i Rust med forklarlige stave- og grammatikforslag. Alpha — feedback velkommen.",
+    "topics": [
+      "danish",
+      "grammar-checker",
+      "linter",
+      "lottie",
+      "nlp",
+      "rust",
+      "spellchecker",
+      "vale"
+    ],
+    "html_url": "https://github.com/pksorensen/pks-agent-danish",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T20:21:07Z",
+    "updated_at": "2026-10-28T07:05:16Z",
+    "pushed_at": "2026-10-26T23:37:41Z"
+  },
+  {
+    "id": 1432334080,
+    "name": "qb-density",
+    "full_name": "D-Joey-G/qb-density",
+    "owner": {
+      "login": "D-Joey-G",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6732266?v=4"
+    },
+    "description": "Do quizbowl questions read like AI text? Measures the processing-difficulty features from 'Why is AI-generated language so hard to understand?' (arXiv 2610.29162) on 3,000 tossups vs Wikipedia.",
+    "topics": [
+      "llm",
+      "nlp",
+      "psycholinguistics",
+      "quizbowl",
+      "spacy"
+    ],
+    "html_url": "https://github.com/D-Joey-G/qb-density",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T15:43:53Z",
+    "updated_at": "2026-10-28T07:50:54Z",
+    "pushed_at": "2026-10-24T20:33:32Z"
+  },
+  {
+    "id": 1430678887,
+    "name": "fake-news-detection",
+    "full_name": "amoltathesoftwareengineer/fake-news-detection",
+    "owner": {
+      "login": "amoltathesoftwareengineer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172461155?v=4"
+    },
+    "description": "A machine learning project that classifies news articles as potentially fake or reliable based on text features and trained NLP models.",
+    "topics": [
+      "data-science",
+      "fake-news-detection",
+      "machine-learning",
+      "natural-language-processing",
+      "news-classification",
+      "nlp",
+      "python",
+      "scikit-learn",
+      "text-analysis",
+      "text-classification"
+    ],
+    "html_url": "https://github.com/amoltathesoftwareengineer/fake-news-detection",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T06:44:16Z",
+    "updated_at": "2026-10-24T10:06:10Z",
+    "pushed_at": "2026-10-23T06:44:18Z"
+  },
+  {
+    "id": 1431653523,
+    "name": "plain-speak-bureau",
+    "full_name": "iiiiiiiiiiiiiKK/plain-speak-bureau",
+    "owner": {
+      "login": "iiiiiiiiiiiiiKK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132676579?v=4"
+    },
+    "description": "人话翻译局 · 把绕弯子的话翻译成人话。19 类意图 / 9 场景 / 6 口气，默认离线可用的中文文案改写工具。",
+    "topics": [
+      "chinese",
+      "copywriting",
+      "github-pages",
+      "nlp",
+      "offline-first",
+      "privacy",
+      "react",
+      "text-rewrite",
+      "typescript",
+      "vite"
+    ],
+    "html_url": "https://github.com/iiiiiiiiiiiiiKK/plain-speak-bureau",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T23:45:33Z",
+    "updated_at": "2026-10-26T22:43:50Z",
+    "pushed_at": "2026-10-24T00:10:02Z"
+  },
+  {
+    "id": 1438479373,
+    "name": "TikTok-Guard",
+    "full_name": "shizan52/TikTok-Guard",
+    "owner": {
+      "login": "shizan52",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196351937?v=4"
+    },
+    "description": "Finds negative TikTok comments, drafts AI replies in the comment's language, posts only after human approval. Desktop app + Telegram bot, 699 offline tests.",
+    "topics": [
+      "ai",
+      "automation",
+      "desktop-app",
+      "nlp",
+      "pyinstaller",
+      "python",
+      "social-media",
+      "sqlite",
+      "telegram-bot",
+      "tiktok"
+    ],
+    "html_url": "https://github.com/shizan52/TikTok-Guard",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T13:44:51Z",
+    "updated_at": "2026-10-29T19:56:15Z",
+    "pushed_at": "2026-10-29T13:44:59Z"
+  }
+]

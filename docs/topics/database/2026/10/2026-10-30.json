@@ -1,0 +1,565 @@
+[
+  {
+    "id": 1430540152,
+    "name": "litpage",
+    "full_name": "litmers-dev/litpage",
+    "owner": {
+      "login": "litmers-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251139756?v=4"
+    },
+    "description": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
+    "topics": [
+      "ai",
+      "block-editor",
+      "database",
+      "knowledge-base",
+      "nodejs",
+      "open-source",
+      "react",
+      "self-hosted",
+      "sqlite",
+      "workspace"
+    ],
+    "html_url": "https://github.com/litmers-dev/litpage",
+    "stargazers_count": 89,
+    "language": "TypeScript",
+    "forks_count": 45,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T03:39:35Z",
+    "updated_at": "2026-10-29T21:52:08Z",
+    "pushed_at": "2026-10-26T02:18:25Z"
+  },
+  {
+    "id": 1431996468,
+    "name": "locklens",
+    "full_name": "Huy-8bit/locklens",
+    "owner": {
+      "login": "Huy-8bit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85545963?v=4"
+    },
+    "description": "PostgreSQL monitoring and incident investigation",
+    "topics": [
+      "database",
+      "dba",
+      "incident-response",
+      "lock-monitoring",
+      "monitoring",
+      "observability",
+      "posrgresql",
+      "postgres"
+    ],
+    "html_url": "https://github.com/Huy-8bit/locklens",
+    "stargazers_count": 13,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T08:56:48Z",
+    "updated_at": "2026-10-30T01:57:18Z",
+    "pushed_at": "2026-10-30T01:57:15Z"
+  },
+  {
+    "id": 1437445366,
+    "name": "genesisdb",
+    "full_name": "genesisdb-io/genesisdb",
+    "owner": {
+      "login": "genesisdb-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214527364?v=4"
+    },
+    "description": "GenesisDB - The open source, GDPR-ready event sourcing database for developers who love event sourcing.",
+    "topics": [
+      "cloudevents",
+      "cqrs",
+      "database",
+      "event-driven",
+      "event-sourcing",
+      "event-sourcing-database",
+      "event-store",
+      "golang"
+    ],
+    "html_url": "https://github.com/genesisdb-io/genesisdb",
+    "stargazers_count": 10,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T17:57:38Z",
+    "updated_at": "2026-10-30T01:52:39Z",
+    "pushed_at": "2026-10-29T19:39:16Z"
+  },
+  {
+    "id": 1438216021,
+    "name": "typedb-lean",
+    "full_name": "Volland/typedb-lean",
+    "owner": {
+      "login": "Volland",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175251?v=4"
+    },
+    "description": "TypeDB 3 client for Lean 4: compile-time checked transactions, typed TypeQL, fast batched decoding, a lightweight ORM and migrations, over the official C driver.",
+    "topics": [
+      "database",
+      "ffi",
+      "functional-programming",
+      "knowledge-graph",
+      "lean4",
+      "orm",
+      "typedb",
+      "typeql"
+    ],
+    "html_url": "https://github.com/Volland/typedb-lean",
+    "stargazers_count": 9,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T09:40:42Z",
+    "updated_at": "2026-10-29T19:11:49Z",
+    "pushed_at": "2026-10-29T18:01:28Z"
+  },
+  {
+    "id": 1432461179,
+    "name": "PEOPLEOPS-DATA-PROJECT",
+    "full_name": "MrAbdulSamadDEV/PEOPLEOPS-DATA-PROJECT",
+    "owner": {
+      "login": "MrAbdulSamadDEV",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309018155?v=4"
+    },
+    "description": " CODE BY ABDULSAMAD",
+    "topics": [
+      "data",
+      "data-analytics",
+      "data-engineering",
+      "data-science",
+      "data-structures",
+      "data-visualization",
+      "database",
+      "databricks",
+      "python",
+      "python-3",
+      "python-dep",
+      "python-lambda",
+      "python-library",
+      "python-script",
+      "python2",
+      "python3",
+      "sql",
+      "sql-server",
+      "sqlite-database",
+      "sqlserver"
+    ],
+    "html_url": "https://github.com/MrAbdulSamadDEV/PEOPLEOPS-DATA-PROJECT",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T18:09:38Z",
+    "updated_at": "2026-10-29T01:34:05Z",
+    "pushed_at": "2026-10-24T19:06:54Z"
+  },
+  {
+    "id": 1433736651,
+    "name": "solariumdb",
+    "full_name": "solariumdb/solariumdb",
+    "owner": {
+      "login": "solariumdb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348048635?v=4"
+    },
+    "description": "SolariumDB: embedded key-value store for .NET, written in managed code: database in one directory, column families, atomic write batches across them, a write-ahead log (WAL), sorted in-memory tables (memtables), sorted files on disk (SSTables), compaction, range deletes, and ordered iterators.",
+    "topics": [
+      "csharp",
+      "database",
+      "dotnet",
+      "keyvalue",
+      "keyvalue-db",
+      "rocksdb",
+      "rocksdb-alternative"
+    ],
+    "html_url": "https://github.com/solariumdb/solariumdb",
+    "stargazers_count": 6,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T00:16:56Z",
+    "updated_at": "2026-10-29T21:21:50Z",
+    "pushed_at": "2026-10-29T21:21:45Z"
+  },
+  {
+    "id": 1433451072,
+    "name": "toydb",
+    "full_name": "deepdigger69/toydb",
+    "owner": {
+      "login": "deepdigger69",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13528597?v=4"
+    },
+    "description": "Distributed SQL database in Rust - Raft, MVCC, SQL engine.",
+    "topics": [
+      "database",
+      "distributed-systems",
+      "raft",
+      "rust",
+      "sql"
+    ],
+    "html_url": "https://github.com/deepdigger69/toydb",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T17:23:56Z",
+    "updated_at": "2026-10-25T19:41:02Z",
+    "pushed_at": "2026-10-25T18:47:16Z"
+  },
+  {
+    "id": 1437789703,
+    "name": "halfnine",
+    "full_name": "notinferred/halfnine",
+    "owner": {
+      "login": "notinferred",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128833665?v=4"
+    },
+    "description": "A light TablePlus alternative for PostgreSQL that your AI agents can use too, over MCP. macOS and Windows.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "database",
+      "database-management",
+      "desktop-app",
+      "developer-tools",
+      "gui",
+      "macos",
+      "mcp",
+      "mcp-server",
+      "postgres",
+      "postgresql",
+      "sql",
+      "tableplus-alternative",
+      "tauri",
+      "windows"
+    ],
+    "html_url": "https://github.com/notinferred/halfnine",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T00:48:42Z",
+    "updated_at": "2026-10-30T00:30:04Z",
+    "pushed_at": "2026-10-30T00:19:05Z"
+  },
+  {
+    "id": 1431811046,
+    "name": "mydb",
+    "full_name": "yzsind/mydb",
+    "owner": {
+      "login": "yzsind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11732887?v=4"
+    },
+    "description": "A high-performance database, compatible with MySQL",
+    "topics": [
+      "ai-database",
+      "database",
+      "mysql",
+      "postgresql"
+    ],
+    "html_url": "https://github.com/yzsind/mydb",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T04:27:56Z",
+    "updated_at": "2026-10-29T04:20:36Z",
+    "pushed_at": "2026-10-29T23:36:02Z"
+  },
+  {
+    "id": 1433454638,
+    "name": "sqlite-clone",
+    "full_name": "deepdigger69/sqlite-clone",
+    "owner": {
+      "login": "deepdigger69",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13528597?v=4"
+    },
+    "description": "A SQLite clone from scratch in C - pager, B-tree, REPL.",
+    "topics": [
+      "btree",
+      "c",
+      "database",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/deepdigger69/sqlite-clone",
+    "stargazers_count": 4,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T17:27:53Z",
+    "updated_at": "2026-10-25T19:18:21Z",
+    "pushed_at": "2026-10-25T17:28:00Z"
+  },
+  {
+    "id": 1433962210,
+    "name": "dera",
+    "full_name": "krishanth7/dera",
+    "owner": {
+      "login": "krishanth7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206872299?v=4"
+    },
+    "description": "DERA — An open-source, deterministic database reverse engineering platform. Explore schemas, visualize relationships, analyze database structures, detect issues, and generate engineering documentation. No AI models. No external AI APIs.",
+    "topics": [
+      "database",
+      "database-analysis",
+      "database-engineering",
+      "database-migration",
+      "database-schema",
+      "database-tools",
+      "database-visualization",
+      "entity-relationship-diagram",
+      "fastapi",
+      "mysql",
+      "opensource",
+      "postgresql",
+      "reverse-engineering",
+      "reverse-engineering-tools",
+      "schema-diff",
+      "schema-inspection",
+      "schema-visualization",
+      "sql",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/krishanth7/dera",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T05:54:29Z",
+    "updated_at": "2026-10-28T10:59:48Z",
+    "pushed_at": "2026-10-28T10:59:47Z"
+  },
+  {
+    "id": 1438457707,
+    "name": "migsafe",
+    "full_name": "mgkvibez/migsafe",
+    "owner": {
+      "login": "mgkvibez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198796435?v=4"
+    },
+    "description": "Flag the PostgreSQL migration that would lock your users table, before it ships.",
+    "topics": [
+      "database",
+      "developer-tools",
+      "linter",
+      "migrations",
+      "postgres",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "html_url": "https://github.com/mgkvibez/migsafe",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 2,
+    "created_at": "2026-10-29T13:27:27Z",
+    "updated_at": "2026-10-29T18:36:21Z",
+    "pushed_at": "2026-10-29T16:03:42Z"
+  },
+  {
+    "id": 1437632958,
+    "name": "baguettedb",
+    "full_name": "alexandremgo/baguettedb",
+    "owner": {
+      "login": "alexandremgo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15096913?v=4"
+    },
+    "description": "The data layer for your AI agents: one structured database per topic, each shared with exactly the people you choose.",
+    "topics": [
+      "ai-agents",
+      "database",
+      "mcp",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/alexandremgo/baguettedb",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-10-28T21:08:13Z",
+    "updated_at": "2026-10-29T20:27:22Z",
+    "pushed_at": "2026-10-28T22:44:18Z"
+  },
+  {
+    "id": 1434762248,
+    "name": "backend-friend",
+    "full_name": "rockeykotwal/backend-friend",
+    "owner": {
+      "login": "rockeykotwal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25150762?v=4"
+    },
+    "description": "AI-powered database query analyzer that detects N+1 queries, missing indexes, slow queries, and more before they hit production. Built with Meta AI.",
+    "topics": [
+      "database",
+      "developer-tools",
+      "hackathon",
+      "meta-ai",
+      "orm",
+      "performance"
+    ],
+    "html_url": "https://github.com/rockeykotwal/backend-friend",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T18:13:16Z",
+    "updated_at": "2026-10-29T21:07:29Z",
+    "pushed_at": "2026-10-29T21:07:24Z"
+  },
+  {
+    "id": 1436195785,
+    "name": "columnar-tsdb",
+    "full_name": "monaaoua9/columnar-tsdb",
+    "owner": {
+      "login": "monaaoua9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347966855?v=4"
+    },
+    "description": "Embedded columnar time-series storage engine in Rust: Gorilla compression, immutable chunks, WAL, background compaction",
+    "topics": [
+      "columnar-storage",
+      "compression",
+      "database",
+      "rust",
+      "storage-engine",
+      "time-series",
+      "wal"
+    ],
+    "html_url": "https://github.com/monaaoua9/columnar-tsdb",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T19:38:34Z",
+    "updated_at": "2026-10-29T14:00:33Z",
+    "pushed_at": "2026-10-29T14:00:21Z"
+  },
+  {
+    "id": 1433456285,
+    "name": "log-structured-store",
+    "full_name": "deepdigger69/log-structured-store",
+    "owner": {
+      "login": "deepdigger69",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13528597?v=4"
+    },
+    "description": "Bitcask-style embedded storage engine.",
+    "topics": [
+      "bitcask",
+      "database",
+      "go",
+      "storage-engine"
+    ],
+    "html_url": "https://github.com/deepdigger69/log-structured-store",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T17:29:47Z",
+    "updated_at": "2026-10-25T18:40:40Z",
+    "pushed_at": "2026-10-25T17:29:55Z"
+  },
+  {
+    "id": 1436223965,
+    "name": "turborel",
+    "full_name": "turborel/turborel",
+    "owner": {
+      "login": "turborel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/349007482?v=4"
+    },
+    "description": "Turborel is an extensible relational database system written in Rust.",
+    "topics": [
+      "database",
+      "htap",
+      "rdbms"
+    ],
+    "html_url": "https://github.com/turborel/turborel",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-10-27T20:07:12Z",
+    "updated_at": "2026-10-30T01:40:17Z",
+    "pushed_at": "2026-10-30T01:40:14Z"
+  },
+  {
+    "id": 1433455842,
+    "name": "columnar-db",
+    "full_name": "deepdigger69/columnar-db",
+    "owner": {
+      "login": "deepdigger69",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13528597?v=4"
+    },
+    "description": "Embeddable columnar database engine.",
+    "topics": [
+      "analytics",
+      "columnar",
+      "database",
+      "go"
+    ],
+    "html_url": "https://github.com/deepdigger69/columnar-db",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T17:29:14Z",
+    "updated_at": "2026-10-25T18:40:41Z",
+    "pushed_at": "2026-10-25T17:29:27Z"
+  },
+  {
+    "id": 1430973537,
+    "name": "Booruqt",
+    "full_name": "Re-V0/Booruqt",
+    "owner": {
+      "login": "Re-V0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/346874059?v=4"
+    },
+    "description": "Cross-platform booru client with multi-site search, image downloads, and a locally indexed gallery that preserves original tags.",
+    "topics": [
+      "booru",
+      "booru-browser",
+      "booru-gallery",
+      "booru-image-viewer",
+      "booru-tags",
+      "database",
+      "freebsd-ports",
+      "linux-app",
+      "macos-app",
+      "sqlite",
+      "windows-app"
+    ],
+    "html_url": "https://github.com/Re-V0/Booruqt",
+    "stargazers_count": 2,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T11:44:04Z",
+    "updated_at": "2026-10-29T17:40:06Z",
+    "pushed_at": "2026-10-28T08:10:45Z"
+  },
+  {
+    "id": 1435466428,
+    "name": "lsmdb",
+    "full_name": "monaaoua9/lsmdb",
+    "owner": {
+      "login": "monaaoua9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347966855?v=4"
+    },
+    "description": "LSM-tree storage engine in Rust: WAL, skiplist memtable, mmap SSTables, leveled compaction, MVCC",
+    "topics": [
+      "database",
+      "lsm-tree",
+      "mvcc",
+      "rust",
+      "sstable",
+      "storage-engine",
+      "wal"
+    ],
+    "html_url": "https://github.com/monaaoua9/lsmdb",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T08:42:18Z",
+    "updated_at": "2026-10-29T12:06:55Z",
+    "pushed_at": "2026-10-29T12:06:51Z"
+  }
+]

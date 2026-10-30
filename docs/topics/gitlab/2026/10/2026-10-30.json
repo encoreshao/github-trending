@@ -1,0 +1,549 @@
+[
+  {
+    "id": 1432302722,
+    "name": "repoknow",
+    "full_name": "gdpu11/repoknow",
+    "owner": {
+      "login": "gdpu11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20701501?v=4"
+    },
+    "description": "Self-hosted, model-free knowledge base for GitHub and GitLab repositories, with group imports, cross-repository search and read-only MCP.",
+    "topics": [
+      "code-search",
+      "cpu-only",
+      "developer-tools",
+      "github",
+      "gitlab",
+      "knowledge-base",
+      "mcp",
+      "python",
+      "self-hosted",
+      "sqlite",
+      "tree-sitter"
+    ],
+    "html_url": "https://github.com/gdpu11/repoknow",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T15:08:55Z",
+    "updated_at": "2026-10-26T00:14:11Z",
+    "pushed_at": "2026-10-25T15:24:13Z"
+  },
+  {
+    "id": 1432056902,
+    "name": "LastHelp",
+    "full_name": "CodigoSH/LastHelp",
+    "owner": {
+      "login": "CodigoSH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259958073?v=4"
+    },
+    "description": "Self-hosted feedback portal that speaks to your forge. Single binary, no account needed to report, and accepted items become real issues in GitHub, GitLab, Forgejo or Gitea.",
+    "topics": [
+      "codigosh",
+      "feedback",
+      "forgejo",
+      "github",
+      "gitlab",
+      "go",
+      "portal",
+      "self-hosted",
+      "support"
+    ],
+    "html_url": "https://github.com/CodigoSH/LastHelp",
+    "stargazers_count": 3,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T10:16:23Z",
+    "updated_at": "2026-10-25T20:59:33Z",
+    "pushed_at": "2026-10-25T13:22:39Z"
+  },
+  {
+    "id": 1436783963,
+    "name": "beebranch",
+    "full_name": "Methamorphe/beebranch",
+    "owner": {
+      "login": "Methamorphe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40505181?v=4"
+    },
+    "description": "Client Git desktop local-first pour GitLab et GitHub — Tauri 2, Rust, React. AGPL-3.0.",
+    "topics": [
+      "desktop-app",
+      "git",
+      "git-client",
+      "github",
+      "gitlab",
+      "local-first",
+      "open-source",
+      "react",
+      "rust",
+      "tauri"
+    ],
+    "html_url": "https://github.com/Methamorphe/beebranch",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 6,
+    "created_at": "2026-10-28T08:08:31Z",
+    "updated_at": "2026-10-29T17:56:26Z",
+    "pushed_at": "2026-10-29T22:11:36Z"
+  },
+  {
+    "id": 1436866040,
+    "name": "pelyar",
+    "full_name": "mprtenjaca/pelyar",
+    "owner": {
+      "login": "mprtenjaca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49960724?v=4"
+    },
+    "description": "A harbour pilot for your Claude Code session: PRs, tickets, context, pomodoro and music in a panel beside the transcript.",
+    "topics": [
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "dashboard",
+      "developer-tools",
+      "github",
+      "gitlab",
+      "jira",
+      "pomodoro",
+      "terminal"
+    ],
+    "html_url": "https://github.com/mprtenjaca/pelyar",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 3,
+    "created_at": "2026-10-28T09:28:52Z",
+    "updated_at": "2026-10-29T09:30:03Z",
+    "pushed_at": "2026-10-29T09:30:01Z"
+  },
+  {
+    "id": 1431801356,
+    "name": "gitpersona",
+    "full_name": "weikxs/gitpersona",
+    "owner": {
+      "login": "weikxs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/346254602?v=4"
+    },
+    "description": "Git profiles that follow your directories: commit identity, HTTPS credentials, SSH key, signing and the gh/glab account, per directory. GitHub, GitLab, Bitbucket and self-hosted.",
+    "topics": [
+      "bitbucket",
+      "cli",
+      "developer-tools",
+      "gh",
+      "git",
+      "git-config",
+      "github",
+      "gitlab",
+      "golang",
+      "multiple-accounts"
+    ],
+    "html_url": "https://github.com/weikxs/gitpersona",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T04:12:09Z",
+    "updated_at": "2026-10-29T05:11:23Z",
+    "pushed_at": "2026-10-29T05:20:52Z"
+  },
+  {
+    "id": 1431935058,
+    "name": "diffnotes",
+    "full_name": "igorkasyanchuk/diffnotes",
+    "owner": {
+      "login": "igorkasyanchuk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11101?v=4"
+    },
+    "description": "Your coding agent explains its pull request; your team reads the notes, screenshots and live demos inside the diff on GitHub, GitLab and Bitbucket. Self-hosted, MIT.",
+    "topics": [
+      "ai-agents",
+      "bitbucket",
+      "chrome-extension",
+      "code-review",
+      "github",
+      "gitlab",
+      "pull-requests",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/igorkasyanchuk/diffnotes",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-10-24T07:34:56Z",
+    "updated_at": "2026-10-29T22:02:55Z",
+    "pushed_at": "2026-10-29T22:02:51Z"
+  },
+  {
+    "id": 1431211591,
+    "name": "prtop",
+    "full_name": "TomyCesaille/prtop",
+    "owner": {
+      "login": "TomyCesaille",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8269304?v=4"
+    },
+    "description": "htop for your GitLab merge requests and GitHub pull requests, from review to production. Built to wake Claude Code.",
+    "topics": [
+      "claude-code",
+      "cli",
+      "code-review",
+      "github",
+      "gitlab",
+      "htop",
+      "merge-requests",
+      "pull-requests",
+      "python",
+      "terminal"
+    ],
+    "html_url": "https://github.com/TomyCesaille/prtop",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-23T15:20:16Z",
+    "updated_at": "2026-10-29T09:29:21Z",
+    "pushed_at": "2026-10-29T09:29:16Z"
+  },
+  {
+    "id": 1431076356,
+    "name": "glab-release-notes",
+    "full_name": "redb0/glab-release-notes",
+    "owner": {
+      "login": "redb0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30475117?v=4"
+    },
+    "description": "GitLab CI CLI that writes release notes from merged MRs: a label picks the section, a one-line quote is the entry.",
+    "topics": [
+      "changelog",
+      "cli",
+      "gitlab",
+      "gitlab-ci",
+      "jira",
+      "merge-request",
+      "python",
+      "release-notes"
+    ],
+    "html_url": "https://github.com/redb0/glab-release-notes",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T13:22:02Z",
+    "updated_at": "2026-10-24T14:12:06Z",
+    "pushed_at": "2026-10-24T14:12:05Z"
+  },
+  {
+    "id": 1433804605,
+    "name": "orchestration-ai",
+    "full_name": "danielbmendprofissional/orchestration-ai",
+    "owner": {
+      "login": "danielbmendprofissional",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348079641?v=4"
+    },
+    "description": "Ecossistema de engenharia assistida por IA, desenhado para GitLab (vitrine)",
+    "topics": [
+      "ai-assisted-development",
+      "ci-cd",
+      "claude-code",
+      "gitlab",
+      "orchestration-ai"
+    ],
+    "html_url": "https://github.com/danielbmendprofissional/orchestration-ai",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T02:09:19Z",
+    "updated_at": "2026-10-28T15:04:24Z",
+    "pushed_at": "2026-10-28T15:04:19Z"
+  },
+  {
+    "id": 1431833705,
+    "name": "pipepulse",
+    "full_name": "morveusz93/pipepulse",
+    "owner": {
+      "login": "morveusz93",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31955354?v=4"
+    },
+    "description": "Pipeline health dashboard for GitLab™: history, trends, MTTR and inline failure logs. Not affiliated with GitLab Inc.",
+    "topics": [
+      "ci-cd",
+      "dashboard",
+      "devops",
+      "gitlab",
+      "gitlab-ci"
+    ],
+    "html_url": "https://github.com/morveusz93/pipepulse",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T05:06:01Z",
+    "updated_at": "2026-10-25T06:02:44Z",
+    "pushed_at": "2026-10-25T06:02:39Z"
+  },
+  {
+    "id": 1433919168,
+    "name": "Hedwig",
+    "full_name": "projectGloria/Hedwig",
+    "owner": {
+      "login": "projectGloria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203261208?v=4"
+    },
+    "description": "🦉 High-fidelity Git repository and release archiving desktop app for Windows, with automated transfers to personal GitHub or GitLab accounts.",
+    "topics": [
+      "archive-tool",
+      "backup",
+      "desktop-app",
+      "dpapi",
+      "electron",
+      "git",
+      "git-archive",
+      "git-lfs",
+      "github",
+      "gitlab",
+      "migration-tool",
+      "offline-first",
+      "react",
+      "react-19",
+      "repository-mirror",
+      "submodules",
+      "typescript",
+      "win32",
+      "windows"
+    ],
+    "html_url": "https://github.com/projectGloria/Hedwig",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T04:55:12Z",
+    "updated_at": "2026-10-26T06:17:27Z",
+    "pushed_at": "2026-10-26T05:34:35Z"
+  },
+  {
+    "id": 1433807352,
+    "name": "orchestration-ai-pipeline-esteira-workspace",
+    "full_name": "danielbmendprofissional/orchestration-ai-pipeline-esteira-workspace",
+    "owner": {
+      "login": "danielbmendprofissional",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348079641?v=4"
+    },
+    "description": "Workspace da Esteira: regras, ADRs e specs da plataforma de fluxo de deploy",
+    "topics": [
+      "claude-code",
+      "gitlab",
+      "orchestration-ai"
+    ],
+    "html_url": "https://github.com/danielbmendprofissional/orchestration-ai-pipeline-esteira-workspace",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T02:13:18Z",
+    "updated_at": "2026-10-26T02:13:37Z",
+    "pushed_at": "2026-10-26T02:13:30Z"
+  },
+  {
+    "id": 1438931286,
+    "name": "bb-gitlab-branch",
+    "full_name": "viartemev/bb-gitlab-branch",
+    "owner": {
+      "login": "viartemev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23705041?v=4"
+    },
+    "description": "GitLab Branch plugin for BB",
+    "topics": [
+      "bb-plugin",
+      "code-review",
+      "gitlab",
+      "merge-requests"
+    ],
+    "html_url": "https://github.com/viartemev/bb-gitlab-branch",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T20:35:29Z",
+    "updated_at": "2026-10-29T20:39:31Z",
+    "pushed_at": "2026-10-29T20:39:27Z"
+  },
+  {
+    "id": 1436321517,
+    "name": "orbit-forge",
+    "full_name": "JGoterris/orbit-forge",
+    "owner": {
+      "login": "JGoterris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44852265?v=4"
+    },
+    "description": "Merge requests and CI of GitHub and GitLab inside orbit (alpha)",
+    "topics": [
+      "ci",
+      "github",
+      "gitlab",
+      "merge-requests",
+      "orbit",
+      "orbit-plugin",
+      "tui"
+    ],
+    "html_url": "https://github.com/JGoterris/orbit-forge",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T21:58:07Z",
+    "updated_at": "2026-10-28T22:59:12Z",
+    "pushed_at": "2026-10-28T22:59:23Z"
+  },
+  {
+    "id": 1433807045,
+    "name": "orchestration-ai-infra",
+    "full_name": "danielbmendprofissional/orchestration-ai-infra",
+    "owner": {
+      "login": "danielbmendprofissional",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348079641?v=4"
+    },
+    "description": "Infra compartilhada de dev local em Docker: Postgres, Redis, RabbitMQ, Keycloak, observabilidade e gateway LLM",
+    "topics": [
+      "claude-code",
+      "gitlab",
+      "orchestration-ai"
+    ],
+    "html_url": "https://github.com/danielbmendprofissional/orchestration-ai-infra",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T02:12:55Z",
+    "updated_at": "2026-10-26T02:13:06Z",
+    "pushed_at": "2026-10-26T02:13:01Z"
+  },
+  {
+    "id": 1433807207,
+    "name": "orchestration-ai-pipeline-template-ci",
+    "full_name": "danielbmendprofissional/orchestration-ai-pipeline-template-ci",
+    "owner": {
+      "login": "danielbmendprofissional",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348079641?v=4"
+    },
+    "description": "Template de CI/CD do GitLab para .NET e Angular com Kubernetes e gate de seguranca",
+    "topics": [
+      "claude-code",
+      "gitlab",
+      "orchestration-ai"
+    ],
+    "html_url": "https://github.com/danielbmendprofissional/orchestration-ai-pipeline-template-ci",
+    "stargazers_count": 0,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T02:13:07Z",
+    "updated_at": "2026-10-26T02:13:17Z",
+    "pushed_at": "2026-10-26T02:13:13Z"
+  },
+  {
+    "id": 1433807691,
+    "name": "orchestration-ai-pipeline-esteira-frontend",
+    "full_name": "danielbmendprofissional/orchestration-ai-pipeline-esteira-frontend",
+    "owner": {
+      "login": "danielbmendprofissional",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348079641?v=4"
+    },
+    "description": "Frontend da Esteira (Angular)",
+    "topics": [
+      "claude-code",
+      "gitlab",
+      "orchestration-ai"
+    ],
+    "html_url": "https://github.com/danielbmendprofissional/orchestration-ai-pipeline-esteira-frontend",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T02:13:49Z",
+    "updated_at": "2026-10-26T02:14:00Z",
+    "pushed_at": "2026-10-26T02:13:55Z"
+  },
+  {
+    "id": 1435401702,
+    "name": "ive",
+    "full_name": "kunok2/ive",
+    "owner": {
+      "login": "kunok2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42708682?v=4"
+    },
+    "description": "An integrated automation and orchestration platform where AI agents autonomously resolve GitLab and GitHub issues.",
+    "topics": [
+      "ai-agent",
+      "automation",
+      "autonomous-agent",
+      "claude-code",
+      "developer-tools",
+      "github",
+      "gitlab",
+      "nextjs",
+      "orchestration"
+    ],
+    "html_url": "https://github.com/kunok2/ive",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T07:35:09Z",
+    "updated_at": "2026-10-28T02:22:31Z",
+    "pushed_at": "2026-10-28T02:22:27Z"
+  },
+  {
+    "id": 1433806915,
+    "name": "orchestration-ai-ops",
+    "full_name": "danielbmendprofissional/orchestration-ai-ops",
+    "owner": {
+      "login": "danielbmendprofissional",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348079641?v=4"
+    },
+    "description": "Agents, ferramentas e documentacao de operacao da IA (ecossistema GitLab)",
+    "topics": [
+      "claude-code",
+      "gitlab",
+      "orchestration-ai"
+    ],
+    "html_url": "https://github.com/danielbmendprofissional/orchestration-ai-ops",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T02:12:43Z",
+    "updated_at": "2026-10-26T02:12:55Z",
+    "pushed_at": "2026-10-26T02:12:49Z"
+  },
+  {
+    "id": 1433420551,
+    "name": "Inception-of-Things",
+    "full_name": "lassachraf/Inception-of-Things",
+    "owner": {
+      "login": "lassachraf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133993161?v=4"
+    },
+    "description": "Implementation of the 42 Inception-of-Things (IoT) project, exploring Kubernetes, K3s, K3d, Vagrant, and GitOps to build and manage containerized infrastructure.",
+    "topics": [
+      "devops",
+      "gitlab",
+      "gitops",
+      "k3d",
+      "k3s",
+      "kubernetes",
+      "vagrant"
+    ],
+    "html_url": "https://github.com/lassachraf/Inception-of-Things",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T16:50:17Z",
+    "updated_at": "2026-10-30T00:25:46Z",
+    "pushed_at": "2026-10-30T00:25:42Z"
+  }
+]

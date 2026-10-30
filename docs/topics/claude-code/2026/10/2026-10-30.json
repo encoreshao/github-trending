@@ -1,0 +1,623 @@
+[
+  {
+    "id": 1430513158,
+    "name": "BeautifulRust",
+    "full_name": "morganlinton/BeautifulRust",
+    "owner": {
+      "login": "morganlinton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41390763?v=4"
+    },
+    "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills",
+      "clippy",
+      "code-review",
+      "coding-agent",
+      "cursor",
+      "rust",
+      "style-guide"
+    ],
+    "html_url": "https://github.com/morganlinton/BeautifulRust",
+    "stargazers_count": 1418,
+    "language": "Python",
+    "forks_count": 68,
+    "open_issues_count": 4,
+    "created_at": "2026-10-23T03:01:11Z",
+    "updated_at": "2026-10-30T01:52:05Z",
+    "pushed_at": "2026-10-28T15:41:26Z"
+  },
+  {
+    "id": 1433057196,
+    "name": "ex-ussr-kinship-research",
+    "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
+    "owner": {
+      "login": "DenisSergeevitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2140110?v=4"
+    },
+    "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+    "topics": [
+      "agent-skills",
+      "archives",
+      "claude-code",
+      "codex",
+      "family-history",
+      "familysearch",
+      "genealogy",
+      "ussr"
+    ],
+    "html_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+    "stargazers_count": 1270,
+    "language": "Python",
+    "forks_count": 133,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T10:05:56Z",
+    "updated_at": "2026-10-30T01:55:26Z",
+    "pushed_at": "2026-10-29T22:28:21Z"
+  },
+  {
+    "id": 1432883796,
+    "name": "agent-purge",
+    "full_name": "ZiChuanLan/agent-purge",
+    "owner": {
+      "login": "ZiChuanLan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139305401?v=4"
+    },
+    "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "deepseek-harness",
+      "harness",
+      "omp",
+      "opencode",
+      "pi",
+      "system-prompt"
+    ],
+    "html_url": "https://github.com/ZiChuanLan/agent-purge",
+    "stargazers_count": 876,
+    "language": "JavaScript",
+    "forks_count": 641,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T06:06:02Z",
+    "updated_at": "2026-10-30T00:41:09Z",
+    "pushed_at": "2026-10-29T10:41:57Z"
+  },
+  {
+    "id": 1432859403,
+    "name": "bla",
+    "full_name": "qybaihe/bla",
+    "owner": {
+      "login": "qybaihe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137127051?v=4"
+    },
+    "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+    "topics": [
+      "adversarial-ai",
+      "claude-code",
+      "cursor",
+      "electron-security",
+      "llm-security",
+      "mcp",
+      "mcp-server",
+      "obfuscation",
+      "reverse-engineering",
+      "webassembly"
+    ],
+    "html_url": "https://github.com/qybaihe/bla",
+    "stargazers_count": 811,
+    "language": "TypeScript",
+    "forks_count": 128,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T05:25:45Z",
+    "updated_at": "2026-10-30T01:58:23Z",
+    "pushed_at": "2026-10-29T18:12:48Z"
+  },
+  {
+    "id": 1431986839,
+    "name": "bama",
+    "full_name": "daveebbelaar/bama",
+    "owner": {
+      "login": "daveebbelaar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34709402?v=4"
+    },
+    "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "app-clone",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "computer-use",
+      "liquid-glass",
+      "macos",
+      "macos-app",
+      "native-apps",
+      "skills",
+      "swift",
+      "swiftdata",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/daveebbelaar/bama",
+    "stargazers_count": 790,
+    "language": "Swift",
+    "forks_count": 118,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T08:44:36Z",
+    "updated_at": "2026-10-30T01:48:01Z",
+    "pushed_at": "2026-10-29T13:05:44Z"
+  },
+  {
+    "id": 1436323783,
+    "name": "capri-ai",
+    "full_name": "ChannelCooperStart/capri-ai",
+    "owner": {
+      "login": "ChannelCooperStart",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293966245?v=4"
+    },
+    "description": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-assistants",
+      "antigravity",
+      "autamation",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "codex",
+      "cyberpunks",
+      "edgerunners",
+      "edgerunners-2",
+      "llm",
+      "llm-agents"
+    ],
+    "html_url": "https://github.com/ChannelCooperStart/capri-ai",
+    "stargazers_count": 428,
+    "language": null,
+    "forks_count": 66,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T22:00:47Z",
+    "updated_at": "2026-10-30T01:12:58Z",
+    "pushed_at": "2026-10-29T22:59:56Z"
+  },
+  {
+    "id": 1435672472,
+    "name": "floorplan",
+    "full_name": "haydenschmitty/floorplan",
+    "owner": {
+      "login": "haydenschmitty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348570593?v=4"
+    },
+    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+    "topics": [
+      "ai-coding",
+      "architecture-diagram",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "codebase-visualization",
+      "codex",
+      "codex-plugin",
+      "developer-tools",
+      "onboarding",
+      "openai",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/haydenschmitty/floorplan",
+    "stargazers_count": 393,
+    "language": "JavaScript",
+    "forks_count": 35,
+    "open_issues_count": 13,
+    "created_at": "2026-10-27T12:03:01Z",
+    "updated_at": "2026-10-30T01:15:34Z",
+    "pushed_at": "2026-10-29T19:06:14Z"
+  },
+  {
+    "id": 1432398049,
+    "name": "uncensored-ai-api",
+    "full_name": "routerhubSI/uncensored-ai-api",
+    "owner": {
+      "login": "routerhubSI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347402468?v=4"
+    },
+    "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+    "topics": [
+      "abliterated-models",
+      "ai-api",
+      "ai-gateway",
+      "anthropic-compatible",
+      "claude-api",
+      "claude-code",
+      "cursor",
+      "deepseek-api",
+      "gemini-api",
+      "glm-api",
+      "gpt-api",
+      "grok-api",
+      "llm-api",
+      "openai-compatible",
+      "opencode",
+      "qwen-api",
+      "uncensored-ai",
+      "uncensored-ai-api",
+      "uncensored-ai-model",
+      "uncensored-llm"
+    ],
+    "html_url": "https://github.com/routerhubSI/uncensored-ai-api",
+    "stargazers_count": 368,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T16:55:17Z",
+    "updated_at": "2026-10-29T22:11:26Z",
+    "pushed_at": "2026-10-24T17:09:17Z"
+  },
+  {
+    "id": 1430742800,
+    "name": "video-editor-skills",
+    "full_name": "appariciojunior/video-editor-skills",
+    "owner": {
+      "login": "appariciojunior",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53934066?v=4"
+    },
+    "description": "Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcript cuts, vlog pacing, B-roll, music & SFX, clean captions, motion graphics, YouTube export. CC BY-NC 4.0 (no commercial use).",
+    "topics": [
+      "claude-code",
+      "claude-skills",
+      "davinci-resolve",
+      "remotion",
+      "video-editing",
+      "youtube"
+    ],
+    "html_url": "https://github.com/appariciojunior/video-editor-skills",
+    "stargazers_count": 339,
+    "language": null,
+    "forks_count": 50,
+    "open_issues_count": 2,
+    "created_at": "2026-10-23T07:51:02Z",
+    "updated_at": "2026-10-29T23:06:20Z",
+    "pushed_at": "2026-10-23T07:51:07Z"
+  },
+  {
+    "id": 1431137168,
+    "name": "whatsmyagentdoing",
+    "full_name": "Charonyuu/whatsmyagentdoing",
+    "owner": {
+      "login": "Charonyuu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88021016?v=4"
+    },
+    "description": "See what every Claude Code and Codex agent on your machine is doing — live, in a little office.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "dashboard",
+      "threejs"
+    ],
+    "html_url": "https://github.com/Charonyuu/whatsmyagentdoing",
+    "stargazers_count": 287,
+    "language": "JavaScript",
+    "forks_count": 28,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T14:15:26Z",
+    "updated_at": "2026-10-30T00:17:27Z",
+    "pushed_at": "2026-10-29T09:16:04Z"
+  },
+  {
+    "id": 1433111563,
+    "name": "kanzo",
+    "full_name": "emanuele-em/kanzo",
+    "owner": {
+      "login": "emanuele-em",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100081325?v=4"
+    },
+    "description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "kanban",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "productivity",
+      "project-management",
+      "raspberry-pi",
+      "rust",
+      "self-hosted",
+      "sqlite",
+      "task-manager"
+    ],
+    "html_url": "https://github.com/emanuele-em/kanzo",
+    "stargazers_count": 181,
+    "language": "Rust",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T11:14:03Z",
+    "updated_at": "2026-10-30T00:54:14Z",
+    "pushed_at": "2026-10-28T11:19:10Z"
+  },
+  {
+    "id": 1431238440,
+    "name": "agentring",
+    "full_name": "mutonby/agentring",
+    "owner": {
+      "login": "mutonby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30499505?v=4"
+    },
+    "description": "Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hosted, open source, no phone numbers or Twilio.",
+    "topics": [
+      "ai-agents",
+      "android",
+      "claude-code",
+      "gemini-live",
+      "livekit",
+      "mcp",
+      "mcp-server",
+      "phone-calls",
+      "self-hosted",
+      "voice-ai",
+      "voip",
+      "webrtc"
+    ],
+    "html_url": "https://github.com/mutonby/agentring",
+    "stargazers_count": 168,
+    "language": "Kotlin",
+    "forks_count": 19,
+    "open_issues_count": 2,
+    "created_at": "2026-10-23T15:44:01Z",
+    "updated_at": "2026-10-30T00:26:41Z",
+    "pushed_at": "2026-10-28T14:43:18Z"
+  },
+  {
+    "id": 1436875616,
+    "name": "vibe-knowledge",
+    "full_name": "andyhuo520/vibe-knowledge",
+    "owner": {
+      "login": "andyhuo520",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
+    },
+    "description": "Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片）",
+    "topics": [
+      "chinese",
+      "claude-code",
+      "claude-skills",
+      "explainer-video",
+      "text-to-video",
+      "threejs",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/andyhuo520/vibe-knowledge",
+    "stargazers_count": 166,
+    "language": "JavaScript",
+    "forks_count": 34,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T09:37:45Z",
+    "updated_at": "2026-10-30T01:47:13Z",
+    "pushed_at": "2026-10-28T15:30:54Z"
+  },
+  {
+    "id": 1437033043,
+    "name": "grim-prompter",
+    "full_name": "jmanico/grim-prompter",
+    "owner": {
+      "login": "jmanico",
+      "avatar_url": "https://avatars.githubusercontent.com/u/531465?v=4"
+    },
+    "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+    "topics": [
+      "ai-agents",
+      "appsec",
+      "claude-code",
+      "codex",
+      "linddun",
+      "llm",
+      "pasta",
+      "prompt-engineering",
+      "security",
+      "stride",
+      "threat-modeling"
+    ],
+    "html_url": "https://github.com/jmanico/grim-prompter",
+    "stargazers_count": 164,
+    "language": null,
+    "forks_count": 15,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T12:09:26Z",
+    "updated_at": "2026-10-30T01:47:33Z",
+    "pushed_at": "2026-10-29T20:53:55Z"
+  },
+  {
+    "id": 1434862232,
+    "name": "glm-5.3-uncensored",
+    "full_name": "Andreas698/glm-5.3-uncensored",
+    "owner": {
+      "login": "Andreas698",
+      "avatar_url": "https://avatars.githubusercontent.com/u/331912961?v=4"
+    },
+    "description": "GLM 5.3 Uncensored — 35 jailbreak prompt files, model guide and API access. One RouterHub key also covers GPT, Claude, DeepSeek, Qwen and Grok.",
+    "topics": [
+      "abliterated-models",
+      "ai-api",
+      "ai-jailbreaks",
+      "anthropic-compatible",
+      "claude-code",
+      "glm",
+      "glm-5-3",
+      "glm-5-3-jailbreak",
+      "glm-5-3-uncensored",
+      "glm-5-3-uncensored-api",
+      "jailbreak-prompts",
+      "llm-api",
+      "llm-jailbreak",
+      "model-evaluation",
+      "openai-compatible",
+      "pay-per-token",
+      "prompt-research",
+      "uncensored",
+      "uncensored-ai",
+      "uncensored-ai-model"
+    ],
+    "html_url": "https://github.com/Andreas698/glm-5.3-uncensored",
+    "stargazers_count": 130,
+    "language": "Python",
+    "forks_count": 27,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T19:51:48Z",
+    "updated_at": "2026-10-29T17:57:23Z",
+    "pushed_at": "2026-10-26T19:51:56Z"
+  },
+  {
+    "id": 1434117614,
+    "name": "anime-series-maker",
+    "full_name": "Mayzmei/anime-series-maker",
+    "owner": {
+      "login": "Mayzmei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254590542?v=4"
+    },
+    "description": "2 character sheets + 1 line of story → a finished AI anime episode. Agent skill for Claude Code / Codex, powered by Renoise MCP.",
+    "topics": [
+      "agent-skills",
+      "ai-video",
+      "anime",
+      "claude-code",
+      "codex"
+    ],
+    "html_url": "https://github.com/Mayzmei/anime-series-maker",
+    "stargazers_count": 128,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T08:43:12Z",
+    "updated_at": "2026-10-29T18:49:51Z",
+    "pushed_at": "2026-10-26T11:33:13Z"
+  },
+  {
+    "id": 1431481836,
+    "name": "napali",
+    "full_name": "Leonxlnx/napali",
+    "owner": {
+      "login": "Leonxlnx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+    },
+    "description": "A drone flight over the Na Pali coast, rendered entirely in code. No textures, images or models.",
+    "topics": [
+      "claude-code",
+      "generative-art",
+      "glsl",
+      "procedural-generation",
+      "shaders",
+      "webgl2"
+    ],
+    "html_url": "https://github.com/Leonxlnx/napali",
+    "stargazers_count": 125,
+    "language": "HTML",
+    "forks_count": 24,
+    "open_issues_count": 1,
+    "created_at": "2026-10-23T19:46:42Z",
+    "updated_at": "2026-10-30T00:49:49Z",
+    "pushed_at": "2026-10-23T19:46:49Z"
+  },
+  {
+    "id": 1434897066,
+    "name": "couch-tv",
+    "full_name": "Seagey/couch-tv",
+    "owner": {
+      "login": "Seagey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199005374?v=4"
+    },
+    "description": "Your own Google TV home screen and phone remote, with an optional Claude assistant. Set it up by handing this repo to your AI agent.",
+    "topics": [
+      "android-tv",
+      "claude-code",
+      "google-tv",
+      "home-screen"
+    ],
+    "html_url": "https://github.com/Seagey/couch-tv",
+    "stargazers_count": 112,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T20:28:54Z",
+    "updated_at": "2026-10-30T01:22:34Z",
+    "pushed_at": "2026-10-29T18:44:34Z"
+  },
+  {
+    "id": 1431719963,
+    "name": "sam3-segmentation",
+    "full_name": "lillyguisnet/sam3-segmentation",
+    "owner": {
+      "login": "lillyguisnet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76911950?v=4"
+    },
+    "description": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
+    "topics": [
+      "agent-skills",
+      "annotation",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "computer-vision",
+      "image-segmentation",
+      "instance-segmentation",
+      "sam3",
+      "segment-anything"
+    ],
+    "html_url": "https://github.com/lillyguisnet/sam3-segmentation",
+    "stargazers_count": 112,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 1,
+    "created_at": "2026-10-24T01:49:15Z",
+    "updated_at": "2026-10-29T03:41:52Z",
+    "pushed_at": "2026-10-24T02:12:32Z"
+  },
+  {
+    "id": 1434686997,
+    "name": "uncensored-ai-models",
+    "full_name": "martina9516/uncensored-ai-models",
+    "owner": {
+      "login": "martina9516",
+      "avatar_url": "https://avatars.githubusercontent.com/u/331912802?v=4"
+    },
+    "description": "Uncensored AI models from RouterHub — the website for one-key API access to Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+    "topics": [
+      "abliterated-models",
+      "ai-api",
+      "ai-gateway",
+      "anthropic-compatible",
+      "claude-api",
+      "claude-code",
+      "cursor",
+      "deepseek-api",
+      "gemini-api",
+      "glm-api",
+      "gpt-api",
+      "grok-api",
+      "llm-api",
+      "openai-compatible",
+      "opencode",
+      "qwen-api",
+      "uncensored-ai",
+      "uncensored-ai-model",
+      "uncensored-ai-models",
+      "uncensored-llm"
+    ],
+    "html_url": "https://github.com/martina9516/uncensored-ai-models",
+    "stargazers_count": 112,
+    "language": null,
+    "forks_count": 25,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T17:06:13Z",
+    "updated_at": "2026-10-27T04:47:26Z",
+    "pushed_at": "2026-10-26T17:13:07Z"
+  }
+]

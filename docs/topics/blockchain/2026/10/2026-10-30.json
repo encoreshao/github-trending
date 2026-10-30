@@ -1,0 +1,580 @@
+[
+  {
+    "id": 1436133336,
+    "name": "hackme-checkpoints",
+    "full_name": "jokeez/hackme-checkpoints",
+    "owner": {
+      "login": "jokeez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172750088?v=4"
+    },
+    "description": "Signed daily checkpoints of the HackMe blockchain, anchored in Bitcoin via OpenTimestamps — verify history yourself",
+    "topics": [
+      "blockchain",
+      "checkpoints",
+      "hackme",
+      "opentimestamps",
+      "transparency"
+    ],
+    "html_url": "https://github.com/jokeez/hackme-checkpoints",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T18:36:03Z",
+    "updated_at": "2026-10-30T00:10:12Z",
+    "pushed_at": "2026-10-30T00:10:09Z"
+  },
+  {
+    "id": 1436244503,
+    "name": "blockchain-rs",
+    "full_name": "alex-quiterio/blockchain-rs",
+    "owner": {
+      "login": "alex-quiterio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1288959?v=4"
+    },
+    "description": "A small, readable cryptocurrency in Rust: proof of work or proof of stake, signing in the browser, fees, peers that gossip and sync, and a web UI that explains every block.",
+    "topics": [
+      "axum",
+      "blockchain",
+      "cryptocurrency",
+      "domain-driven-design",
+      "learning-project",
+      "peer-to-peer",
+      "proof-of-stake",
+      "proof-of-work",
+      "rust",
+      "webcrypto"
+    ],
+    "html_url": "https://github.com/alex-quiterio/blockchain-rs",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T20:28:52Z",
+    "updated_at": "2026-10-29T11:11:54Z",
+    "pushed_at": "2026-10-29T09:53:52Z"
+  },
+  {
+    "id": 1436277292,
+    "name": "merkleforge-docs",
+    "full_name": "1888-Labs/merkleforge-docs",
+    "owner": {
+      "login": "1888-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342460669?v=4"
+    },
+    "description": "Docs and website for MerkleForge: Merkle trees and stateless proofs in Rust and TypeScript. Guides, examples, live demo, and benchmarks.",
+    "topics": [
+      "blockchain",
+      "cryptography",
+      "documentation",
+      "gpu-computing",
+      "merkle-proof",
+      "merkle-tree",
+      "quantum-computing",
+      "rust",
+      "typescript",
+      "vocs"
+    ],
+    "html_url": "https://github.com/1888-Labs/merkleforge-docs",
+    "stargazers_count": 1,
+    "language": "MDX",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T21:04:34Z",
+    "updated_at": "2026-10-29T09:04:54Z",
+    "pushed_at": "2026-10-28T02:18:03Z"
+  },
+  {
+    "id": 1437330301,
+    "name": "xrpl_did_mcp",
+    "full_name": "DuNorth595/xrpl_did_mcp",
+    "owner": {
+      "login": "DuNorth595",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273400112?v=4"
+    },
+    "description": "MCP server for did:xrpl -- W3C-compatible agent identity on the XRP Ledger",
+    "topics": [
+      "agent-identity",
+      "ai-agents",
+      "blockchain",
+      "decentralized-identity",
+      "did",
+      "did-method",
+      "did-xrpl",
+      "identity",
+      "infrastructure",
+      "machine-identity",
+      "mcp",
+      "model-context-protocol",
+      "python",
+      "verifiable-credentials",
+      "w3c-did",
+      "xls-40d",
+      "xls-70d",
+      "xrp-ledger",
+      "xrpl"
+    ],
+    "html_url": "https://github.com/DuNorth595/xrpl_did_mcp",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T16:16:20Z",
+    "updated_at": "2026-10-29T03:23:10Z",
+    "pushed_at": "2026-10-29T03:23:11Z"
+  },
+  {
+    "id": 1435331946,
+    "name": "Gansar",
+    "full_name": "watsoncore/Gansar",
+    "owner": {
+      "login": "watsoncore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322235454?v=4"
+    },
+    "description": "Blockchain OSINT and forensic analysis tool for tracing transactions, investigating wallets, and visualizing on-chain connections across multiple networks.",
+    "topics": [
+      "blockchain",
+      "blockchain-intelligence",
+      "crypto",
+      "cryptowallet",
+      "cybersec",
+      "cybersecurity",
+      "cybersecurity-tools",
+      "emma-watson",
+      "emmawatson",
+      "open-source",
+      "osint",
+      "osint-python",
+      "osint-tool",
+      "osint-toolkit",
+      "osint-tools",
+      "osinttool",
+      "tool"
+    ],
+    "html_url": "https://github.com/watsoncore/Gansar",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T06:20:10Z",
+    "updated_at": "2026-10-27T15:15:07Z",
+    "pushed_at": "2026-10-27T10:52:02Z"
+  },
+  {
+    "id": 1432597119,
+    "name": "winex-core",
+    "full_name": "WinexCoin/winex-core",
+    "owner": {
+      "login": "WinexCoin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347405677?v=4"
+    },
+    "description": "Autonomous, decentralized Layer-1 Proof-of-Work (PoW) blockchain secured by double SHA-256. Strictly capped 10M supply, zero pre-mine tax, deterministic 15-minute blocks.",
+    "topics": [
+      "bitcoin-fork",
+      "blockchain",
+      "cryptocurrency",
+      "decentralized",
+      "fair-launch",
+      "go",
+      "layer-1",
+      "mining",
+      "proof-of-work",
+      "sha256"
+    ],
+    "html_url": "https://github.com/WinexCoin/winex-core",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T21:09:43Z",
+    "updated_at": "2026-10-27T17:51:05Z",
+    "pushed_at": "2026-10-27T17:51:03Z"
+  },
+  {
+    "id": 1431731562,
+    "name": "monadproject",
+    "full_name": "salmanfidinillah/monadproject",
+    "owner": {
+      "login": "salmanfidinillah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273075767?v=4"
+    },
+    "description": "BOM OPER — A multiplayer hot-potato game for Monad Testnet, featuring on-chain bomb passes, timed rounds, and verifiable results.",
+    "topics": [
+      "blockchain",
+      "monad",
+      "monad-testnet",
+      "multiplayer-game",
+      "react",
+      "smart-contracts",
+      "solidity",
+      "typescript",
+      "web3",
+      "web3-gaming"
+    ],
+    "html_url": "https://github.com/salmanfidinillah/monadproject",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T02:10:56Z",
+    "updated_at": "2026-10-24T09:27:21Z",
+    "pushed_at": "2026-10-24T09:27:18Z"
+  },
+  {
+    "id": 1433663540,
+    "name": "credloom-main",
+    "full_name": "rizzit17/credloom-main",
+    "owner": {
+      "login": "rizzit17",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195785115?v=4"
+    },
+    "description": "Decentralized micro-lending marketplace using blockchain, AI risk assessment and smart contracts.",
+    "topics": [
+      "ai-risk-assessment",
+      "blockchain",
+      "machine-learning",
+      "microlending",
+      "smart-contracts"
+    ],
+    "html_url": "https://github.com/rizzit17/credloom-main",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T22:05:25Z",
+    "updated_at": "2026-10-29T22:42:42Z",
+    "pushed_at": "2026-10-26T07:44:58Z"
+  },
+  {
+    "id": 1434180109,
+    "name": "seedcrystal",
+    "full_name": "osmium-labs/seedcrystal",
+    "owner": {
+      "login": "osmium-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160355835?v=4"
+    },
+    "description": "Multi-coin DNS seeder for Bitcoin-protocol UTXO chains: crawls the P2P network, scores nodes, and serves the healthy ones from its own authoritative DNS server or through Cloudflare.",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "cloudflare",
+      "cryptocurrency",
+      "dns",
+      "dns-seeder",
+      "dns-server",
+      "osmium",
+      "p2p",
+      "peer-discovery",
+      "raptoreum",
+      "rust",
+      "utxo"
+    ],
+    "html_url": "https://github.com/osmium-labs/seedcrystal",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T09:42:45Z",
+    "updated_at": "2026-10-26T18:02:48Z",
+    "pushed_at": "2026-10-26T17:11:34Z"
+  },
+  {
+    "id": 1433013457,
+    "name": "web3-learning",
+    "full_name": "bilalabic/web3-learning",
+    "owner": {
+      "login": "bilalabic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66368641?v=4"
+    },
+    "description": "Archive of beginner blockchain learning projects: Sui Move 21-day challenge and a Stellar bill-splitting dApp",
+    "topics": [
+      "blockchain",
+      "learning",
+      "move",
+      "stellar",
+      "sui"
+    ],
+    "html_url": "https://github.com/bilalabic/web3-learning",
+    "stargazers_count": 1,
+    "language": "Move",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T09:10:17Z",
+    "updated_at": "2026-10-25T09:50:39Z",
+    "pushed_at": "2026-10-25T09:10:24Z"
+  },
+  {
+    "id": 1432067591,
+    "name": "parano1d-sdk",
+    "full_name": "ignotusnemo/parano1d-sdk",
+    "owner": {
+      "login": "ignotusnemo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270571917?v=4"
+    },
+    "description": "TypeScript and Rust SDK for Parano1d: native tokens, launchpad, DEX, NFTs and proof-native contracts.",
+    "topics": [
+      "blockchain",
+      "defi",
+      "nft",
+      "parano1d",
+      "post-quantum",
+      "rust",
+      "sdk",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ignotusnemo/parano1d-sdk",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T10:30:28Z",
+    "updated_at": "2026-10-24T17:25:08Z",
+    "pushed_at": "2026-10-24T10:30:44Z"
+  },
+  {
+    "id": 1438982924,
+    "name": "Chain-of-Proof-",
+    "full_name": "amankr2776/Chain-of-Proof-",
+    "owner": {
+      "login": "amankr2776",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197413832?v=4"
+    },
+    "description": "Chain of Proof is an enterprise Web3 platform solving the EV battery circular economy fraud crisis. By combining QpiAI Opt (Hamiltonian QUBO penalties to force safe recycling) and QpiAI QCloud (128-qubit quantum circuits for cryptographic nonces), we create an immutable, fraud-proof L2 ledger. Built for the 2027 EU Battery Directive.",
+    "topics": [
+      "blockchain",
+      "ev",
+      "ev-batteries",
+      "fastapi",
+      "nextjs",
+      "polygon",
+      "quantum-computing",
+      "qubo",
+      "react",
+      "sdk",
+      "supply-chain",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/amankr2776/Chain-of-Proof-",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T21:35:17Z",
+    "updated_at": "2026-10-29T23:23:07Z",
+    "pushed_at": "2026-10-29T23:23:04Z"
+  },
+  {
+    "id": 1438579571,
+    "name": "algorithmic-optimization-toolkit",
+    "full_name": "AxisFinancial/algorithmic-optimization-toolkit",
+    "owner": {
+      "login": "AxisFinancial",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337620734?v=4"
+    },
+    "description": "Algorithmic Optimization Toolkit, a software performance utility designed to analyze code complexity, benchmark runtime speeds, and refine computational workflows. It provides a seamless user experience to help developers streamline complex algorithms, reduce resource consumption, and maximize execution efficiency effortlessly.",
+    "topics": [
+      "algorithmic-optimization",
+      "blockchain",
+      "smart-contracts",
+      "test-driven-development"
+    ],
+    "html_url": "https://github.com/AxisFinancial/algorithmic-optimization-toolkit",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T15:05:56Z",
+    "updated_at": "2026-10-29T15:12:04Z",
+    "pushed_at": "2026-10-29T15:11:37Z"
+  },
+  {
+    "id": 1430697792,
+    "name": "UTXOPlay",
+    "full_name": "UTXOPlay/UTXOPlay",
+    "owner": {
+      "login": "UTXOPlay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347264323?v=4"
+    },
+    "description": "UTXOPlay game store: CKB wallet login, four playable games, Myelin replay integration and developer tools.",
+    "topics": [
+      "blockchain",
+      "ckb",
+      "gaming"
+    ],
+    "html_url": "https://github.com/UTXOPlay/UTXOPlay",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T07:03:55Z",
+    "updated_at": "2026-10-30T00:01:24Z",
+    "pushed_at": "2026-10-30T00:01:20Z"
+  },
+  {
+    "id": 1434638009,
+    "name": "gett",
+    "full_name": "naviko/gett",
+    "owner": {
+      "login": "naviko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22467046?v=4"
+    },
+    "description": "Simple utility for downloading files, extracting archives, FTP, network tools, API calls using sandboxed environments with lightweight virus scanning to keep things safe.",
+    "topics": [
+      "api",
+      "blockchain",
+      "container",
+      "curl",
+      "extractor",
+      "ftp",
+      "ftp-client",
+      "ipfs",
+      "microvm",
+      "networking",
+      "sandbox",
+      "wget",
+      "yara-x"
+    ],
+    "html_url": "https://github.com/naviko/gett",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T16:24:47Z",
+    "updated_at": "2026-10-26T19:40:57Z",
+    "pushed_at": "2026-10-26T19:41:14Z"
+  },
+  {
+    "id": 1433543055,
+    "name": "core",
+    "full_name": "qentra-protocol/core",
+    "owner": {
+      "login": "qentra-protocol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318805174?v=4"
+    },
+    "description": "Verifiable quantum randomness infrastructure for onchain applications. Core verification, deterministic mappings and portable proof records.",
+    "topics": [
+      "blockchain",
+      "cryptography",
+      "quantum-randomness",
+      "solana",
+      "typescript",
+      "verifiable-randomness"
+    ],
+    "html_url": "https://github.com/qentra-protocol/core",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T19:12:04Z",
+    "updated_at": "2026-10-27T11:41:26Z",
+    "pushed_at": "2026-10-25T19:45:08Z"
+  },
+  {
+    "id": 1431812001,
+    "name": "Top4Sec-SmartContract-RAG",
+    "full_name": "yaowcui-ai/Top4Sec-SmartContract-RAG",
+    "owner": {
+      "login": "yaowcui-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313653585?v=4"
+    },
+    "description": "四大顶会区块链智能合约论文问答系统 | LightRAG · PDF evidence · naive/mix · FastAPI · isolated MySQL",
+    "topics": [
+      "academic-papers",
+      "blockchain",
+      "fastapi",
+      "lightrag",
+      "mysql",
+      "rag",
+      "reranking",
+      "smart-contracts"
+    ],
+    "html_url": "https://github.com/yaowcui-ai/Top4Sec-SmartContract-RAG",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T04:29:32Z",
+    "updated_at": "2026-10-24T05:12:15Z",
+    "pushed_at": "2026-10-24T05:12:11Z"
+  },
+  {
+    "id": 1435696963,
+    "name": "Blockchain-Based-Academic-Certificate-Verification",
+    "full_name": "ujjwal-mic/Blockchain-Based-Academic-Certificate-Verification",
+    "owner": {
+      "login": "ujjwal-mic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58220502?v=4"
+    },
+    "description": "A certificate verification system simulating blockchain immutability via SHA-256 hashing and a local append-only ledger.",
+    "topics": [
+      "blockchain",
+      "blockchain-simulation",
+      "blockchain-technology",
+      "cryptography",
+      "javascript",
+      "nodejs",
+      "sha256"
+    ],
+    "html_url": "https://github.com/ujjwal-mic/Blockchain-Based-Academic-Certificate-Verification",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T12:25:59Z",
+    "updated_at": "2026-10-27T13:13:34Z",
+    "pushed_at": "2026-10-27T13:04:05Z"
+  },
+  {
+    "id": 1435512832,
+    "name": "LeakBench",
+    "full_name": "raizo07/LeakBench",
+    "owner": {
+      "login": "raizo07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81079370?v=4"
+    },
+    "description": "Privacy leak analyzer for Zcash — facts in, findings out. Scores transactions against 15 on-chain leak heuristics: turnstile amount disclosure, transparent legs, fee fingerprints, timing clusters.",
+    "topics": [
+      "blockchain",
+      "privacy",
+      "rust",
+      "security-tools",
+      "zcash"
+    ],
+    "html_url": "https://github.com/raizo07/LeakBench",
+    "stargazers_count": 0,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T09:27:09Z",
+    "updated_at": "2026-10-28T07:18:22Z",
+    "pushed_at": "2026-10-28T07:18:18Z"
+  },
+  {
+    "id": 1432103479,
+    "name": "exit-protocol-public",
+    "full_name": "ExitEvidenceLayer/exit-protocol-public",
+    "owner": {
+      "login": "ExitEvidenceLayer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/344404535?v=4"
+    },
+    "description": "Public documentation for EXIT: evidence-based blockchain research and monitoring. Product, technology, delivery status, roadmap and service rights.",
+    "topics": [
+      "blockchain",
+      "blockchain-research",
+      "ethereum",
+      "monitoring",
+      "provenance",
+      "security-research",
+      "solana"
+    ],
+    "html_url": "https://github.com/ExitEvidenceLayer/exit-protocol-public",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T11:16:59Z",
+    "updated_at": "2026-10-29T15:24:19Z",
+    "pushed_at": "2026-10-30T01:40:29Z"
+  }
+]

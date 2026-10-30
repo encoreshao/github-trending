@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1436445831,
+    "name": "NamiGPT",
+    "full_name": "aa1143/NamiGPT",
+    "owner": {
+      "login": "aa1143",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5190483?v=4"
+    },
+    "description": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
+    "topics": [
+      "attention",
+      "chinese",
+      "deep-learning",
+      "from-scratch",
+      "gpt-2",
+      "large-language-models",
+      "llm",
+      "pytorch",
+      "transformer",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/aa1143/NamiGPT",
+    "stargazers_count": 134,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T00:57:01Z",
+    "updated_at": "2026-10-30T01:41:59Z",
+    "pushed_at": "2026-10-28T02:50:50Z"
+  },
+  {
+    "id": 1431903389,
+    "name": "hello-llm",
+    "full_name": "DavidDingXu/hello-llm",
+    "owner": {
+      "login": "DavidDingXu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32394214?v=4"
+    },
+    "description": "手写小模型，看懂大模型。20 讲图解与代码，浏览器直接训练，无需 GPU。｜Build a tiny LLM from scratch with 20 illustrated lessons and browser training. No GPU required.",
+    "topics": [
+      "deep-learning",
+      "education",
+      "interactive-tutorial",
+      "llm",
+      "llm-from-scratch",
+      "machine-learning",
+      "pytorch",
+      "transformer",
+      "visualization"
+    ],
+    "html_url": "https://github.com/DavidDingXu/hello-llm",
+    "stargazers_count": 39,
+    "language": "HTML",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-10-24T06:51:23Z",
+    "updated_at": "2026-10-29T06:16:43Z",
+    "pushed_at": "2026-10-28T10:15:36Z"
+  },
+  {
+    "id": 1433478506,
+    "name": "attention-contact-planning",
+    "full_name": "lucidrains/attention-contact-planning",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Implementation of Attention-based Contact Planning, by Junzhe He of ETH Zürich",
+    "topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning",
+      "humanoid-robotics"
+    ],
+    "html_url": "https://github.com/lucidrains/attention-contact-planning",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T17:54:41Z",
+    "updated_at": "2026-10-27T19:39:49Z",
+    "pushed_at": "2026-10-27T19:39:46Z"
+  },
+  {
+    "id": 1435865431,
+    "name": "diff-soup",
+    "full_name": "stmorgenstern/diff-soup",
+    "owner": {
+      "login": "stmorgenstern",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63276909?v=4"
+    },
+    "description": "Multiphysics modeling, differentiable simulation, and physically-constrained machine learning in JAX using GPU-accelerated stiff solvers with sparse numerical methods ",
+    "topics": [
+      "deep-learning",
+      "differentiable",
+      "differential-equations",
+      "dynamics",
+      "fem",
+      "jax",
+      "multiphysics",
+      "partial-differential-equations",
+      "simulation",
+      "stiff-ode"
+    ],
+    "html_url": "https://github.com/stmorgenstern/diff-soup",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T14:46:18Z",
+    "updated_at": "2026-10-29T18:12:47Z",
+    "pushed_at": "2026-10-29T15:41:56Z"
+  },
+  {
+    "id": 1434829926,
+    "name": "tt-rl",
+    "full_name": "scaleresearch/tt-rl",
+    "owner": {
+      "login": "scaleresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/304091625?v=4"
+    },
+    "description": "Reinforcement learning on Tenstorrent hardware: DQN, PPO and SAC trained natively on TT-NN",
+    "topics": [
+      "atari",
+      "deep-learning",
+      "dqn",
+      "mujoco",
+      "onnx",
+      "ppo",
+      "python",
+      "reinforcement-learning",
+      "sac",
+      "tenstorrent",
+      "ttnn"
+    ],
+    "html_url": "https://github.com/scaleresearch/tt-rl",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T19:18:24Z",
+    "updated_at": "2026-10-29T17:32:13Z",
+    "pushed_at": "2026-10-27T14:01:44Z"
+  },
+  {
+    "id": 1435769581,
+    "name": "Inkhue",
+    "full_name": "TonyD365/Inkhue",
+    "owner": {
+      "login": "TonyD365",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230882215?v=4"
+    },
+    "description": "A black-and-white print that carries its own color. Print photos and documents on any B/W printer; scan them, and the color comes back.",
+    "topics": [
+      "color",
+      "cross-platform",
+      "deep-learning",
+      "halftone",
+      "image-processing",
+      "onnx",
+      "open-source",
+      "printing",
+      "pyside6",
+      "reed-solomon",
+      "scanning",
+      "steganography"
+    ],
+    "html_url": "https://github.com/TonyD365/Inkhue",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 7,
+    "created_at": "2026-10-27T13:28:42Z",
+    "updated_at": "2026-10-28T12:11:49Z",
+    "pushed_at": "2026-10-27T23:50:50Z"
+  },
+  {
+    "id": 1434370502,
+    "name": "Inside-the-Game",
+    "full_name": "mirzayasirabdullahbaig07/Inside-the-Game",
+    "owner": {
+      "login": "mirzayasirabdullahbaig07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194883236?v=4"
+    },
+    "description": "Multi-agent match intelligence built on synthetic football event data (no real Premier League data used). Built for the Inside the Game: Developer Hackathon.",
+    "topics": [
+      "agents",
+      "ai",
+      "deep-learning",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "python",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/mirzayasirabdullahbaig07/Inside-the-Game",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T12:46:11Z",
+    "updated_at": "2026-10-28T08:36:49Z",
+    "pushed_at": "2026-10-26T12:46:42Z"
+  },
+  {
+    "id": 1434549139,
+    "name": "sign-language-recognition",
+    "full_name": "Daniyal2005-dh/sign-language-recognition",
+    "owner": {
+      "login": "Daniyal2005-dh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272481076?v=4"
+    },
+    "description": "Real-time sign language recognition: webcam hand landmarks (MediaPipe) to LSTM/Transformer to words and speech. Streamlit app + train-your-own pipeline.",
+    "topics": [
+      "accessibility",
+      "asl",
+      "computer-vision",
+      "deep-learning",
+      "lstm",
+      "mediapipe",
+      "sign-language",
+      "streamlit",
+      "tensorflow",
+      "transformer"
+    ],
+    "html_url": "https://github.com/Daniyal2005-dh/sign-language-recognition",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T15:10:28Z",
+    "updated_at": "2026-10-28T19:40:41Z",
+    "pushed_at": "2026-10-26T17:28:58Z"
+  },
+  {
+    "id": 1431107166,
+    "name": "ThinkNet",
+    "full_name": "Naksh7Gupta/ThinkNet",
+    "owner": {
+      "login": "Naksh7Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216264695?v=4"
+    },
+    "description": "ThinkNet is an AI research and engineering platform to design, train, and experiment with LLMs, traditional ML, Agents training, multimodal AI, and robotics through a GUI. With AI agents, custom data pipelines, ThinkNet Datasets, simulation, and 10+ AI libraries, we aim to turn AI Thinkers into AI Builders through real-world projects.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-engineering",
+      "ai-project",
+      "ai-research",
+      "artificial-intelligence",
+      "deep-learning",
+      "llm",
+      "machine-learning",
+      "reinforcement-learning"
+    ],
+    "html_url": "https://github.com/Naksh7Gupta/ThinkNet",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-23T13:49:33Z",
+    "updated_at": "2026-10-29T11:39:48Z",
+    "pushed_at": "2026-10-29T09:22:10Z"
+  },
+  {
+    "id": 1436743676,
+    "name": "LightMyCells2-ModalityAware-UNet",
+    "full_name": "Agnuxo1/LightMyCells2-ModalityAware-UNet",
+    "owner": {
+      "login": "Agnuxo1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166046035?v=4"
+    },
+    "description": "Light My Cells 2: modality-aware five-fold U-Net predicting nucleus, mitochondria, tubulin and actin fluorescence from transmitted-light microscopy (Best Focus + MIP), with leakage-safe validation and a Grand Challenge container.",
+    "topics": [
+      "bioimage-analysis",
+      "deep-learning",
+      "fluorescence",
+      "grand-challenge",
+      "in-silico-labeling",
+      "microscopy",
+      "pytorch",
+      "unet"
+    ],
+    "html_url": "https://github.com/Agnuxo1/LightMyCells2-ModalityAware-UNet",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T07:25:18Z",
+    "updated_at": "2026-10-29T10:18:15Z",
+    "pushed_at": "2026-10-28T21:30:37Z"
+  },
+  {
+    "id": 1436981761,
+    "name": "Hand-Gesture-Recognition-Model",
+    "full_name": "saratbanik/Hand-Gesture-Recognition-Model",
+    "owner": {
+      "login": "saratbanik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205030734?v=4"
+    },
+    "description": "Deep learning-based hand gesture recognition using a CNN trained on the LEAPGestRecog dataset. Includes image prediction, model evaluation, a Streamlit web application, and an experimental OpenCV webcam demo.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "gesture-recognition",
+      "hand-gesture-recognition",
+      "image-classification",
+      "image-processing",
+      "keras",
+      "opencv",
+      "streamlit",
+      "tensorflow"
+    ],
+    "html_url": "https://github.com/saratbanik/Hand-Gesture-Recognition-Model",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T11:19:51Z",
+    "updated_at": "2026-10-29T02:48:03Z",
+    "pushed_at": "2026-10-28T16:14:41Z"
+  },
+  {
+    "id": 1436532349,
+    "name": "geovision-landuse-dl",
+    "full_name": "shashankmishra23/geovision-landuse-dl",
+    "owner": {
+      "login": "shashankmishra23",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311850634?v=4"
+    },
+    "description": "End-to-end deep learning: satellite land-use classification (EuroSAT, EfficientNet-B0, 94.5% test accuracy) with Grad-CAM, FastAPI web app and drift monitoring",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "eurosat",
+      "fastapi",
+      "grad-cam",
+      "mlops",
+      "pytorch",
+      "satellite-imagery"
+    ],
+    "html_url": "https://github.com/shashankmishra23/geovision-landuse-dl",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T02:57:57Z",
+    "updated_at": "2026-10-28T20:12:26Z",
+    "pushed_at": "2026-10-28T04:11:48Z"
+  },
+  {
+    "id": 1438533216,
+    "name": "neuroscopeai",
+    "full_name": "dmnurieli/neuroscopeai",
+    "owner": {
+      "login": "dmnurieli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228622165?v=4"
+    },
+    "description": "Learn how neural networks work by building one out of an airline, then look inside a real, fully open AI (OLMo 2 1B) running on your Mac.",
+    "topics": [
+      "backpropagation",
+      "candle",
+      "deep-learning",
+      "education",
+      "explorable-explanations",
+      "interpretability",
+      "learn-ai",
+      "llm",
+      "machine-learning",
+      "macos",
+      "metal",
+      "neural-networks",
+      "olmo",
+      "rust",
+      "swift",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/dmnurieli/neuroscopeai",
+    "stargazers_count": 2,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T14:28:23Z",
+    "updated_at": "2026-10-29T21:55:08Z",
+    "pushed_at": "2026-10-29T21:55:04Z"
+  },
+  {
+    "id": 1432832288,
+    "name": "soteria",
+    "full_name": "gavin-ho1/soteria",
+    "owner": {
+      "login": "gavin-ho1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111702279?v=4"
+    },
+    "description": "Video-based prediction of clonic seizure onset. Official implementation of \"SOTERIA: Video-based Seizure Prediction\", ICIIBMS 2026.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "epilepsy",
+      "pytorch",
+      "seizure-prediction",
+      "time-series"
+    ],
+    "html_url": "https://github.com/gavin-ho1/soteria",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T04:37:27Z",
+    "updated_at": "2026-10-28T05:05:17Z",
+    "pushed_at": "2026-10-28T05:05:14Z"
+  },
+  {
+    "id": 1436146705,
+    "name": "individual-household-electric-power-consumption",
+    "full_name": "python-is-life2022/individual-household-electric-power-consumption",
+    "owner": {
+      "login": "python-is-life2022",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193138408?v=4"
+    },
+    "description": "Exploratory Data Analysis (EDA) and deep learning-based time series forecasting of household electricity consumption using Python, Pandas, Matplotlib, ScikitLearn, and TensorFlow/Keras.",
+    "topics": [
+      "csv",
+      "data-analysis",
+      "deep-learning",
+      "electricity-consumption",
+      "exploratory-data-analysis",
+      "fully-connected-network",
+      "functional-api",
+      "keras",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "pandas",
+      "regression",
+      "tensorflow",
+      "time-series-forecasting"
+    ],
+    "html_url": "https://github.com/python-is-life2022/individual-household-electric-power-consumption",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T18:48:36Z",
+    "updated_at": "2026-10-28T22:30:27Z",
+    "pushed_at": "2026-10-28T20:24:04Z"
+  },
+  {
+    "id": 1430758615,
+    "name": "ai-research-foundations",
+    "full_name": "amirlankalm/ai-research-foundations",
+    "owner": {
+      "login": "amirlankalm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229579867?v=4"
+    },
+    "description": "A visual, intuition-first path from basic Python to AI research fundamentals: PyTorch, nanoGPT, DPO, and DeepSeekMath GRPO loss walkthrough.",
+    "topics": [
+      "ai-research",
+      "artificial-intelligence",
+      "curriculum",
+      "deep-learning",
+      "deepseek",
+      "deepseek-r1",
+      "dpo",
+      "grpo",
+      "interpretability",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "paper-walkthrough",
+      "python",
+      "pytorch",
+      "reasoning-models",
+      "reinforcement-learning",
+      "rlhf",
+      "transformers"
+    ],
+    "html_url": "https://github.com/amirlankalm/ai-research-foundations",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-10-23T08:07:37Z",
+    "updated_at": "2026-10-26T07:21:20Z",
+    "pushed_at": "2026-10-25T07:17:16Z"
+  },
+  {
+    "id": 1434796189,
+    "name": "Infectious-Net",
+    "full_name": "sepehrtaji-dev/Infectious-Net",
+    "owner": {
+      "login": "sepehrtaji-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313437808?v=4"
+    },
+    "description": "PyTorch classifier for Chickenpox, Measles, Monkeypox and Normal skin images, with duplicate-safe data splitting and a minimal Tkinter app. Educational project, not a medical device.",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "neural-network",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/sepehrtaji-dev/Infectious-Net",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-26T18:45:04Z",
+    "updated_at": "2026-10-26T20:22:05Z",
+    "pushed_at": "2026-10-26T18:48:14Z"
+  },
+  {
+    "id": 1431181945,
+    "name": "rsna-knee-abnormality-detection",
+    "full_name": "gokdenis/rsna-knee-abnormality-detection",
+    "owner": {
+      "login": "gokdenis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92694805?v=4"
+    },
+    "description": "RSNA Knee Abnormality Detection (Kaggle 2026), bronze medal: CoAtNet MIL fine-tuned with OAI MOAKS expert readings. Private LB 0.943, rank 325/6,299 (top 5.2%).",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "kaggle",
+      "medical-imaging",
+      "mri",
+      "multiple-instance-learning",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/gokdenis/rsna-knee-abnormality-detection",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T14:54:02Z",
+    "updated_at": "2026-10-28T23:29:22Z",
+    "pushed_at": "2026-10-28T23:29:19Z"
+  },
+  {
+    "id": 1431150136,
+    "name": "High-Dimensional-American-Options-Deep-Learning-vs-LSM",
+    "full_name": "Dimi-44/High-Dimensional-American-Options-Deep-Learning-vs-LSM",
+    "owner": {
+      "login": "Dimi-44",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199804232?v=4"
+    },
+    "description": "Classical Longstaff–Schwartz vs. neural-network regression for pricing Bermudan max-call options in 2–20 dimensions, validated against exact and European reference prices (PyTorch)",
+    "topics": [
+      "american-options",
+      "computational-statistics",
+      "deep-learning",
+      "financial-engineering",
+      "neural-networks",
+      "options-pricing",
+      "statistical-learning",
+      "stochastic-processes"
+    ],
+    "html_url": "https://github.com/Dimi-44/High-Dimensional-American-Options-Deep-Learning-vs-LSM",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-23T14:26:34Z",
+    "updated_at": "2026-10-26T21:12:39Z",
+    "pushed_at": "2026-10-23T15:16:24Z"
+  },
+  {
+    "id": 1432702193,
+    "name": "Machine-Learning-and-AI-in-Life-Sciences",
+    "full_name": "0503Payal/Machine-Learning-and-AI-in-Life-Sciences",
+    "owner": {
+      "login": "0503Payal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150791019?v=4"
+    },
+    "description": "Nine projects from the Machine Learning and AI in the Life Sciences lab seminar (FU Berlin) — omics ML, 3D computer vision, and geometric deep learning, each with a written report",
+    "topics": [
+      "bioinformatics",
+      "computer-vision",
+      "deep-learning",
+      "graph-neural-networks",
+      "jax",
+      "machine-learning",
+      "metabolomics",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/0503Payal/Machine-Learning-and-AI-in-Life-Sciences",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-25T00:17:59Z",
+    "updated_at": "2026-10-27T22:07:56Z",
+    "pushed_at": "2026-10-27T22:07:52Z"
+  }
+]
