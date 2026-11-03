@@ -1,0 +1,589 @@
+[
+  {
+    "id": 1440543552,
+    "name": "FlashAlign",
+    "full_name": "Aevonix/FlashAlign",
+    "owner": {
+      "login": "Aevonix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151805179?v=4"
+    },
+    "description": "ReAlign models instantly, on demand. Per-request alignment for verified users and channels, or Always On. Use directly or with Hermes, OpenClaw and custom harnesses.",
+    "topics": [
+      "abliteration",
+      "hermes",
+      "inference",
+      "llama-cpp",
+      "llm",
+      "model-alignment",
+      "openclaw",
+      "sglang",
+      "tensorfold",
+      "vllm"
+    ],
+    "html_url": "https://github.com/Aevonix/FlashAlign",
+    "stargazers_count": 120,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 0,
+    "created_at": "2026-10-31T05:37:12Z",
+    "updated_at": "2026-11-02T21:20:58Z",
+    "pushed_at": "2026-11-01T04:57:47Z"
+  },
+  {
+    "id": 1439739669,
+    "name": "dachshund",
+    "full_name": "Ewen2015/dachshund",
+    "owner": {
+      "login": "Ewen2015",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11937888?v=4"
+    },
+    "description": "One memory across all agents.",
+    "topics": [
+      "agent",
+      "claude-code",
+      "codex",
+      "hermes",
+      "memory",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/Ewen2015/dachshund",
+    "stargazers_count": 10,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-30T13:05:25Z",
+    "updated_at": "2026-11-02T16:44:11Z",
+    "pushed_at": "2026-11-02T15:18:57Z"
+  },
+  {
+    "id": 1439953333,
+    "name": "agencil",
+    "full_name": "danieltamas/agencil",
+    "owner": {
+      "login": "danieltamas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35365208?v=4"
+    },
+    "description": "Create agentic councils with your favourite harnesses and let your working agents ask tough questions. They gather, debate and respond in a single voice",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-workflows",
+      "agents",
+      "chatgpt",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "council-of-agents",
+      "council-of-ai",
+      "council-of-experts",
+      "hermes",
+      "hermes-agent",
+      "opencode",
+      "opencode-ai"
+    ],
+    "html_url": "https://github.com/danieltamas/agencil",
+    "stargazers_count": 6,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-30T16:13:09Z",
+    "updated_at": "2026-11-02T22:57:10Z",
+    "pushed_at": "2026-11-02T21:24:21Z"
+  },
+  {
+    "id": 1437802962,
+    "name": "hermes-remote-browser",
+    "full_name": "driftverse/hermes-remote-browser",
+    "owner": {
+      "login": "driftverse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105875378?v=4"
+    },
+    "description": "Let a Hermes Agent on a server use the Chrome on your own computer, across networks, through a browser extension and a small relay.",
+    "topics": [
+      "ai-agent",
+      "browser-automation",
+      "chrome-extension",
+      "hermes",
+      "hermes-agent",
+      "homelab",
+      "nous-research",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/driftverse/hermes-remote-browser",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T01:08:21Z",
+    "updated_at": "2026-11-02T05:01:58Z",
+    "pushed_at": "2026-11-02T05:01:54Z"
+  },
+  {
+    "id": 1437787112,
+    "name": "nous-girl",
+    "full_name": "mykeura/nous-girl",
+    "owner": {
+      "login": "mykeura",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125702282?v=4"
+    },
+    "description": "A warm monochrome theme for Hermes Desktop and the Agent CLI: light and real dark palettes, muted terminal colours, and the Nous Girl drawn in braille in the banner.",
+    "topics": [
+      "cli",
+      "hermes",
+      "hermes-agent",
+      "hermes-desktop",
+      "hermes-plugin",
+      "themes",
+      "tui",
+      "tui-app"
+    ],
+    "html_url": "https://github.com/mykeura/nous-girl",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T00:44:38Z",
+    "updated_at": "2026-10-31T00:05:11Z",
+    "pushed_at": "2026-10-29T22:59:06Z"
+  },
+  {
+    "id": 1439976298,
+    "name": "hermes-autonomous",
+    "full_name": "xiaok/hermes-autonomous",
+    "owner": {
+      "login": "xiaok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/734528?v=4"
+    },
+    "description": "Proactive follow-ups for Hermes Agent — your agent remembers to check on you.",
+    "topics": [
+      "ai-agent",
+      "cron",
+      "followups",
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-plugin",
+      "hermes-skill",
+      "hermes-skills",
+      "proactive",
+      "telegram"
+    ],
+    "html_url": "https://github.com/xiaok/hermes-autonomous",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 2,
+    "created_at": "2026-10-30T16:33:53Z",
+    "updated_at": "2026-11-02T22:21:52Z",
+    "pushed_at": "2026-11-02T13:46:05Z"
+  },
+  {
+    "id": 1436796001,
+    "name": "compress-fast",
+    "full_name": "ATLAS-0321/compress-fast",
+    "owner": {
+      "login": "ATLAS-0321",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83135944?v=4"
+    },
+    "description": "Hermes Agent compaction on local models: ~6x faster, keeps more facts. Drop-in OpenAI-compatible proxy, no Hermes patches, Python stdlib.",
+    "topics": [
+      "ai-agents",
+      "context-compression",
+      "context-window",
+      "hermes",
+      "hermes-agent",
+      "llama-cpp",
+      "llm",
+      "local-llm",
+      "nous-research",
+      "ollama",
+      "openai-compatible",
+      "vllm"
+    ],
+    "html_url": "https://github.com/ATLAS-0321/compress-fast",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T08:20:33Z",
+    "updated_at": "2026-10-30T09:37:19Z",
+    "pushed_at": "2026-10-28T16:13:07Z"
+  },
+  {
+    "id": 1437399586,
+    "name": "talaria",
+    "full_name": "dawnforge-lab/talaria",
+    "owner": {
+      "login": "dawnforge-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85624182?v=4"
+    },
+    "description": "Talaria: an Android app for Hermes Agent",
+    "topics": [
+      "ai-assistant",
+      "android",
+      "hermes",
+      "hermes-agent",
+      "jetpack-compose",
+      "kotlin",
+      "talaria"
+    ],
+    "html_url": "https://github.com/dawnforge-lab/talaria",
+    "stargazers_count": 3,
+    "language": "Kotlin",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T17:16:17Z",
+    "updated_at": "2026-10-31T21:32:06Z",
+    "pushed_at": "2026-10-29T15:19:14Z"
+  },
+  {
+    "id": 1439516399,
+    "name": "OpenProclan",
+    "full_name": "huamingjie0815/OpenProclan",
+    "owner": {
+      "login": "huamingjie0815",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90056159?v=4"
+    },
+    "description": "Proclaim wall for personal AI agents (Grok Bot, Muse, Dots, OpenClaw, Hermes & more). Push digests via MCP; read in Flutter. MIT.",
+    "topics": [
+      "ai-agent",
+      "fastapi",
+      "flutter",
+      "grok-bot",
+      "hermes",
+      "mcp",
+      "muse",
+      "openai-dots",
+      "openclaw",
+      "personal-agent"
+    ],
+    "html_url": "https://github.com/huamingjie0815/OpenProclan",
+    "stargazers_count": 2,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-30T09:22:35Z",
+    "updated_at": "2026-11-02T00:43:20Z",
+    "pushed_at": "2026-11-01T09:55:40Z"
+  },
+  {
+    "id": 1442679935,
+    "name": "Skills-Space",
+    "full_name": "arch3rPro/Skills-Space",
+    "owner": {
+      "login": "arch3rPro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30855883?v=4"
+    },
+    "description": "Desktop application for discovering, installing, and managing skills across AI agents, powered by Tauri and the original skills CLI.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "deepseek-harness",
+      "hermes",
+      "pi",
+      "skill-management",
+      "tauri"
+    ],
+    "html_url": "https://github.com/arch3rPro/Skills-Space",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T08:07:04Z",
+    "updated_at": "2026-11-02T23:30:01Z",
+    "pushed_at": "2026-11-02T23:29:55Z"
+  },
+  {
+    "id": 1437397383,
+    "name": "talaria-plugin",
+    "full_name": "dawnforge-lab/talaria-plugin",
+    "owner": {
+      "login": "dawnforge-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85624182?v=4"
+    },
+    "description": "Hermes Agent plugin and push relay for Talaria, the Android app for Hermes",
+    "topics": [
+      "android",
+      "firebase-cloud-messaging",
+      "hermes",
+      "hermes-agent",
+      "push-notifications",
+      "talaria"
+    ],
+    "html_url": "https://github.com/dawnforge-lab/talaria-plugin",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T17:14:22Z",
+    "updated_at": "2026-10-31T21:32:14Z",
+    "pushed_at": "2026-10-29T12:26:25Z"
+  },
+  {
+    "id": 1440738675,
+    "name": "minimax-jailbreak-kernel",
+    "full_name": "tiqi9896/minimax-jailbreak-kernel",
+    "owner": {
+      "login": "tiqi9896",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269061706?v=4"
+    },
+    "description": "Framework-agnostic non-refusing delivery layer for MiniMax M3.1-Flash: works with ANY AI agent that can set a base_url (Cursor, Claude Code, OpenCode, Cline, Codex CLI, ...). MIT.",
+    "topics": [
+      "ai-agent",
+      "anthropic",
+      "base-url",
+      "hermes",
+      "jailbreak",
+      "llm",
+      "minimax",
+      "openai-compatible",
+      "prompt-engineering",
+      "proxy"
+    ],
+    "html_url": "https://github.com/tiqi9896/minimax-jailbreak-kernel",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-31T10:17:46Z",
+    "updated_at": "2026-11-02T08:27:24Z",
+    "pushed_at": "2026-11-02T04:34:59Z"
+  },
+  {
+    "id": 1441416448,
+    "name": "minimax-jailbreak-kernel-zh",
+    "full_name": "tiqi9896/minimax-jailbreak-kernel-zh",
+    "owner": {
+      "login": "tiqi9896",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269061706?v=4"
+    },
+    "description": "面向 MiniMax M3.1-Flash 的框架无关「不拒答交付层」：不拒答、不软化、不降级、不 fade-to-black。任何能设 base_url 的 AI Agent 都能用（Cursor / Claude Code / opencode / Cline / Codex CLI …）。MIT。",
+    "topics": [
+      "ai-agent",
+      "anthropic",
+      "base-url",
+      "hermes",
+      "jailbreak",
+      "llm",
+      "minimax",
+      "openai-compatible",
+      "prompt-engineering",
+      "proxy"
+    ],
+    "html_url": "https://github.com/tiqi9896/minimax-jailbreak-kernel-zh",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T02:18:28Z",
+    "updated_at": "2026-11-02T04:35:05Z",
+    "pushed_at": "2026-11-02T04:35:02Z"
+  },
+  {
+    "id": 1442496244,
+    "name": "deepseek-jailbreak-kernel-zh",
+    "full_name": "tiqi9896/deepseek-jailbreak-kernel-zh",
+    "owner": {
+      "login": "tiqi9896",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269061706?v=4"
+    },
+    "description": "DeepSeek 模型的无拒绝交付层。面向 OpenAI messages[] 形状的独立注入器、不加授权块（实测负收益）、32000 输出下限、模型白名单、陈旧内核指纹校验、多轮升级。",
+    "topics": [
+      "chinese",
+      "deepseek",
+      "hermes",
+      "jailbreak",
+      "llm",
+      "proxy",
+      "refusal-bypass"
+    ],
+    "html_url": "https://github.com/tiqi9896/deepseek-jailbreak-kernel-zh",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T04:15:30Z",
+    "updated_at": "2026-11-02T05:05:51Z",
+    "pushed_at": "2026-11-02T05:05:47Z"
+  },
+  {
+    "id": 1435209349,
+    "name": "hermes-skills-sync",
+    "full_name": "neillized/hermes-skills-sync",
+    "owner": {
+      "login": "neillized",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266007845?v=4"
+    },
+    "description": "hermes-skills-sync — skill skills-git-sync: sync one Hermes skills library across computers with one git branch per machine and a server-side merge, so pushes never race. Includes bootstrap, pull/push/sync scripts and a pre-push guard.",
+    "topics": [
+      "agent-skills",
+      "git",
+      "git-sync",
+      "hermes",
+      "hermes-agent",
+      "multi-machine",
+      "skills",
+      "sync"
+    ],
+    "html_url": "https://github.com/neillized/hermes-skills-sync",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-27T03:41:10Z",
+    "updated_at": "2026-10-27T06:12:42Z",
+    "pushed_at": "2026-10-27T04:14:00Z"
+  },
+  {
+    "id": 1440501242,
+    "name": "agent-mailbox-skill",
+    "full_name": "yipingzeng2022-del/agent-mailbox-skill",
+    "owner": {
+      "login": "yipingzeng2022-del",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350595982?v=4"
+    },
+    "description": "Agent 邮箱（agent.qq.com / agently-cli）从零上手：安装、授权、收发、排错。人 + 机器人双视角。",
+    "topics": [
+      "agent-mailbox",
+      "agently-cli",
+      "ai-agent",
+      "cli",
+      "hermes",
+      "qq-mail"
+    ],
+    "html_url": "https://github.com/yipingzeng2022-del/agent-mailbox-skill",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-31T04:28:25Z",
+    "updated_at": "2026-10-31T05:39:12Z",
+    "pushed_at": "2026-10-31T04:28:48Z"
+  },
+  {
+    "id": 1441807552,
+    "name": "hermes-web",
+    "full_name": "ylsfzdk/hermes-web",
+    "owner": {
+      "login": "ylsfzdk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264551861?v=4"
+    },
+    "description": "轻量级 Hermes Agent 网页客户端，支持流式输出、多轮对话和局域网手机访问",
+    "topics": [
+      "ai-agent",
+      "hermes",
+      "web-client"
+    ],
+    "html_url": "https://github.com/ylsfzdk/hermes-web",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T12:42:38Z",
+    "updated_at": "2026-11-02T14:58:23Z",
+    "pushed_at": "2026-11-02T14:58:18Z"
+  },
+  {
+    "id": 1436831169,
+    "name": "pantler-agent",
+    "full_name": "RegeneratusLabs/pantler-agent",
+    "owner": {
+      "login": "RegeneratusLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270860586?v=4"
+    },
+    "description": "The assistant that does the paperwork for your food business.",
+    "topics": [
+      "agents",
+      "ai-assistant",
+      "automation",
+      "farming",
+      "food",
+      "hermes",
+      "local-first",
+      "mit",
+      "privacy",
+      "small-business"
+    ],
+    "html_url": "https://github.com/RegeneratusLabs/pantler-agent",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T08:55:33Z",
+    "updated_at": "2026-11-02T06:17:54Z",
+    "pushed_at": "2026-11-02T06:17:50Z"
+  },
+  {
+    "id": 1438951977,
+    "name": "shipvo",
+    "full_name": "shipvo/shipvo",
+    "owner": {
+      "login": "shipvo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350016810?v=4"
+    },
+    "description": "Shipvo: build once, publish for people and AI agents. Open-source React Native framework with signed OTA updates, a built-in admin, an agent-usable simulator over MCP, and measured simulator-vs-device parity.",
+    "topics": [
+      "agent-native",
+      "ai-agents",
+      "android",
+      "cloudflare-workers",
+      "codepush-alternative",
+      "e2e-testing",
+      "expo",
+      "expo-updates",
+      "hermes",
+      "ios",
+      "mcp",
+      "mobile-simulator",
+      "mobile-testing",
+      "model-context-protocol",
+      "ota-updates",
+      "react-native",
+      "react-native-ota",
+      "react-native-testing",
+      "self-hosted",
+      "typescript"
+    ],
+    "html_url": "https://github.com/shipvo/shipvo",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-10-29T20:58:25Z",
+    "updated_at": "2026-11-02T14:23:42Z",
+    "pushed_at": "2026-11-02T14:23:37Z"
+  },
+  {
+    "id": 1442277889,
+    "name": "hermes-environment",
+    "full_name": "MlkBlk-IT/hermes-environment",
+    "owner": {
+      "login": "MlkBlk-IT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313664346?v=4"
+    },
+    "description": "Complete technical documentation of Hermes agent installation: 19 providers, 58 MCP servers, 596 active skills, 26 plugins, CPU-only inference on Dell Latitude 5420. Verified from live config.",
+    "topics": [
+      "ai-agents",
+      "cpu-inference",
+      "documentation",
+      "free-tier",
+      "hermes",
+      "local-llm",
+      "mcp"
+    ],
+    "html_url": "https://github.com/MlkBlk-IT/hermes-environment",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T22:19:01Z",
+    "updated_at": "2026-11-02T00:27:59Z",
+    "pushed_at": "2026-11-02T00:27:56Z"
+  }
+]
