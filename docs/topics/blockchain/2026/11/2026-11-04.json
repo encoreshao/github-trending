@@ -1,0 +1,573 @@
+[
+  {
+    "id": 1440265034,
+    "name": "onchain-money-trail-analyzer",
+    "full_name": "Signcluengine/onchain-money-trail-analyzer",
+    "owner": {
+      "login": "Signcluengine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316878738?v=4"
+    },
+    "description": "Follow stolen crypto hop by hop across Bitcoin, Ethereum, TRON, BNB Chain and Solana. Labels where the money landed, keeps proof for every clue, writes the report.",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "crypto",
+      "ethereum",
+      "osint",
+      "tracing",
+      "tron",
+      "usdt"
+    ],
+    "html_url": "https://github.com/Signcluengine/onchain-money-trail-analyzer",
+    "stargazers_count": 173,
+    "language": "JavaScript",
+    "forks_count": 13,
+    "open_issues_count": 0,
+    "created_at": "2026-10-30T21:52:32Z",
+    "updated_at": "2026-11-03T15:53:24Z",
+    "pushed_at": "2026-11-03T15:51:59Z"
+  },
+  {
+    "id": 1439693893,
+    "name": "gitwallet",
+    "full_name": "git-wallet/gitwallet",
+    "owner": {
+      "login": "git-wallet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203325490?v=4"
+    },
+    "description": "GitWallet — non-custodial multi-chain crypto wallet for Android. 14 blockchains, AI assistant, trading bot. Keys stay on your phone.",
+    "topics": [
+      "android",
+      "bitcoin",
+      "blockchain",
+      "crypto",
+      "crypto-wallet",
+      "cryptocurrency",
+      "defi",
+      "ethereum",
+      "multichain",
+      "nft",
+      "non-custodial",
+      "wallet",
+      "web3"
+    ],
+    "html_url": "https://github.com/git-wallet/gitwallet",
+    "stargazers_count": 59,
+    "language": "JavaScript",
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-10-30T12:22:31Z",
+    "updated_at": "2026-11-02T12:01:33Z",
+    "pushed_at": "2026-10-30T12:22:39Z"
+  },
+  {
+    "id": 1443247580,
+    "name": "memechain",
+    "full_name": "larajeftic/memechain",
+    "owner": {
+      "login": "larajeftic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30015709?v=4"
+    },
+    "description": "A proof-of-work blockchain for memes. Mine, inscribe and trade with test tokens in your browser. Public testnet mined by GitHub Actions.",
+    "topics": [
+      "blockchain",
+      "browser",
+      "github-actions",
+      "javascript",
+      "memes",
+      "opentimestamps",
+      "proof-of-work",
+      "python"
+    ],
+    "html_url": "https://github.com/larajeftic/memechain",
+    "stargazers_count": 52,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T17:05:54Z",
+    "updated_at": "2026-11-03T15:00:50Z",
+    "pushed_at": "2026-11-04T00:54:23Z"
+  },
+  {
+    "id": 1444593808,
+    "name": "stolen-crypto-tracer",
+    "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
+    "owner": {
+      "login": "PatchBuilderAmplify",
+      "avatar_url": "https://avatars.githubusercontent.com/u/317164659?v=4"
+    },
+    "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+    "topics": [
+      "blockchain",
+      "crypto",
+      "exchange",
+      "osint",
+      "report",
+      "stolen-crypto",
+      "tracing",
+      "usdt"
+    ],
+    "html_url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer",
+    "stargazers_count": 36,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T17:08:02Z",
+    "updated_at": "2026-11-04T01:28:21Z",
+    "pushed_at": "2026-11-03T17:08:42Z"
+  },
+  {
+    "id": 1443480384,
+    "name": "solana-sniping-bot",
+    "full_name": "outgoingyang/solana-sniping-bot",
+    "owner": {
+      "login": "outgoingyang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210461119?v=4"
+    },
+    "description": "solana sniper bot, raydium liquidity sniper, solana jito bundle sniper, raydium cpmm sniper bot, pump fun sniper bot, anti rugpull solana bot, orca whirlpool sniper bot",
+    "topics": [
+      "amm",
+      "blockchain",
+      "node",
+      "nodejs",
+      "raydium-bot",
+      "solana-memecoin-sniper-bot",
+      "solana-snipe",
+      "typescript"
+    ],
+    "html_url": "https://github.com/outgoingyang/solana-sniping-bot",
+    "stargazers_count": 22,
+    "language": "TypeScript",
+    "forks_count": 18,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T20:59:59Z",
+    "updated_at": "2026-11-03T11:25:52Z",
+    "pushed_at": "2026-11-02T21:20:38Z"
+  },
+  {
+    "id": 1440478343,
+    "name": "ibc-ferry",
+    "full_name": "karsahq/ibc-ferry",
+    "owner": {
+      "login": "karsahq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348186784?v=4"
+    },
+    "description": "A minimal IBC v2 packet ferry for Cosmos chains",
+    "topics": [
+      "blockchain",
+      "cosmos",
+      "ibc",
+      "karsa"
+    ],
+    "html_url": "https://github.com/karsahq/ibc-ferry",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-31T03:49:44Z",
+    "updated_at": "2026-11-02T12:59:36Z",
+    "pushed_at": "2026-11-01T07:11:55Z"
+  },
+  {
+    "id": 1440225378,
+    "name": "datastream",
+    "full_name": "marcfernandezo/datastream",
+    "owner": {
+      "login": "marcfernandezo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175533701?v=4"
+    },
+    "description": "Datastream is a self-hosted, privacy-first crypto portfolio dashboard for personal use. ",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "crypto",
+      "ethereum",
+      "solana",
+      "wallet",
+      "zec"
+    ],
+    "html_url": "https://github.com/marcfernandezo/datastream",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-30T20:58:57Z",
+    "updated_at": "2026-11-01T11:52:50Z",
+    "pushed_at": "2026-11-01T11:52:47Z"
+  },
+  {
+    "id": 1439170314,
+    "name": "vibehash",
+    "full_name": "AlphaChad5000/vibehash",
+    "owner": {
+      "login": "AlphaChad5000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214675039?v=4"
+    },
+    "description": "Vibe Hash: a proof-of-useful-work cryptocurrency testnet where miners train AI models",
+    "topics": [
+      "blockchain",
+      "cryptocurrency",
+      "machine-learning",
+      "proof-of-useful-work",
+      "python"
+    ],
+    "html_url": "https://github.com/AlphaChad5000/vibehash",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-10-30T02:06:05Z",
+    "updated_at": "2026-11-03T19:52:04Z",
+    "pushed_at": "2026-11-04T01:23:02Z"
+  },
+  {
+    "id": 1442419583,
+    "name": "opencontract",
+    "full_name": "mytoandeptrai/opencontract",
+    "owner": {
+      "login": "mytoandeptrai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67469007?v=4"
+    },
+    "description": "Interact with unverified EVM smart contracts in your browser. Paste an ABI, pick a custom RPC, read and write instantly. RAM-only, no data stored.",
+    "topics": [
+      "abi",
+      "blockchain",
+      "developer-tools",
+      "ethereum",
+      "evm",
+      "remix-alternative",
+      "smart-contracts",
+      "solidity",
+      "viem",
+      "web3"
+    ],
+    "html_url": "https://github.com/mytoandeptrai/opencontract",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T02:22:13Z",
+    "updated_at": "2026-11-02T04:06:23Z",
+    "pushed_at": "2026-11-02T03:52:57Z"
+  },
+  {
+    "id": 1444963469,
+    "name": "anops-foodchain",
+    "full_name": "fekikarim/anops-foodchain",
+    "owner": {
+      "login": "fekikarim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130910868?v=4"
+    },
+    "description": "Blockchain-powered food supply chain traceability platform. ERC-721 batch passport NFTs + ERC-20 reward token (FCT), built with Truffle, Solidity, React, Vite, and ethers.js. Role-based batch lifecycle tracking from farm to table.",
+    "topics": [
+      "blockchain",
+      "dapp",
+      "erc20",
+      "erc721",
+      "ethersjs",
+      "food-supply-chain",
+      "ganache",
+      "metamask",
+      "nft",
+      "react",
+      "smart-contracts",
+      "solidity",
+      "traceability",
+      "truffle",
+      "vite",
+      "web3"
+    ],
+    "html_url": "https://github.com/fekikarim/anops-foodchain",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T23:58:41Z",
+    "updated_at": "2026-11-04T00:11:25Z",
+    "pushed_at": "2026-11-03T23:58:47Z"
+  },
+  {
+    "id": 1442249231,
+    "name": "13th-protocol-an-ai-hackathon-2026-creative-minds",
+    "full_name": "HackIndiaXYZ/13th-protocol-an-ai-hackathon-2026-creative-minds",
+    "owner": {
+      "login": "HackIndiaXYZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
+    },
+    "description": "Hackathon team repository for Creative Minds - [hackindia-team:13th-protocol-an-ai-hackathon-2026:creative-minds]",
+    "topics": [
+      "ai-ml",
+      "blockchain",
+      "cloud",
+      "cybersecurity",
+      "fintech",
+      "generative-ai",
+      "open-innovation",
+      "web3"
+    ],
+    "html_url": "https://github.com/HackIndiaXYZ/13th-protocol-an-ai-hackathon-2026-creative-minds",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T21:32:58Z",
+    "updated_at": "2026-11-01T21:51:50Z",
+    "pushed_at": "2026-11-01T21:33:00Z"
+  },
+  {
+    "id": 1437330301,
+    "name": "xrpl_did_mcp",
+    "full_name": "DuNorth595/xrpl_did_mcp",
+    "owner": {
+      "login": "DuNorth595",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273400112?v=4"
+    },
+    "description": "MCP server for did:xrpl -- W3C-compatible agent identity on the XRP Ledger",
+    "topics": [
+      "agent-identity",
+      "ai-agents",
+      "blockchain",
+      "decentralized-identity",
+      "did",
+      "did-method",
+      "did-xrpl",
+      "identity",
+      "infrastructure",
+      "machine-identity",
+      "mcp",
+      "model-context-protocol",
+      "python",
+      "verifiable-credentials",
+      "w3c-did",
+      "xls-40d",
+      "xls-70d",
+      "xrp-ledger",
+      "xrpl"
+    ],
+    "html_url": "https://github.com/DuNorth595/xrpl_did_mcp",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T16:16:20Z",
+    "updated_at": "2026-11-03T05:17:44Z",
+    "pushed_at": "2026-11-03T05:17:41Z"
+  },
+  {
+    "id": 1441508775,
+    "name": "node-tracker",
+    "full_name": "al-maisan/node-tracker",
+    "owner": {
+      "login": "al-maisan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/367773?v=4"
+    },
+    "description": "Alerts you on Telegram when your Bitcoin node falls behind the chain tip, and when it catches up. Single static Go binary; daemon, cron or systemd timer.",
+    "topics": [
+      "alerting",
+      "bitcoin",
+      "bitcoin-node",
+      "bitcoind",
+      "blockchain",
+      "cli",
+      "golang",
+      "monitoring",
+      "self-hosted",
+      "telegram"
+    ],
+    "html_url": "https://github.com/al-maisan/node-tracker",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-11-01T05:17:52Z",
+    "updated_at": "2026-11-02T14:41:46Z",
+    "pushed_at": "2026-11-02T16:35:11Z"
+  },
+  {
+    "id": 1442025097,
+    "name": "13th-protocol-an-ai-hackathon-2026-black-clover",
+    "full_name": "HackIndiaXYZ/13th-protocol-an-ai-hackathon-2026-black-clover",
+    "owner": {
+      "login": "HackIndiaXYZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196566718?v=4"
+    },
+    "description": "Hackathon team repository for Black Clover - [hackindia-team:13th-protocol-an-ai-hackathon-2026:black-clover]",
+    "topics": [
+      "ai-ml",
+      "blockchain",
+      "cloud",
+      "cybersecurity",
+      "fintech",
+      "generative-ai",
+      "open-innovation",
+      "web3"
+    ],
+    "html_url": "https://github.com/HackIndiaXYZ/13th-protocol-an-ai-hackathon-2026-black-clover",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T16:43:43Z",
+    "updated_at": "2026-11-02T12:14:09Z",
+    "pushed_at": "2026-11-01T16:43:45Z"
+  },
+  {
+    "id": 1438982924,
+    "name": "Chain-of-Proof-",
+    "full_name": "amankr2776/Chain-of-Proof-",
+    "owner": {
+      "login": "amankr2776",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197413832?v=4"
+    },
+    "description": "Chain of Proof is an enterprise Web3 platform solving the EV battery circular economy fraud crisis. By combining QpiAI Opt (Hamiltonian QUBO penalties to force safe recycling) and QpiAI QCloud (128-qubit quantum circuits for cryptographic nonces), we create an immutable, fraud-proof L2 ledger. Built for the 2027 EU Battery Directive.",
+    "topics": [
+      "blockchain",
+      "ev",
+      "ev-batteries",
+      "fastapi",
+      "nextjs",
+      "polygon",
+      "quantum-computing",
+      "qubo",
+      "react",
+      "sdk",
+      "supply-chain",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/amankr2776/Chain-of-Proof-",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T21:35:17Z",
+    "updated_at": "2026-11-02T16:55:28Z",
+    "pushed_at": "2026-11-02T16:55:24Z"
+  },
+  {
+    "id": 1438579571,
+    "name": "algorithmic-optimization-toolkit",
+    "full_name": "AxisFinancial/algorithmic-optimization-toolkit",
+    "owner": {
+      "login": "AxisFinancial",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337620734?v=4"
+    },
+    "description": "Algorithmic Optimization Toolkit, a software performance utility designed to analyze code complexity, benchmark runtime speeds, and refine computational workflows. It provides a seamless user experience to help developers streamline complex algorithms, reduce resource consumption, and maximize execution efficiency effortlessly.",
+    "topics": [
+      "algorithmic-optimization",
+      "blockchain",
+      "smart-contracts",
+      "test-driven-development"
+    ],
+    "html_url": "https://github.com/AxisFinancial/algorithmic-optimization-toolkit",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T15:05:56Z",
+    "updated_at": "2026-10-29T15:12:04Z",
+    "pushed_at": "2026-10-29T15:11:37Z"
+  },
+  {
+    "id": 1440849356,
+    "name": "aave-tracker",
+    "full_name": "pausii/aave-tracker",
+    "owner": {
+      "login": "pausii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103538448?v=4"
+    },
+    "description": "Tracks daily interest on USDT supplied to Aave V3. Encrypted data, static dashboard, no backend.",
+    "topics": [
+      "aave",
+      "blockchain",
+      "ethereum"
+    ],
+    "html_url": "https://github.com/pausii/aave-tracker",
+    "stargazers_count": 1,
+    "language": "Svelte",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-31T12:45:25Z",
+    "updated_at": "2026-10-31T14:54:36Z",
+    "pushed_at": "2026-11-03T07:21:37Z"
+  },
+  {
+    "id": 1444023258,
+    "name": "SolGuard-AI",
+    "full_name": "fathiaomar/SolGuard-AI",
+    "owner": {
+      "login": "fathiaomar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192345511?v=4"
+    },
+    "description": "An AI-powered smart contract security auditor built with Next.js, Tailwind CSS, and Solidity. Features automated vulnerability detection, severity ranking, and smart code fixes",
+    "topics": [
+      "ai",
+      "blockchain",
+      "nextjs",
+      "smart-contract-auditor",
+      "smart-contracts",
+      "solidity",
+      "tailwindcss",
+      "web3"
+    ],
+    "html_url": "https://github.com/fathiaomar/SolGuard-AI",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T08:41:32Z",
+    "updated_at": "2026-11-03T09:38:56Z",
+    "pushed_at": "2026-11-03T09:38:53Z"
+  },
+  {
+    "id": 1439016039,
+    "name": "awesome-blocknet",
+    "full_name": "blocknetprivacy/awesome-blocknet",
+    "owner": {
+      "login": "blocknetprivacy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259527111?v=4"
+    },
+    "description": "A curated list of Blocknet projects and resources. ",
+    "topics": [
+      "blockchain",
+      "blocknet",
+      "privacy"
+    ],
+    "html_url": "https://github.com/blocknetprivacy/awesome-blocknet",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T22:19:01Z",
+    "updated_at": "2026-10-31T00:29:05Z",
+    "pushed_at": "2026-10-30T18:07:24Z"
+  },
+  {
+    "id": 1438218687,
+    "name": "nebula-blockchain",
+    "full_name": "rahmatullahvibenet-sketch/nebula-blockchain",
+    "owner": {
+      "login": "rahmatullahvibenet-sketch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256296596?v=4"
+    },
+    "description": "Open-source experimental Bitcoin-style proof-of-work blockchain (pre-launch, unaudited)",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "cryptocurrency",
+      "open-source",
+      "proof-of-work",
+      "python",
+      "sha256",
+      "utxo"
+    ],
+    "html_url": "https://github.com/rahmatullahvibenet-sketch/nebula-blockchain",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T09:43:12Z",
+    "updated_at": "2026-11-02T11:14:49Z",
+    "pushed_at": "2026-11-01T07:15:08Z"
+  }
+]

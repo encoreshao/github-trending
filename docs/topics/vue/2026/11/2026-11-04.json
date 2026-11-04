@@ -1,0 +1,610 @@
+[
+  {
+    "id": 1438252332,
+    "name": "geo-monitor",
+    "full_name": "tianpengg/geo-monitor",
+    "owner": {
+      "login": "tianpengg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63383438?v=4"
+    },
+    "description": "Self-hosted AI crawler monitoring from Nginx / OpenResty access logs. FastAPI + Vue, source verification, page coverage and collector health.",
+    "topics": [
+      "ai-crawlers",
+      "crawler-monitoring",
+      "docker",
+      "fastapi",
+      "geo",
+      "nginx",
+      "openresty",
+      "self-hosted",
+      "vue"
+    ],
+    "html_url": "https://github.com/tianpengg/geo-monitor",
+    "stargazers_count": 39,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T10:15:26Z",
+    "updated_at": "2026-11-03T23:25:42Z",
+    "pushed_at": "2026-10-30T02:26:00Z"
+  },
+  {
+    "id": 1437912760,
+    "name": "oiyo",
+    "full_name": "oiyojs/oiyo",
+    "owner": {
+      "login": "oiyojs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190917000?v=4"
+    },
+    "description": "🍊 开箱即用 · 融合AI协作 · 优秀开发体验 · 超低心智成本 | 颠覆以往认知的 UniApp 增强型工程框架",
+    "topics": [
+      "uni-app",
+      "uniapp",
+      "vue",
+      "vue3"
+    ],
+    "html_url": "https://github.com/oiyojs/oiyo",
+    "stargazers_count": 17,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T03:43:56Z",
+    "updated_at": "2026-11-02T01:53:10Z",
+    "pushed_at": "2026-10-29T05:42:36Z"
+  },
+  {
+    "id": 1442713136,
+    "name": "SIMerald",
+    "full_name": "BurningSky0306/SIMerald",
+    "owner": {
+      "login": "BurningSky0306",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131687399?v=4"
+    },
+    "description": "Turn a SIM / eSIM collection kept in Notion into a public card-wall website. Self-hosted, based on the Komari Emerald theme.",
+    "topics": [
+      "docker",
+      "esim",
+      "komari",
+      "notion",
+      "self-hosted",
+      "sim-card",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/BurningSky0306/SIMerald",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T08:41:39Z",
+    "updated_at": "2026-11-03T16:19:03Z",
+    "pushed_at": "2026-11-03T09:06:46Z"
+  },
+  {
+    "id": 1437030716,
+    "name": "discord-badge-quest-completer",
+    "full_name": "draxctrl/discord-badge-quest-completer",
+    "owner": {
+      "login": "draxctrl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276309647?v=4"
+    },
+    "description": "Windows app for Discord Quests and the Game Variety and Game Time badges. An enhanced version of markterence/discord-quest-completer (MIT).",
+    "topics": [
+      "discord",
+      "discord-quests",
+      "rust",
+      "tauri",
+      "vue",
+      "windows"
+    ],
+    "html_url": "https://github.com/draxctrl/discord-badge-quest-completer",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T12:07:10Z",
+    "updated_at": "2026-10-31T16:50:00Z",
+    "pushed_at": "2026-10-28T15:14:01Z"
+  },
+  {
+    "id": 1438228946,
+    "name": "arguseye",
+    "full_name": "DarkWorldCoder/arguseye",
+    "owner": {
+      "login": "DarkWorldCoder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63191911?v=4"
+    },
+    "description": "Preview React, browser-renderable Next.js and Vue components from source. UI edit evidence for coding agents and VS Code, without starting the app.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "component-preview",
+      "cursor",
+      "developer-tools",
+      "frontend",
+      "gemini-cli",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "nextjs",
+      "react",
+      "storybook-alternative",
+      "tailwindcss",
+      "typescript",
+      "visual-regression",
+      "vscode-extension",
+      "vue"
+    ],
+    "html_url": "https://github.com/DarkWorldCoder/arguseye",
+    "stargazers_count": 7,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T09:52:44Z",
+    "updated_at": "2026-11-03T10:50:35Z",
+    "pushed_at": "2026-11-03T10:50:33Z"
+  },
+  {
+    "id": 1441817626,
+    "name": "Noktiq",
+    "full_name": "DuranGZR/Noktiq",
+    "owner": {
+      "login": "DuranGZR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116578862?v=4"
+    },
+    "description": "Point. Note. Paste. Visual feedback for React and Vue. Select UI elements, describe changes, and copy source-aware requests into your AI coding agent.",
+    "topics": [
+      "ai-coding",
+      "developer-tools",
+      "nextjs",
+      "nuxt",
+      "react",
+      "typescript",
+      "vite",
+      "vue"
+    ],
+    "html_url": "https://github.com/DuranGZR/Noktiq",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T12:54:34Z",
+    "updated_at": "2026-11-02T10:56:54Z",
+    "pushed_at": "2026-11-01T14:01:31Z"
+  },
+  {
+    "id": 1438927339,
+    "name": "stackapella",
+    "full_name": "Stackapella/stackapella",
+    "owner": {
+      "login": "Stackapella",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350008339?v=4"
+    },
+    "description": "Learn harmony and stack your own voice in the browser. Laravel, Vue (no npm) and Web Audio.",
+    "topics": [
+      "a-cappella",
+      "audioworklet",
+      "choir",
+      "harmony",
+      "laravel",
+      "music-education",
+      "pwa",
+      "self-hosted",
+      "singing",
+      "vue",
+      "web-audio"
+    ],
+    "html_url": "https://github.com/Stackapella/stackapella",
+    "stargazers_count": 4,
+    "language": "PHP",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T20:31:18Z",
+    "updated_at": "2026-11-02T07:45:27Z",
+    "pushed_at": "2026-11-02T07:45:18Z"
+  },
+  {
+    "id": 1439951489,
+    "name": "ACGN-Hub",
+    "full_name": "CidneyAurum/ACGN-Hub",
+    "owner": {
+      "login": "CidneyAurum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203533003?v=4"
+    },
+    "description": "ACGN 作品库 / library for Windows & Android：季度追番、漫画与轻小说离线阅读、Galgame 资源管理，支持便携 EXE 与 APK。",
+    "topics": [
+      "acgn",
+      "anime",
+      "light-novel",
+      "manga",
+      "portable",
+      "tauri",
+      "visual-novel",
+      "vue"
+    ],
+    "html_url": "https://github.com/CidneyAurum/ACGN-Hub",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-30T16:11:25Z",
+    "updated_at": "2026-11-02T09:48:29Z",
+    "pushed_at": "2026-11-02T08:01:54Z"
+  },
+  {
+    "id": 1443886998,
+    "name": "ui",
+    "full_name": "productdevbook/ui",
+    "owner": {
+      "login": "productdevbook",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38668796?v=4"
+    },
+    "description": "Headless components for React, Vue, Svelte and Angular. Write it once, run it four ways. Work in progress.",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "angular",
+      "base-ui",
+      "build-in-public",
+      "components",
+      "cross-framework",
+      "design-system",
+      "framework-agnostic",
+      "headless",
+      "headless-ui",
+      "react",
+      "svelte",
+      "typescript",
+      "ui-components",
+      "unstyled",
+      "vue",
+      "wai-aria"
+    ],
+    "html_url": "https://github.com/productdevbook/ui",
+    "stargazers_count": 4,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-11-03T06:13:33Z",
+    "updated_at": "2026-11-03T18:45:28Z",
+    "pushed_at": "2026-11-03T08:11:26Z"
+  },
+  {
+    "id": 1441714983,
+    "name": "wildroom",
+    "full_name": "szymonkubisa/wildroom",
+    "owner": {
+      "login": "szymonkubisa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34188206?v=4"
+    },
+    "description": "AI film studio for macOS — plan with an AI Director, generate with Kling, Veo, FLUX, LTX and ElevenLabs, cut on a Final Cut–style magnetic timeline. Claude drives it over MCP.",
+    "topics": [
+      "ai-video",
+      "claude",
+      "electron",
+      "generative-ai",
+      "macos",
+      "mcp",
+      "motion-graphics",
+      "storyboard",
+      "text-to-video",
+      "timeline",
+      "video-editor",
+      "vue"
+    ],
+    "html_url": "https://github.com/szymonkubisa/wildroom",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T10:42:41Z",
+    "updated_at": "2026-11-02T16:24:12Z",
+    "pushed_at": "2026-11-01T14:16:37Z"
+  },
+  {
+    "id": 1440661770,
+    "name": "epicwing-panel",
+    "full_name": "EpicWing/epicwing-panel",
+    "owner": {
+      "login": "EpicWing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/346878878?v=4"
+    },
+    "description": "Server management panel. Run game servers and other services in isolated Docker containers, managed from a web panel with a Go node agent.",
+    "topics": [
+      "docker",
+      "game-server",
+      "golang",
+      "pterodactyl-alternative",
+      "self-hosted",
+      "server-management",
+      "vue"
+    ],
+    "html_url": "https://github.com/EpicWing/epicwing-panel",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-10-31T08:32:14Z",
+    "updated_at": "2026-11-03T21:39:21Z",
+    "pushed_at": "2026-11-03T21:39:17Z"
+  },
+  {
+    "id": 1439028203,
+    "name": "claude-locator",
+    "full_name": "scs0209/claude-locator",
+    "owner": {
+      "login": "scs0209",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110822847?v=4"
+    },
+    "description": "Option+click any element of your dev app to open its source in Claude, Cursor, VS Code, OpenCode or Codex. React, Vue, Svelte, Solid, Preact, Astro, Angular.",
+    "topics": [
+      "ai-agents",
+      "angular",
+      "astro",
+      "claude",
+      "claude-code",
+      "click-to-component",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "devtools",
+      "locator",
+      "open-in-editor",
+      "opencode",
+      "preact",
+      "react",
+      "solidjs",
+      "svelte",
+      "vite-plugin",
+      "vscode",
+      "vue"
+    ],
+    "html_url": "https://github.com/scs0209/claude-locator",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 2,
+    "created_at": "2026-10-29T22:36:27Z",
+    "updated_at": "2026-11-02T00:17:43Z",
+    "pushed_at": "2026-11-02T00:13:16Z"
+  },
+  {
+    "id": 1441004642,
+    "name": "cat-android-box",
+    "full_name": "CHCAT1320/cat-android-box",
+    "owner": {
+      "login": "CHCAT1320",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108920403?v=4"
+    },
+    "description": "A Windows desktop toolbox for Android: app and file management, real-time Logcat, screen mirroring with bundled scrcpy, FastBoot tools, batch commands, and partition backup. Built with Tauri 2, Vue 3, and Rust.",
+    "topics": [
+      "adb",
+      "android",
+      "android-toolbox",
+      "fastboot",
+      "rust",
+      "tauri",
+      "vue",
+      "windows"
+    ],
+    "html_url": "https://github.com/CHCAT1320/cat-android-box",
+    "stargazers_count": 2,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-31T15:44:01Z",
+    "updated_at": "2026-11-03T16:28:09Z",
+    "pushed_at": "2026-11-03T16:26:45Z"
+  },
+  {
+    "id": 1439428319,
+    "name": "3D-global-Orbitails",
+    "full_name": "Xie-Fantasy/3D-global-Orbitails",
+    "owner": {
+      "login": "Xie-Fantasy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137758294?v=4"
+    },
+    "description": "3D-global-Orbitails: interactive Three.js globe for digital twins, data visualization and large-screen dashboards. Vue + React / TypeScript. 1080p demo.",
+    "topics": [
+      "3d-globe",
+      "dashboard",
+      "data-visualization",
+      "digital-twin",
+      "geospatial",
+      "logistics",
+      "react",
+      "threejs",
+      "typescript",
+      "visualization",
+      "vite",
+      "vue",
+      "webgl"
+    ],
+    "html_url": "https://github.com/Xie-Fantasy/3D-global-Orbitails",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-30T07:46:38Z",
+    "updated_at": "2026-10-31T13:03:23Z",
+    "pushed_at": "2026-10-30T09:49:13Z"
+  },
+  {
+    "id": 1441530515,
+    "name": "inertia-java",
+    "full_name": "wesleybritovlk/inertia-java",
+    "owner": {
+      "login": "wesleybritovlk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136364105?v=4"
+    },
+    "description": "Server-side Inertia.js adapter for the Java ecosystem",
+    "topics": [
+      "inertia",
+      "inertiajs",
+      "jakarta",
+      "java",
+      "javaee",
+      "javax",
+      "quarkus",
+      "react",
+      "spring-boot",
+      "svelte",
+      "vite",
+      "vue"
+    ],
+    "html_url": "https://github.com/wesleybritovlk/inertia-java",
+    "stargazers_count": 2,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T05:58:23Z",
+    "updated_at": "2026-11-03T13:51:53Z",
+    "pushed_at": "2026-11-02T03:43:05Z"
+  },
+  {
+    "id": 1440216378,
+    "name": "agent-scope",
+    "full_name": "NejaTive/agent-scope",
+    "owner": {
+      "login": "NejaTive",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120381135?v=4"
+    },
+    "description": "Local macOS app to inspect and optionally edit Claude Code & Cursor agent configuration",
+    "topics": [
+      "agent",
+      "claude-code",
+      "configuration",
+      "cursor",
+      "desktop-app",
+      "developer-tools",
+      "homebrew",
+      "homebrew-cask",
+      "macos",
+      "mcp",
+      "openai-codex",
+      "rust",
+      "tauri",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/NejaTive/agent-scope",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-30T20:47:09Z",
+    "updated_at": "2026-11-01T13:54:36Z",
+    "pushed_at": "2026-11-01T13:32:31Z"
+  },
+  {
+    "id": 1441680599,
+    "name": "class-inspection",
+    "full_name": "xingyutan42/class-inspection",
+    "owner": {
+      "login": "xingyutan42",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296345988?v=4"
+    },
+    "description": "零构建的班级课堂检查管理系统：Vue 3 + PostgreSQL RLS，选课 / 填报 / 照片 / 审批 / Excel 台账一站式",
+    "topics": [
+      "classroom-management",
+      "education",
+      "excel-export",
+      "no-build",
+      "postgresql",
+      "rls",
+      "supabase",
+      "vue"
+    ],
+    "html_url": "https://github.com/xingyutan42/class-inspection",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T09:54:49Z",
+    "updated_at": "2026-11-03T15:15:56Z",
+    "pushed_at": "2026-11-03T15:15:52Z"
+  },
+  {
+    "id": 1437395840,
+    "name": "uiround-interview-prep",
+    "full_name": "sumitsingh4411/uiround-interview-prep",
+    "owner": {
+      "login": "sumitsingh4411",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76992713?v=4"
+    },
+    "description": "UIRound: free frontend interview questions (JavaScript, React, TypeScript, machine coding and system design) you can solve in the browser with real tests. Report bugs and request features here.",
+    "topics": [
+      "angular",
+      "coding-interview",
+      "frontend-interview",
+      "frontend-interview-questions",
+      "frontend-system-design",
+      "interview-preparation",
+      "javascript-interview-questions",
+      "machine-coding",
+      "react-interview-questions",
+      "svelte",
+      "typescript",
+      "vue"
+    ],
+    "html_url": "https://github.com/sumitsingh4411/uiround-interview-prep",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T17:13:01Z",
+    "updated_at": "2026-10-31T06:08:53Z",
+    "pushed_at": "2026-10-31T06:08:48Z"
+  },
+  {
+    "id": 1441316761,
+    "name": "filtertool-desktop",
+    "full_name": "mositho/filtertool-desktop",
+    "owner": {
+      "login": "mositho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32647690?v=4"
+    },
+    "description": "Path of Exile 1 leveling filter builder",
+    "topics": [
+      "desktop-app",
+      "golang",
+      "path-of-exile",
+      "vue"
+    ],
+    "html_url": "https://github.com/mositho/filtertool-desktop",
+    "stargazers_count": 2,
+    "language": "Vue",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-31T22:51:04Z",
+    "updated_at": "2026-11-04T01:46:58Z",
+    "pushed_at": "2026-11-03T18:13:58Z"
+  },
+  {
+    "id": 1439472016,
+    "name": "liying-videomix",
+    "full_name": "liying-main/liying-videomix",
+    "owner": {
+      "login": "liying-main",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263020788?v=4"
+    },
+    "description": "厉影AI 混剪桌面版：Electron + Vue + FFmpeg，本地时间线、标题、字幕、配乐与视频合成。MIT 开源。",
+    "topics": [
+      "electron",
+      "ffmpeg",
+      "typescript",
+      "video-editing",
+      "vue"
+    ],
+    "html_url": "https://github.com/liying-main/liying-videomix",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-30T08:35:35Z",
+    "updated_at": "2026-11-02T01:20:17Z",
+    "pushed_at": "2026-10-30T08:52:39Z"
+  }
+]

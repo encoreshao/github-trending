@@ -1,0 +1,621 @@
+[
+  {
+    "id": 1439885901,
+    "name": "sapper-v2",
+    "full_name": "N1nEmAn/sapper-v2",
+    "owner": {
+      "login": "N1nEmAn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118088443?v=4"
+    },
+    "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+    "topics": [
+      "ai-agents",
+      "autonomous-agents",
+      "claude-code",
+      "ctf",
+      "llm",
+      "multi-agent",
+      "pentest"
+    ],
+    "html_url": "https://github.com/N1nEmAn/sapper-v2",
+    "stargazers_count": 664,
+    "language": "Python",
+    "forks_count": 521,
+    "open_issues_count": 1,
+    "created_at": "2026-10-30T15:12:35Z",
+    "updated_at": "2026-11-04T01:45:49Z",
+    "pushed_at": "2026-11-03T12:47:08Z"
+  },
+  {
+    "id": 1443985070,
+    "name": "agent-autoloop",
+    "full_name": "KKKKhazix/agent-autoloop",
+    "owner": {
+      "login": "KKKKhazix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
+    },
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "cli",
+      "codex",
+      "event-driven",
+      "mcp",
+      "nodejs",
+      "self-hosted",
+      "typescript",
+      "workflow"
+    ],
+    "html_url": "https://github.com/KKKKhazix/agent-autoloop",
+    "stargazers_count": 504,
+    "language": "TypeScript",
+    "forks_count": 96,
+    "open_issues_count": 2,
+    "created_at": "2026-11-03T08:02:11Z",
+    "updated_at": "2026-11-04T02:00:06Z",
+    "pushed_at": "2026-11-03T21:58:03Z"
+  },
+  {
+    "id": 1437467754,
+    "name": "cs329z-chinese",
+    "full_name": "wanghao-SunSky/cs329z-chinese",
+    "owner": {
+      "login": "wanghao-SunSky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73684879?v=4"
+    },
+    "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
+    "topics": [
+      "agent-memory",
+      "agentic-ai",
+      "ai-agents",
+      "chinese",
+      "chinese-tutorial",
+      "course-notes",
+      "cs329z",
+      "engineering-ai-agents",
+      "llm",
+      "llm-evaluation",
+      "multi-agent",
+      "python",
+      "rag",
+      "stanford",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/wanghao-SunSky/cs329z-chinese",
+    "stargazers_count": 483,
+    "language": "HTML",
+    "forks_count": 53,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T18:18:24Z",
+    "updated_at": "2026-11-04T01:49:16Z",
+    "pushed_at": "2026-10-31T10:55:35Z"
+  },
+  {
+    "id": 1437033043,
+    "name": "grim-prompter",
+    "full_name": "jmanico/grim-prompter",
+    "owner": {
+      "login": "jmanico",
+      "avatar_url": "https://avatars.githubusercontent.com/u/531465?v=4"
+    },
+    "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+    "topics": [
+      "ai-agents",
+      "appsec",
+      "claude-code",
+      "codex",
+      "linddun",
+      "llm",
+      "pasta",
+      "prompt-engineering",
+      "security",
+      "stride",
+      "threat-modeling"
+    ],
+    "html_url": "https://github.com/jmanico/grim-prompter",
+    "stargazers_count": 356,
+    "language": null,
+    "forks_count": 30,
+    "open_issues_count": 1,
+    "created_at": "2026-10-28T12:09:26Z",
+    "updated_at": "2026-11-04T00:36:59Z",
+    "pushed_at": "2026-10-29T20:53:55Z"
+  },
+  {
+    "id": 1443615366,
+    "name": "skein",
+    "full_name": "Balanov/skein",
+    "owner": {
+      "login": "Balanov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29678847?v=4"
+    },
+    "description": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "fail-closed",
+      "fencing-token",
+      "security",
+      "swarm",
+      "workflow-orchestration"
+    ],
+    "html_url": "https://github.com/Balanov/skein",
+    "stargazers_count": 261,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T23:57:05Z",
+    "updated_at": "2026-11-04T00:20:58Z",
+    "pushed_at": "2026-11-03T20:15:21Z"
+  },
+  {
+    "id": 1437694471,
+    "name": "cheap-ag",
+    "full_name": "muaaz9329/cheap-ag",
+    "owner": {
+      "login": "muaaz9329",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63157500?v=4"
+    },
+    "description": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "anthropic",
+      "cheap-llm",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "cost-optimization",
+      "deepseek",
+      "developer-tools",
+      "llm",
+      "llm-agents",
+      "mcp",
+      "mcp-server",
+      "multi-agent",
+      "opencode",
+      "opencode-go",
+      "openrouter"
+    ],
+    "html_url": "https://github.com/muaaz9329/cheap-ag",
+    "stargazers_count": 254,
+    "language": "TypeScript",
+    "forks_count": 20,
+    "open_issues_count": 4,
+    "created_at": "2026-10-28T22:26:18Z",
+    "updated_at": "2026-11-04T01:51:53Z",
+    "pushed_at": "2026-11-03T15:52:44Z"
+  },
+  {
+    "id": 1436596754,
+    "name": "tucano",
+    "full_name": "eduwxyz/tucano",
+    "owner": {
+      "login": "eduwxyz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56757180?v=4"
+    },
+    "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
+    "topics": [
+      "agent-team",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "electron",
+      "local-first",
+      "macos",
+      "mcp",
+      "multi-agent"
+    ],
+    "html_url": "https://github.com/eduwxyz/tucano",
+    "stargazers_count": 180,
+    "language": "TypeScript",
+    "forks_count": 37,
+    "open_issues_count": 32,
+    "created_at": "2026-10-28T04:27:38Z",
+    "updated_at": "2026-11-04T00:46:00Z",
+    "pushed_at": "2026-11-04T00:35:56Z"
+  },
+  {
+    "id": 1437056868,
+    "name": "my-office",
+    "full_name": "khanh020905/my-office",
+    "owner": {
+      "login": "khanh020905",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202383964?v=4"
+    },
+    "description": "Văn phòng 3D cho các phiên Claude Code · A 3D office for your Claude Code sessions",
+    "topics": [
+      "3d",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "dashboard",
+      "developer-tools",
+      "threejs",
+      "vietnam",
+      "visualization"
+    ],
+    "html_url": "https://github.com/khanh020905/my-office",
+    "stargazers_count": 169,
+    "language": "JavaScript",
+    "forks_count": 83,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T12:30:47Z",
+    "updated_at": "2026-11-04T01:17:08Z",
+    "pushed_at": "2026-11-03T16:51:17Z"
+  },
+  {
+    "id": 1441929163,
+    "name": "dyz-med-paper-skills",
+    "full_name": "duyunzhoudyz/dyz-med-paper-skills",
+    "owner": {
+      "login": "duyunzhoudyz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268640091?v=4"
+    },
+    "description": "医学论文写作与科研助手：面向中国医生和医学研究生的 32 个 Agent Skills，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊投稿与审稿修回。Medical writing & research skills.",
+    "topics": [
+      "academic-writing",
+      "agent-skills",
+      "ai-agents",
+      "biostatistics",
+      "claude-code",
+      "clinical-research",
+      "codex",
+      "literature-review",
+      "manuscript",
+      "medical-research",
+      "medical-writing",
+      "meta-analysis",
+      "pubmed",
+      "python",
+      "research-workflow",
+      "scientific-writing",
+      "systematic-review",
+      "translation"
+    ],
+    "html_url": "https://github.com/duyunzhoudyz/dyz-med-paper-skills",
+    "stargazers_count": 136,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T14:57:55Z",
+    "updated_at": "2026-11-04T01:08:32Z",
+    "pushed_at": "2026-11-01T17:13:41Z"
+  },
+  {
+    "id": 1438354363,
+    "name": "agent-office-3d",
+    "full_name": "jefferysha0627/agent-office-3d",
+    "owner": {
+      "login": "jefferysha0627",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288326927?v=4"
+    },
+    "description": "A low-poly 3D office that shows your AI coding agents' live status — idle agents sneak off to play Minecraft (no tokens used).",
+    "topics": [
+      "agent-dashboard",
+      "ai-agents",
+      "claude-code",
+      "low-poly",
+      "minecraft",
+      "mineflayer",
+      "threejs"
+    ],
+    "html_url": "https://github.com/jefferysha0627/agent-office-3d",
+    "stargazers_count": 129,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-10-29T11:55:41Z",
+    "updated_at": "2026-11-03T23:50:06Z",
+    "pushed_at": "2026-11-01T09:06:46Z"
+  },
+  {
+    "id": 1437982653,
+    "name": "minecraft-agent-harness",
+    "full_name": "yc-software/minecraft-agent-harness",
+    "owner": {
+      "login": "yc-software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
+    },
+    "description": "Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
+    "topics": [
+      "agent-harness",
+      "ai-agents",
+      "llm",
+      "minecraft",
+      "mineflayer",
+      "multi-agent"
+    ],
+    "html_url": "https://github.com/yc-software/minecraft-agent-harness",
+    "stargazers_count": 128,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 1,
+    "created_at": "2026-10-29T05:21:45Z",
+    "updated_at": "2026-11-03T20:58:12Z",
+    "pushed_at": "2026-10-29T20:30:45Z"
+  },
+  {
+    "id": 1440552115,
+    "name": "awesome-selfhosted-ai",
+    "full_name": "glincker/awesome-selfhosted-ai",
+    "owner": {
+      "login": "glincker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126224820?v=4"
+    },
+    "description": "Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.",
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "homelab",
+      "llm",
+      "local-ai",
+      "local-llm",
+      "mcp-server",
+      "ollama",
+      "open-source",
+      "privacy",
+      "rag",
+      "self-hosted",
+      "self-hosted-ai",
+      "selfhosted",
+      "vector-database"
+    ],
+    "html_url": "https://github.com/glincker/awesome-selfhosted-ai",
+    "stargazers_count": 99,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 1,
+    "created_at": "2026-10-31T05:50:40Z",
+    "updated_at": "2026-11-04T00:46:03Z",
+    "pushed_at": "2026-11-02T14:18:44Z"
+  },
+  {
+    "id": 1437595893,
+    "name": "exoproc",
+    "full_name": "w0ldan/exoproc",
+    "owner": {
+      "login": "w0ldan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35775883?v=4"
+    },
+    "description": "TypeScript toolkit for Windows x64 native systems programming, memory manipulation, and process instrumentation.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "binary-analysis",
+      "claude-code",
+      "cli",
+      "codex",
+      "decompiler",
+      "developer-tools",
+      "dynamic-analysis",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "reverse-enginnering",
+      "static-analysis"
+    ],
+    "html_url": "https://github.com/w0ldan/exoproc",
+    "stargazers_count": 94,
+    "language": "TypeScript",
+    "forks_count": 12,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T20:27:46Z",
+    "updated_at": "2026-11-02T16:19:16Z",
+    "pushed_at": "2026-10-31T11:27:51Z"
+  },
+  {
+    "id": 1444689930,
+    "name": "Capri-AI",
+    "full_name": "capri-com/Capri-AI",
+    "owner": {
+      "login": "capri-com",
+      "avatar_url": "https://avatars.githubusercontent.com/u/315618159?v=4"
+    },
+    "description": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-assistants",
+      "antigravity",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "cyberpunks",
+      "edgerunners",
+      "edgerunners-2",
+      "llm",
+      "llm-agents"
+    ],
+    "html_url": "https://github.com/capri-com/Capri-AI",
+    "stargazers_count": 83,
+    "language": "C#",
+    "forks_count": 18,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T18:37:09Z",
+    "updated_at": "2026-11-04T01:48:57Z",
+    "pushed_at": "2026-11-03T18:56:32Z"
+  },
+  {
+    "id": 1439929795,
+    "name": "elysium-chain-mcp",
+    "full_name": "ElysiumForge-Labs/elysium-chain-mcp",
+    "owner": {
+      "login": "ElysiumForge-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/349977636?v=4"
+    },
+    "description": "MCP server for AI agents to read and interact with Elysium, Kinetiq’s Arbitrum Orbit L2 on Hyperliquid",
+    "topics": [
+      "ai-agents",
+      "elysium",
+      "evm",
+      "hyperliquid",
+      "kinetiq",
+      "mcp",
+      "model-context-protocol",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ElysiumForge-Labs/elysium-chain-mcp",
+    "stargazers_count": 83,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-30T15:51:36Z",
+    "updated_at": "2026-11-04T01:56:01Z",
+    "pushed_at": "2026-10-30T16:04:18Z"
+  },
+  {
+    "id": 1438729262,
+    "name": "cedr",
+    "full_name": "Sheernox/cedr",
+    "owner": {
+      "login": "Sheernox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329747879?v=4"
+    },
+    "description": "Developer tools for humans and agents: route work to the right AI coding agent, merge multi-vendor reviews into one gate, pin the skills and MCP servers agents load, compile one setup for every agent, and monitor usage and limits.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "rust"
+    ],
+    "html_url": "https://github.com/Sheernox/cedr",
+    "stargazers_count": 65,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 3,
+    "created_at": "2026-10-29T17:13:23Z",
+    "updated_at": "2026-11-03T04:53:30Z",
+    "pushed_at": "2026-11-03T04:53:39Z"
+  },
+  {
+    "id": 1440042844,
+    "name": "decision-forge",
+    "full_name": "Juneo-Lab/decision-forge",
+    "owner": {
+      "login": "Juneo-Lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310235046?v=4"
+    },
+    "description": "Compile organizational policy into verifiable decision training data.",
+    "topics": [
+      "ai-agents",
+      "data-provenance",
+      "decision-data",
+      "fine-tuning",
+      "llm",
+      "policy-as-code",
+      "python",
+      "synthetic-data",
+      "training-data"
+    ],
+    "html_url": "https://github.com/Juneo-Lab/decision-forge",
+    "stargazers_count": 63,
+    "language": "Python",
+    "forks_count": 24,
+    "open_issues_count": 16,
+    "created_at": "2026-10-30T17:35:48Z",
+    "updated_at": "2026-11-03T19:10:34Z",
+    "pushed_at": "2026-11-03T16:43:49Z"
+  },
+  {
+    "id": 1440653898,
+    "name": "CodeRail",
+    "full_name": "wiva-hq/CodeRail",
+    "owner": {
+      "login": "wiva-hq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325477081?v=4"
+    },
+    "description": "Self-hosted remote control for your coding agents: Claude Code and Codex chats, approvals, terminals, files, git and dev-server previews for every computer you own, from the browser or your phone. One Docker container on your own server.",
+    "topics": [
+      "agent-client-protocol",
+      "ai-agents",
+      "bun",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "docker",
+      "macos",
+      "remote-control",
+      "self-hosted",
+      "svelte"
+    ],
+    "html_url": "https://github.com/wiva-hq/CodeRail",
+    "stargazers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-31T08:20:45Z",
+    "updated_at": "2026-11-03T18:22:45Z",
+    "pushed_at": "2026-11-03T18:17:31Z"
+  },
+  {
+    "id": 1441834438,
+    "name": "CludeGods",
+    "full_name": "AKamaly/CludeGods",
+    "owner": {
+      "login": "AKamaly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194506340?v=4"
+    },
+    "description": "Always-on AI Gods that work inside Claude Code, and you can talk to them. Proactive workers, computer use (browser, terminal & files), real-time voice like Jarvis, workers on a call in their own voice, Slack, and Spaces for your projects.",
+    "topics": [
+      "ai-agents",
+      "always-on-agents",
+      "claude",
+      "claude-code",
+      "macos",
+      "voice",
+      "voice-assistant",
+      "voicemode"
+    ],
+    "html_url": "https://github.com/AKamaly/CludeGods",
+    "stargazers_count": 49,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T13:13:49Z",
+    "updated_at": "2026-11-02T17:44:41Z",
+    "pushed_at": "2026-11-02T15:10:51Z"
+  },
+  {
+    "id": 1436525780,
+    "name": "rul",
+    "full_name": "rul-lang/rul",
+    "owner": {
+      "login": "rul-lang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/349117211?v=4"
+    },
+    "description": "The Rul Programming Language For AI/SI Agents.",
+    "topics": [
+      "ai-agents",
+      "binary-ir",
+      "columnar",
+      "compiler",
+      "mcp",
+      "programming-language",
+      "proof-carrying-code",
+      "rul",
+      "rust",
+      "simd",
+      "zero-trust"
+    ],
+    "html_url": "https://github.com/rul-lang/rul",
+    "stargazers_count": 47,
+    "language": "Rust",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-10-28T02:48:56Z",
+    "updated_at": "2026-11-03T10:07:04Z",
+    "pushed_at": "2026-11-03T09:51:19Z"
+  }
+]
