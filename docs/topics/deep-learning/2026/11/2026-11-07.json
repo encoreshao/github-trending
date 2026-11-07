@@ -1,0 +1,606 @@
+[
+  {
+    "id": 1440630308,
+    "name": "NextTransformer",
+    "full_name": "Interactive-Active-AI/NextTransformer",
+    "owner": {
+      "login": "Interactive-Active-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312139052?v=4"
+    },
+    "description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research.",
+    "topics": [
+      "auto-research",
+      "benchmark",
+      "deep-learning",
+      "language-models",
+      "linear-attention",
+      "llm",
+      "looped-transformer",
+      "nexttransformer",
+      "pytorch",
+      "sparse-attention",
+      "transformer"
+    ],
+    "html_url": "https://github.com/Interactive-Active-AI/NextTransformer",
+    "stargazers_count": 349,
+    "language": "Python",
+    "forks_count": 29,
+    "open_issues_count": 6,
+    "created_at": "2026-10-31T07:46:13Z",
+    "updated_at": "2026-11-07T01:14:09Z",
+    "pushed_at": "2026-11-06T19:38:41Z"
+  },
+  {
+    "id": 1442451472,
+    "name": "tiny-transformer-from-scratch",
+    "full_name": "Zguoxu/tiny-transformer-from-scratch",
+    "owner": {
+      "login": "Zguoxu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232210633?v=4"
+    },
+    "description": "A tiny Transformer built from scratch in PyTorch, with an English-to-Chinese translation demo | 用 PyTorch 从零实现的小型 Transformer，附英译中演示，帮助理解模型原理",
+    "topics": [
+      "attention-mechanism",
+      "deep-learning",
+      "educational",
+      "from-scratch",
+      "machine-translation",
+      "pytorch",
+      "transformer"
+    ],
+    "html_url": "https://github.com/Zguoxu/tiny-transformer-from-scratch",
+    "stargazers_count": 101,
+    "language": "Jupyter Notebook",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T03:08:59Z",
+    "updated_at": "2026-11-07T01:32:21Z",
+    "pushed_at": "2026-11-02T04:04:24Z"
+  },
+  {
+    "id": 1446965145,
+    "name": "microgpt",
+    "full_name": "prabeakarve/microgpt",
+    "owner": {
+      "login": "prabeakarve",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328289300?v=4"
+    },
+    "description": "A from-scratch, dependency-free GPT implementation in pure NumPy: byte-level tokenizer, multi-head self-attention, Adam trainer, and top-k sampler.",
+    "topics": [
+      "attention",
+      "deep-learning",
+      "from-scratch",
+      "gpt",
+      "language-model",
+      "llm",
+      "machine-learning",
+      "numpy",
+      "python",
+      "transformer"
+    ],
+    "html_url": "https://github.com/prabeakarve/microgpt",
+    "stargazers_count": 51,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T12:21:34Z",
+    "updated_at": "2026-11-05T13:23:31Z",
+    "pushed_at": "2026-11-05T12:26:29Z"
+  },
+  {
+    "id": 1447093060,
+    "name": "EEG-DL",
+    "full_name": "patrasc237/EEG-DL",
+    "owner": {
+      "login": "patrasc237",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328289463?v=4"
+    },
+    "description": "A deep learning library for EEG signal classification, with 26 network architectures.",
+    "topics": [
+      "classification",
+      "deep-learning",
+      "eeg",
+      "neuroscience",
+      "python",
+      "tensorflow"
+    ],
+    "html_url": "https://github.com/patrasc237/EEG-DL",
+    "stargazers_count": 50,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T14:19:24Z",
+    "updated_at": "2026-11-05T14:23:06Z",
+    "pushed_at": "2026-11-05T14:19:48Z"
+  },
+  {
+    "id": 1447088382,
+    "name": "imbalanced-dataset-sampler",
+    "full_name": "garge33limer/imbalanced-dataset-sampler",
+    "owner": {
+      "login": "garge33limer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328289399?v=4"
+    },
+    "description": "A PyTorch sampler that rebalances class frequencies during training by resampling.",
+    "topics": [
+      "deep-learning",
+      "imbalanced-data",
+      "machine-learning",
+      "python",
+      "pytorch",
+      "sampler"
+    ],
+    "html_url": "https://github.com/garge33limer/imbalanced-dataset-sampler",
+    "stargazers_count": 50,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T14:15:25Z",
+    "updated_at": "2026-11-05T14:23:08Z",
+    "pushed_at": "2026-11-05T14:15:55Z"
+  },
+  {
+    "id": 1441971743,
+    "name": "cs2-resp-wallhack-2026",
+    "full_name": "RainariesFire54079/cs2-resp-wallhack-2026",
+    "owner": {
+      "login": "RainariesFire54079",
+      "avatar_url": "https://avatars.githubusercontent.com/u/351092204?v=4"
+    },
+    "description": "Reveal every enemy position in CS2 with real-time ESP wallhack and 2D radar, showing health, armor, C4, and dropped weapons.",
+    "topics": [
+      "cs2-aim-v2",
+      "cs2-aimbot-v2-2026",
+      "cs2-silent-aimbot",
+      "cs2-skin-changer-2026",
+      "cs2-skins-free",
+      "cs2-wall-hack-2026",
+      "cs2-walls",
+      "deep-learning",
+      "machine-learning",
+      "vac-bypass-2026",
+      "wifi"
+    ],
+    "html_url": "https://github.com/RainariesFire54079/cs2-resp-wallhack-2026",
+    "stargazers_count": 33,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T15:44:20Z",
+    "updated_at": "2026-11-05T14:37:17Z",
+    "pushed_at": "2026-11-01T15:44:29Z"
+  },
+  {
+    "id": 1445228828,
+    "name": "FirstLight-Zero",
+    "full_name": "Jaasssoooonnnnn/FirstLight-Zero",
+    "owner": {
+      "login": "Jaasssoooonnnnn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176039635?v=4"
+    },
+    "description": "AlphaZero-style self-play Clash Royale. It beats a human-data imitation model",
+    "topics": [
+      "alphazero",
+      "clash-royale",
+      "deep-learning",
+      "game-ai",
+      "reinforcement-learning",
+      "self-play"
+    ],
+    "html_url": "https://github.com/Jaasssoooonnnnn/FirstLight-Zero",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T06:03:46Z",
+    "updated_at": "2026-11-06T07:19:41Z",
+    "pushed_at": "2026-11-04T16:39:43Z"
+  },
+  {
+    "id": 1443318552,
+    "name": "Conditional-Variational-Autoencoder-for-Super-Resolution-of-Fluorescence-Microscopy-",
+    "full_name": "nitin020305/Conditional-Variational-Autoencoder-for-Super-Resolution-of-Fluorescence-Microscopy-",
+    "owner": {
+      "login": "nitin020305",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246181835?v=4"
+    },
+    "description": "SR-VAE turns widefield fluorescence microscopy images into 2× super-resolved ones. It is a conditional variational autoencoder with a learned, input-conditioned sampler, so the encoder is dropped at inference. It is trained on 20,250 BioSR CCPs pairs and beats bicubic interpolation at all 9 signal levels (+7.3 dB PSNR on 135 test images). The repo ",
+    "topics": [
+      "biosr",
+      "computer-vision",
+      "conditional-variational-autoencoder",
+      "deep-learning",
+      "fluorescence-microscopy",
+      "image-reconstruction",
+      "psnr",
+      "pytorch",
+      "ssim",
+      "super-resolution",
+      "variational-autoencoder"
+    ],
+    "html_url": "https://github.com/nitin020305/Conditional-Variational-Autoencoder-for-Super-Resolution-of-Fluorescence-Microscopy-",
+    "stargazers_count": 11,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T18:12:23Z",
+    "updated_at": "2026-11-04T07:57:17Z",
+    "pushed_at": "2026-11-03T02:39:26Z"
+  },
+  {
+    "id": 1441521056,
+    "name": "nn_playground",
+    "full_name": "JackyHu2007/nn_playground",
+    "owner": {
+      "login": "JackyHu2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259257450?v=4"
+    },
+    "description": "Interactive neural network playground with MoE, LayerNorm, and gradient clipping — NumPy backend, vanilla JS frontend",
+    "topics": [
+      "deep-learning",
+      "educational",
+      "fastapi",
+      "machine-learning",
+      "mixture-of-experts",
+      "neural-network",
+      "numpy",
+      "visualization"
+    ],
+    "html_url": "https://github.com/JackyHu2007/nn_playground",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T05:41:05Z",
+    "updated_at": "2026-11-02T15:42:56Z",
+    "pushed_at": "2026-11-02T10:35:04Z"
+  },
+  {
+    "id": 1442655296,
+    "name": "sm120-nvfp4-training",
+    "full_name": "xl03-bit/sm120-nvfp4-training",
+    "owner": {
+      "login": "xl03-bit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/351367371?v=4"
+    },
+    "description": "Full NVFP4 training for GeForce RTX 50-series and RTX PRO 6000 Blackwell GPUs (SM120). Built on Infatoshi/nvfp4-sm120, with software stochastic rounding, random Hadamard transforms and six profiles for speed and memory. On one RTX 5060 Ti 16GB, validation loss fell over 2,048 full-parameter FineWeb updates of a 4.06B model.",
+    "topics": [
+      "ai",
+      "ai-training",
+      "blackwell",
+      "cuda",
+      "deep-learning",
+      "fp4",
+      "gpu",
+      "graphics-card",
+      "low-precision-training",
+      "model-training",
+      "nvfp4",
+      "pytorch",
+      "sm120",
+      "triton"
+    ],
+    "html_url": "https://github.com/xl03-bit/sm120-nvfp4-training",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T07:39:56Z",
+    "updated_at": "2026-11-04T05:28:40Z",
+    "pushed_at": "2026-11-04T05:28:35Z"
+  },
+  {
+    "id": 1444127291,
+    "name": "d2l-pytorch-crash-course",
+    "full_name": "Needy1100/d2l-pytorch-crash-course",
+    "owner": {
+      "login": "Needy1100",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292475884?v=4"
+    },
+    "description": "《动手学深度学习》（D2L）中文学习笔记与 PyTorch 代码速成八讲，适合具备 Python 基础的读者。",
+    "topics": [
+      "chinese",
+      "d2l",
+      "deep-learning",
+      "learning-materials",
+      "machine-learning",
+      "pytorch",
+      "tutorial"
+    ],
+    "html_url": "https://github.com/Needy1100/d2l-pytorch-crash-course",
+    "stargazers_count": 3,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T10:22:37Z",
+    "updated_at": "2026-11-06T17:29:51Z",
+    "pushed_at": "2026-11-06T17:29:47Z"
+  },
+  {
+    "id": 1440577002,
+    "name": "LSTA",
+    "full_name": "genmilab/LSTA",
+    "owner": {
+      "login": "genmilab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285129667?v=4"
+    },
+    "description": "Learning Where to Adapt: Learned Subspace Test-Time Adaptation (LSTA) for Medical Time Series",
+    "topics": [
+      "deep-learning",
+      "domain-adaptation",
+      "ecg",
+      "eeg",
+      "healthcare-ai",
+      "medical-time-series",
+      "personalization",
+      "physiological-signals",
+      "ptb-xl",
+      "pytorch",
+      "sleep",
+      "test-time-adaptation",
+      "time-series-classification"
+    ],
+    "html_url": "https://github.com/genmilab/LSTA",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-31T06:29:11Z",
+    "updated_at": "2026-10-31T07:22:57Z",
+    "pushed_at": "2026-10-31T06:30:04Z"
+  },
+  {
+    "id": 1444517111,
+    "name": "agri-sense",
+    "full_name": "Swapnaneel07/agri-sense",
+    "owner": {
+      "login": "Swapnaneel07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186236350?v=4"
+    },
+    "description": "Agri-Sense is a machine learning workflow for agricultural sensor data analysis and time-series forecasting.",
+    "topics": [
+      "agriculture-technology",
+      "argriculture",
+      "bilstm",
+      "cnn",
+      "deep-learning",
+      "gru",
+      "lstm",
+      "lstm-model",
+      "lstm-neural-network",
+      "lstm-neural-networks",
+      "soil-moisture"
+    ],
+    "html_url": "https://github.com/Swapnaneel07/agri-sense",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T16:02:41Z",
+    "updated_at": "2026-11-06T08:43:11Z",
+    "pushed_at": "2026-11-05T18:46:14Z"
+  },
+  {
+    "id": 1444115506,
+    "name": "Attention-Is-All-You-Need-Lecture",
+    "full_name": "matfain/Attention-Is-All-You-Need-Lecture",
+    "owner": {
+      "login": "matfain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132890076?v=4"
+    },
+    "description": "Interactive lecture on Attention Is All You Need: an offline HTML slide deck, plus the engine and workflow used to build it with a coding agent.",
+    "topics": [
+      "attention",
+      "claude-code",
+      "deep-learning",
+      "lecture",
+      "slides",
+      "transformer"
+    ],
+    "html_url": "https://github.com/matfain/Attention-Is-All-You-Need-Lecture",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T10:11:10Z",
+    "updated_at": "2026-11-06T11:16:02Z",
+    "pushed_at": "2026-11-03T10:22:45Z"
+  },
+  {
+    "id": 1444164149,
+    "name": "gpu-stack-inspector",
+    "full_name": "BhuwanJoshi-01/gpu-stack-inspector",
+    "owner": {
+      "login": "BhuwanJoshi-01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109661126?v=4"
+    },
+    "description": "Explain why your AI code uses the GPU in one Python environment but not another.",
+    "topics": [
+      "cli",
+      "conda",
+      "cuda",
+      "deep-learning",
+      "diagnostics",
+      "gpu",
+      "nvidia",
+      "python",
+      "pytorch",
+      "troubleshooting"
+    ],
+    "html_url": "https://github.com/BhuwanJoshi-01/gpu-stack-inspector",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-03T10:58:06Z",
+    "updated_at": "2026-11-05T16:56:19Z",
+    "pushed_at": "2026-11-04T05:49:14Z"
+  },
+  {
+    "id": 1446007643,
+    "name": "hunch",
+    "full_name": "sigmoid-ide/hunch",
+    "owner": {
+      "login": "sigmoid-ide",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352573315?v=4"
+    },
+    "description": "Local experiment tracking for ML, git-style: every training run saves its code, config, metrics and why you ran it, as plain files.",
+    "topics": [
+      "cli",
+      "deep-learning",
+      "experiment-management",
+      "experiment-tracking",
+      "local-first",
+      "machine-learning",
+      "mlops",
+      "python",
+      "pytorch",
+      "reproducibility",
+      "research-tools",
+      "wandb-alternative"
+    ],
+    "html_url": "https://github.com/sigmoid-ide/hunch",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T17:52:24Z",
+    "updated_at": "2026-11-06T15:19:04Z",
+    "pushed_at": "2026-11-06T15:19:00Z"
+  },
+  {
+    "id": 1445178022,
+    "name": "ai-research-engineering",
+    "full_name": "aicoursesdev/ai-research-engineering",
+    "owner": {
+      "login": "aicoursesdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352260919?v=4"
+    },
+    "description": "Build GPT from scratch in PyTorch, then pretrain, fine-tune and RL-train it: free Colab notebooks for the AI Research Engineering course",
+    "topics": [
+      "ai-course",
+      "colab",
+      "course",
+      "deep-learning",
+      "fine-tuning",
+      "gpt",
+      "jupyter-notebook",
+      "llm",
+      "machine-learning",
+      "pytorch",
+      "reinforcement-learning",
+      "transformers"
+    ],
+    "html_url": "https://github.com/aicoursesdev/ai-research-engineering",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T04:56:18Z",
+    "updated_at": "2026-11-06T17:37:35Z",
+    "pushed_at": "2026-11-06T17:37:31Z"
+  },
+  {
+    "id": 1440700289,
+    "name": "LoRA-EffSAM",
+    "full_name": "FahimFBA/LoRA-EffSAM",
+    "owner": {
+      "login": "FahimFBA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64195132?v=4"
+    },
+    "description": "Prompt-free brain tumor MRI segmentation with a parameter-efficient LoRA-adapted EfficientSAM, hybrid CNN-ViT decoder and MC-Dropout uncertainty.",
+    "topics": [
+      "brain-tumor-segmentation",
+      "deep-learning",
+      "efficientsam",
+      "explainable-ai",
+      "foundation-models",
+      "lora",
+      "medical-image-segmentation",
+      "medical-imaging",
+      "monte-carlo-dropout",
+      "mri",
+      "parameter-efficient-fine-tuning",
+      "pytorch",
+      "segment-anything",
+      "uncertainty-estimation",
+      "vision-transformer"
+    ],
+    "html_url": "https://github.com/FahimFBA/LoRA-EffSAM",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-10-31T09:25:27Z",
+    "updated_at": "2026-10-31T23:22:59Z",
+    "pushed_at": "2026-10-31T10:17:26Z"
+  },
+  {
+    "id": 1440485551,
+    "name": "TransformerShenShu",
+    "full_name": "hairen-org/TransformerShenShu",
+    "owner": {
+      "login": "hairen-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284836119?v=4"
+    },
+    "description": "铁板神数 × Transformer｜用深度学习复现铁板神数（鐵板神數 / Tieban Shenshu）起数：四柱八字 + 六亲 → 六门条文号 → 命书。42M 样本训练，验证集条号准确率 99.87%，附 safetensors 权重与命令行工具。",
+    "topics": [
+      "bazi",
+      "chinese-astrology",
+      "chinese-culture",
+      "chinese-metaphysics",
+      "deep-learning",
+      "divination",
+      "fortune-telling",
+      "i-ching",
+      "machine-learning",
+      "pytorch",
+      "safetensors",
+      "shenshu",
+      "tieban",
+      "tieban-shenshu",
+      "tiebanshenshu",
+      "transformer"
+    ],
+    "html_url": "https://github.com/hairen-org/TransformerShenShu",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-10-31T04:01:18Z",
+    "updated_at": "2026-11-06T14:40:57Z",
+    "pushed_at": "2026-10-31T06:55:05Z"
+  },
+  {
+    "id": 1446947098,
+    "name": "nnWorkbench",
+    "full_name": "MIC-DKFZ/nnWorkbench",
+    "owner": {
+      "login": "MIC-DKFZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31731892?v=4"
+    },
+    "description": "GUI and CLI for nnU-Net and nnInteractive-powered annotation. Train, validate and apply nnU-Net on labelled images, or start from unlabelled ones: create labels with nnInteractive and scribbles, then train and improve the model in iterations. ",
+    "topics": [
+      "3d-segmentation",
+      "annotation-tool",
+      "deep-learning",
+      "gui",
+      "interactive-segmentation",
+      "medical-image-segmentation",
+      "napari",
+      "nninteractive",
+      "nnunet-v2",
+      "pytorch",
+      "semantic-segmentation",
+      "sparse-annotations"
+    ],
+    "html_url": "https://github.com/MIC-DKFZ/nnWorkbench",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T12:03:36Z",
+    "updated_at": "2026-11-06T17:09:28Z",
+    "pushed_at": "2026-11-06T15:19:12Z"
+  }
+]
