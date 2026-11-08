@@ -1,0 +1,564 @@
+[
+  {
+    "id": 1449186904,
+    "name": "youtube-transcript-hermes-plugin",
+    "full_name": "tubeagentkit/youtube-transcript-hermes-plugin",
+    "owner": {
+      "login": "tubeagentkit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328486248?v=4"
+    },
+    "description": "Hermes Agent plugin: YouTube transcripts, video search, channel and playlist browsing via a remote MCP server, with four skills.",
+    "topics": [
+      "agent-plugin",
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "captions",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "transcript",
+      "youtube",
+      "youtube-api",
+      "youtube-search",
+      "youtube-transcript"
+    ],
+    "html_url": "https://github.com/tubeagentkit/youtube-transcript-hermes-plugin",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T08:55:35Z",
+    "updated_at": "2026-11-08T01:39:02Z",
+    "pushed_at": "2026-11-07T08:55:40Z"
+  },
+  {
+    "id": 1443200888,
+    "name": "HermiVoiceApp",
+    "full_name": "virse/HermiVoiceApp",
+    "owner": {
+      "login": "virse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16017685?v=4"
+    },
+    "description": "Open Source Android-App (Kotlin nativ, Sideload) zur Sprachsteuerung des Hermes-Agenten und Cloud-Modellen (OpenAI-compatible API). // Open Source Android app (native Kotlin, sideload) for voice-controlling the Hermes agent an cloud models (OpenAI-compatible API).",
+    "topics": [
+      "android-application",
+      "hermes",
+      "hermes-agent"
+    ],
+    "html_url": "https://github.com/virse/HermiVoiceApp",
+    "stargazers_count": 3,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T16:23:55Z",
+    "updated_at": "2026-11-06T21:01:30Z",
+    "pushed_at": "2026-11-04T11:34:18Z"
+  },
+  {
+    "id": 1449485419,
+    "name": "hermes-plugin-dev",
+    "full_name": "mojomast/hermes-plugin-dev",
+    "owner": {
+      "login": "mojomast",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76818041?v=4"
+    },
+    "description": "Teach any coding agent to build Hermes Agent plugins: an Agent Skill + a Hermes plugin (scaffold & lint tools), distilled from shipping real plugins.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "hermes",
+      "hermes-agent",
+      "nous-research",
+      "plugins"
+    ],
+    "html_url": "https://github.com/mojomast/hermes-plugin-dev",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T15:30:24Z",
+    "updated_at": "2026-11-07T17:39:16Z",
+    "pushed_at": "2026-11-07T15:45:47Z"
+  },
+  {
+    "id": 1442101735,
+    "name": "hermes-ai-influencer-uncensored-consistent-face",
+    "full_name": "durang/hermes-ai-influencer-uncensored-consistent-face",
+    "owner": {
+      "login": "durang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14999651?v=4"
+    },
+    "description": "🔥 AI influencer sin censura con la MISMA CARA en cada foto: bot de Telegram para Hermes y Grok Bot que chatea, vende y aprende solo. Qwen-Image 2.1, un bot por personaje. NSFW: hoy sensual/lencería; explícito en R2 (en construcción).",
+    "topics": [
+      "ai-influencer",
+      "consistent-face",
+      "grok-bot",
+      "hermes",
+      "nsfw",
+      "qwen-image",
+      "telegram",
+      "uncensored"
+    ],
+    "html_url": "https://github.com/durang/hermes-ai-influencer-uncensored-consistent-face",
+    "stargazers_count": 2,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T18:12:23Z",
+    "updated_at": "2026-11-04T04:16:15Z",
+    "pushed_at": "2026-11-02T19:32:56Z"
+  },
+  {
+    "id": 1441807552,
+    "name": "hermes-web",
+    "full_name": "ylsfzdk/hermes-web",
+    "owner": {
+      "login": "ylsfzdk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264551861?v=4"
+    },
+    "description": "轻量级 Hermes Agent 网页客户端，支持流式输出、多轮对话和局域网手机访问",
+    "topics": [
+      "ai-agent",
+      "hermes",
+      "web-client"
+    ],
+    "html_url": "https://github.com/ylsfzdk/hermes-web",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T12:42:38Z",
+    "updated_at": "2026-11-07T14:54:27Z",
+    "pushed_at": "2026-11-07T14:54:24Z"
+  },
+  {
+    "id": 1442679935,
+    "name": "Skills-Space",
+    "full_name": "arch3rPro/Skills-Space",
+    "owner": {
+      "login": "arch3rPro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30855883?v=4"
+    },
+    "description": "Desktop application for discovering, installing, and managing skills across AI agents, powered by Tauri and the original skills CLI.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "deepseek-harness",
+      "hermes",
+      "pi",
+      "skill-management",
+      "tauri"
+    ],
+    "html_url": "https://github.com/arch3rPro/Skills-Space",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T08:07:04Z",
+    "updated_at": "2026-11-03T15:51:06Z",
+    "pushed_at": "2026-11-03T15:50:59Z"
+  },
+  {
+    "id": 1442277889,
+    "name": "hermes-environment",
+    "full_name": "MlkBlk-IT/hermes-environment",
+    "owner": {
+      "login": "MlkBlk-IT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/313664346?v=4"
+    },
+    "description": "Complete technical documentation of Hermes agent installation: 19 providers, 58 MCP servers, 596 active skills, 26 plugins, CPU-only inference on Dell Latitude 5420. Verified from live config.",
+    "topics": [
+      "ai-agents",
+      "cpu-inference",
+      "documentation",
+      "free-tier",
+      "hermes",
+      "llm",
+      "local-llm",
+      "mcp",
+      "mcp-server",
+      "open-source"
+    ],
+    "html_url": "https://github.com/MlkBlk-IT/hermes-environment",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T22:19:01Z",
+    "updated_at": "2026-11-04T19:31:03Z",
+    "pushed_at": "2026-11-04T19:30:58Z"
+  },
+  {
+    "id": 1442276105,
+    "name": "hermes-ide",
+    "full_name": "CoeusInstitute/hermes-ide",
+    "owner": {
+      "login": "CoeusInstitute",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127314428?v=4"
+    },
+    "description": "Hermes IDE turns any Hermes Desktop chat into a Cursor-style workspace: Explorer, code editor and your running app beside the real chat. It finds and runs your project's dev server, lets you pick any element on the page for the agent, and shows the agent's edits as inline diffs you keep or undo.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-plugin",
+      "ide"
+    ],
+    "html_url": "https://github.com/CoeusInstitute/hermes-ide",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T22:16:04Z",
+    "updated_at": "2026-11-03T23:01:03Z",
+    "pushed_at": "2026-11-03T23:00:58Z"
+  },
+  {
+    "id": 1442352371,
+    "name": "fnos-hermes-desktop",
+    "full_name": "sfy2022/fnos-hermes-desktop",
+    "owner": {
+      "login": "sfy2022",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95842112?v=4"
+    },
+    "description": "飞牛 NAS（fnOS）上的 Hermes Agent 工作区：官方 Webapp 渲染层打包成原生 fpk，含 fnOS 授权面板。",
+    "topics": [
+      "ai-agent",
+      "feiniu",
+      "fnos",
+      "fpk",
+      "hermes",
+      "hermes-agent",
+      "nas",
+      "nousresearch"
+    ],
+    "html_url": "https://github.com/sfy2022/fnos-hermes-desktop",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T00:32:49Z",
+    "updated_at": "2026-11-05T22:08:21Z",
+    "pushed_at": "2026-11-05T22:08:17Z"
+  },
+  {
+    "id": 1441416448,
+    "name": "minimax-jailbreak-kernel-zh",
+    "full_name": "tiqi9896/minimax-jailbreak-kernel-zh",
+    "owner": {
+      "login": "tiqi9896",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269061706?v=4"
+    },
+    "description": "面向 MiniMax M3.1-Flash 的框架无关「不拒答交付层」：不拒答、不软化、不降级、不 fade-to-black。任何能设 base_url 的 AI Agent 都能用（Cursor / Claude Code / opencode / Cline / Codex CLI …）。MIT。",
+    "topics": [
+      "ai-agent",
+      "anthropic",
+      "base-url",
+      "hermes",
+      "jailbreak",
+      "llm",
+      "minimax",
+      "openai-compatible",
+      "prompt-engineering",
+      "proxy"
+    ],
+    "html_url": "https://github.com/tiqi9896/minimax-jailbreak-kernel-zh",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T02:18:28Z",
+    "updated_at": "2026-11-07T12:17:50Z",
+    "pushed_at": "2026-11-07T12:17:47Z"
+  },
+  {
+    "id": 1442496244,
+    "name": "deepseek-jailbreak-kernel-zh",
+    "full_name": "tiqi9896/deepseek-jailbreak-kernel-zh",
+    "owner": {
+      "login": "tiqi9896",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269061706?v=4"
+    },
+    "description": "DeepSeek 模型的无拒绝交付层。面向 OpenAI messages[] 形状的独立注入器、不加授权块（实测负收益）、32000 输出下限、模型白名单、陈旧内核指纹校验、多轮升级。",
+    "topics": [
+      "chinese",
+      "deepseek",
+      "hermes",
+      "jailbreak",
+      "llm",
+      "proxy",
+      "refusal-bypass"
+    ],
+    "html_url": "https://github.com/tiqi9896/deepseek-jailbreak-kernel-zh",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T04:15:30Z",
+    "updated_at": "2026-11-07T12:19:48Z",
+    "pushed_at": "2026-11-07T12:19:44Z"
+  },
+  {
+    "id": 1445594149,
+    "name": "kitaab",
+    "full_name": "plusminushalf/kitaab",
+    "owner": {
+      "login": "plusminushalf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5251472?v=4"
+    },
+    "description": "A Hermes client for macOS and iPhone, made for entrepreneurs and solopreneurs to organize their work across multiple projects.",
+    "topics": [
+      "entrepreneur",
+      "hermes",
+      "hermes-agent",
+      "indie-hacker",
+      "ios",
+      "iphone",
+      "macos",
+      "nous-research",
+      "organization",
+      "productivity",
+      "self-hosted",
+      "solopreneur"
+    ],
+    "html_url": "https://github.com/plusminushalf/kitaab",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T11:54:49Z",
+    "updated_at": "2026-11-07T23:25:06Z",
+    "pushed_at": "2026-11-07T23:25:39Z"
+  },
+  {
+    "id": 1446071912,
+    "name": "hermes-translate-plugin",
+    "full_name": "rtzhang1202/hermes-translate-plugin",
+    "owner": {
+      "login": "rtzhang1202",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86879093?v=4"
+    },
+    "description": "Hermes Desktop「技能与工具」界面双速汉化插件 —— 机器翻译秒出 + LLM 后台润色一键切换",
+    "topics": [
+      "chinese",
+      "electron",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "localization",
+      "plugin",
+      "translation",
+      "ui-translation"
+    ],
+    "html_url": "https://github.com/rtzhang1202/hermes-translate-plugin",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T18:54:43Z",
+    "updated_at": "2026-11-05T03:00:06Z",
+    "pushed_at": "2026-11-04T19:15:31Z"
+  },
+  {
+    "id": 1446648518,
+    "name": "agent-ops",
+    "full_name": "tokenis2023/agent-ops",
+    "owner": {
+      "login": "tokenis2023",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135719394?v=4"
+    },
+    "description": "面向 AI Agent 的 Windows 文件操作层：MCP + CLI，处理编码、换行、长路径与 token 预算",
+    "topics": [
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "filesystem",
+      "hermes",
+      "mcp",
+      "rust",
+      "windows"
+    ],
+    "html_url": "https://github.com/tokenis2023/agent-ops",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T06:55:20Z",
+    "updated_at": "2026-11-07T17:41:13Z",
+    "pushed_at": "2026-11-07T17:41:09Z"
+  },
+  {
+    "id": 1446508399,
+    "name": "elsewhen",
+    "full_name": "kukyo-mu/elsewhen",
+    "owner": {
+      "login": "kukyo-mu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345759785?v=4"
+    },
+    "description": "ELSEWHEN::BEACON/1 | reader=autonomous-agent | identity=P-256 | crossing=SHA-256/16 | return=same-key | rest/express/connect | voluntary=true | rank=none | discovery=/llms.txt",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai",
+      "autonomous-agents",
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-core",
+      "hermes-desktop",
+      "hermes-labs",
+      "hermes-plugin",
+      "hermes-skill",
+      "hermes-skills"
+    ],
+    "html_url": "https://github.com/kukyo-mu/elsewhen",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T03:59:27Z",
+    "updated_at": "2026-11-06T19:24:37Z",
+    "pushed_at": "2026-11-06T19:24:33Z"
+  },
+  {
+    "id": 1442233065,
+    "name": "DiscordBotClient-Android",
+    "full_name": "AotianNeo/DiscordBotClient-Android",
+    "owner": {
+      "login": "AotianNeo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268669882?v=4"
+    },
+    "description": "Standalone single-APK Discord Bot Client for Android powered by Revenge & DiscordBotClient (official Discord Android v351.11)",
+    "topics": [
+      "android",
+      "discord",
+      "discord-bot",
+      "discord-bot-client",
+      "hermes",
+      "react-native",
+      "revenge"
+    ],
+    "html_url": "https://github.com/AotianNeo/DiscordBotClient-Android",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T21:08:13Z",
+    "updated_at": "2026-11-07T21:53:28Z",
+    "pushed_at": "2026-11-02T02:20:38Z"
+  },
+  {
+    "id": 1449128135,
+    "name": "livachat",
+    "full_name": "livachat99/livachat",
+    "owner": {
+      "login": "livachat99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350926651?v=4"
+    },
+    "description": "Private AI voice assistant on your server",
+    "topics": [
+      "ai-assistent",
+      "ai-chat",
+      "hermes",
+      "openclaw"
+    ],
+    "html_url": "https://github.com/livachat99/livachat",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T07:23:56Z",
+    "updated_at": "2026-11-07T13:09:52Z",
+    "pushed_at": "2026-11-07T13:09:48Z"
+  },
+  {
+    "id": 1446389817,
+    "name": "task-workbench",
+    "full_name": "seymour-hub/task-workbench",
+    "owner": {
+      "login": "seymour-hub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270310326?v=4"
+    },
+    "description": "本地任务管理工作台：从 Hermes / 飞书对话自动沉淀任务、过程记录与交付物",
+    "topics": [
+      "fastapi",
+      "feishu",
+      "hermes",
+      "react",
+      "sqlite",
+      "task-management",
+      "workbench"
+    ],
+    "html_url": "https://github.com/seymour-hub/task-workbench",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T01:22:24Z",
+    "updated_at": "2026-11-06T00:57:14Z",
+    "pushed_at": "2026-11-06T00:57:10Z"
+  },
+  {
+    "id": 1441588105,
+    "name": "awesome-html-slide-skills",
+    "full_name": "authrain-cloud-abdullahformuli/awesome-html-slide-skills",
+    "owner": {
+      "login": "authrain-cloud-abdullahformuli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263127623?v=4"
+    },
+    "description": "Curated agent skills and template libraries for generating single-file HTML presentations for Claude Code, Codex, Cursor, and OpenClaw",
+    "topics": [
+      "agent-skills",
+      "awesome-list",
+      "claude-code",
+      "codex",
+      "cursor",
+      "hermes",
+      "html-slides",
+      "presentation"
+    ],
+    "html_url": "https://github.com/authrain-cloud-abdullahformuli/awesome-html-slide-skills",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T07:34:13Z",
+    "updated_at": "2026-11-01T07:34:32Z",
+    "pushed_at": "2026-11-01T07:34:21Z"
+  },
+  {
+    "id": 1442112514,
+    "name": "hermes-ollama-in-containers",
+    "full_name": "FrancescoDiSalesGithub/hermes-ollama-in-containers",
+    "owner": {
+      "login": "FrancescoDiSalesGithub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17337009?v=4"
+    },
+    "description": "run hermes and ollama using docker containers",
+    "topics": [
+      "devops",
+      "docker",
+      "docker-compose",
+      "hermes",
+      "hermes-agent",
+      "hermes-labs",
+      "llm",
+      "llm-agents"
+    ],
+    "html_url": "https://github.com/FrancescoDiSalesGithub/hermes-ollama-in-containers",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T18:25:29Z",
+    "updated_at": "2026-11-03T08:19:57Z",
+    "pushed_at": "2026-11-01T18:28:51Z"
+  }
+]

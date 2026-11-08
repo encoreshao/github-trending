@@ -1,0 +1,600 @@
+[
+  {
+    "id": 1449399115,
+    "name": "svelte-check-reporter",
+    "full_name": "faissalrez/svelte-check-reporter",
+    "owner": {
+      "login": "faissalrez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26567793?v=4"
+    },
+    "description": "Show svelte-check's Svelte and TypeScript errors in GitHub pull requests and GitLab merge requests: Code Quality reports, Actions annotations and SARIF for code scanning.",
+    "topics": [
+      "annotations",
+      "ci",
+      "code-quality",
+      "code-scanning",
+      "github-actions",
+      "gitlab",
+      "gitlab-ci",
+      "sarif",
+      "svelte",
+      "svelte-check",
+      "sveltekit",
+      "typescript"
+    ],
+    "html_url": "https://github.com/faissalrez/svelte-check-reporter",
+    "stargazers_count": 45,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T13:49:01Z",
+    "updated_at": "2026-11-08T01:57:07Z",
+    "pushed_at": "2026-11-08T01:48:35Z"
+  },
+  {
+    "id": 1445068396,
+    "name": "herdr-redline",
+    "full_name": "iampedii/herdr-redline",
+    "owner": {
+      "login": "iampedii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7813872?v=4"
+    },
+    "description": "Redline: code review inside the Herdr app. Review GitLab MRs and GitHub PRs in a git worktree next to an AI agent: inline comments, pending reviews, council AI findings, pipelines, approve and merge.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "git-worktree",
+      "github",
+      "gitlab",
+      "herdr",
+      "herdr-mod",
+      "merge-requests",
+      "pull-requests"
+    ],
+    "html_url": "https://github.com/iampedii/herdr-redline",
+    "stargazers_count": 29,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T02:28:55Z",
+    "updated_at": "2026-11-06T22:51:07Z",
+    "pushed_at": "2026-11-04T04:01:42Z"
+  },
+  {
+    "id": 1449486604,
+    "name": "nebula",
+    "full_name": "ryolay/nebula",
+    "owner": {
+      "login": "ryolay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28789550?v=4"
+    },
+    "description": "A free, open-source alternative to GitKraken: a fast, good-looking Git client for macOS.",
+    "topics": [
+      "electron",
+      "git",
+      "git-client",
+      "github",
+      "gitkraken-alternative",
+      "gitlab",
+      "macos",
+      "open-source"
+    ],
+    "html_url": "https://github.com/ryolay/nebula",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 10,
+    "created_at": "2026-11-07T15:31:49Z",
+    "updated_at": "2026-11-07T18:13:20Z",
+    "pushed_at": "2026-11-07T16:52:08Z"
+  },
+  {
+    "id": 1447660326,
+    "name": "nightporter",
+    "full_name": "night-porter/nightporter",
+    "owner": {
+      "login": "night-porter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/353087937?v=4"
+    },
+    "description": "Night Porter: handles your PRs while you're away. Agentic PR/MR night shift for GitHub & GitLab.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "code-review",
+      "daemon",
+      "github",
+      "gitlab",
+      "herdr-plugin",
+      "opencode",
+      "pull-requests",
+      "ratatui",
+      "rust",
+      "tui"
+    ],
+    "html_url": "https://github.com/night-porter/nightporter",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T00:28:59Z",
+    "updated_at": "2026-11-06T22:29:49Z",
+    "pushed_at": "2026-11-06T22:29:52Z"
+  },
+  {
+    "id": 1444591866,
+    "name": "open-superagent",
+    "full_name": "chunonesoft/open-superagent",
+    "owner": {
+      "login": "chunonesoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14806780?v=4"
+    },
+    "description": "能接自建 GitLab 和钉钉的主动式编程智能体：群里 @ 它派活，自动开工单、写代码、提 MR。基于 DeepSeek dsh-superagent 的社区维护版 | Community fork of deepseek-ai/dsh-superagent-prototype with GitLab & DingTalk",
+    "topics": [
+      "ai-agent",
+      "autonomous-agents",
+      "chatops",
+      "code-review",
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "devops",
+      "dingtalk",
+      "feishu",
+      "gitlab",
+      "lark",
+      "llm",
+      "typescript"
+    ],
+    "html_url": "https://github.com/chunonesoft/open-superagent",
+    "stargazers_count": 3,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-03T17:06:21Z",
+    "updated_at": "2026-11-04T18:02:29Z",
+    "pushed_at": "2026-11-03T19:50:30Z"
+  },
+  {
+    "id": 1447787639,
+    "name": "herdr-crest",
+    "full_name": "cmg8431/herdr-crest",
+    "owner": {
+      "login": "cmg8431",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38885265?v=4"
+    },
+    "description": "Herdr mod: project icons and folders for the Spaces sidebar, with busy agents and git state at a glance.",
+    "topics": [
+      "ai-coding-agents",
+      "claude-code",
+      "codeberg",
+      "coding-agents",
+      "developer-tools",
+      "folders",
+      "git-worktree",
+      "gitlab",
+      "herdr",
+      "herdr-mod",
+      "openai-codex",
+      "sidebar"
+    ],
+    "html_url": "https://github.com/cmg8431/herdr-crest",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T03:30:36Z",
+    "updated_at": "2026-11-07T00:28:49Z",
+    "pushed_at": "2026-11-07T00:29:10Z"
+  },
+  {
+    "id": 1443079572,
+    "name": "hub",
+    "full_name": "sawady/hub",
+    "owner": {
+      "login": "sawady",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1155654?v=4"
+    },
+    "description": "Engineering hub for Claude Code: contract-first cross-repo features, parallel agents in worktrees, progress.md as source of truth",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "developer-tools",
+      "git-worktrees",
+      "github",
+      "gitlab",
+      "multi-repo"
+    ],
+    "html_url": "https://github.com/sawady/hub",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T14:37:37Z",
+    "updated_at": "2026-11-02T21:13:39Z",
+    "pushed_at": "2026-11-02T19:40:46Z"
+  },
+  {
+    "id": 1445737776,
+    "name": "opencode-super-sessions",
+    "full_name": "arthurfiorette/opencode-super-sessions",
+    "owner": {
+      "login": "arthurfiorette",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47537704?v=4"
+    },
+    "description": "OpenCode V2 plugin: session browser overlay with archiving and pull request and issue tracking",
+    "topics": [
+      "github",
+      "gitlab",
+      "opencode",
+      "opencode-plugin",
+      "tui"
+    ],
+    "html_url": "https://github.com/arthurfiorette/opencode-super-sessions",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T14:02:05Z",
+    "updated_at": "2026-11-06T02:24:56Z",
+    "pushed_at": "2026-11-06T02:30:24Z"
+  },
+  {
+    "id": 1442503599,
+    "name": "git-triage",
+    "full_name": "ps-aditya/git-triage",
+    "owner": {
+      "login": "ps-aditya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233312487?v=4"
+    },
+    "description": "Incident triage for leaked GitLab credentials and malicious VS Code folder-open tasks. Free, local-first CLI.",
+    "topics": [
+      "devsecops",
+      "git",
+      "gitlab",
+      "incident-response",
+      "scanner",
+      "secrets",
+      "security",
+      "supply-chain",
+      "triage",
+      "vscode"
+    ],
+    "html_url": "https://github.com/ps-aditya/git-triage",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T04:26:06Z",
+    "updated_at": "2026-11-05T15:39:58Z",
+    "pushed_at": "2026-11-04T16:48:29Z"
+  },
+  {
+    "id": 1449480105,
+    "name": "herdr-gitlab",
+    "full_name": "rem-aster/herdr-gitlab",
+    "owner": {
+      "login": "rem-aster",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78304398?v=4"
+    },
+    "description": "GitLab panel for Herdr: merge requests, pipelines and issues of the focused repo, with merge, review and worktrees (via glab)",
+    "topics": [
+      "gitlab",
+      "glab",
+      "herdr",
+      "herdr-mod"
+    ],
+    "html_url": "https://github.com/rem-aster/herdr-gitlab",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T15:24:09Z",
+    "updated_at": "2026-11-07T15:29:39Z",
+    "pushed_at": "2026-11-07T15:25:18Z"
+  },
+  {
+    "id": 1444343679,
+    "name": "hunk-glab",
+    "full_name": "RubenFricke/hunk-glab",
+    "owner": {
+      "login": "RubenFricke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55654104?v=4"
+    },
+    "description": "Review GitLab merge requests, commits and comparisons in Hunk from the command line, the way hunk gh reviews GitHub pull requests",
+    "topics": [
+      "code-review",
+      "diff",
+      "gitlab",
+      "hunk",
+      "hunk-extension",
+      "hunkdiff",
+      "merge-request",
+      "terminal"
+    ],
+    "html_url": "https://github.com/RubenFricke/hunk-glab",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T13:41:06Z",
+    "updated_at": "2026-11-05T09:19:23Z",
+    "pushed_at": "2026-11-05T08:01:36Z"
+  },
+  {
+    "id": 1446299122,
+    "name": "git-mirror",
+    "full_name": "hrhv/git-mirror",
+    "owner": {
+      "login": "hrhv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52413945?v=4"
+    },
+    "description": "Mirror any git repository (every branch, tag and ref) to GitHub, GitLab, Gitea, Forgejo or any git remote. Creates the destination repo automatically. A CLI for git backups and migrations.",
+    "topics": [
+      "backup",
+      "cli",
+      "codeberg",
+      "devops",
+      "forgejo",
+      "git",
+      "git-backup",
+      "git-mirror",
+      "gitea",
+      "github",
+      "gitlab",
+      "migration",
+      "mirror",
+      "nodejs",
+      "repository-mirroring",
+      "self-hosted",
+      "typescript"
+    ],
+    "html_url": "https://github.com/hrhv/git-mirror",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T23:12:23Z",
+    "updated_at": "2026-11-05T13:33:10Z",
+    "pushed_at": "2026-11-05T00:54:13Z"
+  },
+  {
+    "id": 1442049499,
+    "name": "sdlc-kit",
+    "full_name": "aniketshukla1/sdlc-kit",
+    "owner": {
+      "login": "aniketshukla1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40165773?v=4"
+    },
+    "description": "Jira ticket in. Reviewed GitLab MR out. Scripts decide when it's done. A drop-in Cursor kit (rules, skills, checks, hook) for AI coding agents.",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "ai-coding-agent",
+      "code-review",
+      "cursor",
+      "cursor-rules",
+      "developer-tools",
+      "gitlab",
+      "jira",
+      "llm",
+      "sdlc",
+      "tdd"
+    ],
+    "html_url": "https://github.com/aniketshukla1/sdlc-kit",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T17:11:05Z",
+    "updated_at": "2026-11-07T10:49:10Z",
+    "pushed_at": "2026-11-07T10:49:06Z"
+  },
+  {
+    "id": 1441715269,
+    "name": "dsh-gitlab-panel",
+    "full_name": "caimc21069065-prog/dsh-gitlab-panel",
+    "owner": {
+      "login": "caimc21069065-prog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/317191654?v=4"
+    },
+    "description": null,
+    "topics": [
+      "deepseek-harness",
+      "dsh-plugin",
+      "git",
+      "gitlab"
+    ],
+    "html_url": "https://github.com/caimc21069065-prog/dsh-gitlab-panel",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T10:43:05Z",
+    "updated_at": "2026-11-05T08:08:54Z",
+    "pushed_at": "2026-11-01T13:46:43Z"
+  },
+  {
+    "id": 1444112631,
+    "name": "hydrozoa",
+    "full_name": "sgkens/hydrozoa",
+    "owner": {
+      "login": "sgkens",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8069055?v=4"
+    },
+    "description": "Multi-Platform Repository Mirroring Engine",
+    "topics": [
+      "cogs",
+      "forgejo",
+      "git",
+      "gitea",
+      "github",
+      "github-mirror",
+      "gitlab",
+      "gitlab-mirror",
+      "mirror"
+    ],
+    "html_url": "https://github.com/sgkens/hydrozoa",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T10:08:18Z",
+    "updated_at": "2026-11-03T16:36:29Z",
+    "pushed_at": "2026-11-03T10:08:37Z"
+  },
+  {
+    "id": 1443219270,
+    "name": "git-identity",
+    "full_name": "maslach-llc/git-identity",
+    "owner": {
+      "login": "maslach-llc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47702645?v=4"
+    },
+    "description": "Will your commits show up on your profile? Checks commit email, push account and verified emails in one go",
+    "topics": [
+      "cli",
+      "git",
+      "github",
+      "gitlab",
+      "ssh"
+    ],
+    "html_url": "https://github.com/maslach-llc/git-identity",
+    "stargazers_count": 0,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T16:40:15Z",
+    "updated_at": "2026-11-02T16:40:25Z",
+    "pushed_at": "2026-11-02T16:40:21Z"
+  },
+  {
+    "id": 1448268726,
+    "name": "dsh-workbench",
+    "full_name": "samanhappy/dsh-workbench",
+    "owner": {
+      "login": "samanhappy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2755122?v=4"
+    },
+    "description": "DeepSeek Harness plugin: local Git, GitLab/GitHub MRs & Issues, Aliyun DMS/SLS approvals, PingCode and skills — in one sidebar panel",
+    "topics": [
+      "aliyun",
+      "code-review",
+      "deepseek-harness",
+      "dms",
+      "dsh",
+      "dsh-plugin",
+      "git",
+      "github",
+      "gitlab",
+      "merge-request",
+      "pingcode",
+      "pull-request",
+      "sls",
+      "workbench"
+    ],
+    "html_url": "https://github.com/samanhappy/dsh-workbench",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T13:02:26Z",
+    "updated_at": "2026-11-06T13:09:50Z",
+    "pushed_at": "2026-11-06T13:58:43Z"
+  },
+  {
+    "id": 1445009106,
+    "name": "factorix",
+    "full_name": "WebEferen/factorix",
+    "owner": {
+      "login": "WebEferen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13287482?v=4"
+    },
+    "description": "Agentic software factory: AI agents with their own accounts take Linear tickets to reviewed GitLab merge requests, in Docker sandboxes behind an egress proxy.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "automation",
+      "claude",
+      "codex",
+      "developer-tools",
+      "docker",
+      "fastify",
+      "gitlab",
+      "linear",
+      "nextjs",
+      "sandbox",
+      "sdlc",
+      "software-factory",
+      "typescript"
+    ],
+    "html_url": "https://github.com/WebEferen/factorix",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T01:05:29Z",
+    "updated_at": "2026-11-06T16:23:15Z",
+    "pushed_at": "2026-11-06T16:23:10Z"
+  },
+  {
+    "id": 1448637870,
+    "name": "claude-code-pull-requests",
+    "full_name": "farridav/claude-code-pull-requests",
+    "owner": {
+      "login": "farridav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2966253?v=4"
+    },
+    "description": "A Claude Code mod that shows your open GitHub and GitLab pull requests in a pane beside the chat",
+    "topics": [
+      "claude-code",
+      "claude-code-plugin",
+      "github",
+      "gitlab",
+      "pull-requests"
+    ],
+    "html_url": "https://github.com/farridav/claude-code-pull-requests",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T18:58:46Z",
+    "updated_at": "2026-11-06T18:58:58Z",
+    "pushed_at": "2026-11-06T18:58:52Z"
+  },
+  {
+    "id": 1444483247,
+    "name": "hubout",
+    "full_name": "hamarshehmhmd/hubout",
+    "owner": {
+      "login": "hamarshehmhmd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73851911?v=4"
+    },
+    "description": "Keep shipping when GitHub is down: mirror every repo to Codeberg/GitLab/Forgejo/bare-repo backups, verify they're fresh, check GitHub status, and switch clones to the backup and back (reversibly).",
+    "topics": [
+      "backup",
+      "business-continuity",
+      "cli",
+      "codeberg",
+      "devops",
+      "disaster-recovery",
+      "forgejo",
+      "git",
+      "github",
+      "gitlab",
+      "mirror",
+      "outage",
+      "python"
+    ],
+    "html_url": "https://github.com/hamarshehmhmd/hubout",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T15:34:28Z",
+    "updated_at": "2026-11-03T15:46:47Z",
+    "pushed_at": "2026-11-03T15:47:00Z"
+  }
+]

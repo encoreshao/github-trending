@@ -1,0 +1,603 @@
+[
+  {
+    "id": 1444593808,
+    "name": "stolen-crypto-tracer",
+    "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
+    "owner": {
+      "login": "PatchBuilderAmplify",
+      "avatar_url": "https://avatars.githubusercontent.com/u/317164659?v=4"
+    },
+    "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+    "topics": [
+      "blockchain",
+      "crypto",
+      "exchange",
+      "osint",
+      "report",
+      "stolen-crypto",
+      "tracing",
+      "usdt"
+    ],
+    "html_url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer",
+    "stargazers_count": 389,
+    "language": "JavaScript",
+    "forks_count": 42,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T17:08:02Z",
+    "updated_at": "2026-11-07T18:39:15Z",
+    "pushed_at": "2026-11-07T04:04:43Z"
+  },
+  {
+    "id": 1443247580,
+    "name": "memechain",
+    "full_name": "larajeftic/memechain",
+    "owner": {
+      "login": "larajeftic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30015709?v=4"
+    },
+    "description": "A proof-of-work blockchain for memes. Mine, inscribe and trade with test tokens in your browser. Public testnet mined by GitHub Actions.",
+    "topics": [
+      "blockchain",
+      "browser",
+      "github-actions",
+      "javascript",
+      "memes",
+      "opentimestamps",
+      "proof-of-work",
+      "python"
+    ],
+    "html_url": "https://github.com/larajeftic/memechain",
+    "stargazers_count": 51,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 1,
+    "created_at": "2026-11-02T17:05:54Z",
+    "updated_at": "2026-11-05T13:58:54Z",
+    "pushed_at": "2026-11-07T23:42:24Z"
+  },
+  {
+    "id": 1443480384,
+    "name": "solana-sniping-bot",
+    "full_name": "outgoingyang/solana-sniping-bot",
+    "owner": {
+      "login": "outgoingyang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210461119?v=4"
+    },
+    "description": "solana sniper bot, raydium liquidity sniper, solana jito bundle sniper, raydium cpmm sniper bot, pump fun sniper bot, anti rugpull solana bot, orca whirlpool sniper bot",
+    "topics": [
+      "amm",
+      "blockchain",
+      "coinbase",
+      "crypto",
+      "liquidity",
+      "liquidity-mining",
+      "liquidity-pool",
+      "node",
+      "nodejs",
+      "orca",
+      "raydium-bot",
+      "solana-memecoin-sniper-bot",
+      "solana-snipe",
+      "typescript"
+    ],
+    "html_url": "https://github.com/outgoingyang/solana-sniping-bot",
+    "stargazers_count": 22,
+    "language": "TypeScript",
+    "forks_count": 18,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T20:59:59Z",
+    "updated_at": "2026-11-05T14:20:43Z",
+    "pushed_at": "2026-11-02T21:20:38Z"
+  },
+  {
+    "id": 1446816628,
+    "name": "lumina-analytics",
+    "full_name": "NexaStellar/lumina-analytics",
+    "owner": {
+      "login": "NexaStellar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352854416?v=4"
+    },
+    "description": "Real-time analytics and monitoring dashboard for the Stellar network with transaction tracking, asset analytics, DEX monitoring, and Soroban insights",
+    "topics": [
+      "analytics",
+      "blockchain",
+      "dashboard",
+      "drips-wave",
+      "monitoring",
+      "postgresql",
+      "real-time",
+      "stellar"
+    ],
+    "html_url": "https://github.com/NexaStellar/lumina-analytics",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-11-05T09:50:34Z",
+    "updated_at": "2026-11-06T13:29:11Z",
+    "pushed_at": "2026-11-06T11:02:42Z"
+  },
+  {
+    "id": 1446816316,
+    "name": "stellar-wallet-kit",
+    "full_name": "NexaStellar/stellar-wallet-kit",
+    "owner": {
+      "login": "NexaStellar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352854416?v=4"
+    },
+    "description": "Modern TypeScript library for seamlessly integrating Stellar wallets (Freighter, Albedo, Rabet, WalletConnect) into web applications",
+    "topics": [
+      "albedo",
+      "blockchain",
+      "drips-wave",
+      "freighter",
+      "sdk",
+      "stellar",
+      "typescript",
+      "wallet",
+      "web3"
+    ],
+    "html_url": "https://github.com/NexaStellar/stellar-wallet-kit",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 10,
+    "created_at": "2026-11-05T09:50:16Z",
+    "updated_at": "2026-11-06T14:51:45Z",
+    "pushed_at": "2026-11-06T22:25:40Z"
+  },
+  {
+    "id": 1446815943,
+    "name": "soroban-payment-gateway",
+    "full_name": "NexaStellar/soroban-payment-gateway",
+    "owner": {
+      "login": "NexaStellar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352854416?v=4"
+    },
+    "description": "Unaudited Soroban smart-contract prototype for token payments, merchant fees, and escrow.",
+    "topics": [
+      "blockchain",
+      "drips-wave",
+      "escrow",
+      "payments",
+      "rust",
+      "smart-contracts",
+      "soroban",
+      "stellar",
+      "web3"
+    ],
+    "html_url": "https://github.com/NexaStellar/soroban-payment-gateway",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 3,
+    "created_at": "2026-11-05T09:49:54Z",
+    "updated_at": "2026-11-06T14:50:14Z",
+    "pushed_at": "2026-11-06T20:45:07Z"
+  },
+  {
+    "id": 1443847305,
+    "name": "signcheck",
+    "full_name": "ngo-binh0108/signcheck",
+    "owner": {
+      "login": "ngo-binh0108",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278699501?v=4"
+    },
+    "description": "Explain Ethereum wallet signature requests (permits, Permit2, Seaport, Safe) and flag drainer patterns. Offline, no dependencies.",
+    "topics": [
+      "blockchain",
+      "cli",
+      "eip-712",
+      "ethereum",
+      "permit2",
+      "phishing",
+      "safe",
+      "seaport",
+      "wallet-security",
+      "web3"
+    ],
+    "html_url": "https://github.com/ngo-binh0108/signcheck",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T05:21:56Z",
+    "updated_at": "2026-11-06T15:52:03Z",
+    "pushed_at": "2026-11-03T05:22:02Z"
+  },
+  {
+    "id": 1444875593,
+    "name": "solana-validator-block-ordering",
+    "full_name": "jaharoni/solana-validator-block-ordering",
+    "owner": {
+      "login": "jaharoni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115413758?v=4"
+    },
+    "description": "Inside the Block: How Solana Mainnet Validators Order Transactions (Post-Alpenglow Empirical Measurement Suite)",
+    "topics": [
+      "blockchain",
+      "consensus",
+      "distributed-systems",
+      "mev",
+      "rust",
+      "solana",
+      "systems-architecture",
+      "validators"
+    ],
+    "html_url": "https://github.com/jaharoni/solana-validator-block-ordering",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T21:57:50Z",
+    "updated_at": "2026-11-07T13:36:39Z",
+    "pushed_at": "2026-11-03T21:57:55Z"
+  },
+  {
+    "id": 1446446085,
+    "name": "Walawe",
+    "full_name": "pikcui/Walawe",
+    "owner": {
+      "login": "pikcui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352708292?v=4"
+    },
+    "description": "Open-source wallet & API gateway for autonomous AI agents. Deterministic budgets, human approvals, x402 payments, and ERC-4337 smart accounts. ",
+    "topics": [
+      "ai-agents",
+      "api-gateway",
+      "blockchain",
+      "docker",
+      "erc4337",
+      "golang",
+      "infrastructure",
+      "ledger",
+      "llm",
+      "nextjs",
+      "open-source",
+      "payments",
+      "self-hosted",
+      "smart-contracts",
+      "solidity",
+      "testnet",
+      "usdc",
+      "wallet",
+      "web3",
+      "x402"
+    ],
+    "html_url": "https://github.com/pikcui/Walawe",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-05T02:37:53Z",
+    "updated_at": "2026-11-08T01:48:12Z",
+    "pushed_at": "2026-11-08T01:48:07Z"
+  },
+  {
+    "id": 1444928154,
+    "name": "rootcard",
+    "full_name": "rootcard/rootcard",
+    "owner": {
+      "login": "rootcard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/353078390?v=4"
+    },
+    "description": "A portable, self-certifying identity for online logins — an ID card you own.",
+    "topics": [
+      "blockchain",
+      "digital",
+      "id-card",
+      "identity",
+      "login"
+    ],
+    "html_url": "https://github.com/rootcard/rootcard",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T23:07:35Z",
+    "updated_at": "2026-11-07T00:44:57Z",
+    "pushed_at": "2026-11-07T00:44:52Z"
+  },
+  {
+    "id": 1444963469,
+    "name": "anops-foodchain",
+    "full_name": "fekikarim/anops-foodchain",
+    "owner": {
+      "login": "fekikarim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130910868?v=4"
+    },
+    "description": "Blockchain-powered food supply chain traceability platform. ERC-721 batch passport NFTs + ERC-20 reward token (FCT), built with Truffle, Solidity, React, Vite, and ethers.js. Role-based batch lifecycle tracking from farm to table.",
+    "topics": [
+      "blockchain",
+      "dapp",
+      "erc20",
+      "erc721",
+      "ethersjs",
+      "food-supply-chain",
+      "ganache",
+      "metamask",
+      "nft",
+      "react",
+      "smart-contracts",
+      "solidity",
+      "traceability",
+      "truffle",
+      "vite",
+      "web3"
+    ],
+    "html_url": "https://github.com/fekikarim/anops-foodchain",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-03T23:58:41Z",
+    "updated_at": "2026-11-07T13:41:30Z",
+    "pushed_at": "2026-11-07T13:41:25Z"
+  },
+  {
+    "id": 1448693305,
+    "name": "cryptocompare-api-python-client",
+    "full_name": "centerbardgirder/cryptocompare-api-python-client",
+    "owner": {
+      "login": "centerbardgirder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337622990?v=4"
+    },
+    "description": "Cryptocompare Api Python Client is a wrapper library designed to simplify HTTP requests to the CryptoCompare API and retrieve real-time cryptocurrency market data. Python developers utilize this tool to integrate digital asset prices, historical charts, and exchange metrics into their financial tracking applications.",
+    "topics": [
+      "api-wrapper",
+      "blockchain",
+      "btc",
+      "coingecko",
+      "coinmarketcap",
+      "crypto",
+      "cryptocompare",
+      "cryptocurrency",
+      "eth",
+      "eur",
+      "exchange",
+      "exchange-rate",
+      "fiat",
+      "jpy",
+      "moex",
+      "money",
+      "rate",
+      "ticker",
+      "usd"
+    ],
+    "html_url": "https://github.com/centerbardgirder/cryptocompare-api-python-client",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T20:00:40Z",
+    "updated_at": "2026-11-06T20:07:38Z",
+    "pushed_at": "2026-11-06T20:06:04Z"
+  },
+  {
+    "id": 1442419583,
+    "name": "opencontract",
+    "full_name": "mytoandeptrai/opencontract",
+    "owner": {
+      "login": "mytoandeptrai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67469007?v=4"
+    },
+    "description": "Interact with unverified EVM smart contracts in your browser. Paste an ABI, pick a custom RPC, read and write instantly. RAM-only, no data stored.",
+    "topics": [
+      "abi",
+      "blockchain",
+      "developer-tools",
+      "ethereum",
+      "evm",
+      "remix-alternative",
+      "smart-contracts",
+      "solidity",
+      "viem",
+      "web3"
+    ],
+    "html_url": "https://github.com/mytoandeptrai/opencontract",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-02T02:22:13Z",
+    "updated_at": "2026-11-07T05:59:45Z",
+    "pushed_at": "2026-11-07T05:59:40Z"
+  },
+  {
+    "id": 1446854308,
+    "name": "FluxTx",
+    "full_name": "FluxTx/FluxTx",
+    "owner": {
+      "login": "FluxTx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352840616?v=4"
+    },
+    "description": "Payments in Motion - Every transaction flow, one powerful API ",
+    "topics": [
+      "api",
+      "blockchain",
+      "blockchain-technology",
+      "cloudflare",
+      "hono",
+      "honojs",
+      "payment",
+      "payment-api",
+      "payment-gateway",
+      "payment-infrastructure",
+      "payments",
+      "rest-api",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/FluxTx/FluxTx",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T10:29:12Z",
+    "updated_at": "2026-11-05T15:49:43Z",
+    "pushed_at": "2026-11-05T15:49:39Z"
+  },
+  {
+    "id": 1441994713,
+    "name": "event-abi-guard",
+    "full_name": "ranajahanzaib/event-abi-guard",
+    "owner": {
+      "login": "ranajahanzaib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28682772?v=4"
+    },
+    "description": "Offline Rust CLI that checks smart contract event ABI changes against declared consumer expectations. Detects signature and indexed-layout breaks, with JSON, Markdown, and GitHub Actions reports.",
+    "topics": [
+      "abi",
+      "blockchain",
+      "compatibility",
+      "ethereum",
+      "event-logs",
+      "foundry",
+      "smart-contracts"
+    ],
+    "html_url": "https://github.com/ranajahanzaib/event-abi-guard",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T16:09:53Z",
+    "updated_at": "2026-11-07T05:22:11Z",
+    "pushed_at": "2026-11-06T11:41:13Z"
+  },
+  {
+    "id": 1442011285,
+    "name": "indexer-replay-oracle",
+    "full_name": "ranajahanzaib/indexer-replay-oracle",
+    "owner": {
+      "login": "ranajahanzaib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28682772?v=4"
+    },
+    "description": "Deterministic replay testing for blockchain event consumers, with duplicate delivery, crash recovery, and SQLite/PostgreSQL state comparison.",
+    "topics": [
+      "blockchain",
+      "ethereum",
+      "event-processing",
+      "indexer",
+      "replay-testing"
+    ],
+    "html_url": "https://github.com/ranajahanzaib/indexer-replay-oracle",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T16:28:32Z",
+    "updated_at": "2026-11-07T05:21:02Z",
+    "pushed_at": "2026-11-06T12:01:24Z"
+  },
+  {
+    "id": 1446916404,
+    "name": "mlchain",
+    "full_name": "LakoMoor/mlchain",
+    "owner": {
+      "login": "LakoMoor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44299427?v=4"
+    },
+    "description": "Blockchain where mining = training a neural network (Proof of Training). Хэш — это обучение модели.",
+    "topics": [
+      "blockchain",
+      "crypto",
+      "machine-learning",
+      "proof-of-training",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/LakoMoor/mlchain",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-05T11:32:52Z",
+    "updated_at": "2026-11-05T14:46:45Z",
+    "pushed_at": "2026-11-05T11:32:58Z"
+  },
+  {
+    "id": 1441508775,
+    "name": "node-tracker",
+    "full_name": "al-maisan/node-tracker",
+    "owner": {
+      "login": "al-maisan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/367773?v=4"
+    },
+    "description": "Alerts you on Telegram when your Bitcoin node falls behind the chain tip, and when it catches up. Single static Go binary; daemon, cron or systemd timer.",
+    "topics": [
+      "alerting",
+      "bitcoin",
+      "bitcoin-node",
+      "bitcoind",
+      "blockchain",
+      "cli",
+      "golang",
+      "monitoring",
+      "self-hosted",
+      "telegram"
+    ],
+    "html_url": "https://github.com/al-maisan/node-tracker",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-11-01T05:17:52Z",
+    "updated_at": "2026-11-02T14:41:46Z",
+    "pushed_at": "2026-11-04T09:52:26Z"
+  },
+  {
+    "id": 1442004207,
+    "name": "ledger-to-chain-reconciler",
+    "full_name": "ranajahanzaib/ledger-to-chain-reconciler",
+    "owner": {
+      "login": "ranajahanzaib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28682772?v=4"
+    },
+    "description": "Read-only Go CLI for reconciling deposit ledgers with ERC-20 transfers, detecting discrepancies, and generating evidence-backed audit reports.",
+    "topics": [
+      "anvil",
+      "blockchain",
+      "erc20",
+      "ethereum",
+      "evm",
+      "foundry",
+      "ledger",
+      "reconsilation"
+    ],
+    "html_url": "https://github.com/ranajahanzaib/ledger-to-chain-reconciler",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-01T16:20:36Z",
+    "updated_at": "2026-11-07T03:48:32Z",
+    "pushed_at": "2026-11-07T03:48:03Z"
+  },
+  {
+    "id": 1446840409,
+    "name": "cometbft-mcp",
+    "full_name": "wookja-0/cometbft-mcp",
+    "owner": {
+      "login": "wookja-0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131837195?v=4"
+    },
+    "description": "Read-only MCP server for CometBFT validator operators: signing liveness, jail risk, chain-halt diagnosis, upgrade readiness",
+    "topics": [
+      "blockchain",
+      "cometbft",
+      "cosmos",
+      "devops",
+      "mcp",
+      "model-context-protocol",
+      "sre",
+      "validator"
+    ],
+    "html_url": "https://github.com/wookja-0/cometbft-mcp",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T10:15:14Z",
+    "updated_at": "2026-11-06T08:53:20Z",
+    "pushed_at": "2026-11-06T08:53:21Z"
+  }
+]
