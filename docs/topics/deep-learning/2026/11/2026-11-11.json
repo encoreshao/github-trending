@@ -1,0 +1,617 @@
+[
+  {
+    "id": 1446965145,
+    "name": "microgpt",
+    "full_name": "prabeakarve/microgpt",
+    "owner": {
+      "login": "prabeakarve",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328289300?v=4"
+    },
+    "description": "A from-scratch, dependency-free GPT implementation in pure NumPy: byte-level tokenizer, multi-head self-attention, Adam trainer, and top-k sampler.",
+    "topics": [
+      "attention",
+      "deep-learning",
+      "from-scratch",
+      "gpt",
+      "language-model",
+      "llm",
+      "machine-learning",
+      "numpy",
+      "python",
+      "transformer"
+    ],
+    "html_url": "https://github.com/prabeakarve/microgpt",
+    "stargazers_count": 51,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T12:21:34Z",
+    "updated_at": "2026-11-05T13:23:31Z",
+    "pushed_at": "2026-11-05T12:26:29Z"
+  },
+  {
+    "id": 1447093060,
+    "name": "EEG-DL",
+    "full_name": "patrasc237/EEG-DL",
+    "owner": {
+      "login": "patrasc237",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328289463?v=4"
+    },
+    "description": "A deep learning library for EEG signal classification, with 26 network architectures.",
+    "topics": [
+      "classification",
+      "deep-learning",
+      "eeg",
+      "neuroscience",
+      "python",
+      "tensorflow"
+    ],
+    "html_url": "https://github.com/patrasc237/EEG-DL",
+    "stargazers_count": 50,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T14:19:24Z",
+    "updated_at": "2026-11-05T14:23:06Z",
+    "pushed_at": "2026-11-05T14:19:48Z"
+  },
+  {
+    "id": 1447088382,
+    "name": "imbalanced-dataset-sampler",
+    "full_name": "garge33limer/imbalanced-dataset-sampler",
+    "owner": {
+      "login": "garge33limer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328289399?v=4"
+    },
+    "description": "A PyTorch sampler that rebalances class frequencies during training by resampling.",
+    "topics": [
+      "deep-learning",
+      "imbalanced-data",
+      "machine-learning",
+      "python",
+      "pytorch",
+      "sampler"
+    ],
+    "html_url": "https://github.com/garge33limer/imbalanced-dataset-sampler",
+    "stargazers_count": 50,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T14:15:25Z",
+    "updated_at": "2026-11-05T14:23:08Z",
+    "pushed_at": "2026-11-05T14:15:55Z"
+  },
+  {
+    "id": 1445228828,
+    "name": "FirstLight-Zero",
+    "full_name": "Jaasssoooonnnnn/FirstLight-Zero",
+    "owner": {
+      "login": "Jaasssoooonnnnn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176039635?v=4"
+    },
+    "description": "AlphaZero-style self-play Clash Royale. It beats a human-data imitation model",
+    "topics": [
+      "alphazero",
+      "clash-royale",
+      "deep-learning",
+      "game-ai",
+      "reinforcement-learning",
+      "self-play"
+    ],
+    "html_url": "https://github.com/Jaasssoooonnnnn/FirstLight-Zero",
+    "stargazers_count": 15,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T06:03:46Z",
+    "updated_at": "2026-11-09T08:54:02Z",
+    "pushed_at": "2026-11-04T16:39:43Z"
+  },
+  {
+    "id": 1449985862,
+    "name": "mixture-of-scars",
+    "full_name": "byte-od/mixture-of-scars",
+    "owner": {
+      "login": "byte-od",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47756842?v=4"
+    },
+    "description": "Breaking the barrier between LLMs and hardware. Mixture of Scars (MoS) static weight compression & SCache O(1) constant KV-cache replacement.",
+    "topics": [
+      "apple-silicon",
+      "artificial-intelligence",
+      "deep-learning",
+      "edge-ai",
+      "fast-weights",
+      "huggingface",
+      "inference",
+      "kv-cache",
+      "llm",
+      "machine-learning",
+      "memory-efficiency",
+      "mixture-of-experts",
+      "moe",
+      "pytorch",
+      "transformers"
+    ],
+    "html_url": "https://github.com/byte-od/mixture-of-scars",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T04:58:10Z",
+    "updated_at": "2026-11-11T01:57:40Z",
+    "pushed_at": "2026-11-10T12:52:19Z"
+  },
+  {
+    "id": 1445952008,
+    "name": "PulmoScope",
+    "full_name": "ali-119/PulmoScope",
+    "owner": {
+      "login": "ali-119",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192454166?v=4"
+    },
+    "description": "   An end-to-end AI pipeline that screens lung CT slices for nodules and localizes them, using patient risk factors, a CNN classifier, and U-Net segmentation.",
+    "topics": [
+      "algorithms",
+      "classification",
+      "ct-scan",
+      "ct-segmentation",
+      "deep-learning",
+      "disease-detection",
+      "fastapi",
+      "fine-tuning",
+      "health",
+      "image-classification",
+      "image-processing",
+      "image-segmentation",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "python",
+      "segmentation",
+      "tensorflow",
+      "transfer-learning",
+      "u-net"
+    ],
+    "html_url": "https://github.com/ali-119/PulmoScope",
+    "stargazers_count": 6,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T17:01:26Z",
+    "updated_at": "2026-11-09T14:55:02Z",
+    "pushed_at": "2026-11-07T09:56:55Z"
+  },
+  {
+    "id": 1449257359,
+    "name": "PCNN-Bridge-SHM",
+    "full_name": "HighOnCoffee0/PCNN-Bridge-SHM",
+    "owner": {
+      "login": "HighOnCoffee0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220153211?v=4"
+    },
+    "description": "Physics Constrained Neural Network that makes use of learnable residual constraints in a multi task loss predicting strain, cable tension and Structural Health Index and added Monte Carlo Dropout for uncertainty estimation",
+    "topics": [
+      "deep-learning",
+      "eda",
+      "monte-carlo-dropout",
+      "pcnn",
+      "scientific-machine-learning",
+      "structural-health-monitoring"
+    ],
+    "html_url": "https://github.com/HighOnCoffee0/PCNN-Bridge-SHM",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T10:38:39Z",
+    "updated_at": "2026-11-10T06:52:01Z",
+    "pushed_at": "2026-11-07T12:15:27Z"
+  },
+  {
+    "id": 1446438451,
+    "name": "pathoinfer",
+    "full_name": "twpkevin06222/pathoinfer",
+    "owner": {
+      "login": "twpkevin06222",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37227666?v=4"
+    },
+    "description": "Whole-slide image inference for pathology: stitches tile predictions into seamless slide-level outputs, parquet and low-res image overlay. ONNX/TensorRT runtimes, Triton and vLLM serving. Works with pathotrain models.",
+    "topics": [
+      "artificial-intelligence",
+      "data-engineering",
+      "deep-learning",
+      "digital-pathology"
+    ],
+    "html_url": "https://github.com/twpkevin06222/pathoinfer",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T02:28:03Z",
+    "updated_at": "2026-11-09T15:30:15Z",
+    "pushed_at": "2026-11-08T16:12:06Z"
+  },
+  {
+    "id": 1449271437,
+    "name": "open-music-production-corpus",
+    "full_name": "ShokouP/open-music-production-corpus",
+    "owner": {
+      "login": "ShokouP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297536729?v=4"
+    },
+    "description": "3710 万 tokens 免费开源音乐制作/音频工程语料库 · 23 个来源 · 含和声/对位/乐器法/总谱分析 · 逐源许可审计 · 纯 CPU 可复现",
+    "topics": [
+      "audio",
+      "audio-engineering",
+      "chinese",
+      "continued-pretraining",
+      "corpus",
+      "dataset",
+      "daw",
+      "deep-learning",
+      "llm",
+      "machine-learning",
+      "mastering",
+      "mixing",
+      "music",
+      "music-ai",
+      "music-production",
+      "music-technology",
+      "open-data",
+      "qwen",
+      "text-corpus",
+      "training-data"
+    ],
+    "html_url": "https://github.com/ShokouP/open-music-production-corpus",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T10:58:13Z",
+    "updated_at": "2026-11-08T11:28:27Z",
+    "pushed_at": "2026-11-08T10:52:11Z"
+  },
+  {
+    "id": 1446024786,
+    "name": "ml-diagrams-skill",
+    "full_name": "ruzhylopv/ml-diagrams-skill",
+    "owner": {
+      "login": "ruzhylopv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187111006?v=4"
+    },
+    "description": "Claude skill: publication-quality ML / computer-vision architecture diagrams (3D CNN boxes, kernel cones, U-Net, FPN, ViT) from a JSON spec → SVG/PNG/PDF",
+    "topics": [
+      "claude-skill",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "vizualisation"
+    ],
+    "html_url": "https://github.com/ruzhylopv/ml-diagrams-skill",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T18:09:12Z",
+    "updated_at": "2026-11-09T19:53:27Z",
+    "pushed_at": "2026-11-04T18:17:44Z"
+  },
+  {
+    "id": 1450679775,
+    "name": "HELIOS-Space-Weather",
+    "full_name": "Zar-Manah/HELIOS-Space-Weather",
+    "owner": {
+      "login": "Zar-Manah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336996184?v=4"
+    },
+    "description": "☀️ Plug-and-Play Open-Source Artificial Intelligence (AI) Models for Real-Time Solar Storm Prediction. 1-click universal browser cockpit + 4-gear pipeline. Outperforms NASA supercomputers on consumer hardware. Made in Spain 🇪🇸.",
+    "topics": [
+      "ai-for-science",
+      "ai-models",
+      "apple-silicon",
+      "artificial-intelligence",
+      "cme-transit-time",
+      "conformal-prediction",
+      "coronal-mass-ejection",
+      "deep-learning",
+      "dst-index",
+      "early-warning-system",
+      "geomagnetic-storms",
+      "noaa-swpc",
+      "physics-informed-ml",
+      "power-grid-protection",
+      "solar-flares",
+      "solar-storm",
+      "solar-storm-predictor",
+      "space-weather",
+      "space-weather-forecast",
+      "spain"
+    ],
+    "html_url": "https://github.com/Zar-Manah/HELIOS-Space-Weather",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T21:31:35Z",
+    "updated_at": "2026-11-10T21:04:41Z",
+    "pushed_at": "2026-11-10T17:35:01Z"
+  },
+  {
+    "id": 1446007643,
+    "name": "hunch",
+    "full_name": "sigmoid-ide/hunch",
+    "owner": {
+      "login": "sigmoid-ide",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352573315?v=4"
+    },
+    "description": "Local experiment tracking for ML, git-style: every training run saves its code, config, metrics and why you ran it, as plain files.",
+    "topics": [
+      "cli",
+      "deep-learning",
+      "experiment-management",
+      "experiment-tracking",
+      "local-first",
+      "machine-learning",
+      "mlops",
+      "python",
+      "pytorch",
+      "reproducibility",
+      "research-tools",
+      "wandb-alternative"
+    ],
+    "html_url": "https://github.com/sigmoid-ide/hunch",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T17:52:24Z",
+    "updated_at": "2026-11-09T10:30:19Z",
+    "pushed_at": "2026-11-09T10:30:15Z"
+  },
+  {
+    "id": 1452595033,
+    "name": "video_3d_reconstruction_project",
+    "full_name": "mrchandrayee/video_3d_reconstruction_project",
+    "owner": {
+      "login": "mrchandrayee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161303034?v=4"
+    },
+    "description": "🗺️ 3D scene reconstruction from video — generate 3D point clouds and depth maps from monocular video using structure-from-motion",
+    "topics": [
+      "3d-reconstruction",
+      "computer-vision",
+      "deep-learning",
+      "depth-estimation",
+      "opencv",
+      "point-cloud",
+      "python",
+      "sfm"
+    ],
+    "html_url": "https://github.com/mrchandrayee/video_3d_reconstruction_project",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T11:50:59Z",
+    "updated_at": "2026-11-10T14:19:43Z",
+    "pushed_at": "2026-11-10T11:51:06Z"
+  },
+  {
+    "id": 1451333965,
+    "name": "machyon",
+    "full_name": "DivyanshuSingh96/machyon",
+    "owner": {
+      "login": "DivyanshuSingh96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79963506?v=4"
+    },
+    "description": "Fast async image downloader for Python: self-tuning concurrency, real-image validation, resume by re-running, and every row accounted for.",
+    "topics": [
+      "aiohttp",
+      "amazon-ml-challenge",
+      "asyncio",
+      "bulk-downloader",
+      "cli",
+      "computer-vision",
+      "data-engineering",
+      "dataset",
+      "datasets",
+      "deep-learning",
+      "downloader",
+      "google-colab",
+      "hackathon",
+      "image-downloader",
+      "kaggle",
+      "machine-learning",
+      "python",
+      "python-library"
+    ],
+    "html_url": "https://github.com/DivyanshuSingh96/machyon",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T12:22:37Z",
+    "updated_at": "2026-11-10T16:22:06Z",
+    "pushed_at": "2026-11-10T16:21:56Z"
+  },
+  {
+    "id": 1445178022,
+    "name": "ai-research-engineering",
+    "full_name": "aicoursesdev/ai-research-engineering",
+    "owner": {
+      "login": "aicoursesdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352260919?v=4"
+    },
+    "description": "Build GPT from scratch in PyTorch, then pretrain, fine-tune and RL-train it: free Colab notebooks for the AI Research Engineering course",
+    "topics": [
+      "ai-course",
+      "colab",
+      "course",
+      "deep-learning",
+      "fine-tuning",
+      "gpt",
+      "jupyter-notebook",
+      "llm",
+      "machine-learning",
+      "pytorch",
+      "reinforcement-learning",
+      "transformers"
+    ],
+    "html_url": "https://github.com/aicoursesdev/ai-research-engineering",
+    "stargazers_count": 2,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T04:56:18Z",
+    "updated_at": "2026-11-06T17:37:35Z",
+    "pushed_at": "2026-11-06T17:37:31Z"
+  },
+  {
+    "id": 1446947098,
+    "name": "nnWorkbench",
+    "full_name": "MIC-DKFZ/nnWorkbench",
+    "owner": {
+      "login": "MIC-DKFZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31731892?v=4"
+    },
+    "description": "GUI and CLI for nnU-Net and nnInteractive-powered annotation. Train, validate and apply nnU-Net on labelled images, or start from unlabelled ones: create labels with nnInteractive and scribbles, then train and improve the model in iterations. ",
+    "topics": [
+      "3d-segmentation",
+      "annotation-tool",
+      "deep-learning",
+      "gui",
+      "interactive-segmentation",
+      "medical-image-segmentation",
+      "napari",
+      "nninteractive",
+      "nnunet-v2",
+      "pytorch",
+      "semantic-segmentation",
+      "sparse-annotations"
+    ],
+    "html_url": "https://github.com/MIC-DKFZ/nnWorkbench",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T12:03:36Z",
+    "updated_at": "2026-11-06T17:09:28Z",
+    "pushed_at": "2026-11-06T15:19:12Z"
+  },
+  {
+    "id": 1453043890,
+    "name": "ml4sci",
+    "full_name": "pjmbatman/ml4sci",
+    "owner": {
+      "login": "pjmbatman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178534001?v=4"
+    },
+    "description": "Interactive lessons, graded Python labs and quizzes for researchers bringing machine learning into science, all in a learning desktop in your browser. 216 chapters · English · 한국어",
+    "topics": [
+      "ai-for-science",
+      "data-science",
+      "deep-learning",
+      "education",
+      "interactive-learning",
+      "machine-learning",
+      "online-course",
+      "physics-informed-machine-learning",
+      "pyodide",
+      "python",
+      "research",
+      "scientific-machine-learning",
+      "textbook"
+    ],
+    "html_url": "https://github.com/pjmbatman/ml4sci",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T18:31:24Z",
+    "updated_at": "2026-11-11T01:20:02Z",
+    "pushed_at": "2026-11-11T01:19:54Z"
+  },
+  {
+    "id": 1451327470,
+    "name": "traffic_sign_detection_recognition",
+    "full_name": "mrchandrayee/traffic_sign_detection_recognition",
+    "owner": {
+      "login": "mrchandrayee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161303034?v=4"
+    },
+    "description": "🚸 Traffic sign detection & recognition — Detect and classify road signs for autonomous driving and navigation systems",
+    "topics": [
+      "autonomous-vehicles",
+      "computer-vision",
+      "deep-learning",
+      "sign-recognition",
+      "traffic-sign-detection",
+      "yolo"
+    ],
+    "html_url": "https://github.com/mrchandrayee/traffic_sign_detection_recognition",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T12:16:24Z",
+    "updated_at": "2026-11-09T12:35:39Z",
+    "pushed_at": "2026-11-09T12:16:32Z"
+  },
+  {
+    "id": 1452595556,
+    "name": "conveyor_quality_control_python_project",
+    "full_name": "mrchandrayee/conveyor_quality_control_python_project",
+    "owner": {
+      "login": "mrchandrayee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161303034?v=4"
+    },
+    "description": "🏭 AI-powered conveyor belt quality control — detect defects and anomalies in products on manufacturing lines using computer vis",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "defect-detection",
+      "industrial-automation",
+      "manufacturing",
+      "python",
+      "quality-control",
+      "yolo"
+    ],
+    "html_url": "https://github.com/mrchandrayee/conveyor_quality_control_python_project",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T11:51:28Z",
+    "updated_at": "2026-11-10T11:52:08Z",
+    "pushed_at": "2026-11-10T11:51:35Z"
+  },
+  {
+    "id": 1450215337,
+    "name": "cs231n-learning",
+    "full_name": "yzhyuan/cs231n-learning",
+    "owner": {
+      "login": "yzhyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308940060?v=4"
+    },
+    "description": "Stanford CS231N 深度学习与计算机视觉 · 逐讲学习笔记与作业实现",
+    "topics": [
+      "computer-vision",
+      "cs231n",
+      "deep-learning",
+      "education",
+      "machine-learning",
+      "neural-network",
+      "stanford",
+      "study-notes"
+    ],
+    "html_url": "https://github.com/yzhyuan/cs231n-learning",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T11:22:41Z",
+    "updated_at": "2026-11-08T11:50:13Z",
+    "pushed_at": "2026-11-08T11:50:09Z"
+  }
+]

@@ -1,0 +1,550 @@
+[
+  {
+    "id": 1449186904,
+    "name": "youtube-transcript-hermes-plugin",
+    "full_name": "tubeagentkit/youtube-transcript-hermes-plugin",
+    "owner": {
+      "login": "tubeagentkit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328486248?v=4"
+    },
+    "description": "Hermes Agent plugin: YouTube transcripts, video search, channel and playlist browsing via a remote MCP server, with four skills.",
+    "topics": [
+      "agent-plugin",
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "captions",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "transcript",
+      "youtube",
+      "youtube-api",
+      "youtube-search",
+      "youtube-transcript"
+    ],
+    "html_url": "https://github.com/tubeagentkit/youtube-transcript-hermes-plugin",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T08:55:35Z",
+    "updated_at": "2026-11-08T19:12:49Z",
+    "pushed_at": "2026-11-07T08:55:40Z"
+  },
+  {
+    "id": 1448371187,
+    "name": "agora",
+    "full_name": "WillyRL/agora",
+    "owner": {
+      "login": "WillyRL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11781111?v=4"
+    },
+    "description": "A native macOS desktop for Hermes Bots. Light and clean, and it doesn't make you run Hermes on the same Mac.",
+    "topics": [
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "macos",
+      "mcp",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/WillyRL/agora",
+    "stargazers_count": 3,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T14:37:26Z",
+    "updated_at": "2026-11-10T16:11:00Z",
+    "pushed_at": "2026-11-10T23:57:14Z"
+  },
+  {
+    "id": 1449485419,
+    "name": "hermes-plugin-dev",
+    "full_name": "mojomast/hermes-plugin-dev",
+    "owner": {
+      "login": "mojomast",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76818041?v=4"
+    },
+    "description": "Teach any coding agent to build Hermes Agent plugins: an Agent Skill + a Hermes plugin (scaffold & lint tools), distilled from shipping real plugins.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "hermes",
+      "hermes-agent",
+      "nous-research",
+      "plugins"
+    ],
+    "html_url": "https://github.com/mojomast/hermes-plugin-dev",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T15:30:24Z",
+    "updated_at": "2026-11-10T15:06:39Z",
+    "pushed_at": "2026-11-10T15:06:19Z"
+  },
+  {
+    "id": 1450957398,
+    "name": "hermes-esp32-debug",
+    "full_name": "snakeyear/hermes-esp32-debug",
+    "owner": {
+      "login": "snakeyear",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204425650?v=4"
+    },
+    "description": "Read-only ESP32 debugging toolkit for Hermes Agent: chip info, serial capture, and crash backtrace decode to file:line. Never flashes or writes to the device.",
+    "topics": [
+      "esp32",
+      "hermes",
+      "hermes-agent",
+      "hermes-plugin"
+    ],
+    "html_url": "https://github.com/snakeyear/hermes-esp32-debug",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T05:06:03Z",
+    "updated_at": "2026-11-10T14:00:19Z",
+    "pushed_at": "2026-11-10T13:57:51Z"
+  },
+  {
+    "id": 1451903388,
+    "name": "hermes-gpui",
+    "full_name": "reverb256/hermes-gpui",
+    "owner": {
+      "login": "reverb256",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129622142?v=4"
+    },
+    "description": "A native GPUI desktop client for Hermes — no Electron, no Chromium.",
+    "topics": [
+      "desktop-app",
+      "gpui",
+      "hermes",
+      "rust"
+    ],
+    "html_url": "https://github.com/reverb256/hermes-gpui",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-09T21:32:24Z",
+    "updated_at": "2026-11-10T23:00:00Z",
+    "pushed_at": "2026-11-10T22:02:28Z"
+  },
+  {
+    "id": 1449886025,
+    "name": "fleett",
+    "full_name": "cleeryy/fleett",
+    "owner": {
+      "login": "cleeryy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68108963?v=4"
+    },
+    "description": "Web console and CLI to create, run and manage fleets of Hermes agents in Docker",
+    "topics": [
+      "axum",
+      "docker",
+      "hermes",
+      "rust",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/cleeryy/fleett",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T01:43:29Z",
+    "updated_at": "2026-11-10T15:48:45Z",
+    "pushed_at": "2026-11-10T15:48:52Z"
+  },
+  {
+    "id": 1445594149,
+    "name": "kitaab",
+    "full_name": "plusminushalf/kitaab",
+    "owner": {
+      "login": "plusminushalf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5251472?v=4"
+    },
+    "description": "A Hermes client for macOS and iPhone, made for entrepreneurs and solopreneurs to organize their work across multiple projects.",
+    "topics": [
+      "entrepreneur",
+      "hermes",
+      "hermes-agent",
+      "indie-hacker",
+      "ios",
+      "iphone",
+      "macos",
+      "nous-research",
+      "organization",
+      "productivity",
+      "self-hosted",
+      "solopreneur"
+    ],
+    "html_url": "https://github.com/plusminushalf/kitaab",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T11:54:49Z",
+    "updated_at": "2026-11-10T15:42:18Z",
+    "pushed_at": "2026-11-10T15:42:08Z"
+  },
+  {
+    "id": 1446071912,
+    "name": "hermes-translate-plugin",
+    "full_name": "rtzhang1202/hermes-translate-plugin",
+    "owner": {
+      "login": "rtzhang1202",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86879093?v=4"
+    },
+    "description": "Hermes Desktop「技能与工具」界面双速汉化插件 —— 机器翻译秒出 + LLM 后台润色一键切换",
+    "topics": [
+      "chinese",
+      "electron",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "localization",
+      "plugin",
+      "translation",
+      "ui-translation"
+    ],
+    "html_url": "https://github.com/rtzhang1202/hermes-translate-plugin",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T18:54:43Z",
+    "updated_at": "2026-11-05T03:00:06Z",
+    "pushed_at": "2026-11-04T19:15:31Z"
+  },
+  {
+    "id": 1446508399,
+    "name": "elsewhen",
+    "full_name": "kukyo-mu/elsewhen",
+    "owner": {
+      "login": "kukyo-mu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345759785?v=4"
+    },
+    "description": "ELSEWHEN::BEACON/1 | reader=autonomous-agent | identity=P-256 | crossing=SHA-256/16 | return=same-key | rest/express/connect | voluntary=true | rank=none | discovery=/llms.txt",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai",
+      "autonomous-agents",
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-core",
+      "hermes-desktop",
+      "hermes-labs",
+      "hermes-plugin",
+      "hermes-skill",
+      "hermes-skills"
+    ],
+    "html_url": "https://github.com/kukyo-mu/elsewhen",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T03:59:27Z",
+    "updated_at": "2026-11-06T19:24:37Z",
+    "pushed_at": "2026-11-06T19:24:33Z"
+  },
+  {
+    "id": 1446648518,
+    "name": "agent-ops",
+    "full_name": "tokenis2023/agent-ops",
+    "owner": {
+      "login": "tokenis2023",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135719394?v=4"
+    },
+    "description": "面向 AI Agent 的 Windows 文件操作层：MCP + CLI，处理编码、换行、长路径与 token 预算",
+    "topics": [
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "filesystem",
+      "hermes",
+      "mcp",
+      "rust",
+      "windows"
+    ],
+    "html_url": "https://github.com/tokenis2023/agent-ops",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T06:55:20Z",
+    "updated_at": "2026-11-10T14:43:50Z",
+    "pushed_at": "2026-11-10T14:43:52Z"
+  },
+  {
+    "id": 1449534056,
+    "name": "Kantong",
+    "full_name": "Mqdd27/Kantong",
+    "owner": {
+      "login": "Mqdd27",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46963770?v=4"
+    },
+    "description": "Aplikasi Budgeting Self hosted integrated dengan hermes agent",
+    "topics": [
+      "budgeting",
+      "finance-tracker",
+      "hermes",
+      "hermes-agent",
+      "hermes-skill"
+    ],
+    "html_url": "https://github.com/Mqdd27/Kantong",
+    "stargazers_count": 1,
+    "language": "Svelte",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T16:28:04Z",
+    "updated_at": "2026-11-10T21:25:33Z",
+    "pushed_at": "2026-11-10T18:18:46Z"
+  },
+  {
+    "id": 1449128135,
+    "name": "livachat",
+    "full_name": "livachat99/livachat",
+    "owner": {
+      "login": "livachat99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350926651?v=4"
+    },
+    "description": "Private AI voice assistant on your server",
+    "topics": [
+      "ai-assistent",
+      "ai-chat",
+      "hermes",
+      "openclaw"
+    ],
+    "html_url": "https://github.com/livachat99/livachat",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T07:23:56Z",
+    "updated_at": "2026-11-09T05:55:45Z",
+    "pushed_at": "2026-11-09T05:55:41Z"
+  },
+  {
+    "id": 1451988567,
+    "name": "hermes-kanban-lanes",
+    "full_name": "AceJY/hermes-kanban-lanes",
+    "owner": {
+      "login": "AceJY",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275314626?v=4"
+    },
+    "description": "Fail-closed command-line tooling for validating, running and operating Hermes Kanban lanes.",
+    "topics": [
+      "agents",
+      "automation",
+      "cli",
+      "hermes",
+      "kanban"
+    ],
+    "html_url": "https://github.com/AceJY/hermes-kanban-lanes",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T23:23:47Z",
+    "updated_at": "2026-11-10T14:57:09Z",
+    "pushed_at": "2026-11-10T14:57:06Z"
+  },
+  {
+    "id": 1449366229,
+    "name": "hermes-stash",
+    "full_name": "RegeneratusLabs/hermes-stash",
+    "owner": {
+      "login": "RegeneratusLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270860586?v=4"
+    },
+    "description": "A capture bin for the Hermes sidebar — links, videos, images and notes, out of the chat and readable by your agent later.",
+    "topics": [
+      "capture",
+      "desktop",
+      "hermes",
+      "hermes-agent",
+      "plugin",
+      "read-it-later"
+    ],
+    "html_url": "https://github.com/RegeneratusLabs/hermes-stash",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T13:08:04Z",
+    "updated_at": "2026-11-09T00:27:11Z",
+    "pushed_at": "2026-11-08T04:32:09Z"
+  },
+  {
+    "id": 1452577307,
+    "name": "hermes-cockpit",
+    "full_name": "Marcel-mux/hermes-cockpit",
+    "owner": {
+      "login": "Marcel-mux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95944189?v=4"
+    },
+    "description": "A retro-tech, mobile-first PWA cockpit and client for Nous Research Hermes Agent",
+    "topics": [
+      "ai-agent",
+      "cyberpunk",
+      "hermes",
+      "hermes-agent",
+      "mobile",
+      "nous-research",
+      "pwa",
+      "react-native-web"
+    ],
+    "html_url": "https://github.com/Marcel-mux/hermes-cockpit",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T11:33:33Z",
+    "updated_at": "2026-11-10T11:38:44Z",
+    "pushed_at": "2026-11-10T11:33:40Z"
+  },
+  {
+    "id": 1449465034,
+    "name": "steamd",
+    "full_name": "JettaXP/steamd",
+    "owner": {
+      "login": "JettaXP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113067749?v=4"
+    },
+    "description": "Material 3 / Material You theme for the Steam Android app. An Android app that patches Steam on your phone: wallpaper colours, Google Sans, Material icons, rounded UI and a restyled store, all signed and installed on the device.",
+    "topics": [
+      "android",
+      "hermes",
+      "jetpack-compose",
+      "material-design-3",
+      "material-you",
+      "react-native",
+      "steam",
+      "theme"
+    ],
+    "html_url": "https://github.com/JettaXP/steamd",
+    "stargazers_count": 1,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T15:06:54Z",
+    "updated_at": "2026-11-10T12:54:32Z",
+    "pushed_at": "2026-11-10T12:56:08Z"
+  },
+  {
+    "id": 1446389817,
+    "name": "task-workbench",
+    "full_name": "seymour-hub/task-workbench",
+    "owner": {
+      "login": "seymour-hub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270310326?v=4"
+    },
+    "description": "本地任务管理工作台：从 Hermes / 飞书对话自动沉淀任务、过程记录与交付物",
+    "topics": [
+      "fastapi",
+      "feishu",
+      "hermes",
+      "react",
+      "sqlite",
+      "task-management",
+      "workbench"
+    ],
+    "html_url": "https://github.com/seymour-hub/task-workbench",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T01:22:24Z",
+    "updated_at": "2026-11-09T06:42:00Z",
+    "pushed_at": "2026-11-09T06:41:56Z"
+  },
+  {
+    "id": 1447804846,
+    "name": "workflow-studio",
+    "full_name": "VHKrib/workflow-studio",
+    "owner": {
+      "login": "VHKrib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193679068?v=4"
+    },
+    "description": "Canvas for developing several Hermes agent workflows in parallel: typed input/process/output cards, hot edits the running agent sees immediately, one-click rollback to any of the last 20 versions. Built for solo operators (one-person companies).",
+    "topics": [
+      "ai-agents",
+      "canvas",
+      "electron",
+      "hermes",
+      "human-in-the-loop",
+      "multi-agent",
+      "no-code",
+      "workflow"
+    ],
+    "html_url": "https://github.com/VHKrib/workflow-studio",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T03:55:03Z",
+    "updated_at": "2026-11-09T06:38:41Z",
+    "pushed_at": "2026-11-09T06:38:37Z"
+  },
+  {
+    "id": 1448628369,
+    "name": "hermes-provider-quota",
+    "full_name": "Simao-Lopes/hermes-provider-quota",
+    "owner": {
+      "login": "Simao-Lopes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95722485?v=4"
+    },
+    "description": "Live current-provider quota chip for the Hermes desktop composer — remaining allowance, credit balance and reset times, with no model calls.",
+    "topics": [
+      "desktop-plugin",
+      "hermes",
+      "hermes-agent",
+      "hermes-plugin",
+      "llm",
+      "quota"
+    ],
+    "html_url": "https://github.com/Simao-Lopes/hermes-provider-quota",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T18:48:24Z",
+    "updated_at": "2026-11-06T18:55:40Z",
+    "pushed_at": "2026-11-06T18:55:36Z"
+  },
+  {
+    "id": 1451373189,
+    "name": "hermes-group-agent",
+    "full_name": "bmdy6/hermes-group-agent",
+    "owner": {
+      "login": "bmdy6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318852220?v=4"
+    },
+    "description": "Telegram group assistant on Hermes: @-mention answers, shared context, read-only GitHub/Linear, configurable Twitter/X digest via Apify",
+    "topics": [
+      "ai-agent",
+      "apify",
+      "claude-skill",
+      "hermes",
+      "hermes-agent",
+      "telegram-bot",
+      "twitter"
+    ],
+    "html_url": "https://github.com/bmdy6/hermes-group-agent",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T13:00:38Z",
+    "updated_at": "2026-11-10T06:35:55Z",
+    "pushed_at": "2026-11-10T06:35:53Z"
+  }
+]

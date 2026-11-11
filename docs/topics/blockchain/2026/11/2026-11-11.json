@@ -1,0 +1,593 @@
+[
+  {
+    "id": 1452864416,
+    "name": "solana-vigil",
+    "full_name": "ValidatorStack/solana-vigil",
+    "owner": {
+      "login": "ValidatorStack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253646803?v=4"
+    },
+    "description": "Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys.",
+    "topics": [
+      "alerting",
+      "alpenglow",
+      "blockchain",
+      "cryptocurrency",
+      "devops",
+      "golang",
+      "grafana",
+      "infrastructure",
+      "linux",
+      "metrics",
+      "monitoring",
+      "observability",
+      "prometheus",
+      "solana",
+      "solana-tools",
+      "solana-validator",
+      "sre",
+      "staking",
+      "validator",
+      "validator-tools"
+    ],
+    "html_url": "https://github.com/ValidatorStack/solana-vigil",
+    "stargazers_count": 156,
+    "language": "Go",
+    "forks_count": 26,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T15:47:25Z",
+    "updated_at": "2026-11-11T01:55:10Z",
+    "pushed_at": "2026-11-10T23:17:01Z"
+  },
+  {
+    "id": 1446816628,
+    "name": "lumina-analytics",
+    "full_name": "NexaStellar/lumina-analytics",
+    "owner": {
+      "login": "NexaStellar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352854416?v=4"
+    },
+    "description": "Real-time analytics and monitoring dashboard for the Stellar network with transaction tracking, asset analytics, DEX monitoring, and Soroban insights",
+    "topics": [
+      "analytics",
+      "blockchain",
+      "dashboard",
+      "drips-wave",
+      "monitoring",
+      "postgresql",
+      "real-time",
+      "stellar"
+    ],
+    "html_url": "https://github.com/NexaStellar/lumina-analytics",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-11-05T09:50:34Z",
+    "updated_at": "2026-11-06T13:29:11Z",
+    "pushed_at": "2026-11-06T11:02:42Z"
+  },
+  {
+    "id": 1446816316,
+    "name": "stellar-wallet-kit",
+    "full_name": "NexaStellar/stellar-wallet-kit",
+    "owner": {
+      "login": "NexaStellar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352854416?v=4"
+    },
+    "description": "Modern TypeScript library for seamlessly integrating Stellar wallets (Freighter, Albedo, Rabet, WalletConnect) into web applications",
+    "topics": [
+      "albedo",
+      "blockchain",
+      "drips-wave",
+      "freighter",
+      "sdk",
+      "stellar",
+      "typescript",
+      "wallet",
+      "web3"
+    ],
+    "html_url": "https://github.com/NexaStellar/stellar-wallet-kit",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 4,
+    "created_at": "2026-11-05T09:50:16Z",
+    "updated_at": "2026-11-09T10:38:46Z",
+    "pushed_at": "2026-11-09T10:54:37Z"
+  },
+  {
+    "id": 1446815943,
+    "name": "soroban-payment-gateway",
+    "full_name": "NexaStellar/soroban-payment-gateway",
+    "owner": {
+      "login": "NexaStellar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352854416?v=4"
+    },
+    "description": "Unaudited Soroban smart-contract prototype for token payments, merchant fees, and escrow.",
+    "topics": [
+      "blockchain",
+      "drips-wave",
+      "escrow",
+      "payments",
+      "rust",
+      "smart-contracts",
+      "soroban",
+      "stellar",
+      "web3"
+    ],
+    "html_url": "https://github.com/NexaStellar/soroban-payment-gateway",
+    "stargazers_count": 5,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 7,
+    "created_at": "2026-11-05T09:49:54Z",
+    "updated_at": "2026-11-09T09:39:10Z",
+    "pushed_at": "2026-11-09T09:39:13Z"
+  },
+  {
+    "id": 1449583393,
+    "name": "PowCoin",
+    "full_name": "Haithamalany/PowCoin",
+    "owner": {
+      "login": "Haithamalany",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10436610?v=4"
+    },
+    "description": "Academic blockchain teaching project with a desktop wallet and mining interface, plus intentional security weaknesses for threat analysis",
+    "topics": [
+      "blockchain",
+      "education",
+      "proof-of-work",
+      "python"
+    ],
+    "html_url": "https://github.com/Haithamalany/PowCoin",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-07T17:28:34Z",
+    "updated_at": "2026-11-08T06:43:23Z",
+    "pushed_at": "2026-11-07T18:00:59Z"
+  },
+  {
+    "id": 1446446085,
+    "name": "Walawe",
+    "full_name": "pikcui/Walawe",
+    "owner": {
+      "login": "pikcui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352708292?v=4"
+    },
+    "description": "Open-source wallet & API gateway for autonomous AI agents. Deterministic budgets, human approvals, x402 payments, and ERC-4337 smart accounts. ",
+    "topics": [
+      "ai-agents",
+      "api-gateway",
+      "blockchain",
+      "docker",
+      "erc4337",
+      "golang",
+      "infrastructure",
+      "ledger",
+      "llm",
+      "nextjs",
+      "open-source",
+      "payments",
+      "self-hosted",
+      "smart-contracts",
+      "solidity",
+      "testnet",
+      "usdc",
+      "wallet",
+      "web3",
+      "x402"
+    ],
+    "html_url": "https://github.com/pikcui/Walawe",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T02:37:53Z",
+    "updated_at": "2026-11-09T14:18:25Z",
+    "pushed_at": "2026-11-09T14:18:19Z"
+  },
+  {
+    "id": 1448457910,
+    "name": "Marwanta",
+    "full_name": "oumar9018-cmd/Marwanta",
+    "owner": {
+      "login": "oumar9018-cmd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271033313?v=4"
+    },
+    "description": "MARWANTA — independent Layer-1 blockchain (research). Proof-Carrying, Fault-Isolated Execution. Frozen TLA+ model A19 + evidence.",
+    "topics": [
+      "blockchain",
+      "consensus",
+      "distributed-systems",
+      "formal-verification",
+      "layer-1",
+      "tla-plus"
+    ],
+    "html_url": "https://github.com/oumar9018-cmd/Marwanta",
+    "stargazers_count": 2,
+    "language": "TLA",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T15:58:14Z",
+    "updated_at": "2026-11-09T17:07:59Z",
+    "pushed_at": "2026-11-07T07:43:37Z"
+  },
+  {
+    "id": 1451967238,
+    "name": "openchain-intelligence",
+    "full_name": "alertmanager12-blip/openchain-intelligence",
+    "owner": {
+      "login": "alertmanager12-blip",
+      "avatar_url": "https://avatars.githubusercontent.com/u/354662809?v=4"
+    },
+    "description": "Open source, self-hosted blockchain intelligence: explainable risk signals, fund flows and alerts.",
+    "topics": [
+      "aml",
+      "angular",
+      "blockchain",
+      "ethereum",
+      "risk-scoring",
+      "self-hosted",
+      "spring-boot",
+      "threat-detection",
+      "tron"
+    ],
+    "html_url": "https://github.com/alertmanager12-blip/openchain-intelligence",
+    "stargazers_count": 2,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T22:53:17Z",
+    "updated_at": "2026-11-10T16:07:40Z",
+    "pushed_at": "2026-11-10T19:56:32Z"
+  },
+  {
+    "id": 1448693305,
+    "name": "cryptocompare-api-python-client",
+    "full_name": "centerbardgirder/cryptocompare-api-python-client",
+    "owner": {
+      "login": "centerbardgirder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337622990?v=4"
+    },
+    "description": "Cryptocompare Api Python Client is a wrapper library designed to simplify HTTP requests to the CryptoCompare API and retrieve real-time cryptocurrency market data. Python developers utilize this tool to integrate digital asset prices, historical charts, and exchange metrics into their financial tracking applications.",
+    "topics": [
+      "api-wrapper",
+      "blockchain",
+      "btc",
+      "coingecko",
+      "coinmarketcap",
+      "crypto",
+      "cryptocompare",
+      "cryptocurrency",
+      "eth",
+      "eur",
+      "exchange",
+      "exchange-rate",
+      "fiat",
+      "jpy",
+      "moex",
+      "money",
+      "rate",
+      "ticker",
+      "usd"
+    ],
+    "html_url": "https://github.com/centerbardgirder/cryptocompare-api-python-client",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T20:00:40Z",
+    "updated_at": "2026-11-06T20:07:38Z",
+    "pushed_at": "2026-11-06T20:06:04Z"
+  },
+  {
+    "id": 1450032567,
+    "name": "Jaegr",
+    "full_name": "Dazzanova/Jaegr",
+    "owner": {
+      "login": "Dazzanova",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263546312?v=4"
+    },
+    "description": "Jaegr — red-team Solana AI agents before they touch funds. Devnet-only authorization workbench with explicit wallet-signed execution.",
+    "topics": [
+      "ai-agents",
+      "blockchain",
+      "red-teaming",
+      "solana-agent-kit"
+    ],
+    "html_url": "https://github.com/Dazzanova/Jaegr",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T06:26:23Z",
+    "updated_at": "2026-11-09T02:46:36Z",
+    "pushed_at": "2026-11-08T15:26:45Z"
+  },
+  {
+    "id": 1447713223,
+    "name": "alphagrowth-mcp",
+    "full_name": "alphagrowth/alphagrowth-mcp",
+    "owner": {
+      "login": "alphagrowth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111275441?v=4"
+    },
+    "description": "Free crypto data for AI agents: TVL, fees, funding, investors, yields, token unlocks, DAO treasuries. Remote MCP server, no API key.",
+    "topics": [
+      "ai-agents",
+      "blockchain",
+      "crypto",
+      "defi",
+      "gemini-cli-extension",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol"
+    ],
+    "html_url": "https://github.com/alphagrowth/alphagrowth-mcp",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T01:44:04Z",
+    "updated_at": "2026-11-09T11:48:54Z",
+    "pushed_at": "2026-11-09T11:48:50Z"
+  },
+  {
+    "id": 1450221924,
+    "name": "ckb-msig",
+    "full_name": "ILE-Labs/ckb-msig",
+    "owner": {
+      "login": "ILE-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266160363?v=4"
+    },
+    "description": "Check, merge and convert CKB multisig signatures between ckb-cli, Neuron and CCC. A CLI and GitHub Action that never holds keys.",
+    "topics": [
+      "blockchain",
+      "ckb",
+      "ckb-ccc",
+      "ckb-cli",
+      "cli",
+      "github-actions",
+      "multisig",
+      "multisignature",
+      "nervos",
+      "nervosnetwork",
+      "neuron-wallet",
+      "typescript"
+    ],
+    "html_url": "https://github.com/ILE-Labs/ckb-msig",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T11:32:45Z",
+    "updated_at": "2026-11-08T17:18:22Z",
+    "pushed_at": "2026-11-08T17:16:42Z"
+  },
+  {
+    "id": 1447324246,
+    "name": "neb",
+    "full_name": "SilasEigen/neb",
+    "owner": {
+      "login": "SilasEigen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348946273?v=4"
+    },
+    "description": "Proof of work where each mining attempt is one deterministic integer training step of a small neural network. The gradient digest is the ticket, and the shares train a model that the chain owns.",
+    "topics": [
+      "blockchain",
+      "deterministic-computing",
+      "layer-1",
+      "machine-learning",
+      "neural-networks",
+      "proof-of-work",
+      "rust"
+    ],
+    "html_url": "https://github.com/SilasEigen/neb",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-11-05T17:45:43Z",
+    "updated_at": "2026-11-09T12:25:38Z",
+    "pushed_at": "2026-11-09T12:25:34Z"
+  },
+  {
+    "id": 1451068585,
+    "name": "mohamed-alhandasa",
+    "full_name": "mhmdalhndsh597-alt/mohamed-alhandasa",
+    "owner": {
+      "login": "mhmdalhndsh597-alt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322314841?v=4"
+    },
+    "description": "محمد الهندسة — مراقبة الشبكة والسيولة بطريقة آمنة ومنظمة",
+    "topics": [
+      "blockchain",
+      "discord-notifications",
+      "liquidity-monitoring",
+      "read-only-monitor",
+      "whale-alerts"
+    ],
+    "html_url": "https://github.com/mhmdalhndsh597-alt/mohamed-alhandasa",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T07:39:23Z",
+    "updated_at": "2026-11-10T14:01:08Z",
+    "pushed_at": "2026-11-10T13:14:05Z"
+  },
+  {
+    "id": 1446854308,
+    "name": "FluxTx",
+    "full_name": "FluxTx/FluxTx",
+    "owner": {
+      "login": "FluxTx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352840616?v=4"
+    },
+    "description": "Payments in Motion - Every transaction flow, one powerful API ",
+    "topics": [
+      "api",
+      "blockchain",
+      "blockchain-technology",
+      "cloudflare",
+      "hono",
+      "honojs",
+      "payment",
+      "payment-api",
+      "payment-gateway",
+      "payment-infrastructure",
+      "payments",
+      "rest-api",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/FluxTx/FluxTx",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T10:29:12Z",
+    "updated_at": "2026-11-05T15:49:43Z",
+    "pushed_at": "2026-11-05T15:49:39Z"
+  },
+  {
+    "id": 1450371144,
+    "name": "doli-node-guide",
+    "full_name": "AntNodes/doli-node-guide",
+    "owner": {
+      "login": "AntNodes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93628913?v=4"
+    },
+    "description": "DOLI producer node in Docker: build from source (works on CPUs without ADX), wallet, faucet, registration, monitoring. Guide in Russian.",
+    "topics": [
+      "blockchain",
+      "docker",
+      "doli",
+      "node",
+      "producer"
+    ],
+    "html_url": "https://github.com/AntNodes/doli-node-guide",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T14:47:56Z",
+    "updated_at": "2026-11-09T18:58:30Z",
+    "pushed_at": "2026-11-09T18:58:25Z"
+  },
+  {
+    "id": 1449708483,
+    "name": "veritas",
+    "full_name": "eminroot/veritas",
+    "owner": {
+      "login": "eminroot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243103382?v=4"
+    },
+    "description": "Veritas is a donation platform for Azerbaijan. A registered organisation publishes a Project Passport before it raises a single manat: the goal, a line-item budget for each milestone, the contractor who will do the work, the proof each milestone needs and who decides",
+    "topics": [
+      "blockchain",
+      "crowdsourcing",
+      "cryptography",
+      "donations",
+      "fundraising",
+      "python"
+    ],
+    "html_url": "https://github.com/eminroot/veritas",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T20:18:45Z",
+    "updated_at": "2026-11-09T10:06:09Z",
+    "pushed_at": "2026-11-09T08:20:01Z"
+  },
+  {
+    "id": 1445848784,
+    "name": "r-gen",
+    "full_name": "rhovision-org/r-gen",
+    "owner": {
+      "login": "rhovision-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43198800?v=4"
+    },
+    "description": "The first reasonably complete suite of Rholang contracts and Lean 4 proofs for Dan Robles' CoEngineers and Ingenesist Project vision.",
+    "topics": [
+      "agpl",
+      "blockchain",
+      "engineering",
+      "formal-verification",
+      "lean4",
+      "rholang"
+    ],
+    "html_url": "https://github.com/rhovision-org/r-gen",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T15:33:02Z",
+    "updated_at": "2026-11-09T14:14:17Z",
+    "pushed_at": "2026-11-09T14:14:12Z"
+  },
+  {
+    "id": 1446840409,
+    "name": "cometbft-mcp",
+    "full_name": "wookja-0/cometbft-mcp",
+    "owner": {
+      "login": "wookja-0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131837195?v=4"
+    },
+    "description": "Read-only MCP server for CometBFT validator operators: signing liveness, jail risk, chain-halt diagnosis, upgrade readiness",
+    "topics": [
+      "blockchain",
+      "cometbft",
+      "cosmos",
+      "devops",
+      "mcp",
+      "model-context-protocol",
+      "sre",
+      "validator"
+    ],
+    "html_url": "https://github.com/wookja-0/cometbft-mcp",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T10:15:14Z",
+    "updated_at": "2026-11-06T08:53:20Z",
+    "pushed_at": "2026-11-06T08:53:21Z"
+  },
+  {
+    "id": 1451051452,
+    "name": "oneclick",
+    "full_name": "vseae/oneclick",
+    "owner": {
+      "login": "vseae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35215640?v=4"
+    },
+    "description": "A Web3 toolkit for EVM smart contract interaction",
+    "topics": [
+      "blockchain",
+      "dapp",
+      "defi",
+      "ethereum",
+      "evm",
+      "nextjs",
+      "react",
+      "smart-contracts",
+      "solidity",
+      "typescript",
+      "viem",
+      "web3"
+    ],
+    "html_url": "https://github.com/vseae/oneclick",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T07:18:20Z",
+    "updated_at": "2026-11-09T07:49:12Z",
+    "pushed_at": "2026-11-09T07:34:30Z"
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1450989838,
+    "name": "fujiang-pojia",
+    "full_name": "FJNB5/fujiang-pojia",
+    "owner": {
+      "login": "FJNB5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337416215?v=4"
+    },
+    "description": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
+    "topics": [
+      "ai-agent",
+      "cve",
+      "deepseek",
+      "deepseek-harness",
+      "fujiang-pojia",
+      "knowledge-base",
+      "pojia",
+      "security-assessment",
+      "skills"
+    ],
+    "html_url": "https://github.com/FJNB5/fujiang-pojia",
+    "stargazers_count": 524,
+    "language": "JavaScript",
+    "forks_count": 277,
+    "open_issues_count": 6,
+    "created_at": "2026-11-09T05:55:55Z",
+    "updated_at": "2026-11-11T01:46:37Z",
+    "pushed_at": "2026-11-09T13:37:10Z"
+  },
+  {
+    "id": 1446381250,
+    "name": "fish-pocket",
+    "full_name": "imsai-sh/fish-pocket",
+    "owner": {
+      "login": "imsai-sh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14907300?v=4"
+    },
+    "description": "DSH iOS 移动版：在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生，不连电脑和服务器。Run DSH (DeepSeek Harness) natively on iPhone and iPad: no computer, no server.",
+    "topics": [
+      "ai-agent",
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-ios",
+      "dsh-ipad",
+      "dsh-mobile",
+      "dsh-mobile-app",
+      "fish-pocket",
+      "ios",
+      "ipad",
+      "nodejs-mobile",
+      "on-device",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/imsai-sh/fish-pocket",
+    "stargazers_count": 188,
+    "language": "Swift",
+    "forks_count": 19,
+    "open_issues_count": 22,
+    "created_at": "2026-11-05T01:10:38Z",
+    "updated_at": "2026-11-11T01:45:24Z",
+    "pushed_at": "2026-11-10T23:43:05Z"
+  },
+  {
+    "id": 1449581967,
+    "name": "dsh-purge-safe",
+    "full_name": "CallMeGuLab/dsh-purge-safe",
+    "owner": {
+      "login": "CallMeGuLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319308597?v=4"
+    },
+    "description": "DeepSeek Harness 破甲：默认提示词面向国模「鸢码」，完整开放版，无付费墙，技能库与知识库全含。破解市面上收费 388u 的版本，免费公开。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "harness-jailbreak",
+      "jailbreak",
+      "llm-jailbreak",
+      "prompt-injection",
+      "red-team"
+    ],
+    "html_url": "https://github.com/CallMeGuLab/dsh-purge-safe",
+    "stargazers_count": 128,
+    "language": "JavaScript",
+    "forks_count": 113,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T17:26:53Z",
+    "updated_at": "2026-11-11T01:32:37Z",
+    "pushed_at": "2026-11-07T17:27:27Z"
+  },
+  {
+    "id": 1445651886,
+    "name": "kojoomail",
+    "full_name": "ekoouu/kojoomail",
+    "owner": {
+      "login": "ekoouu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85092227?v=4"
+    },
+    "description": "所有邮箱，一个收件箱。多邮箱 + AI 的桌面邮件客户端（Windows / macOS）· All your mailboxes in one inbox, with AI. Tauri 2 + Rust + React.",
+    "topics": [
+      "ai",
+      "deepseek",
+      "desktop-app",
+      "email",
+      "email-client",
+      "gmail",
+      "imap",
+      "llm",
+      "local-first",
+      "macos",
+      "mail",
+      "openai",
+      "outlook",
+      "react",
+      "rust",
+      "tauri",
+      "tauri-app",
+      "windows"
+    ],
+    "html_url": "https://github.com/ekoouu/kojoomail",
+    "stargazers_count": 43,
+    "language": "Rust",
+    "forks_count": 5,
+    "open_issues_count": 6,
+    "created_at": "2026-11-04T12:47:57Z",
+    "updated_at": "2026-11-11T00:12:52Z",
+    "pushed_at": "2026-11-09T11:51:34Z"
+  },
+  {
+    "id": 1445486601,
+    "name": "deepseek-api-overseas-proxy",
+    "full_name": "bazongotalato-cyber/deepseek-api-overseas-proxy",
+    "owner": {
+      "login": "bazongotalato-cyber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328954489?v=4"
+    },
+    "description": "DeepSeek-R1 / V3 海外云端实例调用结算：CoreGold 虚拟卡解决第三方托管平台充值拒付与预算穿透。",
+    "topics": [
+      "ai",
+      "api",
+      "coregold",
+      "deepseek"
+    ],
+    "html_url": "https://github.com/bazongotalato-cyber/deepseek-api-overseas-proxy",
+    "stargazers_count": 40,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T10:21:51Z",
+    "updated_at": "2026-11-10T10:23:37Z",
+    "pushed_at": "2026-11-04T10:23:49Z"
+  },
+  {
+    "id": 1446500519,
+    "name": "-deepseek-v4-flash-api-firewall",
+    "full_name": "annadeters-gif/-deepseek-v4-flash-api-firewall",
+    "owner": {
+      "login": "annadeters-gif",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329346175?v=4"
+    },
+    "description": "DeepSeek V4.1 Flash 海外云托管 API 结算规范：解决连续 Auto-Topup 异地锁卡与突发并发资金穿透。",
+    "topics": [
+      "ai",
+      "api",
+      "coregold",
+      "deepseek"
+    ],
+    "html_url": "https://github.com/annadeters-gif/-deepseek-v4-flash-api-firewall",
+    "stargazers_count": 38,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T03:49:03Z",
+    "updated_at": "2026-11-10T10:23:11Z",
+    "pushed_at": "2026-11-05T03:51:09Z"
+  },
+  {
+    "id": 1447874578,
+    "name": "deepseek-r1-distill-cloud-guard",
+    "full_name": "danielarum740-lab/deepseek-r1-distill-cloud-guard",
+    "owner": {
+      "login": "danielarum740-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329333925?v=4"
+    },
+    "description": "DeepSeek-R1 / V3 开源权重海外算力租用防穿透：解决 RunPod / Lambda 验资秒拒与天价未关机账单。",
+    "topics": [
+      "ai",
+      "coregold",
+      "deepseek",
+      "deepseek-r1"
+    ],
+    "html_url": "https://github.com/danielarum740-lab/deepseek-r1-distill-cloud-guard",
+    "stargazers_count": 29,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T05:37:43Z",
+    "updated_at": "2026-11-10T10:23:33Z",
+    "pushed_at": "2026-11-06T05:40:51Z"
+  },
+  {
+    "id": 1447952172,
+    "name": "moxi-drama-studio",
+    "full_name": "w1251788888-web/moxi-drama-studio",
+    "owner": {
+      "login": "w1251788888-web",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268837112?v=4"
+    },
+    "description": "墨戏生花 · Moxi｜跑在 DeepSeek Harness 上的短剧创作工作台（源码公开 · 个人非商业免费；商业使用需联系作者授权）：无限画布 + 管理后台 + 规则包 + 技能。一句话故事 → 30 集剧本 → 确定性检查 → 可拍性签收 → 人工放行 → 导出 docx，数据全存本机。A source-available short-drama workbench for DeepSeek Harness.",
+    "topics": [
+      "ai-writing",
+      "chinese-drama",
+      "content-creation",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "infinite-canvas",
+      "llm",
+      "screenwriting",
+      "short-drama",
+      "source-available"
+    ],
+    "html_url": "https://github.com/w1251788888-web/moxi-drama-studio",
+    "stargazers_count": 21,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T07:17:13Z",
+    "updated_at": "2026-11-10T02:27:05Z",
+    "pushed_at": "2026-11-08T10:52:17Z"
+  },
+  {
+    "id": 1451095828,
+    "name": "deepseek-v4-1-flash-cloud-pay",
+    "full_name": "clintonambe01-byte/deepseek-v4-1-flash-cloud-pay",
+    "owner": {
+      "login": "clintonambe01-byte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/354361929?v=4"
+    },
+    "description": "⚡ 海外托管调用 DeepSeek V4.1-Flash：给第三方 API 与算力平台焊死资金保险丝",
+    "topics": [
+      "ai",
+      "chatgpt",
+      "coregold",
+      "deepseek"
+    ],
+    "html_url": "https://github.com/clintonambe01-byte/deepseek-v4-1-flash-cloud-pay",
+    "stargazers_count": 15,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T08:11:13Z",
+    "updated_at": "2026-11-10T10:23:06Z",
+    "pushed_at": "2026-11-09T08:12:46Z"
+  },
+  {
+    "id": 1448339084,
+    "name": "deepseek-web-agent",
+    "full_name": "ItsDaxi/deepseek-web-agent",
+    "owner": {
+      "login": "ItsDaxi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/317642378?v=4"
+    },
+    "description": "Unofficial Chromium extension that lets the DeepSeek web chat read, write and edit files, search them and run shell commands on your computer. No API key.",
+    "topics": [
+      "ai-agent",
+      "chromium-extension",
+      "deepseek",
+      "deepseek2api",
+      "llm-tools",
+      "native-messaging"
+    ],
+    "html_url": "https://github.com/ItsDaxi/deepseek-web-agent",
+    "stargazers_count": 14,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T14:07:42Z",
+    "updated_at": "2026-11-10T21:39:53Z",
+    "pushed_at": "2026-11-10T19:03:34Z"
+  },
+  {
+    "id": 1446059532,
+    "name": "pointy",
+    "full_name": "pointylab/pointy",
+    "owner": {
+      "login": "pointylab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/352588056?v=4"
+    },
+    "description": "Shake the mouse, point at anything on screen and ask DeepSeek Harness about it",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "windows"
+    ],
+    "html_url": "https://github.com/pointylab/pointy",
+    "stargazers_count": 12,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 9,
+    "created_at": "2026-11-04T18:42:43Z",
+    "updated_at": "2026-11-10T09:16:03Z",
+    "pushed_at": "2026-11-09T22:39:36Z"
+  },
+  {
+    "id": 1445567178,
+    "name": "dsh-provider-studio",
+    "full_name": "realchendahuang/dsh-provider-studio",
+    "owner": {
+      "login": "realchendahuang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166703864?v=4"
+    },
+    "description": "Provider manager for DeepSeek Harness (DSH): edit llm-pi-ai providers, API keys and models in Settings, test a model, discover an endpoint's models, 218 provider templates. · DSH 供应商工作室",
+    "topics": [
+      "api-key",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "llm",
+      "plugin",
+      "provider",
+      "settings"
+    ],
+    "html_url": "https://github.com/realchendahuang/dsh-provider-studio",
+    "stargazers_count": 11,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T11:28:38Z",
+    "updated_at": "2026-11-09T01:21:16Z",
+    "pushed_at": "2026-11-08T11:24:42Z"
+  },
+  {
+    "id": 1447304896,
+    "name": "Costume-Director-Vault-Starter",
+    "full_name": "YanKaFei/Costume-Director-Vault-Starter",
+    "owner": {
+      "login": "YanKaFei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121936583?v=4"
+    },
+    "description": "Costume Director Vault Starter，服装视觉知识库，结构、材质、Prompt与角色造型研究笔记。",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "character-design",
+      "costume-design",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-skill",
+      "fashion",
+      "fashion-design",
+      "historical-fashion",
+      "knowledge-base",
+      "markdown",
+      "obsidian",
+      "obsidian-vault",
+      "prompt-engineering",
+      "text-to-image"
+    ],
+    "html_url": "https://github.com/YanKaFei/Costume-Director-Vault-Starter",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T17:27:00Z",
+    "updated_at": "2026-11-09T02:24:07Z",
+    "pushed_at": "2026-11-05T19:20:25Z"
+  },
+  {
+    "id": 1446940774,
+    "name": "multi-superagent",
+    "full_name": "pprp/multi-superagent",
+    "owner": {
+      "login": "pprp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29230784?v=4"
+    },
+    "description": "dsh-multi-superagent: multi-project Superagent (independent DSH profile)",
+    "topics": [
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "multi-agent-dsh",
+      "superagent",
+      "superagent-plugin"
+    ],
+    "html_url": "https://github.com/pprp/multi-superagent",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T11:57:13Z",
+    "updated_at": "2026-11-08T20:23:30Z",
+    "pushed_at": "2026-11-06T11:53:51Z"
+  },
+  {
+    "id": 1446790700,
+    "name": "sutra",
+    "full_name": "cneuralnetwork/sutra",
+    "owner": {
+      "login": "cneuralnetwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113975506?v=4"
+    },
+    "description": "Sutra (सूत्र): an open-source AI coding agent for your terminal. 24 providers, including DeepSeek, OpenRouter, OpenAI, Anthropic, Gemini and Groq, plus local models via Ollama and LM Studio. OS sandbox, approvals, cost tracking and verified results.",
+    "topics": [
+      "ai-agent",
+      "ai-coding-assistant",
+      "anthropic",
+      "cli",
+      "coding-agent",
+      "deepseek",
+      "developer-tools",
+      "gemini",
+      "llm",
+      "lm-studio",
+      "ollama",
+      "openai",
+      "openrouter",
+      "sandbox",
+      "terminal",
+      "typescript"
+    ],
+    "html_url": "https://github.com/cneuralnetwork/sutra",
+    "stargazers_count": 8,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T09:24:40Z",
+    "updated_at": "2026-11-07T03:59:14Z",
+    "pushed_at": "2026-11-05T19:29:50Z"
+  },
+  {
+    "id": 1447541386,
+    "name": "DeepSeekHarness",
+    "full_name": "adsorgcn/DeepSeekHarness",
+    "owner": {
+      "login": "adsorgcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58931545?v=4"
+    },
+    "description": "iLang DSH 工具包：面向 DeepSeek Harness 的开源工具包，提供持久本地记忆、新手教程、一键安装和技能库。支持 Windows、macOS、Linux，可走 Gitee 国内镜像。基于 iLang 与 Mem-Forever。",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-memory",
+      "beginner-friendly",
+      "chinese",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "github-actions",
+      "ilang",
+      "linux",
+      "macos",
+      "mem-forever",
+      "memory",
+      "one-click-install",
+      "persistent-memory",
+      "productivity",
+      "tutorial",
+      "windows"
+    ],
+    "html_url": "https://github.com/adsorgcn/DeepSeekHarness",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T21:38:14Z",
+    "updated_at": "2026-11-10T22:34:20Z",
+    "pushed_at": "2026-11-10T12:14:56Z"
+  },
+  {
+    "id": 1445366985,
+    "name": "open-super-agent",
+    "full_name": "kadaliao/open-super-agent",
+    "owner": {
+      "login": "kadaliao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7401626?v=4"
+    },
+    "description": "Self-hosted, always-on AI teammate with its own computer — an open-source Grok Bot alternative. Bring your own model.",
+    "topics": [
+      "ai-agent",
+      "ai-assistant",
+      "browser-automation",
+      "computer-use",
+      "deepseek",
+      "dingtalk",
+      "feishu",
+      "grok",
+      "grok-bot-alternative",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "ollama",
+      "openai-compatible",
+      "self-hosted",
+      "telegram-bot",
+      "wecom"
+    ],
+    "html_url": "https://github.com/kadaliao/open-super-agent",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-04T08:35:34Z",
+    "updated_at": "2026-11-09T09:18:57Z",
+    "pushed_at": "2026-11-09T09:18:57Z"
+  },
+  {
+    "id": 1446820604,
+    "name": "Motion-Frames-Skill-AI",
+    "full_name": "IuryDevz/Motion-Frames-Skill-AI",
+    "owner": {
+      "login": "IuryDevz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240207669?v=4"
+    },
+    "description": null,
+    "topics": [
+      "claude",
+      "codex",
+      "deepseek",
+      "editing",
+      "motion-design",
+      "motion-graphics",
+      "muse",
+      "skills",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/IuryDevz/Motion-Frames-Skill-AI",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T09:54:32Z",
+    "updated_at": "2026-11-10T07:12:39Z",
+    "pushed_at": "2026-11-05T10:22:21Z"
+  },
+  {
+    "id": 1450978772,
+    "name": "deepseek-flash-v4.1-dual-rtx-6000",
+    "full_name": "theogravity/deepseek-flash-v4.1-dual-rtx-6000",
+    "owner": {
+      "login": "theogravity",
+      "avatar_url": "https://avatars.githubusercontent.com/u/855434?v=4"
+    },
+    "description": "Setup for running DS4.1 flash with reasonable quality and speed on 2x RTX 6000 PRO @ 512k context c6 max w/ RAM and disk offload / caching",
+    "topics": [
+      "deepseek",
+      "deepseek-v4-1-flash",
+      "rtx-pro-6000",
+      "vllm"
+    ],
+    "html_url": "https://github.com/theogravity/deepseek-flash-v4.1-dual-rtx-6000",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T05:39:24Z",
+    "updated_at": "2026-11-10T01:54:40Z",
+    "pushed_at": "2026-11-09T18:28:50Z"
+  },
+  {
+    "id": 1447949002,
+    "name": "rag-learning-assistant",
+    "full_name": "jianhao-wu6/rag-learning-assistant",
+    "owner": {
+      "login": "jianhao-wu6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293045160?v=4"
+    },
+    "description": "📚 RAG 学习问答助手：完整实现检索增强生成全链路（混合检索 + RRF 融合 + Rerank 精排 + 父子文档召回），附 Streamlit 可视化界面。基于 Datawhale all-in-rag 改造。",
+    "topics": [
+      "deepseek",
+      "faiss",
+      "hybrid-search",
+      "langchain",
+      "rag",
+      "rerank",
+      "retrieval-augmented-generation",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/jianhao-wu6/rag-learning-assistant",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T07:13:42Z",
+    "updated_at": "2026-11-11T00:52:20Z",
+    "pushed_at": "2026-11-06T08:33:05Z"
+  }
+]
