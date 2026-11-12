@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1446940425,
+    "name": "jobbot-rpocket",
+    "full_name": "YTJanmind/jobbot-rpocket",
+    "owner": {
+      "login": "YTJanmind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/351072742?v=4"
+    },
+    "description": "Telegram bot that searches DOU/Djinni/Jooble/RemoteOK/Work.ua for matching jobs, filters by your own profiles/keywords, and pushes new or reopened postings with resume/cover-letter tailoring",
+    "topics": [
+      "chat-memory",
+      "cloudflare-workers-ai",
+      "firebase",
+      "job-alerts",
+      "job-search",
+      "job-tracker",
+      "jobs",
+      "nlp",
+      "open-source-project",
+      "qwen3",
+      "scraper",
+      "speech-to-text",
+      "voice-assistant",
+      "vosk"
+    ],
+    "html_url": "https://github.com/YTJanmind/jobbot-rpocket",
+    "stargazers_count": 57,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T11:56:54Z",
+    "updated_at": "2026-11-09T22:48:53Z",
+    "pushed_at": "2026-11-05T11:57:01Z"
+  },
+  {
+    "id": 1447091917,
+    "name": "bpemb",
+    "full_name": "boepeanjafay/bpemb",
+    "owner": {
+      "login": "boepeanjafay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328289346?v=4"
+    },
+    "description": "Pre-trained subword embeddings in 275 languages, based on Byte-Pair Encoding.",
+    "topics": [
+      "byte-pair-encoding",
+      "embeddings",
+      "multilingual",
+      "nlp",
+      "python",
+      "word-embeddings"
+    ],
+    "html_url": "https://github.com/boepeanjafay/bpemb",
+    "stargazers_count": 50,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T14:18:23Z",
+    "updated_at": "2026-11-05T14:22:59Z",
+    "pushed_at": "2026-11-05T14:18:44Z"
+  },
+  {
+    "id": 1449531878,
+    "name": "viet-nhu-nguoi",
+    "full_name": "anhnx000/viet-nhu-nguoi",
+    "owner": {
+      "login": "anhnx000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54397779?v=4"
+    },
+    "description": "Viết như người: chống giọng văn AI cho tiếng Việt (human voice, Vietnamese humanizer). Skill Claude Code sửa bài ChatGPT/Claude viết cho tự nhiên như người viết: bỏ văn dịch, giọng công văn, lời chatbot. Kèm máy quét 0-100 và công cụ kiểm số liệu.",
+    "topics": [
+      "agent-skills",
+      "ai-humanizer",
+      "ai-writing",
+      "anti-slop",
+      "chatgpt",
+      "chong-giong-van-ai",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "copywriting",
+      "human-voice",
+      "humanize-ai-text",
+      "humanizer",
+      "llm",
+      "nlp",
+      "tieng-viet",
+      "viet-nhu-nguoi",
+      "vietnamese",
+      "vietnamese-nlp",
+      "writing-assistant"
+    ],
+    "html_url": "https://github.com/anhnx000/viet-nhu-nguoi",
+    "stargazers_count": 22,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T16:25:21Z",
+    "updated_at": "2026-11-12T01:20:23Z",
+    "pushed_at": "2026-11-11T16:44:32Z"
+  },
+  {
+    "id": 1452408449,
+    "name": "kham",
+    "full_name": "neptunenakub/kham",
+    "owner": {
+      "login": "neptunenakub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238022317?v=4"
+    },
+    "description": "Fast, dependency-free Thai word finder — ค้นหาคำไทยจากตัวอักษร (Python, CLI, web demo)",
+    "topics": [
+      "dictionary",
+      "nlp",
+      "python",
+      "thai",
+      "thai-language",
+      "word-finder"
+    ],
+    "html_url": "https://github.com/neptunenakub/kham",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T08:42:40Z",
+    "updated_at": "2026-11-11T18:49:03Z",
+    "pushed_at": "2026-11-11T02:53:13Z"
+  },
+  {
+    "id": 1453477562,
+    "name": "thai-token-tax",
+    "full_name": "neptunenakub/thai-token-tax",
+    "owner": {
+      "login": "neptunenakub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238022317?v=4"
+    },
+    "description": "How much more Thai text costs on each LLM: tokens per 1,000 Thai characters across 45 models, turned into baht per month, with a cost calculator. · วัดค่า token ภาษาไทย 45 โมเดล แปลงเป็นบาทต่อเดือน",
+    "topics": [
+      "benchmark",
+      "llm",
+      "nlp",
+      "thai",
+      "tokenizer"
+    ],
+    "html_url": "https://github.com/neptunenakub/thai-token-tax",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T03:30:58Z",
+    "updated_at": "2026-11-11T18:51:46Z",
+    "pushed_at": "2026-11-11T03:36:50Z"
+  },
+  {
+    "id": 1451218506,
+    "name": "JJ_ML_DL_BOOK",
+    "full_name": "joedejesus/JJ_ML_DL_BOOK",
+    "owner": {
+      "login": "joedejesus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200772327?v=4"
+    },
+    "description": "Recurso educativo en español sobre Data Science, Machine Learning, Deep Learning, NLP y Transformers con Python, PyTorch y Jupyter.",
+    "topics": [
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "education",
+      "huggingface",
+      "jupyter-notebook",
+      "machine-learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "transformers"
+    ],
+    "html_url": "https://github.com/joedejesus/JJ_ML_DL_BOOK",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T10:21:51Z",
+    "updated_at": "2026-11-11T16:33:33Z",
+    "pushed_at": "2026-11-10T09:57:23Z"
+  },
+  {
+    "id": 1450384052,
+    "name": "modelen-tr",
+    "full_name": "macbyclp/modelen-tr",
+    "owner": {
+      "login": "macbyclp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309920717?v=4"
+    },
+    "description": "Topluluğun birlikte eğittiği açık yapay zekâ: gönüllü GPU'larla LoRA + DiLoCo, Rust masaüstü uygulaması, koordinatör portalı. Araştırma aşaması; ilk dil Türkçe.",
+    "topics": [
+      "diloco",
+      "distributed-training",
+      "egui",
+      "llm",
+      "lora",
+      "nlp",
+      "open-source",
+      "rust",
+      "turkish",
+      "volunteer-computing"
+    ],
+    "html_url": "https://github.com/macbyclp/modelen-tr",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T15:03:09Z",
+    "updated_at": "2026-11-09T19:19:26Z",
+    "pushed_at": "2026-11-09T19:19:22Z"
+  },
+  {
+    "id": 1448173553,
+    "name": "dsh-calendar",
+    "full_name": "zbeabr/dsh-calendar",
+    "owner": {
+      "login": "zbeabr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48195796?v=4"
+    },
+    "description": "用人话就可以把日程直接写进 iCloud 日历的 macOS 小工具：本地规则解析，毫秒级导入日历。",
+    "topics": [
+      "appkit",
+      "caldav",
+      "calendar",
+      "icloud",
+      "macos",
+      "mcp",
+      "nlp",
+      "swift"
+    ],
+    "html_url": "https://github.com/zbeabr/dsh-calendar",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T11:20:48Z",
+    "updated_at": "2026-11-10T02:54:09Z",
+    "pushed_at": "2026-11-10T02:54:05Z"
+  },
+  {
+    "id": 1451583763,
+    "name": "MatraKi-Keyboard",
+    "full_name": "sojibcreates-maker/MatraKi-Keyboard",
+    "owner": {
+      "login": "sojibcreates-maker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/354521452?v=4"
+    },
+    "description": "MatraKi (মাত্রা-কী) — Best AI Smart Bangla Keyboard for Linux & Windows. Avro phonetic typing suite with 20,535+ trained words, next-word prediction, grammar engine, live math & unit converter. Open-source Fcitx5 & IBus Bengali IME.",
+    "topics": [
+      "ai-keyboard",
+      "avro-keyboard",
+      "avro-phonetic",
+      "bangla",
+      "bangla-input-method",
+      "bangla-keyboard",
+      "bangla-typing",
+      "bangladesh",
+      "bengali",
+      "bengali-keyboard",
+      "bengali-typing",
+      "deepin",
+      "fcitx5",
+      "ibus",
+      "linux",
+      "nlp",
+      "open-source",
+      "smart-keyboard",
+      "ubuntu",
+      "windows"
+    ],
+    "html_url": "https://github.com/sojibcreates-maker/MatraKi-Keyboard",
+    "stargazers_count": 2,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T16:06:21Z",
+    "updated_at": "2026-11-10T20:55:30Z",
+    "pushed_at": "2026-11-09T18:47:32Z"
+  },
+  {
+    "id": 1446510136,
+    "name": "Kallvettu",
+    "full_name": "tharik1305/Kallvettu",
+    "owner": {
+      "login": "tharik1305",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205501231?v=4"
+    },
+    "description": "ANCIENT INSCRIPTION RESTORATION & TRANSLATION",
+    "topics": [
+      "ancient-inscriptions",
+      "computer-vision",
+      "cultural-heritage",
+      "digital-heritage",
+      "epigraphy",
+      "historical-texts",
+      "inscription-restoration",
+      "nlp",
+      "ocr",
+      "paddleocr",
+      "python",
+      "sarvam-ai",
+      "streamlit",
+      "tamil",
+      "tamil-language"
+    ],
+    "html_url": "https://github.com/tharik1305/Kallvettu",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T04:01:35Z",
+    "updated_at": "2026-11-11T22:44:11Z",
+    "pushed_at": "2026-11-11T11:49:28Z"
+  },
+  {
+    "id": 1452995897,
+    "name": "data-selection",
+    "full_name": "hufs24lsh/data-selection",
+    "owner": {
+      "login": "hufs24lsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231624462?v=4"
+    },
+    "description": "ShallowFrontier: label-free, energy-efficient data selection for LLM fine-tuning. One shallow calibration instead of repeated rounds; −53% end-to-end GPU energy vs. InstructDiff (ACL 2026).",
+    "topics": [
+      "data-selection",
+      "energy-efficiency",
+      "fine-tuning",
+      "green-ai",
+      "instruction-tuning",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/hufs24lsh/data-selection",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T17:44:35Z",
+    "updated_at": "2026-11-11T22:38:59Z",
+    "pushed_at": "2026-11-11T20:11:31Z"
+  },
+  {
+    "id": 1451865654,
+    "name": "DocuLearn-AI",
+    "full_name": "ENG-Ebraheem/DocuLearn-AI",
+    "owner": {
+      "login": "ENG-Ebraheem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190134537?v=4"
+    },
+    "description": "DocuLearn-AI - An intelligent document analysis, learning, and question-answering platform powered by AI and Python.",
+    "topics": [
+      "ai",
+      "document-ai",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "python"
+    ],
+    "html_url": "https://github.com/ENG-Ebraheem/DocuLearn-AI",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T20:49:39Z",
+    "updated_at": "2026-11-09T22:02:06Z",
+    "pushed_at": "2026-11-09T20:53:34Z"
+  },
+  {
+    "id": 1449724010,
+    "name": "zero-hallucination-islamic-rag",
+    "full_name": "Mokhytonium/zero-hallucination-islamic-rag",
+    "owner": {
+      "login": "Mokhytonium",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222014305?v=4"
+    },
+    "description": "سامانه هوشمند تطبیق معنایی و استخراج مستند متون دینی (قرآن، نهج‌البلاغه، الکافی) با معماری Zero-Hallucination RAG",
+    "topics": [
+      "al-kafi",
+      "hadith",
+      "islamic-studies",
+      "nahj-al-balagha",
+      "nlp",
+      "python",
+      "quran",
+      "rag",
+      "semantic-search",
+      "vector-database"
+    ],
+    "html_url": "https://github.com/Mokhytonium/zero-hallucination-islamic-rag",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T20:43:00Z",
+    "updated_at": "2026-11-07T21:06:23Z",
+    "pushed_at": "2026-11-07T21:06:19Z"
+  },
+  {
+    "id": 1449164803,
+    "name": "nlp-thesis",
+    "full_name": "FaizKrisnadi/nlp-thesis",
+    "owner": {
+      "login": "FaizKrisnadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68057197?v=4"
+    },
+    "description": "Can a transformer learn my thesis labels?",
+    "topics": [
+      "bert",
+      "fine-tuning",
+      "indonesian-nlp",
+      "nlp",
+      "text-classification",
+      "transformers",
+      "xlm-roberta"
+    ],
+    "html_url": "https://github.com/FaizKrisnadi/nlp-thesis",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T08:21:32Z",
+    "updated_at": "2026-11-11T21:24:16Z",
+    "pushed_at": "2026-11-07T09:15:23Z"
+  },
+  {
+    "id": 1448186291,
+    "name": "skilltrack-ai",
+    "full_name": "devsodage7/skilltrack-ai",
+    "owner": {
+      "login": "devsodage7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332443170?v=4"
+    },
+    "description": "AI-powered career readiness platform for engineering students: resume NLP, skill quizzes, gap analysis, career recommendations and personalized roadmaps. Flask + MySQL + scikit-learn. Live demo included.",
+    "topics": [
+      "bootstrap5",
+      "career-guidance",
+      "chartjs",
+      "final-year-project",
+      "flask",
+      "machine-learning",
+      "mysql",
+      "nlp",
+      "python",
+      "scikit-learn"
+    ],
+    "html_url": "https://github.com/devsodage7/skilltrack-ai",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T11:34:54Z",
+    "updated_at": "2026-11-06T17:26:17Z",
+    "pushed_at": "2026-11-06T12:20:58Z"
+  },
+  {
+    "id": 1451826202,
+    "name": "sqlllama-peft-text-to-sql",
+    "full_name": "Taha-JN/sqlllama-peft-text-to-sql",
+    "owner": {
+      "login": "Taha-JN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144231178?v=4"
+    },
+    "description": "Parameter-Efficient Fine-Tuning (PEFT) of LLaMA-2 for accurate Text-to-SQL generation using DeepSpeed ZeRO and AST validation.",
+    "topics": [
+      "deepspeed",
+      "generative-ai",
+      "llama2",
+      "llm",
+      "nlp",
+      "peft",
+      "text-to-sql",
+      "transformers"
+    ],
+    "html_url": "https://github.com/Taha-JN/sqlllama-peft-text-to-sql",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T20:06:55Z",
+    "updated_at": "2026-11-10T20:45:02Z",
+    "pushed_at": "2026-11-10T17:18:41Z"
+  },
+  {
+    "id": 1449035190,
+    "name": "RAG-Based-Enquiry-System",
+    "full_name": "srimad1111/RAG-Based-Enquiry-System",
+    "owner": {
+      "login": "srimad1111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210556486?v=4"
+    },
+    "description": "NexaDesk-RAG is an AI-powered customer support system using version-aware RAG, hybrid search (BM25 + ChromaDB), and local Qwen 3.5 4B inference to deliver accurate, context-grounded answers with verifiable citations across multiple documentation versions.",
+    "topics": [
+      "bm25",
+      "chromadb",
+      "fastapi",
+      "genai",
+      "hybrid-search",
+      "llm",
+      "nlp",
+      "ollama",
+      "python",
+      "rag",
+      "react",
+      "retrieval-augmented-generation"
+    ],
+    "html_url": "https://github.com/srimad1111/RAG-Based-Enquiry-System",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T04:48:56Z",
+    "updated_at": "2026-11-08T12:18:31Z",
+    "pushed_at": "2026-11-08T08:25:30Z"
+  },
+  {
+    "id": 1446597704,
+    "name": "phishguard-ai",
+    "full_name": "mtt8487-cmyk/phishguard-ai",
+    "owner": {
+      "login": "mtt8487-cmyk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237157363?v=4"
+    },
+    "description": "AI-powered phishing detection tool built with Python, Streamlit, and machine learning. Analyzes email content using NLP to identify phishing threats, explain predictions, and highlight social engineering indicators.",
+    "topics": [
+      "cybersecurity",
+      "machine-learning",
+      "nlp",
+      "phishing-detection",
+      "python",
+      "scikit-learn",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/mtt8487-cmyk/phishguard-ai",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T05:57:09Z",
+    "updated_at": "2026-11-05T18:16:40Z",
+    "pushed_at": "2026-11-05T06:58:40Z"
+  },
+  {
+    "id": 1451747586,
+    "name": "OptimaMT",
+    "full_name": "AmerAlreyahi/OptimaMT",
+    "owner": {
+      "login": "AmerAlreyahi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80674857?v=4"
+    },
+    "description": "Optimized machine translation models: same translations, less memory.",
+    "topics": [
+      "flores-200",
+      "huggingface",
+      "inference",
+      "int8",
+      "machine-translation",
+      "marian-nmt",
+      "memory-optimization",
+      "model-optimization",
+      "neural-machine-translation",
+      "nlp",
+      "offline-translation",
+      "onnx",
+      "onnxruntime",
+      "opus-mt",
+      "quantization",
+      "transformers-js",
+      "translation"
+    ],
+    "html_url": "https://github.com/AmerAlreyahi/OptimaMT",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T18:44:44Z",
+    "updated_at": "2026-11-11T22:21:47Z",
+    "pushed_at": "2026-11-10T12:08:21Z"
+  },
+  {
+    "id": 1447469798,
+    "name": "saturnGPT",
+    "full_name": "whyaskidk91-web/saturnGPT",
+    "owner": {
+      "login": "whyaskidk91-web",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337568377?v=4"
+    },
+    "description": "16Million parameter chatbot built from scratch: own BPE tokenizer, own GPT-style transformer, 3 training phases",
+    "topics": [
+      "bpe-tokenizer",
+      "chatbot",
+      "deep-learning",
+      "from-scratch",
+      "google-colab",
+      "gpt",
+      "llm",
+      "nlp",
+      "pytorch",
+      "transformer"
+    ],
+    "html_url": "https://github.com/whyaskidk91-web/saturnGPT",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-05T20:14:52Z",
+    "updated_at": "2026-11-06T03:25:39Z",
+    "pushed_at": "2026-11-06T03:08:25Z"
+  }
+]
