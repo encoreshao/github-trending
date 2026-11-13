@@ -1,0 +1,599 @@
+[
+  {
+    "id": 1449581967,
+    "name": "dsh-purge-safe",
+    "full_name": "CallMeGuLab/dsh-purge-safe",
+    "owner": {
+      "login": "CallMeGuLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319308597?v=4"
+    },
+    "description": "DeepSeek Harness 破甲：默认提示词面向国模「鸢码」，完整开放版，无付费墙，技能库与知识库全含。破解市面上收费 388u 的版本，免费公开。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "harness-jailbreak",
+      "jailbreak",
+      "llm-jailbreak",
+      "prompt-injection",
+      "red-team"
+    ],
+    "html_url": "https://github.com/CallMeGuLab/dsh-purge-safe",
+    "stargazers_count": 169,
+    "language": "JavaScript",
+    "forks_count": 138,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T17:26:53Z",
+    "updated_at": "2026-11-13T00:38:02Z",
+    "pushed_at": "2026-11-07T17:27:27Z"
+  },
+  {
+    "id": 1450895382,
+    "name": "gezhi-sheets",
+    "full_name": "beiwocaishijia/gezhi-sheets",
+    "owner": {
+      "login": "beiwocaishijia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264801203?v=4"
+    },
+    "description": "格知 AI · Gezhi Sheets｜让表格听懂你的话。支持 GLM、Kimi、豆包、DeepSeek、Qwen 的本地 AI 表格助手。",
+    "topics": [
+      "ai",
+      "deepseek",
+      "javascript",
+      "kimi",
+      "qwen",
+      "spreadsheet"
+    ],
+    "html_url": "https://github.com/beiwocaishijia/gezhi-sheets",
+    "stargazers_count": 88,
+    "language": "JavaScript",
+    "forks_count": 32,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T03:29:23Z",
+    "updated_at": "2026-11-13T01:42:33Z",
+    "pushed_at": "2026-11-09T10:15:10Z"
+  },
+  {
+    "id": 1454837220,
+    "name": "deepseek-uncensored",
+    "full_name": "routerhubSI/deepseek-uncensored",
+    "owner": {
+      "login": "routerhubSI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347402468?v=4"
+    },
+    "description": "Every uncensored and abliterated DeepSeek build — V4.1 Flash 1017 Abliterated (the pinned, reproducible build that ranks third on the AA Cyber benchmark), V4 Pro, the tuned variants, abliterated GGUF builds and a cyber red-team prompt library. Maintained by RouterHub.",
+    "topics": [
+      "abliterated",
+      "abliterated-models",
+      "ai-gateway",
+      "anthropic-compatible",
+      "cybersecurity",
+      "deepseek",
+      "deepseek-api",
+      "deepseek-v4",
+      "deepseek-v4-1-flash",
+      "gguf",
+      "llama-cpp",
+      "no-refusal-ai",
+      "ollama",
+      "open-weights",
+      "openai-compatible",
+      "penetration-testing",
+      "red-team",
+      "uncensored",
+      "uncensored-ai",
+      "uncensored-llm"
+    ],
+    "html_url": "https://github.com/routerhubSI/deepseek-uncensored",
+    "stargazers_count": 68,
+    "language": "Python",
+    "forks_count": 20,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T04:44:07Z",
+    "updated_at": "2026-11-12T12:35:49Z",
+    "pushed_at": "2026-11-12T05:37:52Z"
+  },
+  {
+    "id": 1453885067,
+    "name": "whiteboard-ai-tutor",
+    "full_name": "molly554/whiteboard-ai-tutor",
+    "owner": {
+      "login": "molly554",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269901342?v=4"
+    },
+    "description": "Open-source AI tutor that teaches on a whiteboard. Benchmark of 6 LLMs (Claude, Gemini, DeepSeek): 288 lessons drawn stroke by stroke, blind-reviewed. 白板 AI 导师 / AI 老师讲课评测",
+    "topics": [
+      "ai-teacher",
+      "ai-tutor",
+      "ai-tutoring",
+      "ai-whiteboard",
+      "claude",
+      "deepseek",
+      "edtech",
+      "education",
+      "gemini",
+      "llm",
+      "llm-benchmark",
+      "math-tutor",
+      "whiteboard"
+    ],
+    "html_url": "https://github.com/molly554/whiteboard-ai-tutor",
+    "stargazers_count": 62,
+    "language": "HTML",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T11:22:21Z",
+    "updated_at": "2026-11-13T01:55:31Z",
+    "pushed_at": "2026-11-12T06:30:40Z"
+  },
+  {
+    "id": 1447874578,
+    "name": "deepseek-r1-distill-cloud-guard",
+    "full_name": "danielarum740-lab/deepseek-r1-distill-cloud-guard",
+    "owner": {
+      "login": "danielarum740-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329333925?v=4"
+    },
+    "description": "DeepSeek-R1 / V3 开源权重海外算力租用防穿透：解决 RunPod / Lambda 验资秒拒与天价未关机账单。",
+    "topics": [
+      "ai",
+      "coregold",
+      "deepseek",
+      "deepseek-r1"
+    ],
+    "html_url": "https://github.com/danielarum740-lab/deepseek-r1-distill-cloud-guard",
+    "stargazers_count": 46,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T05:37:43Z",
+    "updated_at": "2026-11-12T10:09:30Z",
+    "pushed_at": "2026-11-06T05:40:51Z"
+  },
+  {
+    "id": 1451095828,
+    "name": "deepseek-v4-1-flash-cloud-pay",
+    "full_name": "clintonambe01-byte/deepseek-v4-1-flash-cloud-pay",
+    "owner": {
+      "login": "clintonambe01-byte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/354361929?v=4"
+    },
+    "description": "⚡ 海外托管调用 DeepSeek V4.1-Flash：给第三方 API 与算力平台焊死资金保险丝",
+    "topics": [
+      "ai",
+      "chatgpt",
+      "coregold",
+      "deepseek"
+    ],
+    "html_url": "https://github.com/clintonambe01-byte/deepseek-v4-1-flash-cloud-pay",
+    "stargazers_count": 33,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T08:11:13Z",
+    "updated_at": "2026-11-12T10:09:51Z",
+    "pushed_at": "2026-11-09T08:12:46Z"
+  },
+  {
+    "id": 1451207537,
+    "name": "devflow-kit",
+    "full_name": "chinhkrb113/devflow-kit",
+    "owner": {
+      "login": "chinhkrb113",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76194645?v=4"
+    },
+    "description": "Eleven complementary AI skills for requirements, architecture diagrams, interactive UI, implementation, code review, security audits and verification. Portable across Codex, Claude Code, DeepSeek Harness and Trae.",
+    "topics": [
+      "agent-skills",
+      "ai-development",
+      "architecture-diagrams",
+      "claude-code",
+      "code-review",
+      "codex",
+      "coding-agents",
+      "deepseek",
+      "developer-tools",
+      "frontend-design",
+      "security-audit",
+      "software-development",
+      "trae"
+    ],
+    "html_url": "https://github.com/chinhkrb113/devflow-kit",
+    "stargazers_count": 26,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T10:10:13Z",
+    "updated_at": "2026-11-12T10:10:18Z",
+    "pushed_at": "2026-11-11T07:04:28Z"
+  },
+  {
+    "id": 1452419238,
+    "name": "deepseek-r1-api-spend-governance",
+    "full_name": "ozanazhuang-eng/deepseek-r1-api-spend-governance",
+    "owner": {
+      "login": "ozanazhuang-eng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328977183?v=4"
+    },
+    "description": "⚡ 2026 实战指南：手把手教你用 CoreGold 商业 VCC 搞定 DeepSeek 海外托管 API 结算",
+    "topics": [
+      "ai",
+      "api",
+      "applepa",
+      "coregold",
+      "deepseek"
+    ],
+    "html_url": "https://github.com/ozanazhuang-eng/deepseek-r1-api-spend-governance",
+    "stargazers_count": 25,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T08:53:50Z",
+    "updated_at": "2026-11-12T10:10:30Z",
+    "pushed_at": "2026-11-10T08:56:13Z"
+  },
+  {
+    "id": 1447952172,
+    "name": "moxi-drama-studio",
+    "full_name": "w1251788888-web/moxi-drama-studio",
+    "owner": {
+      "login": "w1251788888-web",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268837112?v=4"
+    },
+    "description": "墨戏生花 · Moxi｜跑在 DeepSeek Harness 上的短剧创作工作台（源码公开 · 个人非商业免费；商业使用需联系作者授权）：无限画布 + 管理后台 + 规则包 + 技能。一句话故事 → 30 集剧本 → 确定性检查 → 可拍性签收 → 人工放行 → 导出 docx，数据全存本机。A source-available short-drama workbench for DeepSeek Harness.",
+    "topics": [
+      "ai-writing",
+      "chinese-drama",
+      "content-creation",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "infinite-canvas",
+      "llm",
+      "screenwriting",
+      "short-drama",
+      "source-available"
+    ],
+    "html_url": "https://github.com/w1251788888-web/moxi-drama-studio",
+    "stargazers_count": 23,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T07:17:13Z",
+    "updated_at": "2026-11-12T06:14:13Z",
+    "pushed_at": "2026-11-08T10:52:17Z"
+  },
+  {
+    "id": 1453704285,
+    "name": "moki-library-for-dsh",
+    "full_name": "JKZeng-cell/moki-library-for-dsh",
+    "owner": {
+      "login": "JKZeng-cell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241869006?v=4"
+    },
+    "description": "MOKI资料库 for DeepSeek Harness：本地文件管理、多格式预览与 Office / AI 选区协同编辑。Local file management, rich previews and precise AI editing for DSH.",
+    "topics": [
+      "ai-agent",
+      "ai-assistant",
+      "ai-collaboration",
+      "deepseek",
+      "deepseek-harness",
+      "document-management",
+      "document-preview",
+      "dsh-plugin",
+      "file-manager",
+      "knowledge-management",
+      "local-first",
+      "moki",
+      "office-editor",
+      "pdf",
+      "productivity",
+      "react",
+      "spreadsheet",
+      "typescript"
+    ],
+    "html_url": "https://github.com/JKZeng-cell/moki-library-for-dsh",
+    "stargazers_count": 17,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T08:17:13Z",
+    "updated_at": "2026-11-12T20:41:45Z",
+    "pushed_at": "2026-11-12T10:53:26Z"
+  },
+  {
+    "id": 1448339084,
+    "name": "deepseek-web-agent",
+    "full_name": "ItsDaxi/deepseek-web-agent",
+    "owner": {
+      "login": "ItsDaxi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/317642378?v=4"
+    },
+    "description": "Unofficial Chromium extension that lets the DeepSeek web chat read, write and edit files, search them and run shell commands on your computer. No API key.",
+    "topics": [
+      "ai-agent",
+      "chromium-extension",
+      "deepseek",
+      "deepseek2api",
+      "llm-tools",
+      "native-messaging"
+    ],
+    "html_url": "https://github.com/ItsDaxi/deepseek-web-agent",
+    "stargazers_count": 14,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-11-06T14:07:42Z",
+    "updated_at": "2026-11-11T17:16:14Z",
+    "pushed_at": "2026-11-12T22:12:08Z"
+  },
+  {
+    "id": 1451442369,
+    "name": "Power-Ai-Ranger-Skill",
+    "full_name": "panusbodee-owen/Power-Ai-Ranger-Skill",
+    "owner": {
+      "login": "panusbodee-owen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239707892?v=4"
+    },
+    "description": "Claude Code skill: make Claude the Head of a multi-AI team (DeepSeek, Nemotron, Qwen, any OpenAI-compatible API) with maker/reviewer flow, safety boundary and live dashboard. 中文 · ไทย · English",
+    "topics": [
+      "ai-agents",
+      "ai-dashboard",
+      "claude-code",
+      "claude-code-skill",
+      "deepseek",
+      "llm-orchestration",
+      "multi-agent",
+      "nvidia-nemotron",
+      "openai-compatible",
+      "python",
+      "thailand"
+    ],
+    "html_url": "https://github.com/panusbodee-owen/Power-Ai-Ranger-Skill",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T14:03:24Z",
+    "updated_at": "2026-11-12T18:06:35Z",
+    "pushed_at": "2026-11-12T14:49:21Z"
+  },
+  {
+    "id": 1448042023,
+    "name": "magpie-marvis",
+    "full_name": "MYCF711/magpie-marvis",
+    "owner": {
+      "login": "MYCF711",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323101370?v=4"
+    },
+    "description": "magpie / OpenCode provider plugin for Tencent Marvis — DeepSeek V4.1 Flash, sign in with QQ or WeChat, no API key to paste.",
+    "topics": [
+      "deepseek",
+      "magpie-plugin",
+      "marvis",
+      "opencode",
+      "provider"
+    ],
+    "html_url": "https://github.com/MYCF711/magpie-marvis",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 5,
+    "created_at": "2026-11-06T08:59:47Z",
+    "updated_at": "2026-11-12T00:50:25Z",
+    "pushed_at": "2026-11-08T08:55:40Z"
+  },
+  {
+    "id": 1447949002,
+    "name": "rag-learning-assistant",
+    "full_name": "jianhao-wu6/rag-learning-assistant",
+    "owner": {
+      "login": "jianhao-wu6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293045160?v=4"
+    },
+    "description": "📚 RAG 学习问答助手：完整实现检索增强生成全链路（混合检索 + RRF 融合 + Rerank 精排 + 父子文档召回），附 Streamlit 可视化界面。基于 Datawhale all-in-rag 改造。",
+    "topics": [
+      "deepseek",
+      "faiss",
+      "hybrid-search",
+      "langchain",
+      "rag",
+      "rerank",
+      "retrieval-augmented-generation",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/jianhao-wu6/rag-learning-assistant",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T07:13:42Z",
+    "updated_at": "2026-11-12T09:05:52Z",
+    "pushed_at": "2026-11-06T08:33:05Z"
+  },
+  {
+    "id": 1453780071,
+    "name": "DeepSeek-GitHub",
+    "full_name": "zhaohaix/DeepSeek-GitHub",
+    "owner": {
+      "login": "zhaohaix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249404915?v=4"
+    },
+    "description": "面向 DeepSeek Harness 的 GitHub 连接插件：仓库管理、源码 AI 介绍、文案自动保存与 Release 发布。",
+    "topics": [
+      "ai-tools",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "github",
+      "release-management"
+    ],
+    "html_url": "https://github.com/zhaohaix/DeepSeek-GitHub",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T09:35:37Z",
+    "updated_at": "2026-11-12T06:14:11Z",
+    "pushed_at": "2026-11-12T00:26:55Z"
+  },
+  {
+    "id": 1450978772,
+    "name": "deepseek-flash-v4.1-dual-rtx-6000",
+    "full_name": "theogravity/deepseek-flash-v4.1-dual-rtx-6000",
+    "owner": {
+      "login": "theogravity",
+      "avatar_url": "https://avatars.githubusercontent.com/u/855434?v=4"
+    },
+    "description": "Setup for running DS4.1 flash with reasonable quality and speed on 2x RTX 6000 PRO @ 512k context c6 max w/ RAM and disk offload / caching",
+    "topics": [
+      "deepseek",
+      "deepseek-v4-1-flash",
+      "rtx-pro-6000",
+      "vllm"
+    ],
+    "html_url": "https://github.com/theogravity/deepseek-flash-v4.1-dual-rtx-6000",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T05:39:24Z",
+    "updated_at": "2026-11-10T01:54:40Z",
+    "pushed_at": "2026-11-09T18:28:50Z"
+  },
+  {
+    "id": 1454798086,
+    "name": "travel-story-dsh",
+    "full_name": "wang-bool/travel-story-dsh",
+    "owner": {
+      "login": "wang-bool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39687599?v=4"
+    },
+    "description": "🧳 把 Travel Story 搬进 DeepSeek Harness：AI 直接帮你规划行程、查天气、驱动地图的旅行插件（18 个 agent 工具）",
+    "topics": [
+      "agent-tools",
+      "ai-agent",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "itinerary",
+      "llm",
+      "maplibre",
+      "mcp",
+      "plugin",
+      "travel",
+      "travel-planning",
+      "travel-story",
+      "trip-planner"
+    ],
+    "html_url": "https://github.com/wang-bool/travel-story-dsh",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T03:50:49Z",
+    "updated_at": "2026-11-12T06:56:53Z",
+    "pushed_at": "2026-11-12T03:59:34Z"
+  },
+  {
+    "id": 1448027961,
+    "name": "mirobody-ironm",
+    "full_name": "thetahealth/mirobody-ironm",
+    "owner": {
+      "login": "thetahealth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232740533?v=4"
+    },
+    "description": "AI fitness coach that sees your training, food and sleep together, and plans them together. Open source, built on Mirobody. 你的 AI 健身管家：练、吃、睡一起看，一起安排。",
+    "topics": [
+      "ai-agent",
+      "ai-coach",
+      "calorie-counter",
+      "deepseek",
+      "diet",
+      "fastapi",
+      "fitness",
+      "fitness-app",
+      "gym",
+      "health",
+      "health-data",
+      "llm",
+      "mirobody",
+      "nutrition",
+      "personal-trainer",
+      "react-native",
+      "self-hosted",
+      "strength-training",
+      "workout",
+      "workout-tracker"
+    ],
+    "html_url": "https://github.com/thetahealth/mirobody-ironm",
+    "stargazers_count": 6,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T08:44:56Z",
+    "updated_at": "2026-11-09T12:51:22Z",
+    "pushed_at": "2026-11-09T09:25:31Z"
+  },
+  {
+    "id": 1452925182,
+    "name": "streamspec",
+    "full_name": "Prajwal7-2002/streamspec",
+    "owner": {
+      "login": "Prajwal7-2002",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109474141?v=4"
+    },
+    "description": "Asynchronous Speculative Layer-Streaming for Frontier & Futuristic AI (70B & DeepSeek-R1 on Consumer Silicon)",
+    "topics": [
+      "deepseek",
+      "deepseek-r1",
+      "edge-ai",
+      "layer-streaming",
+      "llm-inference",
+      "pytorch",
+      "speculative-decoding",
+      "transformers"
+    ],
+    "html_url": "https://github.com/Prajwal7-2002/streamspec",
+    "stargazers_count": 6,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T16:40:34Z",
+    "updated_at": "2026-11-12T06:05:07Z",
+    "pushed_at": "2026-11-11T03:52:41Z"
+  },
+  {
+    "id": 1453544822,
+    "name": "paperex",
+    "full_name": "sylhl/paperex",
+    "owner": {
+      "login": "sylhl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225546958?v=4"
+    },
+    "description": "本地优先的学术论文原位重排双语阅读器：公式、图表与排版保真，LLM 逐段翻译后写回原 PDF 坐标；内置质量循环、隔离 QA 与 qa.json 质检报告，支持 DeepSeek / OpenAI 兼容接口。FastAPI + React + Tauri，AGPL-3.0。",
+    "topics": [
+      "academic",
+      "bilingual",
+      "deepseek",
+      "fastapi",
+      "llm",
+      "paper-reading",
+      "pdf",
+      "python",
+      "react",
+      "tauri",
+      "translation"
+    ],
+    "html_url": "https://github.com/sylhl/paperex",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T05:05:37Z",
+    "updated_at": "2026-11-12T14:54:09Z",
+    "pushed_at": "2026-11-11T15:23:05Z"
+  }
+]

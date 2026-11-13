@@ -1,0 +1,620 @@
+[
+  {
+    "id": 1447768703,
+    "name": "iOS-NOIR",
+    "full_name": "arnold117/iOS-NOIR",
+    "owner": {
+      "login": "arnold117",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60877940?v=4"
+    },
+    "description": "No-jailbreak iOS privacy, entitlement, sandbox & telemetry forensic auditor (inspired by Verlintas/NOIR)",
+    "topics": [
+      "audit",
+      "forensics",
+      "ios",
+      "osint",
+      "privacy",
+      "pymobiledevice3",
+      "security",
+      "telemetry"
+    ],
+    "html_url": "https://github.com/arnold117/iOS-NOIR",
+    "stargazers_count": 321,
+    "language": "Python",
+    "forks_count": 60,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T03:03:47Z",
+    "updated_at": "2026-11-12T17:06:02Z",
+    "pushed_at": "2026-11-06T07:58:04Z"
+  },
+  {
+    "id": 1453094692,
+    "name": "ashampoo-undelete-recovery",
+    "full_name": "raca2024/ashampoo-undelete-recovery",
+    "owner": {
+      "login": "raca2024",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171393690?v=4"
+    },
+    "description": "Ashampoo Undeleter: Windows file recovery and drive scanning security tool",
+    "topics": [
+      "ashampoo-undeleter",
+      "ashampoo-undeleter-setup",
+      "security",
+      "software-recovery",
+      "trial-version",
+      "windows",
+      "windows-security",
+      "windows-tools"
+    ],
+    "html_url": "https://github.com/raca2024/ashampoo-undelete-recovery",
+    "stargazers_count": 102,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T19:22:37Z",
+    "updated_at": "2026-11-12T07:53:33Z",
+    "pushed_at": "2026-11-12T22:10:44Z"
+  },
+  {
+    "id": 1450629627,
+    "name": "wildos",
+    "full_name": "wildorigins/wildos",
+    "owner": {
+      "login": "wildorigins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26307610?v=4"
+    },
+    "description": "A hardened Linux desktop, rebuilt from scratch, with your Windows apps built in. Free and open source.",
+    "topics": [
+      "debian",
+      "desktop",
+      "kde-plasma",
+      "linux",
+      "linux-distribution",
+      "operating-system",
+      "privacy",
+      "security",
+      "windows-apps"
+    ],
+    "html_url": "https://github.com/wildorigins/wildos",
+    "stargazers_count": 76,
+    "language": "C++",
+    "forks_count": 5,
+    "open_issues_count": 2,
+    "created_at": "2026-11-08T20:17:58Z",
+    "updated_at": "2026-11-12T13:53:47Z",
+    "pushed_at": "2026-11-12T20:22:00Z"
+  },
+  {
+    "id": 1453539689,
+    "name": "impacket-rs",
+    "full_name": "nestho/impacket-rs",
+    "owner": {
+      "login": "nestho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63925710?v=4"
+    },
+    "description": "High-performance, memory-safe pure-Rust redesign of Impacket protocols and Active Directory tools for Linux, macOS, and Windows.",
+    "topics": [
+      "active-directory",
+      "impacket",
+      "impacket-library",
+      "impacket-mssqlclient",
+      "impacket-secretsdump",
+      "kerberos",
+      "offsec",
+      "offsec-tools",
+      "redteam",
+      "redteam-tools",
+      "redteaming",
+      "rust",
+      "security",
+      "security-audit",
+      "security-scanner",
+      "security-tools",
+      "smb"
+    ],
+    "html_url": "https://github.com/nestho/impacket-rs",
+    "stargazers_count": 74,
+    "language": "Rust",
+    "forks_count": 13,
+    "open_issues_count": 1,
+    "created_at": "2026-11-11T04:58:36Z",
+    "updated_at": "2026-11-13T01:28:37Z",
+    "pushed_at": "2026-11-11T20:44:30Z"
+  },
+  {
+    "id": 1448116698,
+    "name": "pwn-skill",
+    "full_name": "BountyForge-xyz/pwn-skill",
+    "owner": {
+      "login": "BountyForge-xyz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328017016?v=4"
+    },
+    "description": "Agent skill for binary exploitation and CTF pwn — stack, heap, format string, kernel, seccomp bypass.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "binary-exploitation",
+      "ctf",
+      "exploit-development",
+      "heap-exploitation",
+      "kernel-pwn",
+      "llm",
+      "pwn",
+      "pwntools",
+      "rop",
+      "seccomp",
+      "security"
+    ],
+    "html_url": "https://github.com/BountyForge-xyz/pwn-skill",
+    "stargazers_count": 54,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T10:19:31Z",
+    "updated_at": "2026-11-12T12:07:46Z",
+    "pushed_at": "2026-11-06T10:23:35Z"
+  },
+  {
+    "id": 1450695273,
+    "name": "airgap-check",
+    "full_name": "humanethq/airgap-check",
+    "owner": {
+      "login": "humanethq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289281976?v=4"
+    },
+    "description": "Audit AI repositories for offline (--network none) crashes, silent telemetry, and .env secret routing",
+    "topics": [
+      "air-gapped",
+      "airgap",
+      "cli",
+      "golang",
+      "llm",
+      "offline-ai",
+      "security",
+      "self-hosted",
+      "static-analysis",
+      "telemetry"
+    ],
+    "html_url": "https://github.com/humanethq/airgap-check",
+    "stargazers_count": 20,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T21:55:28Z",
+    "updated_at": "2026-11-12T15:09:15Z",
+    "pushed_at": "2026-11-11T18:21:33Z"
+  },
+  {
+    "id": 1449369527,
+    "name": "browser-verified-skill",
+    "full_name": "OMD-123/browser-verified-skill",
+    "owner": {
+      "login": "OMD-123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167901945?v=4"
+    },
+    "description": "Browser automation with evidence. An Agent Skill that lets an AI agent drive a real browser while every action passes a policy gate, every run leaves an auditable artifact, and the run compiles into a plain Playwright script that replays for free.",
+    "topics": [
+      "accessibility-testing",
+      "agent-safety",
+      "agent-skill",
+      "agent-skills",
+      "ai-agent",
+      "browser-automation",
+      "browser-testing",
+      "e2e-testing",
+      "headless-browser",
+      "mcp",
+      "model-context-protocol",
+      "playwright",
+      "prompt-injection",
+      "prompt-injection-defense",
+      "security",
+      "self-healing",
+      "self-healing-tests",
+      "test-automation",
+      "visual-regression",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/OMD-123/browser-verified-skill",
+    "stargazers_count": 13,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T13:12:14Z",
+    "updated_at": "2026-11-11T13:09:52Z",
+    "pushed_at": "2026-11-10T15:57:22Z"
+  },
+  {
+    "id": 1448207150,
+    "name": "passkey-kit",
+    "full_name": "Rukshan2000/passkey-kit",
+    "owner": {
+      "login": "Rukshan2000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97118309?v=4"
+    },
+    "description": "TypeScript-first passkey (WebAuthn) toolkit for Node.js",
+    "topics": [
+      "authentication",
+      "nodejs",
+      "passkeys",
+      "security",
+      "typescript",
+      "webauthn"
+    ],
+    "html_url": "https://github.com/Rukshan2000/passkey-kit",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T11:57:46Z",
+    "updated_at": "2026-11-11T06:50:05Z",
+    "pushed_at": "2026-11-10T06:52:36Z"
+  },
+  {
+    "id": 1448949639,
+    "name": "ha-security-monitor",
+    "full_name": "schadom/ha-security-monitor",
+    "owner": {
+      "login": "schadom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33547308?v=4"
+    },
+    "description": "Home Assistant Security Monitor integration",
+    "topics": [
+      "hacs",
+      "hacs-integration",
+      "home-assistant",
+      "security"
+    ],
+    "html_url": "https://github.com/schadom/ha-security-monitor",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-07T02:19:42Z",
+    "updated_at": "2026-11-09T09:14:02Z",
+    "pushed_at": "2026-11-07T21:56:00Z"
+  },
+  {
+    "id": 1450663336,
+    "name": "installctl",
+    "full_name": "yamixst/installctl",
+    "owner": {
+      "login": "yamixst",
+      "avatar_url": "https://avatars.githubusercontent.com/u/664390?v=4"
+    },
+    "description": "Run untrusted third-party installers (curl | sh) in an unprivileged FUSE copy-on-write sandbox and review changes before applying them",
+    "topics": [
+      "cli",
+      "deb",
+      "fuse",
+      "installer",
+      "linux",
+      "overlayfs",
+      "rpm",
+      "rust",
+      "sandbox",
+      "security",
+      "user-namespaces"
+    ],
+    "html_url": "https://github.com/yamixst/installctl",
+    "stargazers_count": 11,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T21:06:36Z",
+    "updated_at": "2026-11-12T18:30:53Z",
+    "pushed_at": "2026-11-08T23:14:41Z"
+  },
+  {
+    "id": 1449825953,
+    "name": "php2shell-deep-dive",
+    "full_name": "djad04/php2shell-deep-dive",
+    "owner": {
+      "login": "djad04",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141584932?v=4"
+    },
+    "description": " A deep technical walkthrough of PHP2Shell from memory visualization of a real exploit against PHP 8.4.26's Steal My Bitcoin challenge, to PHP's source code internals and engine, to the exploit code itself. How two CVEs in PHP's core (CVE-2026-109618 & CVE-2026-109619) chain an out-of-memory crash into remote code execution",
+    "topics": [
+      "ctf-writeups",
+      "cve-2026-109618",
+      "cve-2026-109619",
+      "exploit",
+      "heap-exploitation",
+      "php2shell",
+      "php2shell-vulnerability",
+      "rce",
+      "security"
+    ],
+    "html_url": "https://github.com/djad04/php2shell-deep-dive",
+    "stargazers_count": 9,
+    "language": "HTML",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T23:40:49Z",
+    "updated_at": "2026-11-11T14:39:47Z",
+    "pushed_at": "2026-11-12T21:00:48Z"
+  },
+  {
+    "id": 1449543525,
+    "name": "wordpress-security-ops",
+    "full_name": "MADEVAL/wordpress-security-ops",
+    "owner": {
+      "login": "MADEVAL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10908537?v=4"
+    },
+    "description": "Operational WordPress security skill: audit, harden, investigate and repair hacked sites. Works with BotBlocker Security, WP-CLI, SSH, host logs or the admin UI alone.",
+    "topics": [
+      "ai-agent",
+      "blue-team",
+      "botblocker",
+      "claude-code",
+      "forensics",
+      "incident-response",
+      "malware",
+      "malware-removal",
+      "mcp",
+      "opencode",
+      "php",
+      "security",
+      "security-audit",
+      "security-tools",
+      "site-recovery",
+      "skills",
+      "wordpress",
+      "wordpress-hardening",
+      "wordpress-security",
+      "wp-cli"
+    ],
+    "html_url": "https://github.com/MADEVAL/wordpress-security-ops",
+    "stargazers_count": 8,
+    "language": "PHP",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T16:39:42Z",
+    "updated_at": "2026-11-12T20:18:51Z",
+    "pushed_at": "2026-11-07T23:57:42Z"
+  },
+  {
+    "id": 1448513889,
+    "name": "opencode-sandbox",
+    "full_name": "Hamza-Abili/opencode-sandbox",
+    "owner": {
+      "login": "Hamza-Abili",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74812019?v=4"
+    },
+    "description": "OpenCode V1+V2 command sandbox: native bubblewrap (Linux) / Seatbelt (macOS), read-only system, writable workspace, cleared environment, network denied by default. Fail-closed, zero runtime dependencies.",
+    "topics": [
+      "agent-sandbox",
+      "ai-agents",
+      "bubblewrap",
+      "command-sandbox",
+      "opencode",
+      "opencode-plugin",
+      "sandbox",
+      "seatbelt",
+      "security"
+    ],
+    "html_url": "https://github.com/Hamza-Abili/opencode-sandbox",
+    "stargazers_count": 5,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T16:51:21Z",
+    "updated_at": "2026-11-12T17:50:26Z",
+    "pushed_at": "2026-11-12T08:43:28Z"
+  },
+  {
+    "id": 1454082854,
+    "name": "Flagwake",
+    "full_name": "Sid00011/Flagwake",
+    "owner": {
+      "login": "Sid00011",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160889079?v=4"
+    },
+    "description": "A free, offline, re-checkable test of how an AI defender behaves during a security incident, scored with business cost.",
+    "topics": [
+      "ai-agents",
+      "benchmark",
+      "blue-team",
+      "evaluation",
+      "incident-response",
+      "llm-evaluation",
+      "security",
+      "security-tools",
+      "simulation",
+      "soc"
+    ],
+    "html_url": "https://github.com/Sid00011/Flagwake",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T14:26:28Z",
+    "updated_at": "2026-11-12T23:26:50Z",
+    "pushed_at": "2026-11-12T16:25:23Z"
+  },
+  {
+    "id": 1448224653,
+    "name": "api-key-leak-check",
+    "full_name": "swytchcodehq/api-key-leak-check",
+    "owner": {
+      "login": "swytchcodehq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274491879?v=4"
+    },
+    "description": "Is your AI agent leaking your API keys? A free, read-only security check for OpenClaw and Hermes. Finds keys in agent memory, chat history, skills, settings and backups, explains it in plain words, and helps you fix it.",
+    "topics": [
+      "agent-skills",
+      "api-keys",
+      "clawhub",
+      "hermes-agent",
+      "leak-detection",
+      "openclaw",
+      "secrets-detection",
+      "security"
+    ],
+    "html_url": "https://github.com/swytchcodehq/api-key-leak-check",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T12:16:27Z",
+    "updated_at": "2026-11-11T21:47:22Z",
+    "pushed_at": "2026-11-08T11:52:23Z"
+  },
+  {
+    "id": 1452153273,
+    "name": "SAVR",
+    "full_name": "sanjio3/SAVR",
+    "owner": {
+      "login": "sanjio3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207722594?v=4"
+    },
+    "description": "Automated white-box vulnerability scanning and verification: SAVR confirms every SAST finding by deterministically replaying it against a live target. Scan · Analyze · Verify · Replay",
+    "topics": [
+      "application-security",
+      "appsec",
+      "automated-testing",
+      "code-security",
+      "codeql",
+      "dast",
+      "devsecops",
+      "iast",
+      "java",
+      "llm",
+      "python",
+      "rasp",
+      "sast",
+      "security",
+      "static-analysis",
+      "vulnerability-scanner",
+      "whitebox"
+    ],
+    "html_url": "https://github.com/sanjio3/SAVR",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T03:18:42Z",
+    "updated_at": "2026-11-12T14:34:17Z",
+    "pushed_at": "2026-11-12T03:54:39Z"
+  },
+  {
+    "id": 1448709613,
+    "name": "goraz",
+    "full_name": "mtnaskari/goraz",
+    "owner": {
+      "login": "mtnaskari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92125867?v=4"
+    },
+    "description": "Encrypted secrets, API tokens and passwords for Go services and the command line. No server needed.",
+    "topics": [
+      "api-token",
+      "argon2",
+      "cli",
+      "docker-secrets",
+      "encryption",
+      "go",
+      "golang",
+      "kubernetes-secrets",
+      "password-manager",
+      "secret-manager",
+      "secrets-management",
+      "security",
+      "vault",
+      "xchacha20-poly1305"
+    ],
+    "html_url": "https://github.com/mtnaskari/goraz",
+    "stargazers_count": 5,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T20:19:37Z",
+    "updated_at": "2026-11-12T03:39:55Z",
+    "pushed_at": "2026-11-12T02:55:34Z"
+  },
+  {
+    "id": 1453847041,
+    "name": "bastion",
+    "full_name": "ozerozdas/bastion",
+    "owner": {
+      "login": "ozerozdas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30004132?v=4"
+    },
+    "description": "Local-first security center: one binary scans your GitHub repos and images with Trivy and Gitleaks, nothing leaves your machine",
+    "topics": [
+      "devsecops",
+      "gitleaks",
+      "golang",
+      "local-first",
+      "sbom",
+      "secret-scanning",
+      "security",
+      "self-hosted",
+      "trivy",
+      "vulnerability-scanner"
+    ],
+    "html_url": "https://github.com/ozerozdas/bastion",
+    "stargazers_count": 4,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 56,
+    "created_at": "2026-11-11T10:43:35Z",
+    "updated_at": "2026-11-12T18:17:57Z",
+    "pushed_at": "2026-11-12T18:07:56Z"
+  },
+  {
+    "id": 1448470040,
+    "name": "Nodar",
+    "full_name": "JoaoMRB/Nodar",
+    "owner": {
+      "login": "JoaoMRB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124313493?v=4"
+    },
+    "description": "See who's on your local network. A Windows app that discovers every device, identifies it, checks its services for known vulnerabilities (NVD + CISA KEV) and alerts you when someone new joins. Open source, no account, your data stays on your PC.",
+    "topics": [
+      "avalonia",
+      "dotnet",
+      "network-scanner",
+      "network-scanner-free",
+      "security"
+    ],
+    "html_url": "https://github.com/JoaoMRB/Nodar",
+    "stargazers_count": 4,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T16:09:44Z",
+    "updated_at": "2026-11-12T17:49:48Z",
+    "pushed_at": "2026-11-09T14:08:11Z"
+  },
+  {
+    "id": 1448543933,
+    "name": "winsploit",
+    "full_name": "tahabenissa/winsploit",
+    "owner": {
+      "login": "tahabenissa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172283711?v=4"
+    },
+    "description": "A native-Windows security toolbox & command runner: a beautiful Rust/ratatui TUI that detects, installs (via Scoop) and runs the pentest tools that work natively on Windows. Authorized use only.",
+    "topics": [
+      "cli",
+      "hacking-tools",
+      "pentesting",
+      "ratatui",
+      "red-team",
+      "rust",
+      "scoop",
+      "security",
+      "tui",
+      "windows"
+    ],
+    "html_url": "https://github.com/tahabenissa/winsploit",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 40,
+    "created_at": "2026-11-06T17:21:14Z",
+    "updated_at": "2026-11-09T16:11:38Z",
+    "pushed_at": "2026-11-12T22:18:40Z"
+  }
+]

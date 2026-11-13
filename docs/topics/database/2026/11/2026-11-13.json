@@ -1,0 +1,608 @@
+[
+  {
+    "id": 1448721787,
+    "name": "ai-app-builder-open",
+    "full_name": "AbhiKamane/ai-app-builder-open",
+    "owner": {
+      "login": "AbhiKamane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128049104?v=4"
+    },
+    "description": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
+    "topics": [
+      "ai-app-builder",
+      "ai-code-generation",
+      "ai-open-source",
+      "ai-web-app-builder",
+      "ai-web-builder",
+      "app-builder",
+      "auth",
+      "bolt-alternative",
+      "database",
+      "domain",
+      "fullstack",
+      "hosting",
+      "lovable-alternative",
+      "nextjs",
+      "no-code",
+      "sandbox",
+      "self-hosted",
+      "typescript",
+      "v0-alternative",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/AbhiKamane/ai-app-builder-open",
+    "stargazers_count": 384,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T20:33:39Z",
+    "updated_at": "2026-11-12T11:00:54Z",
+    "pushed_at": "2026-11-12T23:08:02Z"
+  },
+  {
+    "id": 1448362205,
+    "name": "play-reactive-slick",
+    "full_name": "spiderveer1-byte/play-reactive-slick",
+    "owner": {
+      "login": "spiderveer1-byte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287470748?v=4"
+    },
+    "description": "Play + Postgres starter template with a clean UI",
+    "topics": [
+      "activator",
+      "css",
+      "database",
+      "html",
+      "javascript",
+      "knoldus",
+      "play-framework",
+      "sbt",
+      "scala",
+      "slick"
+    ],
+    "html_url": "https://github.com/spiderveer1-byte/play-reactive-slick",
+    "stargazers_count": 149,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T14:29:06Z",
+    "updated_at": "2026-11-12T14:22:02Z",
+    "pushed_at": "2026-11-12T21:11:08Z"
+  },
+  {
+    "id": 1447886059,
+    "name": "databasify",
+    "full_name": "databasifylabs/databasify",
+    "owner": {
+      "login": "databasifylabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348997565?v=4"
+    },
+    "description": "An open-source, self-hostable DBaaS alternative to DigitalOcean Managed Databases, Amazon RDS & Aiven that lets you run PostgreSQL, MySQL, MariaDB, MongoDB, Valkey and Redis, from a single node to a highly available cluster with automatic failover, point-in-time backups and TLS, on your own servers.",
+    "topics": [
+      "database",
+      "dbaas",
+      "high-availability",
+      "laravel",
+      "mariadb",
+      "mongodb",
+      "mysql",
+      "postgresql",
+      "redis",
+      "self-hosted",
+      "valkey"
+    ],
+    "html_url": "https://github.com/databasifylabs/databasify",
+    "stargazers_count": 16,
+    "language": "PHP",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T05:53:39Z",
+    "updated_at": "2026-11-13T01:16:55Z",
+    "pushed_at": "2026-11-13T01:09:29Z"
+  },
+  {
+    "id": 1449318624,
+    "name": "erd-editor",
+    "full_name": "mnr73/erd-editor",
+    "owner": {
+      "login": "mnr73",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23061025?v=4"
+    },
+    "description": "Local database diagram (ERD) editor. One .erd.json file, Git-friendly and AI-agent readable. Export SQL/DBML/PNG.",
+    "topics": [
+      "database",
+      "database-design",
+      "database-schema",
+      "erd",
+      "erdiagram",
+      "uml",
+      "uml-diagram"
+    ],
+    "html_url": "https://github.com/mnr73/erd-editor",
+    "stargazers_count": 15,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T12:03:53Z",
+    "updated_at": "2026-11-10T05:53:37Z",
+    "pushed_at": "2026-11-10T05:53:32Z"
+  },
+  {
+    "id": 1448918845,
+    "name": "Duck",
+    "full_name": "swiftstream/Duck",
+    "owner": {
+      "login": "swiftstream",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59668746?v=4"
+    },
+    "description": "🦆 Postgres-like SQL power for iOS/macOS. Made for Swift with love. Beyond SQLite limitations on mobile.",
+    "topics": [
+      "database",
+      "duckdb",
+      "ios",
+      "macos",
+      "postgres"
+    ],
+    "html_url": "https://github.com/swiftstream/Duck",
+    "stargazers_count": 7,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T01:25:48Z",
+    "updated_at": "2026-11-13T01:56:35Z",
+    "pushed_at": "2026-11-12T21:02:19Z"
+  },
+  {
+    "id": 1454436747,
+    "name": "ha-db-storage-manager",
+    "full_name": "giuliodali/ha-db-storage-manager",
+    "owner": {
+      "login": "giuliodali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37904645?v=4"
+    },
+    "description": "Home Assistant Database Explorer and Size Reducer: See where your Home Assistant database space goes, and safely shrink it",
+    "topics": [
+      "database",
+      "hacs",
+      "home-assistant",
+      "home-assistant-component",
+      "homeassistant",
+      "recorder",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/giuliodali/ha-db-storage-manager",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T19:57:40Z",
+    "updated_at": "2026-11-12T21:16:39Z",
+    "pushed_at": "2026-11-11T22:15:05Z"
+  },
+  {
+    "id": 1450442936,
+    "name": "branchline",
+    "full_name": "brimleylabs/branchline",
+    "owner": {
+      "login": "brimleylabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246615743?v=4"
+    },
+    "description": "Version control for the WordPress database. Every environment is a branch. Pull production content down, publish releases up, and lose nothing.",
+    "topics": [
+      "database",
+      "devops",
+      "dolt",
+      "version-control",
+      "woocommerce",
+      "wordpress",
+      "wordpress-plugin"
+    ],
+    "html_url": "https://github.com/brimleylabs/branchline",
+    "stargazers_count": 5,
+    "language": "PHP",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T16:13:45Z",
+    "updated_at": "2026-11-11T19:47:11Z",
+    "pushed_at": "2026-11-09T05:12:38Z"
+  },
+  {
+    "id": 1448681759,
+    "name": "sql-server-query-store-basucu-rehberi",
+    "full_name": "dmcteknoloji/sql-server-query-store-basucu-rehberi",
+    "owner": {
+      "login": "dmcteknoloji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280632249?v=4"
+    },
+    "description": "SQL Server Query Store Handbook (EN, 215 pp) and Başucu Rehberi (TR, 196 sayfa): free PDFs, measured on SQL Server 2019/2022/2025, scripts and raw outputs",
+    "topics": [
+      "availability-groups",
+      "azure",
+      "database",
+      "dba",
+      "english",
+      "handbook",
+      "parameter-sensitive-plan",
+      "performance-tuning",
+      "plan-forcing",
+      "query-store",
+      "sql-server",
+      "sql-server-2025",
+      "turkish"
+    ],
+    "html_url": "https://github.com/dmcteknoloji/sql-server-query-store-basucu-rehberi",
+    "stargazers_count": 3,
+    "language": "TSQL",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T19:47:44Z",
+    "updated_at": "2026-11-09T16:31:04Z",
+    "pushed_at": "2026-11-09T10:18:49Z"
+  },
+  {
+    "id": 1447935477,
+    "name": "dr-panda-mcp",
+    "full_name": "linyu19872008/dr-panda-mcp",
+    "owner": {
+      "login": "linyu19872008",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4555100?v=4"
+    },
+    "description": "A read-only MCP service for production troubleshooting: register databases, logs, code and message queues in a web console, then let AI clients query them safely by target name.",
+    "topics": [
+      "ai-agents",
+      "database",
+      "elasticsearch",
+      "fastmcp",
+      "incident-response",
+      "kafka",
+      "mcp",
+      "model-context-protocol",
+      "mongodb",
+      "mysql",
+      "observability",
+      "python",
+      "rabbitmq",
+      "read-only",
+      "redis",
+      "troubleshooting"
+    ],
+    "html_url": "https://github.com/linyu19872008/dr-panda-mcp",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T06:57:38Z",
+    "updated_at": "2026-11-11T16:02:28Z",
+    "pushed_at": "2026-11-11T15:29:49Z"
+  },
+  {
+    "id": 1454274820,
+    "name": "laravel-partitions",
+    "full_name": "MakssYurkovskiy/laravel-partitions",
+    "owner": {
+      "login": "MakssYurkovskiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13015077?v=4"
+    },
+    "description": "Flexible MySQL partition management for Laravel: RANGE partitions by day/week/month/year, retention pruning, artisan tooling and scheduled maintenance.",
+    "topics": [
+      "database",
+      "laravel",
+      "mariadb",
+      "mysql",
+      "partition-manager",
+      "partition-table",
+      "partition-tools",
+      "partitioning",
+      "partitions",
+      "retention",
+      "table-partitioning"
+    ],
+    "html_url": "https://github.com/MakssYurkovskiy/laravel-partitions",
+    "stargazers_count": 2,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T17:16:56Z",
+    "updated_at": "2026-11-12T18:08:39Z",
+    "pushed_at": "2026-11-12T22:34:20Z"
+  },
+  {
+    "id": 1451626721,
+    "name": "tidesql-percona",
+    "full_name": "tidesdb/tidesql-percona",
+    "owner": {
+      "login": "tidesdb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184959755?v=4"
+    },
+    "description": "Pluggable Percona Server engine built on TidesDB.",
+    "topics": [
+      "database",
+      "lsm-tree",
+      "mysql-database"
+    ],
+    "html_url": "https://github.com/tidesdb/tidesql-percona",
+    "stargazers_count": 2,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T16:45:17Z",
+    "updated_at": "2026-11-11T09:38:38Z",
+    "pushed_at": "2026-11-11T21:08:07Z"
+  },
+  {
+    "id": 1448184979,
+    "name": "hive-go",
+    "full_name": "wgzhao/hive-go",
+    "owner": {
+      "login": "wgzhao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1001616?v=4"
+    },
+    "description": "Pure-Go HiveServer2 client and CLI — query Apache Hive over Thrift without a JVM, Hadoop client libraries, or CGO.",
+    "topics": [
+      "apache-hive",
+      "beeline",
+      "big-data",
+      "cli",
+      "database",
+      "go",
+      "golang",
+      "hadoop",
+      "hive",
+      "hive-cli",
+      "hiveserver2",
+      "pure-go",
+      "sql",
+      "thrift"
+    ],
+    "html_url": "https://github.com/wgzhao/hive-go",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-06T11:33:24Z",
+    "updated_at": "2026-11-07T11:58:05Z",
+    "pushed_at": "2026-11-07T11:58:02Z"
+  },
+  {
+    "id": 1453414877,
+    "name": "laravel-dolt",
+    "full_name": "brimleylabs/laravel-dolt",
+    "owner": {
+      "login": "brimleylabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246615743?v=4"
+    },
+    "description": "Version control for your Laravel database. Branches, commits, diffs, merges and time travel, powered by Dolt and Doltgres.",
+    "topics": [
+      "ai-agents",
+      "audit-log",
+      "database",
+      "dolt",
+      "doltgres",
+      "laravel",
+      "php",
+      "version-control"
+    ],
+    "html_url": "https://github.com/brimleylabs/laravel-dolt",
+    "stargazers_count": 1,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T02:06:33Z",
+    "updated_at": "2026-11-11T23:03:02Z",
+    "pushed_at": "2026-11-11T02:52:53Z"
+  },
+  {
+    "id": 1452622383,
+    "name": "Rowster",
+    "full_name": "romainrg/Rowster",
+    "owner": {
+      "login": "romainrg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14097222?v=4"
+    },
+    "description": "A native, free and open-source database client for macOS: PostgreSQL, MySQL, MariaDB and SQLite, with safety built in.",
+    "topics": [
+      "appkit",
+      "database",
+      "macos",
+      "mariadb",
+      "mysql",
+      "open-source",
+      "postgresql",
+      "sql-client",
+      "sqlite",
+      "swift",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/romainrg/Rowster",
+    "stargazers_count": 1,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T12:17:08Z",
+    "updated_at": "2026-11-11T09:52:41Z",
+    "pushed_at": "2026-11-11T08:52:39Z"
+  },
+  {
+    "id": 1455706808,
+    "name": "anime-list-manager",
+    "full_name": "PinPorterBeam/anime-list-manager",
+    "owner": {
+      "login": "PinPorterBeam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299337752?v=4"
+    },
+    "description": "Anime List Manager is a specialized catalog utility designed to track, organize, and synchronize watched and upcoming animated series. Media enthusiasts and collectors utilize this tool to log episode progress, rate titles, and manage personalized watchlists effortlessly.",
+    "topics": [
+      "anidb",
+      "anilist",
+      "anime",
+      "anime-db",
+      "anime-planet",
+      "anisearch",
+      "database",
+      "dataset",
+      "json",
+      "kitsu",
+      "kitsu-io",
+      "livechart",
+      "livechartme",
+      "mal",
+      "metadata",
+      "myanimelist",
+      "series",
+      "simkl"
+    ],
+    "html_url": "https://github.com/PinPorterBeam/anime-list-manager",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T18:53:27Z",
+    "updated_at": "2026-11-12T19:01:31Z",
+    "pushed_at": "2026-11-12T19:00:21Z"
+  },
+  {
+    "id": 1451917285,
+    "name": "nonodb",
+    "full_name": "essmos/nonodb",
+    "owner": {
+      "login": "essmos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14994065?v=4"
+    },
+    "description": "A low-resource, crash-safe JSON document database with ~5 MB idle RAM, BM25/fuzzy search, vector search, compound indexes, and MongoDB-style queries. MIT licensed, no paid tier.",
+    "topics": [
+      "database",
+      "document-database",
+      "embedded-database",
+      "json",
+      "lmdb",
+      "nosql",
+      "rust"
+    ],
+    "html_url": "https://github.com/essmos/nonodb",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T21:49:00Z",
+    "updated_at": "2026-11-12T09:50:29Z",
+    "pushed_at": "2026-11-12T21:16:29Z"
+  },
+  {
+    "id": 1449543023,
+    "name": "FloodPass",
+    "full_name": "Dalict/FloodPass",
+    "owner": {
+      "login": "Dalict",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257100336?v=4"
+    },
+    "description": "Passwordless AuthMe sign-in for Bedrock players: Xbox-verified, automatic, zero typing",
+    "topics": [
+      "authme",
+      "auto",
+      "bukkit",
+      "bukkit-plugin",
+      "bukkitdev",
+      "craftbukkit",
+      "curseforge",
+      "database",
+      "floodgate",
+      "java",
+      "minecraft",
+      "minecraft-admin",
+      "minecraft-plugin",
+      "spigot",
+      "spigot-plugin"
+    ],
+    "html_url": "https://github.com/Dalict/FloodPass",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T16:39:02Z",
+    "updated_at": "2026-11-08T03:26:22Z",
+    "pushed_at": "2026-11-08T03:26:19Z"
+  },
+  {
+    "id": 1449195524,
+    "name": "article-db-connect-timeout",
+    "full_name": "tegos-blog/article-db-connect-timeout",
+    "owner": {
+      "login": "tegos-blog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191977937?v=4"
+    },
+    "description": "A failed MySQL connect in Laravel waits 30 s per attempt and runs 4 attempts. How a network blip took a site down, and the one config line that fixes it.",
+    "topics": [
+      "case-study",
+      "database",
+      "devops",
+      "laravel",
+      "mysql",
+      "pdo",
+      "php",
+      "php-fpm",
+      "production",
+      "timeout"
+    ],
+    "html_url": "https://github.com/tegos-blog/article-db-connect-timeout",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T09:08:34Z",
+    "updated_at": "2026-11-07T09:23:14Z",
+    "pushed_at": "2026-11-07T09:16:23Z"
+  },
+  {
+    "id": 1450208030,
+    "name": "VoraLoom-",
+    "full_name": "Kavya-kakkar/VoraLoom-",
+    "owner": {
+      "login": "Kavya-kakkar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167710802?v=4"
+    },
+    "description": "VoraLoom is a Tirupur knitwear production OS with TNA tracking, offline floor sync, and bilingual NLP.",
+    "topics": [
+      "database",
+      "fastapi",
+      "postgresql",
+      "python",
+      "ui",
+      "ux"
+    ],
+    "html_url": "https://github.com/Kavya-kakkar/VoraLoom-",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T11:10:58Z",
+    "updated_at": "2026-11-08T12:10:41Z",
+    "pushed_at": "2026-11-08T11:20:26Z"
+  },
+  {
+    "id": 1454582370,
+    "name": "design-preflight",
+    "full_name": "Mkamal88/design-preflight",
+    "owner": {
+      "login": "Mkamal88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8920191?v=4"
+    },
+    "description": "Design review for tickets and specs against your real codebase: a skill for Claude Code and OpenAI Codex.",
+    "topics": [
+      "agent-skills",
+      "architecture",
+      "claude-code",
+      "codex",
+      "database",
+      "design-review",
+      "performance"
+    ],
+    "html_url": "https://github.com/Mkamal88/design-preflight",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T22:49:58Z",
+    "updated_at": "2026-11-12T14:32:04Z",
+    "pushed_at": "2026-11-12T13:32:01Z"
+  }
+]
