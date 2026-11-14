@@ -1,0 +1,555 @@
+[
+  {
+    "id": 1455943594,
+    "name": "1Helm",
+    "full_name": "gitcommit90/1Helm",
+    "owner": {
+      "login": "gitcommit90",
+      "avatar_url": "https://avatars.githubusercontent.com/u/294273268?v=4"
+    },
+    "description": "A personal AI workspace on your own Cloudflare account, with persistent memory, channel computers, and your choice of AI provider.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "electron",
+      "gateway",
+      "hermes",
+      "hermes-agent",
+      "local-first",
+      "openclaw",
+      "router",
+      "typescript"
+    ],
+    "html_url": "https://github.com/gitcommit90/1Helm",
+    "stargazers_count": 62,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "created_at": "2026-11-12T23:35:30Z",
+    "updated_at": "2026-11-13T06:21:11Z",
+    "pushed_at": "2026-11-14T00:43:38Z"
+  },
+  {
+    "id": 1449186904,
+    "name": "youtube-transcript-hermes-plugin",
+    "full_name": "tubeagentkit/youtube-transcript-hermes-plugin",
+    "owner": {
+      "login": "tubeagentkit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328486248?v=4"
+    },
+    "description": "Hermes Agent plugin: YouTube transcripts, video search, channel and playlist browsing via a remote MCP server, with four skills.",
+    "topics": [
+      "agent-plugin",
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "captions",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "transcript",
+      "youtube",
+      "youtube-api",
+      "youtube-search",
+      "youtube-transcript"
+    ],
+    "html_url": "https://github.com/tubeagentkit/youtube-transcript-hermes-plugin",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T08:55:35Z",
+    "updated_at": "2026-11-08T19:12:49Z",
+    "pushed_at": "2026-11-07T08:55:40Z"
+  },
+  {
+    "id": 1450957398,
+    "name": "hermes-esp32-debug",
+    "full_name": "snakeyear/hermes-esp32-debug",
+    "owner": {
+      "login": "snakeyear",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204425650?v=4"
+    },
+    "description": "Read-only ESP32 debugging toolkit for Hermes Agent: chip info, serial capture, and crash backtrace decode to file:line. Never flashes or writes to the device.",
+    "topics": [
+      "esp32",
+      "hermes",
+      "hermes-agent",
+      "hermes-plugin"
+    ],
+    "html_url": "https://github.com/snakeyear/hermes-esp32-debug",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T05:06:03Z",
+    "updated_at": "2026-11-11T13:31:38Z",
+    "pushed_at": "2026-11-10T13:57:51Z"
+  },
+  {
+    "id": 1454449474,
+    "name": "hermes-trophy-room",
+    "full_name": "abundantbeing/hermes-trophy-room",
+    "owner": {
+      "login": "abundantbeing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222723615?v=4"
+    },
+    "description": "Trophy Room: 120 illustrated achievements for Hermes Desktop. Collectible cards, five tiers, unlock pop-ups.",
+    "topics": [
+      "achievements",
+      "desktop",
+      "hermes",
+      "hermes-agent",
+      "nous-research",
+      "plugin"
+    ],
+    "html_url": "https://github.com/abundantbeing/hermes-trophy-room",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T20:10:48Z",
+    "updated_at": "2026-11-12T09:25:54Z",
+    "pushed_at": "2026-11-13T21:46:03Z"
+  },
+  {
+    "id": 1449485419,
+    "name": "hermes-plugin-dev",
+    "full_name": "mojomast/hermes-plugin-dev",
+    "owner": {
+      "login": "mojomast",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76818041?v=4"
+    },
+    "description": "Teach any coding agent to build Hermes Agent plugins: an Agent Skill + a Hermes plugin (scaffold & lint tools), distilled from shipping real plugins.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "hermes",
+      "hermes-agent",
+      "nous-research",
+      "plugins"
+    ],
+    "html_url": "https://github.com/mojomast/hermes-plugin-dev",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T15:30:24Z",
+    "updated_at": "2026-11-11T14:25:27Z",
+    "pushed_at": "2026-11-11T13:27:14Z"
+  },
+  {
+    "id": 1451484618,
+    "name": "hermes-make-it-smart",
+    "full_name": "tesla963/hermes-make-it-smart",
+    "owner": {
+      "login": "tesla963",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71205274?v=4"
+    },
+    "description": "Hermes, Make it Smart! — turn 900+ Hermes sessions into a searchable, canonically named catalog. Native desktop plugin: taxonomy, filters, pending-approval attribution and reversible rename. Faster than 3 clicks.",
+    "topics": [
+      "hermes",
+      "nous-research",
+      "plugin",
+      "sessions",
+      "taxonomy"
+    ],
+    "html_url": "https://github.com/tesla963/hermes-make-it-smart",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T14:40:08Z",
+    "updated_at": "2026-11-12T07:24:13Z",
+    "pushed_at": "2026-11-14T01:29:47Z"
+  },
+  {
+    "id": 1451903388,
+    "name": "hermes-gpui",
+    "full_name": "reverb256/hermes-gpui",
+    "owner": {
+      "login": "reverb256",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129622142?v=4"
+    },
+    "description": "A native GPUI desktop client for Hermes — no Electron, no Chromium.",
+    "topics": [
+      "desktop-app",
+      "gpui",
+      "hermes",
+      "rust"
+    ],
+    "html_url": "https://github.com/reverb256/hermes-gpui",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "created_at": "2026-11-09T21:32:24Z",
+    "updated_at": "2026-11-12T01:49:02Z",
+    "pushed_at": "2026-11-12T12:21:57Z"
+  },
+  {
+    "id": 1449886025,
+    "name": "fleett",
+    "full_name": "cleeryy/fleett",
+    "owner": {
+      "login": "cleeryy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68108963?v=4"
+    },
+    "description": "Web console and CLI to create, run and manage fleets of Hermes agents in Docker",
+    "topics": [
+      "axum",
+      "docker",
+      "hermes",
+      "rust",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/cleeryy/fleett",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T01:43:29Z",
+    "updated_at": "2026-11-10T15:48:45Z",
+    "pushed_at": "2026-11-10T15:48:52Z"
+  },
+  {
+    "id": 1455203301,
+    "name": "mobile-app-exposure-audit",
+    "full_name": "GeorgianSorinMaxim/mobile-app-exposure-audit",
+    "owner": {
+      "login": "GeorgianSorinMaxim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6978480?v=4"
+    },
+    "description": "Find what a person can learn from your iOS or Android release build. A playbook, a masked secret scanner for Hermes bundles, and an agent skill that writes a neutral HTML report.",
+    "topics": [
+      "android",
+      "appsec",
+      "claude-code-skill",
+      "hermes",
+      "ios",
+      "mobile-security",
+      "react-native",
+      "reverse-engineering",
+      "secret-scanning"
+    ],
+    "html_url": "https://github.com/GeorgianSorinMaxim/mobile-app-exposure-audit",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T11:22:21Z",
+    "updated_at": "2026-11-12T12:31:11Z",
+    "pushed_at": "2026-11-12T11:31:07Z"
+  },
+  {
+    "id": 1452868095,
+    "name": "video-xray",
+    "full_name": "LuuMoss/video-xray",
+    "owner": {
+      "login": "LuuMoss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347566668?v=4"
+    },
+    "description": "Visual deep-dive analysis plugin for Hermes Desktop: multi-frame video vision, local transcription, one-click H3 prompt export (video_xray tool + composer panel)",
+    "topics": [
+      "electron",
+      "hermes",
+      "hermes-agent",
+      "hermes-plugin",
+      "local-first",
+      "multimodal",
+      "plugin",
+      "privacy",
+      "speech-to-text",
+      "video-analysis",
+      "video-understanding"
+    ],
+    "html_url": "https://github.com/LuuMoss/video-xray",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T15:50:32Z",
+    "updated_at": "2026-11-12T08:56:33Z",
+    "pushed_at": "2026-11-13T13:18:26Z"
+  },
+  {
+    "id": 1454262484,
+    "name": "Hermes-CoBrowse",
+    "full_name": "sandman-sh/Hermes-CoBrowse",
+    "owner": {
+      "login": "sandman-sh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147372004?v=4"
+    },
+    "description": "Multi-Window Spatial Co-Browsing Canvas & Dual-Control Automation Studio for Hermes Agent",
+    "topics": [
+      "cobrowse",
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-plugin"
+    ],
+    "html_url": "https://github.com/sandman-sh/Hermes-CoBrowse",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T17:05:45Z",
+    "updated_at": "2026-11-13T10:00:39Z",
+    "pushed_at": "2026-11-13T09:56:49Z"
+  },
+  {
+    "id": 1449534056,
+    "name": "Kantong",
+    "full_name": "Mqdd27/Kantong",
+    "owner": {
+      "login": "Mqdd27",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46963770?v=4"
+    },
+    "description": "Aplikasi Budgeting Self hosted integrated dengan hermes agent",
+    "topics": [
+      "budgeting",
+      "finance-tracker",
+      "hermes",
+      "hermes-agent",
+      "hermes-skill"
+    ],
+    "html_url": "https://github.com/Mqdd27/Kantong",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T16:28:04Z",
+    "updated_at": "2026-11-12T10:54:36Z",
+    "pushed_at": "2026-11-13T09:51:06Z"
+  },
+  {
+    "id": 1449465034,
+    "name": "steamd",
+    "full_name": "JettaXP/steamd",
+    "owner": {
+      "login": "JettaXP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113067749?v=4"
+    },
+    "description": "Material 3 / Material You theme for the Steam Android app. An Android app that patches Steam on your phone: wallpaper colours, Google Sans, Material icons, rounded UI and a restyled store, all signed and installed on the device.",
+    "topics": [
+      "android",
+      "hermes",
+      "jetpack-compose",
+      "material-design-3",
+      "material-you",
+      "react-native",
+      "steam",
+      "theme"
+    ],
+    "html_url": "https://github.com/JettaXP/steamd",
+    "stargazers_count": 1,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T15:06:54Z",
+    "updated_at": "2026-11-11T20:49:15Z",
+    "pushed_at": "2026-11-11T19:50:36Z"
+  },
+  {
+    "id": 1452577307,
+    "name": "hermes-cockpit",
+    "full_name": "Marcel-mux/hermes-cockpit",
+    "owner": {
+      "login": "Marcel-mux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95944189?v=4"
+    },
+    "description": "A retro-tech, mobile-first PWA cockpit and client for Nous Research Hermes Agent",
+    "topics": [
+      "ai-agent",
+      "cyberpunk",
+      "hermes",
+      "hermes-agent",
+      "mobile",
+      "nous-research",
+      "pwa",
+      "react-native-web"
+    ],
+    "html_url": "https://github.com/Marcel-mux/hermes-cockpit",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T11:33:33Z",
+    "updated_at": "2026-11-10T11:38:44Z",
+    "pushed_at": "2026-11-13T10:33:54Z"
+  },
+  {
+    "id": 1450969595,
+    "name": "TokenMeter",
+    "full_name": "kzhw615/TokenMeter",
+    "owner": {
+      "login": "kzhw615",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133092152?v=4"
+    },
+    "description": "macOS 菜单栏 AI 编码工具 token 用量与费用统计：13 个 harness 本地日志聚合（Claude Code / Codex / DeepSeek / WorkBuddy / OpenCode / Hermes / ZCode / Kiro / Copilot CLI / Qoder 等），菜单栏实时用量 + 侧边悬浮坞任务状态，按官方定价估算费用。纯本地运行。",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "deepseek",
+      "harness",
+      "hermes",
+      "kiro",
+      "llm-cost",
+      "macos",
+      "menu-bar",
+      "opencode",
+      "qoder",
+      "swift",
+      "swiftui",
+      "token-usage",
+      "zcode"
+    ],
+    "html_url": "https://github.com/kzhw615/TokenMeter",
+    "stargazers_count": 1,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T05:24:54Z",
+    "updated_at": "2026-11-12T16:16:17Z",
+    "pushed_at": "2026-11-13T10:01:45Z"
+  },
+  {
+    "id": 1449128135,
+    "name": "livachat",
+    "full_name": "livachat99/livachat",
+    "owner": {
+      "login": "livachat99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350926651?v=4"
+    },
+    "description": "Private AI voice assistant on your server",
+    "topics": [
+      "ai-assistent",
+      "ai-chat",
+      "hermes",
+      "openclaw"
+    ],
+    "html_url": "https://github.com/livachat99/livachat",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T07:23:56Z",
+    "updated_at": "2026-11-09T05:55:45Z",
+    "pushed_at": "2026-11-09T05:55:41Z"
+  },
+  {
+    "id": 1451988567,
+    "name": "hermes-kanban-lanes",
+    "full_name": "AceJY/hermes-kanban-lanes",
+    "owner": {
+      "login": "AceJY",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275314626?v=4"
+    },
+    "description": "Fail-closed command-line tooling for validating, running and operating Hermes Kanban lanes.",
+    "topics": [
+      "agents",
+      "automation",
+      "cli",
+      "hermes",
+      "kanban"
+    ],
+    "html_url": "https://github.com/AceJY/hermes-kanban-lanes",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T23:23:47Z",
+    "updated_at": "2026-11-11T11:13:39Z",
+    "pushed_at": "2026-11-11T10:15:49Z"
+  },
+  {
+    "id": 1455270661,
+    "name": "tiered-memory",
+    "full_name": "QINXIN111/tiered-memory",
+    "owner": {
+      "login": "QINXIN111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243991467?v=4"
+    },
+    "description": "Keep your AI agent's always-on memory small: an index in context, details on disk. 341 lines, no dependencies.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "context-engineering",
+      "git",
+      "hermes",
+      "llm",
+      "markdown",
+      "python"
+    ],
+    "html_url": "https://github.com/QINXIN111/tiered-memory",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T12:27:55Z",
+    "updated_at": "2026-11-12T17:16:02Z",
+    "pushed_at": "2026-11-12T13:56:33Z"
+  },
+  {
+    "id": 1449366229,
+    "name": "hermes-stash",
+    "full_name": "RegeneratusLabs/hermes-stash",
+    "owner": {
+      "login": "RegeneratusLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270860586?v=4"
+    },
+    "description": "A capture bin for the Hermes sidebar — links, videos, images and notes, out of the chat and readable by your agent later.",
+    "topics": [
+      "capture",
+      "desktop",
+      "hermes",
+      "hermes-agent",
+      "plugin",
+      "read-it-later"
+    ],
+    "html_url": "https://github.com/RegeneratusLabs/hermes-stash",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T13:08:04Z",
+    "updated_at": "2026-11-09T00:27:11Z",
+    "pushed_at": "2026-11-08T04:32:09Z"
+  },
+  {
+    "id": 1450255148,
+    "name": "hermes-agent-themes",
+    "full_name": "odynvolk/hermes-agent-themes",
+    "owner": {
+      "login": "odynvolk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/533055?v=4"
+    },
+    "description": "A collection of themes for Hermes Agent",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "themes"
+    ],
+    "html_url": "https://github.com/odynvolk/hermes-agent-themes",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T12:19:59Z",
+    "updated_at": "2026-11-08T13:36:19Z",
+    "pushed_at": "2026-11-08T13:36:15Z"
+  }
+]

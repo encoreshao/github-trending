@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1450794567,
+    "name": "agentes-chat",
+    "full_name": "agentes-chat/agentes-chat",
+    "owner": {
+      "login": "agentes-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/343980363?v=4"
+    },
+    "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "browser-automation",
+      "chat",
+      "claude",
+      "claude-code",
+      "codex",
+      "collaboration",
+      "computer-use",
+      "docker-compose",
+      "gemini",
+      "grok",
+      "human-in-the-loop",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "self-hosted",
+      "slack-alternative",
+      "team-chat"
+    ],
+    "html_url": "https://github.com/agentes-chat/agentes-chat",
+    "stargazers_count": 1345,
+    "language": "TypeScript",
+    "forks_count": 228,
+    "open_issues_count": 199,
+    "created_at": "2026-11-09T00:50:28Z",
+    "updated_at": "2026-11-14T01:49:37Z",
+    "pushed_at": "2026-11-14T01:58:55Z"
+  },
+  {
+    "id": 1452615964,
+    "name": "FastAIToken",
+    "full_name": "cutetailbud/FastAIToken",
+    "owner": {
+      "login": "cutetailbud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212403118?v=4"
+    },
+    "description": "面向程序员coding群体和企业的AI中转站，最低0.6折",
+    "topics": [
+      "claude",
+      "deepseek-harness",
+      "gemini",
+      "glm",
+      "gpt",
+      "grok",
+      "h3",
+      "kimi",
+      "maas",
+      "qwen",
+      "seedance",
+      "wan3"
+    ],
+    "html_url": "https://github.com/cutetailbud/FastAIToken",
+    "stargazers_count": 197,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-11-10T12:11:08Z",
+    "updated_at": "2026-11-14T01:00:48Z",
+    "pushed_at": "2026-11-10T13:17:20Z"
+  },
+  {
+    "id": 1455416555,
+    "name": "blender-ai-mcp-addon",
+    "full_name": "hitkeeen/blender-ai-mcp-addon",
+    "owner": {
+      "login": "hitkeeen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340037382?v=4"
+    },
+    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "blender",
+      "blender-addon",
+      "blender-ai",
+      "blender-automation",
+      "blender-mcp",
+      "blender-plugin",
+      "blender-scripting",
+      "bpy",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "llm",
+      "mcp",
+      "mcp-for-blender",
+      "mcp-server",
+      "model-context-protocol",
+      "ollama",
+      "opencode"
+    ],
+    "html_url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+    "stargazers_count": 174,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 39,
+    "created_at": "2026-11-12T14:32:15Z",
+    "updated_at": "2026-11-14T01:40:15Z",
+    "pushed_at": "2026-11-12T14:33:16Z"
+  },
+  {
+    "id": 1453885067,
+    "name": "whiteboard-ai-tutor",
+    "full_name": "molly554/whiteboard-ai-tutor",
+    "owner": {
+      "login": "molly554",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269901342?v=4"
+    },
+    "description": "Open-source AI tutor that teaches on a whiteboard. Benchmark of 6 LLMs (Claude, Gemini, DeepSeek): 288 lessons drawn stroke by stroke, blind-reviewed. 白板 AI 导师 / AI 老师讲课评测",
+    "topics": [
+      "ai-teacher",
+      "ai-tutor",
+      "ai-tutoring",
+      "ai-whiteboard",
+      "claude",
+      "deepseek",
+      "edtech",
+      "education",
+      "gemini",
+      "llm",
+      "llm-benchmark",
+      "math-tutor",
+      "whiteboard"
+    ],
+    "html_url": "https://github.com/molly554/whiteboard-ai-tutor",
+    "stargazers_count": 104,
+    "language": "HTML",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-11-11T11:22:21Z",
+    "updated_at": "2026-11-14T01:50:13Z",
+    "pushed_at": "2026-11-12T06:30:40Z"
+  },
+  {
+    "id": 1449993524,
+    "name": "SuperARIS",
+    "full_name": "wanshuiyin/SuperARIS",
+    "owner": {
+      "login": "wanshuiyin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76990859?v=4"
+    },
+    "description": "SuperARIS — Your personal research agent with ARIS (Auto Research In Sleep), powered by a team of agents.",
+    "topics": [
+      "agent-orchestration",
+      "ai-research",
+      "aris",
+      "claude-code",
+      "codex",
+      "gemini",
+      "herdr",
+      "mcp",
+      "multi-agent",
+      "personal-agent",
+      "research-automation",
+      "research-workflow",
+      "superagent"
+    ],
+    "html_url": "https://github.com/wanshuiyin/SuperARIS",
+    "stargazers_count": 99,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T05:12:40Z",
+    "updated_at": "2026-11-13T15:58:16Z",
+    "pushed_at": "2026-11-13T23:52:58Z"
+  },
+  {
+    "id": 1456082346,
+    "name": "agy-fast-io",
+    "full_name": "oil-oil/agy-fast-io",
+    "owner": {
+      "login": "oil-oil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57465570?v=4"
+    },
+    "description": "让 Antigravity 少走回合、少等审查的本地规则插件（非官方）",
+    "topics": [
+      "agent-rules",
+      "ai-agent",
+      "antigravity",
+      "gemini"
+    ],
+    "html_url": "https://github.com/oil-oil/agy-fast-io",
+    "stargazers_count": 72,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-11-13T02:55:09Z",
+    "updated_at": "2026-11-14T01:07:19Z",
+    "pushed_at": "2026-11-13T03:54:07Z"
+  },
+  {
+    "id": 1455588588,
+    "name": "rpocket-team-Telegram-Messaging-Made-Easy",
+    "full_name": "BorgIceex/rpocket-team-Telegram-Messaging-Made-Easy",
+    "owner": {
+      "login": "BorgIceex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/353566509?v=4"
+    },
+    "description": "📬 Simplify your Telegram messaging with our automated tool for sending mass DMs, managing multiple accounts, and enhancing outreach efficiency.",
+    "topics": [
+      "bot-telegram",
+      "gemini",
+      "mass-dm-spammer",
+      "mass-dm-telegram",
+      "massdm-bot",
+      "massdm-telegram",
+      "python-telegeam-bot",
+      "scraper-telegram",
+      "spammer-bot-telegram",
+      "telegram",
+      "telegram-bulk-spamming",
+      "telegram-mass-message",
+      "telegram-mass-spammer",
+      "telegram-spam-bulk",
+      "telegram-spammer-2025",
+      "telegram-spammer2025",
+      "telegram-stars-api"
+    ],
+    "html_url": "https://github.com/BorgIceex/rpocket-team-Telegram-Messaging-Made-Easy",
+    "stargazers_count": 50,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T16:59:25Z",
+    "updated_at": "2026-11-12T21:10:01Z",
+    "pushed_at": "2026-11-12T16:59:34Z"
+  },
+  {
+    "id": 1451127581,
+    "name": "gemini-4-carbon-cyber-defense-pay",
+    "full_name": "bonkoungouyobi24-sketch/gemini-4-carbon-cyber-defense-pay",
+    "owner": {
+      "login": "bonkoungouyobi24-sketch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329046252?v=4"
+    },
+    "description": "⚡ 采购 Gemini 4 Carbon 企业安全模型总受阻？用商业虚拟卡 3 分钟打通结算",
+    "topics": [
+      "chatgpt",
+      "coregold",
+      "gemini",
+      "google"
+    ],
+    "html_url": "https://github.com/bonkoungouyobi24-sketch/gemini-4-carbon-cyber-defense-pay",
+    "stargazers_count": 38,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T08:46:55Z",
+    "updated_at": "2026-11-13T09:18:27Z",
+    "pushed_at": "2026-11-09T08:47:25Z"
+  },
+  {
+    "id": 1452465971,
+    "name": "google-gemini-vertex-ai-billing-fix",
+    "full_name": "ismavetedessbessel746-web/google-gemini-vertex-ai-billing-fix",
+    "owner": {
+      "login": "ismavetedessbessel746-web",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328930252?v=4"
+    },
+    "description": "⚡ 2026 实战指南：手把手教你用 CoreGold 商业 VCC 搞定 Google Cloud / Gemini API 绑卡",
+    "topics": [
+      "ai",
+      "coregold",
+      "gemini",
+      "google",
+      "vcc"
+    ],
+    "html_url": "https://github.com/ismavetedessbessel746-web/google-gemini-vertex-ai-billing-fix",
+    "stargazers_count": 30,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T09:40:31Z",
+    "updated_at": "2026-11-13T09:28:31Z",
+    "pushed_at": "2026-11-10T09:42:19Z"
+  },
+  {
+    "id": 1450829426,
+    "name": "antigravity-agent-rules",
+    "full_name": "anyu0804/antigravity-agent-rules",
+    "owner": {
+      "login": "anyu0804",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323117431?v=4"
+    },
+    "description": "Antigravity 桌面端 & agy CLI 跨平台 Agent 安全护栏与分层规则：两档拦截强删 / 误杀代理 / 改系统代理，日志脱敏，验收先行与异构复核，194/242 项自检，一键装卸",
+    "topics": [
+      "agent-safety",
+      "antigravity",
+      "gemini",
+      "gemini-cli",
+      "hooks",
+      "pretooluse"
+    ],
+    "html_url": "https://github.com/anyu0804/antigravity-agent-rules",
+    "stargazers_count": 24,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T01:49:03Z",
+    "updated_at": "2026-11-13T11:40:32Z",
+    "pushed_at": "2026-11-12T20:14:27Z"
+  },
+  {
+    "id": 1449946374,
+    "name": "offload-mcp-server",
+    "full_name": "tailucanh/offload-mcp-server",
+    "owner": {
+      "login": "tailucanh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93418649?v=4"
+    },
+    "description": "Let your main coding agent delegate heavy reading to a second agent, and read back only the answer.",
+    "topics": [
+      "ai-agents",
+      "antigravity",
+      "claude-code",
+      "developer-tools",
+      "gemini",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "token-optimization"
+    ],
+    "html_url": "https://github.com/tailucanh/offload-mcp-server",
+    "stargazers_count": 23,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T03:40:29Z",
+    "updated_at": "2026-11-13T19:37:44Z",
+    "pushed_at": "2026-11-10T13:12:07Z"
+  },
+  {
+    "id": 1452184261,
+    "name": "pi-gemini-auth",
+    "full_name": "fzn0x/pi-gemini-auth",
+    "owner": {
+      "login": "fzn0x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50759463?v=4"
+    },
+    "description": "A small local rotator that serves your Google Antigravity accounts to the Pi coding agent over an OpenAI-compatible API.",
+    "topics": [
+      "antigravity",
+      "gemini",
+      "openai-compatible",
+      "pi",
+      "pi-agent",
+      "rotator"
+    ],
+    "html_url": "https://github.com/fzn0x/pi-gemini-auth",
+    "stargazers_count": 14,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-10T04:03:10Z",
+    "updated_at": "2026-11-14T00:09:09Z",
+    "pushed_at": "2026-11-10T08:11:46Z"
+  },
+  {
+    "id": 1455077746,
+    "name": "virtual-card-usdt-google-antigravity-swarm-gemini4-carbon",
+    "full_name": "MelissiaCervone94583/virtual-card-usdt-google-antigravity-swarm-gemini4-carbon",
+    "owner": {
+      "login": "MelissiaCervone94583",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326831926?v=4"
+    },
+    "description": " Google Antigravity `/swarm` & Gemini 4 Carbon FinOps: Clearing Cloud Billing via USDT Virtual Cards (VCC)",
+    "topics": [
+      "apple",
+      "applepay",
+      "coregold",
+      "gemini",
+      "google"
+    ],
+    "html_url": "https://github.com/MelissiaCervone94583/virtual-card-usdt-google-antigravity-swarm-gemini4-carbon",
+    "stargazers_count": 13,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T09:19:06Z",
+    "updated_at": "2026-11-13T10:27:55Z",
+    "pushed_at": "2026-11-12T09:22:20Z"
+  },
+  {
+    "id": 1455038393,
+    "name": "gemini-app2api",
+    "full_name": "ShawTim/gemini-app2api",
+    "owner": {
+      "login": "ShawTim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85455?v=4"
+    },
+    "description": "Zero-dependency native HTTP/2 gateway connecting your Gemini subscriptions to OpenAI-compatible coding agents (Cursor, Cline, Codex, Pi, DSH) with multi-account pooling & bilingual console.",
+    "topics": [
+      "claude-code",
+      "cline",
+      "codex",
+      "cursor",
+      "dsh",
+      "gemini",
+      "gemini-argon",
+      "gemini-carbon",
+      "gemini-hydrogen",
+      "http2",
+      "llm-gateway",
+      "nodejs",
+      "openai-compatible",
+      "opencode",
+      "pi-agent",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/ShawTim/gemini-app2api",
+    "stargazers_count": 12,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T08:41:18Z",
+    "updated_at": "2026-11-14T00:09:52Z",
+    "pushed_at": "2026-11-14T00:47:23Z"
+  },
+  {
+    "id": 1451164999,
+    "name": "ai-chess-coach",
+    "full_name": "rayanrejeb/ai-chess-coach",
+    "owner": {
+      "login": "rayanrejeb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196530464?v=4"
+    },
+    "description": "Desktop chess coach that reviews your Chess.com and Lichess games with Stockfish and explains them with Gemini.",
+    "topics": [
+      "chess",
+      "gemini",
+      "llm",
+      "python",
+      "stockfish"
+    ],
+    "html_url": "https://github.com/rayanrejeb/ai-chess-coach",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T09:26:09Z",
+    "updated_at": "2026-11-10T15:12:32Z",
+    "pushed_at": "2026-11-09T13:29:24Z"
+  },
+  {
+    "id": 1453738286,
+    "name": "universal-reverse-engineering-engine",
+    "full_name": "Satna-Project/universal-reverse-engineering-engine",
+    "owner": {
+      "login": "Satna-Project",
+      "avatar_url": "https://avatars.githubusercontent.com/u/353210663?v=4"
+    },
+    "description": "An evidence-driven, dual-agent (Gemini + Claude) reverse-engineering framework for reconstructing software architectures, APIs, protocols, and AI workflows.",
+    "topics": [
+      "ai-workflows",
+      "claude",
+      "clean-room-reimplementation",
+      "gemini",
+      "multi-agent-systems",
+      "prompt-engineering",
+      "protocol-analysis",
+      "reverse-enginnering",
+      "software-specification",
+      "system-architecture"
+    ],
+    "html_url": "https://github.com/Satna-Project/universal-reverse-engineering-engine",
+    "stargazers_count": 5,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T08:53:12Z",
+    "updated_at": "2026-11-13T04:57:48Z",
+    "pushed_at": "2026-11-11T10:25:22Z"
+  },
+  {
+    "id": 1450200371,
+    "name": "words2widget",
+    "full_name": "veritatron/words2widget",
+    "owner": {
+      "login": "veritatron",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124190086?v=4"
+    },
+    "description": "Words in, iPhone widget out. Describe a home screen widget, let any AI build it for Scriptable.",
+    "topics": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "claude-skills",
+      "gemini",
+      "home-screen",
+      "ios",
+      "ios-widgets",
+      "iphone",
+      "iphone-widgets",
+      "no-code",
+      "scriptable",
+      "widgets"
+    ],
+    "html_url": "https://github.com/veritatron/words2widget",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-11-08T10:58:44Z",
+    "updated_at": "2026-11-09T19:28:22Z",
+    "pushed_at": "2026-11-09T19:28:31Z"
+  },
+  {
+    "id": 1454620337,
+    "name": "ats-resume-ai-skill",
+    "full_name": "GuBarone/ats-resume-ai-skill",
+    "owner": {
+      "login": "GuBarone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219698796?v=4"
+    },
+    "description": "Skill universal para LLMs (Gemini, ChatGPT, Claude) focada em reescrever e estruturar currículos para contornar filtros ATS e algoritmos de triagem.",
+    "topics": [
+      "ai-skills",
+      "applicant-tracking-system",
+      "ats-optimization",
+      "chatgpt",
+      "gemini",
+      "prompt-engineering",
+      "resume-builder"
+    ],
+    "html_url": "https://github.com/GuBarone/ats-resume-ai-skill",
+    "stargazers_count": 4,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T23:44:14Z",
+    "updated_at": "2026-11-13T23:46:24Z",
+    "pushed_at": "2026-11-13T14:42:26Z"
+  },
+  {
+    "id": 1453097310,
+    "name": "omp-antigravity",
+    "full_name": "alphastorm/omp-antigravity",
+    "owner": {
+      "login": "alphastorm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/972382?v=4"
+    },
+    "description": "Antigravity-served Gemini, Claude, and GPT-OSS models in Oh My Pi via the official Google agy CLI over ACP. OMP retains control of prompts, tools, approvals, and transcripts.",
+    "topics": [
+      "acp",
+      "agent-client-protocol",
+      "ai-agent",
+      "antigravity",
+      "bun",
+      "claude",
+      "coding-agent",
+      "coding-assistant",
+      "developer-tools",
+      "gemini",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "oh-my-pi",
+      "omp",
+      "typescript"
+    ],
+    "html_url": "https://github.com/alphastorm/omp-antigravity",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T19:25:05Z",
+    "updated_at": "2026-11-13T05:59:11Z",
+    "pushed_at": "2026-11-11T03:43:26Z"
+  },
+  {
+    "id": 1452342689,
+    "name": "social-framework",
+    "full_name": "cyberdid/social-framework",
+    "owner": {
+      "login": "cyberdid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308244493?v=4"
+    },
+    "description": "Аналіз інформаційного простору з агентом і моделлю на ваш вибір: Claude, Codex, Gemini, opencode · MCP-інструменти, фактчеки, сценарії, веб-інтерфейс",
+    "topics": [
+      "claude-code",
+      "codex",
+      "disinformation",
+      "fact-checking",
+      "forecasting",
+      "gemini",
+      "information-warfare",
+      "mcp",
+      "osint",
+      "telegram",
+      "ukraine"
+    ],
+    "html_url": "https://github.com/cyberdid/social-framework",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T07:31:31Z",
+    "updated_at": "2026-11-13T00:59:02Z",
+    "pushed_at": "2026-11-13T14:11:31Z"
+  }
+]

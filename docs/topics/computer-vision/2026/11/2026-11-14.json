@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1451183057,
+    "name": "Anilist_monitor_resp",
+    "full_name": "Dwarfnode35715/Anilist_monitor_resp",
+    "owner": {
+      "login": "Dwarfnode35715",
+      "avatar_url": "https://avatars.githubusercontent.com/u/353521507?v=4"
+    },
+    "description": "A desktop-native Windows system tray Telegram bot that monitors AniList for new anime announcements and releases with network auto-recovery, single-instance protection, and zero-spam baseline caching. Made with AI.",
+    "topics": [
+      "acp",
+      "agent-client-protocol",
+      "aiogram",
+      "computer-vision",
+      "drone",
+      "fastapi",
+      "intellij-idea",
+      "intellij-idea-ai",
+      "notifier",
+      "object-detection",
+      "pystray",
+      "python3",
+      "pytorch",
+      "rf-detr",
+      "sqlite",
+      "system-tray",
+      "telegram-bot-2026",
+      "telegram-bot-with-ai",
+      "telethon",
+      "telethon-bot"
+    ],
+    "html_url": "https://github.com/Dwarfnode35715/Anilist_monitor_resp",
+    "stargazers_count": 50,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T09:44:42Z",
+    "updated_at": "2026-11-12T20:57:19Z",
+    "pushed_at": "2026-11-09T09:44:50Z"
+  },
+  {
+    "id": 1453712334,
+    "name": "tamserve",
+    "full_name": "aryamandarda/tamserve",
+    "owner": {
+      "login": "aryamandarda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71901601?v=4"
+    },
+    "description": "Live, multi-camera object tracking with SAM 2 and EdgeTAM, on one GPU or many. One model per GPU serves every camera: faster than the original code, about 4x less GPU memory, identical masks.",
+    "topics": [
+      "batching",
+      "computer-vision",
+      "edgetam",
+      "gpu",
+      "inference",
+      "model-serving",
+      "object-tracking",
+      "pytorch",
+      "sam2",
+      "segment-anything",
+      "video-segmentation"
+    ],
+    "html_url": "https://github.com/aryamandarda/tamserve",
+    "stargazers_count": 13,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T08:25:48Z",
+    "updated_at": "2026-11-13T23:33:17Z",
+    "pushed_at": "2026-11-12T22:45:23Z"
+  },
+  {
+    "id": 1449575197,
+    "name": "fingermouse",
+    "full_name": "tuncaylore/fingermouse",
+    "owner": {
+      "login": "tuncaylore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94780208?v=4"
+    },
+    "description": "Control your Windows mouse with webcam hand gestures. Automatic Python setup, clicking, dragging, scrolling and custom gesture training.",
+    "topics": [
+      "computer-vision",
+      "gesture-recognition",
+      "hand-tracking",
+      "mediapipe",
+      "opencv",
+      "python",
+      "virtual-mouse",
+      "webcam",
+      "windows"
+    ],
+    "html_url": "https://github.com/tuncaylore/fingermouse",
+    "stargazers_count": 11,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T17:18:15Z",
+    "updated_at": "2026-11-13T20:33:52Z",
+    "pushed_at": "2026-11-10T13:20:38Z"
+  },
+  {
+    "id": 1449041024,
+    "name": "VisionHarness",
+    "full_name": "MuhammadMustafa18/VisionHarness",
+    "owner": {
+      "login": "MuhammadMustafa18",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177398074?v=4"
+    },
+    "description": "Describe what you want to detect in plain English, get a working computer vision pipeline. Supports CCTV streams and video uploads.",
+    "topics": [
+      "agentic-ai",
+      "computer-vision",
+      "harness-engineering",
+      "vision-language-model"
+    ],
+    "html_url": "https://github.com/MuhammadMustafa18/VisionHarness",
+    "stargazers_count": 10,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-11-07T04:59:07Z",
+    "updated_at": "2026-11-12T07:41:58Z",
+    "pushed_at": "2026-11-10T03:38:08Z"
+  },
+  {
+    "id": 1450422337,
+    "name": "visionloop",
+    "full_name": "chuan92329/visionloop",
+    "owner": {
+      "login": "chuan92329",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201049358?v=4"
+    },
+    "description": "Label, review and train in one loop: label a few images, let the model pre-label the rest, review, retrain. Click-to-segment with SAM 2.1, DINOv2 linear-probe pre-labeling, RF-DETR and YOLOv9 training. Runs locally.",
+    "topics": [
+      "annotation-tool",
+      "auto-annotation",
+      "auto-labeling",
+      "computer-vision",
+      "data-labeling",
+      "dinov2",
+      "human-in-the-loop",
+      "image-annotation",
+      "instance-segmentation",
+      "model-training",
+      "object-detection",
+      "rf-detr",
+      "sam2",
+      "yolov9"
+    ],
+    "html_url": "https://github.com/chuan92329/visionloop",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1,
+    "created_at": "2026-11-08T15:48:59Z",
+    "updated_at": "2026-11-11T21:57:10Z",
+    "pushed_at": "2026-11-11T17:45:06Z"
+  },
+  {
+    "id": 1454920877,
+    "name": "pure-sift",
+    "full_name": "dannkkie/pure-sift",
+    "owner": {
+      "login": "dannkkie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22192767?v=4"
+    },
+    "description": "100% pure-Rust, zero-unsafe SIFT feature extraction, RANSAC/Homography alignment, visual catalog search & HTTP workbench - zero OpenCV/C++ FFI.",
+    "topics": [
+      "computer-vision",
+      "homography",
+      "image-matching",
+      "image-stitching",
+      "no-unsafe",
+      "pure-rust",
+      "ransac",
+      "ransac-algorithm",
+      "rust",
+      "rust-crate",
+      "sift",
+      "sift-algorithm",
+      "sift-descriptors",
+      "sift-features",
+      "wasm"
+    ],
+    "html_url": "https://github.com/dannkkie/pure-sift",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 6,
+    "created_at": "2026-11-12T06:33:51Z",
+    "updated_at": "2026-11-13T23:07:24Z",
+    "pushed_at": "2026-11-13T18:32:07Z"
+  },
+  {
+    "id": 1452401489,
+    "name": "industrial-visual-defect-detection",
+    "full_name": "ranajahanzaib/industrial-visual-defect-detection",
+    "owner": {
+      "login": "ranajahanzaib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28682772?v=4"
+    },
+    "description": "Unsupervised visual defect detection and inspection workbench for industrial QA/QC.",
+    "topics": [
+      "anomaly-detection",
+      "computer-vision",
+      "defect-detection",
+      "fastapi",
+      "feature-distillation",
+      "industrial-inspection",
+      "machine-learning",
+      "pytorch",
+      "surface-inspection",
+      "visa-dataset",
+      "visual-quality-control"
+    ],
+    "html_url": "https://github.com/ranajahanzaib/industrial-visual-defect-detection",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T08:35:27Z",
+    "updated_at": "2026-11-12T05:58:17Z",
+    "pushed_at": "2026-11-12T05:10:38Z"
+  },
+  {
+    "id": 1454713706,
+    "name": "vauss",
+    "full_name": "voyager-so/vauss",
+    "owner": {
+      "login": "voyager-so",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329758707?v=4"
+    },
+    "description": "Fast Gaussian splat reconstruction for Blender, agents, and reusable 3D worlds",
+    "topics": [
+      "3d-reconstruction",
+      "ai-agents",
+      "blender",
+      "computer-vision",
+      "gaussian-splatting",
+      "rust",
+      "structure-from-motion"
+    ],
+    "html_url": "https://github.com/voyager-so/vauss",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T01:56:44Z",
+    "updated_at": "2026-11-14T00:17:12Z",
+    "pushed_at": "2026-11-14T00:11:07Z"
+  },
+  {
+    "id": 1456561912,
+    "name": "smartglasses-detect",
+    "full_name": "fattaillabs/smartglasses-detect",
+    "owner": {
+      "login": "fattaillabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247202285?v=4"
+    },
+    "description": "Detect camera smart glasses (Ray-Ban Meta, Oakley Meta, Rokid, Xiaomi, Samsung...) from a frontal face photo · 정면 얼굴 사진에서 카메라 스마트안경 판별",
+    "topics": [
+      "computer-vision",
+      "dataset",
+      "privacy",
+      "pytorch",
+      "smart-glasses"
+    ],
+    "html_url": "https://github.com/fattaillabs/smartglasses-detect",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T12:16:38Z",
+    "updated_at": "2026-11-13T18:52:05Z",
+    "pushed_at": "2026-11-13T14:45:28Z"
+  },
+  {
+    "id": 1455617177,
+    "name": "NTE-Fishing-Lab",
+    "full_name": "one-orange-ss/NTE-Fishing-Lab",
+    "owner": {
+      "login": "one-orange-ss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/351805122?v=4"
+    },
+    "description": "纯视觉黑盒自动钓鱼实验工程：截图 -> 识别 -> 状态机 -> 控制 -> 输入（可运行参考实现）",
+    "topics": [
+      "automation",
+      "computer-vision",
+      "control-systems",
+      "finite-state-machine",
+      "opencv",
+      "python",
+      "screen-capture",
+      "windows"
+    ],
+    "html_url": "https://github.com/one-orange-ss/NTE-Fishing-Lab",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T17:25:47Z",
+    "updated_at": "2026-11-13T01:32:25Z",
+    "pushed_at": "2026-11-12T17:26:03Z"
+  },
+  {
+    "id": 1450202737,
+    "name": "ansylab",
+    "full_name": "anshuangyou/ansylab",
+    "owner": {
+      "login": "anshuangyou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78394770?v=4"
+    },
+    "description": "Android端相机/NPU/传感器/串口实验平台：Kotlin负责零拷贝取帧与HexagonNPU推理,Python编写业务脚本,内置网页远程控制台。",
+    "topics": [
+      "android",
+      "camerax",
+      "chaquopy",
+      "computer-vision",
+      "hexagon",
+      "imu",
+      "kotlin",
+      "npu",
+      "onnxruntime",
+      "python",
+      "qnn",
+      "usb-serial",
+      "yolo"
+    ],
+    "html_url": "https://github.com/anshuangyou/ansylab",
+    "stargazers_count": 2,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T11:02:27Z",
+    "updated_at": "2026-11-12T05:57:19Z",
+    "pushed_at": "2026-11-08T13:58:48Z"
+  },
+  {
+    "id": 1450333739,
+    "name": "Feature-Extraction-Color-Density-Layout",
+    "full_name": "KenBimaGands/Feature-Extraction-Color-Density-Layout",
+    "owner": {
+      "login": "KenBimaGands",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131175801?v=4"
+    },
+    "description": "A computer vision-based feature extraction tool for UI design analysis, focusing on color distribution, visual density, and layout composition. Uses RGB and CIELAB color spaces, foreground segmentation masks, and bounding boxes to quantify UI elements, analyze visual hierarchy, and evaluate spatial organization in interface screenshots.",
+    "topics": [
+      "computer-vision",
+      "user-experience",
+      "user-testing"
+    ],
+    "html_url": "https://github.com/KenBimaGands/Feature-Extraction-Color-Density-Layout",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T14:01:37Z",
+    "updated_at": "2026-11-08T14:37:40Z",
+    "pushed_at": "2026-11-12T18:23:56Z"
+  },
+  {
+    "id": 1455975262,
+    "name": "Mustakshef-AI",
+    "full_name": "alhaj-ai/Mustakshef-AI",
+    "owner": {
+      "login": "alhaj-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214383388?v=4"
+    },
+    "description": "🌟 تطبيق تفاعلي للتعرف البصري على الأشياء وتقسيمها لحظياً بنماذج YOLOv8، مع نطق بالصوت العربي ومحادثة تعليمية للأطفال (Next.js 14, YOLOv8)",
+    "topics": [
+      "arabic-ai",
+      "arabic-phonics",
+      "computer-vision",
+      "edge-tts",
+      "fastapi",
+      "kids-education",
+      "nextjs14",
+      "saudi-arabia",
+      "streamlit",
+      "yolo"
+    ],
+    "html_url": "https://github.com/alhaj-ai/Mustakshef-AI",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T00:24:02Z",
+    "updated_at": "2026-11-13T20:54:02Z",
+    "pushed_at": "2026-11-13T21:07:47Z"
+  },
+  {
+    "id": 1451847222,
+    "name": "NAO",
+    "full_name": "Alirezakbari/NAO",
+    "owner": {
+      "login": "Alirezakbari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157974270?v=4"
+    },
+    "description": "⚽ Autonomous NAO Soccer Striker & Webots 2025a simulation environment for RoboCup SPL humanoid robotics",
+    "topics": [
+      "autonomous-robots",
+      "computer-vision",
+      "humanoid-robot",
+      "nao-robot",
+      "opencv",
+      "python",
+      "robocup",
+      "robotics",
+      "webots"
+    ],
+    "html_url": "https://github.com/Alirezakbari/NAO",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T20:29:42Z",
+    "updated_at": "2026-11-09T21:15:13Z",
+    "pushed_at": "2026-11-09T20:43:21Z"
+  },
+  {
+    "id": 1452560072,
+    "name": "cp_jepa",
+    "full_name": "aminuyusufmr/cp_jepa",
+    "owner": {
+      "login": "aminuyusufmr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139649253?v=4"
+    },
+    "description": "CP-JEPA: Context-Predictive Low-Rank Adaptation of CLIP for Face Presentation Attack Detection. Code and experiments for cross-dataset and unseen-attack evaluation.",
+    "topics": [
+      "clip",
+      "computer-vision",
+      "deep-learning",
+      "domain-generalization",
+      "face-anti-spoofing",
+      "face-presentation-attack-detection",
+      "face-security",
+      "lora"
+    ],
+    "html_url": "https://github.com/aminuyusufmr/cp_jepa",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T11:16:07Z",
+    "updated_at": "2026-11-13T09:07:56Z",
+    "pushed_at": "2026-11-13T08:04:44Z"
+  },
+  {
+    "id": 1449510873,
+    "name": "Nimbus",
+    "full_name": "Pachrijam/Nimbus",
+    "owner": {
+      "login": "Pachrijam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272390870?v=4"
+    },
+    "description": "HackRPI - \"In the Clouds\" project submission featuring computer vision, machine learning, gemini-api, and python development.",
+    "topics": [
+      "computer-vision",
+      "python",
+      "vultr",
+      "web-development"
+    ],
+    "html_url": "https://github.com/Pachrijam/Nimbus",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T16:00:13Z",
+    "updated_at": "2026-11-11T21:34:41Z",
+    "pushed_at": "2026-11-08T14:11:19Z"
+  },
+  {
+    "id": 1451896263,
+    "name": "noggin-compass",
+    "full_name": "OpsDevil/noggin-compass",
+    "owner": {
+      "login": "OpsDevil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15634879?v=4"
+    },
+    "description": "Tracks how long a sleeping baby's head is turned left, right or straight, from an overhead camera",
+    "topics": [
+      "baby",
+      "computer-vision",
+      "plagiocephaly",
+      "pose-estimation",
+      "python",
+      "self-hosted",
+      "siglip",
+      "telegram-bot",
+      "yolo"
+    ],
+    "html_url": "https://github.com/OpsDevil/noggin-compass",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T21:24:12Z",
+    "updated_at": "2026-11-12T20:49:16Z",
+    "pushed_at": "2026-11-12T20:02:11Z"
+  },
+  {
+    "id": 1451425747,
+    "name": "ReVisor",
+    "full_name": "tejzv/ReVisor",
+    "owner": {
+      "login": "tejzv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249418573?v=4"
+    },
+    "description": "Visor / ReVisor: Lightweight, high-speed request-based visual intelligence, OCR, and translation engine with CLI and REST API.",
+    "topics": [
+      "automation",
+      "cli",
+      "computer-vision",
+      "ocr",
+      "python",
+      "rest-api",
+      "translation",
+      "visual-search"
+    ],
+    "html_url": "https://github.com/tejzv/ReVisor",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T13:49:08Z",
+    "updated_at": "2026-11-12T07:42:47Z",
+    "pushed_at": "2026-11-11T09:40:47Z"
+  },
+  {
+    "id": 1450039782,
+    "name": "virsa",
+    "full_name": "VishnuVelayudhan/virsa",
+    "owner": {
+      "login": "VishnuVelayudhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256303296?v=4"
+    },
+    "description": "?? 1st Prize Winner @ Intersect 2025 (BCMCH) | AI retinal screening & clinical eye health platform using PyTorch (OcuNet), Node.js, and Docker",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "docker",
+      "hackathon-winner",
+      "healthcare-ai",
+      "intersect-2025",
+      "medical-ai",
+      "nodejs",
+      "ophthalmology",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/VishnuVelayudhan/virsa",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T06:39:35Z",
+    "updated_at": "2026-11-11T21:39:38Z",
+    "pushed_at": "2026-11-09T16:57:52Z"
+  },
+  {
+    "id": 1455562220,
+    "name": "ilmek-image-processing-lab",
+    "full_name": "smkalami/ilmek-image-processing-lab",
+    "owner": {
+      "login": "smkalami",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26802922?v=4"
+    },
+    "description": "A free machine vision lab in your browser. Build image processing pipelines from blocks and export them as Python.",
+    "topics": [
+      "computer-vision",
+      "image-processing",
+      "machine-vision",
+      "opencv",
+      "react",
+      "visual-programming",
+      "webassembly"
+    ],
+    "html_url": "https://github.com/smkalami/ilmek-image-processing-lab",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T16:35:59Z",
+    "updated_at": "2026-11-13T14:50:33Z",
+    "pushed_at": "2026-11-12T16:36:13Z"
+  }
+]

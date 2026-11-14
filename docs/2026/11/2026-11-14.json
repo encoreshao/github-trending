@@ -1,0 +1,479 @@
+[
+  {
+    "id": 1450963843,
+    "name": "GestaltX",
+    "full_name": "huamidev/GestaltX",
+    "owner": {
+      "login": "huamidev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/354314991?v=4"
+    },
+    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+    "topics": [],
+    "html_url": "https://github.com/huamidev/GestaltX",
+    "stargazers_count": 7339,
+    "language": "Swift",
+    "forks_count": 2597,
+    "open_issues_count": 67,
+    "created_at": "2026-11-09T05:15:48Z",
+    "updated_at": "2026-11-14T01:59:36Z",
+    "pushed_at": "2026-11-13T16:51:22Z"
+  },
+  {
+    "id": 1449231124,
+    "name": "NX2navi",
+    "full_name": "tangerineturtle1/NX2navi",
+    "owner": {
+      "login": "tangerineturtle1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178368288?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/tangerineturtle1/NX2navi",
+    "stargazers_count": 3906,
+    "language": "C",
+    "forks_count": 297,
+    "open_issues_count": 700,
+    "created_at": "2026-11-07T10:01:23Z",
+    "updated_at": "2026-11-14T01:53:15Z",
+    "pushed_at": "2026-11-13T17:24:52Z"
+  },
+  {
+    "id": 1450012790,
+    "name": "S2Arm",
+    "full_name": "jhaizhou-ops/S2Arm",
+    "owner": {
+      "login": "jhaizhou-ops",
+      "avatar_url": "https://avatars.githubusercontent.com/u/258432107?v=4"
+    },
+    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+    "topics": [
+      "apple-silicon",
+      "arm64",
+      "game-porting",
+      "ios",
+      "ipados",
+      "macos",
+      "metal",
+      "s2arm",
+      "static-recompilation",
+      "switch"
+    ],
+    "html_url": "https://github.com/jhaizhou-ops/S2Arm",
+    "stargazers_count": 2871,
+    "language": "C#",
+    "forks_count": 522,
+    "open_issues_count": 356,
+    "created_at": "2026-11-08T05:49:46Z",
+    "updated_at": "2026-11-14T01:59:12Z",
+    "pushed_at": "2026-11-14T01:58:31Z"
+  },
+  {
+    "id": 1452123445,
+    "name": "Erosion-CN",
+    "full_name": "Kianuni/Erosion-CN",
+    "owner": {
+      "login": "Kianuni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/354704145?v=4"
+    },
+    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+    "topics": [],
+    "html_url": "https://github.com/Kianuni/Erosion-CN",
+    "stargazers_count": 1929,
+    "language": "Swift",
+    "forks_count": 407,
+    "open_issues_count": 18,
+    "created_at": "2026-11-10T02:37:31Z",
+    "updated_at": "2026-11-14T01:57:22Z",
+    "pushed_at": "2026-11-13T15:38:08Z"
+  },
+  {
+    "id": 1453517867,
+    "name": "ANR",
+    "full_name": "apex-compute/ANR",
+    "owner": {
+      "login": "apex-compute",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222723497?v=4"
+    },
+    "description": "Apex Neural Rendering (ANR) by Apex Compute",
+    "topics": [],
+    "html_url": "https://github.com/apex-compute/ANR",
+    "stargazers_count": 1491,
+    "language": "C++",
+    "forks_count": 21,
+    "open_issues_count": 26,
+    "created_at": "2026-11-11T04:27:17Z",
+    "updated_at": "2026-11-14T01:51:10Z",
+    "pushed_at": "2026-11-12T18:20:33Z"
+  },
+  {
+    "id": 1452531582,
+    "name": "supermimic",
+    "full_name": "HybridRobotics/supermimic",
+    "owner": {
+      "login": "HybridRobotics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10053058?v=4"
+    },
+    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+    "topics": [],
+    "html_url": "https://github.com/HybridRobotics/supermimic",
+    "stargazers_count": 1439,
+    "language": "Python",
+    "forks_count": 93,
+    "open_issues_count": 23,
+    "created_at": "2026-11-10T10:46:56Z",
+    "updated_at": "2026-11-14T01:47:55Z",
+    "pushed_at": "2026-11-11T08:06:27Z"
+  },
+  {
+    "id": 1450794567,
+    "name": "agentes-chat",
+    "full_name": "agentes-chat/agentes-chat",
+    "owner": {
+      "login": "agentes-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/343980363?v=4"
+    },
+    "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "browser-automation",
+      "chat",
+      "claude",
+      "claude-code",
+      "codex",
+      "collaboration",
+      "computer-use",
+      "docker-compose",
+      "gemini",
+      "grok",
+      "human-in-the-loop",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "self-hosted",
+      "slack-alternative",
+      "team-chat"
+    ],
+    "html_url": "https://github.com/agentes-chat/agentes-chat",
+    "stargazers_count": 1345,
+    "language": "TypeScript",
+    "forks_count": 228,
+    "open_issues_count": 199,
+    "created_at": "2026-11-09T00:50:28Z",
+    "updated_at": "2026-11-14T01:49:37Z",
+    "pushed_at": "2026-11-14T01:58:55Z"
+  },
+  {
+    "id": 1453132706,
+    "name": "yogurt",
+    "full_name": "FrigadeHQ/yogurt",
+    "owner": {
+      "login": "FrigadeHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117952255?v=4"
+    },
+    "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+    "topics": [
+      "ai-meeting-assistant",
+      "ai-notetaker",
+      "electron",
+      "granola-alternative",
+      "linux",
+      "llama-cpp",
+      "local-ai",
+      "local-first",
+      "macos",
+      "mcp",
+      "meeting-minutes",
+      "meeting-notes",
+      "offline-first",
+      "open-source",
+      "privacy",
+      "speech-to-text",
+      "transcription",
+      "whisper",
+      "whisper-cpp",
+      "windows"
+    ],
+    "html_url": "https://github.com/FrigadeHQ/yogurt",
+    "stargazers_count": 1281,
+    "language": "TypeScript",
+    "forks_count": 55,
+    "open_issues_count": 19,
+    "created_at": "2026-11-10T20:01:01Z",
+    "updated_at": "2026-11-14T01:55:56Z",
+    "pushed_at": "2026-11-14T00:59:13Z"
+  },
+  {
+    "id": 1452008226,
+    "name": "HolyArrs",
+    "full_name": "HolyArrs/HolyArrs",
+    "owner": {
+      "login": "HolyArrs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348458842?v=4"
+    },
+    "description": "One self-hosted app for your shows, movies and music.",
+    "topics": [
+      "docker",
+      "homelab",
+      "jellyfin",
+      "media-server",
+      "plex",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/HolyArrs/HolyArrs",
+    "stargazers_count": 1103,
+    "language": "Go",
+    "forks_count": 57,
+    "open_issues_count": 81,
+    "created_at": "2026-11-09T23:53:25Z",
+    "updated_at": "2026-11-14T01:45:48Z",
+    "pushed_at": "2026-11-14T01:45:40Z"
+  },
+  {
+    "id": 1449518822,
+    "name": "satmux",
+    "full_name": "Th0rgal/satmux",
+    "owner": {
+      "login": "Th0rgal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41830259?v=4"
+    },
+    "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+    "topics": [],
+    "html_url": "https://github.com/Th0rgal/satmux",
+    "stargazers_count": 1074,
+    "language": "Python",
+    "forks_count": 51,
+    "open_issues_count": 2,
+    "created_at": "2026-11-07T16:09:41Z",
+    "updated_at": "2026-11-14T00:22:09Z",
+    "pushed_at": "2026-11-07T16:26:20Z"
+  },
+  {
+    "id": 1449349157,
+    "name": "homelab-diagram",
+    "full_name": "Goblinmine/homelab-diagram",
+    "owner": {
+      "login": "Goblinmine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113011860?v=4"
+    },
+    "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
+    "topics": [],
+    "html_url": "https://github.com/Goblinmine/homelab-diagram",
+    "stargazers_count": 989,
+    "language": "Python",
+    "forks_count": 83,
+    "open_issues_count": 2,
+    "created_at": "2026-11-07T12:45:46Z",
+    "updated_at": "2026-11-14T00:52:28Z",
+    "pushed_at": "2026-11-07T12:51:26Z"
+  },
+  {
+    "id": 1448924811,
+    "name": "solo-to-team-skills",
+    "full_name": "dabingfy-dot/solo-to-team-skills",
+    "owner": {
+      "login": "dabingfy-dot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/344453732?v=4"
+    },
+    "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "collaboration",
+      "human-in-the-loop",
+      "workflow"
+    ],
+    "html_url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+    "stargazers_count": 845,
+    "language": null,
+    "forks_count": 90,
+    "open_issues_count": 23,
+    "created_at": "2026-11-07T01:36:28Z",
+    "updated_at": "2026-11-14T01:43:57Z",
+    "pushed_at": "2026-11-07T01:36:36Z"
+  },
+  {
+    "id": 1451419767,
+    "name": "WQFiles",
+    "full_name": "kolbicz/WQFiles",
+    "owner": {
+      "login": "kolbicz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34033735?v=4"
+    },
+    "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+    "topics": [],
+    "html_url": "https://github.com/kolbicz/WQFiles",
+    "stargazers_count": 804,
+    "language": "Objective-C",
+    "forks_count": 60,
+    "open_issues_count": 7,
+    "created_at": "2026-11-09T13:43:40Z",
+    "updated_at": "2026-11-14T01:01:37Z",
+    "pushed_at": "2026-11-13T15:09:36Z"
+  },
+  {
+    "id": 1455006582,
+    "name": "chat-demo",
+    "full_name": "deepseek-ai/chat-demo",
+    "owner": {
+      "login": "deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "description": "Chat Demo",
+    "topics": [],
+    "html_url": "https://github.com/deepseek-ai/chat-demo",
+    "stargazers_count": 796,
+    "language": "TypeScript",
+    "forks_count": 139,
+    "open_issues_count": 1,
+    "created_at": "2026-11-12T08:08:19Z",
+    "updated_at": "2026-11-14T01:58:59Z",
+    "pushed_at": "2026-11-13T14:33:08Z"
+  },
+  {
+    "id": 1450792839,
+    "name": "panel",
+    "full_name": "serveroshq/panel",
+    "owner": {
+      "login": "serveroshq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300786045?v=4"
+    },
+    "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+    "topics": [
+      "agpl",
+      "control-panel",
+      "devops",
+      "laravel",
+      "open-source",
+      "self-hosted",
+      "server-management",
+      "serveros",
+      "vps"
+    ],
+    "html_url": "https://github.com/serveroshq/panel",
+    "stargazers_count": 751,
+    "language": "PHP",
+    "forks_count": 59,
+    "open_issues_count": 31,
+    "created_at": "2026-11-09T00:47:33Z",
+    "updated_at": "2026-11-14T01:10:55Z",
+    "pushed_at": "2026-11-13T23:20:56Z"
+  },
+  {
+    "id": 1451775929,
+    "name": "lot-map",
+    "full_name": "alexeyw/lot-map",
+    "owner": {
+      "login": "alexeyw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1450804?v=4"
+    },
+    "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+    "topics": [
+      "agent-observability",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "developer-tools",
+      "svg-animation",
+      "typescript",
+      "visualization"
+    ],
+    "html_url": "https://github.com/alexeyw/lot-map",
+    "stargazers_count": 738,
+    "language": "TypeScript",
+    "forks_count": 86,
+    "open_issues_count": 7,
+    "created_at": "2026-11-09T19:13:52Z",
+    "updated_at": "2026-11-14T01:37:49Z",
+    "pushed_at": "2026-11-13T21:15:05Z"
+  },
+  {
+    "id": 1449770510,
+    "name": "fefw-recomp",
+    "full_name": "Goldoire/fefw-recomp",
+    "owner": {
+      "login": "Goldoire",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84254875?v=4"
+    },
+    "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
+    "topics": [
+      "pc-port",
+      "recompilation",
+      "static-recompilation",
+      "vulkan",
+      "windows"
+    ],
+    "html_url": "https://github.com/Goldoire/fefw-recomp",
+    "stargazers_count": 709,
+    "language": "C++",
+    "forks_count": 66,
+    "open_issues_count": 50,
+    "created_at": "2026-11-07T21:58:07Z",
+    "updated_at": "2026-11-14T01:47:11Z",
+    "pushed_at": "2026-11-13T21:19:15Z"
+  },
+  {
+    "id": 1451554320,
+    "name": "mkw-recomp",
+    "full_name": "adriadam10/mkw-recomp",
+    "owner": {
+      "login": "adriadam10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57327458?v=4"
+    },
+    "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+    "topics": [],
+    "html_url": "https://github.com/adriadam10/mkw-recomp",
+    "stargazers_count": 702,
+    "language": "C",
+    "forks_count": 36,
+    "open_issues_count": 123,
+    "created_at": "2026-11-09T15:40:06Z",
+    "updated_at": "2026-11-14T01:55:26Z",
+    "pushed_at": "2026-11-13T23:58:42Z"
+  },
+  {
+    "id": 1452450730,
+    "name": "line-art-animation",
+    "full_name": "JDhruv14/line-art-animation",
+    "owner": {
+      "login": "JDhruv14",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112489039?v=4"
+    },
+    "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+    "topics": [
+      "claude-skill",
+      "line-art",
+      "svg-animation",
+      "typescript"
+    ],
+    "html_url": "https://github.com/JDhruv14/line-art-animation",
+    "stargazers_count": 663,
+    "language": "TypeScript",
+    "forks_count": 106,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T09:25:25Z",
+    "updated_at": "2026-11-14T01:50:46Z",
+    "pushed_at": "2026-11-10T09:25:38Z"
+  },
+  {
+    "id": 1448920409,
+    "name": "phoneuse",
+    "full_name": "lxe/phoneuse",
+    "owner": {
+      "login": "lxe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1486609?v=4"
+    },
+    "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+    "topics": [],
+    "html_url": "https://github.com/lxe/phoneuse",
+    "stargazers_count": 649,
+    "language": "Python",
+    "forks_count": 61,
+    "open_issues_count": 10,
+    "created_at": "2026-11-07T01:28:30Z",
+    "updated_at": "2026-11-14T00:36:35Z",
+    "pushed_at": "2026-11-13T19:45:02Z"
+  }
+]

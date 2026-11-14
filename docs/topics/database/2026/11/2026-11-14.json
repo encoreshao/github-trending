@@ -1,0 +1,580 @@
+[
+  {
+    "id": 1448918845,
+    "name": "Duck",
+    "full_name": "swiftstream/Duck",
+    "owner": {
+      "login": "swiftstream",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59668746?v=4"
+    },
+    "description": "🦆 Postgres-like SQL power for iOS/macOS. Made for Swift with love. Beyond SQLite limitations on mobile.",
+    "topics": [
+      "database",
+      "duckdb",
+      "ios",
+      "macos",
+      "postgres"
+    ],
+    "html_url": "https://github.com/swiftstream/Duck",
+    "stargazers_count": 25,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T01:25:48Z",
+    "updated_at": "2026-11-13T22:03:40Z",
+    "pushed_at": "2026-11-12T21:02:19Z"
+  },
+  {
+    "id": 1449318624,
+    "name": "erd-editor",
+    "full_name": "mnr73/erd-editor",
+    "owner": {
+      "login": "mnr73",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23061025?v=4"
+    },
+    "description": "Local database diagram (ERD) editor. One .erd.json file, Git-friendly and AI-agent readable. Export SQL/DBML/PNG.",
+    "topics": [
+      "database",
+      "database-design",
+      "database-schema",
+      "erd",
+      "erdiagram",
+      "uml",
+      "uml-diagram"
+    ],
+    "html_url": "https://github.com/mnr73/erd-editor",
+    "stargazers_count": 16,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T12:03:53Z",
+    "updated_at": "2026-11-13T14:13:11Z",
+    "pushed_at": "2026-11-10T05:53:32Z"
+  },
+  {
+    "id": 1454436747,
+    "name": "ha-db-storage-manager",
+    "full_name": "giuliodali/ha-db-storage-manager",
+    "owner": {
+      "login": "giuliodali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37904645?v=4"
+    },
+    "description": "Home Assistant Database Explorer and Size Reducer: See where your Home Assistant database space goes, and safely shrink it",
+    "topics": [
+      "database",
+      "hacs",
+      "home-assistant",
+      "home-assistant-component",
+      "homeassistant",
+      "recorder",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/giuliodali/ha-db-storage-manager",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T19:57:40Z",
+    "updated_at": "2026-11-12T21:16:39Z",
+    "pushed_at": "2026-11-11T22:15:05Z"
+  },
+  {
+    "id": 1450442936,
+    "name": "branchline",
+    "full_name": "brimleylabs/branchline",
+    "owner": {
+      "login": "brimleylabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246615743?v=4"
+    },
+    "description": "Version control for the WordPress database. Every environment is a branch. Pull production content down, publish releases up, and lose nothing.",
+    "topics": [
+      "database",
+      "devops",
+      "dolt",
+      "version-control",
+      "woocommerce",
+      "wordpress",
+      "wordpress-plugin"
+    ],
+    "html_url": "https://github.com/brimleylabs/branchline",
+    "stargazers_count": 5,
+    "language": "PHP",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T16:13:45Z",
+    "updated_at": "2026-11-11T19:47:11Z",
+    "pushed_at": "2026-11-09T05:12:38Z"
+  },
+  {
+    "id": 1451626721,
+    "name": "tidesql-percona",
+    "full_name": "tidesdb/tidesql-percona",
+    "owner": {
+      "login": "tidesdb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184959755?v=4"
+    },
+    "description": "Pluggable Percona Server engine built on TidesDB.",
+    "topics": [
+      "database",
+      "lsm-tree",
+      "mysql-database"
+    ],
+    "html_url": "https://github.com/tidesdb/tidesql-percona",
+    "stargazers_count": 3,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T16:45:17Z",
+    "updated_at": "2026-11-13T12:02:59Z",
+    "pushed_at": "2026-11-11T21:08:07Z"
+  },
+  {
+    "id": 1452832521,
+    "name": "postgres-concurrency-tester",
+    "full_name": "ranajahanzaib/postgres-concurrency-tester",
+    "owner": {
+      "login": "ranajahanzaib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28682772?v=4"
+    },
+    "description": "Controlled PostgreSQL concurrency experiments to detect contention, lock waits, and pool starvation before production.",
+    "topics": [
+      "benchmarking",
+      "concurrency",
+      "connection-pooling",
+      "database",
+      "load-testing",
+      "lock-contention",
+      "performance",
+      "postgresql"
+    ],
+    "html_url": "https://github.com/ranajahanzaib/postgres-concurrency-tester",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T15:19:45Z",
+    "updated_at": "2026-11-13T05:10:50Z",
+    "pushed_at": "2026-11-12T11:33:58Z"
+  },
+  {
+    "id": 1453443784,
+    "name": "postgres-backup-restore-checker",
+    "full_name": "ranajahanzaib/postgres-backup-restore-checker",
+    "owner": {
+      "login": "ranajahanzaib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28682772?v=4"
+    },
+    "description": "Isolated PostgreSQL backup verification CLI that tests and validates logical dumps inside disposable Docker containers.",
+    "topics": [
+      "backup-verification",
+      "data-integrity",
+      "database",
+      "devops",
+      "disaster-recovery",
+      "docker",
+      "pg-dump",
+      "postgresql"
+    ],
+    "html_url": "https://github.com/ranajahanzaib/postgres-backup-restore-checker",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T02:45:42Z",
+    "updated_at": "2026-11-13T05:10:43Z",
+    "pushed_at": "2026-11-13T04:22:19Z"
+  },
+  {
+    "id": 1456712137,
+    "name": "laravel-database-backup",
+    "full_name": "paulocastellano/laravel-database-backup",
+    "owner": {
+      "login": "paulocastellano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265964?v=4"
+    },
+    "description": "Back up your Laravel database (PostgreSQL, MySQL, MariaDB) to a private S3-compatible bucket on a schedule, with email and Discord notifications.",
+    "topics": [
+      "backup",
+      "cloudflare-r2",
+      "database",
+      "discord",
+      "laravel",
+      "mariadb",
+      "mysql",
+      "php",
+      "postgresql",
+      "s3"
+    ],
+    "html_url": "https://github.com/paulocastellano/laravel-database-backup",
+    "stargazers_count": 3,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T14:39:52Z",
+    "updated_at": "2026-11-13T16:07:24Z",
+    "pushed_at": "2026-11-13T15:09:44Z"
+  },
+  {
+    "id": 1454274820,
+    "name": "laravel-partitions",
+    "full_name": "MakssYurkovskiy/laravel-partitions",
+    "owner": {
+      "login": "MakssYurkovskiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13015077?v=4"
+    },
+    "description": "Flexible MySQL partition management for Laravel: RANGE partitions by day/week/month/year, retention pruning, artisan tooling and scheduled maintenance.",
+    "topics": [
+      "database",
+      "laravel",
+      "mariadb",
+      "mysql",
+      "partition-manager",
+      "partition-table",
+      "partition-tools",
+      "partitioning",
+      "partitions",
+      "retention",
+      "table-partitioning"
+    ],
+    "html_url": "https://github.com/MakssYurkovskiy/laravel-partitions",
+    "stargazers_count": 2,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T17:16:56Z",
+    "updated_at": "2026-11-12T18:08:39Z",
+    "pushed_at": "2026-11-12T22:34:20Z"
+  },
+  {
+    "id": 1452622383,
+    "name": "Rowster",
+    "full_name": "romainrg/Rowster",
+    "owner": {
+      "login": "romainrg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14097222?v=4"
+    },
+    "description": "A native, free and open-source database client for macOS: PostgreSQL, MySQL, MariaDB and SQLite, with safety built in.",
+    "topics": [
+      "appkit",
+      "database",
+      "macos",
+      "mariadb",
+      "mysql",
+      "open-source",
+      "postgresql",
+      "sql-client",
+      "sqlite",
+      "swift",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/romainrg/Rowster",
+    "stargazers_count": 1,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T12:17:08Z",
+    "updated_at": "2026-11-11T09:52:41Z",
+    "pushed_at": "2026-11-11T08:52:39Z"
+  },
+  {
+    "id": 1449543023,
+    "name": "FloodPass",
+    "full_name": "Dalict/FloodPass",
+    "owner": {
+      "login": "Dalict",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257100336?v=4"
+    },
+    "description": "Passwordless AuthMe sign-in for Bedrock players: Xbox-verified, automatic, zero typing",
+    "topics": [
+      "authme",
+      "auto",
+      "bukkit",
+      "bukkit-plugin",
+      "bukkitdev",
+      "craftbukkit",
+      "curseforge",
+      "database",
+      "floodgate",
+      "java",
+      "minecraft",
+      "minecraft-admin",
+      "minecraft-plugin",
+      "spigot",
+      "spigot-plugin"
+    ],
+    "html_url": "https://github.com/Dalict/FloodPass",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T16:39:02Z",
+    "updated_at": "2026-11-08T03:26:22Z",
+    "pushed_at": "2026-11-13T11:08:26Z"
+  },
+  {
+    "id": 1453414877,
+    "name": "laravel-dolt",
+    "full_name": "brimleylabs/laravel-dolt",
+    "owner": {
+      "login": "brimleylabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246615743?v=4"
+    },
+    "description": "Version control for your Laravel database. Branches, commits, diffs, merges and time travel, powered by Dolt and Doltgres.",
+    "topics": [
+      "ai-agents",
+      "audit-log",
+      "database",
+      "dolt",
+      "doltgres",
+      "laravel",
+      "php",
+      "version-control"
+    ],
+    "html_url": "https://github.com/brimleylabs/laravel-dolt",
+    "stargazers_count": 1,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T02:06:33Z",
+    "updated_at": "2026-11-11T23:03:02Z",
+    "pushed_at": "2026-11-11T02:52:53Z"
+  },
+  {
+    "id": 1455706808,
+    "name": "anime-list-manager",
+    "full_name": "PinPorterBeam/anime-list-manager",
+    "owner": {
+      "login": "PinPorterBeam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299337752?v=4"
+    },
+    "description": "Anime List Manager is a specialized catalog utility designed to track, organize, and synchronize watched and upcoming animated series. Media enthusiasts and collectors utilize this tool to log episode progress, rate titles, and manage personalized watchlists effortlessly.",
+    "topics": [
+      "anidb",
+      "anilist",
+      "anime",
+      "anime-db",
+      "anime-planet",
+      "anisearch",
+      "database",
+      "dataset",
+      "json",
+      "kitsu",
+      "kitsu-io",
+      "livechart",
+      "livechartme",
+      "mal",
+      "metadata",
+      "myanimelist",
+      "series",
+      "simkl"
+    ],
+    "html_url": "https://github.com/PinPorterBeam/anime-list-manager",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T18:53:27Z",
+    "updated_at": "2026-11-12T19:01:31Z",
+    "pushed_at": "2026-11-12T19:00:21Z"
+  },
+  {
+    "id": 1451917285,
+    "name": "nonodb",
+    "full_name": "essmos/nonodb",
+    "owner": {
+      "login": "essmos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14994065?v=4"
+    },
+    "description": "A low-resource, crash-safe JSON document database with ~5 MB idle RAM, BM25/fuzzy search, vector search, compound indexes, and MongoDB-style queries. MIT licensed, no paid tier.",
+    "topics": [
+      "database",
+      "document-database",
+      "embedded-database",
+      "json",
+      "lmdb",
+      "nosql",
+      "rust"
+    ],
+    "html_url": "https://github.com/essmos/nonodb",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T21:49:00Z",
+    "updated_at": "2026-11-12T09:50:29Z",
+    "pushed_at": "2026-11-13T20:36:53Z"
+  },
+  {
+    "id": 1449195524,
+    "name": "article-db-connect-timeout",
+    "full_name": "tegos-blog/article-db-connect-timeout",
+    "owner": {
+      "login": "tegos-blog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191977937?v=4"
+    },
+    "description": "A failed MySQL connect in Laravel waits 30 s per attempt and runs 4 attempts. How a network blip took a site down, and the one config line that fixes it.",
+    "topics": [
+      "case-study",
+      "database",
+      "devops",
+      "laravel",
+      "mysql",
+      "pdo",
+      "php",
+      "php-fpm",
+      "production",
+      "timeout"
+    ],
+    "html_url": "https://github.com/tegos-blog/article-db-connect-timeout",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T09:08:34Z",
+    "updated_at": "2026-11-07T09:23:14Z",
+    "pushed_at": "2026-11-07T09:16:23Z"
+  },
+  {
+    "id": 1450208030,
+    "name": "VoraLoom-",
+    "full_name": "Kavya-kakkar/VoraLoom-",
+    "owner": {
+      "login": "Kavya-kakkar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167710802?v=4"
+    },
+    "description": "VoraLoom is a Tirupur knitwear production OS with TNA tracking, offline floor sync, and bilingual NLP.",
+    "topics": [
+      "database",
+      "fastapi",
+      "postgresql",
+      "python",
+      "ui",
+      "ux"
+    ],
+    "html_url": "https://github.com/Kavya-kakkar/VoraLoom-",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-08T11:10:58Z",
+    "updated_at": "2026-11-08T12:10:41Z",
+    "pushed_at": "2026-11-08T11:20:26Z"
+  },
+  {
+    "id": 1451800561,
+    "name": "Aureon",
+    "full_name": "kreedxe/Aureon",
+    "owner": {
+      "login": "kreedxe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161311181?v=4"
+    },
+    "description": "Communication Automation Tool",
+    "topics": [
+      "automation",
+      "crm",
+      "database",
+      "local-ai",
+      "voice-assistant"
+    ],
+    "html_url": "https://github.com/kreedxe/Aureon",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T19:39:53Z",
+    "updated_at": "2026-11-10T14:57:28Z",
+    "pushed_at": "2026-11-10T14:57:22Z"
+  },
+  {
+    "id": 1449378505,
+    "name": "pocket-homelab-tables",
+    "full_name": "abjelosevic88/pocket-homelab-tables",
+    "owner": {
+      "login": "abjelosevic88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9435800?v=4"
+    },
+    "description": "Pocket Tables — self-hosted Airtable alternative: tables with typed fields, links, look-ups, totals and formulas; grid, board, calendar and gallery views; CSV/Airtable import, AI that designs tables and fills columns; rows linked to your other Pocket apps. One Go binary, one SQLite file.",
+    "topics": [
+      "airtable-alternative",
+      "database",
+      "docker",
+      "go",
+      "golang",
+      "homelab",
+      "kanban",
+      "nocode",
+      "pocket-core",
+      "pocket-homelab",
+      "pwa",
+      "react",
+      "self-hosted",
+      "single-binary",
+      "spreadsheet",
+      "sqlite",
+      "typescript"
+    ],
+    "html_url": "https://github.com/abjelosevic88/pocket-homelab-tables",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T13:23:33Z",
+    "updated_at": "2026-11-12T19:34:40Z",
+    "pushed_at": "2026-11-07T14:32:45Z"
+  },
+  {
+    "id": 1449700808,
+    "name": "varaq",
+    "full_name": "arriqaaq/varaq",
+    "owner": {
+      "login": "arriqaaq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5154136?v=4"
+    },
+    "description": "A fast, embedded, ACID compliant, Rust based B+tree KV store",
+    "topics": [
+      "btree",
+      "btree-implementation",
+      "btree-index",
+      "btrees",
+      "data-structures",
+      "database",
+      "key-value-store",
+      "rust"
+    ],
+    "html_url": "https://github.com/arriqaaq/varaq",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-07T20:07:07Z",
+    "updated_at": "2026-11-13T21:18:17Z",
+    "pushed_at": "2026-11-12T11:45:32Z"
+  },
+  {
+    "id": 1454582370,
+    "name": "design-preflight",
+    "full_name": "Mkamal88/design-preflight",
+    "owner": {
+      "login": "Mkamal88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8920191?v=4"
+    },
+    "description": "Design review for tickets and specs against your real codebase: a skill for Claude Code and OpenAI Codex.",
+    "topics": [
+      "agent-skills",
+      "architecture",
+      "claude-code",
+      "codex",
+      "database",
+      "design-review",
+      "performance"
+    ],
+    "html_url": "https://github.com/Mkamal88/design-preflight",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T22:49:58Z",
+    "updated_at": "2026-11-12T14:32:04Z",
+    "pushed_at": "2026-11-13T08:12:43Z"
+  }
+]
