@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1451184426,
+    "name": "fleeting-plugin-openstack",
+    "full_name": "radome-io/fleeting-plugin-openstack",
+    "owner": {
+      "login": "radome-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203673691?v=4"
+    },
+    "description": "GitLab fleeting plugin for OpenStack",
+    "topics": [
+      "autoscaling",
+      "fleeting",
+      "fleeting-plugin",
+      "gitlab",
+      "gitlab-runner",
+      "go",
+      "openstack",
+      "ovh"
+    ],
+    "html_url": "https://github.com/radome-io/fleeting-plugin-openstack",
+    "stargazers_count": 4,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T09:46:04Z",
+    "updated_at": "2026-11-11T14:19:20Z",
+    "pushed_at": "2026-11-11T01:13:14Z"
+  },
+  {
+    "id": 1454220650,
+    "name": "aki",
+    "full_name": "nathan-poncet/aki",
+    "owner": {
+      "login": "nathan-poncet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112613712?v=4"
+    },
+    "description": "Eyes on everything your team does: what waits on you, what waits on others, across GitLab, GitHub and Jira.",
+    "topics": [
+      "code-review",
+      "github",
+      "gitlab",
+      "jira",
+      "rust",
+      "tui"
+    ],
+    "html_url": "https://github.com/nathan-poncet/aki",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T16:27:54Z",
+    "updated_at": "2026-11-14T09:39:22Z",
+    "pushed_at": "2026-11-13T11:39:29Z"
+  },
+  {
+    "id": 1458246235,
+    "name": "kubernetes-homelab",
+    "full_name": "sebestyensoma111/kubernetes-homelab",
+    "owner": {
+      "login": "sebestyensoma111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164217577?v=4"
+    },
+    "description": "Self-hosted GitLab CE on a three-node MicroK8s cluster running on Proxmox. Setup, troubleshooting, and verified SSH clone and push",
+    "topics": [
+      "devops",
+      "gitlab",
+      "helm",
+      "microk8s",
+      "proxmox",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/sebestyensoma111/kubernetes-homelab",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T22:39:35Z",
+    "updated_at": "2026-11-14T22:48:54Z",
+    "pushed_at": "2026-11-14T22:45:52Z"
+  },
+  {
+    "id": 1453451028,
+    "name": "site-health-security-report-skill",
+    "full_name": "electrohire/site-health-security-report-skill",
+    "owner": {
+      "login": "electrohire",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154763587?v=4"
+    },
+    "description": "Agent skill that produces a graded daily website health & security report on any stack: Cloudflare, AWS CloudFront, Azure, Fastly; GitHub, GitLab, Bitbucket, Azure DevOps. Scanning, DDoS, SEO/AEO, A-F grades, staging workflow.",
+    "topics": [
+      "agent-skill",
+      "aws-cloudfront",
+      "bitbucket",
+      "claude-code",
+      "cloudflare",
+      "code-scanning",
+      "codex",
+      "cursor",
+      "ddos-protection",
+      "devsecops",
+      "github",
+      "gitlab",
+      "observability",
+      "seo",
+      "website-security"
+    ],
+    "html_url": "https://github.com/electrohire/site-health-security-report-skill",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T02:55:20Z",
+    "updated_at": "2026-11-12T15:57:50Z",
+    "pushed_at": "2026-11-12T15:13:03Z"
+  },
+  {
+    "id": 1451196838,
+    "name": "jingwei-ai-delivery-platform",
+    "full_name": "whalezhao/jingwei-ai-delivery-platform",
+    "owner": {
+      "login": "whalezhao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49772101?v=4"
+    },
+    "description": "经纬AI 研发交付平台 · AI R&D Delivery Platform",
+    "topics": [
+      "ai",
+      "delivery-platform",
+      "fastapi",
+      "gitlab",
+      "qa-automation",
+      "react"
+    ],
+    "html_url": "https://github.com/whalezhao/jingwei-ai-delivery-platform",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T09:58:43Z",
+    "updated_at": "2026-11-10T08:03:35Z",
+    "pushed_at": "2026-11-09T10:03:51Z"
+  },
+  {
+    "id": 1453008913,
+    "name": "CVE-2021-22205",
+    "full_name": "d4ytox/CVE-2021-22205",
+    "owner": {
+      "login": "d4ytox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204069580?v=4"
+    },
+    "description": "Unauthenticated RCE in GitLab CE/EE from 11.9 (fixed in 13.8.8, 13.9.6, 13.10.3) via the bundled ExifTool (CVE-2021-22204). Pure-Python DjVu builder, no djvulibre. Unauth and authenticated vectors, non-destructive check.",
+    "topics": [
+      "command-injection",
+      "cve-2021-22204",
+      "cve-2021-22205",
+      "cwe-94",
+      "cybersecurity",
+      "djvu",
+      "exiftool",
+      "exploit",
+      "file-upload",
+      "gitlab",
+      "infosec",
+      "pentesting",
+      "poc",
+      "proof-of-concept",
+      "python",
+      "rce",
+      "redteam",
+      "remote-code-execution",
+      "reverse-shell",
+      "unauthenticated"
+    ],
+    "html_url": "https://github.com/d4ytox/CVE-2021-22205",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T17:56:49Z",
+    "updated_at": "2026-11-10T21:29:13Z",
+    "pushed_at": "2026-11-10T18:18:12Z"
+  },
+  {
+    "id": 1454380865,
+    "name": "ictus",
+    "full_name": "Iziram/ictus",
+    "owner": {
+      "login": "Iziram",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49349614?v=4"
+    },
+    "description": "A conductor for AI agents on your git forges: coding agents in microVMs, their work delivered as merge requests and reviews on GitLab, GitHub, Gitea or Forgejo.",
+    "topics": [
+      "ai-agents",
+      "code-review",
+      "coding-agents",
+      "devtools",
+      "forgejo",
+      "gitea",
+      "github",
+      "gitlab",
+      "golang",
+      "microvm",
+      "sandbox",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/Iziram/ictus",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T19:01:02Z",
+    "updated_at": "2026-11-14T18:43:19Z",
+    "pushed_at": "2026-11-14T18:40:28Z"
+  },
+  {
+    "id": 1459359273,
+    "name": "self-descriptive-merge-requests",
+    "full_name": "kirill-kolomin/self-descriptive-merge-requests",
+    "owner": {
+      "login": "kirill-kolomin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215304921?v=4"
+    },
+    "description": "Agent Plugin that makes AI-authored merge requests explain themselves to reviewers: intent, before/after behavior and a verified entry-point graph, posted on the MR - without burying the diff in comments.",
+    "topics": [
+      "agent-plugins",
+      "agent-skills",
+      "code-review",
+      "github",
+      "gitlab",
+      "merge-request",
+      "pull-request"
+    ],
+    "html_url": "https://github.com/kirill-kolomin/self-descriptive-merge-requests",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T00:04:20Z",
+    "updated_at": "2026-11-16T00:52:45Z",
+    "pushed_at": "2026-11-16T01:16:23Z"
+  },
+  {
+    "id": 1452798380,
+    "name": "krci-agent-dispatcher",
+    "full_name": "KubeRocketCI/krci-agent-dispatcher",
+    "owner": {
+      "login": "KubeRocketCI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163105163?v=4"
+    },
+    "description": "Orchestrator for AI coding agents on Kubernetes, part of KubeRocketCI. Each task runs in its own Agent Substrate sandbox (gVisor or microVM) with an egress policy, so the agent can build and test code isolated from your cluster. Work comes back as a merge request for human review. Today: GitLab issues. Built for more triggers and agents.",
+    "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "ai-agents",
+      "ai-sandbox",
+      "coding-agents",
+      "devops",
+      "gitlab",
+      "golang",
+      "gvisor",
+      "kubernetes",
+      "kuberocketci",
+      "microvm",
+      "platform-engineering",
+      "sandbox",
+      "webhooks"
+    ],
+    "html_url": "https://github.com/KubeRocketCI/krci-agent-dispatcher",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T14:50:53Z",
+    "updated_at": "2026-11-14T10:07:44Z",
+    "pushed_at": "2026-11-15T17:08:53Z"
+  },
+  {
+    "id": 1453553668,
+    "name": "repo-scout",
+    "full_name": "vieneny/repo-scout",
+    "owner": {
+      "login": "vieneny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161407215?v=4"
+    },
+    "description": "开源项目推荐、对比与选型 AI Skill。贴链接、说需求，从 GitHub / Gitee / GitLab 找 Java 毕设、Spring Boot、AI 绘画、ComfyUI、视频生成、语音和写作工具；按技术栈、完整性、使用门槛、维护、Stars 热度和复用价值评分，输出带来源的对比表或交互报告。",
+    "topics": [
+      "agent-skills",
+      "ai-art",
+      "ai-skills",
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "comfyui",
+      "gitee",
+      "github",
+      "gitlab",
+      "graduation-projects",
+      "java-projects",
+      "langchain",
+      "open-source",
+      "open-source-alternatives",
+      "project-comparison",
+      "project-discovery",
+      "repository-analysis",
+      "research-tools",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/vieneny/repo-scout",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T05:18:07Z",
+    "updated_at": "2026-11-11T08:38:52Z",
+    "pushed_at": "2026-11-11T07:42:12Z"
+  },
+  {
+    "id": 1451544745,
+    "name": "herdr-kit",
+    "full_name": "pierregouedar/herdr-kit",
+    "owner": {
+      "login": "pierregouedar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63655592?v=4"
+    },
+    "description": "Espace de travail Herdr Desktop prêt à l'emploi : colonne git par espace (graphe, MR, CI, tests), sessions d'agents et sous-agents (Claude Code, Codex, omp, opencode), barre d'usage et de coût, palette de commandes. Installation en une commande.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "dotfiles",
+      "git-graph",
+      "gitlab",
+      "herdr",
+      "herdr-desktop",
+      "macos",
+      "opencode",
+      "serie",
+      "terminal"
+    ],
+    "html_url": "https://github.com/pierregouedar/herdr-kit",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T15:31:48Z",
+    "updated_at": "2026-11-10T08:40:13Z",
+    "pushed_at": "2026-11-09T15:48:02Z"
+  },
+  {
+    "id": 1451840202,
+    "name": "gitoodo",
+    "full_name": "silvio-l/gitoodo",
+    "owner": {
+      "login": "silvio-l",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9037506?v=4"
+    },
+    "description": "Tray app for macOS and Windows: every question your AI agents ask you across Forgejo/Gitea, GitHub and GitLab, in one place.",
+    "topics": [
+      "ai-agents",
+      "developer-tools",
+      "forgejo",
+      "gitea",
+      "github",
+      "gitlab",
+      "notifications",
+      "react",
+      "rust",
+      "tauri",
+      "tray-app",
+      "typescript",
+      "vibe-coding"
+    ],
+    "html_url": "https://github.com/silvio-l/gitoodo",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T20:22:07Z",
+    "updated_at": "2026-11-09T20:22:18Z",
+    "pushed_at": "2026-11-09T20:22:09Z"
+  },
+  {
+    "id": 1452537725,
+    "name": "cloudflare-git",
+    "full_name": "deepakkumar1984/cloudflare-git",
+    "owner": {
+      "login": "deepakkumar1984",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6328361?v=4"
+    },
+    "description": "A GitLab-style collaboration app built on Cloudflare Workers, D1, and Artifacts. D1 stores groups, projects, issues, reviews, and permissions. Artifacts stores the Git objects and refs. Worker name, D1 database, Artifacts namespace, app name, and public URL are chosen when you run",
+    "topics": [
+      "cloudflare",
+      "cloudflare-workers",
+      "git",
+      "github",
+      "gitlab",
+      "repo",
+      "repository"
+    ],
+    "html_url": "https://github.com/deepakkumar1984/cloudflare-git",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T10:53:07Z",
+    "updated_at": "2026-11-11T10:46:57Z",
+    "pushed_at": "2026-11-11T09:46:53Z"
+  },
+  {
+    "id": 1455949568,
+    "name": "runready",
+    "full_name": "voantony/runready",
+    "owner": {
+      "login": "voantony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5393347?v=4"
+    },
+    "description": "Prove a public GitHub or GitLab repository still installs from its agent docs.",
+    "topics": [
+      "ci",
+      "developer-tools",
+      "documentation",
+      "github",
+      "gitlab",
+      "nodejs"
+    ],
+    "html_url": "https://github.com/voantony/runready",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T23:44:46Z",
+    "updated_at": "2026-11-13T00:25:45Z",
+    "pushed_at": "2026-11-13T00:34:15Z"
+  },
+  {
+    "id": 1458125448,
+    "name": "rai.gk",
+    "full_name": "IkramMbz/rai.gk",
+    "owner": {
+      "login": "IkramMbz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123857017?v=4"
+    },
+    "description": "Repository Activity Inspector, a tool that scans GitLab ZIP archives to catalog their activities and technical dependencies.",
+    "topics": [
+      "docker",
+      "gitlab",
+      "javascript",
+      "nodejs",
+      "python"
+    ],
+    "html_url": "https://github.com/IkramMbz/rai.gk",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T19:58:30Z",
+    "updated_at": "2026-11-15T19:55:14Z",
+    "pushed_at": "2026-11-16T01:46:58Z"
+  },
+  {
+    "id": 1451234853,
+    "name": "dsh-commit-journal",
+    "full_name": "yu-bobo/dsh-commit-journal",
+    "owner": {
+      "login": "yu-bobo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65210482?v=4"
+    },
+    "description": "DeepSeek Harness plugin: sync commits (Codeup/GitLab/GitHub), reports, activity heatmap",
+    "topics": [
+      "codeup",
+      "commit-journal",
+      "deepseek-harness",
+      "dsh-plugin",
+      "github",
+      "gitlab",
+      "heatmap"
+    ],
+    "html_url": "https://github.com/yu-bobo/dsh-commit-journal",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T10:39:41Z",
+    "updated_at": "2026-11-12T04:01:16Z",
+    "pushed_at": "2026-11-13T00:32:13Z"
+  },
+  {
+    "id": 1452488664,
+    "name": "vela",
+    "full_name": "avytrix/vela",
+    "owner": {
+      "login": "avytrix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/349690976?v=4"
+    },
+    "description": "Folder and file permissions (view, read, write) for self-hosted GitLab CE. Open source, by Avytrix Technologies.",
+    "topics": [
+      "access-control",
+      "devops",
+      "gitlab",
+      "gitlab-ce",
+      "permissions",
+      "ruby",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/avytrix/vela",
+    "stargazers_count": 0,
+    "language": "Ruby",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T10:03:21Z",
+    "updated_at": "2026-11-11T16:17:08Z",
+    "pushed_at": "2026-11-11T15:17:05Z"
+  },
+  {
+    "id": 1456154584,
+    "name": "dsh-glab-kanban",
+    "full_name": "CheinTian/dsh-glab-kanban",
+    "owner": {
+      "login": "CheinTian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87127203?v=4"
+    },
+    "description": "GitLab issues kanban plugin for DeepSeek Harness, built on the glab CLI.",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "gitlab",
+      "glab",
+      "issue-board",
+      "issues",
+      "javascript",
+      "kanban",
+      "react"
+    ],
+    "html_url": "https://github.com/CheinTian/dsh-glab-kanban",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T04:36:33Z",
+    "updated_at": "2026-11-13T04:40:02Z",
+    "pushed_at": "2026-11-13T04:36:39Z"
+  },
+  {
+    "id": 1458744121,
+    "name": "nit",
+    "full_name": "Scorpse/nit",
+    "owner": {
+      "login": "Scorpse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51670?v=4"
+    },
+    "description": "Fast local pull request review for Windows, Linux and macOS. Bitbucket Cloud, GitHub and GitLab in one inbox.",
+    "topics": [
+      "bitbucket",
+      "code-review",
+      "cross-platform",
+      "desktop-app",
+      "egui",
+      "github",
+      "gitlab",
+      "pull-requests",
+      "rust"
+    ],
+    "html_url": "https://github.com/Scorpse/nit",
+    "stargazers_count": 0,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T11:47:23Z",
+    "updated_at": "2026-11-15T11:47:46Z",
+    "pushed_at": "2026-11-15T23:32:48Z"
+  },
+  {
+    "id": 1452831086,
+    "name": "forge-bridge",
+    "full_name": "EuGuiXtd/forge-bridge",
+    "owner": {
+      "login": "EuGuiXtd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102544823?v=4"
+    },
+    "description": "Show work from private GitLab repos on your GitHub profile: one verifiable contribution card from both forges. Zero deps, self-contained SVGs.",
+    "topics": [
+      "contributions",
+      "github-actions",
+      "github-profile",
+      "gitlab",
+      "nodejs",
+      "readme",
+      "svg"
+    ],
+    "html_url": "https://github.com/EuGuiXtd/forge-bridge",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T15:18:32Z",
+    "updated_at": "2026-11-10T15:42:45Z",
+    "pushed_at": "2026-11-10T15:42:35Z"
+  }
+]

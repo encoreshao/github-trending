@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1452864416,
+    "name": "solana-vigil",
+    "full_name": "ValidatorStack/solana-vigil",
+    "owner": {
+      "login": "ValidatorStack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253646803?v=4"
+    },
+    "description": "Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys.",
+    "topics": [
+      "alerting",
+      "alpenglow",
+      "blockchain",
+      "cryptocurrency",
+      "devops",
+      "golang",
+      "grafana",
+      "infrastructure",
+      "linux",
+      "metrics",
+      "monitoring",
+      "observability",
+      "prometheus",
+      "solana",
+      "solana-tools",
+      "solana-validator",
+      "sre",
+      "staking",
+      "validator",
+      "validator-tools"
+    ],
+    "html_url": "https://github.com/ValidatorStack/solana-vigil",
+    "stargazers_count": 230,
+    "language": "Go",
+    "forks_count": 40,
+    "open_issues_count": 1,
+    "created_at": "2026-11-10T15:47:25Z",
+    "updated_at": "2026-11-13T20:09:01Z",
+    "pushed_at": "2026-11-10T23:17:01Z"
+  },
+  {
+    "id": 1458971408,
+    "name": "solana-node-notes",
+    "full_name": "binaryprovostsnatch/solana-node-notes",
+    "owner": {
+      "login": "binaryprovostsnatch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350979825?v=4"
+    },
+    "description": "Validator hobbyist notes for Solana — hardware sizing and care tasks.",
+    "topics": [
+      "blockchain",
+      "infrastructure",
+      "nodes",
+      "solana",
+      "validator"
+    ],
+    "html_url": "https://github.com/binaryprovostsnatch/solana-node-notes",
+    "stargazers_count": 97,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T15:57:05Z",
+    "updated_at": "2026-11-15T22:47:06Z",
+    "pushed_at": "2026-11-15T15:58:19Z"
+  },
+  {
+    "id": 1457685581,
+    "name": "blockrazor_docs_en_rpocket-team",
+    "full_name": "Tayglacierweb99938/blockrazor_docs_en_rpocket-team",
+    "owner": {
+      "login": "Tayglacierweb99938",
+      "avatar_url": "https://avatars.githubusercontent.com/u/353565919?v=4"
+    },
+    "description": "Official English documentation for BlockRazor’s low-latency blockchain transaction infrastructure on Solana, BNB Smart Chain, and Ethereum.",
+    "topics": [
+      "backrun",
+      "base",
+      "blockchain",
+      "blockrazor",
+      "bnb-chain",
+      "bsc",
+      "ducumentation",
+      "ethereum",
+      "harmonic",
+      "jito",
+      "mev-protection",
+      "orderflow-auction",
+      "quant-trading-bot",
+      "robinhood-chain",
+      "rpc",
+      "searcher",
+      "web3",
+      "web3-wallet"
+    ],
+    "html_url": "https://github.com/Tayglacierweb99938/blockrazor_docs_en_rpocket-team",
+    "stargazers_count": 50,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T11:30:46Z",
+    "updated_at": "2026-11-14T14:56:39Z",
+    "pushed_at": "2026-11-14T11:30:53Z"
+  },
+  {
+    "id": 1458040488,
+    "name": "CryptoNoises",
+    "full_name": "andrii-bakulin/CryptoNoises",
+    "owner": {
+      "login": "andrii-bakulin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3021401?v=4"
+    },
+    "description": "Telegram and Discord bots that notify about Tezos wallet and NFT activity, with a Tezos indexer (PHP, MySQL). No longer maintained, published as is.",
+    "topics": [
+      "blockchain",
+      "discord-bot",
+      "indexer",
+      "ipfs",
+      "mysql",
+      "nft",
+      "php",
+      "telegram-bot",
+      "tezos",
+      "tzkt"
+    ],
+    "html_url": "https://github.com/andrii-bakulin/CryptoNoises",
+    "stargazers_count": 5,
+    "language": "PHP",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T18:15:39Z",
+    "updated_at": "2026-11-15T12:09:56Z",
+    "pushed_at": "2026-11-14T18:52:21Z"
+  },
+  {
+    "id": 1453473283,
+    "name": "watchwallet",
+    "full_name": "sb-child/watchwallet",
+    "owner": {
+      "login": "sb-child",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55868015?v=4"
+    },
+    "description": "A Rust-based EVM wallet activity monitor that detects incoming and outgoing transactions and sends notifications via dzserver. 基于 Rust 的 EVM 钱包活动监听器，可监测收款与转账，并通过 dzserver 发送通知。",
+    "topics": [
+      "blockchain",
+      "blockchain-monitor",
+      "blockchain-monitoring",
+      "crypto",
+      "ethereum",
+      "event-listener",
+      "rust",
+      "wallet",
+      "wallet-monitor",
+      "web3"
+    ],
+    "html_url": "https://github.com/sb-child/watchwallet",
+    "stargazers_count": 4,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T03:24:54Z",
+    "updated_at": "2026-11-14T10:45:11Z",
+    "pushed_at": "2026-11-14T03:07:00Z"
+  },
+  {
+    "id": 1455328473,
+    "name": "mycoin-research",
+    "full_name": "Sajidsaj/mycoin-research",
+    "owner": {
+      "login": "Sajidsaj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217962984?v=4"
+    },
+    "description": "“Research-grade PoW ledger testbed: post-quantum, vault and agent-allowance accounts. Not a coin.”",
+    "topics": [
+      "blockchain",
+      "cryptography",
+      "post-quantum-cryptography",
+      "proof-of-work",
+      "python",
+      "research",
+      "security"
+    ],
+    "html_url": "https://github.com/Sajidsaj/mycoin-research",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T13:19:21Z",
+    "updated_at": "2026-11-14T16:01:17Z",
+    "pushed_at": "2026-11-13T15:14:46Z"
+  },
+  {
+    "id": 1456695073,
+    "name": "SolGuard-AI",
+    "full_name": "fathiaomar/SolGuard-AI",
+    "owner": {
+      "login": "fathiaomar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192345511?v=4"
+    },
+    "description": "An AI-powered smart contract security auditor built with Next.js, Tailwind CSS, and Solidity. Features automated vulnerability scanning, severity ranking, and instant code patches",
+    "topics": [
+      "ai",
+      "blockchain",
+      "nextjs",
+      "smart-contract-audit",
+      "smart-contracts",
+      "solidity",
+      "tailwindcss",
+      "web3"
+    ],
+    "html_url": "https://github.com/fathiaomar/SolGuard-AI",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T14:25:05Z",
+    "updated_at": "2026-11-15T08:49:46Z",
+    "pushed_at": "2026-11-13T21:27:08Z"
+  },
+  {
+    "id": 1451530434,
+    "name": "solus-explorer",
+    "full_name": "cryptoscope-io/solus-explorer",
+    "owner": {
+      "login": "cryptoscope-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278734725?v=4"
+    },
+    "description": "Self-hosted block explorer for Bitcoin-derived blockchains (PHP, MongoDB)",
+    "topics": [
+      "block-explorer",
+      "blockchain",
+      "mongodb",
+      "php"
+    ],
+    "html_url": "https://github.com/cryptoscope-io/solus-explorer",
+    "stargazers_count": 3,
+    "language": "PHP",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T15:19:19Z",
+    "updated_at": "2026-11-12T16:24:20Z",
+    "pushed_at": "2026-11-12T15:24:17Z"
+  },
+  {
+    "id": 1455901524,
+    "name": "nano-pulse",
+    "full_name": "jaumebosch/nano-pulse",
+    "owner": {
+      "login": "jaumebosch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5648387?v=4"
+    },
+    "description": "Lightweight open-source control panel for a Nano node — real-time confirmations, representative health and system metrics. Single ~10MB Docker image.",
+    "topics": [
+      "blockchain",
+      "crypto",
+      "cryptocurrency",
+      "dashboard",
+      "docker",
+      "golang",
+      "monitoring",
+      "nano",
+      "nano-node",
+      "nanocurrency",
+      "node-monitoring",
+      "representative",
+      "rsnano",
+      "self-hosted",
+      "web-dashboard",
+      "xno"
+    ],
+    "html_url": "https://github.com/jaumebosch/nano-pulse",
+    "stargazers_count": 2,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T22:35:21Z",
+    "updated_at": "2026-11-14T00:13:11Z",
+    "pushed_at": "2026-11-12T23:39:46Z"
+  },
+  {
+    "id": 1451967238,
+    "name": "openchain-intelligence",
+    "full_name": "alertmanager12-blip/openchain-intelligence",
+    "owner": {
+      "login": "alertmanager12-blip",
+      "avatar_url": "https://avatars.githubusercontent.com/u/354662809?v=4"
+    },
+    "description": "Open source, self-hosted blockchain intelligence: explainable risk signals, fund flows and alerts.",
+    "topics": [
+      "aml",
+      "angular",
+      "blockchain",
+      "ethereum",
+      "risk-scoring",
+      "self-hosted",
+      "spring-boot",
+      "threat-detection",
+      "tron"
+    ],
+    "html_url": "https://github.com/alertmanager12-blip/openchain-intelligence",
+    "stargazers_count": 2,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T22:53:17Z",
+    "updated_at": "2026-11-10T16:07:40Z",
+    "pushed_at": "2026-11-10T19:56:32Z"
+  },
+  {
+    "id": 1452912370,
+    "name": "KwalaCoins",
+    "full_name": "jkoncza/KwalaCoins",
+    "owner": {
+      "login": "jkoncza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234962267?v=4"
+    },
+    "description": "A Cryptocurrency based off the source code of bitcoin. It runs on its own blockchain and network based off the source code of bitcoin.",
+    "topics": [
+      "based-on-bitcoin",
+      "blockchain",
+      "cryptocurrency",
+      "cryptowallet",
+      "kwalacoin"
+    ],
+    "html_url": "https://github.com/jkoncza/KwalaCoins",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-10T16:28:46Z",
+    "updated_at": "2026-11-12T17:22:32Z",
+    "pushed_at": "2026-11-10T22:28:37Z"
+  },
+  {
+    "id": 1458248410,
+    "name": "krevo",
+    "full_name": "Milkausikopistor/krevo",
+    "owner": {
+      "login": "Milkausikopistor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/356394685?v=4"
+    },
+    "description": "Proof-of-work BlockDAG cryptocurrency (10 blocks/s) with optional full-chain privacy, quantum-safe addresses and atomic swaps with Bitcoin. Reference node in JavaScript + compatible Rust node. Testnet only, not audited.",
+    "topics": [
+      "atomic-swap",
+      "blockchain",
+      "blockdag",
+      "bulletproofs",
+      "cryptocurrency",
+      "ghostdag",
+      "nodejs",
+      "post-quantum",
+      "privacy",
+      "proof-of-work",
+      "rust",
+      "webassembly",
+      "zero-knowledge"
+    ],
+    "html_url": "https://github.com/Milkausikopistor/krevo",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-11-14T22:43:00Z",
+    "updated_at": "2026-11-15T20:12:03Z",
+    "pushed_at": "2026-11-15T20:00:10Z"
+  },
+  {
+    "id": 1455356414,
+    "name": "kwartel",
+    "full_name": "Silverback-png/kwartel",
+    "owner": {
+      "login": "Silverback-png",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251360733?v=4"
+    },
+    "description": "A UTXO blockchain built from scratch in Python — Ed25519 signatures, SHA-256, Merkle trees, CPU proof-of-work, and a peer-to-peer TCP gossip network with partition/heal. 202 tests passing.",
+    "topics": [
+      "blockchain",
+      "distributed-systems",
+      "ed25519",
+      "proof-of-work",
+      "python",
+      "utxo"
+    ],
+    "html_url": "https://github.com/Silverback-png/kwartel",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T13:42:31Z",
+    "updated_at": "2026-11-13T18:39:20Z",
+    "pushed_at": "2026-11-13T18:39:15Z"
+  },
+  {
+    "id": 1458488745,
+    "name": "Decentralized-P2P",
+    "full_name": "deco31416/Decentralized-P2P",
+    "owner": {
+      "login": "deco31416",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102875756?v=4"
+    },
+    "description": "CambiaCripto is an open-source Web3 project exploring decentralized P2P cryptocurrency and fiat exchange. Built with Next.js, React, TypeScript, Solidity, and Hardhat, featuring wallet integration, smart contracts, and blockchain-based exchange infrastructure. Under active development.",
+    "topics": [
+      "blockchain",
+      "blockchain-platform",
+      "blockchain-technology",
+      "descentralized",
+      "fiat-to-crypto",
+      "p2p",
+      "p2p-exchange",
+      "smart-contracts",
+      "smart-contracts-developer",
+      "solidity",
+      "solidity-contract",
+      "solidity-contracts",
+      "web3",
+      "web3-dapp"
+    ],
+    "html_url": "https://github.com/deco31416/Decentralized-P2P",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T05:50:06Z",
+    "updated_at": "2026-11-15T08:50:26Z",
+    "pushed_at": "2026-11-15T05:50:46Z"
+  },
+  {
+    "id": 1451051452,
+    "name": "oneclick",
+    "full_name": "vseae/oneclick",
+    "owner": {
+      "login": "vseae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35215640?v=4"
+    },
+    "description": "A Web3 toolkit for EVM smart contract interaction",
+    "topics": [
+      "blockchain",
+      "dapp",
+      "defi",
+      "ethereum",
+      "evm",
+      "nextjs",
+      "react",
+      "smart-contracts",
+      "solidity",
+      "typescript",
+      "viem",
+      "web3"
+    ],
+    "html_url": "https://github.com/vseae/oneclick",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T07:18:20Z",
+    "updated_at": "2026-11-09T07:49:12Z",
+    "pushed_at": "2026-11-09T07:34:30Z"
+  },
+  {
+    "id": 1451389786,
+    "name": "goldenhour",
+    "full_name": "dharmeshdev1/goldenhour",
+    "owner": {
+      "login": "dharmeshdev1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176051217?v=4"
+    },
+    "description": "Crypto theft response, from the signer to the last hop: a policy co-signer, drain detection, the freeze window, a live cross-chain trace and private screening, running on the Binance theft of October 2026.",
+    "topics": [
+      "aml",
+      "bitcoin",
+      "blockchain",
+      "compliance",
+      "crypto",
+      "eip-7702",
+      "ethereum",
+      "forensics",
+      "incident-response",
+      "nextjs",
+      "security",
+      "threat-detection"
+    ],
+    "html_url": "https://github.com/dharmeshdev1/goldenhour",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T13:16:25Z",
+    "updated_at": "2026-11-10T08:59:14Z",
+    "pushed_at": "2026-11-15T05:01:05Z"
+  },
+  {
+    "id": 1454187038,
+    "name": "aeon",
+    "full_name": "AeonBlockchainL1/aeon",
+    "owner": {
+      "login": "AeonBlockchainL1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/355419803?v=4"
+    },
+    "description": "Aeon Chain: a quantum-proof privacy Layer 1. Ring signatures, stealth addresses, hidden amounts, ML-KEM-768 payment detection, Argon2id proof of work.",
+    "topics": [
+      "argon2id",
+      "blockchain",
+      "cryptography",
+      "layer1",
+      "ml-kem",
+      "post-quantum",
+      "privacy",
+      "proof-of-work",
+      "ring-signatures",
+      "ringct",
+      "stealth-addresses"
+    ],
+    "html_url": "https://github.com/AeonBlockchainL1/aeon",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T15:57:19Z",
+    "updated_at": "2026-11-13T11:19:14Z",
+    "pushed_at": "2026-11-13T05:13:00Z"
+  },
+  {
+    "id": 1458441333,
+    "name": "perp-funding-oracle",
+    "full_name": "syk808/perp-funding-oracle",
+    "owner": {
+      "login": "syk808",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85772058?v=4"
+    },
+    "description": "On-chain TWAP funding rate aggregator and basis spread oracle contracts in Solidity",
+    "topics": [
+      "blockchain",
+      "defi",
+      "ethereum",
+      "evm",
+      "foundry",
+      "oracle",
+      "perpetual-futures",
+      "smart-contracts",
+      "solidity",
+      "web3"
+    ],
+    "html_url": "https://github.com/syk808/perp-funding-oracle",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T04:29:25Z",
+    "updated_at": "2026-11-15T04:30:13Z",
+    "pushed_at": "2026-11-15T04:29:52Z"
+  },
+  {
+    "id": 1455311075,
+    "name": "stellar-academy",
+    "full_name": "alex0tico/stellar-academy",
+    "owner": {
+      "login": "alex0tico",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232292165?v=4"
+    },
+    "description": "Recurso educativo abierto de Stellar Academy: blockchain, wallets, contratos inteligentes en Soroban, seguridad y desarrollo de productos en Stellar.",
+    "topics": [
+      "blockchain",
+      "education",
+      "smart-contracts",
+      "soroban",
+      "spanish",
+      "stellar"
+    ],
+    "html_url": "https://github.com/alex0tico/stellar-academy",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T13:04:25Z",
+    "updated_at": "2026-11-12T13:04:35Z",
+    "pushed_at": "2026-11-12T13:04:31Z"
+  },
+  {
+    "id": 1451524769,
+    "name": "eventide",
+    "full_name": "Fayedamz/eventide",
+    "owner": {
+      "login": "Fayedamz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/295558173?v=4"
+    },
+    "description": "Soroban event indexer that notices and repairs data gaps. TypeScript, SQLite, CLI, and read-only API.",
+    "topics": [
+      "blockchain",
+      "events",
+      "indexer",
+      "soroban",
+      "sqlite",
+      "stellar",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Fayedamz/eventide",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 28,
+    "created_at": "2026-11-09T15:14:38Z",
+    "updated_at": "2026-11-09T19:40:37Z",
+    "pushed_at": "2026-11-09T19:40:37Z"
+  }
+]

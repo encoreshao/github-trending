@@ -1,0 +1,576 @@
+[
+  {
+    "id": 1452408449,
+    "name": "kham",
+    "full_name": "neptunenakub/kham",
+    "owner": {
+      "login": "neptunenakub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238022317?v=4"
+    },
+    "description": "Fast, dependency-free Thai word finder — ค้นหาคำไทยจากตัวอักษร (Python, CLI, web demo)",
+    "topics": [
+      "dictionary",
+      "nlp",
+      "python",
+      "thai",
+      "thai-language",
+      "word-finder"
+    ],
+    "html_url": "https://github.com/neptunenakub/kham",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T08:42:40Z",
+    "updated_at": "2026-11-15T13:27:17Z",
+    "pushed_at": "2026-11-11T02:53:13Z"
+  },
+  {
+    "id": 1453477562,
+    "name": "thai-token-tax",
+    "full_name": "neptunenakub/thai-token-tax",
+    "owner": {
+      "login": "neptunenakub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238022317?v=4"
+    },
+    "description": "How much more Thai text costs on each LLM: tokens per 1,000 Thai characters across 45 models, turned into baht per month, with a cost calculator. · วัดค่า token ภาษาไทย 45 โมเดล แปลงเป็นบาทต่อเดือน",
+    "topics": [
+      "benchmark",
+      "llm",
+      "nlp",
+      "thai",
+      "tokenizer"
+    ],
+    "html_url": "https://github.com/neptunenakub/thai-token-tax",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T03:30:58Z",
+    "updated_at": "2026-11-15T13:27:29Z",
+    "pushed_at": "2026-11-11T03:36:50Z"
+  },
+  {
+    "id": 1451218506,
+    "name": "JJ_ML_DL_BOOK",
+    "full_name": "joedejesus/JJ_ML_DL_BOOK",
+    "owner": {
+      "login": "joedejesus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200772327?v=4"
+    },
+    "description": "Recurso educativo en español sobre Data Science, Machine Learning, Deep Learning, NLP y Transformers con Python, PyTorch y Jupyter.",
+    "topics": [
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "education",
+      "huggingface",
+      "jupyter-notebook",
+      "machine-learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "transformers"
+    ],
+    "html_url": "https://github.com/joedejesus/JJ_ML_DL_BOOK",
+    "stargazers_count": 7,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T10:21:51Z",
+    "updated_at": "2026-11-13T12:43:33Z",
+    "pushed_at": "2026-11-10T09:57:23Z"
+  },
+  {
+    "id": 1456293722,
+    "name": "MatnPala-3",
+    "full_name": "MatnPala-com/MatnPala-3",
+    "owner": {
+      "login": "MatnPala-com",
+      "avatar_url": "https://avatars.githubusercontent.com/u/356132210?v=4"
+    },
+    "description": null,
+    "topics": [
+      "ai",
+      "document-summarization",
+      "farsi",
+      "natural-language-processing",
+      "nlp",
+      "persian-language",
+      "persian-nlp",
+      "php",
+      "php-text-analysis",
+      "text-summarization"
+    ],
+    "html_url": "https://github.com/MatnPala-com/MatnPala-3",
+    "stargazers_count": 6,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T07:29:22Z",
+    "updated_at": "2026-11-15T19:05:02Z",
+    "pushed_at": "2026-11-15T18:47:51Z"
+  },
+  {
+    "id": 1452995897,
+    "name": "data-selection",
+    "full_name": "hufs24lsh/data-selection",
+    "owner": {
+      "login": "hufs24lsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231624462?v=4"
+    },
+    "description": "ShallowFrontier: label-free, energy-efficient data selection for LLM fine-tuning. One shallow calibration instead of repeated rounds; −53% end-to-end GPU energy vs. InstructDiff (ACL 2026).",
+    "topics": [
+      "data-selection",
+      "energy-efficiency",
+      "fine-tuning",
+      "green-ai",
+      "instruction-tuning",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/hufs24lsh/data-selection",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T17:44:35Z",
+    "updated_at": "2026-11-13T18:22:00Z",
+    "pushed_at": "2026-11-15T03:08:31Z"
+  },
+  {
+    "id": 1455144840,
+    "name": "mama-mobile",
+    "full_name": "PraiseTechzw/mama-mobile",
+    "owner": {
+      "login": "PraiseTechzw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156639155?v=4"
+    },
+    "description": "A maternal-health companion built for pregnancy guidance in English, ChiShona, and isiNdebele.",
+    "topics": [
+      "chatbot",
+      "chinhoyi-university-of-technology",
+      "cut",
+      "expo",
+      "mamabot",
+      "maternal-health",
+      "ndebele",
+      "nlp",
+      "shona"
+    ],
+    "html_url": "https://github.com/PraiseTechzw/mama-mobile",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T10:23:45Z",
+    "updated_at": "2026-11-13T05:53:34Z",
+    "pushed_at": "2026-11-13T06:31:40Z"
+  },
+  {
+    "id": 1451583763,
+    "name": "MatraKi-Keyboard",
+    "full_name": "sojibcreates-maker/MatraKi-Keyboard",
+    "owner": {
+      "login": "sojibcreates-maker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/354521452?v=4"
+    },
+    "description": "MatraKi (মাত্রা-কী) — Best AI Smart Bangla Keyboard for Linux & Windows. Avro phonetic typing suite with 20,535+ trained words, next-word prediction, grammar engine, live math & unit converter. Open-source Fcitx5 & IBus Bengali IME.",
+    "topics": [
+      "ai-keyboard",
+      "avro-keyboard",
+      "avro-phonetic",
+      "bangla",
+      "bangla-input-method",
+      "bangla-keyboard",
+      "bangla-typing",
+      "bangladesh",
+      "bengali",
+      "bengali-keyboard",
+      "bengali-typing",
+      "deepin",
+      "fcitx5",
+      "ibus",
+      "linux",
+      "nlp",
+      "open-source",
+      "smart-keyboard",
+      "ubuntu",
+      "windows"
+    ],
+    "html_url": "https://github.com/sojibcreates-maker/MatraKi-Keyboard",
+    "stargazers_count": 2,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T16:06:21Z",
+    "updated_at": "2026-11-10T20:55:30Z",
+    "pushed_at": "2026-11-15T17:25:59Z"
+  },
+  {
+    "id": 1457264073,
+    "name": "silica",
+    "full_name": "explcre/silica",
+    "owner": {
+      "login": "explcre",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45730271?v=4"
+    },
+    "description": "SILICA: certified counterfactual evaluation of identifiability in unseen-language induction (Findings of EACL 2027)",
+    "topics": [
+      "abstention",
+      "benchmark",
+      "identifiability",
+      "llm-evaluation",
+      "nlp"
+    ],
+    "html_url": "https://github.com/explcre/silica",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T01:13:26Z",
+    "updated_at": "2026-11-15T16:06:42Z",
+    "pushed_at": "2026-11-14T05:57:37Z"
+  },
+  {
+    "id": 1451865654,
+    "name": "DocuLearn-AI",
+    "full_name": "ENG-Ebraheem/DocuLearn-AI",
+    "owner": {
+      "login": "ENG-Ebraheem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190134537?v=4"
+    },
+    "description": "DocuLearn-AI - An intelligent document analysis, learning, and question-answering platform powered by AI and Python.",
+    "topics": [
+      "ai",
+      "document-ai",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "python"
+    ],
+    "html_url": "https://github.com/ENG-Ebraheem/DocuLearn-AI",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-09T20:49:39Z",
+    "updated_at": "2026-11-09T22:02:06Z",
+    "pushed_at": "2026-11-09T20:53:34Z"
+  },
+  {
+    "id": 1458499622,
+    "name": "EchoSpec",
+    "full_name": "unihsy/EchoSpec",
+    "owner": {
+      "login": "unihsy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336339144?v=4"
+    },
+    "description": "EchoSpec: Training Search Agents to Weigh Evidence Above Echoes",
+    "topics": [
+      "grpo",
+      "llm-agents",
+      "nlp",
+      "reinforcement-learning",
+      "retrieval-augmented-generation",
+      "search-agents"
+    ],
+    "html_url": "https://github.com/unihsy/EchoSpec",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T06:07:19Z",
+    "updated_at": "2026-11-15T06:09:04Z",
+    "pushed_at": "2026-11-15T13:55:01Z"
+  },
+  {
+    "id": 1456440033,
+    "name": "AI-ML-Paper-Q-A-assistant",
+    "full_name": "supraja-ulaganathan/AI-ML-Paper-Q-A-assistant",
+    "owner": {
+      "login": "supraja-ulaganathan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245125464?v=4"
+    },
+    "description": "RAG assistant that answers questions about arXiv papers on RAG, dense retrieval and LLM hallucination, with page-level citations, paper summaries and keyword extraction.",
+    "topics": [
+      "churning",
+      "dataset",
+      "llm",
+      "nlp",
+      "rag"
+    ],
+    "html_url": "https://github.com/supraja-ulaganathan/AI-ML-Paper-Q-A-assistant",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T10:05:28Z",
+    "updated_at": "2026-11-13T11:07:55Z",
+    "pushed_at": "2026-11-14T06:26:56Z"
+  },
+  {
+    "id": 1457161583,
+    "name": "esg-greenwashing-nlp-b3",
+    "full_name": "eniocancian/esg-greenwashing-nlp-b3",
+    "owner": {
+      "login": "eniocancian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242901942?v=4"
+    },
+    "description": "Auditoria Bilíngue de Greenwashing e Deriva Semântica em Relatórios ESG (B3) com NLP",
+    "topics": [
+      "b3",
+      "data-science",
+      "esg",
+      "greenwashing",
+      "nlp",
+      "python",
+      "scikit-learn",
+      "streamlit",
+      "sustainability",
+      "topic-modeling"
+    ],
+    "html_url": "https://github.com/eniocancian/esg-greenwashing-nlp-b3",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T22:28:39Z",
+    "updated_at": "2026-11-13T22:55:48Z",
+    "pushed_at": "2026-11-13T23:19:10Z"
+  },
+  {
+    "id": 1452616059,
+    "name": "sentiment-product-recommendation-system",
+    "full_name": "mrchandrayee/sentiment-product-recommendation-system",
+    "owner": {
+      "login": "mrchandrayee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161303034?v=4"
+    },
+    "description": "⭐ Capstone: Sentiment analysis + collaborative filtering for e-commerce product recommendations. Flask web app with deployed Heroku endpoint.",
+    "topics": [
+      "capstone",
+      "collaborative-filtering",
+      "flask",
+      "heroku",
+      "machine-learning",
+      "nlp",
+      "python",
+      "recommendation-system",
+      "sentiment-analysis"
+    ],
+    "html_url": "https://github.com/mrchandrayee/sentiment-product-recommendation-system",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T12:11:14Z",
+    "updated_at": "2026-11-10T12:11:54Z",
+    "pushed_at": "2026-11-10T12:11:45Z"
+  },
+  {
+    "id": 1453069404,
+    "name": "Indian-Language-llm-model",
+    "full_name": "ashishpatel26/Indian-Language-llm-model",
+    "owner": {
+      "login": "ashishpatel26",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3095771?v=4"
+    },
+    "description": "Train a Llama-style Hindi LLM from scratch on a single 6 GB GPU: SentencePiece tokenizer, packed data pipeline, plain PyTorch training. Extensible to 10+ Indian languages.",
+    "topics": [
+      "deep-learning",
+      "devanagari",
+      "from-scratch",
+      "hindi",
+      "indian-languages",
+      "indic-nlp",
+      "language-model",
+      "llama",
+      "llm",
+      "nlp",
+      "pretraining",
+      "pytorch",
+      "sentencepiece",
+      "small-language-model",
+      "transformers"
+    ],
+    "html_url": "https://github.com/ashishpatel26/Indian-Language-llm-model",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T18:56:32Z",
+    "updated_at": "2026-11-14T09:53:56Z",
+    "pushed_at": "2026-11-15T04:05:40Z"
+  },
+  {
+    "id": 1452729612,
+    "name": "erpnext-ai-sentiment-analyzer",
+    "full_name": "shyampandey1104/erpnext-ai-sentiment-analyzer",
+    "owner": {
+      "login": "shyampandey1104",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95642167?v=4"
+    },
+    "description": "Customer Support Ticket Sentiment Analysis & Churn Prevention Copilot for ERPNext.",
+    "topics": [
+      "ai",
+      "churn-prediction",
+      "customer-support",
+      "erpnext",
+      "frappe",
+      "nlp",
+      "python",
+      "sentiment-analysis"
+    ],
+    "html_url": "https://github.com/shyampandey1104/erpnext-ai-sentiment-analyzer",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T13:53:27Z",
+    "updated_at": "2026-11-11T09:31:40Z",
+    "pushed_at": "2026-11-10T13:53:33Z"
+  },
+  {
+    "id": 1452260973,
+    "name": "book-review-emotion-map",
+    "full_name": "ShuyaoGao/book-review-emotion-map",
+    "owner": {
+      "login": "ShuyaoGao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291050033?v=4"
+    },
+    "description": "读者评论 → 桥段热度与情绪地图：把书评引用的句子对齐回公版原著，位置校正后画成热度-情绪时间线（AI 教学演示案例，浏览器直接看）",
+    "topics": [
+      "course-demo",
+      "nlp",
+      "reader-response",
+      "text-alignment"
+    ],
+    "html_url": "https://github.com/ShuyaoGao/book-review-emotion-map",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T05:52:12Z",
+    "updated_at": "2026-11-12T07:22:00Z",
+    "pushed_at": "2026-11-10T05:52:30Z"
+  },
+  {
+    "id": 1453750063,
+    "name": "offenseval-tr-midproject",
+    "full_name": "paysis/offenseval-tr-midproject",
+    "owner": {
+      "login": "paysis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90988388?v=4"
+    },
+    "description": "Team 10 mid-project: OffensEval-TR baseline, threshold-calibrated open LLMs, error audit and reproduction",
+    "topics": [
+      "llm-evaluation",
+      "nlp",
+      "offensive-language",
+      "reproducibility",
+      "turkish"
+    ],
+    "html_url": "https://github.com/paysis/offenseval-tr-midproject",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T09:05:12Z",
+    "updated_at": "2026-11-11T20:09:30Z",
+    "pushed_at": "2026-11-11T19:18:45Z"
+  },
+  {
+    "id": 1456181014,
+    "name": "exam-question-paper-analyzer",
+    "full_name": "khushiyadav35/exam-question-paper-analyzer",
+    "owner": {
+      "login": "khushiyadav35",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155224047?v=4"
+    },
+    "description": "University previous year exam question paper analyzer with NLP semantic clustering, weightage distribution, and Pareto 80/20 study prioritizer.",
+    "topics": [
+      "aktu",
+      "btech-project",
+      "exam-paper-analyzer",
+      "machine-learning",
+      "nlp",
+      "pyq-analysis",
+      "question-clustering",
+      "scikit-learn",
+      "streamlit",
+      "study-prioritizer"
+    ],
+    "html_url": "https://github.com/khushiyadav35/exam-question-paper-analyzer",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T05:14:07Z",
+    "updated_at": "2026-11-13T05:19:46Z",
+    "pushed_at": "2026-11-13T05:14:36Z"
+  },
+  {
+    "id": 1454342053,
+    "name": "PhishGuard",
+    "full_name": "RazaJavaid2004/PhishGuard",
+    "owner": {
+      "login": "RazaJavaid2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179996921?v=4"
+    },
+    "description": "PhishGuard is an end-to-end multi-source phishing email classification pipeline trained on 163,868+ merged emails across 7 benchmark datasets. Powered by TF-IDF and L2-regularized Logistic Regression, it achieves 98.60% accuracy and 98.97% recall, deployed with an interactive Streamlit dashboard for real-time threat detection.",
+    "topics": [
+      "cybersecurity",
+      "email-security",
+      "machine-learning",
+      "nlp",
+      "phising-detection",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/RazaJavaid2004/PhishGuard",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T18:21:27Z",
+    "updated_at": "2026-11-12T13:39:55Z",
+    "pushed_at": "2026-11-13T15:52:21Z"
+  },
+  {
+    "id": 1453050257,
+    "name": "DocumentRagApplication",
+    "full_name": "KinshukGuhaDev/DocumentRagApplication",
+    "owner": {
+      "login": "KinshukGuhaDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147944260?v=4"
+    },
+    "description": "A modular, high-accuracy Document RAG pipeline engineered for structured and unstructured enterprise files (PDF, DOCX, CSV, Excel, JSON, SQL). Features file-aware hybrid chunking, dual embedding engines (Sentence-Transformers / OpenAI), dense+lexical candidate reranking, and citation-backed LLM generation using NVIDIA NIM, Google Gemini, and OpenAI",
+    "topics": [
+      "chromadb",
+      "gemini-api",
+      "langchain",
+      "nlp",
+      "nvidia-nim",
+      "openai",
+      "python",
+      "python3",
+      "rag",
+      "retrieval-augmented-generation",
+      "sentence-transformers",
+      "vector-database"
+    ],
+    "html_url": "https://github.com/KinshukGuhaDev/DocumentRagApplication",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T18:37:41Z",
+    "updated_at": "2026-11-15T20:01:14Z",
+    "pushed_at": "2026-11-15T19:35:54Z"
+  }
+]
