@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1454220650,
+    "name": "aki",
+    "full_name": "nathan-poncet/aki",
+    "owner": {
+      "login": "nathan-poncet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112613712?v=4"
+    },
+    "description": "Eyes on everything your team does: what waits on you, what waits on others, across GitLab, GitHub and Jira.",
+    "topics": [
+      "code-review",
+      "github",
+      "gitlab",
+      "jira",
+      "rust",
+      "tui"
+    ],
+    "html_url": "https://github.com/nathan-poncet/aki",
+    "stargazers_count": 3,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T16:27:54Z",
+    "updated_at": "2026-11-14T09:39:22Z",
+    "pushed_at": "2026-11-13T11:39:29Z"
+  },
+  {
+    "id": 1454452087,
+    "name": "agentome",
+    "full_name": "agentome-ai/agentome",
+    "owner": {
+      "login": "agentome-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345543909?v=4"
+    },
+    "description": "Self-hosted platform for AI employees: agents for any role, on Claude Code or Codex, on your own servers.",
+    "topics": [
+      "agent-platform",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "gitlab",
+      "jira",
+      "mcp",
+      "mcp-server",
+      "n8n",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/agentome-ai/agentome",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T20:13:38Z",
+    "updated_at": "2026-11-16T20:49:57Z",
+    "pushed_at": "2026-11-16T20:53:30Z"
+  },
+  {
+    "id": 1458246235,
+    "name": "kubernetes-homelab",
+    "full_name": "sebestyensoma111/kubernetes-homelab",
+    "owner": {
+      "login": "sebestyensoma111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164217577?v=4"
+    },
+    "description": "Self-hosted GitLab CE on a three-node MicroK8s cluster running on Proxmox. Setup, troubleshooting, and verified SSH clone and push",
+    "topics": [
+      "devops",
+      "gitlab",
+      "helm",
+      "microk8s",
+      "proxmox",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/sebestyensoma111/kubernetes-homelab",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T22:39:35Z",
+    "updated_at": "2026-11-14T22:48:54Z",
+    "pushed_at": "2026-11-14T22:45:52Z"
+  },
+  {
+    "id": 1459573037,
+    "name": "Awesome-Git-Github-Gitlab-Repository-Integration",
+    "full_name": "ishandutta2007/Awesome-Git-Github-Gitlab-Repository-Integration",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top Git Github Gitlab Repository Integration (Opensource)  Star if you like it! ",
+    "topics": [
+      "awesome-list",
+      "ci-cd",
+      "curated-list",
+      "git",
+      "github",
+      "gitlab",
+      "version-control"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-Git-Github-Gitlab-Repository-Integration",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T05:14:25Z",
+    "updated_at": "2026-11-16T06:47:06Z",
+    "pushed_at": "2026-11-16T07:30:40Z"
+  },
+  {
+    "id": 1453008913,
+    "name": "CVE-2021-22205",
+    "full_name": "d4ytox/CVE-2021-22205",
+    "owner": {
+      "login": "d4ytox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204069580?v=4"
+    },
+    "description": "Unauthenticated RCE in GitLab CE/EE from 11.9 (fixed in 13.8.8, 13.9.6, 13.10.3) via the bundled ExifTool (CVE-2021-22204). Pure-Python DjVu builder, no djvulibre. Unauth and authenticated vectors, non-destructive check.",
+    "topics": [
+      "command-injection",
+      "cve-2021-22204",
+      "cve-2021-22205",
+      "cwe-94",
+      "cybersecurity",
+      "djvu",
+      "exiftool",
+      "exploit",
+      "file-upload",
+      "gitlab",
+      "infosec",
+      "pentesting",
+      "poc",
+      "proof-of-concept",
+      "python",
+      "rce",
+      "redteam",
+      "remote-code-execution",
+      "reverse-shell",
+      "unauthenticated"
+    ],
+    "html_url": "https://github.com/d4ytox/CVE-2021-22205",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T17:56:49Z",
+    "updated_at": "2026-11-10T21:29:13Z",
+    "pushed_at": "2026-11-10T18:18:12Z"
+  },
+  {
+    "id": 1453451028,
+    "name": "site-health-security-report-skill",
+    "full_name": "electrohire/site-health-security-report-skill",
+    "owner": {
+      "login": "electrohire",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154763587?v=4"
+    },
+    "description": "Agent skill that produces a graded daily website health & security report on any stack: Cloudflare, AWS CloudFront, Azure, Fastly; GitHub, GitLab, Bitbucket, Azure DevOps. Scanning, DDoS, SEO/AEO, A-F grades, staging workflow.",
+    "topics": [
+      "agent-skill",
+      "aws-cloudfront",
+      "bitbucket",
+      "claude-code",
+      "cloudflare",
+      "code-scanning",
+      "codex",
+      "cursor",
+      "ddos-protection",
+      "devsecops",
+      "github",
+      "gitlab",
+      "observability",
+      "seo",
+      "website-security"
+    ],
+    "html_url": "https://github.com/electrohire/site-health-security-report-skill",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T02:55:20Z",
+    "updated_at": "2026-11-12T15:57:50Z",
+    "pushed_at": "2026-11-16T21:31:58Z"
+  },
+  {
+    "id": 1459359273,
+    "name": "self-descriptive-merge-requests",
+    "full_name": "kirill-kolomin/self-descriptive-merge-requests",
+    "owner": {
+      "login": "kirill-kolomin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215304921?v=4"
+    },
+    "description": "Agent Plugin that makes AI-authored merge requests explain themselves to reviewers: intent, before/after behavior and a verified entry-point graph, posted on the MR - without burying the diff in comments.",
+    "topics": [
+      "agent-plugins",
+      "agent-skills",
+      "code-review",
+      "github",
+      "gitlab",
+      "merge-request",
+      "pull-request"
+    ],
+    "html_url": "https://github.com/kirill-kolomin/self-descriptive-merge-requests",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T00:04:20Z",
+    "updated_at": "2026-11-16T00:52:45Z",
+    "pushed_at": "2026-11-16T02:15:41Z"
+  },
+  {
+    "id": 1452798380,
+    "name": "krci-agent-dispatcher",
+    "full_name": "KubeRocketCI/krci-agent-dispatcher",
+    "owner": {
+      "login": "KubeRocketCI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163105163?v=4"
+    },
+    "description": "Orchestrator for AI coding agents on Kubernetes, part of KubeRocketCI. Each task runs in its own Agent Substrate sandbox (gVisor or microVM) with an egress policy, so the agent can build and test code isolated from your cluster. Work comes back as a merge request for human review. Today: GitLab issues. Built for more triggers and agents.",
+    "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "ai-agents",
+      "ai-sandbox",
+      "coding-agents",
+      "devops",
+      "gitlab",
+      "golang",
+      "gvisor",
+      "kubernetes",
+      "kuberocketci",
+      "microvm",
+      "platform-engineering",
+      "sandbox",
+      "webhooks"
+    ],
+    "html_url": "https://github.com/KubeRocketCI/krci-agent-dispatcher",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T14:50:53Z",
+    "updated_at": "2026-11-14T10:07:44Z",
+    "pushed_at": "2026-11-16T19:33:16Z"
+  },
+  {
+    "id": 1453553668,
+    "name": "repo-scout",
+    "full_name": "vieneny/repo-scout",
+    "owner": {
+      "login": "vieneny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161407215?v=4"
+    },
+    "description": "开源项目推荐、对比与选型 AI Skill。贴链接、说需求，从 GitHub / Gitee / GitLab 找 Java 毕设、Spring Boot、AI 绘画、ComfyUI、视频生成、语音和写作工具；按技术栈、完整性、使用门槛、维护、Stars 热度和复用价值评分，输出带来源的对比表或交互报告。",
+    "topics": [
+      "agent-skills",
+      "ai-art",
+      "ai-skills",
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "comfyui",
+      "gitee",
+      "github",
+      "gitlab",
+      "graduation-projects",
+      "java-projects",
+      "langchain",
+      "open-source",
+      "open-source-alternatives",
+      "project-comparison",
+      "project-discovery",
+      "repository-analysis",
+      "research-tools",
+      "video-generation"
+    ],
+    "html_url": "https://github.com/vieneny/repo-scout",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T05:18:07Z",
+    "updated_at": "2026-11-11T08:38:52Z",
+    "pushed_at": "2026-11-11T07:42:12Z"
+  },
+  {
+    "id": 1458125448,
+    "name": "rai.gk",
+    "full_name": "IkramMbz/rai.gk",
+    "owner": {
+      "login": "IkramMbz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123857017?v=4"
+    },
+    "description": "Repository Activity Inspector, a tool that scans GitLab ZIP archives to catalog their activities and technical dependencies.",
+    "topics": [
+      "docker",
+      "gitlab",
+      "javascript",
+      "nodejs",
+      "python"
+    ],
+    "html_url": "https://github.com/IkramMbz/rai.gk",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T19:58:30Z",
+    "updated_at": "2026-11-15T19:55:14Z",
+    "pushed_at": "2026-11-16T01:46:58Z"
+  },
+  {
+    "id": 1452537725,
+    "name": "cloudflare-git",
+    "full_name": "deepakkumar1984/cloudflare-git",
+    "owner": {
+      "login": "deepakkumar1984",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6328361?v=4"
+    },
+    "description": "A GitLab-style collaboration app built on Cloudflare Workers, D1, and Artifacts. D1 stores groups, projects, issues, reviews, and permissions. Artifacts stores the Git objects and refs. Worker name, D1 database, Artifacts namespace, app name, and public URL are chosen when you run",
+    "topics": [
+      "cloudflare",
+      "cloudflare-workers",
+      "git",
+      "github",
+      "gitlab",
+      "repo",
+      "repository"
+    ],
+    "html_url": "https://github.com/deepakkumar1984/cloudflare-git",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T10:53:07Z",
+    "updated_at": "2026-11-11T10:46:57Z",
+    "pushed_at": "2026-11-11T09:46:53Z"
+  },
+  {
+    "id": 1455949568,
+    "name": "runready",
+    "full_name": "voantony/runready",
+    "owner": {
+      "login": "voantony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5393347?v=4"
+    },
+    "description": "Prove a public GitHub or GitLab repository still installs from its agent docs.",
+    "topics": [
+      "ci",
+      "developer-tools",
+      "documentation",
+      "github",
+      "gitlab",
+      "nodejs"
+    ],
+    "html_url": "https://github.com/voantony/runready",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T23:44:46Z",
+    "updated_at": "2026-11-13T00:25:45Z",
+    "pushed_at": "2026-11-13T00:34:15Z"
+  },
+  {
+    "id": 1454396195,
+    "name": "shiplog-projetalize",
+    "full_name": "joaolutti/shiplog-projetalize",
+    "owner": {
+      "login": "joaolutti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113871755?v=4"
+    },
+    "description": "Internal tool for issue management, turns a deployed in Gitlab, into an announcement in Slack, seamlessly.",
+    "topics": [
+      "bun",
+      "developer-tools",
+      "drizzle-orm",
+      "gitlab",
+      "llm",
+      "nextjs",
+      "openrouter",
+      "pg-boss",
+      "postgresql",
+      "release-notes",
+      "slack-bot",
+      "typescript"
+    ],
+    "html_url": "https://github.com/joaolutti/shiplog-projetalize",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T19:16:50Z",
+    "updated_at": "2026-11-16T21:57:26Z",
+    "pushed_at": "2026-11-14T00:58:29Z"
+  },
+  {
+    "id": 1452488664,
+    "name": "vela",
+    "full_name": "avytrix/vela",
+    "owner": {
+      "login": "avytrix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/349690976?v=4"
+    },
+    "description": "Folder and file permissions (view, read, write) for self-hosted GitLab CE. Open source, by Avytrix Technologies.",
+    "topics": [
+      "access-control",
+      "devops",
+      "gitlab",
+      "gitlab-ce",
+      "permissions",
+      "ruby",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/avytrix/vela",
+    "stargazers_count": 0,
+    "language": "Ruby",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T10:03:21Z",
+    "updated_at": "2026-11-16T15:31:03Z",
+    "pushed_at": "2026-11-16T15:48:17Z"
+  },
+  {
+    "id": 1458744121,
+    "name": "nit",
+    "full_name": "Scorpse/nit",
+    "owner": {
+      "login": "Scorpse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51670?v=4"
+    },
+    "description": "Fast local pull request review for Windows, Linux and macOS. Bitbucket Cloud, GitHub and GitLab in one inbox.",
+    "topics": [
+      "bitbucket",
+      "code-review",
+      "cross-platform",
+      "desktop-app",
+      "egui",
+      "github",
+      "gitlab",
+      "pull-requests",
+      "rust"
+    ],
+    "html_url": "https://github.com/Scorpse/nit",
+    "stargazers_count": 0,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T11:47:23Z",
+    "updated_at": "2026-11-15T11:47:46Z",
+    "pushed_at": "2026-11-16T22:57:28Z"
+  },
+  {
+    "id": 1456154584,
+    "name": "dsh-glab-kanban",
+    "full_name": "CheinTian/dsh-glab-kanban",
+    "owner": {
+      "login": "CheinTian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87127203?v=4"
+    },
+    "description": "GitLab issues kanban plugin for DeepSeek Harness, built on the glab CLI.",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "gitlab",
+      "glab",
+      "issue-board",
+      "issues",
+      "javascript",
+      "kanban",
+      "react"
+    ],
+    "html_url": "https://github.com/CheinTian/dsh-glab-kanban",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T04:36:33Z",
+    "updated_at": "2026-11-13T04:40:02Z",
+    "pushed_at": "2026-11-13T04:36:39Z"
+  },
+  {
+    "id": 1452831086,
+    "name": "forge-bridge",
+    "full_name": "EuGuiXtd/forge-bridge",
+    "owner": {
+      "login": "EuGuiXtd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102544823?v=4"
+    },
+    "description": "Show work from private GitLab repos on your GitHub profile: one verifiable contribution card from both forges. Zero deps, self-contained SVGs.",
+    "topics": [
+      "contributions",
+      "github-actions",
+      "github-profile",
+      "gitlab",
+      "nodejs",
+      "readme",
+      "svg"
+    ],
+    "html_url": "https://github.com/EuGuiXtd/forge-bridge",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T15:18:32Z",
+    "updated_at": "2026-11-10T15:42:45Z",
+    "pushed_at": "2026-11-10T15:42:35Z"
+  },
+  {
+    "id": 1453617044,
+    "name": "omarchy-branch-watch",
+    "full_name": "SmartALB/omarchy-branch-watch",
+    "owner": {
+      "login": "SmartALB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139439933?v=4"
+    },
+    "description": "Configurable read-only Git branch status and notifications for the Omarchy bar",
+    "topics": [
+      "developer-tools",
+      "git",
+      "github",
+      "gitlab",
+      "hyprland",
+      "omarchy",
+      "quickshell"
+    ],
+    "html_url": "https://github.com/SmartALB/omarchy-branch-watch",
+    "stargazers_count": 0,
+    "language": "QML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T06:39:43Z",
+    "updated_at": "2026-11-11T07:47:17Z",
+    "pushed_at": "2026-11-11T06:53:26Z"
+  },
+  {
+    "id": 1453449440,
+    "name": "folio-markdown-reader",
+    "full_name": "chenfind/folio-markdown-reader",
+    "owner": {
+      "login": "chenfind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75835354?v=4"
+    },
+    "description": "Folio — Markdown reader for Windows and Android. Local folders, GitHub/GitLab repositories, tabs, split reading and paginated reading. 本地与远程仓库 Markdown 阅读器。",
+    "topics": [
+      "android",
+      "github",
+      "gitlab",
+      "markdown",
+      "markdown-reader",
+      "offline-reader",
+      "tauri",
+      "typescript",
+      "vue3"
+    ],
+    "html_url": "https://github.com/chenfind/folio-markdown-reader",
+    "stargazers_count": 0,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T02:53:09Z",
+    "updated_at": "2026-11-12T06:40:24Z",
+    "pushed_at": "2026-11-12T05:40:27Z"
+  },
+  {
+    "id": 1456175933,
+    "name": "kf-mcp",
+    "full_name": "fengyale/kf-mcp",
+    "owner": {
+      "login": "fengyale",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308978574?v=4"
+    },
+    "description": "个人 MCP 服务集合：in-db 多库只读数据库 / in-redis 缓存管理 / in-gitlab 代码平台，均支持内网离线使用",
+    "topics": [
+      "ai-tools",
+      "database",
+      "gitlab",
+      "java",
+      "mcp",
+      "model-context-protocol",
+      "nodejs",
+      "python",
+      "redis"
+    ],
+    "html_url": "https://github.com/fengyale/kf-mcp",
+    "stargazers_count": 0,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T05:07:08Z",
+    "updated_at": "2026-11-13T05:24:09Z",
+    "pushed_at": "2026-11-13T05:25:10Z"
+  }
+]

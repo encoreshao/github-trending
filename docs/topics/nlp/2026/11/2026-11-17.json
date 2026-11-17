@@ -1,0 +1,574 @@
+[
+  {
+    "id": 1452408449,
+    "name": "kham",
+    "full_name": "neptunenakub/kham",
+    "owner": {
+      "login": "neptunenakub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238022317?v=4"
+    },
+    "description": "Fast, dependency-free Thai word finder — ค้นหาคำไทยจากตัวอักษร (Python, CLI, web demo)",
+    "topics": [
+      "dictionary",
+      "nlp",
+      "python",
+      "thai",
+      "thai-language",
+      "word-finder"
+    ],
+    "html_url": "https://github.com/neptunenakub/kham",
+    "stargazers_count": 10,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T08:42:40Z",
+    "updated_at": "2026-11-15T13:27:17Z",
+    "pushed_at": "2026-11-11T02:53:13Z"
+  },
+  {
+    "id": 1456293722,
+    "name": "MatnPala-3",
+    "full_name": "MatnPala-com/MatnPala-3",
+    "owner": {
+      "login": "MatnPala-com",
+      "avatar_url": "https://avatars.githubusercontent.com/u/356132210?v=4"
+    },
+    "description": null,
+    "topics": [
+      "ai",
+      "document-summarization",
+      "farsi",
+      "natural-language-processing",
+      "nlp",
+      "persian-language",
+      "persian-nlp",
+      "php",
+      "php-text-analysis",
+      "text-summarization"
+    ],
+    "html_url": "https://github.com/MatnPala-com/MatnPala-3",
+    "stargazers_count": 8,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T07:29:22Z",
+    "updated_at": "2026-11-16T14:35:04Z",
+    "pushed_at": "2026-11-15T18:47:51Z"
+  },
+  {
+    "id": 1453477562,
+    "name": "thai-token-tax",
+    "full_name": "neptunenakub/thai-token-tax",
+    "owner": {
+      "login": "neptunenakub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238022317?v=4"
+    },
+    "description": "How much more Thai text costs on each LLM: tokens per 1,000 Thai characters across 45 models, turned into baht per month, with a cost calculator. · วัดค่า token ภาษาไทย 45 โมเดล แปลงเป็นบาทต่อเดือน",
+    "topics": [
+      "benchmark",
+      "llm",
+      "nlp",
+      "thai",
+      "tokenizer"
+    ],
+    "html_url": "https://github.com/neptunenakub/thai-token-tax",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-11T03:30:58Z",
+    "updated_at": "2026-11-15T13:27:29Z",
+    "pushed_at": "2026-11-11T03:36:50Z"
+  },
+  {
+    "id": 1452995897,
+    "name": "data-selection",
+    "full_name": "hufs24lsh/data-selection",
+    "owner": {
+      "login": "hufs24lsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231624462?v=4"
+    },
+    "description": "ShallowFrontier: label-free, energy-efficient data selection for LLM fine-tuning. One shallow calibration instead of repeated rounds; −53% end-to-end GPU energy vs. InstructDiff (ACL 2026).",
+    "topics": [
+      "data-selection",
+      "energy-efficiency",
+      "fine-tuning",
+      "green-ai",
+      "instruction-tuning",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/hufs24lsh/data-selection",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T17:44:35Z",
+    "updated_at": "2026-11-13T18:22:00Z",
+    "pushed_at": "2026-11-15T03:08:31Z"
+  },
+  {
+    "id": 1455144840,
+    "name": "mama-mobile",
+    "full_name": "PraiseTechzw/mama-mobile",
+    "owner": {
+      "login": "PraiseTechzw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156639155?v=4"
+    },
+    "description": "A maternal-health companion built for pregnancy guidance in English, ChiShona, and isiNdebele.",
+    "topics": [
+      "chatbot",
+      "chinhoyi-university-of-technology",
+      "cut",
+      "expo",
+      "mamabot",
+      "maternal-health",
+      "ndebele",
+      "nlp",
+      "shona"
+    ],
+    "html_url": "https://github.com/PraiseTechzw/mama-mobile",
+    "stargazers_count": 2,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T10:23:45Z",
+    "updated_at": "2026-11-13T05:53:34Z",
+    "pushed_at": "2026-11-13T06:31:40Z"
+  },
+  {
+    "id": 1456852331,
+    "name": "boa-context-compression",
+    "full_name": "mserra0/boa-context-compression",
+    "owner": {
+      "login": "mserra0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127844566?v=4"
+    },
+    "description": "Boa compresses long contexts with a Mamba state-space model in a single O(L) pass, producing soft tokens or KV caches that condition a frozen LLM without changing its weights. This repo includes the training, evaluation and latency benchmark code from the paper.",
+    "topics": [
+      "context-compression",
+      "efficiency",
+      "large-language-models",
+      "llm",
+      "mamba",
+      "nlp",
+      "prompt-compression",
+      "soft-prompts",
+      "state-space-models"
+    ],
+    "html_url": "https://github.com/mserra0/boa-context-compression",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T16:46:05Z",
+    "updated_at": "2026-11-16T09:27:46Z",
+    "pushed_at": "2026-11-15T20:01:28Z"
+  },
+  {
+    "id": 1460096839,
+    "name": "junior-narrative-analysis",
+    "full_name": "rafaruizq/junior-narrative-analysis",
+    "owner": {
+      "login": "rafaruizq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241732765?v=4"
+    },
+    "description": "JUNIOR (Job-entry Understanding through NLP of Interviews, Opinions and Reports): research tool for qualitative content analysis of podcasts, blogs and social media on how AI changes career entry.",
+    "topics": [
+      "business-informatics",
+      "content-analysis",
+      "llm",
+      "nlp",
+      "ollama",
+      "podcast-analysis",
+      "python",
+      "qualitative-research",
+      "whisper"
+    ],
+    "html_url": "https://github.com/rafaruizq/junior-narrative-analysis",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T14:00:25Z",
+    "updated_at": "2026-11-16T18:04:32Z",
+    "pushed_at": "2026-11-16T15:33:05Z"
+  },
+  {
+    "id": 1458499622,
+    "name": "EchoSpec",
+    "full_name": "unihsy/EchoSpec",
+    "owner": {
+      "login": "unihsy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336339144?v=4"
+    },
+    "description": "EchoSpec: Training Search Agents to Weigh Evidence Above Echoes",
+    "topics": [
+      "grpo",
+      "llm-agents",
+      "nlp",
+      "reinforcement-learning",
+      "retrieval-augmented-generation",
+      "search-agents"
+    ],
+    "html_url": "https://github.com/unihsy/EchoSpec",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T06:07:19Z",
+    "updated_at": "2026-11-15T06:09:04Z",
+    "pushed_at": "2026-11-15T13:55:01Z"
+  },
+  {
+    "id": 1456440033,
+    "name": "AI-ML-Paper-Q-A-assistant",
+    "full_name": "supraja-ulaganathan/AI-ML-Paper-Q-A-assistant",
+    "owner": {
+      "login": "supraja-ulaganathan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245125464?v=4"
+    },
+    "description": "RAG assistant that answers questions about arXiv papers on RAG, dense retrieval and LLM hallucination, with page-level citations, paper summaries and keyword extraction.",
+    "topics": [
+      "churning",
+      "dataset",
+      "llm",
+      "nlp",
+      "rag"
+    ],
+    "html_url": "https://github.com/supraja-ulaganathan/AI-ML-Paper-Q-A-assistant",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T10:05:28Z",
+    "updated_at": "2026-11-13T11:07:55Z",
+    "pushed_at": "2026-11-14T06:26:56Z"
+  },
+  {
+    "id": 1452616059,
+    "name": "sentiment-product-recommendation-system",
+    "full_name": "mrchandrayee/sentiment-product-recommendation-system",
+    "owner": {
+      "login": "mrchandrayee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161303034?v=4"
+    },
+    "description": "⭐ Capstone: Sentiment analysis + collaborative filtering for e-commerce product recommendations. Flask web app with deployed Heroku endpoint.",
+    "topics": [
+      "capstone",
+      "collaborative-filtering",
+      "flask",
+      "heroku",
+      "machine-learning",
+      "nlp",
+      "python",
+      "recommendation-system",
+      "sentiment-analysis"
+    ],
+    "html_url": "https://github.com/mrchandrayee/sentiment-product-recommendation-system",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T12:11:14Z",
+    "updated_at": "2026-11-10T12:11:54Z",
+    "pushed_at": "2026-11-10T12:11:45Z"
+  },
+  {
+    "id": 1453069404,
+    "name": "Indian-Language-llm-model",
+    "full_name": "ashishpatel26/Indian-Language-llm-model",
+    "owner": {
+      "login": "ashishpatel26",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3095771?v=4"
+    },
+    "description": "Train a Llama-style Hindi LLM from scratch on a single 6 GB GPU: SentencePiece tokenizer, packed data pipeline, plain PyTorch training. Extensible to 10+ Indian languages.",
+    "topics": [
+      "deep-learning",
+      "devanagari",
+      "from-scratch",
+      "hindi",
+      "indian-languages",
+      "indic-nlp",
+      "language-model",
+      "llama",
+      "llm",
+      "nlp",
+      "pretraining",
+      "pytorch",
+      "sentencepiece",
+      "small-language-model",
+      "transformers"
+    ],
+    "html_url": "https://github.com/ashishpatel26/Indian-Language-llm-model",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T18:56:32Z",
+    "updated_at": "2026-11-14T09:53:56Z",
+    "pushed_at": "2026-11-15T04:05:40Z"
+  },
+  {
+    "id": 1457161583,
+    "name": "esg-greenwashing-nlp-b3",
+    "full_name": "eniocancian/esg-greenwashing-nlp-b3",
+    "owner": {
+      "login": "eniocancian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242901942?v=4"
+    },
+    "description": "Auditoria Bilíngue de Greenwashing e Deriva Semântica em Relatórios ESG (B3) com NLP",
+    "topics": [
+      "b3",
+      "data-science",
+      "esg",
+      "greenwashing",
+      "nlp",
+      "python",
+      "scikit-learn",
+      "streamlit",
+      "sustainability",
+      "topic-modeling"
+    ],
+    "html_url": "https://github.com/eniocancian/esg-greenwashing-nlp-b3",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T22:28:39Z",
+    "updated_at": "2026-11-13T22:55:48Z",
+    "pushed_at": "2026-11-13T23:19:10Z"
+  },
+  {
+    "id": 1452729612,
+    "name": "erpnext-ai-sentiment-analyzer",
+    "full_name": "shyampandey1104/erpnext-ai-sentiment-analyzer",
+    "owner": {
+      "login": "shyampandey1104",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95642167?v=4"
+    },
+    "description": "Customer Support Ticket Sentiment Analysis & Churn Prevention Copilot for ERPNext.",
+    "topics": [
+      "ai",
+      "churn-prediction",
+      "customer-support",
+      "erpnext",
+      "frappe",
+      "nlp",
+      "python",
+      "sentiment-analysis"
+    ],
+    "html_url": "https://github.com/shyampandey1104/erpnext-ai-sentiment-analyzer",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T13:53:27Z",
+    "updated_at": "2026-11-11T09:31:40Z",
+    "pushed_at": "2026-11-16T10:52:59Z"
+  },
+  {
+    "id": 1457479138,
+    "name": "Medical-Assistant-RAG",
+    "full_name": "u2jyothibhat/Medical-Assistant-RAG",
+    "owner": {
+      "login": "u2jyothibhat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85931252?v=4"
+    },
+    "description": "RAG medical assistant answering clinical questions from the Merck Manual: Mistral-7B (llama.cpp), LangChain, gte-large embeddings, ChromaDB, prompt tuning and LLM-as-judge evaluation",
+    "topics": [
+      "chromadb",
+      "generative-ai",
+      "healthcare-ai",
+      "langchain",
+      "llama-cpp",
+      "llm",
+      "llm-evaluation",
+      "mistral-7b",
+      "nlp",
+      "prompt-engineering",
+      "rag",
+      "vector-database"
+    ],
+    "html_url": "https://github.com/u2jyothibhat/Medical-Assistant-RAG",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T06:57:00Z",
+    "updated_at": "2026-11-14T07:20:33Z",
+    "pushed_at": "2026-11-14T06:59:46Z"
+  },
+  {
+    "id": 1452787999,
+    "name": "MedTwin-AI",
+    "full_name": "simul49/MedTwin-AI",
+    "owner": {
+      "login": "simul49",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158623284?v=4"
+    },
+    "description": "MedTwin AI is an AI-powered healthcare decision-support platform intended to help people organize and understand authorized health information.",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "digital-twin",
+      "django",
+      "healthcare-ai",
+      "llm",
+      "mysql",
+      "nlp",
+      "pinia",
+      "python",
+      "rag",
+      "spring-boot",
+      "typescript",
+      "vuejs"
+    ],
+    "html_url": "https://github.com/simul49/MedTwin-AI",
+    "stargazers_count": 1,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T14:42:19Z",
+    "updated_at": "2026-11-15T12:00:06Z",
+    "pushed_at": "2026-11-16T10:08:08Z"
+  },
+  {
+    "id": 1456684392,
+    "name": "verifiable-tutoring-lab",
+    "full_name": "DolomitiAugust/verifiable-tutoring-lab",
+    "owner": {
+      "login": "DolomitiAugust",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275135794?v=4"
+    },
+    "description": "Executable educational data, SFT-DPO comparisons, and verifiable learner memory with preserved failure evidence.",
+    "topics": [
+      "dpo",
+      "education",
+      "fine-tuning",
+      "multi-agent",
+      "nlp",
+      "reproducible-research",
+      "synthetic-data"
+    ],
+    "html_url": "https://github.com/DolomitiAugust/verifiable-tutoring-lab",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T14:15:31Z",
+    "updated_at": "2026-11-16T07:06:54Z",
+    "pushed_at": "2026-11-13T14:36:11Z"
+  },
+  {
+    "id": 1457798978,
+    "name": "public-domain-media-finder",
+    "full_name": "andersonjames38phd-cpu/public-domain-media-finder",
+    "owner": {
+      "login": "andersonjames38phd-cpu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280961278?v=4"
+    },
+    "description": "Public Domain Book & Media Finder for Apify - search Internet Archive books, audio and film with metadata, download links and full OCR text. Official archive.org APIs.",
+    "topics": [
+      "ai",
+      "apify",
+      "books",
+      "dataset",
+      "internet-archive",
+      "llm",
+      "nlp",
+      "public-domain",
+      "training-data",
+      "web-scraping"
+    ],
+    "html_url": "https://github.com/andersonjames38phd-cpu/public-domain-media-finder",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T13:48:47Z",
+    "updated_at": "2026-11-14T16:56:15Z",
+    "pushed_at": "2026-11-14T13:48:53Z"
+  },
+  {
+    "id": 1452729172,
+    "name": "frappe-ai-hr-recruiter",
+    "full_name": "shyampandey1104/frappe-ai-hr-recruiter",
+    "owner": {
+      "login": "shyampandey1104",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95642167?v=4"
+    },
+    "description": "AI Resume Screening & Automated Semantic Skill Matching Engine for Frappe HRMS.",
+    "topics": [
+      "ai",
+      "erpnext",
+      "frappe",
+      "hrms",
+      "nlp",
+      "python",
+      "recruitment",
+      "resume-parser"
+    ],
+    "html_url": "https://github.com/shyampandey1104/frappe-ai-hr-recruiter",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-10T13:53:05Z",
+    "updated_at": "2026-11-11T09:31:41Z",
+    "pushed_at": "2026-11-16T10:55:54Z"
+  },
+  {
+    "id": 1456989502,
+    "name": "delivery-intent-classifier",
+    "full_name": "01Americonetto/delivery-intent-classifier",
+    "owner": {
+      "login": "01Americonetto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234808350?v=4"
+    },
+    "description": "Classificador de intenções corporativas baseado em Zero-Shot Classification (mDeBERTa), Hugging Face e PyTorch para triagem de suporte em operações de delivery.",
+    "topics": [
+      "ai-engineering",
+      "hugging-face",
+      "nlp",
+      "python",
+      "pytorch",
+      "zero-shot"
+    ],
+    "html_url": "https://github.com/01Americonetto/delivery-intent-classifier",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T19:01:16Z",
+    "updated_at": "2026-11-13T19:06:59Z",
+    "pushed_at": "2026-11-16T15:29:19Z"
+  },
+  {
+    "id": 1455846008,
+    "name": "uz-relative-date",
+    "full_name": "zohidbekxayitboyev/uz-relative-date",
+    "owner": {
+      "login": "zohidbekxayitboyev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137421341?v=4"
+    },
+    "description": "Lightweight NLP utility for parsing Uzbek relative date and time expressions into Python datetime objects.",
+    "topics": [
+      "date-parser",
+      "nlp",
+      "open-source",
+      "python",
+      "uzbek"
+    ],
+    "html_url": "https://github.com/zohidbekxayitboyev/uz-relative-date",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T21:24:19Z",
+    "updated_at": "2026-11-12T21:32:12Z",
+    "pushed_at": "2026-11-12T21:27:15Z"
+  }
+]
