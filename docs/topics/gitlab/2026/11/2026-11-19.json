@@ -1,0 +1,609 @@
+[
+  {
+    "id": 1458246235,
+    "name": "kubernetes-homelab",
+    "full_name": "sebestyensoma111/kubernetes-homelab",
+    "owner": {
+      "login": "sebestyensoma111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164217577?v=4"
+    },
+    "description": "Self-hosted GitLab CE on a three-node MicroK8s cluster running on Proxmox. Setup, troubleshooting, and verified SSH clone and push",
+    "topics": [
+      "devops",
+      "gitlab",
+      "helm",
+      "microk8s",
+      "proxmox",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/sebestyensoma111/kubernetes-homelab",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T22:39:35Z",
+    "updated_at": "2026-11-14T22:48:54Z",
+    "pushed_at": "2026-11-14T22:45:52Z"
+  },
+  {
+    "id": 1459573037,
+    "name": "Awesome-Git-Github-Gitlab-Repository-Integration",
+    "full_name": "ishandutta2007/Awesome-Git-Github-Gitlab-Repository-Integration",
+    "owner": {
+      "login": "ishandutta2007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4"
+    },
+    "description": "Top Git Github Gitlab Repository Integration (Opensource)  Star if you like it! ",
+    "topics": [
+      "awesome-list",
+      "ci-cd",
+      "curated-list",
+      "git",
+      "github",
+      "gitlab",
+      "version-control"
+    ],
+    "html_url": "https://github.com/ishandutta2007/Awesome-Git-Github-Gitlab-Repository-Integration",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T05:14:25Z",
+    "updated_at": "2026-11-16T06:47:06Z",
+    "pushed_at": "2026-11-16T07:30:40Z"
+  },
+  {
+    "id": 1463361180,
+    "name": "glabfred",
+    "full_name": "pehbehbeh/glabfred",
+    "owner": {
+      "login": "pehbehbeh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133831?v=4"
+    },
+    "description": "Alfred workflow to search your GitLab projects and jump to their merge requests, issues and more, on every host you're logged in to with the GitLab CLI (glab).",
+    "topics": [
+      "alfred",
+      "alfred-workflow",
+      "gitlab",
+      "glab"
+    ],
+    "html_url": "https://github.com/pehbehbeh/glabfred",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-18T21:32:51Z",
+    "updated_at": "2026-11-18T23:23:45Z",
+    "pushed_at": "2026-11-19T00:18:54Z"
+  },
+  {
+    "id": 1459359273,
+    "name": "self-descriptive-merge-requests",
+    "full_name": "kirill-kolomin/self-descriptive-merge-requests",
+    "owner": {
+      "login": "kirill-kolomin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215304921?v=4"
+    },
+    "description": "Agent Plugin that makes AI-authored merge requests explain themselves to reviewers: intent, before/after behavior and a verified entry-point graph, posted on the MR - without burying the diff in comments.",
+    "topics": [
+      "agent-plugins",
+      "agent-skills",
+      "code-review",
+      "github",
+      "gitlab",
+      "merge-request",
+      "pull-request"
+    ],
+    "html_url": "https://github.com/kirill-kolomin/self-descriptive-merge-requests",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T00:04:20Z",
+    "updated_at": "2026-11-16T00:52:45Z",
+    "pushed_at": "2026-11-16T02:15:41Z"
+  },
+  {
+    "id": 1460883545,
+    "name": "git-profiles",
+    "full_name": "hernique33comiitei/git-profiles",
+    "owner": {
+      "login": "hernique33comiitei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107776288?v=4"
+    },
+    "description": "Desktop app (Qt6 + Kirigami) that organizes your git repos by SSH identity: ~/.ssh/config is the database, remotes switch per directory with a dry-run, and gh/gt/glab are set up per folder via direnv.",
+    "topics": [
+      "cpp",
+      "desktop-app",
+      "developer-tools",
+      "direnv",
+      "fedora",
+      "git",
+      "git-identity",
+      "git-remote",
+      "github-cli",
+      "gitlab",
+      "kde",
+      "kirigami",
+      "linux",
+      "multiple-accounts",
+      "multiple-github-accounts",
+      "qml",
+      "qt6",
+      "ssh",
+      "ssh-config",
+      "ssh-keys"
+    ],
+    "html_url": "https://github.com/hernique33comiitei/git-profiles",
+    "stargazers_count": 1,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T03:53:37Z",
+    "updated_at": "2026-11-17T14:51:04Z",
+    "pushed_at": "2026-11-17T14:47:25Z"
+  },
+  {
+    "id": 1463181018,
+    "name": "ownerskit",
+    "full_name": "Emincanozen/ownerskit",
+    "owner": {
+      "login": "Emincanozen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135425732?v=4"
+    },
+    "description": "CODEOWNERS toolkit for GitHub: a typed parser and matcher library plus a CLI to find who owns a file, lint rules, list unowned files and count files per owner. Optional GitLab dialect. Zero runtime dependencies, offline, Node.js 22+.",
+    "topics": [
+      "ci",
+      "cli",
+      "code-ownership",
+      "code-review",
+      "codeowners",
+      "developer-tools",
+      "esm",
+      "github-codeowners",
+      "gitignore",
+      "gitlab",
+      "glob-matching",
+      "linter",
+      "monorepo",
+      "nodejs",
+      "parser",
+      "static-analysis",
+      "typescript",
+      "zero-dependencies"
+    ],
+    "html_url": "https://github.com/Emincanozen/ownerskit",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T18:24:52Z",
+    "updated_at": "2026-11-18T23:21:33Z",
+    "pushed_at": "2026-11-18T18:32:57Z"
+  },
+  {
+    "id": 1456788045,
+    "name": "repo-push-skill",
+    "full_name": "subhasishsaha/repo-push-skill",
+    "owner": {
+      "login": "subhasishsaha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161601880?v=4"
+    },
+    "description": "Orchestrator-driven multi-agent verification protocol that audits, sanitizes, and certifies codebases for truth in code and documentation before pushing to remote Git hosting.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "antigravity-skills",
+      "ast-analysis",
+      "automation",
+      "bitbucket",
+      "ci-cd",
+      "claude-code-skill",
+      "code-audit",
+      "code-quality",
+      "code-sanitization",
+      "codex-skill",
+      "cursor-skills",
+      "developer-tools",
+      "git",
+      "github",
+      "gitlab",
+      "llm-agents",
+      "multi-agent",
+      "pre-push"
+    ],
+    "html_url": "https://github.com/subhasishsaha/repo-push-skill",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-11-13T15:47:29Z",
+    "updated_at": "2026-11-18T16:42:42Z",
+    "pushed_at": "2026-11-18T21:38:40Z"
+  },
+  {
+    "id": 1461910235,
+    "name": "codeowners-check",
+    "full_name": "LeeGyeongPil/codeowners-check",
+    "owner": {
+      "login": "LeeGyeongPil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50697071?v=4"
+    },
+    "description": "Agent skill that resolves CODEOWNERS exactly as GitHub or GitLab does: deciding line per file, skipped syntax, shadowed rules, and ownership diff to verify edits. Offline, stdlib Python.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codeowners",
+      "devtools",
+      "github",
+      "gitlab",
+      "lint",
+      "python"
+    ],
+    "html_url": "https://github.com/LeeGyeongPil/codeowners-check",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T20:01:43Z",
+    "updated_at": "2026-11-17T21:57:29Z",
+    "pushed_at": "2026-11-17T20:01:51Z"
+  },
+  {
+    "id": 1458125448,
+    "name": "rai.gk",
+    "full_name": "IkramMbz/rai.gk",
+    "owner": {
+      "login": "IkramMbz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123857017?v=4"
+    },
+    "description": "Repository Activity Inspector, a tool that scans GitLab ZIP archives to catalog their activities and technical dependencies.",
+    "topics": [
+      "docker",
+      "gitlab",
+      "javascript",
+      "nodejs",
+      "python"
+    ],
+    "html_url": "https://github.com/IkramMbz/rai.gk",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T19:58:30Z",
+    "updated_at": "2026-11-15T19:55:14Z",
+    "pushed_at": "2026-11-18T12:59:42Z"
+  },
+  {
+    "id": 1462221044,
+    "name": "secledger",
+    "full_name": "shaggy2nice/secledger",
+    "owner": {
+      "login": "shaggy2nice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55485063?v=4"
+    },
+    "description": "A deterministic, idempotent ledger for security findings — dedupe scanner output across runs and file one issue per distinct finding into GitLab or GitHub, without ever double-filing. Pure-stdlib Python, with Semgrep/Trivy/ZAP adapters.",
+    "topics": [
+      "appsec",
+      "dast",
+      "devsecops",
+      "github",
+      "gitlab",
+      "owasp-zap",
+      "python",
+      "sast",
+      "security",
+      "security-tools",
+      "semgrep",
+      "trivy",
+      "vulnerability-management"
+    ],
+    "html_url": "https://github.com/shaggy2nice/secledger",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T02:30:04Z",
+    "updated_at": "2026-11-18T02:33:47Z",
+    "pushed_at": "2026-11-18T02:57:32Z"
+  },
+  {
+    "id": 1455949568,
+    "name": "runready",
+    "full_name": "voantony/runready",
+    "owner": {
+      "login": "voantony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5393347?v=4"
+    },
+    "description": "Prove a public GitHub or GitLab repository still installs from its agent docs.",
+    "topics": [
+      "ci",
+      "developer-tools",
+      "documentation",
+      "github",
+      "gitlab",
+      "nodejs"
+    ],
+    "html_url": "https://github.com/voantony/runready",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T23:44:46Z",
+    "updated_at": "2026-11-13T00:25:45Z",
+    "pushed_at": "2026-11-13T00:34:15Z"
+  },
+  {
+    "id": 1462448708,
+    "name": "npm-token",
+    "full_name": "hongmengchen/npm-token",
+    "owner": {
+      "login": "hongmengchen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113991597?v=4"
+    },
+    "description": "检查并更新 ~/.npmrc 里的 registry token（TUI + CLI）",
+    "topics": [
+      "bubbletea",
+      "cli",
+      "gitlab",
+      "golang",
+      "npm",
+      "token",
+      "tui"
+    ],
+    "html_url": "https://github.com/hongmengchen/npm-token",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T07:13:40Z",
+    "updated_at": "2026-11-18T09:35:06Z",
+    "pushed_at": "2026-11-18T14:17:32Z"
+  },
+  {
+    "id": 1462070989,
+    "name": "agent-os",
+    "full_name": "cosmin-sisman/agent-os",
+    "owner": {
+      "login": "cosmin-sisman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131209952?v=4"
+    },
+    "description": "The operating agreement for people, coding agents and their code platform. GitHub or GitLab (cloud or self-managed): skills, rules, hooks, a stack and system map, audits, security and a learning loop, installed with one command.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "code-quality",
+      "developer-tools",
+      "devsecops",
+      "github-actions",
+      "github-workflow",
+      "gitlab",
+      "gitlab-ci",
+      "monorepo",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/cosmin-sisman/agent-os",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 7,
+    "created_at": "2026-11-17T23:05:49Z",
+    "updated_at": "2026-11-18T02:18:45Z",
+    "pushed_at": "2026-11-18T23:38:35Z"
+  },
+  {
+    "id": 1456349118,
+    "name": "DiffitySwift",
+    "full_name": "adamward459/DiffitySwift",
+    "owner": {
+      "login": "adamward459",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31823932?v=4"
+    },
+    "description": "Native macOS app to review Git diffs and AI-written code with Claude in the loop: Claude reviews, @claude replies, reading guides, split view, and pull and merge request reviews on GitHub and GitLab. SwiftUI + AppKit.",
+    "topics": [
+      "ai-agents",
+      "ai-code-review",
+      "appkit",
+      "claude",
+      "claude-code",
+      "code-review",
+      "code-review-tool",
+      "developer-tools",
+      "diff-viewer",
+      "git",
+      "git-diff",
+      "git-gui",
+      "github",
+      "gitlab",
+      "macos",
+      "macos-app",
+      "merge-requests",
+      "pull-requests",
+      "swift",
+      "swiftui"
+    ],
+    "html_url": "https://github.com/adamward459/DiffitySwift",
+    "stargazers_count": 0,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-13T08:31:01Z",
+    "updated_at": "2026-11-18T14:04:50Z",
+    "pushed_at": "2026-11-18T23:25:09Z"
+  },
+  {
+    "id": 1457810043,
+    "name": "deck-gitlab",
+    "full_name": "deckyard/deck-gitlab",
+    "owner": {
+      "login": "deckyard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/346943577?v=4"
+    },
+    "description": "A client for the GitLab REST and GraphQL API: projects, issues, merge requests, pipelines, releases, branches, tags and files",
+    "topics": [
+      "api",
+      "deckyard",
+      "git",
+      "gitlab",
+      "graphql",
+      "issues",
+      "jennifer-deck",
+      "jennifer-lang",
+      "merge-requests",
+      "pipelines",
+      "releases"
+    ],
+    "html_url": "https://github.com/deckyard/deck-gitlab",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T14:01:30Z",
+    "updated_at": "2026-11-14T14:39:20Z",
+    "pushed_at": "2026-11-15T17:31:20Z"
+  },
+  {
+    "id": 1459033912,
+    "name": "vbox",
+    "full_name": "ahamedrashid-me/vbox",
+    "owner": {
+      "login": "ahamedrashid-me",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138254389?v=4"
+    },
+    "description": "vbox is a command-line tool written in Rust for managing projects in local spaces with built-in encryption, content-addressed storage, snapshots, and peer-to-peer sync. It combines ideas from Git, Pijul, and Fossil, and it uses invite codes to share work between machines",
+    "topics": [
+      "fossil",
+      "git",
+      "gitlab",
+      "vbox"
+    ],
+    "html_url": "https://github.com/ahamedrashid-me/vbox",
+    "stargazers_count": 0,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T17:02:05Z",
+    "updated_at": "2026-11-15T17:18:06Z",
+    "pushed_at": "2026-11-15T17:21:42Z"
+  },
+  {
+    "id": 1456154584,
+    "name": "dsh-glab-kanban",
+    "full_name": "CheinTian/dsh-glab-kanban",
+    "owner": {
+      "login": "CheinTian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87127203?v=4"
+    },
+    "description": "GitLab issues kanban plugin for DeepSeek Harness, built on the glab CLI.",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "gitlab",
+      "glab",
+      "issue-board",
+      "issues",
+      "javascript",
+      "kanban",
+      "react"
+    ],
+    "html_url": "https://github.com/CheinTian/dsh-glab-kanban",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T04:36:33Z",
+    "updated_at": "2026-11-13T04:40:02Z",
+    "pushed_at": "2026-11-13T04:36:39Z"
+  },
+  {
+    "id": 1463198812,
+    "name": "openchamber-tasks-hub",
+    "full_name": "NemeZZiZZ/openchamber-tasks-hub",
+    "owner": {
+      "login": "NemeZZiZZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3491936?v=4"
+    },
+    "description": "Task board for OpenChamber — GitHub, GitLab, Trello, Linear, Jira and local tasks linked to real OpenCode agent sessions",
+    "topics": [
+      "github",
+      "gitlab",
+      "kanban",
+      "openchamber",
+      "openchamber-extension",
+      "tasks",
+      "typescript"
+    ],
+    "html_url": "https://github.com/NemeZZiZZ/openchamber-tasks-hub",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T18:42:23Z",
+    "updated_at": "2026-11-18T18:42:36Z",
+    "pushed_at": "2026-11-18T18:42:31Z"
+  },
+  {
+    "id": 1463250420,
+    "name": "rewind",
+    "full_name": "OBahraoui/rewind",
+    "owner": {
+      "login": "OBahraoui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175031322?v=4"
+    },
+    "description": "Ctrl+Z for autonomous software delivery: AI agents ship anything that can be undone; production regressions are rolled back in seconds with zero drift. Built on GitLab Duo Agent Platform and Google Cloud Run.",
+    "topics": [
+      "ai-agents",
+      "devsecops",
+      "fastapi",
+      "gitlab",
+      "gitlab-duo",
+      "google-cloud-run",
+      "hackathon",
+      "mcp",
+      "python",
+      "rollback"
+    ],
+    "html_url": "https://github.com/OBahraoui/rewind",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T19:34:19Z",
+    "updated_at": "2026-11-18T19:34:35Z",
+    "pushed_at": "2026-11-18T19:34:28Z"
+  },
+  {
+    "id": 1460329144,
+    "name": "migas",
+    "full_name": "carlos-anpr/migas",
+    "owner": {
+      "login": "carlos-anpr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62624449?v=4"
+    },
+    "description": "Diario de trabajo para Linux: doble Ctrl guarda la página o la selección (Jira, GitLab, Freshservice, web), relaciones automáticas, avisos de cambios y resumen del día con IA. Tauri + Rust + SQLite.",
+    "topics": [
+      "chrome-extension",
+      "freshservice",
+      "gitlab",
+      "jira",
+      "linux",
+      "productivity",
+      "rust",
+      "sqlite",
+      "tauri"
+    ],
+    "html_url": "https://github.com/carlos-anpr/migas",
+    "stargazers_count": 0,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T17:16:58Z",
+    "updated_at": "2026-11-16T17:17:14Z",
+    "pushed_at": "2026-11-16T17:24:50Z"
+  }
+]

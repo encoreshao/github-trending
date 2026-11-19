@@ -1,0 +1,585 @@
+[
+  {
+    "id": 1459780170,
+    "name": "dettato",
+    "full_name": "kobimusic/dettato",
+    "owner": {
+      "login": "kobimusic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333631979?v=4"
+    },
+    "description": "KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording",
+    "topics": [
+      "audio-to-midi",
+      "automatic-music-transcription",
+      "deep-learning",
+      "drums",
+      "midi",
+      "music-information-retrieval",
+      "music-transcription",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/kobimusic/dettato",
+    "stargazers_count": 28,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T09:06:56Z",
+    "updated_at": "2026-11-18T12:04:16Z",
+    "pushed_at": "2026-11-17T04:30:55Z"
+  },
+  {
+    "id": 1454888452,
+    "name": "scirex",
+    "full_name": "zenteiq-research/scirex",
+    "owner": {
+      "login": "zenteiq-research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/349136557?v=4"
+    },
+    "description": "JAX/Flax neural operators for scientific machine learning, with benchmarks and pretrained weights.",
+    "topics": [
+      "cfd",
+      "deep-learning",
+      "flax",
+      "fno",
+      "jax",
+      "neural-operators",
+      "pde",
+      "physics-informed",
+      "physics-informed-machine-learning",
+      "physics-informed-neural-networks",
+      "python",
+      "scientific-machine-learning"
+    ],
+    "html_url": "https://github.com/zenteiq-research/scirex",
+    "stargazers_count": 20,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 3,
+    "created_at": "2026-11-12T05:53:47Z",
+    "updated_at": "2026-11-18T03:13:55Z",
+    "pushed_at": "2026-11-18T02:44:30Z"
+  },
+  {
+    "id": 1460089020,
+    "name": "supermimic-pytorch",
+    "full_name": "lucidrains/supermimic-pytorch",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "Unofficial implementation of Supermimic, Scaling Humanoid Whole-Body Control with One Differentiable World Model, from Qiayuan Liao et al. of Berkeley",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "deepmimic",
+      "robotics",
+      "world-model"
+    ],
+    "html_url": "https://github.com/lucidrains/supermimic-pytorch",
+    "stargazers_count": 12,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T13:53:58Z",
+    "updated_at": "2026-11-18T20:30:56Z",
+    "pushed_at": "2026-11-18T19:01:15Z"
+  },
+  {
+    "id": 1454795941,
+    "name": "GroundFoil",
+    "full_name": "taimooraslam22g/GroundFoil",
+    "owner": {
+      "login": "taimooraslam22g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276797995?v=4"
+    },
+    "description": "GroundFoil: deep learning for inverted airfoils in ground effect (F1 front wings), built on a reproduction of Thuerey et al. (2020)",
+    "topics": [
+      "aerodynamics",
+      "deep-learning",
+      "formula-1",
+      "ground-effect",
+      "openfoam",
+      "rans",
+      "surrogate-model",
+      "u-net"
+    ],
+    "html_url": "https://github.com/taimooraslam22g/GroundFoil",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T03:47:49Z",
+    "updated_at": "2026-11-18T06:44:40Z",
+    "pushed_at": "2026-11-19T01:04:59Z"
+  },
+  {
+    "id": 1458321396,
+    "name": "isone-cnn-bilstm-stlf",
+    "full_name": "hamzayousaf75/isone-cnn-bilstm-stlf",
+    "owner": {
+      "login": "hamzayousaf75",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114717154?v=4"
+    },
+    "description": "Hybrid 1D-CNN and Bidirectional LSTM for Short-Term Electric Load Forecasting ",
+    "topics": [
+      "cnn-bilstm",
+      "deep-learning",
+      "iso-new-england",
+      "load-forecasting",
+      "smart-grids",
+      "time-series-forecasting"
+    ],
+    "html_url": "https://github.com/hamzayousaf75/isone-cnn-bilstm-stlf",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T00:49:22Z",
+    "updated_at": "2026-11-17T19:25:31Z",
+    "pushed_at": "2026-11-15T01:13:34Z"
+  },
+  {
+    "id": 1459296916,
+    "name": "perceptron-from-scratch",
+    "full_name": "farhanshn/perceptron-from-scratch",
+    "owner": {
+      "login": "farhanshn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324627670?v=4"
+    },
+    "description": "Perceptron implemented from scratch in Python, compared with scikit-learn",
+    "topics": [
+      "deep-learning",
+      "perceptron",
+      "scikit-learn-python"
+    ],
+    "html_url": "https://github.com/farhanshn/perceptron-from-scratch",
+    "stargazers_count": 4,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T22:22:55Z",
+    "updated_at": "2026-11-18T10:44:05Z",
+    "pushed_at": "2026-11-15T22:39:48Z"
+  },
+  {
+    "id": 1457824093,
+    "name": "RayCodes_ZONOS3-Mini",
+    "full_name": "47thtechcorner/RayCodes_ZONOS3-Mini",
+    "owner": {
+      "login": "47thtechcorner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233621018?v=4"
+    },
+    "description": "Zonos 3 Mini: This 100M Active AI Clones Any Voice in 80ms Locally! (Destroys ElevenLabs) - 100M MoE text-to-speech and voice cloning pipeline.",
+    "topics": [
+      "deep-learning",
+      "elevenlabs-alternative",
+      "local-ai",
+      "moe",
+      "python",
+      "speech-synthesis",
+      "text-to-speech",
+      "voice-cloning",
+      "webgpu",
+      "zonos3-mini"
+    ],
+    "html_url": "https://github.com/47thtechcorner/RayCodes_ZONOS3-Mini",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T14:17:27Z",
+    "updated_at": "2026-11-15T19:37:22Z",
+    "pushed_at": "2026-11-14T14:34:43Z"
+  },
+  {
+    "id": 1456859814,
+    "name": "torch-population",
+    "full_name": "lucidrains/torch-population",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "A wrapper around torch to help facilitate with population based / genetic algorithm methods",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "neural-networks",
+      "population-based-evolution"
+    ],
+    "html_url": "https://github.com/lucidrains/torch-population",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T16:52:34Z",
+    "updated_at": "2026-11-15T14:30:33Z",
+    "pushed_at": "2026-11-13T16:55:56Z"
+  },
+  {
+    "id": 1456672620,
+    "name": "direct-evolution-together",
+    "full_name": "lucidrains/direct-evolution-together",
+    "owner": {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "description": "A small application that allows for any person to form a team or collaboration with crowds online to do directed evolution on neural networks",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "directed-evolution"
+    ],
+    "html_url": "https://github.com/lucidrains/direct-evolution-together",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T14:05:05Z",
+    "updated_at": "2026-11-18T18:34:29Z",
+    "pushed_at": "2026-11-18T18:53:23Z"
+  },
+  {
+    "id": 1461236274,
+    "name": "AI-PhD-Internships-2027",
+    "full_name": "cookllm/AI-PhD-Internships-2027",
+    "owner": {
+      "login": "cookllm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350118715?v=4"
+    },
+    "description": "AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms. Updated daily from company career pages, with direct apply links.",
+    "topics": [
+      "2027-internships",
+      "ai-internships",
+      "ai-research",
+      "artificial-intelligence",
+      "deep-learning",
+      "internship",
+      "internships",
+      "job-board",
+      "jobs",
+      "llm",
+      "machine-learning",
+      "ml-internships",
+      "phd",
+      "phd-internships",
+      "phd-students",
+      "research-internship",
+      "research-scientist",
+      "summer-2027"
+    ],
+    "html_url": "https://github.com/cookllm/AI-PhD-Internships-2027",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T10:14:05Z",
+    "updated_at": "2026-11-17T22:04:34Z",
+    "pushed_at": "2026-11-18T08:35:40Z"
+  },
+  {
+    "id": 1461033933,
+    "name": "adam-step-bound-and-bias-correction",
+    "full_name": "kenrinzero/adam-step-bound-and-bias-correction",
+    "owner": {
+      "login": "kenrinzero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270884207?v=4"
+    },
+    "description": "Executable verification of Adam's step bounds, Figure 4 bias correction, and a bounded MNIST VAE anchor",
+    "topics": [
+      "adam-optimizer",
+      "deep-learning",
+      "pytorch",
+      "reproducibility",
+      "stochastic-optimization"
+    ],
+    "html_url": "https://github.com/kenrinzero/adam-step-bound-and-bias-correction",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T06:57:34Z",
+    "updated_at": "2026-11-17T09:32:57Z",
+    "pushed_at": "2026-11-17T08:53:08Z"
+  },
+  {
+    "id": 1459964721,
+    "name": "Off-Road-Semantic-Segmentation",
+    "full_name": "SalvatoreFTartaglione/Off-Road-Semantic-Segmentation",
+    "owner": {
+      "login": "SalvatoreFTartaglione",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151519479?v=4"
+    },
+    "description": "Pixel-wise segmentation of images from a camera mounted on a moving car in a rural environment, into 8 classes.",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "off-road-navigation",
+      "pytorch",
+      "semantic-segmentation",
+      "unet"
+    ],
+    "html_url": "https://github.com/SalvatoreFTartaglione/Off-Road-Semantic-Segmentation",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T12:04:05Z",
+    "updated_at": "2026-11-16T15:28:14Z",
+    "pushed_at": "2026-11-16T12:16:52Z"
+  },
+  {
+    "id": 1454652460,
+    "name": "kaggle-case-library",
+    "full_name": "ShuyaoGao/kaggle-case-library",
+    "owner": {
+      "login": "ShuyaoGao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291050033?v=4"
+    },
+    "description": "255 个 Kaggle 机器学习案例的中文拆解：动画、交互实验、Word 讲稿、30 条学习路线",
+    "topics": [
+      "chinese",
+      "deep-learning",
+      "education",
+      "kaggle",
+      "machine-learning"
+    ],
+    "html_url": "https://github.com/ShuyaoGao/kaggle-case-library",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T00:31:29Z",
+    "updated_at": "2026-11-12T07:21:47Z",
+    "pushed_at": "2026-11-12T00:31:44Z"
+  },
+  {
+    "id": 1461546977,
+    "name": "face-recognition-attendance-system",
+    "full_name": "SalvatoreFTartaglione/face-recognition-attendance-system",
+    "owner": {
+      "login": "SalvatoreFTartaglione",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151519479?v=4"
+    },
+    "description": "Face recognition attendance system with MTCNN, InceptionResnetV1 embeddings, MobileNetV2 replay-attack detection and MagFace quality control (PyTorch).",
+    "topics": [
+      "attendance-system",
+      "biometrics",
+      "computer-vision",
+      "deep-learning",
+      "face-detection",
+      "face-recognition",
+      "liveness-detection",
+      "magface",
+      "mobilenetv2",
+      "mtcnn",
+      "presentation-attack-detection",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/SalvatoreFTartaglione/face-recognition-attendance-system",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T14:46:20Z",
+    "updated_at": "2026-11-17T15:53:30Z",
+    "pushed_at": "2026-11-17T14:59:42Z"
+  },
+  {
+    "id": 1462091838,
+    "name": "SpectraMythosHive",
+    "full_name": "Creator-NL/SpectraMythosHive",
+    "owner": {
+      "login": "Creator-NL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172445153?v=4"
+    },
+    "description": "Train 1B Recurrent-Depth MoE (OpenMythos) AI models from scratch on consumer GPUs (RTX 4060 8GB to RTX 5060 Ti 16GB) -- solo or pooled with friends over HTTP.",
+    "topics": [
+      "consumer-gpu",
+      "deep-learning",
+      "distributed-training",
+      "fastapi",
+      "fineweb-edu",
+      "llm",
+      "llm-from-scratch",
+      "llm-training",
+      "local-llm",
+      "machine-learning",
+      "mixture-of-experts",
+      "moe",
+      "multi-latent-attention",
+      "openmythos",
+      "python",
+      "pytorch",
+      "recurrent-depth",
+      "rtx-4060",
+      "rtx-5060-ti",
+      "transformers"
+    ],
+    "html_url": "https://github.com/Creator-NL/SpectraMythosHive",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T23:34:31Z",
+    "updated_at": "2026-11-18T14:28:47Z",
+    "pushed_at": "2026-11-17T23:54:33Z"
+  },
+  {
+    "id": 1460495760,
+    "name": "Delta-Neural-Operator-DNO-",
+    "full_name": "carloyoung01/Delta-Neural-Operator-DNO-",
+    "owner": {
+      "login": "carloyoung01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/353651212?v=4"
+    },
+    "description": "Delta Neural Operator (DNO): an experimental AI architecture with evolving states, emergent structures, and history-dependent dynamics.",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "dynamic-neural-networks",
+      "generative-ai",
+      "llm",
+      "llm-evaluation",
+      "neural-network",
+      "next-generation-ai",
+      "rsi",
+      "self-evolving-systems"
+    ],
+    "html_url": "https://github.com/carloyoung01/Delta-Neural-Operator-DNO-",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T19:53:43Z",
+    "updated_at": "2026-11-17T11:43:10Z",
+    "pushed_at": "2026-11-17T10:16:37Z"
+  },
+  {
+    "id": 1458047669,
+    "name": "intelligent-pesticide-sprinkling-system",
+    "full_name": "Navnith-7/intelligent-pesticide-sprinkling-system",
+    "owner": {
+      "login": "Navnith-7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208803171?v=4"
+    },
+    "description": "End-to-end plant disease recognition & targeted pesticide actuation using Domain-Robust MobileNetV2 (99.37% val acc), OpenCV V4 ROI/LAB glare recovery (~11-17ms CUDA), and an Arduino fail-safe relay state machine.",
+    "topics": [
+      "arduino",
+      "computer-vision",
+      "deep-learning",
+      "mobilenetv2",
+      "opencv",
+      "precision-agriculture",
+      "pytorch",
+      "transfer-learning"
+    ],
+    "html_url": "https://github.com/Navnith-7/intelligent-pesticide-sprinkling-system",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T18:23:35Z",
+    "updated_at": "2026-11-18T03:36:39Z",
+    "pushed_at": "2026-11-15T18:02:47Z"
+  },
+  {
+    "id": 1456196852,
+    "name": "VoiceVeritas",
+    "full_name": "StanleyChanH/VoiceVeritas",
+    "owner": {
+      "login": "StanleyChanH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34874348?v=4"
+    },
+    "description": "Open-source, audio-only read-speech detection for interview anti-cheating — dual-track (prosody+LightGBM / frozen wav2vec2), FastAPI service, speaker-disjoint benchmark",
+    "topics": [
+      "anti-cheating",
+      "audio-classification",
+      "deep-learning",
+      "fastapi",
+      "interview",
+      "lightgbm",
+      "prosody",
+      "read-speech-detection",
+      "speech-processing",
+      "speech-style",
+      "spontaneous-speech",
+      "wav2vec2"
+    ],
+    "html_url": "https://github.com/StanleyChanH/VoiceVeritas",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T05:35:27Z",
+    "updated_at": "2026-11-13T16:37:21Z",
+    "pushed_at": "2026-11-17T11:26:24Z"
+  },
+  {
+    "id": 1456042731,
+    "name": "ai",
+    "full_name": "tamnd/ai",
+    "owner": {
+      "login": "tamnd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
+    },
+    "description": "AI: the open encyclopedia of artificial intelligence. Each method, model, benchmark, result and risk of AI with sources, dates, tested code and computed evidence labels. Content of ai.tamnd.com.",
+    "topics": [
+      "ai-safety",
+      "artificial-intelligence",
+      "benchmarks",
+      "deep-learning",
+      "encyclopedia",
+      "jax",
+      "knowledge-base",
+      "large-language-models",
+      "lean4",
+      "machine-learning",
+      "numpy",
+      "open-content",
+      "pytorch",
+      "reinforcement-learning"
+    ],
+    "html_url": "https://github.com/tamnd/ai",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 14,
+    "created_at": "2026-11-13T02:00:39Z",
+    "updated_at": "2026-11-14T02:47:55Z",
+    "pushed_at": "2026-11-18T23:40:09Z"
+  },
+  {
+    "id": 1461842005,
+    "name": "modern-llm",
+    "full_name": "Arta48/modern-llm",
+    "owner": {
+      "login": "Arta48",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63291774?v=4"
+    },
+    "description": "Modern LLaMA-style decoder-only Transformer (~35M params) built from scratch in PyTorch: RMSNorm, RoPE, Grouped-Query Attention (GQA) with FlashAttention, SwiGLU, BPE tokenizer, and instruction Loss Masking training pipeline",
+    "topics": [
+      "bpe",
+      "deep-learning",
+      "flash-attention",
+      "gqa",
+      "llama",
+      "llm",
+      "nlp",
+      "pytorch",
+      "rmsnorm",
+      "rocm",
+      "rope",
+      "swiglu",
+      "transformer"
+    ],
+    "html_url": "https://github.com/Arta48/modern-llm",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T18:54:52Z",
+    "updated_at": "2026-11-17T20:43:32Z",
+    "pushed_at": "2026-11-17T20:08:33Z"
+  }
+]

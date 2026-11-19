@@ -1,0 +1,623 @@
+[
+  {
+    "id": 1459971684,
+    "name": "rust-anything",
+    "full_name": "erkamyaman/rust-anything",
+    "owner": {
+      "login": "erkamyaman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88717125?v=4"
+    },
+    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "cli",
+      "code-migration",
+      "codex",
+      "ffi",
+      "golang",
+      "java",
+      "javascript",
+      "mcp",
+      "migration",
+      "napi",
+      "performance",
+      "porting",
+      "pyo3",
+      "python",
+      "rewrite",
+      "ruby",
+      "rust",
+      "typescript"
+    ],
+    "html_url": "https://github.com/erkamyaman/rust-anything",
+    "stargazers_count": 3431,
+    "language": "Rust",
+    "forks_count": 274,
+    "open_issues_count": 8,
+    "created_at": "2026-11-16T12:10:36Z",
+    "updated_at": "2026-11-19T01:57:41Z",
+    "pushed_at": "2026-11-18T21:09:57Z"
+  },
+  {
+    "id": 1460180740,
+    "name": "boring-marketing-skills",
+    "full_name": "boringmarketer/boring-marketing-skills",
+    "owner": {
+      "login": "boringmarketer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212546731?v=4"
+    },
+    "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "copywriting",
+      "local-seo",
+      "marketing",
+      "seo"
+    ],
+    "html_url": "https://github.com/boringmarketer/boring-marketing-skills",
+    "stargazers_count": 663,
+    "language": "Python",
+    "forks_count": 247,
+    "open_issues_count": 1,
+    "created_at": "2026-11-16T15:09:46Z",
+    "updated_at": "2026-11-19T01:41:13Z",
+    "pushed_at": "2026-11-17T22:53:58Z"
+  },
+  {
+    "id": 1457728524,
+    "name": "rea-toon",
+    "full_name": "JuneYaooo/rea-toon",
+    "owner": {
+      "login": "JuneYaooo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60815510?v=4"
+    },
+    "description": "AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 | Break down any short drama with AI: why it works, the script, every shot",
+    "topics": [
+      "ai-agent",
+      "chinese-drama",
+      "claude-code",
+      "codex",
+      "drama-analysis",
+      "screenplay",
+      "short-drama",
+      "storyboard",
+      "video-analysis",
+      "videomd"
+    ],
+    "html_url": "https://github.com/JuneYaooo/rea-toon",
+    "stargazers_count": 278,
+    "language": "Python",
+    "forks_count": 48,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T12:25:35Z",
+    "updated_at": "2026-11-19T01:13:11Z",
+    "pushed_at": "2026-11-18T02:12:26Z"
+  },
+  {
+    "id": 1455024396,
+    "name": "chaojifeng-video-content-creator",
+    "full_name": "mileson/chaojifeng-video-content-creator",
+    "owner": {
+      "login": "mileson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12807957?v=4"
+    },
+    "description": "Agent Skill for Chinese-language video production: script, storyboard, spoken-audio cleanup, 148 HTML/GSAP effects, subtitles and publish package. 中文视频内容创作 Skill。",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "chinese",
+      "claude-code",
+      "codex",
+      "gsap",
+      "hyperframes",
+      "subtitles",
+      "video-editing",
+      "video-production"
+    ],
+    "html_url": "https://github.com/mileson/chaojifeng-video-content-creator",
+    "stargazers_count": 99,
+    "language": "HTML",
+    "forks_count": 22,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T08:27:00Z",
+    "updated_at": "2026-11-18T17:59:52Z",
+    "pushed_at": "2026-11-12T08:35:29Z"
+  },
+  {
+    "id": 1455093821,
+    "name": "sitrep",
+    "full_name": "IluvatarLabs/sitrep",
+    "owner": {
+      "login": "IluvatarLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28491847?v=4"
+    },
+    "description": "One live console to monitor Claude Code and Codex agents across machines, track context and spend, and unblock sessions that need you.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "dashboard",
+      "monitoring",
+      "observability",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/IluvatarLabs/sitrep",
+    "stargazers_count": 94,
+    "language": "TypeScript",
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T09:34:39Z",
+    "updated_at": "2026-11-18T14:45:30Z",
+    "pushed_at": "2026-11-12T21:37:10Z"
+  },
+  {
+    "id": 1454806476,
+    "name": "crommacode",
+    "full_name": "CrommaAI/crommacode",
+    "owner": {
+      "login": "CrommaAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350203600?v=4"
+    },
+    "description": "CrommaCode — the gamified IDE for coding agents. Watch Claude Code, Codex, Gemini CLI, Cursor CLI or OpenCode work as a game, and send a swarm of worker agents. Free for macOS, Windows and Linux.",
+    "topics": [
+      "agent",
+      "agent-client-protocol",
+      "ai-coding",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "desktop-app",
+      "gamified-ide",
+      "gemini-cli",
+      "gpui",
+      "ide",
+      "opencode",
+      "rust",
+      "vibecoding"
+    ],
+    "html_url": "https://github.com/CrommaAI/crommacode",
+    "stargazers_count": 88,
+    "language": null,
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T04:02:00Z",
+    "updated_at": "2026-11-19T01:04:28Z",
+    "pushed_at": "2026-11-12T04:02:15Z"
+  },
+  {
+    "id": 1459122623,
+    "name": "poo",
+    "full_name": "morajabi/poo",
+    "owner": {
+      "login": "morajabi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12202757?v=4"
+    },
+    "description": "Find and safely free the disk space your dev work eats: builds, caches, simulators and agent worktrees. macOS menu bar app, CLI and MCP server.",
+    "topics": [
+      "claude-code",
+      "cleanup",
+      "cli",
+      "codex",
+      "coding-agents",
+      "derived-data",
+      "developer-tools",
+      "disk-cleanup",
+      "disk-space",
+      "git-worktree",
+      "macos",
+      "mcp",
+      "mcp-server",
+      "menu-bar-app",
+      "node-modules",
+      "rust",
+      "swiftui",
+      "tui",
+      "worktrees",
+      "xcode"
+    ],
+    "html_url": "https://github.com/morajabi/poo",
+    "stargazers_count": 77,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T18:39:06Z",
+    "updated_at": "2026-11-18T08:42:51Z",
+    "pushed_at": "2026-11-16T15:15:53Z"
+  },
+  {
+    "id": 1454840428,
+    "name": "HowToCompeteBetter",
+    "full_name": "Rain-dust/HowToCompeteBetter",
+    "owner": {
+      "login": "Rain-dust",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266304033?v=4"
+    },
+    "description": "高性价比大学生竞赛指南：10章按问题查，27项连续制作参考、73条赛事入口、Agent数模教程与真题复现。",
+    "topics": [
+      "ai-agents",
+      "chinese",
+      "claude-code",
+      "codex",
+      "competition-guide",
+      "mathematical-modeling",
+      "student-competitions"
+    ],
+    "html_url": "https://github.com/Rain-dust/HowToCompeteBetter",
+    "stargazers_count": 77,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-11-12T04:48:38Z",
+    "updated_at": "2026-11-18T09:31:32Z",
+    "pushed_at": "2026-11-18T05:11:45Z"
+  },
+  {
+    "id": 1457547425,
+    "name": "Game-Localization-Engineering",
+    "full_name": "superwyh/Game-Localization-Engineering",
+    "owner": {
+      "login": "superwyh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1234841?v=4"
+    },
+    "description": "Engineering-focused game localization for coding agents: contextual translation, naturalness review, engine integration, QA, and detailed developer reports.",
+    "topics": [
+      "agent-skills",
+      "codex",
+      "game-development",
+      "game-localization",
+      "i18n",
+      "l10n",
+      "localization",
+      "python",
+      "quality-assurance",
+      "translation"
+    ],
+    "html_url": "https://github.com/superwyh/Game-Localization-Engineering",
+    "stargazers_count": 76,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T08:31:28Z",
+    "updated_at": "2026-11-18T18:09:32Z",
+    "pushed_at": "2026-11-14T14:03:35Z"
+  },
+  {
+    "id": 1457507582,
+    "name": "agent-crop",
+    "full_name": "oriliz/agent-crop",
+    "owner": {
+      "login": "oriliz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226218834?v=4"
+    },
+    "description": "给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 | A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-improvement loop. DSH / Claude Code / Codex.",
+    "topics": [
+      "agent-evaluation",
+      "agent-observability",
+      "ai-agent",
+      "ai-coding",
+      "ai-tools",
+      "behavior-testing",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "deepseek-harness",
+      "developer-tools",
+      "devtools",
+      "dsh-plugin",
+      "harness-engineering",
+      "local-first",
+      "metrics",
+      "observability",
+      "python",
+      "self-improving-agents",
+      "tracing"
+    ],
+    "html_url": "https://github.com/oriliz/agent-crop",
+    "stargazers_count": 68,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 9,
+    "created_at": "2026-11-14T07:36:17Z",
+    "updated_at": "2026-11-19T01:57:26Z",
+    "pushed_at": "2026-11-18T15:06:58Z"
+  },
+  {
+    "id": 1456897727,
+    "name": "rex-durable",
+    "full_name": "fazxes/rex-durable",
+    "owner": {
+      "login": "fazxes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221089582?v=4"
+    },
+    "description": "Keep the programs in your Rex tabs across server restarts and reboots. fx, Claude Code, and Codex chats reopen on their own conversation.",
+    "topics": [
+      "claude-code",
+      "codex",
+      "lua",
+      "rex",
+      "session-restore",
+      "terminal"
+    ],
+    "html_url": "https://github.com/fazxes/rex-durable",
+    "stargazers_count": 67,
+    "language": "Lua",
+    "forks_count": 6,
+    "open_issues_count": 3,
+    "created_at": "2026-11-13T17:27:46Z",
+    "updated_at": "2026-11-18T12:41:37Z",
+    "pushed_at": "2026-11-17T23:16:32Z"
+  },
+  {
+    "id": 1456202753,
+    "name": "turnpack",
+    "full_name": "OnlyTerp/turnpack",
+    "owner": {
+      "login": "OnlyTerp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121772140?v=4"
+    },
+    "description": "Fewer back-and-forth AI turns. Local MCP context pack + test-gated multi-file ship with automatic rollback.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "mcp",
+      "mcp-server",
+      "typescript"
+    ],
+    "html_url": "https://github.com/OnlyTerp/turnpack",
+    "stargazers_count": 65,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T05:43:06Z",
+    "updated_at": "2026-11-18T21:46:17Z",
+    "pushed_at": "2026-11-15T01:19:45Z"
+  },
+  {
+    "id": 1459564876,
+    "name": "lemo-animi",
+    "full_name": "lemomo-ai/lemo-animi",
+    "owner": {
+      "login": "lemomo-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97503247?v=4"
+    },
+    "description": "Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画短片。",
+    "topics": [
+      "agent-skill",
+      "animation",
+      "claude-code",
+      "claude-code-plugin",
+      "claymation",
+      "codex",
+      "codex-plugin",
+      "image-generation",
+      "short-film",
+      "stop-motion"
+    ],
+    "html_url": "https://github.com/lemomo-ai/lemo-animi",
+    "stargazers_count": 53,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T05:03:11Z",
+    "updated_at": "2026-11-19T01:57:19Z",
+    "pushed_at": "2026-11-18T12:14:45Z"
+  },
+  {
+    "id": 1458717674,
+    "name": "AccountDeck",
+    "full_name": "nadim-sheikh/AccountDeck",
+    "owner": {
+      "login": "nadim-sheikh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106303932?v=4"
+    },
+    "description": "One menu bar app for all your Claude, Claude Code, Codex and ChatGPT accounts: one-click switching, live usage limits, chats that follow you. macOS + Windows (beta).",
+    "topics": [
+      "account-switcher",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "electron",
+      "macos",
+      "menubar",
+      "swiftui",
+      "windows"
+    ],
+    "html_url": "https://github.com/nadim-sheikh/AccountDeck",
+    "stargazers_count": 49,
+    "language": "Swift",
+    "forks_count": 10,
+    "open_issues_count": 3,
+    "created_at": "2026-11-15T11:13:53Z",
+    "updated_at": "2026-11-17T15:40:08Z",
+    "pushed_at": "2026-11-15T17:07:37Z"
+  },
+  {
+    "id": 1460848622,
+    "name": "pulsar",
+    "full_name": "yocontra/pulsar",
+    "owner": {
+      "login": "yocontra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/425716?v=4"
+    },
+    "description": "MCP server that lets AI coding agents in any harness find and message each other: one list, tags, multicast, * bus.",
+    "topics": [
+      "agent-communication",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "mcp",
+      "mcp-server",
+      "multi-agent",
+      "opencode"
+    ],
+    "html_url": "https://github.com/yocontra/pulsar",
+    "stargazers_count": 46,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T03:07:57Z",
+    "updated_at": "2026-11-19T01:17:12Z",
+    "pushed_at": "2026-11-17T07:36:16Z"
+  },
+  {
+    "id": 1455775320,
+    "name": "artifacts-done-properly",
+    "full_name": "fblgit/artifacts-done-properly",
+    "owner": {
+      "login": "fblgit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18401832?v=4"
+    },
+    "description": "Great work deserves a second life, Bring it in, Make it reusable and Keep the gain. The iteration ends. The value stays. Your next project starts further ahead, powered by ArtifactDataProtocol",
+    "topics": [
+      "artifacts",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-plugin",
+      "codex-skill"
+    ],
+    "html_url": "https://github.com/fblgit/artifacts-done-properly",
+    "stargazers_count": 45,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 7,
+    "created_at": "2026-11-12T20:04:46Z",
+    "updated_at": "2026-11-19T01:23:47Z",
+    "pushed_at": "2026-11-18T10:09:16Z"
+  },
+  {
+    "id": 1461260051,
+    "name": "ai-dialog-manage",
+    "full_name": "haczen/ai-dialog-manage",
+    "owner": {
+      "login": "haczen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174302326?v=4"
+    },
+    "description": "一个窗口管住 9 种 AI 编程工具的聊天记录：统一浏览/搜索/编辑，会话转生到其它 AI 工具换目录继续聊，零依赖意识上传包 | Unified AI CLI session manager: browse / search / edit / transplant",
+    "topics": [
+      "ai",
+      "ai-tools",
+      "chat-history",
+      "claude-code",
+      "cline",
+      "codex",
+      "gemini-cli",
+      "goose",
+      "kiro",
+      "opencode",
+      "pyqt6",
+      "qwen",
+      "roo-code",
+      "session-manager",
+      "transplant"
+    ],
+    "html_url": "https://github.com/haczen/ai-dialog-manage",
+    "stargazers_count": 40,
+    "language": "Python",
+    "forks_count": 17,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T10:36:05Z",
+    "updated_at": "2026-11-19T01:59:19Z",
+    "pushed_at": "2026-11-18T02:00:17Z"
+  },
+  {
+    "id": 1458510952,
+    "name": "self-media-guide",
+    "full_name": "lonely-dance-lab/self-media-guide",
+    "owner": {
+      "login": "lonely-dance-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340639614?v=4"
+    },
+    "description": "自媒体创作不完全指南：起号方法论、对标拆解模板和 Agent Skill。核心是二创，不是搬运。",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "content-creator",
+      "short-video",
+      "video-analysis"
+    ],
+    "html_url": "https://github.com/lonely-dance-lab/self-media-guide",
+    "stargazers_count": 39,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T06:24:10Z",
+    "updated_at": "2026-11-18T13:54:48Z",
+    "pushed_at": "2026-11-16T10:22:22Z"
+  },
+  {
+    "id": 1459948246,
+    "name": "product-seo",
+    "full_name": "tipsai/product-seo",
+    "owner": {
+      "login": "tipsai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169580275?v=4"
+    },
+    "description": "SEO skill for Claude Code and Codex: grow signups from search using your own Search Console data. Built from real work, not a checklist.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "search-console",
+      "seo"
+    ],
+    "html_url": "https://github.com/tipsai/product-seo",
+    "stargazers_count": 35,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T11:48:27Z",
+    "updated_at": "2026-11-18T17:45:22Z",
+    "pushed_at": "2026-11-16T14:13:34Z"
+  },
+  {
+    "id": 1454709758,
+    "name": "hisense-vidaa-clean-home",
+    "full_name": "nineodernein/hisense-vidaa-clean-home",
+    "owner": {
+      "login": "nineodernein",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196351865?v=4"
+    },
+    "description": "Hisense VIDAA custom home screen: native app dock, animated wallpapers and focused DNS ad blocking. A reproducible Claude/Codex agent guide with firmware checks and rollback.",
+    "topics": [
+      "adblock",
+      "adguard-home",
+      "ai-agents",
+      "animated-wallpaper-software",
+      "claude-code",
+      "codex",
+      "custom-launcher",
+      "debloat",
+      "dns-filtering",
+      "hisense",
+      "homescreen",
+      "linux",
+      "privacy",
+      "screensaver",
+      "smart-tv",
+      "vidaa"
+    ],
+    "html_url": "https://github.com/nineodernein/hisense-vidaa-clean-home",
+    "stargazers_count": 31,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-11-12T01:51:31Z",
+    "updated_at": "2026-11-18T13:36:44Z",
+    "pushed_at": "2026-11-18T23:11:06Z"
+  }
+]

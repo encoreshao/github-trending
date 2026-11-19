@@ -1,0 +1,623 @@
+[
+  {
+    "id": 1459971684,
+    "name": "rust-anything",
+    "full_name": "erkamyaman/rust-anything",
+    "owner": {
+      "login": "erkamyaman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88717125?v=4"
+    },
+    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "cli",
+      "code-migration",
+      "codex",
+      "ffi",
+      "golang",
+      "java",
+      "javascript",
+      "mcp",
+      "migration",
+      "napi",
+      "performance",
+      "porting",
+      "pyo3",
+      "python",
+      "rewrite",
+      "ruby",
+      "rust",
+      "typescript"
+    ],
+    "html_url": "https://github.com/erkamyaman/rust-anything",
+    "stargazers_count": 3431,
+    "language": "Rust",
+    "forks_count": 274,
+    "open_issues_count": 8,
+    "created_at": "2026-11-16T12:10:36Z",
+    "updated_at": "2026-11-19T01:57:41Z",
+    "pushed_at": "2026-11-18T21:09:57Z"
+  },
+  {
+    "id": 1460417668,
+    "name": "inference-optimisation-skill",
+    "full_name": "sybil-solutions/inference-optimisation-skill",
+    "owner": {
+      "login": "sybil-solutions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284200730?v=4"
+    },
+    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+    "topics": [
+      "agent-skill",
+      "benchmarking",
+      "claude-code",
+      "inference",
+      "llm",
+      "speculative-decoding"
+    ],
+    "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "stargazers_count": 1121,
+    "language": "Python",
+    "forks_count": 101,
+    "open_issues_count": 5,
+    "created_at": "2026-11-16T18:40:04Z",
+    "updated_at": "2026-11-19T02:00:13Z",
+    "pushed_at": "2026-11-16T18:40:08Z"
+  },
+  {
+    "id": 1460180740,
+    "name": "boring-marketing-skills",
+    "full_name": "boringmarketer/boring-marketing-skills",
+    "owner": {
+      "login": "boringmarketer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212546731?v=4"
+    },
+    "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "copywriting",
+      "local-seo",
+      "marketing",
+      "seo"
+    ],
+    "html_url": "https://github.com/boringmarketer/boring-marketing-skills",
+    "stargazers_count": 663,
+    "language": "Python",
+    "forks_count": 247,
+    "open_issues_count": 1,
+    "created_at": "2026-11-16T15:09:46Z",
+    "updated_at": "2026-11-19T01:41:13Z",
+    "pushed_at": "2026-11-17T22:53:58Z"
+  },
+  {
+    "id": 1454950288,
+    "name": "ClaudeMom",
+    "full_name": "BigPizzaV3/ClaudeMom",
+    "owner": {
+      "login": "BigPizzaV3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237402563?v=4"
+    },
+    "description": "不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）",
+    "topics": [
+      "claude",
+      "claude-code",
+      "claude-desktop",
+      "tauri"
+    ],
+    "html_url": "https://github.com/BigPizzaV3/ClaudeMom",
+    "stargazers_count": 617,
+    "language": "Rust",
+    "forks_count": 128,
+    "open_issues_count": 9,
+    "created_at": "2026-11-12T07:06:59Z",
+    "updated_at": "2026-11-19T01:43:51Z",
+    "pushed_at": "2026-11-18T16:20:19Z"
+  },
+  {
+    "id": 1455515238,
+    "name": "sakurai-skill",
+    "full_name": "kociden/sakurai-skill",
+    "owner": {
+      "login": "kociden",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94905118?v=4"
+    },
+    "description": "桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語）",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "game-design",
+      "gamedev"
+    ],
+    "html_url": "https://github.com/kociden/sakurai-skill",
+    "stargazers_count": 460,
+    "language": "Python",
+    "forks_count": 39,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T15:54:56Z",
+    "updated_at": "2026-11-19T01:52:12Z",
+    "pushed_at": "2026-11-12T21:41:59Z"
+  },
+  {
+    "id": 1457728524,
+    "name": "rea-toon",
+    "full_name": "JuneYaooo/rea-toon",
+    "owner": {
+      "login": "JuneYaooo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60815510?v=4"
+    },
+    "description": "AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 | Break down any short drama with AI: why it works, the script, every shot",
+    "topics": [
+      "ai-agent",
+      "chinese-drama",
+      "claude-code",
+      "codex",
+      "drama-analysis",
+      "screenplay",
+      "short-drama",
+      "storyboard",
+      "video-analysis",
+      "videomd"
+    ],
+    "html_url": "https://github.com/JuneYaooo/rea-toon",
+    "stargazers_count": 278,
+    "language": "Python",
+    "forks_count": 48,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T12:25:35Z",
+    "updated_at": "2026-11-19T01:13:11Z",
+    "pushed_at": "2026-11-18T02:12:26Z"
+  },
+  {
+    "id": 1459198002,
+    "name": "craft",
+    "full_name": "diego3g/craft",
+    "owner": {
+      "login": "diego3g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2254731?v=4"
+    },
+    "description": "Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works with Paper, pen.dev, Figma or HTML.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-code-plugin",
+      "design-system",
+      "figma",
+      "paper",
+      "ui-design"
+    ],
+    "html_url": "https://github.com/diego3g/craft",
+    "stargazers_count": 261,
+    "language": "JavaScript",
+    "forks_count": 14,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T20:08:15Z",
+    "updated_at": "2026-11-19T01:55:49Z",
+    "pushed_at": "2026-11-17T16:49:13Z"
+  },
+  {
+    "id": 1457786110,
+    "name": "my-ai-coding-workflow",
+    "full_name": "vaibhav-space/my-ai-coding-workflow",
+    "owner": {
+      "login": "vaibhav-space",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141266406?v=4"
+    },
+    "description": "Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with AI agents. Agent-agnostic.",
+    "topics": [
+      "agentic-workflows",
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "developer-tools"
+    ],
+    "html_url": "https://github.com/vaibhav-space/my-ai-coding-workflow",
+    "stargazers_count": 254,
+    "language": "HTML",
+    "forks_count": 38,
+    "open_issues_count": 1,
+    "created_at": "2026-11-14T13:34:16Z",
+    "updated_at": "2026-11-18T22:54:39Z",
+    "pushed_at": "2026-11-18T18:30:28Z"
+  },
+  {
+    "id": 1460079213,
+    "name": "motlab",
+    "full_name": "staryone/motlab",
+    "owner": {
+      "login": "staryone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67821697?v=4"
+    },
+    "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
+    "topics": [
+      "agent-skills",
+      "canvas",
+      "claude-code",
+      "headless-chrome",
+      "motion-graphics",
+      "video",
+      "webcodecs"
+    ],
+    "html_url": "https://github.com/staryone/motlab",
+    "stargazers_count": 193,
+    "language": "JavaScript",
+    "forks_count": 25,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T13:45:47Z",
+    "updated_at": "2026-11-19T00:22:41Z",
+    "pushed_at": "2026-11-18T14:03:02Z"
+  },
+  {
+    "id": 1458684694,
+    "name": "Parallax",
+    "full_name": "AI4XE/Parallax",
+    "owner": {
+      "login": "AI4XE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199689343?v=4"
+    },
+    "description": "A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more.",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-coding",
+      "ai4e",
+      "ai4xe",
+      "claude-code",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh-plugin",
+      "github-copilot",
+      "hands-off",
+      "parallax",
+      "vscode"
+    ],
+    "html_url": "https://github.com/AI4XE/Parallax",
+    "stargazers_count": 136,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-15T10:31:00Z",
+    "updated_at": "2026-11-17T15:24:02Z",
+    "pushed_at": "2026-11-17T04:45:46Z"
+  },
+  {
+    "id": 1457717100,
+    "name": "turbo-browser-mcp",
+    "full_name": "Tthanh2k6/turbo-browser-mcp",
+    "owner": {
+      "login": "Tthanh2k6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143197886?v=4"
+    },
+    "description": "Playwright MCP server built to cut agent turns and tokens: one-call form filling, delta snapshots, batched steps, and a submit guard on by default",
+    "topics": [
+      "ai-agents",
+      "browser-automation",
+      "cdp",
+      "claude-code",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "playwright",
+      "token-efficiency",
+      "web-automation"
+    ],
+    "html_url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+    "stargazers_count": 132,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T12:11:07Z",
+    "updated_at": "2026-11-19T00:18:57Z",
+    "pushed_at": "2026-11-18T23:05:11Z"
+  },
+  {
+    "id": 1457206022,
+    "name": "Arara-voice",
+    "full_name": "davimatosms/Arara-voice",
+    "owner": {
+      "login": "davimatosms",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95830402?v=4"
+    },
+    "description": "Ditado por voz grátis, open source e 100% local para português do Brasil (Windows e macOS). Whisper no seu computador: aperte o atalho, fale e o texto é colado no cursor. Free offline voice typing / speech-to-text.",
+    "topics": [
+      "ai-agents",
+      "brasil",
+      "brazilian-portuguese",
+      "claude-code",
+      "dictation",
+      "java",
+      "macos",
+      "offline",
+      "open-source",
+      "portuguese",
+      "privacy",
+      "pt-br",
+      "speech-recognition",
+      "speech-to-text",
+      "swing",
+      "voice-dictation",
+      "voice-typing",
+      "whisper",
+      "whisper-cpp",
+      "windows"
+    ],
+    "html_url": "https://github.com/davimatosms/Arara-voice",
+    "stargazers_count": 121,
+    "language": "Java",
+    "forks_count": 12,
+    "open_issues_count": 4,
+    "created_at": "2026-11-13T23:35:46Z",
+    "updated_at": "2026-11-19T00:57:08Z",
+    "pushed_at": "2026-11-18T22:15:18Z"
+  },
+  {
+    "id": 1459535564,
+    "name": "claude-multi-desktop",
+    "full_name": "jackson-cmd/claude-multi-desktop",
+    "owner": {
+      "login": "jackson-cmd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59384665?v=4"
+    },
+    "description": "Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop",
+    "topics": [
+      "account-switcher",
+      "ai-agents",
+      "anthropic",
+      "bash",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-desktop",
+      "developer-tools",
+      "electron",
+      "homebrew",
+      "launcher",
+      "mac",
+      "macos",
+      "multi-account",
+      "multiple-accounts",
+      "productivity",
+      "profiles",
+      "shell-script"
+    ],
+    "html_url": "https://github.com/jackson-cmd/claude-multi-desktop",
+    "stargazers_count": 114,
+    "language": "HTML",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T04:23:02Z",
+    "updated_at": "2026-11-19T00:42:20Z",
+    "pushed_at": "2026-11-17T05:05:09Z"
+  },
+  {
+    "id": 1457109820,
+    "name": "claude-code-usage-analysis",
+    "full_name": "inevolin/claude-code-usage-analysis",
+    "owner": {
+      "login": "inevolin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53948000?v=4"
+    },
+    "description": "Empirical analysis of Claude Code token usage: auto-compaction sweet spots across 8 developer workflows and Claude Desktop vs. CLI overhead",
+    "topics": [
+      "benchmark",
+      "claude-code",
+      "context-window",
+      "llm",
+      "prompt-caching",
+      "token-usage"
+    ],
+    "html_url": "https://github.com/inevolin/claude-code-usage-analysis",
+    "stargazers_count": 109,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T21:19:21Z",
+    "updated_at": "2026-11-19T01:15:24Z",
+    "pushed_at": "2026-11-17T15:44:42Z"
+  },
+  {
+    "id": 1455024396,
+    "name": "chaojifeng-video-content-creator",
+    "full_name": "mileson/chaojifeng-video-content-creator",
+    "owner": {
+      "login": "mileson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12807957?v=4"
+    },
+    "description": "Agent Skill for Chinese-language video production: script, storyboard, spoken-audio cleanup, 148 HTML/GSAP effects, subtitles and publish package. 中文视频内容创作 Skill。",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "chinese",
+      "claude-code",
+      "codex",
+      "gsap",
+      "hyperframes",
+      "subtitles",
+      "video-editing",
+      "video-production"
+    ],
+    "html_url": "https://github.com/mileson/chaojifeng-video-content-creator",
+    "stargazers_count": 99,
+    "language": "HTML",
+    "forks_count": 22,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T08:27:00Z",
+    "updated_at": "2026-11-18T17:59:52Z",
+    "pushed_at": "2026-11-12T08:35:29Z"
+  },
+  {
+    "id": 1455093821,
+    "name": "sitrep",
+    "full_name": "IluvatarLabs/sitrep",
+    "owner": {
+      "login": "IluvatarLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28491847?v=4"
+    },
+    "description": "One live console to monitor Claude Code and Codex agents across machines, track context and spend, and unblock sessions that need you.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "dashboard",
+      "monitoring",
+      "observability",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/IluvatarLabs/sitrep",
+    "stargazers_count": 94,
+    "language": "TypeScript",
+    "forks_count": 16,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T09:34:39Z",
+    "updated_at": "2026-11-18T14:45:30Z",
+    "pushed_at": "2026-11-12T21:37:10Z"
+  },
+  {
+    "id": 1454806476,
+    "name": "crommacode",
+    "full_name": "CrommaAI/crommacode",
+    "owner": {
+      "login": "CrommaAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350203600?v=4"
+    },
+    "description": "CrommaCode — the gamified IDE for coding agents. Watch Claude Code, Codex, Gemini CLI, Cursor CLI or OpenCode work as a game, and send a swarm of worker agents. Free for macOS, Windows and Linux.",
+    "topics": [
+      "agent",
+      "agent-client-protocol",
+      "ai-coding",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "desktop-app",
+      "gamified-ide",
+      "gemini-cli",
+      "gpui",
+      "ide",
+      "opencode",
+      "rust",
+      "vibecoding"
+    ],
+    "html_url": "https://github.com/CrommaAI/crommacode",
+    "stargazers_count": 88,
+    "language": null,
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T04:02:00Z",
+    "updated_at": "2026-11-19T01:04:28Z",
+    "pushed_at": "2026-11-12T04:02:15Z"
+  },
+  {
+    "id": 1459122623,
+    "name": "poo",
+    "full_name": "morajabi/poo",
+    "owner": {
+      "login": "morajabi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12202757?v=4"
+    },
+    "description": "Find and safely free the disk space your dev work eats: builds, caches, simulators and agent worktrees. macOS menu bar app, CLI and MCP server.",
+    "topics": [
+      "claude-code",
+      "cleanup",
+      "cli",
+      "codex",
+      "coding-agents",
+      "derived-data",
+      "developer-tools",
+      "disk-cleanup",
+      "disk-space",
+      "git-worktree",
+      "macos",
+      "mcp",
+      "mcp-server",
+      "menu-bar-app",
+      "node-modules",
+      "rust",
+      "swiftui",
+      "tui",
+      "worktrees",
+      "xcode"
+    ],
+    "html_url": "https://github.com/morajabi/poo",
+    "stargazers_count": 77,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T18:39:06Z",
+    "updated_at": "2026-11-18T08:42:51Z",
+    "pushed_at": "2026-11-16T15:15:53Z"
+  },
+  {
+    "id": 1454840428,
+    "name": "HowToCompeteBetter",
+    "full_name": "Rain-dust/HowToCompeteBetter",
+    "owner": {
+      "login": "Rain-dust",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266304033?v=4"
+    },
+    "description": "高性价比大学生竞赛指南：10章按问题查，27项连续制作参考、73条赛事入口、Agent数模教程与真题复现。",
+    "topics": [
+      "ai-agents",
+      "chinese",
+      "claude-code",
+      "codex",
+      "competition-guide",
+      "mathematical-modeling",
+      "student-competitions"
+    ],
+    "html_url": "https://github.com/Rain-dust/HowToCompeteBetter",
+    "stargazers_count": 77,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 1,
+    "created_at": "2026-11-12T04:48:38Z",
+    "updated_at": "2026-11-18T09:31:32Z",
+    "pushed_at": "2026-11-18T05:11:45Z"
+  },
+  {
+    "id": 1457507582,
+    "name": "agent-crop",
+    "full_name": "oriliz/agent-crop",
+    "owner": {
+      "login": "oriliz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226218834?v=4"
+    },
+    "description": "给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 | A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-improvement loop. DSH / Claude Code / Codex.",
+    "topics": [
+      "agent-evaluation",
+      "agent-observability",
+      "ai-agent",
+      "ai-coding",
+      "ai-tools",
+      "behavior-testing",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "deepseek-harness",
+      "developer-tools",
+      "devtools",
+      "dsh-plugin",
+      "harness-engineering",
+      "local-first",
+      "metrics",
+      "observability",
+      "python",
+      "self-improving-agents",
+      "tracing"
+    ],
+    "html_url": "https://github.com/oriliz/agent-crop",
+    "stargazers_count": 68,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 9,
+    "created_at": "2026-11-14T07:36:17Z",
+    "updated_at": "2026-11-19T01:57:26Z",
+    "pushed_at": "2026-11-18T15:06:58Z"
+  }
+]

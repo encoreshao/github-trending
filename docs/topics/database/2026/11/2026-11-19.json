@@ -1,0 +1,607 @@
+[
+  {
+    "id": 1456499376,
+    "name": "db-branch",
+    "full_name": "db-branch/db-branch",
+    "owner": {
+      "login": "db-branch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/355308212?v=4"
+    },
+    "description": "Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing",
+    "topics": [
+      "database"
+    ],
+    "html_url": "https://github.com/db-branch/db-branch",
+    "stargazers_count": 70,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 2,
+    "created_at": "2026-11-13T11:10:27Z",
+    "updated_at": "2026-11-19T01:27:31Z",
+    "pushed_at": "2026-11-18T03:35:35Z"
+  },
+  {
+    "id": 1460661203,
+    "name": "mydb",
+    "full_name": "yzsind/mydb",
+    "owner": {
+      "login": "yzsind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11732887?v=4"
+    },
+    "description": "A high-performance MySQL-compatible database for HTAP and AI agents  Mixed transactional and analytical workloads, with native AI retrieval.",
+    "topics": [
+      "agent",
+      "data",
+      "database",
+      "mysql",
+      "rag",
+      "rust"
+    ],
+    "html_url": "https://github.com/yzsind/mydb",
+    "stargazers_count": 54,
+    "language": "Rust",
+    "forks_count": 13,
+    "open_issues_count": 1,
+    "created_at": "2026-11-16T22:52:44Z",
+    "updated_at": "2026-11-19T01:45:51Z",
+    "pushed_at": "2026-11-18T23:49:15Z"
+  },
+  {
+    "id": 1455943350,
+    "name": "platypus-db",
+    "full_name": "platypus-labs/platypus-db",
+    "owner": {
+      "login": "platypus-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/356021526?v=4"
+    },
+    "description": "Fast, lightweight SQL client for PostgreSQL, MySQL, SQL Server, SQLite, DuckDB and more, with an MCP server for AI agents. Rust + Tauri.",
+    "topics": [
+      "database",
+      "database-client",
+      "database-gui",
+      "dbeaver-alternative",
+      "desktop-app",
+      "duckdb",
+      "mcp",
+      "mcp-server",
+      "mysql",
+      "postgresql",
+      "rust",
+      "sql-client",
+      "sql-server",
+      "sqlite",
+      "tauri"
+    ],
+    "html_url": "https://github.com/platypus-labs/platypus-db",
+    "stargazers_count": 9,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T23:35:07Z",
+    "updated_at": "2026-11-18T00:26:40Z",
+    "pushed_at": "2026-11-15T19:39:07Z"
+  },
+  {
+    "id": 1458087627,
+    "name": "hazeldb",
+    "full_name": "can1357/hazeldb",
+    "owner": {
+      "login": "can1357",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11807264?v=4"
+    },
+    "description": "Embedded key-value store for Rust: log-structured, lock-free reads, crash-safe writes, async durability, optional ordered range scans",
+    "topics": [
+      "async",
+      "btree",
+      "crash-safe",
+      "database",
+      "embedded-database",
+      "key-value-store",
+      "kv-store",
+      "lock-free",
+      "log-structured",
+      "rust",
+      "storage-engine"
+    ],
+    "html_url": "https://github.com/can1357/hazeldb",
+    "stargazers_count": 8,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T19:11:06Z",
+    "updated_at": "2026-11-17T16:51:26Z",
+    "pushed_at": "2026-11-18T06:02:54Z"
+  },
+  {
+    "id": 1456712137,
+    "name": "laravel-database-backup",
+    "full_name": "paulocastellano/laravel-database-backup",
+    "owner": {
+      "login": "paulocastellano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265964?v=4"
+    },
+    "description": "Back up your Laravel database (PostgreSQL, MySQL, MariaDB) to a private S3-compatible bucket on a schedule, with email and Discord notifications.",
+    "topics": [
+      "backup",
+      "cloudflare-r2",
+      "database",
+      "discord",
+      "laravel",
+      "mariadb",
+      "mysql",
+      "php",
+      "postgresql",
+      "s3"
+    ],
+    "html_url": "https://github.com/paulocastellano/laravel-database-backup",
+    "stargazers_count": 3,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T14:39:52Z",
+    "updated_at": "2026-11-13T16:07:24Z",
+    "pushed_at": "2026-11-13T15:09:44Z"
+  },
+  {
+    "id": 1457155395,
+    "name": "csvidx",
+    "full_name": "csvidx/csvidx",
+    "owner": {
+      "login": "csvidx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/356420504?v=4"
+    },
+    "description": "CSV index system",
+    "topics": [
+      "csv",
+      "data-engineering",
+      "database",
+      "index",
+      "pandas",
+      "python",
+      "rust"
+    ],
+    "html_url": "https://github.com/csvidx/csvidx",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T22:20:04Z",
+    "updated_at": "2026-11-14T12:49:11Z",
+    "pushed_at": "2026-11-13T23:43:50Z"
+  },
+  {
+    "id": 1455706808,
+    "name": "anime-list-manager",
+    "full_name": "PinPorterBeam/anime-list-manager",
+    "owner": {
+      "login": "PinPorterBeam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299337752?v=4"
+    },
+    "description": "Anime List Manager is a specialized catalog utility designed to track, organize, and synchronize watched and upcoming animated series. Media enthusiasts and collectors utilize this tool to log episode progress, rate titles, and manage personalized watchlists effortlessly.",
+    "topics": [
+      "anidb",
+      "anilist",
+      "anime",
+      "anime-db",
+      "anime-planet",
+      "anisearch",
+      "database",
+      "dataset",
+      "json",
+      "kitsu",
+      "kitsu-io",
+      "livechart",
+      "livechartme",
+      "mal",
+      "metadata",
+      "myanimelist",
+      "series",
+      "simkl"
+    ],
+    "html_url": "https://github.com/PinPorterBeam/anime-list-manager",
+    "stargazers_count": 2,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-12T18:53:27Z",
+    "updated_at": "2026-11-16T20:20:57Z",
+    "pushed_at": "2026-11-12T19:00:21Z"
+  },
+  {
+    "id": 1461158799,
+    "name": "classtrack-student-attendance",
+    "full_name": "Nmickymichael/classtrack-student-attendance",
+    "owner": {
+      "login": "Nmickymichael",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159117687?v=4"
+    },
+    "description": "A browser-based student class attendance management system ClassTrack is a web-based Student Attendance Management System designed to simplify attendance tracking, class session management, student records and attendance reporting for educational institutions.",
+    "topics": [
+      "attendance-management-system",
+      "attendance-reports",
+      "attendance-tracking",
+      "class-management",
+      "database",
+      "edtech",
+      "education-technology",
+      "html-css-javascript",
+      "responsive-design",
+      "responsive-designs",
+      "student-attendance",
+      "student-management",
+      "student-management-syatem",
+      "student-management-system",
+      "supabase",
+      "supabase-auth",
+      "web-application"
+    ],
+    "html_url": "https://github.com/Nmickymichael/classtrack-student-attendance",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T09:03:02Z",
+    "updated_at": "2026-11-17T20:35:43Z",
+    "pushed_at": "2026-11-18T16:10:46Z"
+  },
+  {
+    "id": 1459455266,
+    "name": "tachyon-releases",
+    "full_name": "mccannjustin17/tachyon-releases",
+    "owner": {
+      "login": "mccannjustin17",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61441031?v=4"
+    },
+    "description": "Tachyon: the next-gen Postgres client for Mac. Fast, native and beautiful. Download the latest release here.",
+    "topics": [
+      "database",
+      "database-client",
+      "gui",
+      "mac-app",
+      "macos",
+      "postgres",
+      "postgresql",
+      "sql"
+    ],
+    "html_url": "https://github.com/mccannjustin17/tachyon-releases",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T02:29:15Z",
+    "updated_at": "2026-11-18T22:14:05Z",
+    "pushed_at": "2026-11-18T19:34:00Z"
+  },
+  {
+    "id": 1457986746,
+    "name": "graphbuff",
+    "full_name": "JanVencl/graphbuff",
+    "owner": {
+      "login": "JanVencl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5213798?v=4"
+    },
+    "description": "GPU accelerated Graph engine with RAM, persistant and hybrid storage. Powered by Cypher and Rust. ",
+    "topics": [
+      "acid-transactions",
+      "cypher",
+      "database",
+      "embedded-database",
+      "gpu-acceleration",
+      "graph",
+      "graph-database",
+      "in-memory-database",
+      "property-graph",
+      "query-engine",
+      "storage-engine",
+      "wgpu"
+    ],
+    "html_url": "https://github.com/JanVencl/graphbuff",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T17:15:34Z",
+    "updated_at": "2026-11-15T19:04:21Z",
+    "pushed_at": "2026-11-18T20:58:48Z"
+  },
+  {
+    "id": 1460978697,
+    "name": "masterbase",
+    "full_name": "caioribi7/masterbase",
+    "owner": {
+      "login": "caioribi7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180786723?v=4"
+    },
+    "description": "Postgres com tela visual, para quem não sabe SQL. Código aberto, roda no seu servidor.",
+    "topics": [
+      "admin-panel",
+      "database",
+      "no-code",
+      "postgres",
+      "rust",
+      "self-hosted",
+      "svelte"
+    ],
+    "html_url": "https://github.com/caioribi7/masterbase",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T05:55:22Z",
+    "updated_at": "2026-11-18T02:49:16Z",
+    "pushed_at": "2026-11-18T03:44:28Z"
+  },
+  {
+    "id": 1460215399,
+    "name": "PuriCat",
+    "full_name": "purivaro/PuriCat",
+    "owner": {
+      "login": "purivaro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4972205?v=4"
+    },
+    "description": "A free database client for MySQL and PostgreSQL: spreadsheet-style editing, SQL you can read before it runs, and an AI agent that asks before it changes anything (Rust + Tauri)",
+    "topics": [
+      "database",
+      "database-client",
+      "mysql",
+      "postgresql",
+      "rust",
+      "tauri"
+    ],
+    "html_url": "https://github.com/purivaro/PuriCat",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T15:39:03Z",
+    "updated_at": "2026-11-18T01:22:46Z",
+    "pushed_at": "2026-11-18T03:10:28Z"
+  },
+  {
+    "id": 1462870319,
+    "name": "bloop",
+    "full_name": "atharvaphadnis-ai/bloop",
+    "owner": {
+      "login": "atharvaphadnis-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273817649?v=4"
+    },
+    "description": "BLOOP: self-hosted BaaS (Supabase/Firebase alternative). Pure Node.js, zero deps: SQLite DB, auth, REST+GraphQL APIs, realtime WebSocket sync, storage, functions, backups, CLI, dark dashboard.",
+    "topics": [
+      "authentication",
+      "baas",
+      "backend-as-a-service",
+      "database",
+      "docker",
+      "firebase-alternative",
+      "graphql",
+      "javascript",
+      "mongodb",
+      "multi-tenant",
+      "mysql",
+      "nodejs",
+      "open-source",
+      "postgresql",
+      "realtime",
+      "rest-api",
+      "self-hosted",
+      "serverless",
+      "sqlite",
+      "supabase-alternative"
+    ],
+    "html_url": "https://github.com/atharvaphadnis-ai/bloop",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T13:56:09Z",
+    "updated_at": "2026-11-18T14:33:44Z",
+    "pushed_at": "2026-11-18T14:36:23Z"
+  },
+  {
+    "id": 1457098509,
+    "name": "rung",
+    "full_name": "LiamDev06/rung",
+    "owner": {
+      "login": "LiamDev06",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71061493?v=4"
+    },
+    "description": "SQL migration engine for Java where every module owns its own migrations and its own history.",
+    "topics": [
+      "database",
+      "java",
+      "modular-monolith",
+      "postgresql",
+      "spring-boot"
+    ],
+    "html_url": "https://github.com/LiamDev06/rung",
+    "stargazers_count": 1,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T21:04:46Z",
+    "updated_at": "2026-11-14T16:02:51Z",
+    "pushed_at": "2026-11-14T16:25:32Z"
+  },
+  {
+    "id": 1462361426,
+    "name": "Oblivions-Orbital-5.3-V3",
+    "full_name": "shokribardiya/Oblivions-Orbital-5.3-V3",
+    "owner": {
+      "login": "shokribardiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153763700?v=4"
+    },
+    "description": "1. What does this software actually do? / Bardiya Shokri / Oblivion",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "ontologies",
+      "ontology",
+      "ontology-engineering",
+      "ontology-management-framework"
+    ],
+    "html_url": "https://github.com/shokribardiya/Oblivions-Orbital-5.3-V3",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T05:32:34Z",
+    "updated_at": "2026-11-18T11:20:55Z",
+    "pushed_at": "2026-11-18T11:19:02Z"
+  },
+  {
+    "id": 1461975821,
+    "name": "planbench-sqlite",
+    "full_name": "gedouluhui/planbench-sqlite",
+    "owner": {
+      "login": "gedouluhui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208120966?v=4"
+    },
+    "description": "Compare SQLite queries and indexes on one snapshot. Exact bounded results, real plans, offline reports. No runtime dependencies.",
+    "topics": [
+      "database",
+      "developer-tools",
+      "offline",
+      "python",
+      "query-optimization",
+      "query-plan",
+      "sqlite",
+      "testing"
+    ],
+    "html_url": "https://github.com/gedouluhui/planbench-sqlite",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T21:10:28Z",
+    "updated_at": "2026-11-17T22:53:35Z",
+    "pushed_at": "2026-11-18T21:59:24Z"
+  },
+  {
+    "id": 1459237992,
+    "name": "sqlite-vault",
+    "full_name": "CyberLoop-dev/sqlite-vault",
+    "owner": {
+      "login": "CyberLoop-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311869940?v=4"
+    },
+    "description": "Create consistent SQLite backups, verify database integrity, restore safely, and prune old snapshots with a small Python CLI.",
+    "topics": [
+      "backup",
+      "cli",
+      "database",
+      "integrity-check",
+      "python",
+      "restore",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/CyberLoop-dev/sqlite-vault",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T20:59:31Z",
+    "updated_at": "2026-11-16T13:32:27Z",
+    "pushed_at": "2026-11-15T20:59:42Z"
+  },
+  {
+    "id": 1461549543,
+    "name": "pgtuner",
+    "full_name": "ken19990709/pgtuner",
+    "owner": {
+      "login": "ken19990709",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49590747?v=4"
+    },
+    "description": "PostgreSQL performance experiments your AI agent can't fake — ledgered evidence, disposable clones, plan A/B, restart-level tuning. 机器用它跑实验，人类用它查账。",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "cli",
+      "database",
+      "developer-tools",
+      "performance-tuning",
+      "postgres",
+      "postgresql",
+      "sql"
+    ],
+    "html_url": "https://github.com/ken19990709/pgtuner",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T14:48:19Z",
+    "updated_at": "2026-11-18T00:58:06Z",
+    "pushed_at": "2026-11-18T00:33:57Z"
+  },
+  {
+    "id": 1457645338,
+    "name": "TableMinus",
+    "full_name": "williamcachamwri/TableMinus",
+    "owner": {
+      "login": "williamcachamwri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2741582?v=4"
+    },
+    "description": "Blazing-fast native Windows SQL & database workbench built in pure Rust + GPU-accelerated UI (GPUI). Supports Postgres, MySQL, SQLite, DuckDB, MSSQL, MongoDB, Redis, ClickHouse & Oracle with Visual Schema Designer, ER Diagrams, EXPLAIN graphs, Charts, Query Builder & AI.",
+    "topics": [
+      "ai-assistant",
+      "clickhouse",
+      "data-visualization",
+      "database",
+      "database-client",
+      "database-gui",
+      "duckdb",
+      "er-diagram",
+      "gpui",
+      "mongodb",
+      "mysql",
+      "postgres",
+      "postgresql",
+      "query-builder",
+      "redis",
+      "rust",
+      "sql",
+      "sql-editor",
+      "sqlite",
+      "windows"
+    ],
+    "html_url": "https://github.com/williamcachamwri/TableMinus",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T10:40:23Z",
+    "updated_at": "2026-11-15T15:30:59Z",
+    "pushed_at": "2026-11-16T14:10:54Z"
+  },
+  {
+    "id": 1459857813,
+    "name": "schemasketch-mcp-server",
+    "full_name": "SchemaSketch-dev/schemasketch-mcp-server",
+    "owner": {
+      "login": "SchemaSketch-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/357715869?v=4"
+    },
+    "description": "SchemaSketch MCP server: let AI agents read, edit, validate and convert your database diagrams (SQL, Laravel, Mermaid, PlantUML). npx -y schemasketch-mcp-server",
+    "topics": [
+      "database",
+      "dbml",
+      "erd",
+      "laravel",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol"
+    ],
+    "html_url": "https://github.com/SchemaSketch-dev/schemasketch-mcp-server",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T10:20:50Z",
+    "updated_at": "2026-11-17T07:11:42Z",
+    "pushed_at": "2026-11-18T10:50:40Z"
+  }
+]
