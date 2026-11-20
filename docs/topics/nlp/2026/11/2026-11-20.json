@@ -1,0 +1,599 @@
+[
+  {
+    "id": 1459199698,
+    "name": "job-search-bot",
+    "full_name": "tejedabrayan024-ship-it/job-search-bot",
+    "owner": {
+      "login": "tejedabrayan024-ship-it",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257588638?v=4"
+    },
+    "description": "Job Search Bot: Community-Driven Job Alerts with Tailored Resumes and Cover Letters",
+    "topics": [
+      "chat-memory",
+      "cloudflare-workers-ai",
+      "firebase",
+      "job-alerts",
+      "job-search",
+      "job-tracker",
+      "jobs",
+      "nlp",
+      "open-source-project",
+      "qwen3",
+      "scraper",
+      "speech-to-text",
+      "voice-assistant",
+      "vosk"
+    ],
+    "html_url": "https://github.com/tejedabrayan024-ship-it/job-search-bot",
+    "stargazers_count": 153,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T20:10:20Z",
+    "updated_at": "2026-11-17T18:03:39Z",
+    "pushed_at": "2026-11-19T23:56:31Z"
+  },
+  {
+    "id": 1456293722,
+    "name": "MatnPala-3",
+    "full_name": "MatnPala-com/MatnPala-3",
+    "owner": {
+      "login": "MatnPala-com",
+      "avatar_url": "https://avatars.githubusercontent.com/u/356132210?v=4"
+    },
+    "description": null,
+    "topics": [
+      "ai",
+      "document-summarization",
+      "farsi",
+      "natural-language-processing",
+      "nlp",
+      "persian-language",
+      "persian-nlp",
+      "php",
+      "php-text-analysis",
+      "text-summarization"
+    ],
+    "html_url": "https://github.com/MatnPala-com/MatnPala-3",
+    "stargazers_count": 8,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T07:29:22Z",
+    "updated_at": "2026-11-16T14:35:04Z",
+    "pushed_at": "2026-11-15T18:47:51Z"
+  },
+  {
+    "id": 1457584774,
+    "name": "fivetrace",
+    "full_name": "dengtingyu/fivetrace",
+    "owner": {
+      "login": "dengtingyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226668093?v=4"
+    },
+    "description": "AI text detection with one local Qwen3-1.7B backbone: corpus-trained LoRA proxies for likelihood and token rank, plus five evidence groups.",
+    "topics": [
+      "ai-text-detection",
+      "benchmark",
+      "chinese-nlp",
+      "lora",
+      "machine-generated-text",
+      "nlp",
+      "pytorch",
+      "qwen3"
+    ],
+    "html_url": "https://github.com/dengtingyu/fivetrace",
+    "stargazers_count": 5,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T09:21:28Z",
+    "updated_at": "2026-11-17T09:30:38Z",
+    "pushed_at": "2026-11-17T03:21:09Z"
+  },
+  {
+    "id": 1460096914,
+    "name": "Nexling",
+    "full_name": "helllo-shijie/Nexling",
+    "owner": {
+      "login": "helllo-shijie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228691537?v=4"
+    },
+    "description": "NexLing（译栈）——面向技术人才的桌面翻译工作台。流畅/直译双模式、提供自学习术语库与预设六套专业术语包、译文透明化标注与情感概率可视化、长文本分批翻译与断点续传。Windows 桌面端，本地 SQLite 存储，自备 API Key 直连模型，不上传任何译文。",
+    "topics": [
+      "deepseek",
+      "desktop-app",
+      "glossary",
+      "language-tools",
+      "llm",
+      "machine-translation",
+      "nlp",
+      "python",
+      "pywevbiew",
+      "react",
+      "terminology",
+      "translation",
+      "translator",
+      "typescript",
+      "windows"
+    ],
+    "html_url": "https://github.com/helllo-shijie/Nexling",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T14:00:29Z",
+    "updated_at": "2026-11-17T08:54:11Z",
+    "pushed_at": "2026-11-16T14:42:11Z"
+  },
+  {
+    "id": 1456852331,
+    "name": "boa-context-compression",
+    "full_name": "mserra0/boa-context-compression",
+    "owner": {
+      "login": "mserra0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127844566?v=4"
+    },
+    "description": "Boa compresses long contexts with a Mamba state-space model in a single O(L) pass, producing soft tokens or KV caches that condition a frozen LLM without changing its weights. This repo includes the training, evaluation and latency benchmark code from the paper.",
+    "topics": [
+      "context-compression",
+      "efficiency",
+      "large-language-models",
+      "llm",
+      "mamba",
+      "nlp",
+      "prompt-compression",
+      "soft-prompts",
+      "state-space-models"
+    ],
+    "html_url": "https://github.com/mserra0/boa-context-compression",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T16:46:05Z",
+    "updated_at": "2026-11-19T10:09:12Z",
+    "pushed_at": "2026-11-15T20:01:28Z"
+  },
+  {
+    "id": 1456432099,
+    "name": "uccharan",
+    "full_name": "cB-Sigma/uccharan",
+    "owner": {
+      "login": "cB-Sigma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339545881?v=4"
+    },
+    "description": "Phonemiser, text normaliser, transliterator and pronunciation engine for text-to-speech and speech recognition: 44 languages in Rust, Python, JavaScript and C. A drop-in replacement for espeak-ng's text-to-phoneme step. Apache-2.0.",
+    "topics": [
+      "asr",
+      "espeak-ng",
+      "g2p",
+      "grapheme-to-phoneme",
+      "hindi",
+      "indic-languages",
+      "ipa",
+      "kokoro-tts",
+      "nlp",
+      "phonemizer",
+      "piper-tts",
+      "python",
+      "rust",
+      "sherpa-onnx",
+      "speech-recognition",
+      "text-normalization",
+      "text-to-speech",
+      "transliteration",
+      "tts",
+      "webassembly"
+    ],
+    "html_url": "https://github.com/cB-Sigma/uccharan",
+    "stargazers_count": 2,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T09:56:47Z",
+    "updated_at": "2026-11-19T20:09:54Z",
+    "pushed_at": "2026-11-18T21:14:07Z"
+  },
+  {
+    "id": 1457149315,
+    "name": "historical-immigrant-record-linkage",
+    "full_name": "Alexbf88/historical-immigrant-record-linkage",
+    "owner": {
+      "login": "Alexbf88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109435161?v=4"
+    },
+    "description": "End-to-end NLP & Random Forest Entity Resolution pipeline for historical immigrant arrival records (Playwright, Scikit-Learn, FastAPI, Kubernetes & Terraform)",
+    "topics": [
+      "data-science",
+      "entity-resolution",
+      "fastapi",
+      "finops",
+      "kubernetes",
+      "machine-learning",
+      "nlp",
+      "playwright",
+      "record-linkage",
+      "sre",
+      "terraform"
+    ],
+    "html_url": "https://github.com/Alexbf88/historical-immigrant-record-linkage",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T22:11:34Z",
+    "updated_at": "2026-11-19T23:57:27Z",
+    "pushed_at": "2026-11-13T22:26:32Z"
+  },
+  {
+    "id": 1458499622,
+    "name": "EchoSpec",
+    "full_name": "unihsy/EchoSpec",
+    "owner": {
+      "login": "unihsy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336339144?v=4"
+    },
+    "description": "EchoSpec: Training Search Agents to Weigh Evidence Above Echoes",
+    "topics": [
+      "grpo",
+      "llm-agents",
+      "nlp",
+      "reinforcement-learning",
+      "retrieval-augmented-generation",
+      "search-agents"
+    ],
+    "html_url": "https://github.com/unihsy/EchoSpec",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T06:07:19Z",
+    "updated_at": "2026-11-18T20:32:10Z",
+    "pushed_at": "2026-11-17T05:20:02Z"
+  },
+  {
+    "id": 1458848475,
+    "name": "lexical-sophistication",
+    "full_name": "gustavecortal/lexical-sophistication",
+    "owner": {
+      "login": "gustavecortal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73955601?v=4"
+    },
+    "description": "A sampler that steers a language model toward common or rare words by how often they appear in English.",
+    "topics": [
+      "controllable-generation",
+      "decoding",
+      "language-model",
+      "lexical-sophistication",
+      "nlp",
+      "qwen",
+      "sampling",
+      "word-frequency",
+      "wordfreq",
+      "zipf"
+    ],
+    "html_url": "https://github.com/gustavecortal/lexical-sophistication",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T13:48:42Z",
+    "updated_at": "2026-11-17T22:29:41Z",
+    "pushed_at": "2026-11-15T14:36:59Z"
+  },
+  {
+    "id": 1461658091,
+    "name": "sillok",
+    "full_name": "tsarkr/sillok",
+    "owner": {
+      "login": "tsarkr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62873779?v=4"
+    },
+    "description": "조선왕조실록 38만 기사를 전수 학습한 From-scratch LLaMA 기반 인과적 생성형 언어모델 (Sillok-LM)",
+    "topics": [
+      "joseon-dynasty",
+      "korean-history",
+      "llm",
+      "nlp",
+      "sillok"
+    ],
+    "html_url": "https://github.com/tsarkr/sillok",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T16:15:10Z",
+    "updated_at": "2026-11-18T06:19:40Z",
+    "pushed_at": "2026-11-19T15:29:06Z"
+  },
+  {
+    "id": 1456050439,
+    "name": "job-recommender-nlp",
+    "full_name": "EnzoFerroni/job-recommender-nlp",
+    "owner": {
+      "login": "EnzoFerroni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125482399?v=4"
+    },
+    "description": "NLP job recommender for tech candidates using TF-IDF and cosine similarity (Artificial Intelligence course, Mackenzie).",
+    "topics": [
+      "artificial-intelligence",
+      "cosine-similarity",
+      "jupyter-notebook",
+      "nlp",
+      "python",
+      "recommender-system",
+      "scikit-learn",
+      "tf-idf"
+    ],
+    "html_url": "https://github.com/EnzoFerroni/job-recommender-nlp",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T02:11:17Z",
+    "updated_at": "2026-11-18T17:35:49Z",
+    "pushed_at": "2026-11-13T02:11:26Z"
+  },
+  {
+    "id": 1464574816,
+    "name": "community-sentiment-tracker",
+    "full_name": "davevoigts/community-sentiment-tracker",
+    "owner": {
+      "login": "davevoigts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246353171?v=4"
+    },
+    "description": "Track public sentiment about a local infrastructure project, with word-level evidence, visible source weights, confidence ranges and a single-file HTML dashboard.",
+    "topics": [
+      "bluesky",
+      "community-engagement",
+      "dashboard",
+      "explainable-ai",
+      "gdelt",
+      "mastadon",
+      "nlp",
+      "python",
+      "sentiment-analysis",
+      "vader"
+    ],
+    "html_url": "https://github.com/davevoigts/community-sentiment-tracker",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T19:28:45Z",
+    "updated_at": "2026-11-19T19:45:21Z",
+    "pushed_at": "2026-11-19T19:41:59Z"
+  },
+  {
+    "id": 1457161583,
+    "name": "esg-greenwashing-nlp-b3",
+    "full_name": "eniocancian/esg-greenwashing-nlp-b3",
+    "owner": {
+      "login": "eniocancian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242901942?v=4"
+    },
+    "description": "Auditoria Bilíngue de Greenwashing e Deriva Semântica em Relatórios ESG (B3) com NLP",
+    "topics": [
+      "b3",
+      "data-science",
+      "esg",
+      "greenwashing",
+      "nlp",
+      "python",
+      "scikit-learn",
+      "streamlit",
+      "sustainability",
+      "topic-modeling"
+    ],
+    "html_url": "https://github.com/eniocancian/esg-greenwashing-nlp-b3",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T22:28:39Z",
+    "updated_at": "2026-11-13T22:55:48Z",
+    "pushed_at": "2026-11-13T23:19:10Z"
+  },
+  {
+    "id": 1456684392,
+    "name": "verifiable-tutoring-lab",
+    "full_name": "DolomitiAugust/verifiable-tutoring-lab",
+    "owner": {
+      "login": "DolomitiAugust",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275135794?v=4"
+    },
+    "description": "Executable educational data, SFT-DPO comparisons, and verifiable learner memory with preserved failure evidence.",
+    "topics": [
+      "dpo",
+      "education",
+      "fine-tuning",
+      "multi-agent",
+      "nlp",
+      "reproducible-research",
+      "synthetic-data"
+    ],
+    "html_url": "https://github.com/DolomitiAugust/verifiable-tutoring-lab",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T14:15:31Z",
+    "updated_at": "2026-11-16T07:06:54Z",
+    "pushed_at": "2026-11-13T14:36:11Z"
+  },
+  {
+    "id": 1462256537,
+    "name": "scamshield-india-ai-portfolio",
+    "full_name": "jerinjohnson2020-glitch/scamshield-india-ai-portfolio",
+    "owner": {
+      "login": "jerinjohnson2020-glitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234945340?v=4"
+    },
+    "description": "AI-powered scam detection and investigation platform focused on Indian cyber fraud, combining machine learning, NLP, URL intelligence, knowledge graphs, and evidence-based risk analysis.",
+    "topics": [
+      "cybersecurity",
+      "cytoscape",
+      "fastapi",
+      "fraud-detection",
+      "graph-rag",
+      "knowledge-graph",
+      "nlp",
+      "phishing-detection",
+      "python",
+      "react",
+      "scam-detection"
+    ],
+    "html_url": "https://github.com/jerinjohnson2020-glitch/scamshield-india-ai-portfolio",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T03:15:57Z",
+    "updated_at": "2026-11-19T06:20:20Z",
+    "pushed_at": "2026-11-18T03:22:07Z"
+  },
+  {
+    "id": 1464285415,
+    "name": "fstt-dl-lab3-nlp-pytorch",
+    "full_name": "yassinekamouss/fstt-dl-lab3-nlp-pytorch",
+    "owner": {
+      "login": "yassinekamouss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156694023?v=4"
+    },
+    "description": "PyTorch NLP Deep Learning Lab (CI LSI - FST Tangier): Arabic Wikipedia scraping & text classification using RNN, BiRNN, GRU, and LSTM, plus GPT-2 fine-tuning for text generation.",
+    "topics": [
+      "beautifulsoup4",
+      "cuda",
+      "deep-learning",
+      "fintune",
+      "gru",
+      "lstm",
+      "nlp",
+      "python",
+      "pytorch",
+      "rnn",
+      "scrapping-python",
+      "transformers"
+    ],
+    "html_url": "https://github.com/yassinekamouss/fstt-dl-lab3-nlp-pytorch",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T14:54:34Z",
+    "updated_at": "2026-11-19T20:25:21Z",
+    "pushed_at": "2026-11-19T20:05:16Z"
+  },
+  {
+    "id": 1457479138,
+    "name": "Medical-Assistant-RAG",
+    "full_name": "u2jyothibhat/Medical-Assistant-RAG",
+    "owner": {
+      "login": "u2jyothibhat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85931252?v=4"
+    },
+    "description": "RAG medical assistant answering clinical questions from the Merck Manual: Mistral-7B (llama.cpp), LangChain, gte-large embeddings, ChromaDB, prompt tuning and LLM-as-judge evaluation",
+    "topics": [
+      "chromadb",
+      "generative-ai",
+      "healthcare-ai",
+      "langchain",
+      "llama-cpp",
+      "llm",
+      "llm-evaluation",
+      "mistral-7b",
+      "nlp",
+      "prompt-engineering",
+      "rag",
+      "vector-database"
+    ],
+    "html_url": "https://github.com/u2jyothibhat/Medical-Assistant-RAG",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T06:57:00Z",
+    "updated_at": "2026-11-14T07:20:33Z",
+    "pushed_at": "2026-11-14T06:59:46Z"
+  },
+  {
+    "id": 1456440033,
+    "name": "AI-ML-Paper-Q-A-assistant",
+    "full_name": "supraja-ulaganathan/AI-ML-Paper-Q-A-assistant",
+    "owner": {
+      "login": "supraja-ulaganathan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245125464?v=4"
+    },
+    "description": "RAG assistant that answers questions about arXiv papers on RAG, dense retrieval and LLM hallucination, with page-level citations, paper summaries and keyword extraction.",
+    "topics": [
+      "churning",
+      "dataset",
+      "llm",
+      "nlp",
+      "rag"
+    ],
+    "html_url": "https://github.com/supraja-ulaganathan/AI-ML-Paper-Q-A-assistant",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-13T10:05:28Z",
+    "updated_at": "2026-11-13T11:07:55Z",
+    "pushed_at": "2026-11-14T06:26:56Z"
+  },
+  {
+    "id": 1458093972,
+    "name": "russian-ner-nested-entities",
+    "full_name": "AllaAndreevna/russian-ner-nested-entities",
+    "owner": {
+      "login": "AllaAndreevna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110739884?v=4"
+    },
+    "description": "Named entity recognition for Russian news (NEREL): CRF with nested-entity layers and a compact rubert-tiny2 under a 16 MB limit.",
+    "topics": [
+      "bert",
+      "crf",
+      "ner",
+      "nested-ner",
+      "nlp",
+      "pytorch"
+    ],
+    "html_url": "https://github.com/AllaAndreevna/russian-ner-nested-entities",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-14T19:19:04Z",
+    "updated_at": "2026-11-14T21:04:29Z",
+    "pushed_at": "2026-11-15T15:41:15Z"
+  },
+  {
+    "id": 1459328225,
+    "name": "bogana-ai-erp-system",
+    "full_name": "hayyanjpg/bogana-ai-erp-system",
+    "owner": {
+      "login": "hayyanjpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184343351?v=4"
+    },
+    "description": "ERP internal F&B B2B: NLP order parser, PostgreSQL, Redis, FastAPI, dan dashboard PHP",
+    "topics": [
+      "docker",
+      "erp",
+      "fastapi",
+      "forecasting",
+      "nlp",
+      "php",
+      "postgresql",
+      "redis"
+    ],
+    "html_url": "https://github.com/hayyanjpg/bogana-ai-erp-system",
+    "stargazers_count": 1,
+    "language": "PHP",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T23:12:27Z",
+    "updated_at": "2026-11-17T12:53:31Z",
+    "pushed_at": "2026-11-20T00:20:30Z"
+  }
+]
