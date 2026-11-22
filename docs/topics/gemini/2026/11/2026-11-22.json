@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1464271688,
+    "name": "blender-ai-mcp-addon",
+    "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+    "owner": {
+      "login": "bookwjitchieni1986",
+      "avatar_url": "https://avatars.githubusercontent.com/u/356367752?v=4"
+    },
+    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "blender",
+      "blender-addon",
+      "blender-ai",
+      "blender-automation",
+      "blender-mcp",
+      "blender-plugin",
+      "blender-scripting",
+      "bpy",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "llm",
+      "mcp",
+      "mcp-for-blender",
+      "mcp-server",
+      "model-context-protocol",
+      "ollama",
+      "opencode"
+    ],
+    "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+    "stargazers_count": 2475,
+    "language": null,
+    "forks_count": 34,
+    "open_issues_count": 56,
+    "created_at": "2026-11-19T14:43:10Z",
+    "updated_at": "2026-11-22T01:59:55Z",
+    "pushed_at": "2026-11-19T14:44:11Z"
+  },
+  {
+    "id": 1462968997,
+    "name": "google-ai",
+    "full_name": "hoangsvit/google-ai",
+    "owner": {
+      "login": "hoangsvit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11882322?v=4"
+    },
+    "description": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
+    "topics": [
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "google",
+      "google-ai"
+    ],
+    "html_url": "https://github.com/hoangsvit/google-ai",
+    "stargazers_count": 279,
+    "language": "Python",
+    "forks_count": 63,
+    "open_issues_count": 7,
+    "created_at": "2026-11-18T15:17:53Z",
+    "updated_at": "2026-11-22T01:03:55Z",
+    "pushed_at": "2026-11-22T01:59:37Z"
+  },
+  {
+    "id": 1463683138,
+    "name": "agy-fast",
+    "full_name": "INK-Q/agy-fast",
+    "owner": {
+      "login": "INK-Q",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55076202?v=4"
+    },
+    "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+    "topics": [
+      "ai-coding",
+      "antigravity",
+      "coding-agent",
+      "developer-tools",
+      "gemini",
+      "google-antigravity",
+      "latency-optimization",
+      "mcp",
+      "mcp-server",
+      "performance",
+      "plugin",
+      "token-optimization"
+    ],
+    "html_url": "https://github.com/INK-Q/agy-fast",
+    "stargazers_count": 254,
+    "language": "TypeScript",
+    "forks_count": 21,
+    "open_issues_count": 5,
+    "created_at": "2026-11-19T04:58:46Z",
+    "updated_at": "2026-11-22T01:54:37Z",
+    "pushed_at": "2026-11-21T17:06:47Z"
+  },
+  {
+    "id": 1460429608,
+    "name": "robotics-antigravity-plugin",
+    "full_name": "google-deepmind/robotics-antigravity-plugin",
+    "owner": {
+      "login": "google-deepmind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8596759?v=4"
+    },
+    "description": "GDM Robotics Skills for agentic robotics workflows across simulation and real robots.",
+    "topics": [
+      "ai",
+      "antigravity",
+      "gemini",
+      "mujoco",
+      "robotics"
+    ],
+    "html_url": "https://github.com/google-deepmind/robotics-antigravity-plugin",
+    "stargazers_count": 198,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T18:50:28Z",
+    "updated_at": "2026-11-22T01:47:36Z",
+    "pushed_at": "2026-11-20T11:48:47Z"
+  },
+  {
+    "id": 1461695121,
+    "name": "traxagent-claude-plugin",
+    "full_name": "ccarter01011/traxagent-claude-plugin",
+    "owner": {
+      "login": "ccarter01011",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103133220?v=4"
+    },
+    "description": "Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.",
+    "topics": [
+      "ai-cost",
+      "ai-governance",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor",
+      "finops",
+      "gemini",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "openai"
+    ],
+    "html_url": "https://github.com/ccarter01011/traxagent-claude-plugin",
+    "stargazers_count": 137,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T16:45:33Z",
+    "updated_at": "2026-11-21T02:38:33Z",
+    "pushed_at": "2026-11-20T16:10:01Z"
+  },
+  {
+    "id": 1463531928,
+    "name": "ApexCluster",
+    "full_name": "Johnson-Durui/ApexCluster",
+    "owner": {
+      "login": "Johnson-Durui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270115233?v=4"
+    },
+    "description": "面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 | Multi-vendor AI cluster: Architecture layer outputs PRDs & prototypes (built for PMs), Implementation ships Docker-verified code.",
+    "topics": [
+      "agent-orchestration",
+      "ai-software-engineering",
+      "anthropic",
+      "autonomous-agents",
+      "cross-provider",
+      "deepseek",
+      "docker-sandbox",
+      "gemini",
+      "grok",
+      "llm-agents",
+      "multi-agent",
+      "openai",
+      "prd",
+      "product-management",
+      "react",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Johnson-Durui/ApexCluster",
+    "stargazers_count": 69,
+    "language": "TypeScript",
+    "forks_count": 10,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T01:31:12Z",
+    "updated_at": "2026-11-22T00:36:28Z",
+    "pushed_at": "2026-11-20T17:37:28Z"
+  },
+  {
+    "id": 1459795900,
+    "name": "virtual-card-usdt-scalable-alignment-eval-pipeline-vcc",
+    "full_name": "blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc",
+    "owner": {
+      "login": "blatterjils-sketch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329038428?v=4"
+    },
+    "description": "借势本周头部安全实验室发布可扩展安全对齐（Scalable Alignment）突破并开源评估工具的热点，解析企业与研究机构在大规模批量跑红队对抗基准评估时，如何用 CoreGold 商业虚拟卡（VCC）+ USDT 实现批次级算力硬隔离与残额秒级回收。",
+    "topics": [
+      "ai",
+      "coregold",
+      "gemini",
+      "usdt",
+      "vcc"
+    ],
+    "html_url": "https://github.com/blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc",
+    "stargazers_count": 37,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T09:22:04Z",
+    "updated_at": "2026-11-20T10:11:42Z",
+    "pushed_at": "2026-11-16T09:23:29Z"
+  },
+  {
+    "id": 1459821746,
+    "name": "virtual-card-usdt-gemini-omni-1-2-flash-video-applepay-vcc",
+    "full_name": "mansoorivajira136-art/virtual-card-usdt-gemini-omni-1-2-flash-video-applepay-vcc",
+    "owner": {
+      "login": "mansoorivajira136-art",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329043043?v=4"
+    },
+    "description": "Capitalizing on Google's Gemini Omni 1.2 Flash video model launch and 30% price drop, this guide shows cross-border creative studios how to isolate multi-seat rendering accounts and clear high-ticket subscriptions using CoreGold USDT Virtual Cards (VCC) and Apple Pay.",
+    "topics": [
+      "card",
+      "coregold",
+      "gemini",
+      "ustd",
+      "vcc"
+    ],
+    "html_url": "https://github.com/mansoorivajira136-art/virtual-card-usdt-gemini-omni-1-2-flash-video-applepay-vcc",
+    "stargazers_count": 36,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T09:46:28Z",
+    "updated_at": "2026-11-20T10:11:48Z",
+    "pushed_at": "2026-11-16T09:47:22Z"
+  },
+  {
+    "id": 1459531455,
+    "name": "antigravity-observer",
+    "full_name": "yunjuanyunshu114-byte/antigravity-observer",
+    "owner": {
+      "login": "yunjuanyunshu114-byte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/346653287?v=4"
+    },
+    "description": "反重力观察窗 — Google Antigravity 2.0 极简增强插件：输入框下方紧凑统计栏、可滚动上下文深度观察窗、5h/周额度监控（无损共存汉化）",
+    "topics": [
+      "antigravity",
+      "antigravity-plugin",
+      "context-observer",
+      "gemini"
+    ],
+    "html_url": "https://github.com/yunjuanyunshu114-byte/antigravity-observer",
+    "stargazers_count": 30,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-16T04:17:17Z",
+    "updated_at": "2026-11-22T00:27:35Z",
+    "pushed_at": "2026-11-16T09:47:08Z"
+  },
+  {
+    "id": 1461593922,
+    "name": "bridge",
+    "full_name": "Manimaran-tech/bridge",
+    "owner": {
+      "login": "Manimaran-tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174312125?v=4"
+    },
+    "description": "Universal Local-to-Web AI Coding Harness — Connect Local Workspaces to Gemini, Claude, ChatGPT & DeepSeek via Secure MCP",
+    "topics": [
+      "ai",
+      "cli",
+      "cloudflare",
+      "cloudflare-tunnel",
+      "deepseek",
+      "developer-tools",
+      "gemini",
+      "mcp",
+      "model-context-protocol",
+      "remote-mcp",
+      "tunnel"
+    ],
+    "html_url": "https://github.com/Manimaran-tech/bridge",
+    "stargazers_count": 29,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-11-17T15:24:03Z",
+    "updated_at": "2026-11-21T23:42:15Z",
+    "pushed_at": "2026-11-21T10:33:57Z"
+  },
+  {
+    "id": 1460422973,
+    "name": "agent-frontdesk",
+    "full_name": "Phz-06/agent-frontdesk",
+    "owner": {
+      "login": "Phz-06",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174984427?v=4"
+    },
+    "description": "One web page for every desktop AI on your computer. Send a new AI one prompt and it connects itself. Works with Codex, Claude and Antigravity today.",
+    "topics": [
+      "accessibility",
+      "agent-ui",
+      "ai-agents",
+      "antigravity",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "gemini",
+      "local-first",
+      "macos",
+      "multi-agent",
+      "self-hosted",
+      "typescript",
+      "web-ui"
+    ],
+    "html_url": "https://github.com/Phz-06/agent-frontdesk",
+    "stargazers_count": 28,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 1,
+    "created_at": "2026-11-16T18:44:16Z",
+    "updated_at": "2026-11-21T03:33:31Z",
+    "pushed_at": "2026-11-19T14:44:30Z"
+  },
+  {
+    "id": 1460458954,
+    "name": "tupo_vision",
+    "full_name": "KeonyRus/tupo_vision",
+    "owner": {
+      "login": "KeonyRus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64161569?v=4"
+    },
+    "description": "Your own AI in Ray-Ban Meta glasses on Android: GPT on your ChatGPT plan (no API key) or Gemini Live voice, seeing through the glasses camera.",
+    "topics": [
+      "android",
+      "android-application",
+      "chatgpt",
+      "gemini",
+      "ray-ban-meta",
+      "ray-ban-meta-smart-glasses",
+      "voice-ai"
+    ],
+    "html_url": "https://github.com/KeonyRus/tupo_vision",
+    "stargazers_count": 17,
+    "language": "Kotlin",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T19:17:51Z",
+    "updated_at": "2026-11-20T19:12:14Z",
+    "pushed_at": "2026-11-16T23:07:42Z"
+  },
+  {
+    "id": 1461177052,
+    "name": "collie",
+    "full_name": "lihuanyu0w0/collie",
+    "owner": {
+      "login": "lihuanyu0w0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238790976?v=4"
+    },
+    "description": null,
+    "topics": [
+      "agy",
+      "always-on-agents",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "codex",
+      "gemini",
+      "gpt",
+      "super-agent"
+    ],
+    "html_url": "https://github.com/lihuanyu0w0/collie",
+    "stargazers_count": 16,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T09:20:10Z",
+    "updated_at": "2026-11-21T11:54:06Z",
+    "pushed_at": "2026-11-21T12:22:57Z"
+  },
+  {
+    "id": 1465112676,
+    "name": "KenEasy-Gemini-MCP-Auto-Helper",
+    "full_name": "ngiken/KenEasy-Gemini-MCP-Auto-Helper",
+    "owner": {
+      "login": "ngiken",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136251877?v=4"
+    },
+    "description": "Google Gemini MCP 自动化放行与连续对话助手：自动点击「始终允许」与「继续/Yes」、全域自由拖拽悬浮窗、超时桌面通知、内置6层防刷额度熔断保护。Auto-approve Gemini MCP permissions & Continue chips.",
+    "topics": [
+      "ai-tools",
+      "automation",
+      "browser-extension",
+      "chrome-extension",
+      "circuit-breaker",
+      "draggable-ui",
+      "gemini",
+      "google-gemini",
+      "llm",
+      "manifest-v3",
+      "mcp",
+      "model-context-protocol",
+      "productivity"
+    ],
+    "html_url": "https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper",
+    "stargazers_count": 15,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-20T07:20:09Z",
+    "updated_at": "2026-11-21T17:43:23Z",
+    "pushed_at": "2026-11-21T17:19:46Z"
+  },
+  {
+    "id": 1458541957,
+    "name": "LLM-Fugue",
+    "full_name": "zowshili/LLM-Fugue",
+    "owner": {
+      "login": "zowshili",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236172935?v=4"
+    },
+    "description": "针对 DeepSeek、GPT、Kimi、GLM、Grok、Gemini 等 AI 模型的专用破甲提示词及测试集。Jailbreak prompt words and test sets for mainstream AI models.",
+    "topics": [
+      "agent-skills",
+      "deepseek",
+      "gemini",
+      "glm",
+      "gpt",
+      "grok",
+      "jailbreak-prompts",
+      "kimi",
+      "prompt-injection",
+      "prompt-management"
+    ],
+    "html_url": "https://github.com/zowshili/LLM-Fugue",
+    "stargazers_count": 9,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T07:11:20Z",
+    "updated_at": "2026-11-20T17:48:38Z",
+    "pushed_at": "2026-11-16T09:35:39Z"
+  },
+  {
+    "id": 1466242087,
+    "name": "git-ontology-agent",
+    "full_name": "gogoymh/git-ontology-agent",
+    "owner": {
+      "login": "gogoymh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42461677?v=4"
+    },
+    "description": "Talk to your agent mid-task: every request is a git branch, an ontology decides what to redo and how to merge. OpenAI, Anthropic, Gemini, xAI, Meta, OpenRouter + Typesafe Jev, OpenAI, Gemini, Cloudflare decision models.",
+    "topics": [
+      "agent",
+      "anthropic",
+      "decision-model",
+      "gemini",
+      "git",
+      "llm",
+      "ontology",
+      "openai",
+      "python",
+      "typesafe-jev"
+    ],
+    "html_url": "https://github.com/gogoymh/git-ontology-agent",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 1,
+    "created_at": "2026-11-21T06:10:03Z",
+    "updated_at": "2026-11-21T22:56:17Z",
+    "pushed_at": "2026-11-21T10:51:21Z"
+  },
+  {
+    "id": 1464841735,
+    "name": "neo-switch",
+    "full_name": "yldm-ai/neo-switch",
+    "owner": {
+      "login": "yldm-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/294407588?v=4"
+    },
+    "description": "Keep Claude Code. Switch your models. Use Gemini 4 Neon in Claude Code through a local Anthropic-compatible proxy.",
+    "topics": [
+      "ai-coding",
+      "anthropic-compatible",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "developer-tools",
+      "gemini",
+      "gemini-4-neon",
+      "model-routing",
+      "oauth",
+      "proxy",
+      "vertex-ai"
+    ],
+    "html_url": "https://github.com/yldm-ai/neo-switch",
+    "stargazers_count": 8,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-20T01:18:52Z",
+    "updated_at": "2026-11-21T15:50:25Z",
+    "pushed_at": "2026-11-22T00:48:59Z"
+  },
+  {
+    "id": 1459129153,
+    "name": "antigravity-webnovel-writer",
+    "full_name": "dongyunjinyu/antigravity-webnovel-writer",
+    "owner": {
+      "login": "dongyunjinyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120109253?v=4"
+    },
+    "description": "原生深度适配 Google Antigravity 的长篇网文创作引擎（多智能体协同 / 状态投影机 / 5维事实审查 / 零弹窗静默守护）",
+    "topics": [
+      "ai-writing",
+      "antigravity",
+      "gemini",
+      "google-antigravity",
+      "multi-agent",
+      "python",
+      "storytelling",
+      "webnovel"
+    ],
+    "html_url": "https://github.com/dongyunjinyu/antigravity-webnovel-writer",
+    "stargazers_count": 8,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T18:46:35Z",
+    "updated_at": "2026-11-19T08:05:13Z",
+    "pushed_at": "2026-11-15T18:47:51Z"
+  },
+  {
+    "id": 1461322664,
+    "name": "agy-statusline",
+    "full_name": "2fa0/agy-statusline",
+    "owner": {
+      "login": "2fa0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11802492?v=4"
+    },
+    "description": "Real-time token speed (tok/s), context usage, cache hit rate & quota monitor for Google Antigravity (agy) Desktop & CLI. Native side panel, 100% local. | AGY 增强状态栏",
+    "topics": [
+      "agy",
+      "antigravity",
+      "antigravity-cli",
+      "antigravity-desktop",
+      "claude",
+      "cli",
+      "context-window",
+      "developer-tools",
+      "gemini",
+      "google-antigravity",
+      "prompt-cache",
+      "statusline",
+      "token-usage",
+      "zig"
+    ],
+    "html_url": "https://github.com/2fa0/agy-statusline",
+    "stargazers_count": 7,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T11:35:41Z",
+    "updated_at": "2026-11-20T15:14:50Z",
+    "pushed_at": "2026-11-20T08:22:24Z"
+  },
+  {
+    "id": 1462329565,
+    "name": "periodic-model-picker",
+    "full_name": "BACKSPACEGH/periodic-model-picker",
+    "owner": {
+      "login": "BACKSPACEGH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108916064?v=4"
+    },
+    "description": "118-element Periodic Table model selector for Gemini Web & Google Antigravity (Hydrogen, Carbon, Neon, Argon + Thinking levels)",
+    "topics": [
+      "antigravity",
+      "chrome-extension",
+      "gemini",
+      "periodic-table",
+      "userscript"
+    ],
+    "html_url": "https://github.com/BACKSPACEGH/periodic-model-picker",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T04:51:31Z",
+    "updated_at": "2026-11-21T21:37:42Z",
+    "pushed_at": "2026-11-19T00:12:54Z"
+  }
+]

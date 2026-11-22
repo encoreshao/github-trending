@@ -1,0 +1,465 @@
+[
+  {
+    "id": 1459971684,
+    "name": "rust-anything",
+    "full_name": "erkamyaman/rust-anything",
+    "owner": {
+      "login": "erkamyaman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88717125?v=4"
+    },
+    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "cli",
+      "code-migration",
+      "codex",
+      "ffi",
+      "golang",
+      "java",
+      "javascript",
+      "mcp",
+      "migration",
+      "napi",
+      "performance",
+      "porting",
+      "pyo3",
+      "python",
+      "rewrite",
+      "ruby",
+      "rust",
+      "typescript"
+    ],
+    "html_url": "https://github.com/erkamyaman/rust-anything",
+    "stargazers_count": 7453,
+    "language": "Rust",
+    "forks_count": 592,
+    "open_issues_count": 1,
+    "created_at": "2026-11-16T12:10:36Z",
+    "updated_at": "2026-11-22T01:56:18Z",
+    "pushed_at": "2026-11-21T21:59:29Z"
+  },
+  {
+    "id": 1465855400,
+    "name": "Leonida",
+    "full_name": "ItsNotRexed/Leonida",
+    "owner": {
+      "login": "ItsNotRexed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300290919?v=4"
+    },
+    "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+    "topics": [],
+    "html_url": "https://github.com/ItsNotRexed/Leonida",
+    "stargazers_count": 6013,
+    "language": "Python",
+    "forks_count": 435,
+    "open_issues_count": 171,
+    "created_at": "2026-11-20T20:07:13Z",
+    "updated_at": "2026-11-22T01:59:45Z",
+    "pushed_at": "2026-11-22T01:19:07Z"
+  },
+  {
+    "id": 1460469810,
+    "name": "Wireless-Device-Battery-Monitor",
+    "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+    "owner": {
+      "login": "krisgfx9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85200472?v=4"
+    },
+    "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+    "topics": [],
+    "html_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "stargazers_count": 5828,
+    "language": "C++",
+    "forks_count": 491,
+    "open_issues_count": 3571,
+    "created_at": "2026-11-16T19:28:29Z",
+    "updated_at": "2026-11-22T01:59:47Z",
+    "pushed_at": "2026-11-22T01:55:30Z"
+  },
+  {
+    "id": 1461244802,
+    "name": "google-ultra",
+    "full_name": "gylive/google-ultra",
+    "owner": {
+      "login": "gylive",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87460536?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/gylive/google-ultra",
+    "stargazers_count": 2601,
+    "language": "Python",
+    "forks_count": 79,
+    "open_issues_count": 26,
+    "created_at": "2026-11-17T10:21:54Z",
+    "updated_at": "2026-11-22T01:45:58Z",
+    "pushed_at": "2026-11-21T15:55:25Z"
+  },
+  {
+    "id": 1464271688,
+    "name": "blender-ai-mcp-addon",
+    "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+    "owner": {
+      "login": "bookwjitchieni1986",
+      "avatar_url": "https://avatars.githubusercontent.com/u/356367752?v=4"
+    },
+    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "blender",
+      "blender-addon",
+      "blender-ai",
+      "blender-automation",
+      "blender-mcp",
+      "blender-plugin",
+      "blender-scripting",
+      "bpy",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "llm",
+      "mcp",
+      "mcp-for-blender",
+      "mcp-server",
+      "model-context-protocol",
+      "ollama",
+      "opencode"
+    ],
+    "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+    "stargazers_count": 2475,
+    "language": null,
+    "forks_count": 34,
+    "open_issues_count": 56,
+    "created_at": "2026-11-19T14:43:10Z",
+    "updated_at": "2026-11-22T01:59:55Z",
+    "pushed_at": "2026-11-19T14:44:11Z"
+  },
+  {
+    "id": 1458720005,
+    "name": "ung220z-tool",
+    "full_name": "Hut-hzf/ung220z-tool",
+    "owner": {
+      "login": "Hut-hzf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192405006?v=4"
+    },
+    "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+    "topics": [],
+    "html_url": "https://github.com/Hut-hzf/ung220z-tool",
+    "stargazers_count": 2220,
+    "language": "Python",
+    "forks_count": 505,
+    "open_issues_count": 7,
+    "created_at": "2026-11-15T11:16:46Z",
+    "updated_at": "2026-11-22T01:56:12Z",
+    "pushed_at": "2026-11-15T11:17:27Z"
+  },
+  {
+    "id": 1463963309,
+    "name": "neonclipping",
+    "full_name": "iamajmeena/neonclipping",
+    "owner": {
+      "login": "iamajmeena",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265551449?v=4"
+    },
+    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+    "topics": [
+      "ai-video-clipper",
+      "clipping",
+      "faster-whisper",
+      "ffmpeg",
+      "gameplay-clipper",
+      "local-llm",
+      "ollama",
+      "open-source-video-editor",
+      "opusclip-alternative",
+      "shorts",
+      "twitch-clips",
+      "vertical-video",
+      "video",
+      "whisper",
+      "youtube-shorts-generator",
+      "yt-dlp"
+    ],
+    "html_url": "https://github.com/iamajmeena/neonclipping",
+    "stargazers_count": 1743,
+    "language": "Python",
+    "forks_count": 86,
+    "open_issues_count": 14,
+    "created_at": "2026-11-19T10:00:43Z",
+    "updated_at": "2026-11-22T01:57:52Z",
+    "pushed_at": "2026-11-21T22:46:46Z"
+  },
+  {
+    "id": 1460417668,
+    "name": "inference-optimisation-skill",
+    "full_name": "sybil-solutions/inference-optimisation-skill",
+    "owner": {
+      "login": "sybil-solutions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284200730?v=4"
+    },
+    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+    "topics": [
+      "agent-skill",
+      "benchmarking",
+      "claude-code",
+      "inference",
+      "llm",
+      "speculative-decoding"
+    ],
+    "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "stargazers_count": 1689,
+    "language": "Python",
+    "forks_count": 151,
+    "open_issues_count": 11,
+    "created_at": "2026-11-16T18:40:04Z",
+    "updated_at": "2026-11-22T01:59:35Z",
+    "pushed_at": "2026-11-16T18:40:08Z"
+  },
+  {
+    "id": 1459063723,
+    "name": "allo",
+    "full_name": "joshpuckett/allo",
+    "owner": {
+      "login": "joshpuckett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/403737?v=4"
+    },
+    "description": "Allo is your friendly neighborhood typeface, free and open source",
+    "topics": [],
+    "html_url": "https://github.com/joshpuckett/allo",
+    "stargazers_count": 1366,
+    "language": "Python",
+    "forks_count": 38,
+    "open_issues_count": 6,
+    "created_at": "2026-11-15T17:33:42Z",
+    "updated_at": "2026-11-22T01:59:42Z",
+    "pushed_at": "2026-11-18T07:19:43Z"
+  },
+  {
+    "id": 1465951272,
+    "name": "google-one-tools",
+    "full_name": "hatsunemiku-ai/google-one-tools",
+    "owner": {
+      "login": "hatsunemiku-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/359323636?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/hatsunemiku-ai/google-one-tools",
+    "stargazers_count": 1060,
+    "language": "Python",
+    "forks_count": 517,
+    "open_issues_count": 2,
+    "created_at": "2026-11-20T22:12:47Z",
+    "updated_at": "2026-11-22T01:57:12Z",
+    "pushed_at": "2026-11-21T07:02:02Z"
+  },
+  {
+    "id": 1460149071,
+    "name": "spaceship",
+    "full_name": "chuanqisun/spaceship",
+    "owner": {
+      "login": "chuanqisun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1895289?v=4"
+    },
+    "description": "Steer ideas like a space pilot!",
+    "topics": [],
+    "html_url": "https://github.com/chuanqisun/spaceship",
+    "stargazers_count": 1024,
+    "language": "HTML",
+    "forks_count": 109,
+    "open_issues_count": 0,
+    "created_at": "2026-11-16T14:43:45Z",
+    "updated_at": "2026-11-22T01:10:50Z",
+    "pushed_at": "2026-11-20T15:52:59Z"
+  },
+  {
+    "id": 1461522454,
+    "name": "WinRust",
+    "full_name": "Lemxy/WinRust",
+    "owner": {
+      "login": "Lemxy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183076981?v=4"
+    },
+    "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+    "topics": [],
+    "html_url": "https://github.com/Lemxy/WinRust",
+    "stargazers_count": 968,
+    "language": "Rust",
+    "forks_count": 51,
+    "open_issues_count": 48,
+    "created_at": "2026-11-17T14:27:06Z",
+    "updated_at": "2026-11-22T01:35:52Z",
+    "pushed_at": "2026-11-21T14:46:56Z"
+  },
+  {
+    "id": 1459700211,
+    "name": "shapeshift-labs-ink-studio",
+    "full_name": "siliconjungle/shapeshift-labs-ink-studio",
+    "owner": {
+      "login": "siliconjungle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71357672?v=4"
+    },
+    "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+    "topics": [],
+    "html_url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+    "stargazers_count": 959,
+    "language": "JavaScript",
+    "forks_count": 81,
+    "open_issues_count": 6,
+    "created_at": "2026-11-16T07:44:00Z",
+    "updated_at": "2026-11-22T00:32:00Z",
+    "pushed_at": "2026-11-22T00:11:20Z"
+  },
+  {
+    "id": 1465728637,
+    "name": "Xbox2Windows",
+    "full_name": "R0Y00/Xbox2Windows",
+    "owner": {
+      "login": "R0Y00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128987794?v=4"
+    },
+    "description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
+    "topics": [
+      "d3d12",
+      "directx-raytracing",
+      "scarlett",
+      "static-recompilation",
+      "windows",
+      "xbox",
+      "xbox-series-x"
+    ],
+    "html_url": "https://github.com/R0Y00/Xbox2Windows",
+    "stargazers_count": 947,
+    "language": "Python",
+    "forks_count": 91,
+    "open_issues_count": 145,
+    "created_at": "2026-11-20T17:43:52Z",
+    "updated_at": "2026-11-22T01:58:13Z",
+    "pushed_at": "2026-11-22T01:55:33Z"
+  },
+  {
+    "id": 1466325515,
+    "name": "xbox-emulator",
+    "full_name": "omonkeyz/xbox-emulator",
+    "owner": {
+      "login": "omonkeyz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246595960?v=4"
+    },
+    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "topics": [],
+    "html_url": "https://github.com/omonkeyz/xbox-emulator",
+    "stargazers_count": 810,
+    "language": "Rust",
+    "forks_count": 43,
+    "open_issues_count": 65,
+    "created_at": "2026-11-21T08:08:39Z",
+    "updated_at": "2026-11-22T01:57:49Z",
+    "pushed_at": "2026-11-22T01:58:59Z"
+  },
+  {
+    "id": 1460180740,
+    "name": "boring-marketing-skills",
+    "full_name": "boringmarketer/boring-marketing-skills",
+    "owner": {
+      "login": "boringmarketer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212546731?v=4"
+    },
+    "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "copywriting",
+      "local-seo",
+      "marketing",
+      "seo"
+    ],
+    "html_url": "https://github.com/boringmarketer/boring-marketing-skills",
+    "stargazers_count": 777,
+    "language": "Python",
+    "forks_count": 280,
+    "open_issues_count": 2,
+    "created_at": "2026-11-16T15:09:46Z",
+    "updated_at": "2026-11-22T01:48:34Z",
+    "pushed_at": "2026-11-17T22:53:58Z"
+  },
+  {
+    "id": 1464126198,
+    "name": "FastUnlock",
+    "full_name": "MSNightmare/FastUnlock",
+    "owner": {
+      "login": "MSNightmare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
+    },
+    "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+    "topics": [],
+    "html_url": "https://github.com/MSNightmare/FastUnlock",
+    "stargazers_count": 648,
+    "language": null,
+    "forks_count": 107,
+    "open_issues_count": 1,
+    "created_at": "2026-11-19T12:37:51Z",
+    "updated_at": "2026-11-22T01:19:20Z",
+    "pushed_at": "2026-11-21T05:18:41Z"
+  },
+  {
+    "id": 1460965754,
+    "name": "homeport",
+    "full_name": "0xkaka/homeport",
+    "owner": {
+      "login": "0xkaka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95867652?v=4"
+    },
+    "description": null,
+    "topics": [],
+    "html_url": "https://github.com/0xkaka/homeport",
+    "stargazers_count": 615,
+    "language": "HTML",
+    "forks_count": 107,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T05:39:46Z",
+    "updated_at": "2026-11-21T21:40:55Z",
+    "pushed_at": "2026-11-19T09:05:16Z"
+  },
+  {
+    "id": 1458303867,
+    "name": "stick-scene",
+    "full_name": "nilbuild/stick-scene",
+    "owner": {
+      "login": "nilbuild",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4"
+    },
+    "description": "Skill to draw stick figure animated visuals",
+    "topics": [],
+    "html_url": "https://github.com/nilbuild/stick-scene",
+    "stargazers_count": 561,
+    "language": "JavaScript",
+    "forks_count": 63,
+    "open_issues_count": 0,
+    "created_at": "2026-11-15T00:17:40Z",
+    "updated_at": "2026-11-22T01:59:52Z",
+    "pushed_at": "2026-11-16T10:36:25Z"
+  },
+  {
+    "id": 1464004445,
+    "name": "Open-Source-Face-Recognition-Ultimate",
+    "full_name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "owner": {
+      "login": "nataphong-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208099046?v=4"
+    },
+    "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
+    "topics": [],
+    "html_url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "stargazers_count": 533,
+    "language": "Python",
+    "forks_count": 435,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T10:40:46Z",
+    "updated_at": "2026-11-22T01:34:31Z",
+    "pushed_at": "2026-11-22T00:50:21Z"
+  }
+]
