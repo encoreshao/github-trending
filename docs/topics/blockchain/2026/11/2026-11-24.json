@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1460741561,
+    "name": "gas-fee-tracker",
+    "full_name": "SkinJaguarAdapt/gas-fee-tracker",
+    "owner": {
+      "login": "SkinJaguarAdapt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/351027929?v=4"
+    },
+    "description": "Gas fee pattern tracker for major EVM chains with alerting recipes.",
+    "topics": [
+      "blockchain",
+      "defi",
+      "ethereum",
+      "gas-fees",
+      "tools"
+    ],
+    "html_url": "https://github.com/SkinJaguarAdapt/gas-fee-tracker",
+    "stargazers_count": 82,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T00:47:52Z",
+    "updated_at": "2026-11-23T22:55:27Z",
+    "pushed_at": "2026-11-17T00:48:57Z"
+  },
+  {
+    "id": 1465744980,
+    "name": "chainreconciler",
+    "full_name": "q133ss/chainreconciler",
+    "owner": {
+      "login": "q133ss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84626093?v=4"
+    },
+    "description": "Recover the outcome of an already-sent blockchain transaction from its chain id and hash.",
+    "topics": [
+      "blockchain",
+      "ethereum",
+      "finality",
+      "nodejs",
+      "reconciliation",
+      "rpc",
+      "sqlite",
+      "transaction",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/q133ss/chainreconciler",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-20T18:00:53Z",
+    "updated_at": "2026-11-21T20:32:38Z",
+    "pushed_at": "2026-11-20T18:27:03Z"
+  },
+  {
+    "id": 1465175108,
+    "name": "hyperfabric-evolution",
+    "full_name": "Footloose9/hyperfabric-evolution",
+    "owner": {
+      "login": "Footloose9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222147377?v=4"
+    },
+    "description": "Open-source research lab for blockchain, AI agents, automation, security, privacy, cryptography, and communication protocols. Reproducible tests, synthetic evidence tools, and a manual read-only XRPL preview.",
+    "topics": [
+      "agent-interoperability",
+      "ai-agents",
+      "automation",
+      "blockchain",
+      "blockchain-forensics",
+      "communication-protocols",
+      "cross-chain",
+      "cryptography",
+      "ethereum",
+      "open-source",
+      "privacy",
+      "python",
+      "reproducible-research",
+      "security-research",
+      "software-provenance",
+      "synthetic-testing",
+      "wallet-interoperability",
+      "workflow-reliability",
+      "xahau",
+      "xrpl"
+    ],
+    "html_url": "https://github.com/Footloose9/hyperfabric-evolution",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 41,
+    "created_at": "2026-11-20T08:30:02Z",
+    "updated_at": "2026-11-22T07:34:38Z",
+    "pushed_at": "2026-11-23T11:35:31Z"
+  },
+  {
+    "id": 1467641816,
+    "name": "erasmus-credential-sharing",
+    "full_name": "SalvatoreFTartaglione/erasmus-credential-sharing",
+    "owner": {
+      "login": "SalvatoreFTartaglione",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151519479?v=4"
+    },
+    "description": "Privacy-preserving selective disclosure and revocation of academic credentials: W3C Verifiable Credentials & DIDs, salted Merkle proofs, X.509 PKI, signed smart-contract transactions on a simulated ledger. Threat model + attack test-suite",
+    "topics": [
+      "authentication",
+      "blockchain",
+      "cryptography",
+      "decentralized-identity",
+      "did",
+      "merkle-tree",
+      "pki",
+      "privacy",
+      "security",
+      "selective-disclosure",
+      "smart-contracts",
+      "threat-modeling",
+      "verifiable-credentials",
+      "w3c"
+    ],
+    "html_url": "https://github.com/SalvatoreFTartaglione/erasmus-credential-sharing",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T14:27:34Z",
+    "updated_at": "2026-11-22T17:07:30Z",
+    "pushed_at": "2026-11-22T14:31:14Z"
+  },
+  {
+    "id": 1465808959,
+    "name": "mcp",
+    "full_name": "duneanalytics/mcp",
+    "owner": {
+      "login": "duneanalytics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43092013?v=4"
+    },
+    "description": "The Dune MCP",
+    "topics": [
+      "blockchain",
+      "mcp",
+      "model-context-protocol",
+      "onchain-data"
+    ],
+    "html_url": "https://github.com/duneanalytics/mcp",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-20T19:12:34Z",
+    "updated_at": "2026-11-23T10:44:38Z",
+    "pushed_at": "2026-11-23T13:28:42Z"
+  },
+  {
+    "id": 1464162065,
+    "name": "sthir",
+    "full_name": "mashmune/sthir",
+    "owner": {
+      "login": "mashmune",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257654141?v=4"
+    },
+    "description": "Experimental proof-of-work coin and wallet for phones (Termux). Research project, not an investment.",
+    "topics": [
+      "blockchain",
+      "experimental",
+      "python",
+      "termux"
+    ],
+    "html_url": "https://github.com/mashmune/sthir",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T13:10:30Z",
+    "updated_at": "2026-11-19T14:34:05Z",
+    "pushed_at": "2026-11-21T19:26:25Z"
+  },
+  {
+    "id": 1467051894,
+    "name": "saturday",
+    "full_name": "harcorpindustries/saturday",
+    "owner": {
+      "login": "harcorpindustries",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255381877?v=4"
+    },
+    "description": "SATURDAY: a decentralized, self-evolving AI network on its own chain, written in Mimic. Public for review only (HARCORP LICENSE).",
+    "topics": [
+      "artificial-intelligence",
+      "blockchain",
+      "decentralized",
+      "grpc",
+      "hashgraph",
+      "machine-learning",
+      "mimic-lang",
+      "neuroevolution",
+      "post-quantum-cryptography",
+      "predictive-coding",
+      "protobuf",
+      "smart-contracts",
+      "state-space-models"
+    ],
+    "html_url": "https://github.com/harcorpindustries/saturday",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-21T23:46:40Z",
+    "updated_at": "2026-11-22T12:07:15Z",
+    "pushed_at": "2026-11-22T14:53:17Z"
+  },
+  {
+    "id": 1467779756,
+    "name": "qatrol-node",
+    "full_name": "Qatrol/qatrol-node",
+    "owner": {
+      "login": "Qatrol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69322615?v=4"
+    },
+    "description": "Qatrol Coin (QTR): блокчейн, майнер, пул и веб-кошелёк на чистом Node.js",
+    "topics": [
+      "blockchain",
+      "cryptocurrency",
+      "javascript",
+      "mining",
+      "mining-pool",
+      "nodejs",
+      "p2p",
+      "proof-of-work"
+    ],
+    "html_url": "https://github.com/Qatrol/qatrol-node",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T16:55:06Z",
+    "updated_at": "2026-11-23T07:05:02Z",
+    "pushed_at": "2026-11-23T07:04:49Z"
+  },
+  {
+    "id": 1467670144,
+    "name": "ant-chain",
+    "full_name": "AntChainL3/ant-chain",
+    "owner": {
+      "login": "AntChainL3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/359784540?v=4"
+    },
+    "description": "ANT CHAIN: an independent Arbitrum Layer 3 on Robinhood Chain where gas is paid in the ANT Stock Token",
+    "topics": [
+      "arbitrum",
+      "arbitrum-orbit",
+      "blockchain",
+      "ethereum",
+      "evm",
+      "layer3",
+      "robinhood-chain",
+      "rollup"
+    ],
+    "html_url": "https://github.com/AntChainL3/ant-chain",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T14:57:40Z",
+    "updated_at": "2026-11-23T11:42:28Z",
+    "pushed_at": "2026-11-24T01:57:38Z"
+  },
+  {
+    "id": 1466524478,
+    "name": "crypto-tracker",
+    "full_name": "Ubaidullah71/crypto-tracker",
+    "owner": {
+      "login": "Ubaidullah71",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81645877?v=4"
+    },
+    "description": "Self-hosted Discord bot that tracks crypto wallets, payments and profit/loss.",
+    "topics": [
+      "blockchain",
+      "crypto",
+      "cryptocurrency",
+      "discord",
+      "notification",
+      "portfolio",
+      "self-hosted",
+      "transactions",
+      "typescript",
+      "wallet-tracker"
+    ],
+    "html_url": "https://github.com/Ubaidullah71/crypto-tracker",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T12:32:06Z",
+    "updated_at": "2026-11-21T13:05:02Z",
+    "pushed_at": "2026-11-21T12:33:24Z"
+  },
+  {
+    "id": 1463321707,
+    "name": "Veraible-Coin",
+    "full_name": "erinnakamato23/Veraible-Coin",
+    "owner": {
+      "login": "erinnakamato23",
+      "avatar_url": "https://avatars.githubusercontent.com/u/357518379?v=4"
+    },
+    "description": "Veriable peer to peer electronic cash system based on algorithmic valuation",
+    "topics": [
+      "blockchain",
+      "coin",
+      "cryptocurrency",
+      "newproject",
+      "p2p",
+      "veriable-dependent-changes",
+      "web3"
+    ],
+    "html_url": "https://github.com/erinnakamato23/Veraible-Coin",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T20:47:56Z",
+    "updated_at": "2026-11-21T19:21:22Z",
+    "pushed_at": "2026-11-21T19:35:51Z"
+  },
+  {
+    "id": 1463416553,
+    "name": "decentralized-academic-credentials",
+    "full_name": "RaffaeleRosanova01/decentralized-academic-credentials",
+    "owner": {
+      "login": "RaffaeleRosanova01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164211790?v=4"
+    },
+    "description": "Verifiable academic credentials with selective disclosure (salted hash commitments, as in SD-JWT), holder binding, one-time challenges and a signed revocation ledger, with security tests for each attack.",
+    "topics": [
+      "blockchain",
+      "cryptography",
+      "digital-signatures",
+      "merkle-tree",
+      "python",
+      "sd-jwt",
+      "security",
+      "selective-disclosure",
+      "verifiable-credentials"
+    ],
+    "html_url": "https://github.com/RaffaeleRosanova01/decentralized-academic-credentials",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T22:42:56Z",
+    "updated_at": "2026-11-22T14:41:23Z",
+    "pushed_at": "2026-11-18T22:43:44Z"
+  },
+  {
+    "id": 1461119510,
+    "name": "monerousd",
+    "full_name": "casdevmonero/monerousd",
+    "owner": {
+      "login": "casdevmonero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268749246?v=4"
+    },
+    "description": "Post-quantum, 100% private block-DAG payment network — USDm stablecoin, IonSwap DEX, NFTs, staking, governance, merchant checkout, BLE tap-to-pay. Every transaction confidential by default.",
+    "topics": [
+      "blockchain",
+      "cryptocurrency",
+      "dag",
+      "defi",
+      "digital-cash",
+      "post-quantum",
+      "privacy",
+      "rust",
+      "stablecoin",
+      "zero-knowledge-proofs"
+    ],
+    "html_url": "https://github.com/casdevmonero/monerousd",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 1,
+    "created_at": "2026-11-17T08:25:01Z",
+    "updated_at": "2026-11-17T21:50:29Z",
+    "pushed_at": "2026-11-22T09:26:22Z"
+  },
+  {
+    "id": 1462722732,
+    "name": "chaingraph",
+    "full_name": "highstat/chaingraph",
+    "owner": {
+      "login": "highstat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148778675?v=4"
+    },
+    "description": "Open-source crypto forensics & OSINT workspace: multi-chain fund-flow graphs, mixer & obfuscation analysis, risk scoring, GEOINT. Runs in your browser, no API keys.",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "chain-analysis",
+      "crypto",
+      "ethereum",
+      "forensics",
+      "geoint",
+      "investigation",
+      "obsidian",
+      "osint",
+      "react",
+      "solana",
+      "tron",
+      "typescript"
+    ],
+    "html_url": "https://github.com/highstat/chaingraph",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T11:43:48Z",
+    "updated_at": "2026-11-18T11:49:47Z",
+    "pushed_at": "2026-11-19T11:39:30Z"
+  },
+  {
+    "id": 1467033581,
+    "name": "bvt-skills",
+    "full_name": "bitvault-developers/bvt-skills",
+    "owner": {
+      "login": "bitvault-developers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270146618?v=4"
+    },
+    "description": "Free Claude Code plugins: language switcher + full i18n for any app, longer Claude usage, and 50+ crypto app, wallet and chain playbooks.",
+    "topics": [
+      "agent-skills",
+      "anthropic",
+      "blockchain",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-plugins",
+      "claude-code-skills",
+      "claude-skills",
+      "crypto",
+      "flutter",
+      "i18n",
+      "localization",
+      "nextjs",
+      "react-native",
+      "solidity",
+      "token-optimization",
+      "translation",
+      "wallet"
+    ],
+    "html_url": "https://github.com/bitvault-developers/bvt-skills",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T23:12:53Z",
+    "updated_at": "2026-11-22T05:41:09Z",
+    "pushed_at": "2026-11-21T23:45:38Z"
+  },
+  {
+    "id": 1466878467,
+    "name": "solana-fast-rpc",
+    "full_name": "LevCodeLab/solana-fast-rpc",
+    "owner": {
+      "login": "LevCodeLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161159741?v=4"
+    },
+    "description": "Fastest open-source Solana low-latency engine: 200ms slot clock, Yellowstone gRPC combiner & zero-copy bus for HFT and trading bots in pure Rust.",
+    "topics": [
+      "blockchain",
+      "consensus",
+      "geyser",
+      "hft",
+      "low-latency",
+      "mev",
+      "open-source",
+      "rpc",
+      "rust",
+      "sniper-bot",
+      "solana",
+      "tokio",
+      "trading-bot"
+    ],
+    "html_url": "https://github.com/LevCodeLab/solana-fast-rpc",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T19:19:13Z",
+    "updated_at": "2026-11-21T21:43:19Z",
+    "pushed_at": "2026-11-21T21:30:37Z"
+  },
+  {
+    "id": 1464670068,
+    "name": "Petoron-Domain-Name",
+    "full_name": "01alekseev/Petoron-Domain-Name",
+    "owner": {
+      "login": "01alekseev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214395133?v=4"
+    },
+    "description": "Decentralized domain name protocol on Ethereum",
+    "topics": [
+      "blockchain",
+      "decentralized-identity",
+      "domain",
+      "domain-names",
+      "ethereum",
+      "nft",
+      "petoron",
+      "web3"
+    ],
+    "html_url": "https://github.com/01alekseev/Petoron-Domain-Name",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T21:13:35Z",
+    "updated_at": "2026-11-19T21:29:08Z",
+    "pushed_at": "2026-11-22T16:43:08Z"
+  },
+  {
+    "id": 1460945382,
+    "name": "solidity-roadmap-hub",
+    "full_name": "NegotiatorCrochet/solidity-roadmap-hub",
+    "owner": {
+      "login": "NegotiatorCrochet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342309096?v=4"
+    },
+    "description": "Roadmap hub into Solidity dev — audits, gas golfing, testnets.",
+    "topics": [
+      "blockchain",
+      "ethereum",
+      "smart-contracts",
+      "solidity",
+      "web3"
+    ],
+    "html_url": "https://github.com/NegotiatorCrochet/solidity-roadmap-hub",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T05:14:19Z",
+    "updated_at": "2026-11-17T05:15:26Z",
+    "pushed_at": "2026-11-17T05:15:19Z"
+  },
+  {
+    "id": 1462248128,
+    "name": "Fake__Detection",
+    "full_name": "Nithinkumar099/Fake__Detection",
+    "owner": {
+      "login": "Nithinkumar099",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240335589?v=4"
+    },
+    "description": "Digital Truth Layer — Full-stack AI & Ethereum blockchain information trust system for text, image, and video forensics, ELA heatmaps, and Gemini 3.8 Flash deepfake detection.",
+    "topics": [
+      "ai-forensics",
+      "blockchain",
+      "deepfake-detection",
+      "error-level-analysis",
+      "ethereum",
+      "fastapi",
+      "gemini-api",
+      "hardhat",
+      "nextjs"
+    ],
+    "html_url": "https://github.com/Nithinkumar099/Fake__Detection",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T03:04:35Z",
+    "updated_at": "2026-11-18T05:58:42Z",
+    "pushed_at": "2026-11-18T05:07:19Z"
+  },
+  {
+    "id": 1464555465,
+    "name": "networks",
+    "full_name": "TSX-Blockchain/networks",
+    "owner": {
+      "login": "TSX-Blockchain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/358859924?v=4"
+    },
+    "description": "Official chain configurations, RPC endpoints, and verified contract addresses for TSX Horizon, Bastion, and Testnet",
+    "topics": [
+      "avalanche",
+      "avalanche-l1",
+      "blockchain",
+      "evm",
+      "gamedev",
+      "tsx"
+    ],
+    "html_url": "https://github.com/TSX-Blockchain/networks",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T19:07:52Z",
+    "updated_at": "2026-11-19T19:08:47Z",
+    "pushed_at": "2026-11-19T19:10:57Z"
+  }
+]

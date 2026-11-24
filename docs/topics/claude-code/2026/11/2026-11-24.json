@@ -1,0 +1,593 @@
+[
+  {
+    "id": 1466635339,
+    "name": "fast-anything",
+    "full_name": "EL4CTEO/fast-anything",
+    "owner": {
+      "login": "EL4CTEO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215285446?v=4"
+    },
+    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "developer-tools",
+      "ffi",
+      "mcp",
+      "mcp-server",
+      "napi-rs",
+      "nodejs",
+      "optimization",
+      "performance",
+      "profiler",
+      "pyo3",
+      "python",
+      "rewrite-it-in-rust",
+      "ruby",
+      "rust",
+      "typescript"
+    ],
+    "html_url": "https://github.com/EL4CTEO/fast-anything",
+    "stargazers_count": 3156,
+    "language": "Rust",
+    "forks_count": 204,
+    "open_issues_count": 1,
+    "created_at": "2026-11-21T14:40:27Z",
+    "updated_at": "2026-11-24T02:00:19Z",
+    "pushed_at": "2026-11-24T00:18:49Z"
+  },
+  {
+    "id": 1465531278,
+    "name": "sprite-stacking",
+    "full_name": "danielwh2/sprite-stacking",
+    "owner": {
+      "login": "danielwh2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51721416?v=4"
+    },
+    "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "cursor",
+      "fake-3d",
+      "gamedev",
+      "pixel-art",
+      "sprite-stacking",
+      "voxel"
+    ],
+    "html_url": "https://github.com/danielwh2/sprite-stacking",
+    "stargazers_count": 664,
+    "language": "HTML",
+    "forks_count": 49,
+    "open_issues_count": 1,
+    "created_at": "2026-11-20T14:32:43Z",
+    "updated_at": "2026-11-24T01:57:18Z",
+    "pushed_at": "2026-11-21T01:28:57Z"
+  },
+  {
+    "id": 1467769720,
+    "name": "safe-anything",
+    "full_name": "erkamyaman/safe-anything",
+    "owner": {
+      "login": "erkamyaman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88717125?v=4"
+    },
+    "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "cli",
+      "codex",
+      "cursor",
+      "devsecops",
+      "mcp",
+      "osv",
+      "owasp",
+      "rust",
+      "sast",
+      "secret-scanning",
+      "secrets",
+      "security",
+      "security-scanner",
+      "sql-injection",
+      "vulnerability",
+      "vulnerability-scanner",
+      "xss"
+    ],
+    "html_url": "https://github.com/erkamyaman/safe-anything",
+    "stargazers_count": 500,
+    "language": "Rust",
+    "forks_count": 36,
+    "open_issues_count": 49,
+    "created_at": "2026-11-22T16:44:10Z",
+    "updated_at": "2026-11-24T01:56:16Z",
+    "pushed_at": "2026-11-23T20:22:42Z"
+  },
+  {
+    "id": 1460814476,
+    "name": "open-artifact",
+    "full_name": "JimLiu/open-artifact",
+    "owner": {
+      "login": "JimLiu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/648674?v=4"
+    },
+    "description": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "artifacts",
+      "claude-artifacts",
+      "claude-code",
+      "claude-design",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "design-tools",
+      "dsh-plugin",
+      "dsh-plugins",
+      "github-copilot",
+      "local-first",
+      "mcp",
+      "mcp-apps"
+    ],
+    "html_url": "https://github.com/JimLiu/open-artifact",
+    "stargazers_count": 438,
+    "language": "TypeScript",
+    "forks_count": 56,
+    "open_issues_count": 1,
+    "created_at": "2026-11-17T02:25:25Z",
+    "updated_at": "2026-11-24T01:56:27Z",
+    "pushed_at": "2026-11-23T23:20:49Z"
+  },
+  {
+    "id": 1461076894,
+    "name": "DSH-projects",
+    "full_name": "hovocope135-tech/DSH-projects",
+    "owner": {
+      "login": "hovocope135-tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/357714111?v=4"
+    },
+    "description": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you.",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "context-engineering",
+      "deepseek-harness",
+      "task-management"
+    ],
+    "html_url": "https://github.com/hovocope135-tech/DSH-projects",
+    "stargazers_count": 413,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T07:42:18Z",
+    "updated_at": "2026-11-24T01:57:29Z",
+    "pushed_at": "2026-11-23T09:50:32Z"
+  },
+  {
+    "id": 1466486126,
+    "name": "gridlines",
+    "full_name": "pritamux/gridlines",
+    "owner": {
+      "login": "pritamux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211746129?v=4"
+    },
+    "description": "An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "design-engineering",
+      "ui"
+    ],
+    "html_url": "https://github.com/pritamux/gridlines",
+    "stargazers_count": 222,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 3,
+    "created_at": "2026-11-21T11:44:09Z",
+    "updated_at": "2026-11-24T01:53:14Z",
+    "pushed_at": "2026-11-22T12:02:57Z"
+  },
+  {
+    "id": 1465134094,
+    "name": "agent-skills",
+    "full_name": "nestjs/agent-skills",
+    "owner": {
+      "login": "nestjs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28507035?v=4"
+    },
+    "description": "Agent skills for Nest framework (node.js) 🕵️‍♂️",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "nest",
+      "nestjs",
+      "nodejs",
+      "skills",
+      "typescript"
+    ],
+    "html_url": "https://github.com/nestjs/agent-skills",
+    "stargazers_count": 155,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 1,
+    "created_at": "2026-11-20T07:44:21Z",
+    "updated_at": "2026-11-23T14:05:08Z",
+    "pushed_at": "2026-11-20T11:05:37Z"
+  },
+  {
+    "id": 1463416046,
+    "name": "ai-software-factory",
+    "full_name": "piomin/ai-software-factory",
+    "owner": {
+      "login": "piomin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2892502?v=4"
+    },
+    "description": "AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM",
+    "topics": [
+      "claude-code",
+      "kubernetes",
+      "opencode",
+      "tekton",
+      "vllm"
+    ],
+    "html_url": "https://github.com/piomin/ai-software-factory",
+    "stargazers_count": 142,
+    "language": "Dockerfile",
+    "forks_count": 24,
+    "open_issues_count": 0,
+    "created_at": "2026-11-18T22:42:16Z",
+    "updated_at": "2026-11-23T19:54:24Z",
+    "pushed_at": "2026-11-23T21:52:31Z"
+  },
+  {
+    "id": 1461695121,
+    "name": "traxagent-claude-plugin",
+    "full_name": "ccarter01011/traxagent-claude-plugin",
+    "owner": {
+      "login": "ccarter01011",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103133220?v=4"
+    },
+    "description": "Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.",
+    "topics": [
+      "ai-cost",
+      "ai-governance",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor",
+      "finops",
+      "gemini",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "openai"
+    ],
+    "html_url": "https://github.com/ccarter01011/traxagent-claude-plugin",
+    "stargazers_count": 136,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T16:45:33Z",
+    "updated_at": "2026-11-23T16:02:25Z",
+    "pushed_at": "2026-11-20T16:10:01Z"
+  },
+  {
+    "id": 1465366438,
+    "name": "ai4ai",
+    "full_name": "AI4XE/ai4ai",
+    "owner": {
+      "login": "AI4XE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199689343?v=4"
+    },
+    "description": "Let AI manage itself — a cross-harness kit for runtime status, context renewal, self-duplication and more",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-harness",
+      "claude-code",
+      "codex",
+      "context-managment",
+      "deepseek-harness",
+      "dsh-plugin",
+      "multi-agent",
+      "opencode"
+    ],
+    "html_url": "https://github.com/AI4XE/ai4ai",
+    "stargazers_count": 134,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-20T11:48:16Z",
+    "updated_at": "2026-11-23T01:50:08Z",
+    "pushed_at": "2026-11-23T15:31:04Z"
+  },
+  {
+    "id": 1462222533,
+    "name": "claude-best-practices-zh",
+    "full_name": "yibie/claude-best-practices-zh",
+    "owner": {
+      "login": "yibie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/365484?v=4"
+    },
+    "description": "Claude 官方最佳实践全集：173 篇中文译文 + 100 个概念的 LLM Wiki 知识网 + 交互式知识图谱/思维导图",
+    "topics": [
+      "best-practices",
+      "claude",
+      "claude-code",
+      "llmwiki",
+      "mind-map"
+    ],
+    "html_url": "https://github.com/yibie/claude-best-practices-zh",
+    "stargazers_count": 111,
+    "language": "HTML",
+    "forks_count": 12,
+    "open_issues_count": 1,
+    "created_at": "2026-11-18T02:32:07Z",
+    "updated_at": "2026-11-23T08:14:17Z",
+    "pushed_at": "2026-11-19T13:00:50Z"
+  },
+  {
+    "id": 1466927775,
+    "name": "agent-sim",
+    "full_name": "Developing-Gamer/agent-sim",
+    "owner": {
+      "login": "Developing-Gamer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84474476?v=4"
+    },
+    "description": "iOS simulators for AI agents, on Linux",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "ios",
+      "ios-simulator",
+      "linux",
+      "mcp",
+      "mobile-testing",
+      "testing"
+    ],
+    "html_url": "https://github.com/Developing-Gamer/agent-sim",
+    "stargazers_count": 103,
+    "language": "Rust",
+    "forks_count": 9,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T20:26:12Z",
+    "updated_at": "2026-11-24T02:00:01Z",
+    "pushed_at": "2026-11-24T00:08:46Z"
+  },
+  {
+    "id": 1463909536,
+    "name": "frostwind",
+    "full_name": "trinity-works/frostwind",
+    "owner": {
+      "login": "trinity-works",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339941275?v=4"
+    },
+    "description": "A nature-grounded world compiler for pixel art. Real physics, imaginary worlds.",
+    "topics": [
+      "agents",
+      "claude-code",
+      "gamedev",
+      "pixel-art",
+      "procedural-generation",
+      "threejs",
+      "webgl",
+      "world-generation"
+    ],
+    "html_url": "https://github.com/trinity-works/frostwind",
+    "stargazers_count": 88,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T09:09:22Z",
+    "updated_at": "2026-11-23T13:23:57Z",
+    "pushed_at": "2026-11-19T09:21:44Z"
+  },
+  {
+    "id": 1468588896,
+    "name": "tsuzuri",
+    "full_name": "MaryCache/tsuzuri",
+    "owner": {
+      "login": "MaryCache",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224984571?v=4"
+    },
+    "description": "AI coding agent skill (Claude Code, Codex, Antigravity, etc.) and viewer app for writing and reviewing Japanese prose sentence by sentence with explicit writing intent",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "japanese",
+      "writing"
+    ],
+    "html_url": "https://github.com/MaryCache/tsuzuri",
+    "stargazers_count": 85,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T10:06:43Z",
+    "updated_at": "2026-11-24T01:55:21Z",
+    "pushed_at": "2026-11-23T20:32:47Z"
+  },
+  {
+    "id": 1461632037,
+    "name": "cache-maxxing",
+    "full_name": "5m0k3/cache-maxxing",
+    "owner": {
+      "login": "5m0k3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45482433?v=4"
+    },
+    "description": "A bar above your chat to see when Claude's prompt cache expires, and what your next message will cost, before you send it.",
+    "topics": [
+      "cache-control",
+      "cache-optimization",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "claude-desktop",
+      "claude-plugin",
+      "developer-tools",
+      "handoff",
+      "typescript"
+    ],
+    "html_url": "https://github.com/5m0k3/cache-maxxing",
+    "stargazers_count": 83,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 4,
+    "created_at": "2026-11-17T15:54:21Z",
+    "updated_at": "2026-11-24T00:43:15Z",
+    "pushed_at": "2026-11-21T07:10:52Z"
+  },
+  {
+    "id": 1465003685,
+    "name": "rounds",
+    "full_name": "krispuckett/rounds",
+    "owner": {
+      "login": "krispuckett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23224305?v=4"
+    },
+    "description": "A local canvas of everything your Claude Code sessions make.",
+    "topics": [
+      "canvas",
+      "claude-code",
+      "design",
+      "mcp"
+    ],
+    "html_url": "https://github.com/krispuckett/rounds",
+    "stargazers_count": 82,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 1,
+    "created_at": "2026-11-20T05:05:28Z",
+    "updated_at": "2026-11-23T21:37:47Z",
+    "pushed_at": "2026-11-22T18:24:49Z"
+  },
+  {
+    "id": 1467466377,
+    "name": "t3code-quota-ui",
+    "full_name": "Leobai03/t3code-quota-ui",
+    "owner": {
+      "login": "Leobai03",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237597792?v=4"
+    },
+    "description": "One-command macOS UI & multi-account quota enhancement pack for T3 Code (2-column compact Limits grid, side-by-side multi-account bars, context breakdown & zh-CN UI)",
+    "topics": [
+      "ai-coding",
+      "claude-code",
+      "codex",
+      "macos",
+      "quota-monitor",
+      "t3code"
+    ],
+    "html_url": "https://github.com/Leobai03/t3code-quota-ui",
+    "stargazers_count": 81,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T10:59:47Z",
+    "updated_at": "2026-11-24T01:42:49Z",
+    "pushed_at": "2026-11-23T12:49:51Z"
+  },
+  {
+    "id": 1466834747,
+    "name": "android2linux",
+    "full_name": "android2linux/android2linux",
+    "owner": {
+      "login": "android2linux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/359632316?v=4"
+    },
+    "description": "Turn an Android phone into a Linux pocket computer you control: guides, an agent skill, phone notes, scripts and apps for postmarketOS and Ubuntu Touch.",
+    "topics": [
+      "agent-skills",
+      "android",
+      "claude-code",
+      "degoogle",
+      "linux-phone",
+      "mobile-linux",
+      "postmarketos",
+      "ubuntu-touch"
+    ],
+    "html_url": "https://github.com/android2linux/android2linux",
+    "stargazers_count": 80,
+    "language": "Shell",
+    "forks_count": 6,
+    "open_issues_count": 2,
+    "created_at": "2026-11-21T18:22:13Z",
+    "updated_at": "2026-11-24T01:39:29Z",
+    "pushed_at": "2026-11-24T00:19:33Z"
+  },
+  {
+    "id": 1461542779,
+    "name": "otpkit",
+    "full_name": "SecFathy/otpkit",
+    "owner": {
+      "login": "SecFathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6282454?v=4"
+    },
+    "description": "MCP server for temporary email & SMS — receive OTPs, verification links, and confirmation codes. Zero API keys required.",
+    "topics": [
+      "ai-tools",
+      "claude",
+      "claude-code",
+      "cursor",
+      "disposable-email",
+      "email-api",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "otp",
+      "python",
+      "sms-api",
+      "temp-email",
+      "temp-sms",
+      "verification"
+    ],
+    "html_url": "https://github.com/SecFathy/otpkit",
+    "stargazers_count": 80,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 1,
+    "created_at": "2026-11-17T14:43:11Z",
+    "updated_at": "2026-11-23T23:45:10Z",
+    "pushed_at": "2026-11-17T15:02:10Z"
+  },
+  {
+    "id": 1461307709,
+    "name": "blueprint",
+    "full_name": "intincrab/blueprint",
+    "owner": {
+      "login": "intincrab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93028153?v=4"
+    },
+    "description": "A Claude Code skill that draws animated explainers like patent sheets",
+    "topics": [
+      "agent-skills",
+      "animation",
+      "claude",
+      "claude-code",
+      "visualization"
+    ],
+    "html_url": "https://github.com/intincrab/blueprint",
+    "stargazers_count": 75,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 0,
+    "created_at": "2026-11-17T11:21:19Z",
+    "updated_at": "2026-11-24T00:04:49Z",
+    "pushed_at": "2026-11-21T15:22:38Z"
+  }
+]
