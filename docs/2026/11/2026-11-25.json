@@ -1,0 +1,479 @@
+[
+  {
+    "id": 1469344551,
+    "name": "VIctory",
+    "full_name": "Marvisak/VIctory",
+    "owner": {
+      "login": "Marvisak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60314886?v=4"
+    },
+    "description": "An attempt at running GTA VI on PC",
+    "topics": [],
+    "html_url": "https://github.com/Marvisak/VIctory",
+    "stargazers_count": 11435,
+    "language": "Rust",
+    "forks_count": 1690,
+    "open_issues_count": 1137,
+    "created_at": "2026-11-23T21:47:25Z",
+    "updated_at": "2026-11-25T01:59:21Z",
+    "pushed_at": "2026-11-25T01:39:21Z"
+  },
+  {
+    "id": 1465852099,
+    "name": "xcl",
+    "full_name": "xcl-dev/xcl",
+    "owner": {
+      "login": "xcl-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/360790281?v=4"
+    },
+    "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+    "topics": [
+      "d3d12",
+      "gdk",
+      "rdna2",
+      "xbox"
+    ],
+    "html_url": "https://github.com/xcl-dev/xcl",
+    "stargazers_count": 7876,
+    "language": "Rust",
+    "forks_count": 1045,
+    "open_issues_count": 1307,
+    "created_at": "2026-11-20T20:03:21Z",
+    "updated_at": "2026-11-25T01:58:58Z",
+    "pushed_at": "2026-11-25T02:00:00Z"
+  },
+  {
+    "id": 1466635339,
+    "name": "fast-anything",
+    "full_name": "EL4CTEO/fast-anything",
+    "owner": {
+      "login": "EL4CTEO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215285446?v=4"
+    },
+    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "developer-tools",
+      "ffi",
+      "mcp",
+      "mcp-server",
+      "napi-rs",
+      "nodejs",
+      "optimization",
+      "performance",
+      "profiler",
+      "pyo3",
+      "python",
+      "rewrite-it-in-rust",
+      "ruby",
+      "rust",
+      "typescript"
+    ],
+    "html_url": "https://github.com/EL4CTEO/fast-anything",
+    "stargazers_count": 3626,
+    "language": "Rust",
+    "forks_count": 257,
+    "open_issues_count": 15,
+    "created_at": "2026-11-21T14:40:27Z",
+    "updated_at": "2026-11-25T01:59:52Z",
+    "pushed_at": "2026-11-24T15:28:28Z"
+  },
+  {
+    "id": 1465281397,
+    "name": "xnulinux",
+    "full_name": "AFK-surf/xnulinux",
+    "owner": {
+      "login": "AFK-surf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221804798?v=4"
+    },
+    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "topics": [],
+    "html_url": "https://github.com/AFK-surf/xnulinux",
+    "stargazers_count": 3409,
+    "language": "Objective-C++",
+    "forks_count": 153,
+    "open_issues_count": 11,
+    "created_at": "2026-11-20T10:18:31Z",
+    "updated_at": "2026-11-25T01:58:31Z",
+    "pushed_at": "2026-11-25T01:51:26Z"
+  },
+  {
+    "id": 1467035512,
+    "name": "portwatch-vi",
+    "full_name": "4lwayz/portwatch-vi",
+    "owner": {
+      "login": "4lwayz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/359682649?v=4"
+    },
+    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+    "topics": [],
+    "html_url": "https://github.com/4lwayz/portwatch-vi",
+    "stargazers_count": 2938,
+    "language": "JavaScript",
+    "forks_count": 73,
+    "open_issues_count": 53,
+    "created_at": "2026-11-21T23:16:41Z",
+    "updated_at": "2026-11-25T01:59:19Z",
+    "pushed_at": "2026-11-25T01:46:33Z"
+  },
+  {
+    "id": 1463963309,
+    "name": "neonclipping",
+    "full_name": "iamajmeena/neonclipping",
+    "owner": {
+      "login": "iamajmeena",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265551449?v=4"
+    },
+    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+    "topics": [
+      "ai-video-clipper",
+      "clipping",
+      "faster-whisper",
+      "ffmpeg",
+      "gameplay-clipper",
+      "local-llm",
+      "ollama",
+      "open-source-video-editor",
+      "opusclip-alternative",
+      "shorts",
+      "twitch-clips",
+      "vertical-video",
+      "video",
+      "whisper",
+      "youtube-shorts-generator",
+      "yt-dlp"
+    ],
+    "html_url": "https://github.com/iamajmeena/neonclipping",
+    "stargazers_count": 2489,
+    "language": "Python",
+    "forks_count": 155,
+    "open_issues_count": 29,
+    "created_at": "2026-11-19T10:00:43Z",
+    "updated_at": "2026-11-25T01:56:01Z",
+    "pushed_at": "2026-11-24T13:27:46Z"
+  },
+  {
+    "id": 1470579726,
+    "name": "victory-fork",
+    "full_name": "fxceless/victory-fork",
+    "owner": {
+      "login": "fxceless",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36782933?v=4"
+    },
+    "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+    "topics": [],
+    "html_url": "https://github.com/fxceless/victory-fork",
+    "stargazers_count": 2030,
+    "language": "Rust",
+    "forks_count": 493,
+    "open_issues_count": 488,
+    "created_at": "2026-11-24T18:02:37Z",
+    "updated_at": "2026-11-25T01:59:44Z",
+    "pushed_at": "2026-11-25T01:22:09Z"
+  },
+  {
+    "id": 1465728637,
+    "name": "Xbox2Windows",
+    "full_name": "R0Y00/Xbox2Windows",
+    "owner": {
+      "login": "R0Y00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128987794?v=4"
+    },
+    "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+    "topics": [
+      "d3d12",
+      "directx-raytracing",
+      "scarlett",
+      "static-recompilation",
+      "windows",
+      "xbox",
+      "xbox-series-x"
+    ],
+    "html_url": "https://github.com/R0Y00/Xbox2Windows",
+    "stargazers_count": 1910,
+    "language": "Python",
+    "forks_count": 216,
+    "open_issues_count": 281,
+    "created_at": "2026-11-20T17:43:52Z",
+    "updated_at": "2026-11-25T01:53:25Z",
+    "pushed_at": "2026-11-25T01:58:18Z"
+  },
+  {
+    "id": 1469441675,
+    "name": "leonida",
+    "full_name": "ubiquitarianism/leonida",
+    "owner": {
+      "login": "ubiquitarianism",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283527159?v=4"
+    },
+    "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+    "topics": [],
+    "html_url": "https://github.com/ubiquitarianism/leonida",
+    "stargazers_count": 1908,
+    "language": "Python",
+    "forks_count": 416,
+    "open_issues_count": 1033,
+    "created_at": "2026-11-23T23:54:39Z",
+    "updated_at": "2026-11-25T01:59:14Z",
+    "pushed_at": "2026-11-25T01:56:33Z"
+  },
+  {
+    "id": 1466325515,
+    "name": "xbox-emulator",
+    "full_name": "omonkeyz/xbox-emulator",
+    "owner": {
+      "login": "omonkeyz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246595960?v=4"
+    },
+    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "topics": [],
+    "html_url": "https://github.com/omonkeyz/xbox-emulator",
+    "stargazers_count": 1827,
+    "language": "Rust",
+    "forks_count": 120,
+    "open_issues_count": 163,
+    "created_at": "2026-11-21T08:08:39Z",
+    "updated_at": "2026-11-25T01:56:18Z",
+    "pushed_at": "2026-11-23T11:58:17Z"
+  },
+  {
+    "id": 1467519193,
+    "name": "nospeaker",
+    "full_name": "os6/nospeaker",
+    "owner": {
+      "login": "os6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239950?v=4"
+    },
+    "description": "make your macbook's trackpad talk using its haptic motor",
+    "topics": [
+      "haptics",
+      "macos",
+      "swift",
+      "trackpad"
+    ],
+    "html_url": "https://github.com/os6/nospeaker",
+    "stargazers_count": 1766,
+    "language": "Swift",
+    "forks_count": 89,
+    "open_issues_count": 17,
+    "created_at": "2026-11-22T12:05:54Z",
+    "updated_at": "2026-11-25T01:57:44Z",
+    "pushed_at": "2026-11-24T02:43:05Z"
+  },
+  {
+    "id": 1463683138,
+    "name": "agy-fast",
+    "full_name": "INK-Q/agy-fast",
+    "owner": {
+      "login": "INK-Q",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55076202?v=4"
+    },
+    "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+    "topics": [
+      "ai-agent",
+      "ai-coding",
+      "antigravity",
+      "antigravity-cli",
+      "antigravity-ide",
+      "antigravity-plugins",
+      "coding-agent",
+      "context-optimization",
+      "developer-productivity",
+      "developer-tools",
+      "gemini",
+      "google-antigravity",
+      "latency-optimization",
+      "mcp",
+      "mcp-plugin",
+      "mcp-server",
+      "model-context-protocol",
+      "performance",
+      "plugin",
+      "token-optimization"
+    ],
+    "html_url": "https://github.com/INK-Q/agy-fast",
+    "stargazers_count": 1201,
+    "language": "TypeScript",
+    "forks_count": 72,
+    "open_issues_count": 32,
+    "created_at": "2026-11-19T04:58:46Z",
+    "updated_at": "2026-11-25T01:47:01Z",
+    "pushed_at": "2026-11-24T14:28:12Z"
+  },
+  {
+    "id": 1465547415,
+    "name": "riemann-hypothesis",
+    "full_name": "leanprover-community/riemann-hypothesis",
+    "owner": {
+      "login": "leanprover-community",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41703605?v=4"
+    },
+    "description": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
+    "topics": [],
+    "html_url": "https://github.com/leanprover-community/riemann-hypothesis",
+    "stargazers_count": 1063,
+    "language": "Lean",
+    "forks_count": 419,
+    "open_issues_count": 307,
+    "created_at": "2026-11-20T14:47:49Z",
+    "updated_at": "2026-11-25T01:48:11Z",
+    "pushed_at": "2026-11-25T01:24:52Z"
+  },
+  {
+    "id": 1467880545,
+    "name": "Stream-Tube-Desktop",
+    "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "owner": {
+      "login": "Avaneesh-Inamdar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104128879?v=4"
+    },
+    "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+    "topics": [
+      "dearrow",
+      "desktop-app",
+      "gpui",
+      "mpv",
+      "rust",
+      "sponsorblock",
+      "windows",
+      "youtube",
+      "youtube-client"
+    ],
+    "html_url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "stargazers_count": 880,
+    "language": "Rust",
+    "forks_count": 62,
+    "open_issues_count": 55,
+    "created_at": "2026-11-22T18:50:17Z",
+    "updated_at": "2026-11-25T01:53:24Z",
+    "pushed_at": "2026-11-24T12:39:40Z"
+  },
+  {
+    "id": 1465531278,
+    "name": "sprite-stacking",
+    "full_name": "danielwh2/sprite-stacking",
+    "owner": {
+      "login": "danielwh2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51721416?v=4"
+    },
+    "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "cursor",
+      "fake-3d",
+      "gamedev",
+      "pixel-art",
+      "sprite-stacking",
+      "voxel"
+    ],
+    "html_url": "https://github.com/danielwh2/sprite-stacking",
+    "stargazers_count": 777,
+    "language": "HTML",
+    "forks_count": 59,
+    "open_issues_count": 1,
+    "created_at": "2026-11-20T14:32:43Z",
+    "updated_at": "2026-11-25T01:58:53Z",
+    "pushed_at": "2026-11-24T13:12:08Z"
+  },
+  {
+    "id": 1467247580,
+    "name": "deslop-please",
+    "full_name": "deterministic-machines/deslop-please",
+    "owner": {
+      "login": "deterministic-machines",
+      "avatar_url": "https://avatars.githubusercontent.com/u/353129101?v=4"
+    },
+    "description": "Bring (back) sanity to your code",
+    "topics": [],
+    "html_url": "https://github.com/deterministic-machines/deslop-please",
+    "stargazers_count": 772,
+    "language": "Rust",
+    "forks_count": 35,
+    "open_issues_count": 1,
+    "created_at": "2026-11-22T05:36:03Z",
+    "updated_at": "2026-11-25T01:58:09Z",
+    "pushed_at": "2026-11-24T06:40:42Z"
+  },
+  {
+    "id": 1464126198,
+    "name": "FastUnlock",
+    "full_name": "MSNightmare/FastUnlock",
+    "owner": {
+      "login": "MSNightmare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
+    },
+    "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+    "topics": [],
+    "html_url": "https://github.com/MSNightmare/FastUnlock",
+    "stargazers_count": 727,
+    "language": null,
+    "forks_count": 124,
+    "open_issues_count": 4,
+    "created_at": "2026-11-19T12:37:51Z",
+    "updated_at": "2026-11-25T01:28:44Z",
+    "pushed_at": "2026-11-21T05:18:41Z"
+  },
+  {
+    "id": 1466075841,
+    "name": "skill-distill",
+    "full_name": "sybil-solutions/skill-distill",
+    "owner": {
+      "login": "sybil-solutions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284200730?v=4"
+    },
+    "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+    "topics": [],
+    "html_url": "https://github.com/sybil-solutions/skill-distill",
+    "stargazers_count": 724,
+    "language": "Python",
+    "forks_count": 58,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T01:43:00Z",
+    "updated_at": "2026-11-25T01:58:42Z",
+    "pushed_at": "2026-11-21T03:48:01Z"
+  },
+  {
+    "id": 1464004445,
+    "name": "Open-Source-Face-Recognition-Ultimate",
+    "full_name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "owner": {
+      "login": "nataphong-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208099046?v=4"
+    },
+    "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
+    "topics": [],
+    "html_url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "stargazers_count": 723,
+    "language": "Python",
+    "forks_count": 600,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T10:40:46Z",
+    "updated_at": "2026-11-24T23:53:38Z",
+    "pushed_at": "2026-11-24T10:43:48Z"
+  },
+  {
+    "id": 1465854668,
+    "name": "Hookshot",
+    "full_name": "ItsNotRexed/Hookshot",
+    "owner": {
+      "login": "ItsNotRexed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300290919?v=4"
+    },
+    "description": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+    "topics": [],
+    "html_url": "https://github.com/ItsNotRexed/Hookshot",
+    "stargazers_count": 707,
+    "language": "C++",
+    "forks_count": 36,
+    "open_issues_count": 11,
+    "created_at": "2026-11-20T20:06:20Z",
+    "updated_at": "2026-11-25T01:47:38Z",
+    "pushed_at": "2026-11-22T19:13:49Z"
+  }
+]
