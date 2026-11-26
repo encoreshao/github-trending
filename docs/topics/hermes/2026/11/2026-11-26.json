@@ -1,0 +1,606 @@
+[
+  {
+    "id": 1471561272,
+    "name": "release-lint",
+    "full_name": "harpreetkbadhan/release-lint",
+    "owner": {
+      "login": "harpreetkbadhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17190925?v=4"
+    },
+    "description": "Catch release mistakes in your built iOS / Android app (.ipa, .aab, .apk, Xcode archive) before it ships: leaked keys, staging / localhost URLs, staging deep links, the wrong EAS Update channel, plain HTTP, debug builds, source maps. CLI, GitHub Action, Claude Code plugin. Zero dependencies, nothing uploaded.",
+    "topics": [
+      "ai-agents",
+      "android",
+      "app-links",
+      "app-store",
+      "claude-code",
+      "cli",
+      "deep-links",
+      "eas",
+      "expo",
+      "github-actions",
+      "google-play",
+      "hermes",
+      "ios",
+      "mobile-security",
+      "pre-release-checklist",
+      "react-native",
+      "release",
+      "secret-scanning",
+      "security",
+      "universal-links"
+    ],
+    "html_url": "https://github.com/harpreetkbadhan/release-lint",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 3,
+    "created_at": "2026-11-25T09:40:10Z",
+    "updated_at": "2026-11-25T15:38:40Z",
+    "pushed_at": "2026-11-25T20:57:31Z"
+  },
+  {
+    "id": 1470679079,
+    "name": "hermes-browser",
+    "full_name": "MarsHeer/hermes-browser",
+    "owner": {
+      "login": "MarsHeer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13229023?v=4"
+    },
+    "description": "Let a Hermes agent (or any MCP client) use your real Chrome, in a background tab, with a visible cursor and a Stop button.",
+    "topics": [
+      "ai-agent",
+      "browser-automation",
+      "chrome-extension",
+      "hermes",
+      "mcp"
+    ],
+    "html_url": "https://github.com/MarsHeer/hermes-browser",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-24T19:13:14Z",
+    "updated_at": "2026-11-24T23:13:41Z",
+    "pushed_at": "2026-11-24T19:13:21Z"
+  },
+  {
+    "id": 1466964032,
+    "name": "goose-deuce",
+    "full_name": "SnoobieJunes/goose-deuce",
+    "owner": {
+      "login": "SnoobieJunes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52594752?v=4"
+    },
+    "description": "An operating manual that turns AI coding agents into disciplined engineers: one task at a time, test-gated, every deviation logged, docs swept in the same commit, never push without approval. Harness-agnostic.",
+    "topics": [
+      "agents-md",
+      "ai-agents",
+      "claude-code",
+      "coding-agents",
+      "goose",
+      "hermes",
+      "llm",
+      "software-engineering"
+    ],
+    "html_url": "https://github.com/SnoobieJunes/goose-deuce",
+    "stargazers_count": 3,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T21:19:24Z",
+    "updated_at": "2026-11-25T05:45:54Z",
+    "pushed_at": "2026-11-25T01:42:40Z"
+  },
+  {
+    "id": 1464021723,
+    "name": "hermes-desktop-statusbar",
+    "full_name": "denohk/hermes-desktop-statusbar",
+    "owner": {
+      "login": "denohk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21325056?v=4"
+    },
+    "description": "Hermes CLI-style status bar for the Hermes desktop app: context %, cache hit, tokens/s, tokens in/out + New / Stop / Sessions buttons.",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "plugin",
+      "productivity",
+      "statusbar"
+    ],
+    "html_url": "https://github.com/denohk/hermes-desktop-statusbar",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T10:57:31Z",
+    "updated_at": "2026-11-20T07:40:19Z",
+    "pushed_at": "2026-11-20T07:33:53Z"
+  },
+  {
+    "id": 1469314574,
+    "name": "ekko-studio-ai-workplace",
+    "full_name": "Goldeniofind/ekko-studio-ai-workplace",
+    "owner": {
+      "login": "Goldeniofind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340685371?v=4"
+    },
+    "description": "Ekko Studio AI Workplace is a collaborative workspace platform designed for integrating AI assistants, prompt workflows, document drafting, and team knowledge bases in one unified interface. Teams and creators utilize this environment to automate repetitive tasks, coordinate multi-model AI pipelines, and accelerate daily productivity.",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "chat-ui",
+      "coding-agents",
+      "dashboard",
+      "ekko-studio",
+      "hermes",
+      "hermes-agent",
+      "hermes-studio",
+      "hermes-web-ui",
+      "llm",
+      "multi-agent",
+      "multi-model",
+      "multi-platform",
+      "self-hosted",
+      "typescript",
+      "vue3",
+      "web-ui",
+      "workflow-automation"
+    ],
+    "html_url": "https://github.com/Goldeniofind/ekko-studio-ai-workplace",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T21:12:52Z",
+    "updated_at": "2026-11-23T21:13:03Z",
+    "pushed_at": "2026-11-23T21:12:58Z"
+  },
+  {
+    "id": 1469102316,
+    "name": "session-tape",
+    "full_name": "yamingmou/session-tape",
+    "owner": {
+      "login": "yamingmou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125127993?v=4"
+    },
+    "description": "把一个编码助手的会话历史搬到另一个产品里继续 · carry a coding-agent session from one CLI to another",
+    "topics": [
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agent",
+      "conversation-history",
+      "hermes",
+      "migration",
+      "openclaw",
+      "pi",
+      "session",
+      "workbuddy"
+    ],
+    "html_url": "https://github.com/yamingmou/session-tape",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T17:42:31Z",
+    "updated_at": "2026-11-24T12:27:08Z",
+    "pushed_at": "2026-11-25T06:09:37Z"
+  },
+  {
+    "id": 1466682645,
+    "name": "hermes-android-client",
+    "full_name": "jack3344wong/hermes-android-client",
+    "owner": {
+      "login": "jack3344wong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260351469?v=4"
+    },
+    "description": "Hermes Agent 的安卓客户端：连接自己的 Hermes 服务器，聊天、项目、文件与模型切换",
+    "topics": [
+      "android",
+      "android-app",
+      "chat-client",
+      "hermes",
+      "jetpack-compose",
+      "kotlin",
+      "llm-client"
+    ],
+    "html_url": "https://github.com/jack3344wong/hermes-android-client",
+    "stargazers_count": 1,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T15:31:03Z",
+    "updated_at": "2026-11-23T05:48:40Z",
+    "pushed_at": "2026-11-21T16:59:12Z"
+  },
+  {
+    "id": 1466172981,
+    "name": "hermes-mobile",
+    "full_name": "LunarEclipse-LJH/hermes-mobile",
+    "owner": {
+      "login": "LunarEclipse-LJH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279605045?v=4"
+    },
+    "description": "手机接电脑的 Hermes 会话：单页 Web 客户端 + Android WebView 壳。零第三方请求，不硬编码口令，IPv4 桥有看护。",
+    "topics": [
+      "android",
+      "hermes",
+      "mobile",
+      "self-hosted",
+      "single-page",
+      "webview"
+    ],
+    "html_url": "https://github.com/LunarEclipse-LJH/hermes-mobile",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T04:24:39Z",
+    "updated_at": "2026-11-21T04:47:01Z",
+    "pushed_at": "2026-11-22T13:51:11Z"
+  },
+  {
+    "id": 1466337336,
+    "name": "shopify-skill",
+    "full_name": "sasxdj-cmyk/shopify-skill",
+    "owner": {
+      "login": "sasxdj-cmyk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309659872?v=4"
+    },
+    "description": "Production-grade Shopify theme and storefront skill for AI agents: Liquid, sections, cart AJAX, Markets, checkout extensibility, the 36 official security checks, and launch QA. Works in Claude Code, Codex, OpenCode, Qwen Code and Hermes Agent.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "checkout-extensibility",
+      "claude-code",
+      "codex",
+      "ecommerce",
+      "hermes",
+      "liquid",
+      "opencode",
+      "prompt-engineering",
+      "qwen",
+      "shopify",
+      "shopify-theme",
+      "storefront",
+      "theme-development"
+    ],
+    "html_url": "https://github.com/sasxdj-cmyk/shopify-skill",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T08:25:34Z",
+    "updated_at": "2026-11-25T11:05:18Z",
+    "pushed_at": "2026-11-25T09:08:21Z"
+  },
+  {
+    "id": 1466690611,
+    "name": "hermes-cockpit",
+    "full_name": "kadivar/hermes-cockpit",
+    "owner": {
+      "login": "kadivar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5993476?v=4"
+    },
+    "description": "Hermes plugin: agent lanes do ticket work in a worktree; nothing leaves your machine until you publish it.",
+    "topics": [
+      "agentic-workflow",
+      "ai-agents",
+      "code-review",
+      "developer-tools",
+      "git-worktree",
+      "hermes",
+      "human-in-the-loop",
+      "llm",
+      "python"
+    ],
+    "html_url": "https://github.com/kadivar/hermes-cockpit",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T15:39:28Z",
+    "updated_at": "2026-11-24T19:21:20Z",
+    "pushed_at": "2026-11-24T08:28:30Z"
+  },
+  {
+    "id": 1468428650,
+    "name": "hermes-bark",
+    "full_name": "iam1maker/hermes-bark",
+    "owner": {
+      "login": "iam1maker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34645690?v=4"
+    },
+    "description": "Send-only Bark (iOS) push notifications for Hermes Agent: cron `deliver=bark`, `hermes send --to bark[:device]`, an agent tool, opt-in failure alerts, and a desktop settings page with a delivery log.",
+    "topics": [
+      "apns",
+      "bark",
+      "bark-server",
+      "hermes",
+      "hermes-agent",
+      "ios",
+      "notifications",
+      "plugin",
+      "push-notifications",
+      "python",
+      "self-hosted"
+    ],
+    "html_url": "https://github.com/iam1maker/hermes-bark",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T07:26:25Z",
+    "updated_at": "2026-11-25T12:23:51Z",
+    "pushed_at": "2026-11-24T14:44:21Z"
+  },
+  {
+    "id": 1470395527,
+    "name": "hermes-time-context",
+    "full_name": "trappka/hermes-time-context",
+    "owner": {
+      "login": "trappka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57183585?v=4"
+    },
+    "description": "Hermes Agent plugin: current time, date, session and turn durations plus user-defined time windows in every turn",
+    "topics": [
+      "agent-tools",
+      "ai-agent",
+      "automation",
+      "clock",
+      "context-injection",
+      "datetime",
+      "hermes",
+      "hermes-agent",
+      "hermes-plugin",
+      "llm-agent",
+      "nous-research",
+      "plugin",
+      "prompt-cache",
+      "python",
+      "schedule",
+      "time",
+      "time-windows"
+    ],
+    "html_url": "https://github.com/trappka/hermes-time-context",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-24T15:57:40Z",
+    "updated_at": "2026-11-24T21:11:01Z",
+    "pushed_at": "2026-11-24T16:22:52Z"
+  },
+  {
+    "id": 1466596036,
+    "name": "agent-personality-pipeline",
+    "full_name": "nxstradamuss/agent-personality-pipeline",
+    "owner": {
+      "login": "nxstradamuss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/356830307?v=4"
+    },
+    "description": "Evolve an AI agent's personality and autonomy through scheduled review -> critic cron cycles. Two tracks (personality, autonomy), evidence standards, permission-creep guards. Framework extracted from a running agent.",
+    "topics": [
+      "agent-framework",
+      "agentic-ai",
+      "ai-agents",
+      "autonomy",
+      "cron",
+      "hermes",
+      "llm",
+      "personality"
+    ],
+    "html_url": "https://github.com/nxstradamuss/agent-personality-pipeline",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T13:55:39Z",
+    "updated_at": "2026-11-24T06:45:06Z",
+    "pushed_at": "2026-11-25T02:13:17Z"
+  },
+  {
+    "id": 1463930692,
+    "name": "ugi-font",
+    "full_name": "m-f-vip/ugi-font",
+    "owner": {
+      "login": "m-f-vip",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239474229?v=4"
+    },
+    "description": "中文标题字 text-mask 批量出图：智能 tag 选字体，32 位 RGBA 白字透明底 PNG，按「国」字光学校正，自动裁边后四周精确补 3px。Chinese title text mask batch drawing: intelligent tag font selection, 32-bit RGBA white text transparent background PNG, press the \"country\" character to highlight the school, automatically trim the edges and accurately fill in 3px around the edges.",
+    "topics": [
+      "agent",
+      "agent-skill",
+      "agent-skills",
+      "btc",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-market",
+      "dsh-plugins",
+      "hermes",
+      "hermes-agent",
+      "hermes-skill",
+      "loomy",
+      "qwenwork",
+      "usdt",
+      "workbuddy",
+      "workbuddy-skill",
+      "workbuddy-skills"
+    ],
+    "html_url": "https://github.com/m-f-vip/ugi-font",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T09:29:33Z",
+    "updated_at": "2026-11-25T01:36:26Z",
+    "pushed_at": "2026-11-20T11:03:04Z"
+  },
+  {
+    "id": 1464860055,
+    "name": "icyteru",
+    "full_name": "Megumiiiiii/icyteru",
+    "owner": {
+      "login": "Megumiiiiii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98658943?v=4"
+    },
+    "description": "my Ineffa built this",
+    "topics": [
+      "hermes",
+      "hermes-client",
+      "personal-project"
+    ],
+    "html_url": "https://github.com/Megumiiiiii/icyteru",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-20T01:46:06Z",
+    "updated_at": "2026-11-23T04:10:27Z",
+    "pushed_at": "2026-11-26T01:43:09Z"
+  },
+  {
+    "id": 1469600709,
+    "name": "hermes-vps-telegram",
+    "full_name": "azmirilias/hermes-vps-telegram",
+    "owner": {
+      "login": "azmirilias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/359227464?v=4"
+    },
+    "description": "Hardened Hermes AI-agent + Telegram setup on a Linux VPS",
+    "topics": [
+      "ai-agent",
+      "hermes",
+      "security",
+      "telegram",
+      "vps"
+    ],
+    "html_url": "https://github.com/azmirilias/hermes-vps-telegram",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-24T03:27:49Z",
+    "updated_at": "2026-11-24T03:35:10Z",
+    "pushed_at": "2026-11-24T03:28:09Z"
+  },
+  {
+    "id": 1469008083,
+    "name": "evalctl",
+    "full_name": "Roderick-Jonsson/evalctl",
+    "owner": {
+      "login": "Roderick-Jonsson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10051979?v=4"
+    },
+    "description": "An eval runner for Hermes skills: trigger and output lanes, one Go binary, Bubble Tea TUI.",
+    "topics": [
+      "ai-agents",
+      "bubbletea",
+      "cli",
+      "evaluation",
+      "golang",
+      "hermes",
+      "llm-evals",
+      "tui"
+    ],
+    "html_url": "https://github.com/Roderick-Jonsson/evalctl",
+    "stargazers_count": 0,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "created_at": "2026-11-23T16:22:00Z",
+    "updated_at": "2026-11-23T16:22:16Z",
+    "pushed_at": "2026-11-23T19:57:27Z"
+  },
+  {
+    "id": 1471267582,
+    "name": "twitch-hermes",
+    "full_name": "shevernitskiy/twitch-hermes",
+    "owner": {
+      "login": "shevernitskiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28886342?v=4"
+    },
+    "description": "📡 Twitch Hermes websocket client",
+    "topics": [
+      "client",
+      "hermes",
+      "library",
+      "pubsub",
+      "twitch",
+      "twitch-api",
+      "websocket"
+    ],
+    "html_url": "https://github.com/shevernitskiy/twitch-hermes",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-25T05:01:50Z",
+    "updated_at": "2026-11-25T06:24:04Z",
+    "pushed_at": "2026-11-25T09:20:10Z"
+  },
+  {
+    "id": 1468510939,
+    "name": "dm-lite",
+    "full_name": "Ost-in-Edhil/dm-lite",
+    "owner": {
+      "login": "Ost-in-Edhil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/359949932?v=4"
+    },
+    "description": "Memory for Hermes, Codex, Claude Code, OpenCode, Devin, and any MCP agent. daimon-memory v2: one binary, local or remote server, hybrid keyword+vector recall, bitemporal, multitenant.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "bitemporal",
+      "claude-code",
+      "codex",
+      "embeddings",
+      "hermes",
+      "mcp",
+      "memory",
+      "opencode",
+      "rust",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/Ost-in-Edhil/dm-lite",
+    "stargazers_count": 0,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T08:51:32Z",
+    "updated_at": "2026-11-23T08:52:05Z",
+    "pushed_at": "2026-11-23T08:51:55Z"
+  },
+  {
+    "id": 1466910608,
+    "name": "contractai",
+    "full_name": "rodrigosabreu/contractai",
+    "owner": {
+      "login": "rodrigosabreu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8375526?v=4"
+    },
+    "description": "ContractAI — POC para análise de contratos com IA (Next.js + FastAPI + Hermes). Cadastro de organização, upload de documento, análise estruturada de cláusulas e riscos. Demo temporária via Cloudflare Tunnel. Experimental: não use com dados reais, sem garantias de segurança/privacidade/conformidade.",
+    "topics": [
+      "ai",
+      "contract-analysis",
+      "experimental",
+      "fastapi",
+      "hermes",
+      "llm",
+      "nextjs",
+      "poc",
+      "python",
+      "typescript"
+    ],
+    "html_url": "https://github.com/rodrigosabreu/contractai",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T20:01:42Z",
+    "updated_at": "2026-11-22T01:14:19Z",
+    "pushed_at": "2026-11-23T13:12:50Z"
+  }
+]

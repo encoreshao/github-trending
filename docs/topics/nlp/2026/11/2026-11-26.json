@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1467990848,
+    "name": "tinyfix-ar",
+    "full_name": "y0u-0/tinyfix-ar",
+    "owner": {
+      "login": "y0u-0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93004494?v=4"
+    },
+    "description": "Fixes Arabic spelling as you type, in the browser. A 9 MB model for hamza, taa marbuta, alif maqsura and sound-alike mistakes.",
+    "topics": [
+      "arabic",
+      "autocorrect",
+      "browser",
+      "nlp",
+      "onnx",
+      "spelling-correction"
+    ],
+    "html_url": "https://github.com/y0u-0/tinyfix-ar",
+    "stargazers_count": 15,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T21:08:42Z",
+    "updated_at": "2026-11-25T22:01:37Z",
+    "pushed_at": "2026-11-22T23:06:58Z"
+  },
+  {
+    "id": 1464728082,
+    "name": "ai-economist",
+    "full_name": "kansoy/ai-economist",
+    "owner": {
+      "login": "kansoy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11572354?v=4"
+    },
+    "description": "Replication code and evaluation data for 'Can a Language Model Write Like an Economist?'",
+    "topics": [
+      "academic-writing",
+      "adversarial-training",
+      "economics",
+      "large-language-models",
+      "nlp",
+      "reinforcement-learning",
+      "replication-package"
+    ],
+    "html_url": "https://github.com/kansoy/ai-economist",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T22:26:40Z",
+    "updated_at": "2026-11-26T01:51:27Z",
+    "pushed_at": "2026-11-24T16:43:43Z"
+  },
+  {
+    "id": 1464599102,
+    "name": "Sibawayh",
+    "full_name": "anasAsh/Sibawayh",
+    "owner": {
+      "login": "anasAsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1830449?v=4"
+    },
+    "description": "سيبويه · An Agent Skill that makes AI agents write correct, natural Arabic and check it before answering. Claude Code plugin + dependency-free checker.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "arabic",
+      "arabic-nlp",
+      "claude-code",
+      "claude-code-plugin",
+      "grammar-checker",
+      "llm",
+      "nlp",
+      "rtl"
+    ],
+    "html_url": "https://github.com/anasAsh/Sibawayh",
+    "stargazers_count": 9,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T19:53:53Z",
+    "updated_at": "2026-11-24T13:06:28Z",
+    "pushed_at": "2026-11-25T14:18:38Z"
+  },
+  {
+    "id": 1470028369,
+    "name": "fasttext",
+    "full_name": "slavabobik/fasttext",
+    "owner": {
+      "login": "slavabobik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4003346?v=4"
+    },
+    "description": "fastText inference & language identification in pure Go — no cgo, bit-identical to C++ fastText",
+    "topics": [
+      "fasttext",
+      "go",
+      "golang",
+      "language-detection",
+      "language-identification",
+      "nlp",
+      "no-cgo",
+      "pure-go",
+      "text-classification"
+    ],
+    "html_url": "https://github.com/slavabobik/fasttext",
+    "stargazers_count": 6,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-24T10:54:17Z",
+    "updated_at": "2026-11-24T14:35:11Z",
+    "pushed_at": "2026-11-24T14:15:05Z"
+  },
+  {
+    "id": 1463720204,
+    "name": "nihai-diji-corpus",
+    "full_name": "Renhuai123/nihai-diji-corpus",
+    "owner": {
+      "login": "Renhuai123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91890238?v=4"
+    },
+    "description": "倪海厦·地纪（堪舆）逐帧精读库 — 《天纪》课程堪舆四讲（龙脉 / 明堂 / 九星 / 罗经 / 透地六十龙 / 六神）约 3.9 小时、423,193 帧逐帧精读，康奈尔笔记每条标依据、可指回时间码和帧号。进行中。姊妹库 nihai-tianji-corpus（天纪十一册）/ nihai-renji-corpus（人纪六部）。语料 CC BY-NC-SA / 代码 MIT",
+    "topics": [
+      "chinese-geomancy",
+      "corpus",
+      "dataset",
+      "feng-shui",
+      "kanyu",
+      "nlp"
+    ],
+    "html_url": "https://github.com/Renhuai123/nihai-diji-corpus",
+    "stargazers_count": 4,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T05:48:10Z",
+    "updated_at": "2026-11-24T14:48:08Z",
+    "pushed_at": "2026-11-20T06:48:34Z"
+  },
+  {
+    "id": 1466347362,
+    "name": "Urdu-MiniGPT",
+    "full_name": "atique-ahmad-01/Urdu-MiniGPT",
+    "owner": {
+      "login": "atique-ahmad-01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65412984?v=4"
+    },
+    "description": "A tiny GPT that writes Urdu, trained from scratch.",
+    "topics": [
+      "gpt",
+      "nlp",
+      "pytorch",
+      "streamlit",
+      "urdu"
+    ],
+    "html_url": "https://github.com/atique-ahmad-01/Urdu-MiniGPT",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T08:40:03Z",
+    "updated_at": "2026-11-23T09:49:56Z",
+    "pushed_at": "2026-11-21T09:54:47Z"
+  },
+  {
+    "id": 1463790785,
+    "name": "industrial-nexus-ai",
+    "full_name": "Rahulmaha125/industrial-nexus-ai",
+    "owner": {
+      "login": "Rahulmaha125",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271314443?v=4"
+    },
+    "description": "AI-Powered Industrial Quality Intelligence Platform featuring Visual Defect Inspection, Quality Analytics, Predictive Maintenance, Root Cause Analysis, and GenAI Industrial Copilot.",
+    "topics": [
+      "data-visualization",
+      "deep-learning",
+      "llm",
+      "mashine-learning",
+      "nlp",
+      "numpy",
+      "nural-network",
+      "pandas",
+      "python",
+      "rag-chatbot",
+      "strimlit"
+    ],
+    "html_url": "https://github.com/Rahulmaha125/industrial-nexus-ai",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T07:08:16Z",
+    "updated_at": "2026-11-20T07:43:48Z",
+    "pushed_at": "2026-11-19T07:15:42Z"
+  },
+  {
+    "id": 1466893718,
+    "name": "telecom-ticket-triage",
+    "full_name": "Parinajain15/telecom-ticket-triage",
+    "owner": {
+      "login": "Parinajain15",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254726465?v=4"
+    },
+    "description": "NLP-powered REST API microservice (FastAPI + scikit-learn + SQLite) that automatically classifies telecom customer complaints by department and urgency.",
+    "topics": [
+      "fastapi",
+      "machine-learning",
+      "nlp",
+      "python",
+      "rest-api",
+      "scikit-learn",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/Parinajain15/telecom-ticket-triage",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T19:38:54Z",
+    "updated_at": "2026-11-21T21:12:23Z",
+    "pushed_at": "2026-11-21T21:01:44Z"
+  },
+  {
+    "id": 1464675497,
+    "name": "dedeictificator",
+    "full_name": "jsrv/dedeictificator",
+    "owner": {
+      "login": "jsrv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18182512?v=4"
+    },
+    "description": "Zero-dependency psycholinguistic linter and AI agent skill that scores clarity (0-100) and resolves ambiguous pronouns, deixis, and dense LLM syntax (arXiv:2610.29162).",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "linter",
+      "nlp",
+      "psycholinguistics",
+      "python",
+      "readability"
+    ],
+    "html_url": "https://github.com/jsrv/dedeictificator",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T21:20:03Z",
+    "updated_at": "2026-11-20T15:58:50Z",
+    "pushed_at": "2026-11-19T22:49:59Z"
+  },
+  {
+    "id": 1468451302,
+    "name": "sentineldesk",
+    "full_name": "Karanpatel3114/sentineldesk",
+    "owner": {
+      "login": "Karanpatel3114",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169967583?v=4"
+    },
+    "description": "Multilingual (EN/DE) IT-support ticket triage: classifier, explainable escalation gate, cross-lingual RAG over past tickets and grounded LLM reply drafts.",
+    "topics": [
+      "faiss",
+      "fastapi",
+      "gemini",
+      "llm",
+      "machine-learning",
+      "multilingual",
+      "nlp",
+      "rag",
+      "react",
+      "retrieval-augmented-generation",
+      "scikit-learn",
+      "sentence-transformers",
+      "ticket-triage",
+      "typescript"
+    ],
+    "html_url": "https://github.com/Karanpatel3114/sentineldesk",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T07:51:08Z",
+    "updated_at": "2026-11-23T08:17:19Z",
+    "pushed_at": "2026-11-23T07:51:20Z"
+  },
+  {
+    "id": 1471867514,
+    "name": "rag-support-assistant",
+    "full_name": "alirezahs81/rag-support-assistant",
+    "owner": {
+      "login": "alirezahs81",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211972918?v=4"
+    },
+    "description": "RAG support knowledge assistant — offline TF-IDF retrieval, grounded answers, evaluation metrics, FastAPI, Docker, tests and CI",
+    "topics": [
+      "docker",
+      "fastapi",
+      "github-actions",
+      "information-retrieval",
+      "machine-learning",
+      "mlops",
+      "nlp",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "scikit-learn",
+      "support-bot"
+    ],
+    "html_url": "https://github.com/alirezahs81/rag-support-assistant",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-25T14:08:05Z",
+    "updated_at": "2026-11-25T14:30:55Z",
+    "pushed_at": "2026-11-25T14:10:30Z"
+  },
+  {
+    "id": 1468939849,
+    "name": "persian-text-classification",
+    "full_name": "alirezahs81/persian-text-classification",
+    "owner": {
+      "login": "alirezahs81",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211972918?v=4"
+    },
+    "description": "Production-style Persian (Farsi) text classification — complaint/intent labeling with leakage-free sklearn pipeline, FastAPI, Docker, tests and CI",
+    "topics": [
+      "docker",
+      "farsi",
+      "fastapi",
+      "github-actions",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "persian",
+      "python",
+      "scikit-learn",
+      "text-classification",
+      "tfidf"
+    ],
+    "html_url": "https://github.com/alirezahs81/persian-text-classification",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T15:23:47Z",
+    "updated_at": "2026-11-25T13:54:48Z",
+    "pushed_at": "2026-11-23T15:39:30Z"
+  },
+  {
+    "id": 1471379024,
+    "name": "Document-Q-A-Tutor-RAG-with-a-Self-Built-Knowledge-Base",
+    "full_name": "Ajinkya8472/Document-Q-A-Tutor-RAG-with-a-Self-Built-Knowledge-Base",
+    "owner": {
+      "login": "Ajinkya8472",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168283796?v=4"
+    },
+    "description": "Local RAG tutor that answers only from your documents, cites sources, and refuses when the answer isn't there. Qwen2.5-1.5B with hybrid retrieval (MiniLM + TF-IDF) over a self-built 97-document Gen-AI knowledge base, plus a generated Q&A benchmark. Final-year Generative AI project.",
+    "topics": [
+      "generative-ai",
+      "gradio",
+      "hallucination",
+      "huggingface",
+      "llm",
+      "nlp",
+      "python",
+      "pytorch",
+      "question-answering",
+      "qwen",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "sentence-transformers"
+    ],
+    "html_url": "https://github.com/Ajinkya8472/Document-Q-A-Tutor-RAG-with-a-Self-Built-Knowledge-Base",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-25T06:44:19Z",
+    "updated_at": "2026-11-25T07:23:14Z",
+    "pushed_at": "2026-11-25T07:11:12Z"
+  },
+  {
+    "id": 1464978904,
+    "name": "awesome-ai-indonesia",
+    "full_name": "Akbar-Lab-droid/awesome-ai-indonesia",
+    "owner": {
+      "login": "Akbar-Lab-droid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198084004?v=4"
+    },
+    "description": "Awesome AI Indonesia — daftar kurasi ekosistem AI Indonesia: model bahasa, dataset, komunitas, kursus, dan tools.",
+    "topics": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "bahasa-indonesia",
+      "deep-learning",
+      "indonesia",
+      "llm",
+      "machine-learning",
+      "nlp"
+    ],
+    "html_url": "https://github.com/Akbar-Lab-droid/awesome-ai-indonesia",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-20T04:31:17Z",
+    "updated_at": "2026-11-20T04:55:42Z",
+    "pushed_at": "2026-11-20T04:59:52Z"
+  },
+  {
+    "id": 1468069009,
+    "name": "EvidenceTruth",
+    "full_name": "renaissancenath/EvidenceTruth",
+    "owner": {
+      "login": "renaissancenath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147902427?v=4"
+    },
+    "description": "Checks AI answers against real sources: every claim gets a verdict and the exact source sentence. 72.7% on SciFact. Web app, Chrome extension, Windows app.",
+    "topics": [
+      "chrome-extension",
+      "docker",
+      "electron",
+      "fact-checking",
+      "fastapi",
+      "machine-learning",
+      "nlp",
+      "postgresql",
+      "python",
+      "pytorch",
+      "react",
+      "transformers",
+      "typescript"
+    ],
+    "html_url": "https://github.com/renaissancenath/EvidenceTruth",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T23:04:41Z",
+    "updated_at": "2026-11-25T23:51:51Z",
+    "pushed_at": "2026-11-25T22:15:29Z"
+  },
+  {
+    "id": 1465057075,
+    "name": "Finish-The-Lyric",
+    "full_name": "asad-exo/Finish-The-Lyric",
+    "owner": {
+      "login": "asad-exo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45867969?v=4"
+    },
+    "description": "Fine-tuning GPT-2 to finish rock songs: it writes a song’s last lines from the ones before. It’s tested against the real endings, plain GPT-2 and a repeat-the-chorus baseline. Includes code to prepare the data, train, evaluate and generate.",
+    "topics": [
+      "bleu-score",
+      "fine-tuning",
+      "gpt-2",
+      "hugging-face",
+      "language-model",
+      "lyrics-generation",
+      "natural-language-processing",
+      "nlp",
+      "nucleus-sampling",
+      "pytorch",
+      "song-lyrics",
+      "text-generation",
+      "transformers"
+    ],
+    "html_url": "https://github.com/asad-exo/Finish-The-Lyric",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-20T06:15:35Z",
+    "updated_at": "2026-11-20T07:28:07Z",
+    "pushed_at": "2026-11-20T06:34:48Z"
+  },
+  {
+    "id": 1471396565,
+    "name": "duxing",
+    "full_name": "wushiyi105-jpg/duxing",
+    "owner": {
+      "login": "wushiyi105-jpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230104589?v=4"
+    },
+    "description": "读行:把一本书的正文丢进去,拿回带原文出处的核心观点、读书笔记与思维导图大纲。纯标准库 CLI + Web,支持 DeepSeek 等 OpenAI 兼容模型与离线规则兜底。",
+    "topics": [
+      "agent",
+      "chinese",
+      "cli",
+      "deepseek",
+      "llm",
+      "nlp",
+      "python",
+      "reading-notes",
+      "study-tools",
+      "text-mining"
+    ],
+    "html_url": "https://github.com/wushiyi105-jpg/duxing",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 5,
+    "created_at": "2026-11-25T07:01:51Z",
+    "updated_at": "2026-11-25T08:51:37Z",
+    "pushed_at": "2026-11-25T08:51:28Z"
+  },
+  {
+    "id": 1468203982,
+    "name": "Factotum",
+    "full_name": "evilogre1112/Factotum",
+    "owner": {
+      "login": "evilogre1112",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186918272?v=4"
+    },
+    "description": "Khôi phục tiếng Việt gõ nhanh (không dấu, viết tắt, thiếu từ, lỗi chính tả, Telex) thành câu chuẩn; chạy nhanh, offline và tự học từ chính tài liệu của bạn.",
+    "topics": [
+      "diacritics-restoration",
+      "legal-tech",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "spell-correction",
+      "text-normalization",
+      "vietnamese-nlp"
+    ],
+    "html_url": "https://github.com/evilogre1112/Factotum",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T02:40:12Z",
+    "updated_at": "2026-11-26T01:43:28Z",
+    "pushed_at": "2026-11-25T12:27:30Z"
+  },
+  {
+    "id": 1472540051,
+    "name": "dl-research-library",
+    "full_name": "Sayem-Ahmed-Shayeed/dl-research-library",
+    "owner": {
+      "login": "Sayem-Ahmed-Shayeed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174593743?v=4"
+    },
+    "description": "Claude Code skill: 14 DL/CV/NLP/ML textbooks as a searchable library for theory-driven research, learning, and justifying ideas with citations",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-skills",
+      "computer-vision",
+      "deep-learning",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "research",
+      "textbooks"
+    ],
+    "html_url": "https://github.com/Sayem-Ahmed-Shayeed/dl-research-library",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-26T01:44:25Z",
+    "updated_at": "2026-11-26T01:52:32Z",
+    "pushed_at": "2026-11-26T01:55:54Z"
+  },
+  {
+    "id": 1464285415,
+    "name": "fstt-dl-lab3-nlp-pytorch",
+    "full_name": "yassinekamouss/fstt-dl-lab3-nlp-pytorch",
+    "owner": {
+      "login": "yassinekamouss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156694023?v=4"
+    },
+    "description": "PyTorch NLP Deep Learning Lab (CI LSI - FST Tangier): Arabic Wikipedia scraping & text classification using RNN, BiRNN, GRU, and LSTM, plus GPT-2 fine-tuning for text generation.",
+    "topics": [
+      "beautifulsoup4",
+      "cuda",
+      "deep-learning",
+      "fintune",
+      "gru",
+      "lstm",
+      "nlp",
+      "python",
+      "pytorch",
+      "rnn",
+      "scrapping-python",
+      "transformers"
+    ],
+    "html_url": "https://github.com/yassinekamouss/fstt-dl-lab3-nlp-pytorch",
+    "stargazers_count": 1,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T14:54:34Z",
+    "updated_at": "2026-11-19T20:25:21Z",
+    "pushed_at": "2026-11-19T20:05:16Z"
+  }
+]

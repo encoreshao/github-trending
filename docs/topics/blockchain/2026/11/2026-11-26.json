@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1470139331,
+    "name": "exchange",
+    "full_name": "muyu8848/exchange",
+    "owner": {
+      "login": "muyu8848",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86671018?v=4"
+    },
+    "description": "26年最新数字货币交易所，交易所源码，开源交易所，高仿火币HTX风格，digital exchange，bitcoin exchange，支持现货交易，永续合约，秒合约，C2C交易，闪兑，赚币理财，邀请返佣，多语言等功能",
+    "topics": [
+      "binance",
+      "blockchain",
+      "coinexchange"
+    ],
+    "html_url": "https://github.com/muyu8848/exchange",
+    "stargazers_count": 20,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-24T12:32:45Z",
+    "updated_at": "2026-11-25T07:57:09Z",
+    "pushed_at": "2026-11-24T17:45:37Z"
+  },
+  {
+    "id": 1465744980,
+    "name": "chainreconciler",
+    "full_name": "q133ss/chainreconciler",
+    "owner": {
+      "login": "q133ss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84626093?v=4"
+    },
+    "description": "Recover the outcome of an already-sent blockchain transaction from its chain id and hash.",
+    "topics": [
+      "blockchain",
+      "ethereum",
+      "finality",
+      "nodejs",
+      "reconciliation",
+      "rpc",
+      "sqlite",
+      "transaction",
+      "typescript",
+      "web3"
+    ],
+    "html_url": "https://github.com/q133ss/chainreconciler",
+    "stargazers_count": 11,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-20T18:00:53Z",
+    "updated_at": "2026-11-21T20:32:38Z",
+    "pushed_at": "2026-11-20T18:27:03Z"
+  },
+  {
+    "id": 1469076185,
+    "name": "Blockchain-js",
+    "full_name": "Moudjib16/Blockchain-js",
+    "owner": {
+      "login": "Moudjib16",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121437199?v=4"
+    },
+    "description": "A minimal peer-to-peer blockchain in Node.js: SHA-256 linked blocks, an Express HTTP API, and WebSocket node syncing with longest-chain consensus. Educational project.",
+    "topics": [
+      "blockchain",
+      "consensus",
+      "distributed-systems",
+      "educational",
+      "express",
+      "javascript",
+      "naivechain",
+      "nodejs",
+      "p2p",
+      "peer-to-peer",
+      "sha256",
+      "websocket"
+    ],
+    "html_url": "https://github.com/Moudjib16/Blockchain-js",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T17:20:22Z",
+    "updated_at": "2026-11-25T20:54:25Z",
+    "pushed_at": "2026-11-24T10:13:57Z"
+  },
+  {
+    "id": 1465175108,
+    "name": "hyperfabric-evolution",
+    "full_name": "Footloose9/hyperfabric-evolution",
+    "owner": {
+      "login": "Footloose9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222147377?v=4"
+    },
+    "description": "Open-source research lab for blockchain, AI agents, automation, security, privacy, cryptography, and communication protocols. Reproducible tests, synthetic evidence tools, and a manual read-only XRPL preview.",
+    "topics": [
+      "agent-interoperability",
+      "ai-agents",
+      "automation",
+      "blockchain",
+      "blockchain-forensics",
+      "communication-protocols",
+      "cross-chain",
+      "cryptography",
+      "ethereum",
+      "open-source",
+      "privacy",
+      "python",
+      "reproducible-research",
+      "security-research",
+      "software-provenance",
+      "synthetic-testing",
+      "wallet-interoperability",
+      "workflow-reliability",
+      "xahau",
+      "xrpl"
+    ],
+    "html_url": "https://github.com/Footloose9/hyperfabric-evolution",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 42,
+    "created_at": "2026-11-20T08:30:02Z",
+    "updated_at": "2026-11-22T07:34:38Z",
+    "pushed_at": "2026-11-25T08:52:51Z"
+  },
+  {
+    "id": 1464690229,
+    "name": "Syn-Wallet",
+    "full_name": "pentafcb/Syn-Wallet",
+    "owner": {
+      "login": "pentafcb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68836355?v=4"
+    },
+    "description": "A non-custodial, multi-chain crypto wallet that runs entirely in the browser. Your keys never leave your device.",
+    "topics": [
+      "blockchain",
+      "cryptocurrency",
+      "wallet",
+      "web3"
+    ],
+    "html_url": "https://github.com/pentafcb/Syn-Wallet",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T21:38:19Z",
+    "updated_at": "2026-11-25T11:23:16Z",
+    "pushed_at": "2026-11-25T07:34:45Z"
+  },
+  {
+    "id": 1467641816,
+    "name": "erasmus-credential-sharing",
+    "full_name": "SalvatoreFTartaglione/erasmus-credential-sharing",
+    "owner": {
+      "login": "SalvatoreFTartaglione",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151519479?v=4"
+    },
+    "description": "Privacy-preserving selective disclosure and revocation of academic credentials: W3C Verifiable Credentials & DIDs, salted Merkle proofs, X.509 PKI, signed smart-contract transactions on a simulated ledger. Threat model + attack test-suite",
+    "topics": [
+      "authentication",
+      "blockchain",
+      "cryptography",
+      "decentralized-identity",
+      "did",
+      "merkle-tree",
+      "pki",
+      "privacy",
+      "security",
+      "selective-disclosure",
+      "smart-contracts",
+      "threat-modeling",
+      "verifiable-credentials",
+      "w3c"
+    ],
+    "html_url": "https://github.com/SalvatoreFTartaglione/erasmus-credential-sharing",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T14:27:34Z",
+    "updated_at": "2026-11-22T17:07:30Z",
+    "pushed_at": "2026-11-22T14:31:14Z"
+  },
+  {
+    "id": 1465808959,
+    "name": "mcp",
+    "full_name": "duneanalytics/mcp",
+    "owner": {
+      "login": "duneanalytics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43092013?v=4"
+    },
+    "description": "The Dune MCP",
+    "topics": [
+      "blockchain",
+      "mcp",
+      "model-context-protocol",
+      "onchain-data"
+    ],
+    "html_url": "https://github.com/duneanalytics/mcp",
+    "stargazers_count": 2,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-20T19:12:34Z",
+    "updated_at": "2026-11-23T10:44:38Z",
+    "pushed_at": "2026-11-23T13:28:42Z"
+  },
+  {
+    "id": 1467779756,
+    "name": "qatrol-node",
+    "full_name": "Qatrol/qatrol-node",
+    "owner": {
+      "login": "Qatrol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69322615?v=4"
+    },
+    "description": "Qatrol Coin (QTR): блокчейн, майнер, пул и веб-кошелёк на чистом Node.js",
+    "topics": [
+      "blockchain",
+      "cryptocurrency",
+      "javascript",
+      "mining",
+      "mining-pool",
+      "nodejs",
+      "p2p",
+      "proof-of-work"
+    ],
+    "html_url": "https://github.com/Qatrol/qatrol-node",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T16:55:06Z",
+    "updated_at": "2026-11-23T07:05:02Z",
+    "pushed_at": "2026-11-23T07:04:49Z"
+  },
+  {
+    "id": 1467670144,
+    "name": "ant-chain",
+    "full_name": "AntChainL3/ant-chain",
+    "owner": {
+      "login": "AntChainL3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/359784540?v=4"
+    },
+    "description": "ANT CHAIN: an independent Arbitrum Layer 3 on Robinhood Chain where gas is paid in the ANT Stock Token",
+    "topics": [
+      "arbitrum",
+      "arbitrum-orbit",
+      "blockchain",
+      "ethereum",
+      "evm",
+      "layer3",
+      "robinhood-chain",
+      "rollup"
+    ],
+    "html_url": "https://github.com/AntChainL3/ant-chain",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T14:57:40Z",
+    "updated_at": "2026-11-23T11:42:28Z",
+    "pushed_at": "2026-11-24T06:05:14Z"
+  },
+  {
+    "id": 1470314480,
+    "name": "dems",
+    "full_name": "jeet07-could/dems",
+    "owner": {
+      "login": "jeet07-could",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229795153?v=4"
+    },
+    "description": "DEMS (Digital Evidence Mission) — National Digital Evidence Management, Forensic Chain-of-Custody & Consortium Blockchain Platform with Gemini AI Intelligence",
+    "topics": [
+      "blockchain",
+      "cybersecurity",
+      "digital-forensics",
+      "evidence-management",
+      "gemini-api"
+    ],
+    "html_url": "https://github.com/jeet07-could/dems",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-24T14:53:16Z",
+    "updated_at": "2026-11-24T16:47:04Z",
+    "pushed_at": "2026-11-24T16:00:30Z"
+  },
+  {
+    "id": 1464162065,
+    "name": "sthir",
+    "full_name": "mashmune/sthir",
+    "owner": {
+      "login": "mashmune",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257654141?v=4"
+    },
+    "description": "Experimental proof-of-work coin and wallet for phones (Termux). Research project, not an investment.",
+    "topics": [
+      "blockchain",
+      "experimental",
+      "python",
+      "termux"
+    ],
+    "html_url": "https://github.com/mashmune/sthir",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T13:10:30Z",
+    "updated_at": "2026-11-19T14:34:05Z",
+    "pushed_at": "2026-11-21T19:26:25Z"
+  },
+  {
+    "id": 1466524478,
+    "name": "crypto-tracker",
+    "full_name": "Ubaidullah71/crypto-tracker",
+    "owner": {
+      "login": "Ubaidullah71",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81645877?v=4"
+    },
+    "description": "Self-hosted Discord bot that tracks crypto wallets, payments and profit/loss.",
+    "topics": [
+      "blockchain",
+      "crypto",
+      "cryptocurrency",
+      "discord",
+      "notification",
+      "portfolio",
+      "self-hosted",
+      "transactions",
+      "typescript",
+      "wallet-tracker"
+    ],
+    "html_url": "https://github.com/Ubaidullah71/crypto-tracker",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T12:32:06Z",
+    "updated_at": "2026-11-21T13:05:02Z",
+    "pushed_at": "2026-11-21T12:33:24Z"
+  },
+  {
+    "id": 1465176101,
+    "name": "ChainScanner",
+    "full_name": "GMWalletApp/ChainScanner",
+    "owner": {
+      "login": "GMWalletApp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259495730?v=4"
+    },
+    "description": "A self-hosted blockchain scanner that delivers matching transactions to applications watching addresses across 18 networks.",
+    "topics": [
+      "address-monitoring",
+      "blockchain",
+      "blockchain-scanner",
+      "golang",
+      "multichain",
+      "rpc"
+    ],
+    "html_url": "https://github.com/GMWalletApp/ChainScanner",
+    "stargazers_count": 1,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "created_at": "2026-11-20T08:31:03Z",
+    "updated_at": "2026-11-25T07:38:36Z",
+    "pushed_at": "2026-11-25T05:11:53Z"
+  },
+  {
+    "id": 1467033581,
+    "name": "bvt-skills",
+    "full_name": "bitvault-developers/bvt-skills",
+    "owner": {
+      "login": "bitvault-developers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270146618?v=4"
+    },
+    "description": "Free Claude Code plugins: language switcher + full i18n for any app, longer Claude usage, and 50+ crypto app, wallet and chain playbooks.",
+    "topics": [
+      "agent-skills",
+      "anthropic",
+      "blockchain",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-plugins",
+      "claude-code-skills",
+      "claude-skills",
+      "crypto",
+      "flutter",
+      "i18n",
+      "localization",
+      "nextjs",
+      "react-native",
+      "solidity",
+      "token-optimization",
+      "translation",
+      "wallet"
+    ],
+    "html_url": "https://github.com/bitvault-developers/bvt-skills",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T23:12:53Z",
+    "updated_at": "2026-11-22T05:41:09Z",
+    "pushed_at": "2026-11-21T23:45:38Z"
+  },
+  {
+    "id": 1470962880,
+    "name": "gnogolf",
+    "full_name": "alexiscolin/gnogolf",
+    "owner": {
+      "login": "alexiscolin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7622257?v=4"
+    },
+    "description": "A 3D mini-golf game on gno.land. The holes live on-chain, and so does the physics: the chain plays every shot.",
+    "topics": [
+      "blockchain",
+      "game",
+      "gnolang",
+      "react",
+      "threejs"
+    ],
+    "html_url": "https://github.com/alexiscolin/gnogolf",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-24T23:01:07Z",
+    "updated_at": "2026-11-25T23:01:28Z",
+    "pushed_at": "2026-11-25T05:00:51Z"
+  },
+  {
+    "id": 1469306522,
+    "name": "chainforge",
+    "full_name": "Nayeem131136/chainforge",
+    "owner": {
+      "login": "Nayeem131136",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198229419?v=4"
+    },
+    "description": "Educational Bitcoin-style blockchain with proof-of-work mining, ECC wallets, UTXO transactions and a real-time web dashboard.",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "cryptocurrency",
+      "ecdsa",
+      "educational",
+      "framer-motion",
+      "nextjs",
+      "proof-of-work",
+      "python",
+      "react",
+      "rest-api",
+      "utxo"
+    ],
+    "html_url": "https://github.com/Nayeem131136/chainforge",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T21:03:57Z",
+    "updated_at": "2026-11-25T10:14:39Z",
+    "pushed_at": "2026-11-24T20:27:16Z"
+  },
+  {
+    "id": 1466878467,
+    "name": "solana-fast-rpc",
+    "full_name": "LevCodeLab/solana-fast-rpc",
+    "owner": {
+      "login": "LevCodeLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161159741?v=4"
+    },
+    "description": "Fastest open-source Solana low-latency engine: 200ms slot clock, Yellowstone gRPC combiner & zero-copy bus for HFT and trading bots in pure Rust.",
+    "topics": [
+      "blockchain",
+      "consensus",
+      "geyser",
+      "hft",
+      "low-latency",
+      "mev",
+      "open-source",
+      "rpc",
+      "rust",
+      "sniper-bot",
+      "solana",
+      "tokio",
+      "trading-bot"
+    ],
+    "html_url": "https://github.com/LevCodeLab/solana-fast-rpc",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T19:19:13Z",
+    "updated_at": "2026-11-21T21:43:19Z",
+    "pushed_at": "2026-11-21T21:30:37Z"
+  },
+  {
+    "id": 1471454684,
+    "name": "hono-address-validator",
+    "full_name": "zhangglnuo-art/hono-address-validator",
+    "owner": {
+      "login": "zhangglnuo-art",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267582228?v=4"
+    },
+    "description": "Zero-dependency Hono middleware for validating multi-chain cryptocurrency wallet address syntax, checksums, mandatory Memo/Destination Tag routing rules, and vanity address-poisoning defense across 46+ blockchains.",
+    "topics": [
+      "address-validator",
+      "blockchain",
+      "cloudflare-workers",
+      "hono",
+      "hono-middleware",
+      "web3-security"
+    ],
+    "html_url": "https://github.com/zhangglnuo-art/hono-address-validator",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-25T08:00:36Z",
+    "updated_at": "2026-11-25T08:56:22Z",
+    "pushed_at": "2026-11-25T08:02:31Z"
+  },
+  {
+    "id": 1464670068,
+    "name": "Petoron-Domain-Name",
+    "full_name": "01alekseev/Petoron-Domain-Name",
+    "owner": {
+      "login": "01alekseev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214395133?v=4"
+    },
+    "description": "Decentralized domain name protocol on Ethereum",
+    "topics": [
+      "blockchain",
+      "decentralized-identity",
+      "domain",
+      "domain-names",
+      "ethereum",
+      "nft",
+      "petoron",
+      "web3"
+    ],
+    "html_url": "https://github.com/01alekseev/Petoron-Domain-Name",
+    "stargazers_count": 1,
+    "language": "Solidity",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-19T21:13:35Z",
+    "updated_at": "2026-11-19T21:29:08Z",
+    "pushed_at": "2026-11-25T22:08:19Z"
+  },
+  {
+    "id": 1465444484,
+    "name": "Trackfoots",
+    "full_name": "Sahil711925/Trackfoots",
+    "owner": {
+      "login": "Sahil711925",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105667339?v=4"
+    },
+    "description": "Tamper-evident security logs: hash-chained, Merkle-sealed, anchored on-chain. Built for CERT-In 180-day retention and 6-hour reporting. 183 tests.",
+    "topics": [
+      "audit-logs",
+      "blockchain",
+      "cert-in",
+      "hackathon",
+      "merkle-tree",
+      "nodejs",
+      "quai",
+      "security",
+      "solidity",
+      "tamper-evident"
+    ],
+    "html_url": "https://github.com/Sahil711925/Trackfoots",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-20T13:09:35Z",
+    "updated_at": "2026-11-21T06:02:46Z",
+    "pushed_at": "2026-11-21T08:52:40Z"
+  }
+]
