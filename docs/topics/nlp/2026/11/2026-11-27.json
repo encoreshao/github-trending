@@ -1,0 +1,568 @@
+[
+  {
+    "id": 1467990848,
+    "name": "tinyfix-ar",
+    "full_name": "y0u-0/tinyfix-ar",
+    "owner": {
+      "login": "y0u-0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93004494?v=4"
+    },
+    "description": "Fixes Arabic spelling as you type, in the browser. A 9 MB model for hamza, taa marbuta, alif maqsura and sound-alike mistakes.",
+    "topics": [
+      "arabic",
+      "autocorrect",
+      "browser",
+      "nlp",
+      "onnx",
+      "spelling-correction"
+    ],
+    "html_url": "https://github.com/y0u-0/tinyfix-ar",
+    "stargazers_count": 16,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T21:08:42Z",
+    "updated_at": "2026-11-26T02:51:30Z",
+    "pushed_at": "2026-11-22T23:06:58Z"
+  },
+  {
+    "id": 1470028369,
+    "name": "fasttext",
+    "full_name": "slavabobik/fasttext",
+    "owner": {
+      "login": "slavabobik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4003346?v=4"
+    },
+    "description": "fastText inference & language identification in pure Go — no cgo, bit-identical to C++ fastText",
+    "topics": [
+      "fasttext",
+      "go",
+      "golang",
+      "language-detection",
+      "language-identification",
+      "nlp",
+      "no-cgo",
+      "pure-go",
+      "text-classification"
+    ],
+    "html_url": "https://github.com/slavabobik/fasttext",
+    "stargazers_count": 8,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-24T10:54:17Z",
+    "updated_at": "2026-11-26T11:17:23Z",
+    "pushed_at": "2026-11-24T14:15:05Z"
+  },
+  {
+    "id": 1472870347,
+    "name": "indic-shift",
+    "full_name": "Chariot-AI/indic-shift",
+    "owner": {
+      "login": "Chariot-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219292338?v=4"
+    },
+    "description": "Indic Shift tokenizer",
+    "topics": [
+      "bpe",
+      "indic",
+      "multilingual",
+      "nlp",
+      "tokenizer"
+    ],
+    "html_url": "https://github.com/Chariot-AI/indic-shift",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-26T08:22:05Z",
+    "updated_at": "2026-11-26T19:29:42Z",
+    "pushed_at": "2026-11-26T08:22:11Z"
+  },
+  {
+    "id": 1466347362,
+    "name": "Urdu-MiniGPT",
+    "full_name": "atique-ahmad-01/Urdu-MiniGPT",
+    "owner": {
+      "login": "atique-ahmad-01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65412984?v=4"
+    },
+    "description": "A tiny GPT that writes Urdu, trained from scratch.",
+    "topics": [
+      "gpt",
+      "nlp",
+      "pytorch",
+      "streamlit",
+      "urdu"
+    ],
+    "html_url": "https://github.com/atique-ahmad-01/Urdu-MiniGPT",
+    "stargazers_count": 3,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T08:40:03Z",
+    "updated_at": "2026-11-23T09:49:56Z",
+    "pushed_at": "2026-11-21T09:54:47Z"
+  },
+  {
+    "id": 1473422242,
+    "name": "tokensqueeze",
+    "full_name": "makhs1923-blip/tokensqueeze",
+    "owner": {
+      "login": "makhs1923-blip",
+      "avatar_url": "https://avatars.githubusercontent.com/u/355250268?v=4"
+    },
+    "description": "Deterministic, model-free Python library and CLI for compressing LLM prompts and trimming verbose reasoning output. Uses a 4-stage pipeline with tiktoken and Snowball stemming to cut token usage while keeping code, URLs, numbers, and constraints intact.",
+    "topics": [
+      "cli",
+      "llm",
+      "nlp",
+      "prompt-compression",
+      "python",
+      "tiktoken",
+      "token-optimization"
+    ],
+    "html_url": "https://github.com/makhs1923-blip/tokensqueeze",
+    "stargazers_count": 2,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-26T16:38:36Z",
+    "updated_at": "2026-11-26T17:15:47Z",
+    "pushed_at": "2026-11-26T17:31:16Z"
+  },
+  {
+    "id": 1466893718,
+    "name": "telecom-ticket-triage",
+    "full_name": "Parinajain15/telecom-ticket-triage",
+    "owner": {
+      "login": "Parinajain15",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254726465?v=4"
+    },
+    "description": "NLP-powered REST API microservice (FastAPI + scikit-learn + SQLite) that automatically classifies telecom customer complaints by department and urgency.",
+    "topics": [
+      "fastapi",
+      "machine-learning",
+      "nlp",
+      "python",
+      "rest-api",
+      "scikit-learn",
+      "sqlite"
+    ],
+    "html_url": "https://github.com/Parinajain15/telecom-ticket-triage",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T19:38:54Z",
+    "updated_at": "2026-11-21T21:12:23Z",
+    "pushed_at": "2026-11-21T21:01:44Z"
+  },
+  {
+    "id": 1471379024,
+    "name": "Document-Q-A-Tutor-RAG-with-a-Self-Built-Knowledge-Base",
+    "full_name": "Ajinkya8472/Document-Q-A-Tutor-RAG-with-a-Self-Built-Knowledge-Base",
+    "owner": {
+      "login": "Ajinkya8472",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168283796?v=4"
+    },
+    "description": "Local RAG tutor that answers only from your documents, cites sources, and refuses when the answer isn't there. Qwen2.5-1.5B with hybrid retrieval (MiniLM + TF-IDF) over a self-built 97-document Gen-AI knowledge base, plus a generated Q&A benchmark. Final-year Generative AI project.",
+    "topics": [
+      "generative-ai",
+      "gradio",
+      "hallucination",
+      "huggingface",
+      "llm",
+      "nlp",
+      "python",
+      "pytorch",
+      "question-answering",
+      "qwen",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "sentence-transformers"
+    ],
+    "html_url": "https://github.com/Ajinkya8472/Document-Q-A-Tutor-RAG-with-a-Self-Built-Knowledge-Base",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-25T06:44:19Z",
+    "updated_at": "2026-11-25T07:23:14Z",
+    "pushed_at": "2026-11-25T07:11:12Z"
+  },
+  {
+    "id": 1465458804,
+    "name": "hateoff",
+    "full_name": "devgabrielbarreto/hateoff",
+    "owner": {
+      "login": "devgabrielbarreto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114414657?v=4"
+    },
+    "description": "Extensão para navegadores Chromium integrada a uma API Python de Machine Learning (NLP + Naive Bayes) para detectar e motivar a denúncia de discursos racistas no Twitter.",
+    "topics": [
+      "chrome-extension",
+      "flask",
+      "machine-learning",
+      "nlkt",
+      "nlp",
+      "python",
+      "scikit-learn",
+      "social-impact"
+    ],
+    "html_url": "https://github.com/devgabrielbarreto/hateoff",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-20T13:23:47Z",
+    "updated_at": "2026-11-20T14:33:35Z",
+    "pushed_at": "2026-11-20T16:35:55Z"
+  },
+  {
+    "id": 1466643864,
+    "name": "gdg-hackathon",
+    "full_name": "Nishant-Chaudhari-Dev/gdg-hackathon",
+    "owner": {
+      "login": "Nishant-Chaudhari-Dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291668623?v=4"
+    },
+    "description": "SentinelDesk: multilingual incident triage, escalation gate and grounded RAG reply copilot on Google Cloud (GDG Cloud Boston × Northeastern hackathon)",
+    "topics": [
+      "cloud-run",
+      "faiss",
+      "gemini",
+      "google-cloud",
+      "hackathon",
+      "helpdesk",
+      "incident-management",
+      "multilingual",
+      "nlp",
+      "rag"
+    ],
+    "html_url": "https://github.com/Nishant-Chaudhari-Dev/gdg-hackathon",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T14:49:33Z",
+    "updated_at": "2026-11-24T16:55:10Z",
+    "pushed_at": "2026-11-24T16:55:53Z"
+  },
+  {
+    "id": 1467585907,
+    "name": "clinical-cohort-ai-platform",
+    "full_name": "dsugurtuna/clinical-cohort-ai-platform",
+    "owner": {
+      "login": "dsugurtuna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202813701?v=4"
+    },
+    "description": "Reference clinical AI & health-data platform (4 services, synthetic data): clinical NLP, fail-closed visual PII audit, ingestion, Kubernetes & Terraform.",
+    "topics": [
+      "clinical-ai",
+      "docker",
+      "fastapi",
+      "health-data",
+      "kubernetes",
+      "nlp",
+      "python",
+      "terraform"
+    ],
+    "html_url": "https://github.com/dsugurtuna/clinical-cohort-ai-platform",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T13:25:46Z",
+    "updated_at": "2026-11-23T23:36:14Z",
+    "pushed_at": "2026-11-23T01:43:17Z"
+  },
+  {
+    "id": 1469562515,
+    "name": "viettelairace_medical_ontology",
+    "full_name": "huynhnhathao/viettelairace_medical_ontology",
+    "owner": {
+      "login": "huynhnhathao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54271806?v=4"
+    },
+    "description": "LangGraph + LLM pipeline for Vietnamese clinical NER, assertion detection and ICD-10/RxNorm linking (Viettel AI Race)",
+    "topics": [
+      "entity-linking",
+      "icd-10",
+      "information-extraction",
+      "langgraph",
+      "llm",
+      "medical-nlp",
+      "nlp",
+      "rxnorm",
+      "vietnamese"
+    ],
+    "html_url": "https://github.com/huynhnhathao/viettelairace_medical_ontology",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-24T02:38:11Z",
+    "updated_at": "2026-11-24T03:18:12Z",
+    "pushed_at": "2026-11-24T03:11:20Z"
+  },
+  {
+    "id": 1471364770,
+    "name": "bahasa-melayu-skill",
+    "full_name": "aizadshafeez/bahasa-melayu-skill",
+    "owner": {
+      "login": "aizadshafeez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36061041?v=4"
+    },
+    "description": "Agent skill for natural Malaysian Malay: DBP-standard baku, everyday pasar, and a Malay humanizer pass",
+    "topics": [
+      "agent-skills",
+      "bahasa-melayu",
+      "claude-code",
+      "claude-skills",
+      "localization",
+      "malay",
+      "malaysia",
+      "nlp"
+    ],
+    "html_url": "https://github.com/aizadshafeez/bahasa-melayu-skill",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-25T06:28:36Z",
+    "updated_at": "2026-11-26T11:11:43Z",
+    "pushed_at": "2026-11-25T21:12:40Z"
+  },
+  {
+    "id": 1466748813,
+    "name": "sensus-llmbench",
+    "full_name": "luke0485/sensus-llmbench",
+    "owner": {
+      "login": "luke0485",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310069962?v=4"
+    },
+    "description": "SENSUS · LLM 大语言模型复杂情绪与意图变化测试题库：45 道中文多轮对话与图像意图题，追踪情绪轨迹、判定真实意图，支持逐题评分与新旧对比。",
+    "topics": [
+      "ai",
+      "benchmark",
+      "benchmark-dataset",
+      "chinese",
+      "chinese-nlp",
+      "conversational-ai",
+      "dataset",
+      "dialogue",
+      "emotion-recognition",
+      "empathy",
+      "evaluation",
+      "human-ai-interaction",
+      "intent-recognition",
+      "llm",
+      "llm-evaluation",
+      "machine-learning",
+      "model-evaluation",
+      "nlp",
+      "question-answering"
+    ],
+    "html_url": "https://github.com/luke0485/sensus-llmbench",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T16:41:38Z",
+    "updated_at": "2026-11-22T05:17:15Z",
+    "pushed_at": "2026-11-21T18:32:40Z"
+  },
+  {
+    "id": 1466285867,
+    "name": "hinglish-sentiment",
+    "full_name": "abhaychoudhary-dsai/hinglish-sentiment",
+    "owner": {
+      "login": "abhaychoudhary-dsai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279559660?v=4"
+    },
+    "description": "Sentiment analysis for Hinglish (Hindi-English) text, with word-level explanations.",
+    "topics": [
+      "hinglish",
+      "nlp",
+      "python",
+      "sentiment-analysis"
+    ],
+    "html_url": "https://github.com/abhaychoudhary-dsai/hinglish-sentiment",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T07:13:46Z",
+    "updated_at": "2026-11-22T13:36:47Z",
+    "pushed_at": "2026-11-22T06:14:16Z"
+  },
+  {
+    "id": 1467346407,
+    "name": "Mail-Summarisation-Python_AI",
+    "full_name": "Subiksha29/Mail-Summarisation-Python_AI",
+    "owner": {
+      "login": "Subiksha29",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144464688?v=4"
+    },
+    "description": "AI- based Mail Summarisation and Automatic Attachment Download using Python",
+    "topics": [
+      "flask",
+      "mailautomation",
+      "mailsummary",
+      "nlp",
+      "python"
+    ],
+    "html_url": "https://github.com/Subiksha29/Mail-Summarisation-Python_AI",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T08:11:43Z",
+    "updated_at": "2026-11-22T15:10:38Z",
+    "pushed_at": "2026-11-22T08:30:17Z"
+  },
+  {
+    "id": 1468481840,
+    "name": "thesis-workbench",
+    "full_name": "Solomon1022/thesis-workbench",
+    "owner": {
+      "login": "Solomon1022",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292516956?v=4"
+    },
+    "description": "🎓 AI-powered desktop app for the full undergraduate thesis pipeline: topic selection, literature review with real-source verification, proposal generation, data analysis, and writing. Local-first, anti-hallucination. Built with Electron + React + TypeScript.",
+    "topics": [
+      "ai",
+      "desktop-app",
+      "documentation",
+      "education",
+      "electron",
+      "knowledge-graph",
+      "literature",
+      "machine-learning",
+      "nlp",
+      "productivity",
+      "react",
+      "research",
+      "typescript",
+      "writing"
+    ],
+    "html_url": "https://github.com/Solomon1022/thesis-workbench",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T08:22:40Z",
+    "updated_at": "2026-11-24T01:39:02Z",
+    "pushed_at": "2026-11-23T08:28:20Z"
+  },
+  {
+    "id": 1469014986,
+    "name": "askdocs",
+    "full_name": "24f2006816/askdocs",
+    "owner": {
+      "login": "24f2006816",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232079021?v=4"
+    },
+    "description": "RAG chatbot with page-level citations",
+    "topics": [
+      "chatbot",
+      "faiss",
+      "fastapi",
+      "huggingface-spaces",
+      "llm",
+      "nlp",
+      "rag",
+      "sentence-transformers"
+    ],
+    "html_url": "https://github.com/24f2006816/askdocs",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-23T16:27:21Z",
+    "updated_at": "2026-11-24T01:38:19Z",
+    "pushed_at": "2026-11-24T01:57:13Z"
+  },
+  {
+    "id": 1466997746,
+    "name": "documind-rag-assistant",
+    "full_name": "Parinajain15/documind-rag-assistant",
+    "owner": {
+      "login": "Parinajain15",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254726465?v=4"
+    },
+    "description": "Grounded PDF Q&A assistant (RAG) using hybrid word/character TF-IDF retrieval, Groq LLM, page-level source citations, and hallucination guardrails.",
+    "topics": [
+      "groq",
+      "information-retrieval",
+      "llm",
+      "nlp",
+      "python",
+      "rag",
+      "scikit-learn",
+      "streamlit"
+    ],
+    "html_url": "https://github.com/Parinajain15/documind-rag-assistant",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-21T22:11:40Z",
+    "updated_at": "2026-11-21T22:36:43Z",
+    "pushed_at": "2026-11-21T22:34:55Z"
+  },
+  {
+    "id": 1469678334,
+    "name": "sms-spam-classifier",
+    "full_name": "rai7anshu-commits/sms-spam-classifier",
+    "owner": {
+      "login": "rai7anshu-commits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289223222?v=4"
+    },
+    "description": "Machine learning project that classifies SMS messages as spam or not spam using TF-IDF, Naive Bayes, and Logistic Regression in Python.",
+    "topics": [
+      "machine-learning",
+      "nlp",
+      "python",
+      "scikit-learn",
+      "spam-detection",
+      "text-classification",
+      "tf-idf"
+    ],
+    "html_url": "https://github.com/rai7anshu-commits/sms-spam-classifier",
+    "stargazers_count": 1,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-24T05:08:10Z",
+    "updated_at": "2026-11-24T05:36:51Z",
+    "pushed_at": "2026-11-24T05:35:28Z"
+  },
+  {
+    "id": 1467497388,
+    "name": "benepar-rs",
+    "full_name": "cryply/benepar-rs",
+    "owner": {
+      "login": "cryply",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36797566?v=4"
+    },
+    "description": "Rust port of the Berkeley Neural Parser (benepar): constituency parsing with k-best trees",
+    "topics": [
+      "benepar",
+      "constituency-parsing",
+      "nlp",
+      "parser",
+      "rust"
+    ],
+    "html_url": "https://github.com/cryply/benepar-rs",
+    "stargazers_count": 1,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "created_at": "2026-11-22T11:38:48Z",
+    "updated_at": "2026-11-22T15:43:44Z",
+    "pushed_at": "2026-11-26T18:59:54Z"
+  }
+]
